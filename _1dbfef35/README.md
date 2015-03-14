@@ -108,41 +108,6 @@ fac n = product [1..n]
 
 出典: [The Evolution of a Haskell Programmer](http://www.willamette.edu/~fruehr/haskell/evolution.html)
 
-##IO Monad
-
-```haskell
-module MyIO (MyIO, myPutChar, myGetChar, convert) where
-
-type Input = String
-type Remainder = String
-type Output = String
-
-data MyIO a = MyIO (Input -> (a, Remainder, Output))
-
-apply :: MyIO a -> Input -> (a, Remainder, Output)
-apply (MyIO f) inp = f inp
-
-myPutChar :: Char -> MyIO ()
-myPutChar c = MyIO (\inp -> ((), inp, [c]))
-
-myGetChar :: MyIO Char
-myGetChar = MyIO (\(ch:rem) -> (ch, rem, ""))
-
-instance Monad MyIO where
-  return x = MyIO (\inp -> (x, inp, ""))
-  m >>= k  = MyIO (\inp ->
-               let (x, rem1, out1) = apply m inp in
-               let (y, rem2, out2) = apply (k x) rem1 in
-               (y, rem2, out1 ++ out2))
-
-convert :: MyIO () -> IO ()
-convert m = interact (\inp ->
-              let (x, rem, out) = apply m inp in
-              out)
-```
-
-出典: [18- Haskell course 21/Nov/2011 IO and Monads 1](https://www.youtube.com/watch?v=XovXFGWPSRE)
-
 ##関数合成
 > We shall suppose that functional application is more binding than any other operator, so f x ++ y means (f x) ++ y and not f (x ++ y).
 
@@ -330,6 +295,41 @@ instance Monad (State s) where
 ```
 
 * [Haskellでスタックを利用した加減乗除の計算機を作ってみる](http://kzfm.github.io/laskell/stackCalc.html)
+
+###IO Monad
+
+```haskell
+module MyIO (MyIO, myPutChar, myGetChar, convert) where
+
+type Input = String
+type Remainder = String
+type Output = String
+
+data MyIO a = MyIO (Input -> (a, Remainder, Output))
+
+apply :: MyIO a -> Input -> (a, Remainder, Output)
+apply (MyIO f) inp = f inp
+
+myPutChar :: Char -> MyIO ()
+myPutChar c = MyIO (\inp -> ((), inp, [c]))
+
+myGetChar :: MyIO Char
+myGetChar = MyIO (\(ch:rem) -> (ch, rem, ""))
+
+instance Monad MyIO where
+  return x = MyIO (\inp -> (x, inp, ""))
+  m >>= k  = MyIO (\inp ->
+               let (x, rem1, out1) = apply m inp in
+               let (y, rem2, out2) = apply (k x) rem1 in
+               (y, rem2, out1 ++ out2))
+
+convert :: MyIO () -> IO ()
+convert m = interact (\inp ->
+              let (x, rem, out) = apply m inp in
+              out)
+```
+
+出典: [18- Haskell course 21/Nov/2011 IO and Monads 1](https://www.youtube.com/watch?v=XovXFGWPSRE)
 
 ###Free Monad
 * [The free package](http://hackage.haskell.org/package/free)
