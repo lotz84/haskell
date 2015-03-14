@@ -1,7 +1,17 @@
+##Haskell
+###すごいHaskellたのしく学ぼう!
+* [Amazon](http://www.amazon.co.jp/dp/4274068854)
 * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
   * 🎥 [video](https://www.youtube.com/watch?v=NBKnY7Z_w3I&index=1&list=PLPqPwGvHPSZB-urE6QFjKYt6AGXcZqJUh)
+
+###Real World Haskell
+* [Amazon](http://www.amazon.co.jp/dp/4873114233)
 * [Real World Haskell](http://book.realworldhaskell.org/read/)
+
+###Beginning Haskell: A Project-Based Approach 
 * [Beginning Haskell: A Project-Based Approach](http://www.amazon.co.jp/dp/1430262508)
+
+##圏論
 * [Category Theory](http://www.amazon.co.jp/dp/0199237182)[[pdf](http://www.andrew.cmu.edu/course/80-413-713/notes/)]
 * [Category Theory for Computing Science](http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf)
 * [Abstract and Concrete Categories](http://katmat.math.uni-bremen.de/acc/acc.pdf)
