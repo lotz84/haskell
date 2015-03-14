@@ -47,13 +47,6 @@ $ hlint code.hs
 
 [hlint](https://hackage.haskell.org/package/hlint)
 
-```shell
-$ cabal install pointfree
-$ pointfree "expression"
-```
-
-[pointfree](https://hackage.haskell.org/package/pointfree)
-
 ##基本
 * [Try Haskell](https://tryhaskell.org/)
 * [Basics](http://www.scs.stanford.edu/14sp-cs240h/slides/basics-slides.html)
@@ -120,6 +113,7 @@ fac n = product [1..n]
 ###ポイントフリー
 * [ポイントフリースタイル入門](http://d.hatena.ne.jp/melpon/20111031/1320024473)
 * [Haskellのフクロウ ((.)$(.))](http://uid0130.blogspot.jp/2014/11/haskell_17.html)
+* [pointfree](https://hackage.haskell.org/package/pointfree)
 
 ##パターンマッチ
 * [Pattern matching](http://mbps.hatenablog.com/entry/2014/10/04/010000)
