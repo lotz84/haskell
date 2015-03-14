@@ -1,3 +1,7 @@
+> 関数プログラミングを習得するには，これまで命令プログラミングで培った技術はいったん忘れ，真っ白な気持ちで臨む必要があります。関数型の山を登るためには，命令型の山を降りなければなりません。
+
+出典: [第1章　関数プログラミングは難しくない！](http://gihyo.jp/dev/feature/01/functional-prog/0001)
+
 ```haskell
 -- クイックソート
 quicksort [] = []
@@ -15,10 +19,6 @@ fibs = 0 : 1 : zipWith (+) fibs (tail fibs)
 ```
 
 出典: [Haskellの神話](http://d.hatena.ne.jp/kazu-yamamoto/20100624/1277348961)
-
-> 関数プログラミングを習得するには，これまで命令プログラミングで培った技術はいったん忘れ，真っ白な気持ちで臨む必要があります。関数型の山を登るためには，命令型の山を降りなければなりません。
-
-出典: [第1章　関数プログラミングは難しくない！](http://gihyo.jp/dev/feature/01/functional-prog/0001)
 
 * [関数型プログラミングとは結局何なのか](http://blog.kokuyouwind.com/archives/808)
 * [なぜ関数プログラミングは重要か](http://www.sampou.org/haskell/article/whyfp.html)
