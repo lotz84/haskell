@@ -127,6 +127,7 @@ sequence :: Monad m => [m a] -> m [a]
 * [ReactiveCocoa/ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
 
 ##数値計算
+* [linear](http://hackage.haskell.org/package/linear)
 * [repa](https://hackage.haskell.org/package/repa)
 * [hmatrix](https://hackage.haskell.org/package/hmatrix)
 * [ad](https://hackage.haskell.org/package/ad)
