@@ -37,8 +37,9 @@ fibs = 0 : 1 : zipWith (+) fibs (tail fibs)
 出典: <http://scott.sauyet.com/Javascript/Talk/2014/01/FuncProgTalk/#slide-40>
 
 ##環境構築
-* [ghc](https://www.haskell.org/ghc/)
-* [cabal](https://www.haskell.org/cabal/)
+* [Windows](https://www.haskell.org/downloads/windows)
+* [OS X](https://www.haskell.org/downloads/osx)
+* [Linux](https://www.haskell.org/downloads/linux)
 
 ```shell
 $ cabal install hlint
