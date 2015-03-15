@@ -43,6 +43,7 @@
 * [n-Category](http://mbps.hatenablog.com/entry/2014/11/25/031401)
 * [Enriched category](http://mbps.hatenablog.com/entry/2015/03/03/204917)
 * [Self-enriched category](http://mbps.hatenablog.com/entry/2015/03/11/155555)
+* [Basic Concepts of Enriched Category Theory](http://www.tac.mta.ca/tac/reprints/articles/10/tr10abs.html)
 
 ## Steve Awodey - Category Theory Foundations
 * [Category Theory Foundations, Lecture 1](https://www.youtube.com/watch?v=ZKmodCApZwk)
