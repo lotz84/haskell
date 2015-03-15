@@ -52,6 +52,7 @@ $ hlint code.hs
 * [Try Haskell](https://tryhaskell.org/)
 * [Basics](http://www.scs.stanford.edu/14sp-cs240h/slides/basics-slides.html)
 * [What I Wish I Knew When Learning Haskell](http://www.stephendiehl.com/what/)
+  * [sdiehl/wiwinwlh](https://github.com/sdiehl/wiwinwlh)
 * 🎥 [Haskell Course by Philip Wadler](https://www.youtube.com/watch?v=AOl2y5uW0mA&list=PLtRG9GLtNcHBv4cuh2w1cz5VsgY6adoc3)
 * 🎥 [Haskell from Scratch](https://www.youtube.com/watch?v=zZ_nI9E9g0I&list=PLxj9UAX4Em-Ij4TKwKvo-SLp-Zbv-hB4B&index=1)
 * 🎥 [Adventures in Haskell](https://www.youtube.com/watch?v=9AllRc64pVE&list=PL_xuff3BkASMOzBr0hKVKLuSnU4UIinKx)
