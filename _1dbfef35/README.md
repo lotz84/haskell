@@ -579,6 +579,7 @@ p = Circle {center = (1.0, 2.0), radius = 3.0}
 * [Testing](http://www.scs.stanford.edu/14sp-cs240h/slides/testing-slides.html)
 * <https://twitter.com/datgame/status/563269982721941505>
 * [Functional TDD: A Clash of Cultures](https://www.facebook.com/notes/kent-beck/functional-tdd-a-clash-of-cultures/472392329460303)
+* [Practical testing in Haskell](http://jaspervdj.be/posts/2015-03-13-practical-testing-in-haskell.html)
 
 ###QuickCheck
 
