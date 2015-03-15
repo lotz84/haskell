@@ -1,3 +1,7 @@
+#Pure Script
+* <http://www.purescript.org/>
+* [andyarvanitis/pure11](https://github.com/andyarvanitis/pure11)
+
 #OCaml
 * [「プログラミングの基礎」を使った授業紹介](http://pllab.is.ocha.ac.jp/~asai/book-mov/)
 
