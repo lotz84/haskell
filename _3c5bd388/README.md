@@ -8,6 +8,9 @@
 #CPL
 * [圏論プログラミング言語 CPL](http://mandel59.hateblo.jp/entry/2015/02/02/110621)
 
+#Alms
+* [Practical Affine Types](http://www.ccs.neu.edu/home/tov/pubs/alms/)
+
 #ATS
 * [Japan ATS User Group](http://jats-ug.metasepi.org/)
 * [Introduction to Programming in ATS](http://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/INT2PROGINATS-BOOK.html)
