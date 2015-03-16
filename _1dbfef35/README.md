@@ -185,6 +185,7 @@ fac n = product [1..n]
 * [GADTs - Haskell for all](http://www.haskellforall.com/2012/06/gadts.html)
 * [Haskell/GADT](http://en.wikibooks.org/wiki/Haskell/GADT)
 * [GADTs](http://mbps.hatenablog.com/entry/2014/10/03/010000)
+* [Question: Type System and N-Dimensional Vectors](http://www.reddit.com/r/haskell/comments/2z5l9y/question_type_system_and_ndimensional_vectors/)
 
 ##型クラス
 * [The Typeclassopediaを訳しました](http://snak.tdiary.net/20091020.html)
