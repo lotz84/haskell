@@ -48,7 +48,7 @@ $ hlint code.hs
 
 [hlint](https://hackage.haskell.org/package/hlint)
 
-##基本
+##Basics
 * [Try Haskell](https://tryhaskell.org/)
 * [Basics](http://www.scs.stanford.edu/14sp-cs240h/slides/basics-slides.html)
 * [What I Wish I Knew When Learning Haskell](http://www.stephendiehl.com/what/)
@@ -167,6 +167,7 @@ fac n = product [1..n]
 
 ##型
 * [A Route To Learning The Haskell Type System](http://www.colourcoding.net/blog/archive/2015/03/02/a-route-to-learning-the-haskell-type-system.aspx)
+* [Function Types](http://bartoszmilewski.com/2015/03/13/function-types/)
 
 ###Phantom Type
 * [型安全なリストを作るのです(｀・ω・´) ～ その1、Phantom Type（幽霊型）入門ですー＞ω＜](https://kagamilove0707.github.io/programming/2014/02/20/about-phantom-type/)
