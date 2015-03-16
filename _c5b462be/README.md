@@ -27,7 +27,7 @@
 * [Call-by-Value is Dual to Call-by-Name](http://homepages.inf.ed.ac.uk/wadler/papers/dual/dual.pdf)
 
 ##Category Theory
-* [プログラマであるあなたが圏論を学んで得られる事、得られない事](http://tune.hateblo.jp/entry/2015/01/22/023102)
+* [Category Theory for Programmers](http://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 * [Category Theory & Programming](http://yogsototh.github.io/Category-Theory-Presentation/)
 * [Category theory for beginners](http://www.slideshare.net/kenbot/category-theory-for-beginners)
 * [圏論](http://alg-d.com/math/category/)
