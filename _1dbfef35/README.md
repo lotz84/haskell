@@ -446,6 +446,8 @@ instance Monad Stream where
 * [Monad transformer](http://mbps.hatenablog.com/entry/2014/06/28/033234)
 * [Adjunction からの monad transformer](http://mbps.hatenablog.com/entry/2014/11/25/220948)
 * [Monad からの monad transformer](http://mbps.hatenablog.com/entry/2014/12/11/112455)
+* [モナドトランスフォーマーとその周辺](http://qiita.com/ruicc/items/7512c990a1835bba444a)
+* [Haskell モナド変換子 超入門](http://qiita.com/7shi/items/4408b76624067c17e933)
 
 ##継続
 * [Control.Monad.Cont](https://hackage.haskell.org/package/mtl/docs/Control-Monad-Cont.html)
