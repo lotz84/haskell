@@ -567,6 +567,7 @@ p = Circle {center = (1.0, 2.0), radius = 3.0}
 * [Lensで行こう！](http://myuon-myon.hatenablog.com/entry/20121228/1356708483)
 * [Lensで行こう！(2):Isoへの拡張](http://myuon-myon.hatenablog.com/entry/2013/01/06/232142)
 * [Lens](http://mbps.hatenablog.com/entry/2014/10/28/152931)
+* [lens over tea](http://artyom.me/#lens-over-tea)
 
 ##並列・並行処理
 * [できる！並列・並行プログラミング](http://www.slideshare.net/pfi/ss-9780450)
@@ -577,6 +578,8 @@ p = Circle {center = (1.0, 2.0), radius = 3.0}
 * [A Compositional Theory for STM Haskell](https://vimeo.com/6685355)
 * [Programming in the Age of Concurrency: Software Transactional Memory](http://channel9.msdn.com/Shows/Going+Deep/Programming-in-the-Age-of-Concurrency-Software-Transactional-Memory)
 * [関数型プログラミング言語における通信記述の型付け](http://ir.nul.nagoya-u.ac.jp/jspui/handle/2237/16436)
+* [accelerate](http://hackage.haskell.org/package/accelerate)
+* [accelerate-cuda](http://hackage.haskell.org/package/accelerate-cuda)
 
 ##テスト
 * [Haskellの単体テスト最前線](https://github.com/kazu-yamamoto/unit-test-example/blob/master/markdown/ja/tutorial.md)
