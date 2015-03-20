@@ -74,6 +74,7 @@ sequence :: Monad m => [m a] -> m [a]
 * [Haskell でソケット通信をやってみる](http://yasutech.blogspot.jp/2012/01/haskell.html)
 * [aeson](http://hackage.haskell.org/package/aeson)
 * [buffer-builder](https://hackage.haskell.org/package/buffer-builder)
+* [msgpack/msgpack-haskell](https://github.com/msgpack/msgpack-haskell)
 
 ###Client
 ####Network.HTTP
