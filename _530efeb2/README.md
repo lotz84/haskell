@@ -8,6 +8,9 @@
 * [Amazon](http://www.amazon.co.jp/dp/4873114233)
 * [Real World Haskell](http://book.realworldhaskell.org/read/)
 
+###Parallel and Concurrent Programming in Haskell
+* [Parallel and Concurrent Programming in Haskell](http://chimera.labs.oreilly.com/books/1230000000929/index.html)
+
 ###Beginning Haskell: A Project-Based Approach 
 * [Beginning Haskell: A Project-Based Approach](http://www.amazon.co.jp/dp/1430262508)
 
