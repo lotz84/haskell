@@ -32,6 +32,7 @@
 * [Category theory for beginners](http://www.slideshare.net/kenbot/category-theory-for-beginners)
 * [圏論](http://alg-d.com/math/category/)
 * [2013年 圏論勉強会 資料](http://nineties.github.io/category-seminar/)
+* [圏と関手入門](http://www.math.nagoya-u.ac.jp/~hasimoto/paper/class/cat10.pdf)
 * [哲学者のための圏論入門](http://choreographlife.jp/pdf/intro.pdf)
 * [モナドへの近道・Haskell からの寄道](http://kurt.scitec.kobe-u.ac.jp/~shg/SFCArchives/docs/shortcut_monad.pdf)
 * [Notions of computation and monads](http://www.disi.unige.it/person/MoggiE/ftp/ic91.pdf)
