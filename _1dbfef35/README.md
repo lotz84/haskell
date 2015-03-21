@@ -232,6 +232,7 @@ class Monad m where
 ```
 
 * [All About Monads](https://wiki.haskell.org/All_About_Monads)
+* [Monad tutorials timeline](https://wiki.haskell.org/Monad_tutorials_timeline)
 
 ###Maybe Monad
 
@@ -295,6 +296,7 @@ instance Monad (State s) where
 * [Haskellでスタックを利用した加減乗除の計算機を作ってみる](http://kzfm.github.io/laskell/stackCalc.html)
 
 ###IO Monad
+* [How to Declare an Imperative](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.3579&rep=rep1&type=pdf)
 
 ```haskell
 module MyIO (MyIO, myPutChar, myGetChar, convert) where
@@ -347,10 +349,13 @@ instance Functor f => Monad (Free f) where
 * [Freeモナドって何なのさっ！？](http://d.hatena.ne.jp/its_out_of_tune/20121111/1352632815)
 * [そろそろFreeモナドに関して一言いっとくか](http://d.hatena.ne.jp/fumiexcel/20121111/1352614885)
 * [Asymptotic Improvement of Computations over Free Monads](http://www.janis-voigtlaender.eu/papers/AsymptoticImprovementOfComputationsOverFreeMonads.pdf)
+* [Reflection without Remorse](http://homepages.cwi.nl/~ploeg/papers/zseq.pdf)
+  * [Haskell 2014: Reflection without Remorse: Revealing a hidden sequence to speed up monadic reflection](https://www.youtube.com/watch?v=_XoI65Rxmss)
 * [自由モノイドとFreeモナド](http://d.hatena.ne.jp/hiratara/20130525/1369495124)
 * [Free monads are free](http://mbps.hatenablog.com/entry/2014/07/08/201210)
 * [Free monad](http://mbps.hatenablog.com/entry/2014/06/19/190518)
 * [Category of monads](http://mbps.hatenablog.com/entry/2014/06/26/123223)
+* [Free Monads for Less (Part 2 of 3): Yoneda](http://comonad.com/reader/2011/free-monads-for-less-2/)
 
 ####Coyoneda
 
@@ -448,6 +453,9 @@ instance Monad Stream where
 * [Monad からの monad transformer](http://mbps.hatenablog.com/entry/2014/12/11/112455)
 * [モナドトランスフォーマーとその周辺](http://qiita.com/ruicc/items/7512c990a1835bba444a)
 * [Haskell モナド変換子 超入門](http://qiita.com/7shi/items/4408b76624067c17e933)
+* [モナモナ言うモナド変換子入門](http://hiratara.github.io/presentations/2015-03-21_monadbase_vol2.html#/)
+* [Monatron](https://hackage.haskell.org/package/Monatron)
+* [Proper Treatment 正當作法/ blog/ posts/ Monad transformers](http://conway.rutgers.edu/~ccshan/wiki/blog/posts/Monad_transformers/)
 
 ##継続
 * [Control.Monad.Cont](https://hackage.haskell.org/package/mtl/docs/Control-Monad-Cont.html)
