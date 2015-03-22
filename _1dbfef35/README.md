@@ -478,21 +478,26 @@ instance Monad Stream where
 * [究極のモナド「Idealモナド」を垣間見る(続/その0)](http://fumieval.hatenablog.com/entry/2013/01/07/113221)
 * [What is the correct definition of ideal monads?](http://theorylunch.wordpress.com/2012/11/22/what-is-the-correct-definition-of-ideal-monads/)
 
-###Monad Transformer
-* [モナドトランスフォーマー・ステップ・バイ・ステップ](http://bicycle1885.hatenablog.com/entry/2012/12/08/165236)
+###モナドの合成
+* [Proper Treatment 正當作法/blog/posts/Monad transformers](http://conway.rutgers.edu/~ccshan/wiki/blog/posts/Monad_transformers/)
 * [Composing Monads Using Coproducts](http://www.informatik.uni-bremen.de/~cxl/papers/icfp02.pdf)
 * [monad-levels](http://hackage.haskell.org/package/monad-levels)
   * [Monadic yak shaving](https://ivanmiljenovic.wordpress.com/2015/02/02/monadic-yak-shaving/)
 * [Extensible Effects -An Alternative to Monad Transformers-](http://www.cs.indiana.edu/~sabry/papers/exteff.pdf)
+* [Monatron](https://hackage.haskell.org/package/Monatron)
+
+####Monad Transformer
+* [transformers](https://hackage.haskell.org/package/transformers)
+* [モナドトランスフォーマーとその周辺](http://qiita.com/ruicc/items/7512c990a1835bba444a)
+* [Haskell モナド変換子 超入門](http://qiita.com/7shi/items/4408b76624067c17e933)
+* [モナドトランスフォーマー・ステップ・バイ・ステップ](http://bicycle1885.hatenablog.com/entry/2012/12/08/165236)
 * [A Gentle Introduction to Monad Transformers](https://github.com/kqr/gists/blob/master/articles/gentle-introduction-monad-transformers.md)
+* [モナモナ言うモナド変換子入門](http://hiratara.github.io/presentations/2015-03-21_monadbase_vol2.html#/)
 * [Monad transformer](http://mbps.hatenablog.com/entry/2014/06/28/033234)
 * [Adjunction からの monad transformer](http://mbps.hatenablog.com/entry/2014/11/25/220948)
 * [Monad からの monad transformer](http://mbps.hatenablog.com/entry/2014/12/11/112455)
-* [モナドトランスフォーマーとその周辺](http://qiita.com/ruicc/items/7512c990a1835bba444a)
-* [Haskell モナド変換子 超入門](http://qiita.com/7shi/items/4408b76624067c17e933)
-* [モナモナ言うモナド変換子入門](http://hiratara.github.io/presentations/2015-03-21_monadbase_vol2.html#/)
-* [Monatron](https://hackage.haskell.org/package/Monatron)
-* [Proper Treatment 正當作法/ blog/ posts/ Monad transformers](http://conway.rutgers.edu/~ccshan/wiki/blog/posts/Monad_transformers/)
+
+transformersにはMonad Transformerを新しく定義する度に全ての組み合わせの実装を定義する必要があるという問題点がある。
 
 ##継続
 * [Control.Monad.Cont](https://hackage.haskell.org/package/mtl/docs/Control-Monad-Cont.html)
