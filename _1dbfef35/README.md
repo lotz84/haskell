@@ -576,6 +576,30 @@ data HList (as :: [*]) where
 * [Language.Haskell.TH](http://hackage.haskell.org/package/template-haskell-2.5.0.0/docs/Language-Haskell-TH.html)
 * [できる！Template Haskell (完)](http://haskell.g.hatena.ne.jp/mr_konn/20111218/1324220725)
 
+```
+{-# LANGUAGE TemplateHaskell, QuasiQuotes #-}
+import Language.Haskell.TH
+import Language.Haskell.TH.Quote
+
+csv :: QuasiQuoter
+csv = QuasiQuoter
+      { quoteExp  = exp
+      , quotePat  = undefined
+      , quoteType = undefined
+      , quoteDec  = undefined
+      }
+      where
+      exp = dataToExpQ (const Nothing) . readCSV
+      readCSV xs = let (ys, zs) = break (==',') xs
+                   in if null zs then [ys]
+                                 else ys : readCSV (tail zs)
+```
+
+```
+>>> [csv|1,2,3|]
+["1","2","3"]
+```
+
 ##Record
 
 ```haskell
