@@ -577,8 +577,7 @@ data HList (as :: [*]) where
 * [できる！Template Haskell (完)](http://haskell.g.hatena.ne.jp/mr_konn/20111218/1324220725)
 
 ```
-{-# LANGUAGE TemplateHaskell, QuasiQuotes #-}
-import Language.Haskell.TH
+{-# LANGUAGE QuasiQuotes #-}
 import Language.Haskell.TH.Quote
 
 csv :: QuasiQuoter
