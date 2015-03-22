@@ -48,6 +48,40 @@ $ hlint code.hs
 
 [hlint](https://hackage.haskell.org/package/hlint)
 
+##Example
+###Hello World
+
+```
+$ vim hello.hs
+```
+
+```
+main = putStrLn "Hello World!"
+```
+
+```
+$ runhaskell hello.hs
+Hello World!
+```
+
+###ファイルのデータを読み込んで合計を計算する
+
+```
+$ echo "1 3 50 10" > data.txt
+$ vim sum.hs
+```
+
+```
+main = do
+  txt <- readFile "data.txt"
+  print $ sum . map read . words $ txt
+```
+
+```
+$ runhaskell sum.hs
+64
+```
+
 ##Basics
 * [Try Haskell](https://tryhaskell.org/)
 * [Basics](http://www.scs.stanford.edu/14sp-cs240h/slides/basics-slides.html)
