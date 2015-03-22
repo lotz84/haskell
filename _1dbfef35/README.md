@@ -1,6 +1,5 @@
-> 関数プログラミングを習得するには，これまで命令プログラミングで培った技術はいったん忘れ，真っ白な気持ちで臨む必要があります。関数型の山を登るためには，命令型の山を降りなければなりません。
-
-出典: [第1章　関数プログラミングは難しくない！](http://gihyo.jp/dev/feature/01/functional-prog/0001)
+* [A History of Haskell: Being Lazy With Class](http://haskell.cs.yale.edu/wp-content/uploads/2011/02/history.pdf)
+   * <https://www.youtube.com/watch?v=3bjXGrycMhQ>
 
 ```haskell
 -- クイックソート
@@ -20,21 +19,9 @@ fibs = 0 : 1 : zipWith (+) fibs (tail fibs)
 
 出典: [Haskellの神話](http://d.hatena.ne.jp/kazu-yamamoto/20100624/1277348961)
 
-* [関数型プログラミングとは結局何なのか](http://blog.kokuyouwind.com/archives/808)
-* [なぜ関数プログラミングは重要か](http://www.sampou.org/haskell/article/whyfp.html)
-* [函数プログラミングのエッセンスと考え方](http://www.itpl.co.jp/tech/func/essense_of_fp(sea0305).pdf)
-* [Haskellの講義に関するQ&A](http://d.hatena.ne.jp/kazu-yamamoto/20111124/1322100759)
-* [A History of Haskell: Being Lazy With Class](http://haskell.cs.yale.edu/wp-content/uploads/2011/02/history.pdf)
-   * <https://www.youtube.com/watch?v=3bjXGrycMhQ>
-* [経験15年のOCaml ユーザーが Haskell を仕事で半年使ってみた](http://d.hatena.ne.jp/camlspotter/20101212/1292165692)
+> 関数プログラミングを習得するには，これまで命令プログラミングで培った技術はいったん忘れ，真っ白な気持ちで臨む必要があります。関数型の山を登るためには，命令型の山を降りなければなりません。
 
-> このプログラマ氏がパワーのスペクトルを見下ろしている時、 彼にはそうしているという自覚がある。「ほげ」よりも力の弱い言語は、 明らかに力が弱い。彼が慣れ親しんだ機能が無いからだ。 しかし、このプログラマ氏が反対の方向に目を転じた時、彼は自分が見上げているのだということに 気付かないのだ。彼が目にするのは、変てこりんな言語ばかり。 多分、それらは「ほげ」と同じくらいパワフルなんだろうけど、 どういうわけかふわふわしたおまけがいろいろついているんだ、と思うだろう。 彼にとっては「ほげ」で十分なのだ。何故なら彼は「ほげ」で考えているから。
-
-出典: <http://practical-scheme.net/trans/beating-the-averages-j.html>
-
-> One very interesting comparison is that lazy evaluation is to the CPU what garbage collection is to memory.
-
-出典: <http://scott.sauyet.com/Javascript/Talk/2014/01/FuncProgTalk/#slide-40>
+出典: [第1章　関数プログラミングは難しくない！](http://gihyo.jp/dev/feature/01/functional-prog/0001)
 
 ##環境構築
 * [Windows](https://www.haskell.org/downloads/windows)
@@ -150,6 +137,21 @@ fac n = product [1..n]
 * [ポイントフリースタイル入門](http://d.hatena.ne.jp/melpon/20111031/1320024473)
 * [Haskellのフクロウ ((.)$(.))](http://uid0130.blogspot.jp/2014/11/haskell_17.html)
 * [pointfree](https://hackage.haskell.org/package/pointfree)
+
+##遅延評価
+
+> One very interesting comparison is that lazy evaluation is to the CPU what garbage collection is to memory.
+
+出典: <http://scott.sauyet.com/Javascript/Talk/2014/01/FuncProgTalk/#slide-40>
+
+```haskell
+memoized_fib :: Int -> Integer
+memoized_fib = (map fib [0 ..] !!)
+   where fib 0 = 0
+         fib 1 = 1
+         fib n = memoized_fib (n-2) + memoized_fib (n-1)
+```
+* [Can someone explain the concept behind Haskell's memoization?](http://programmers.stackexchange.com/questions/220746/can-someone-explain-the-concept-behind-haskells-memoization)
 
 ##パターンマッチ
 * [Pattern matching](http://mbps.hatenablog.com/entry/2014/10/04/010000)
@@ -562,21 +564,6 @@ data HList (as :: [*]) where
 * [Datatype-Generic Programming in Haskell](https://skillsmatter.com/skillscasts/3932-a-haskell-lecture-with-leading-expert-andres-loh)
 * [Generic programming](http://www.scs.stanford.edu/14sp-cs240h/slides/generic-slides.html)
 
-##メモ化
-* [memoize: A memoization library](https://hackage.haskell.org/package/memoize)
-* [Memoization](https://www.haskell.org/haskellwiki/Memoization)
-* [記憶(memo)する関数](https://www.ipsj.or.jp/07editj/promenade/4608.pdf)
-
-```haskell
-memoized_fib :: Int -> Integer
-memoized_fib = (map fib [0 ..] !!)
-   where fib 0 = 0
-         fib 1 = 1
-         fib n = memoized_fib (n-2) + memoized_fib (n-1)
--- Can someone explain the concept behind Haskell's memoization?
--- http://programmers.stackexchange.com/questions/220746/can-someone-explain-the-concept-behind-haskells-memoization
-```
-
 ##Template Haskell
 * [Language.Haskell.TH](http://hackage.haskell.org/package/template-haskell-2.5.0.0/docs/Language-Haskell-TH.html)
 * [できる！Template Haskell (完)](http://haskell.g.hatena.ne.jp/mr_konn/20111218/1324220725)
@@ -661,3 +648,10 @@ Passed:
 ...
 +++ OK, passed 100 tests.
 ```
+
+##関数型プログラミングとは
+* [関数型プログラミングとは結局何なのか](http://blog.kokuyouwind.com/archives/808)
+* [なぜ関数プログラミングは重要か](http://www.sampou.org/haskell/article/whyfp.html)
+* [函数プログラミングのエッセンスと考え方](http://www.itpl.co.jp/tech/func/essense_of_fp(sea0305).pdf)
+* [Haskellの講義に関するQ&A](http://d.hatena.ne.jp/kazu-yamamoto/20111124/1322100759)
+* [経験15年のOCaml ユーザーが Haskell を仕事で半年使ってみた](http://d.hatena.ne.jp/camlspotter/20101212/1292165692)
