@@ -632,6 +632,7 @@ p = Circle {center = (1.0, 2.0), radius = 3.0}
 * [Lensで行こう！(2):Isoへの拡張](http://myuon-myon.hatenablog.com/entry/2013/01/06/232142)
 * [Lens](http://mbps.hatenablog.com/entry/2014/10/28/152931)
 * [lens over tea](http://artyom.me/#lens-over-tea)
+* [My new lens idea](http://lpaste.net/128137)
 
 ##並列・並行処理
 * [できる！並列・並行プログラミング](http://www.slideshare.net/pfi/ss-9780450)
