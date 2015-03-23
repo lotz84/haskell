@@ -79,6 +79,8 @@ $ runhaskell sum.hs
 * 🎥 [Adventures in Haskell](https://www.youtube.com/watch?v=9AllRc64pVE&list=PL_xuff3BkASMOzBr0hKVKLuSnU4UIinKx)
 * 🎥 [Sed implementation in Haskell](https://www.youtube.com/watch?v=0I90MTip-OQ&list=PLUQzXLQ6jvHL_k3QOMKXehVoZdk-sKtHd)
 * 🎥 [Haskell Tutorial - LazyCasts](https://www.youtube.com/watch?v=5XLTRuKoOtM&index=2&list=PLvj5k87ljYYHwOOcdGvS3qi85IvjOW--8)
+* 🎥 [Loop School](http://school.looprecur.com/)
+* [99 Haskell](http://www.99haskell.org/)
 
 > ゴルフでもトリッキーなコードでもなく、 計算の仕方を変えるだけでより直接的に、シンプルに、コードが短くなりました。 必要なのはやりたいことが実際にはどのような計算なのかということを認識することです。 難しく考えないようにしましょう。
 
@@ -396,6 +398,7 @@ instance Functor f => Monad (Free f) where
 * [Free monad](http://mbps.hatenablog.com/entry/2014/06/19/190518)
 * [Category of monads](http://mbps.hatenablog.com/entry/2014/06/26/123223)
 * [Free Monads for Less (Part 2 of 3): Yoneda](http://comonad.com/reader/2011/free-monads-for-less-2/)
+* [What is the difference between free monads and free monoids?](http://www.reddit.com/r/haskell/comments/2znhjk/what_is_the_difference_between_free_monads_and/)
 
 ####Coyoneda
 
