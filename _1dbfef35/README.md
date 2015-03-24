@@ -563,10 +563,10 @@ class Functor w => Comonad w where
 ```
 data Store b a = Store (b -> a) b
 
-instance Functor Store where
+instance Functor (Store b) where
   fmap f (Store v b) = Store (f . v) b
 
-instance Comonad Store where
+instance Comonad (Store b) where
   extract   (Store v b) = v b
   duplicate (Store v b) = Store (Store v) b
 
@@ -579,6 +579,19 @@ get lens a = let Store v b = lens a
 set :: Lens a b -> a -> b -> a
 set lens a = let Store v b = lens a
              in  v
+
+-- Example
+_fst :: Lens (a, b) a
+_fst (x, y) = Store (\z -> (z, y)) x
+
+_snd :: Lens (a, b) b
+_snd (x, y) = Store (\z -> (x, z)) y
+
+main = do
+  print $ get _fst ('a', 'b')
+  -- 'a'
+  print $ get _snd ('a', 'b')
+  -- 'b'
 ```
 
 参考: [Lenses Are Exactly the Coalgebras for the Store Comonad](http://r6research.livejournal.com/23705.html)
