@@ -6,7 +6,7 @@
 出典: [不完全にしておよそ正しくないプログラミング言語小史](http://www.aoky.net/articles/james_iry/brief-incomplete-and-mostly-wrong.htm)
 
 ##Index
-1. [Haskell: 純粋関数型プログラミング言語](_1dbfef35/README.md)
+1. [Haskell: 純粋関数型プログラミング言語](_1dbfef35/)
 2. [Haskellの内と外](_880bf137/README.md)
 3. [実践Haskell](_e447d9ec/README.md)
 4. [関数型プログラミング言語](_3c5bd388/README.md)
