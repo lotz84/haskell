@@ -5,11 +5,11 @@
 * [Linux](https://www.haskell.org/downloads/linux)
 
 ##Index
-* [基本と関数と型](_5fc95ac6/README.md)
-* [型クラスと抽象](_6ec89753/README.md)
-* [型レベルプログラミング](_7c29f719/README.md)
-* [並列・並行処理](_1438e7f9/README.md)
-* [テストとドキュメント](_d5be135d/README.md)
+* [基本と関数と型](_5fc95ac6/)
+* [型クラスと抽象](_6ec89753/)
+* [型レベルプログラミング](_7c29f719/)
+* [並列・並行処理](_1438e7f9/)
+* [テストとドキュメント](_d5be135d/)
 
 ##関数型プログラミングとは
 * [関数型プログラミングとは結局何なのか](http://blog.kokuyouwind.com/archives/808)
