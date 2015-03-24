@@ -369,7 +369,7 @@ main = do
   print $ get _snd ('a', 'b')
   -- 'b'
   print $ set _snd ('a', 'b') 'c'
-  -- ('a', 'b', 'c')
+  -- ('a', 'c')
 ```
 
 参考: [Lenses Are Exactly the Coalgebras for the Store Comonad](http://r6research.livejournal.com/23705.html)
