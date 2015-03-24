@@ -346,21 +346,21 @@ instance Comonad (Store b) where
   extract   (Store v b) = v b
   duplicate (Store v b) = Store (Store v) b
 
-type Lens a b = a -> Store b a
+type Lens' a b = a -> Store b a
 
-get :: Lens a b -> a -> b
+get :: Lens' a b -> a -> b
 get lens a = let Store v b = lens a
              in  b
 
-set :: Lens a b -> a -> b -> a
+set :: Lens' a b -> a -> b -> a
 set lens a = let Store v b = lens a
              in  v
 
 -- Example
-_fst :: Lens (a, b) a
+_fst :: Lens' (a, b) a
 _fst (x, y) = Store (\z -> (z, y)) x
 
-_snd :: Lens (a, b) b
+_snd :: Lens' (a, b) b
 _snd (x, y) = Store (\z -> (x, z)) y
 
 main = do
