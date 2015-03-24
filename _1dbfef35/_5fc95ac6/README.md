@@ -35,33 +35,33 @@ $ hlint code.hs
 ##Example
 ###Hello World
 
-```
+```shell
 $ vim hello.hs
 ```
 
-```
+```haskell
 main = putStrLn "Hello World!"
 ```
 
-```
+```shell
 $ runhaskell hello.hs
 Hello World!
 ```
 
 ###ファイルからデータを読む
 
-```
+```shell
 $ echo "1 3 50 10" > data.txt
 $ vim sum.hs
 ```
 
-```
+```haskell
 main = do
   txt <- readFile "data.txt"
   print $ sum . map read . words $ txt
 ```
 
-```
+```shell
 $ runhaskell sum.hs
 64
 ```
