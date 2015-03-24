@@ -1,10 +1,22 @@
 #型レベルプログラミング
-* [ロジックパズルの解説](http://notogawa.hatenablog.com/entry/2014/12/06/181216)
 * [定理証明系 Haskell](http://konn-san.com/prog/2013-advent-calendar.html)
 * [プログラミング Coq 〜 絶対にバグのないプログラムの書き方 〜](http://www.iij-ii.co.jp/lab/techdoc/coqt/)
 * [Testing a type for (Eq a) in Haskell](http://stackoverflow.com/questions/28799005/testing-a-type-for-eq-a-in-haskell)
 * [Constraint Kinds for GHC](http://blog.omega-prime.co.uk/?p=127)
 * [Inductive family of types](http://mbps.hatenablog.com/entry/2014/09/28/035245)
+
+```haskell
+data Bottom
+
+data (:==:) :: k -> k -> * where
+   Refl :: a :==: a
+
+type Not p = p -> Bottom
+
+type a :/=: b = Not (a :==: b)
+```
+
+出典: [ロジックパズルの解説](http://notogawa.hatenablog.com/entry/2014/12/06/181216)
 
 ```haskell
 data HList (as :: [*]) where
