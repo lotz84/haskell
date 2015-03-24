@@ -336,7 +336,7 @@ class Functor w => Comonad w where
 
 ###Store Comonad
 
-```
+```haskell
 data Store b a = Store (b -> a) b
 
 instance Functor (Store b) where
