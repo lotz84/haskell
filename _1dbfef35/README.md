@@ -541,12 +541,14 @@ reset e = return $ e `runCont` id
 ##Lens
 * [lens](https://hackage.haskell.org/package/lens)
 * [Kinokkory/lens-japanese](https://github.com/Kinokkory/lens-japanese/wiki)
-* [Lenses](http://www.scs.stanford.edu/14sp-cs240h/slides/lenses-slides.html)
-* [Lenses, Folds and Traversals: An Introduction to the Lens Library with Edward Kmett](http://vimeo.com/56063074)
 * [Lensで行こう！](http://myuon-myon.hatenablog.com/entry/20121228/1356708483)
 * [Lensで行こう！(2):Isoへの拡張](http://myuon-myon.hatenablog.com/entry/2013/01/06/232142)
-* [Lens](http://mbps.hatenablog.com/entry/2014/10/28/152931)
 * [lens over tea](http://artyom.me/#lens-over-tea)
+* 🎥 [Lenses, Folds and Traversals: An Introduction to the Lens Library with Edward Kmett](http://vimeo.com/56063074)
+
+> いわゆるgetter/setterの圏論による表現。
+
+出典: [Lens](http://mbps.hatenablog.com/entry/2014/10/28/152931)
 
 ###Comonad
 * [comonad](https://hackage.haskell.org/package/comonad)
