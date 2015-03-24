@@ -7,11 +7,11 @@
 
 ##Index
 1. [Haskell: 純粋関数型プログラミング言語](_1dbfef35/)
-2. [Haskellの内と外](_880bf137/README.md)
-3. [実践Haskell](_e447d9ec/README.md)
-4. [関数型プログラミング言語](_3c5bd388/README.md)
-5. [計算の基礎](_c5b462be/README.md)
-6. [Books](_530efeb2/README.md)
+2. [Haskellの内と外](_880bf137/)
+3. [実践Haskell](_e447d9ec/)
+4. [関数型プログラミング言語](_3c5bd388/)
+5. [計算の基礎](_c5b462be/)
+6. [Books](_530efeb2/)
 
 ##Related works
 * [bitemyapp/learnhaskell](https://github.com/bitemyapp/learnhaskell)
