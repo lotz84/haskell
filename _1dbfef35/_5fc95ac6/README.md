@@ -48,7 +48,7 @@ $ runhaskell hello.hs
 Hello World!
 ```
 
-###ファイルのデータを読み込んで合計を計算する
+###ファイルからデータを読む
 
 ```
 $ echo "1 3 50 10" > data.txt
