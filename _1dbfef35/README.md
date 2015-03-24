@@ -138,7 +138,8 @@ fac n = product [1..n]
 ###ポイントフリー
 * [ポイントフリースタイル入門](http://d.hatena.ne.jp/melpon/20111031/1320024473)
 * [Haskellのフクロウ ((.)$(.))](http://uid0130.blogspot.jp/2014/11/haskell_17.html)
-* [pointfree](https://hackage.haskell.org/package/pointfree)
+* [Blunt](https://evening-thicket-5270.herokuapp.com/)
+  * [pointfree](https://hackage.haskell.org/package/pointfree)
 
 ##遅延評価
 
