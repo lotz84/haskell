@@ -538,6 +538,73 @@ reset e = return $ e `runCont` id
 
 * [CPS（継続渡し方式）変換をJavaScriptで説明してみるべ、ナーニ、たいしたことねーべよ](http://d.hatena.ne.jp/m-hiyama/20080116/1200468797)
 
+##Lens
+* [lens](https://hackage.haskell.org/package/lens)
+* [Kinokkory/lens-japanese](https://github.com/Kinokkory/lens-japanese/wiki)
+* [Lenses](http://www.scs.stanford.edu/14sp-cs240h/slides/lenses-slides.html)
+* [Lenses, Folds and Traversals: An Introduction to the Lens Library with Edward Kmett](http://vimeo.com/56063074)
+* [Lensで行こう！](http://myuon-myon.hatenablog.com/entry/20121228/1356708483)
+* [Lensで行こう！(2):Isoへの拡張](http://myuon-myon.hatenablog.com/entry/2013/01/06/232142)
+* [Lens](http://mbps.hatenablog.com/entry/2014/10/28/152931)
+* [lens over tea](http://artyom.me/#lens-over-tea)
+
+###Comonad
+* [comonad](https://hackage.haskell.org/package/comonad)
+* [Comonads are objects](http://www.haskellforall.com/2013/02/you-could-have-invented-comonads.html)
+
+```
+class Functor w => Comonad w where
+  extract :: w a -> a
+  duplicate :: w a -> w (w a)
+```
+
+###Store Comonad
+
+```
+data Store b a = Store (b -> a) b
+
+instance Functor Store where
+  fmap f (Store v b) = Store (f . v) b
+
+instance Comonad Store where
+  extract   (Store v b) = v b
+  duplicate (Store v b) = Store (Store v) b
+
+type Lens a b = a -> Store b a
+
+get :: Lens a b -> a -> b
+get lens a = let Store v b = lens a
+             in  b
+
+set :: Lens a b -> a -> b -> a
+set lens a = let Store v b = lens a
+             in  v
+```
+
+参考: [Lenses Are Exactly the Coalgebras for the Store Comonad](http://r6research.livejournal.com/23705.html)
+
+###CPS Lens
+* [My new lens idea](http://lpaste.net/128137)
+
+##Record
+
+```haskell
+data Circle = Circle { center :: (Double, Double)
+                     , radius :: Double
+                     }
+p :: Circle
+p = Circle {center = (1.0, 2.0), radius = 3.0}
+-- > center p
+-- (1.0, 2.0)
+-- > radius p
+-- 3.0
+```
+
+**レコードの問題点**: 同じモジュールで同じフィールド名を持つレコードを定義できない
+
+* [record](http://hackage.haskell.org/package/record)
+  * [Announcing the first class records library](http://nikita-volkov.github.io/record/)
+
 ###型レベルプログラミング
 * [ロジックパズルの解説](http://notogawa.hatenablog.com/entry/2014/12/06/181216)
 * [定理証明系 Haskell](http://konn-san.com/prog/2013-advent-calendar.html)
@@ -602,38 +669,6 @@ csv = QuasiQuoter
 >>> [csv|1,2,3|]
 ["1","2","3"]
 ```
-
-##Record
-
-```haskell
-data Circle = Circle { center :: (Double, Double)
-                     , radius :: Double
-                     }
-p :: Circle
-p = Circle {center = (1.0, 2.0), radius = 3.0}
--- > center p
--- (1.0, 2.0)
--- > radius p
--- 3.0
-```
-
-**レコードの問題点**: 同じモジュールで同じフィールド名を持つレコードを定義できない
-
-* [record](http://hackage.haskell.org/package/record)
-  * [Announcing the first class records library](http://nikita-volkov.github.io/record/)
-
-##Lens
-* [Kinokkory/lens-japanese](https://github.com/Kinokkory/lens-japanese/wiki)
-* [Lenses Are Exactly the Coalgebras for the Store Comonad](http://r6research.livejournal.com/23705.html)
-* [Lenses are the coalgebras for the costate comonad](http://patternsinfp.wordpress.com/2011/01/31/lenses-are-the-coalgebras-for-the-costate-comonad/)
-* [Lenses](http://www.scs.stanford.edu/14sp-cs240h/slides/lenses-slides.html)
-* [Lenses, Folds and Traversals: An Introduction to the Lens Library with Edward Kmett](http://vimeo.com/56063074)
-* <https://twitter.com/fumieval/status/563244542300651520>
-* [Lensで行こう！](http://myuon-myon.hatenablog.com/entry/20121228/1356708483)
-* [Lensで行こう！(2):Isoへの拡張](http://myuon-myon.hatenablog.com/entry/2013/01/06/232142)
-* [Lens](http://mbps.hatenablog.com/entry/2014/10/28/152931)
-* [lens over tea](http://artyom.me/#lens-over-tea)
-* [My new lens idea](http://lpaste.net/128137)
 
 ##並列・並行処理
 * [できる！並列・並行プログラミング](http://www.slideshare.net/pfi/ss-9780450)
