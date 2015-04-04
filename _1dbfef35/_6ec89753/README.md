@@ -318,6 +318,7 @@ reset e = return $ e `runCont` id
 * [Lensで行こう！](http://myuon-myon.hatenablog.com/entry/20121228/1356708483)
 * [Lensで行こう！(2):Isoへの拡張](http://myuon-myon.hatenablog.com/entry/2013/01/06/232142)
 * [lens over tea](http://artyom.me/#lens-over-tea)
+* [レンズは余状態余モナドの余代数だった](https://gist.github.com/lotz84/7fd7e279bd7196c6baab)
 * 🎥 [Lenses, Folds and Traversals: An Introduction to the Lens Library with Edward Kmett](http://vimeo.com/56063074)
 
 > いわゆるgetter/setterの圏論による表現。
@@ -333,46 +334,6 @@ class Functor w => Comonad w where
   extract :: w a -> a
   duplicate :: w a -> w (w a)
 ```
-
-###Store Comonad
-
-```haskell
-data Store b a = Store (b -> a) b
-
-instance Functor (Store b) where
-  fmap f (Store v b) = Store (f . v) b
-
-instance Comonad (Store b) where
-  extract   (Store v b) = v b
-  duplicate (Store v b) = Store (Store v) b
-
-type Lens' a b = a -> Store b a
-
-get :: Lens' a b -> a -> b
-get lens a = let Store v b = lens a
-             in  b
-
-set :: Lens' a b -> a -> b -> a
-set lens a = let Store v b = lens a
-             in  v
-
--- Example
-_fst :: Lens' (a, b) a
-_fst (x, y) = Store (\z -> (z, y)) x
-
-_snd :: Lens' (a, b) b
-_snd (x, y) = Store (\z -> (x, z)) y
-
-main = do
-  print $ get _fst ('a', 'b')
-  -- 'a'
-  print $ get _snd ('a', 'b')
-  -- 'b'
-  print $ set _snd ('a', 'b') 'c'
-  -- ('a', 'c')
-```
-
-参考: [Lenses Are Exactly the Coalgebras for the Store Comonad](http://r6research.livejournal.com/23705.html)
 
 ###CPS Lens
 * [My new lens idea](http://lpaste.net/128137)
