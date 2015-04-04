@@ -58,12 +58,14 @@ csv = QuasiQuoter
 
 ###Group
 * [New York Haskell Users Group](http://www.meetup.com/NY-Haskell/)
-* [HaskellJP](http://wiki.haskell.jp/)
-* [Haskell(ja)](https://plus.google.com/communities/107562694527758263007)
-* [haskell-ja](http://chaton.practical-scheme.net/haskell-ja/)
 * [Google+](https://plus.google.com/communities/104818126031270146189)
 * [Facebook](https://www.facebook.com/groups/programming.haskell)
 * [Reddit](http://www.reddit.com/r/haskell/)
+
+###日本のコミュニティ
+* [Chaton haskell-ja](http://chaton.practical-scheme.net/haskell-ja/)
+* [HaskellJP](http://wiki.haskell.jp/)
+* [Haskell(ja)](https://plus.google.com/communities/107562694527758263007)
 
 ###Conference
 * [JSSST-SIGPPL](http://ppl.jssst.or.jp/)
