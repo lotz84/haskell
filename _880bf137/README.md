@@ -59,6 +59,7 @@ csv = QuasiQuoter
 ###Group
 * [New York Haskell Users Group](http://www.meetup.com/NY-Haskell/)
 * [HaskellJP](http://wiki.haskell.jp/)
+* [Haskell(ja)](https://plus.google.com/communities/107562694527758263007)
 * [haskell-ja](http://chaton.practical-scheme.net/haskell-ja/)
 * [Google+](https://plus.google.com/communities/104818126031270146189)
 * [Facebook](https://www.facebook.com/groups/programming.haskell)
