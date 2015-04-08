@@ -83,6 +83,7 @@ sequence :: Monad m => [m a] -> m [a]
 出典: <https://hackage.haskell.org/package/HTTP/docs/Network-HTTP.html>
 
 ####Alternatives
+* [wreq](http://www.serpentine.com/wreq/)
 * [http-conduit](http://hackage.haskell.org/package/http-conduit)
 * [twitter-conduit](http://hackage.haskell.org/package/twitter-conduit)
 
@@ -119,6 +120,8 @@ sequence :: Monad m => [m a] -> m [a]
 * <http://maoe.hatenadiary.jp/entry/20100123/1264225964>
 * <http://netsuperbrain.com/blog/posts/introducing-reactive-events/>
 * [A Survey of Functional Reactive Programming](http://www.cs.rit.edu/~eca7215/frp-independent-study/Survey.pdf)
+* 🎥 [Reflex: Practical Functional Reactive Programming](https://www.youtube.com/watch?v=mYvkcskJbc4)
+  * [part2](https://www.youtube.com/watch?v=3qfc9XFVo2c)
 
 ###Other Language
 * [Elm](http://elm-lang.org/)
