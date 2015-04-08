@@ -74,6 +74,7 @@
 
 ##自然変換
 * [ホモトピー変形と自然変換](http://d.hatena.ne.jp/m-hiyama/comment?date=20111208&section=1323315799#c)
+* [Natural Transformations](http://bartoszmilewski.com/2015/04/07/natural-transformations/)
 
 ##随伴
 * [Adjunctions](https://www.youtube.com/playlist?list=PL54B49729E5102248)
