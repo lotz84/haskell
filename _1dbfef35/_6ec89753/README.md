@@ -266,6 +266,7 @@ instance Monad Stream where
   * [Monadic yak shaving](https://ivanmiljenovic.wordpress.com/2015/02/02/monadic-yak-shaving/)
 * [Extensible Effects -An Alternative to Monad Transformers-](http://www.cs.indiana.edu/~sabry/papers/exteff.pdf)
 * [Monatron](https://hackage.haskell.org/package/Monatron)
+* [Announcing: monad-unlift](https://www.fpcomplete.com/blog/2015/04/announcing-monad-unlift)
 
 ####Monad Transformer
 * [transformers](https://hackage.haskell.org/package/transformers)
