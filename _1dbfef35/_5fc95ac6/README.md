@@ -78,6 +78,7 @@ $ runhaskell sum.hs
 * 🎥 [Haskell Tutorial - LazyCasts](https://www.youtube.com/watch?v=5XLTRuKoOtM&index=2&list=PLvj5k87ljYYHwOOcdGvS3qi85IvjOW--8)
 * 🎥 [Loop School](http://school.looprecur.com/)
 * [99 Haskell](http://www.99haskell.org/)
+* [TEACHING HASKELL TO A 10 YEAR OLD: DAY 1](https://superginbaby.wordpress.com/2015/04/08/teaching-haskell-to-a-10-year-old-day-1/)
 
 > ゴルフでもトリッキーなコードでもなく、 計算の仕方を変えるだけでより直接的に、シンプルに、コードが短くなりました。 必要なのはやりたいことが実際にはどのような計算なのかということを認識することです。 難しく考えないようにしましょう。
 
