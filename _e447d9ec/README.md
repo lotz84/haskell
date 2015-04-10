@@ -75,6 +75,7 @@ sequence :: Monad m => [m a] -> m [a]
 * [aeson](http://hackage.haskell.org/package/aeson)
 * [buffer-builder](https://hackage.haskell.org/package/buffer-builder)
 * [msgpack/msgpack-haskell](https://github.com/msgpack/msgpack-haskell)
+* [Hakyll](http://jaspervdj.be/hakyll/)
 
 ###Client
 ####Network.HTTP
@@ -88,6 +89,7 @@ sequence :: Monad m => [m a] -> m [a]
 * [twitter-conduit](http://hackage.haskell.org/package/twitter-conduit)
 
 ###Server
+* [mighttpd](https://hackage.haskell.org/package/mighttpd)
 * [Haskell から見た node.js](http://d.hatena.ne.jp/kazu-yamamoto/20110825/1314254885)
 * [Web](http://www.scs.stanford.edu/14sp-cs240h/slides/web-slides.html)
 * [scotty-web/scotty](https://github.com/scotty-web/scotty)
