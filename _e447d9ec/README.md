@@ -35,6 +35,13 @@ sequence :: Monad m => [m a] -> m [a]
 * You have to run the entire computation, even if you don't need every result
 * This wastes memory by buffering every result
 
+```
+main = do
+    words <- sequence . repeat $ getLine
+    mapM_ putStrLn words
+    -- 期待通りに動かない例
+```
+
 ###History
 * ✕ Lazy IO
 * Deprecated [enumerator](https://hackage.haskell.org/package/enumerator)
