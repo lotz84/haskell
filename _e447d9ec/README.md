@@ -12,7 +12,8 @@ newtype Parser result = Parser { parse :: Source -> [(result, Remainder)] }
 * [Monadic Parsing in Haskell](http://www.cs.nott.ac.uk/~gmh/pearl.pdf)
 * [構文解析器結合子](https://www.ipsj.or.jp/07editj/promenade/4702.pdf)
    * [モナディック・パーサー](http://d.hatena.ne.jp/kazu-yamamoto/20080920/1221881130)
-* [Parsec](http://www.haskell.org/haskellwiki/Parsec)
+* [parsec](https://hackage.haskell.org/package/parsec)
+* [attoparsec](http://hackage.haskell.org/package/attoparsec)
 
 ###コンパイラを作る
 * [Write Yourself a Scheme in 48 Hours](http://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
@@ -79,18 +80,15 @@ main = do
 
 ##Web
 * [Haskell でソケット通信をやってみる](http://yasutech.blogspot.jp/2012/01/haskell.html)
-* [aeson](http://hackage.haskell.org/package/aeson)
-* [buffer-builder](https://hackage.haskell.org/package/buffer-builder)
 * [msgpack/msgpack-haskell](https://github.com/msgpack/msgpack-haskell)
 * [Hakyll](http://jaspervdj.be/hakyll/)
 
+###JSON
+* [aeson](http://hackage.haskell.org/package/aeson)
+* [buffer-builder](https://hackage.haskell.org/package/buffer-builder)
+
 ###Client
-####Network.HTTP
-> NOTE: This package only supports HTTP; it does not support HTTPS. Attempts to use HTTPS result in an error.
-
-出典: <https://hackage.haskell.org/package/HTTP/docs/Network-HTTP.html>
-
-####Alternatives
+* [HTTP](https://hackage.haskell.org/package/HTTP) - HTTPSは対応していない
 * [wreq](http://www.serpentine.com/wreq/)
 * [http-conduit](http://hackage.haskell.org/package/http-conduit)
 * [twitter-conduit](http://hackage.haskell.org/package/twitter-conduit)
