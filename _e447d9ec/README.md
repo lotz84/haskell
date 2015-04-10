@@ -35,10 +35,10 @@ sequence :: Monad m => [m a] -> m [a]
 * You have to run the entire computation, even if you don't need every result
 * This wastes memory by buffering every result
 
-```
+```haskell
 main = do
-    words <- sequence . repeat $ getLine
-    mapM_ putStrLn words
+    xs <- sequence . repeat $ getLine
+    mapM_ putStrLn xs
     -- 期待通りに動かない例
 ```
 
