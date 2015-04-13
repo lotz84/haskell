@@ -203,6 +203,7 @@ memoized_fib = (map fib [0 ..] !!)
   * [すごい配列楽しく学ぼう](http://www.slideshare.net/xenophobia__/ss-14558187)
 
 ##型
+* [Types & Kinds](http://slpopejoy.github.io/2015/04/10/Types/)
 * [A Route To Learning The Haskell Type System](http://www.colourcoding.net/blog/archive/2015/03/02/a-route-to-learning-the-haskell-type-system.aspx)
 * [Function Types](http://bartoszmilewski.com/2015/03/13/function-types/)
 
