@@ -85,6 +85,7 @@ main = do
 
 ###JSON
 * [aeson](http://hackage.haskell.org/package/aeson)
+  * [Aeson: the tutorial](http://artyom.me/aeson)
 * [buffer-builder](https://hackage.haskell.org/package/buffer-builder)
 
 ###Client
@@ -107,6 +108,7 @@ main = do
 * [i18n, authentication, authorization, and database](http://www.yesodweb.com/blog/2012/01/blog-example)
 * [book](http://www.yesodweb.com/book)
 * [cookbook](https://github.com/yesodweb/yesod/wiki/Cookbook)
+* [Getting started with Yesod using Docker](https://ilikewhenit.works/blog/1)
 
 ##FRP
 
