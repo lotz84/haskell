@@ -4,6 +4,7 @@
 * [Testing a type for (Eq a) in Haskell](http://stackoverflow.com/questions/28799005/testing-a-type-for-eq-a-in-haskell)
 * [Constraint Kinds for GHC](http://blog.omega-prime.co.uk/?p=127)
 * [Inductive family of types](http://mbps.hatenablog.com/entry/2014/09/28/035245)
+* [Polymorphism within higher-order functions?](http://stackoverflow.com/questions/7061538/polymorphism-within-higher-order-functions)
 
 ```haskell
 data Bottom
