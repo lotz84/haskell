@@ -77,6 +77,7 @@ $ runhaskell sum.hs
 * 🎥 [Sed implementation in Haskell](https://www.youtube.com/watch?v=0I90MTip-OQ&list=PLUQzXLQ6jvHL_k3QOMKXehVoZdk-sKtHd)
 * 🎥 [Haskell Tutorial - LazyCasts](https://www.youtube.com/watch?v=5XLTRuKoOtM&index=2&list=PLvj5k87ljYYHwOOcdGvS3qi85IvjOW--8)
 * 🎥 [Loop School](http://school.looprecur.com/)
+* 🎥 [Introduction to functional programming in Haskell](https://www.youtube.com/watch?v=me_KkQfSFrQ)
 * [99 Haskell](http://www.99haskell.org/)
 * [TEACHING HASKELL TO A 10 YEAR OLD: DAY 1](https://superginbaby.wordpress.com/2015/04/08/teaching-haskell-to-a-10-year-old-day-1/)
 
