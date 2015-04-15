@@ -42,6 +42,7 @@ csv = QuasiQuoter
 * [GADTs meet their match](http://research.microsoft.com/en-us/um/people/simonpj/papers/pattern-matching/gadtpm.pdf)
 * [Why are ADTs necessary?](http://www.reddit.com/r/haskell/comments/2z1n16/why_are_adts_necessary/)
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
+* [New in GHC 7.10: Partial Type Signatures](https://www.fpcomplete.com/user/thomasw/new-in-ghc-7-10-partial-type-signatures)
 
 ###Bang patterms
 * [7.18. Bang patterns](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/bang-patterns.html)
