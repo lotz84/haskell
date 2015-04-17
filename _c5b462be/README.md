@@ -8,6 +8,9 @@
 * [CATEGORICAL PROGRAMMING WITH INDUCTIVE AND COINDUCTIVE TYPES](http://kodu.ut.ee/~varmo/papers/thesis.pdf)
 * [ITERATION AND PRIMITIVE RECURSION IN CATEGORICAL TERMS](http://www.cs.ru.nl/barendregt60/essays/geuvers_poll/art08_geuvers_poll.pdf)
 
+##型理論
+* [Making Sense of Subtypes](http://languagengine.co/blog/making-sense-of-subtypes/)
+
 ##計算量理論
 * [計算量理論 演習問題](http://www-imai.is.s.u-tokyo.ac.jp/~kawamura/keisanryo/)
 
