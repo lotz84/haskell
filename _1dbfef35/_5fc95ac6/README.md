@@ -227,3 +227,4 @@ p = Circle {center = (1.0, 2.0), radius = 3.0}
 
 * [record](http://hackage.haskell.org/package/record)
   * [Announcing the first class records library](http://nikita-volkov.github.io/record/)
+* [OverloadedRecordFields revived](http://www.well-typed.com/blog/2015/03/overloadedrecordfields-revived/)
