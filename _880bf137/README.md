@@ -51,11 +51,12 @@ csv = QuasiQuoter
 ###Proposals
 * [Default superclass instances](https://ghc.haskell.org/trac/ghc/wiki/DefaultSuperclassInstances)
 
-
 ##Ecosystem
 * [Hackage](http://hackage.haskell.org/)
 * [Hoogle](https://www.haskell.org/hoogle/)
 * [Hayoo!](http://hayoo.fh-wedel.de/)
+* [Stackage](https://www.stackage.org/)
+      * [Announcing stackage-update](http://www.yesodweb.com/blog/2015/04/announcing-stackage-update)
 
 ###Group
 * [New York Haskell Users Group](http://www.meetup.com/NY-Haskell/)
