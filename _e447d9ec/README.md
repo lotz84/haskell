@@ -187,6 +187,7 @@ main = do
 * [Haskell ではじめるふわとろ Cocoa アプリ開発](http://konn-san.com/prog/haskell/haskell-introduction-to-cocoa.html)
 
 ##Others
+* [scientific](https://hackage.haskell.org/package/scientific)
 * [bitemyapp/learnhaskell](https://github.com/bitemyapp/learnhaskell)
 * [Haskell ポインタープログラミング](http://d.hatena.ne.jp/kazu-yamamoto/20131225/1387938629)
 * [The Implementation of Functional Programming Languages](http://research.microsoft.com/en-us/um/people/simonpj/papers/slpj-book-1987/)
