@@ -96,6 +96,8 @@ fac n = product [1..n]
 出典: [関数合成の妙技](http://d.hatena.ne.jp/kazu-yamamoto/20100702/1278036842)
 
 ###ポイントフリー
+必要のないところでポイントワイズに書く必要はないが、あまりポイントフリーに拘りすぎないのも大事
+
 * [ポイントフリースタイル入門](http://d.hatena.ne.jp/melpon/20111031/1320024473)
 * [Haskellのフクロウ ((.)$(.))](http://uid0130.blogspot.jp/2014/11/haskell_17.html)
 * [Blunt](https://evening-thicket-5270.herokuapp.com/)
