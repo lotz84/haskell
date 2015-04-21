@@ -315,6 +315,11 @@ reset e = return $ e `runCont` id
 * [CPS（継続渡し方式）変換をJavaScriptで説明してみるべ、ナーニ、たいしたことねーべよ](http://d.hatena.ne.jp/m-hiyama/20080116/1200468797)
 
 ##Lens
+
+> いわゆるgetter/setterの圏論による表現。
+
+出典: [Lens](http://mbps.hatenablog.com/entry/2014/10/28/152931)
+
 * [lens](https://hackage.haskell.org/package/lens)
 * [Kinokkory/lens-japanese](https://github.com/Kinokkory/lens-japanese/wiki)
 * [Lensで行こう！](http://myuon-myon.hatenablog.com/entry/20121228/1356708483)
@@ -322,10 +327,7 @@ reset e = return $ e `runCont` id
 * [lens over tea](http://artyom.me/#lens-over-tea)
 * [レンズは余状態余モナドの余代数だった](https://gist.github.com/lotz84/7fd7e279bd7196c6baab)
 * 🎥 [Lenses, Folds and Traversals: An Introduction to the Lens Library with Edward Kmett](http://vimeo.com/56063074)
-
-> いわゆるgetter/setterの圏論による表現。
-
-出典: [Lens](http://mbps.hatenablog.com/entry/2014/10/28/152931)
+* [Picking a lens library](https://ro-che.info/ccc/23)
 
 ###Comonad
 * [comonad](https://hackage.haskell.org/package/comonad)
