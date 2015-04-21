@@ -59,6 +59,24 @@ class Monad m where
 |`>>` |then      |
 |`<-` |drawn from|
 
+```haskell
+do x <- mx
+   y <- my
+   z
+
+-- ... is equivalent to:
+do x <- mx
+   do y <- my
+      z
+
+-- ... desugars to:
+mx >>= (\x ->
+my >>= (\y ->
+z ))
+```
+
+出典: [How to desugar Haskell code ](http://www.haskellforall.com/2014/10/how-to-desugar-haskell-code.html)
+
 ###Maybe Monad
 
 ```haskell
