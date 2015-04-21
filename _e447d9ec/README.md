@@ -86,6 +86,9 @@ main = do
 * [msgpack/msgpack-haskell](https://github.com/msgpack/msgpack-haskell)
 * [Hakyll](http://jaspervdj.be/hakyll/)
 
+###Database
+* [Safe concurrent MySQL access in Haskell](https://ro-che.info/articles/2015-04-17-safe-concurrent-mysql-haskell)
+
 ###JSON
 * [aeson](http://hackage.haskell.org/package/aeson)
   * [Aeson: the tutorial](http://artyom.me/aeson)
@@ -143,11 +146,12 @@ main = do
   * [Functional Reactive Programming in JavaScript](http://flippinawesome.org/2013/09/30/functional-reactive-programming-in-javascript/)
 * [ReactiveCocoa/ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
 
-##数値計算
+##数値計算・可視化
 * [linear](http://hackage.haskell.org/package/linear)
 * [repa](https://hackage.haskell.org/package/repa)
 * [hmatrix](https://hackage.haskell.org/package/hmatrix)
 * [ad](https://hackage.haskell.org/package/ad)
+* [diagrams](http://projects.haskell.org/diagrams/)
 
 ##OpenGL
 * [OpenGL](https://hackage.haskell.org/package/OpenGL)
@@ -167,12 +171,15 @@ main = do
 * [turtle](http://hackage.haskell.org/package/turtle)
 * [optparse-applicative](https://hackage.haskell.org/package/optparse-applicative)
 
+##Machine Learning
+* [mikeizbicki/HLearn](https://github.com/mikeizbicki/HLearn/)
+* [ajtulloch/dnngraph](https://github.com/ajtulloch/dnngraph)
+
 ##Repos
 * [badamson/2048.hs](https://github.com/badamson/2048.hs)
 * [hedis](https://hackage.haskell.org/package/hedis)
 * [ncurses](http://hackage.haskell.org/package/ncurses)
 * [ImperativeHaskell](http://hackage.haskell.org/package/ImperativeHaskell)
-* [mikeizbicki/HLearn](https://github.com/mikeizbicki/HLearn/)
 
 ##デバッグ
 * [Debug.Trace](http://hackage.haskell.org/package/base/docs/Debug-Trace.html)
