@@ -328,6 +328,7 @@ reset e = return $ e `runCont` id
 * [レンズは余状態余モナドの余代数だった](https://gist.github.com/lotz84/7fd7e279bd7196c6baab)
 * 🎥 [Lenses, Folds and Traversals: An Introduction to the Lens Library with Edward Kmett](http://vimeo.com/56063074)
 * [Picking a lens library](https://ro-che.info/ccc/23)
+* [Functor is to Lens as Applicative is to Biplate: Introducing Multiplate](http://arxiv.org/abs/1103.2841)
 
 ###Comonad
 * [comonad](https://hackage.haskell.org/package/comonad)
