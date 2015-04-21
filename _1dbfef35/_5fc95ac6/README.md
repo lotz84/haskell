@@ -198,6 +198,7 @@ memoized_fib = (map fib [0 ..] !!)
 [stepeval](http://bm380.user.srcf.net/cgi-bin/stepeval.cgi)
 
 ##データ構造
+* [(cons cat (cons cat nil))](https://twitter.com/lvsn/status/533685461957349376)
 * [Purely Functional Data Structures](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
 * [bytestring](https://hackage.haskell.org/package/bytestring)
   * [A guided tour through the bytestring library](http://meiersi.github.io/HaskellerZ/meetups/2012%2001%2019%20-%20The%20bytestring%20library/slides.html)
