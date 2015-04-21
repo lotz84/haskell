@@ -125,7 +125,9 @@ fac n = product [1..n]
 
 出典: [The Evolution of a Haskell Programmer](http://www.willamette.edu/~fruehr/haskell/evolution.html)
 
-##関数合成
+##関数
+* [Curry](https://ro-che.info/ccc/10)
+
 > We shall suppose that functional application is more binding than any other operator, so f x ++ y means (f x) ++ y and not f (x ++ y).
 
 出典: [An Introduction to the Theory of Lists](https://www.cs.ox.ac.uk/files/3378/PRG56.pdf)
