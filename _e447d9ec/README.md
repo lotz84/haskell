@@ -22,6 +22,7 @@ newtype Parser result = Parser { parse :: Source -> [(result, Remainder)] }
 * [Write Yourself a Scheme in 48 Hours](http://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 * [Implementing a JIT Compiled Language with Haskell and LLVM](http://www.stephendiehl.com/llvm/)
 * [Write You a Haskell](http://dev.stephendiehl.com/fun/)
+* [The Implementation of Functional Programming Languages](http://research.microsoft.com/en-us/um/people/simonpj/papers/slpj-book-1987/)
 
 ##理想のLazy IOを求めて
 * [IO inside](https://www.haskell.org/haskellwiki/IO_inside)
@@ -88,6 +89,7 @@ main = do
 
 ###Database
 * [Safe concurrent MySQL access in Haskell](https://ro-che.info/articles/2015-04-17-safe-concurrent-mysql-haskell)
+* [Haxl - Haskellを使った暗黙的な並列データアクセス](http://www.infoq.com/jp/news/2014/06/haxl)
 
 ###JSON
 * [aeson](http://hackage.haskell.org/package/aeson)
@@ -151,6 +153,7 @@ main = do
 * [repa](https://hackage.haskell.org/package/repa)
 * [hmatrix](https://hackage.haskell.org/package/hmatrix)
 * [ad](https://hackage.haskell.org/package/ad)
+* [scientific](https://hackage.haskell.org/package/scientific)
 * [diagrams](http://projects.haskell.org/diagrams/)
 
 ##OpenGL
@@ -194,20 +197,13 @@ main = do
 * [Haskell ではじめるふわとろ Cocoa アプリ開発](http://konn-san.com/prog/haskell/haskell-introduction-to-cocoa.html)
 
 ##Others
-* [scientific](https://hackage.haskell.org/package/scientific)
-* [bitemyapp/learnhaskell](https://github.com/bitemyapp/learnhaskell)
+* [CARTESIAN CLOSED COMIC](https://ro-che.info/ccc/)
 * [Haskell ポインタープログラミング](http://d.hatena.ne.jp/kazu-yamamoto/20131225/1387938629)
-* [The Implementation of Functional Programming Languages](http://research.microsoft.com/en-us/um/people/simonpj/papers/slpj-book-1987/)
 * [Partial Function Considered Harmful](http://tanakh.jp/posts/2011-12-25-partial-function-considered-harmful.html)
 * [Haskell on Heroku](https://haskellonheroku.com/)
-* [High-Performance Haskell](http://www.slideshare.net/tibbe/highperformance-haskell)
 * [haskell で乱数](http://yomi322.hateblo.jp/entry/2012/10/07/121507)
 * [EclipseFP](http://eclipsefp.github.io/)
-* [Haxl - Haskellを使った暗黙的な並列データアクセス](http://www.infoq.com/jp/news/2014/06/haxl)
-* [Stephen Diehl](http://www.stephendiehl.com/)
 * [frp-arduino/frp-arduino](https://github.com/frp-arduino/frp-arduino)
-* [第 16 章 Hindley/Milner 型推論](http://www29.atwiki.jp/tmiya/pages/78.html)
-* <https://twitter.com/lvsn/status/533685461957349376>
 * [A Type-theoretic Reconstruction of the Visitor Pattern](http://www.cs.bham.ac.uk/~hxt/research/mfps-visitors.pdf)
 * [Lazy Functional State Threads](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.144.2237&rep=rep1&type=pdf)
 * [Theorems for free!](http://www.cs.sfu.ca/CourseCentral/831/burton/Notes/July14/free.pdf)
