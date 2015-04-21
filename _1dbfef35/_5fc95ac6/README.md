@@ -1,4 +1,18 @@
 #基本と関数と型
+##Hello World
+
+```bash
+$ vim hello.hs
+```
+
+```haskell
+main = putStrLn "Hello World!"
+```
+
+```bash
+$ runhaskell hello.hs
+Hello World!
+```
 
 * [A History of Haskell: Being Lazy With Class](http://haskell.cs.yale.edu/wp-content/uploads/2011/02/history.pdf)
    * <https://www.youtube.com/watch?v=3bjXGrycMhQ>
@@ -31,40 +45,6 @@ $ hlint code.hs
 ```
 
 [hlint](https://hackage.haskell.org/package/hlint)
-
-##Example
-###Hello World
-
-```shell
-$ vim hello.hs
-```
-
-```haskell
-main = putStrLn "Hello World!"
-```
-
-```shell
-$ runhaskell hello.hs
-Hello World!
-```
-
-###ファイルからデータを読む
-
-```shell
-$ echo "1 3 50 10" > data.txt
-$ vim sum.hs
-```
-
-```haskell
-main = do
-  txt <- readFile "data.txt"
-  print $ sum . map read . words $ txt
-```
-
-```shell
-$ runhaskell sum.hs
-64
-```
 
 ##Basics
 * [Try Haskell](https://tryhaskell.org/)
