@@ -26,6 +26,7 @@ csv = QuasiQuoter
 ```
 
 ##Type Inference
+* [第 16 章 Hindley/Milner 型推論](http://www29.atwiki.jp/tmiya/pages/78.html)
 * [An Explanation of Type Inference for ML/Haskell](http://jozefg.bitbucket.org/posts/2015-02-28-type-inference.html)
 
 ##GHC
@@ -43,6 +44,7 @@ csv = QuasiQuoter
 * [Why are ADTs necessary?](http://www.reddit.com/r/haskell/comments/2z1n16/why_are_adts_necessary/)
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
 * [New in GHC 7.10: Partial Type Signatures](https://www.fpcomplete.com/user/thomasw/new-in-ghc-7-10-partial-type-signatures)
+* [High-Performance Haskell](http://www.slideshare.net/tibbe/highperformance-haskell)
 
 ###Bang patterms
 * [7.18. Bang patterns](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/bang-patterns.html)
