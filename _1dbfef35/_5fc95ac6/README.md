@@ -153,6 +153,8 @@ memoized_fib = (map fib [0 ..] !!)
          fib 1 = 1
          fib n = memoized_fib (n-2) + memoized_fib (n-1)
 ```
+
+* [Schrödinger's cat](https://ro-che.info/ccc/4)
 * [Can someone explain the concept behind Haskell's memoization?](http://programmers.stackexchange.com/questions/220746/can-someone-explain-the-concept-behind-haskells-memoization)
 * [The Incomplete Guide to Lazy Evaluation (in Haskell)](https://hackhands.com/guide-lazy-evaluation-haskell/)
 
