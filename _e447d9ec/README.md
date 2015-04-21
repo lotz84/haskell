@@ -53,6 +53,7 @@ main = do
 * [iteratee](https://hackage.haskell.org/package/iteratee)
 * [iterIO](https://hackage.haskell.org/package/iterIO)
 * [machines](http://hackage.haskell.org/package/machines)
+* [Iteratees](https://ro-che.info/ccc/15)
 
 ###io-streams
 * [io-streams](http://hackage.haskell.org/package/io-streams)
