@@ -1,6 +1,26 @@
 #型クラスと抽象
 
 ##型クラス
+###宣言
+
+```haskell
+class Show a where
+    show :: a -> String
+```
+
+`Show` は型クラス、`show` はメソッドと呼ばれる。
+
+###実装
+
+```haskell
+instance Show Bool where
+    show True  = "True"
+    show False = "False"
+```
+
+これで`Bool`型はShowのインスタンスになる。
+例えば`print :: Show a => a -> IO ()`の型`a`にはShowのインスタンスであれば何でも使うことが出来る。
+
 * [The Typeclassopediaを訳しました](http://snak.tdiary.net/20091020.html)
 * [When to use a type class, when to use a type](http://stackoverflow.com/questions/12286315/when-to-use-a-type-class-when-to-use-a-type)
 * [Type classes: an exploration of the design space](http://courses.cs.washington.edu/courses/cse590p/06sp/multi.pdf)
