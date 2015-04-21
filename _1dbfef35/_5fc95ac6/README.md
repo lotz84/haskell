@@ -85,33 +85,12 @@ $ runhaskell sum.hs
 
 出典: [非決定計算としてのリストモナド](http://tanakh.jp/posts/2012-02-22-list-monad.html)
 
-|記号|発音|
-|:---|:---|
-|`=`|is|
+|記号|発音  |
+|:---|:-----|
+|`=` |is    |
 |`==`|equals|
-|`()`|unit|
-|`:`|cons|
-|`[]`|nil|
-|`++`|append|
-|`<*>`|applied over|
-|`>>=`|bind|
-|`>>`|then, sequence|
-|`<-`|drawn from, from|
 
 出典: [Pronunciation](https://www.haskell.org/haskellwiki/Pronunciation)
-
-```haskell
-do x <- mx
-   y <- my
-   z
-
--- ... desugars to:
-mx >>= (\x ->
-my >>= (\y ->
-z ))
-```
-
-出典: [How to desugar Haskell code ](http://www.haskellforall.com/2014/10/how-to-desugar-haskell-code.html)
 
 ```haskell
 -- Freshman Haskell programmer
@@ -210,6 +189,13 @@ memoized_fib = (map fib [0 ..] !!)
 * [array](https://hackage.haskell.org/package/array)
   * [すごい配列楽しく学ぼう](http://www.slideshare.net/xenophobia__/ss-14558187)
   * [Open Data Types and Open Functions](https://www.cs.ox.ac.uk/people/ralf.hinze/publications/PPDP06.pdf)
+
+|記号|読み方|
+|:---|:-----|
+|`()`|unit  |
+|`:` |cons  |
+|`[]`|nil   |
+|`++`|append|
 
 ##型
 * [Types & Kinds](http://slpopejoy.github.io/2015/04/10/Types/)
