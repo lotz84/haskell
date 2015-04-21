@@ -1,3 +1,5 @@
+* [SKI](https://ro-che.info/ccc/8)
+
 #Pure Script
 * <http://www.purescript.org/>
 * [andyarvanitis/pure11](https://github.com/andyarvanitis/pure11)
