@@ -18,6 +18,10 @@
 ##Applicative
 * [Applicative functor](http://mbps.hatenablog.com/entry/2014/07/16/200206)
 
+|記号 |読み方      |
+|:----|:-----------|
+|`<*>`|applied over|
+
 ##Monad
 「環」の理論を知らなくても整数の足し算掛け算が出来るように、モナドの数学的な理論を知らなくてもモナドを使うことは出来る。
 
@@ -32,7 +36,6 @@
 > まずは、型クラスと高階関数を使ってプログラムを書いてみてください。そうすれば、モナドは自然と使えるようになるよ、というのが今日の私の主張です。
 
 出典: [初心者のモナド](http://turedre.blogspot.jp/2012/12/blog-post.html)
-
 
 ```haskell
 class Monad m where
@@ -49,6 +52,12 @@ class Monad m where
 
 * [All About Monads](https://wiki.haskell.org/All_About_Monads)
 * [Monad tutorials timeline](https://wiki.haskell.org/Monad_tutorials_timeline)
+
+|記号 |読み方    |
+|:----|:---------|
+|`>>=`|bind      |
+|`>>` |then      |
+|`<-` |drawn from|
 
 ###Maybe Monad
 
