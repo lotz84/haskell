@@ -209,6 +209,7 @@ memoized_fib = (map fib [0 ..] !!)
   * [A guided tour through the bytestring library](http://meiersi.github.io/HaskellerZ/meetups/2012%2001%2019%20-%20The%20bytestring%20library/slides.html)
 * [array](https://hackage.haskell.org/package/array)
   * [すごい配列楽しく学ぼう](http://www.slideshare.net/xenophobia__/ss-14558187)
+  * [Open Data Types and Open Functions](https://www.cs.ox.ac.uk/people/ralf.hinze/publications/PPDP06.pdf)
 
 ##型
 * [Types & Kinds](http://slpopejoy.github.io/2015/04/10/Types/)
