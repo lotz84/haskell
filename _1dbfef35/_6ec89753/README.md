@@ -188,7 +188,7 @@ instance Functor f => Monad (Free f) where
   Pure x >>= f = f x
 ```
 
-既存のファンクタを使ってモナドを作ることができる。データ構造とモナドの構文を使って木を作ることができ、それを走査すれば簡単にDSLを作ることができる。この場合ファンクタのパラメータは後続する処理を表す。
+既存のファンクタを使ってモナドを作ることができる。データ構造とモナドの構文を使って抽象構文木を作ることができ、それを走査すれば簡単にDSLを作ることができる。この場合ファンクタのパラメータは後続する処理を表す。
 
 * [Why free monads matter](http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html)
 * [Freeモナドって何なのさっ！？](http://d.hatena.ne.jp/its_out_of_tune/20121111/1352632815)
