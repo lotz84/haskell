@@ -140,6 +140,7 @@ main = do
 * [A Survey of Functional Reactive Programming](http://www.cs.rit.edu/~eca7215/frp-independent-study/Survey.pdf)
 * 🎥 [Reflex: Practical Functional Reactive Programming](https://www.youtube.com/watch?v=mYvkcskJbc4)
   * [part2](https://www.youtube.com/watch?v=3qfc9XFVo2c)
+* [frp-arduino/frp-arduino](https://github.com/frp-arduino/frp-arduino)
 
 ###Other Language
 * [Elm](http://elm-lang.org/)
@@ -174,16 +175,12 @@ main = do
 ##CLI
 * [turtle](http://hackage.haskell.org/package/turtle)
 * [optparse-applicative](https://hackage.haskell.org/package/optparse-applicative)
+* [vty](https://hackage.haskell.org/package/vty)
+* [ncurses](http://hackage.haskell.org/package/ncurses)
 
 ##Machine Learning
 * [mikeizbicki/HLearn](https://github.com/mikeizbicki/HLearn/)
 * [ajtulloch/dnngraph](https://github.com/ajtulloch/dnngraph)
-
-##Repos
-* [badamson/2048.hs](https://github.com/badamson/2048.hs)
-* [hedis](https://hackage.haskell.org/package/hedis)
-* [ncurses](http://hackage.haskell.org/package/ncurses)
-* [ImperativeHaskell](http://hackage.haskell.org/package/ImperativeHaskell)
 
 ##デバッグ
 * [Debug.Trace](http://hackage.haskell.org/package/base/docs/Debug-Trace.html)
@@ -204,13 +201,14 @@ main = do
 * [Haskell on Heroku](https://haskellonheroku.com/)
 * [haskell で乱数](http://yomi322.hateblo.jp/entry/2012/10/07/121507)
 * [EclipseFP](http://eclipsefp.github.io/)
-* [frp-arduino/frp-arduino](https://github.com/frp-arduino/frp-arduino)
 * [A Type-theoretic Reconstruction of the Visitor Pattern](http://www.cs.bham.ac.uk/~hxt/research/mfps-visitors.pdf)
 * [Lazy Functional State Threads](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.144.2237&rep=rep1&type=pdf)
 * [Theorems for free!](http://www.cs.sfu.ca/CourseCentral/831/burton/Notes/July14/free.pdf)
 * [Typed Tagless Final Interpreters](http://okmij.org/ftp/tagless-final/course/lecture.pdf)
 * [Just do it: Simple monadic equational reasoning](http://www.cs.ox.ac.uk/publications/publication4877-abstract.html)
 * 🎥 [Kenneth Foner - Getting a Quick Fix on Comonads](https://www.youtube.com/watch?v=F7F-BzOB670)
+* [badamson/2048.hs](https://github.com/badamson/2048.hs)
+* [ImperativeHaskell](http://hackage.haskell.org/package/ImperativeHaskell)
 
 ###Formatting
 
