@@ -376,6 +376,7 @@ reset e = return $ e `runCont` id
 * 🎥 [Lenses, Folds and Traversals: An Introduction to the Lens Library with Edward Kmett](http://vimeo.com/56063074)
 * [Picking a lens library](https://ro-che.info/ccc/23)
 * [Functor is to Lens as Applicative is to Biplate: Introducing Multiplate](http://arxiv.org/abs/1103.2841)
+* [Could someone explain the diagram about the `lens` library?](http://stackoverflow.com/questions/29742634/could-someone-explain-the-diagram-about-the-lens-library/29742635#29742635)
 
 ###Comonad
 * [comonad](https://hackage.haskell.org/package/comonad)
