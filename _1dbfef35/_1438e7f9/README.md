@@ -1,4 +1,3 @@
-#並列・並行処理
 * [できる！並列・並行プログラミング](http://www.slideshare.net/pfi/ss-9780450)
 * [Concurrency](http://www.scs.stanford.edu/14sp-cs240h/slides/concurrency-slides.html)
 * [Memory](http://www.scs.stanford.edu/14sp-cs240h/slides/memory-slides.html)
@@ -9,3 +8,6 @@
 * [関数型プログラミング言語における通信記述の型付け](http://ir.nul.nagoya-u.ac.jp/jspui/handle/2237/16436)
 * [accelerate](http://hackage.haskell.org/package/accelerate)
 * [accelerate-cuda](http://hackage.haskell.org/package/accelerate-cuda)
+
+##STM
+* [Simple STM example](https://wiki.haskell.org/Simple_STM_example)
