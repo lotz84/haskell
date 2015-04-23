@@ -31,6 +31,10 @@
 {-# LANGUAGE QuasiQuotes #-}
 import Language.Haskell.TH.Quote
 
+readCSV xs = let (ys, zs) = break (==',') xs
+             in if null zs then [ys]
+                           else ys : readCSV (tail zs)
+
 csv :: QuasiQuoter
 csv = QuasiQuoter
       { quoteExp  = exp
@@ -40,9 +44,6 @@ csv = QuasiQuoter
       }
       where
       exp = dataToExpQ (const Nothing) . readCSV
-      readCSV xs = let (ys, zs) = break (==',') xs
-                   in if null zs then [ys]
-                                 else ys : readCSV (tail zs)
 ```
 
 ```
