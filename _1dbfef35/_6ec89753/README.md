@@ -116,6 +116,7 @@ instance Monad [] where
 
 * [リストモナドの動作原理を考える](http://d.hatena.ne.jp/kazu-yamamoto/20090313/1236935179)
 * [guard の動作原理を考える](http://d.hatena.ne.jp/kazu-yamamoto/20090401/1238555013)
+* [Easy exhasutive search with the list monad](http://blog.plover.com/prog/haskell/monad-search.html)
 
 ###Error monad
 * [Error monad](http://mbps.hatenablog.com/entry/2014/12/13/123751)
