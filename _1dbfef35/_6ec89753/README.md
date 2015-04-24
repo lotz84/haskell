@@ -333,6 +333,7 @@ transformersにはMonad Transformerを新しく定義する度に全ての組み
 * [Control.Monad.Cont](https://hackage.haskell.org/package/mtl/docs/Control-Monad-Cont.html)
 * [Continuation monad](http://mbps.hatenablog.com/entry/2014/11/13/034424)
 * [CPS monad](http://mbps.hatenablog.com/entry/2014/07/14/022058)
+* [CPS というプログラミングスタイルの導入の話](http://yuzumikan15.hatenablog.com/entry/2015/04/24/094610)
 
 > 文献を紐解くと、 継続とは「これから行われるであろう計算をパッケージ化したもの」とある。
 
