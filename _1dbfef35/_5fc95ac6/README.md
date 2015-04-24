@@ -65,13 +65,6 @@ $ hlint code.hs
 
 出典: [非決定計算としてのリストモナド](http://tanakh.jp/posts/2012-02-22-list-monad.html)
 
-|記号|発音  |
-|:---|:-----|
-|`=` |is    |
-|`==`|equals|
-
-出典: [Pronunciation](https://www.haskell.org/haskellwiki/Pronunciation)
-
 ```haskell
 -- Freshman Haskell programmer
 fac n = if n == 0 
