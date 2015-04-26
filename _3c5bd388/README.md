@@ -1,23 +1,36 @@
 * [SKI](https://ro-che.info/ccc/8)
 
-#Pure Script
-* <http://www.purescript.org/>
-* [andyarvanitis/pure11](https://github.com/andyarvanitis/pure11)
-
-#OCaml
-* [「プログラミングの基礎」を使った授業紹介](http://pllab.is.ocha.ac.jp/~asai/book-mov/)
-
-#CPL
+##CPL
 * [圏論プログラミング言語 CPL](http://mandel59.hateblo.jp/entry/2015/02/02/110621)
 
-#Alms
+##Alms
 * [Practical Affine Types](http://www.ccs.neu.edu/home/tov/pubs/alms/)
 
-#ATS
+##ATS
 * [Japan ATS User Group](http://jats-ug.metasepi.org/)
 * [Introduction to Programming in ATS](http://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/INT2PROGINATS-BOOK.html)
 
-#Idris
+##OCaml
+* [「プログラミングの基礎」を使った授業紹介](http://pllab.is.ocha.ac.jp/~asai/book-mov/)
+
+##AltJS
+###elm
+* [elm](http://elm-lang.org/)
+
+###Haste
+* [Haste](http://haste-lang.org/)
+
+###Pure Script
+* <http://www.purescript.org/>
+* [andyarvanitis/pure11](https://github.com/andyarvanitis/pure11)
+
+###ghcjs
+* [ghcjs/ghcjs](https://github.com/ghcjs/ghcjs)
+
+###Fay
+* [faylang/fay](https://github.com/faylang/fay)
+
+##Idris
 <http://www.idris-lang.org/>
 
 * [Practical Erasure in Dependently Typed Languages](https://edwinb.wordpress.com/2015/02/28/practical-erasure-in-dependently-typed-languages/)
