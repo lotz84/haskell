@@ -30,6 +30,7 @@ instance Show Bool where
 * [Data.Traversable](https://hackage.haskell.org/package/base/docs/Data-Traversable.html)
   * [Traversable functor](http://mbps.hatenablog.com/entry/2014/09/22/100000)
 * [Data.Distributive](hackage.haskell.org/package/distributive/docs/Data-Distributive.html)
+* [Adventure with Types in Haskell - Simon Peyton Jones](https://www.youtube.com/watch?v=6COvD8oynmI)
 
 ##Functor
 * [Are Functor instances unique?](http://stackoverflow.com/questions/19774904/are-functor-instances-unique#19775139)
