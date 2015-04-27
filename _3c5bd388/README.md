@@ -10,7 +10,11 @@
 * [Japan ATS User Group](http://jats-ug.metasepi.org/)
 * [Introduction to Programming in ATS](http://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/INT2PROGINATS-BOOK.html)
 
+##ML
+* [SML for Haskellers](http://jozefg.bitbucket.org/posts/2015-04-24-sml-for-haskellers.html)
+
 ##OCaml
+* [OCaml for Haskellers](http://blog.ezyang.com/2010/10/ocaml-for-haskellers/)
 * [「プログラミングの基礎」を使った授業紹介](http://pllab.is.ocha.ac.jp/~asai/book-mov/)
 
 ##AltJS
