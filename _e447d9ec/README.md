@@ -88,6 +88,7 @@ main = do
 * [Haskell でソケット通信をやってみる](http://yasutech.blogspot.jp/2012/01/haskell.html)
 * [msgpack/msgpack-haskell](https://github.com/msgpack/msgpack-haskell)
 * [Hakyll](http://jaspervdj.be/hakyll/)
+* [websockets](http://jaspervdj.be/websockets/)
 
 ###Database
 * [Safe concurrent MySQL access in Haskell](https://ro-che.info/articles/2015-04-17-safe-concurrent-mysql-haskell)
