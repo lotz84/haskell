@@ -4,6 +4,7 @@
 * <https://twitter.com/datgame/status/563269982721941505>
 * [Functional TDD: A Clash of Cultures](https://www.facebook.com/notes/kent-beck/functional-tdd-a-clash-of-cultures/472392329460303)
 * [Practical testing in Haskell](http://jaspervdj.be/posts/2015-03-13-practical-testing-in-haskell.html)
+* [ソフトウェアテスト技法いろいろ](http://shanon-tech.blogspot.jp/2011/05/blog-post.html)
 
 ###QuickCheck
 
