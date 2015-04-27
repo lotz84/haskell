@@ -17,6 +17,7 @@ newtype Parser result = Parser { parse :: Source -> [(result, Remainder)] }
    * [モナディック・パーサー](http://d.hatena.ne.jp/kazu-yamamoto/20080920/1221881130)
 * [parsec](https://hackage.haskell.org/package/parsec)
 * [attoparsec](http://hackage.haskell.org/package/attoparsec)
+* [JavaScriptでパーサコンビネータのコンセプトを理解する](http://blog.anatoo.jp/entry/2015/04/26/220026)
 
 ###コンパイラを作る
 * [Write Yourself a Scheme in 48 Hours](http://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
