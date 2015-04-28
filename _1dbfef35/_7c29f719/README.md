@@ -5,6 +5,7 @@
 * [Constraint Kinds for GHC](http://blog.omega-prime.co.uk/?p=127)
 * [Inductive family of types](http://mbps.hatenablog.com/entry/2014/09/28/035245)
 * [Polymorphism within higher-order functions?](http://stackoverflow.com/questions/7061538/polymorphism-within-higher-order-functions)
+* [Announcing the refinement types library](http://nikita-volkov.github.io/refined/)
 
 ```haskell
 data Bottom
@@ -66,3 +67,8 @@ data HList (as :: [*]) where
 * [GHC.Generics](http://hackage.haskell.org/package/base/docs/GHC-Generics.html)
 * [Datatype-Generic Programming in Haskell](https://skillsmatter.com/skillscasts/3932-a-haskell-lecture-with-leading-expert-andres-loh)
 * [Generic programming](http://www.scs.stanford.edu/14sp-cs240h/slides/generic-slides.html)
+
+##Vinyl
+* [vinyl](https://hackage.haskell.org/package/vinyl)
+* [Programming in Vinyl / BayHac 2014](https://vimeo.com/95694918)
+* [Vinyl: Records in Haskell and Type Theory](https://vimeo.com/102785458)
