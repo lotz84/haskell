@@ -60,6 +60,8 @@ $ hlint code.hs
 * 🎥 [Introduction to functional programming in Haskell](https://www.youtube.com/watch?v=me_KkQfSFrQ)
 * [99 Haskell](http://www.99haskell.org/)
 * [TEACHING HASKELL TO A 10 YEAR OLD: DAY 1](https://superginbaby.wordpress.com/2015/04/08/teaching-haskell-to-a-10-year-old-day-1/)
+* [anchor/haskell-cheat-sheets](https://github.com/anchor/haskell-cheat-sheets)
+* [caiorss/Functional-Programming](https://github.com/caiorss/Functional-Programming#concepts)
 
 > ゴルフでもトリッキーなコードでもなく、 計算の仕方を変えるだけでより直接的に、シンプルに、コードが短くなりました。 必要なのはやりたいことが実際にはどのような計算なのかということを認識することです。 難しく考えないようにしましょう。
 
@@ -164,6 +166,7 @@ memoized_fib = (map fib [0 ..] !!)
 * [array](https://hackage.haskell.org/package/array)
   * [すごい配列楽しく学ぼう](http://www.slideshare.net/xenophobia__/ss-14558187)
   * [Open Data Types and Open Functions](https://www.cs.ox.ac.uk/people/ralf.hinze/publications/PPDP06.pdf)
+* [Leonardo Random Access Lists](https://www.fpcomplete.com/user/edwardk/fibonacci/leonardo)
 
 |記号|読み方|
 |:---|:-----|
