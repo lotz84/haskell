@@ -9,6 +9,8 @@
 ##ATS
 * [Japan ATS User Group](http://jats-ug.metasepi.org/)
 * [Introduction to Programming in ATS](http://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/INT2PROGINATS-BOOK.html)
+  * [日本語訳](http://jats-ug.metasepi.org/doc/ATS2/INT2PROGINATS/index.html)
+* [fpiot/arduino-ats](https://github.com/fpiot/arduino-ats)
 
 ##ML
 * [SML for Haskellers](http://jozefg.bitbucket.org/posts/2015-04-24-sml-for-haskellers.html)
