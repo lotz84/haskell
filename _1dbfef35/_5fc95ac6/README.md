@@ -62,6 +62,7 @@ $ hlint code.hs
 * [TEACHING HASKELL TO A 10 YEAR OLD: DAY 1](https://superginbaby.wordpress.com/2015/04/08/teaching-haskell-to-a-10-year-old-day-1/)
 * [anchor/haskell-cheat-sheets](https://github.com/anchor/haskell-cheat-sheets)
 * [caiorss/Functional-Programming](https://github.com/caiorss/Functional-Programming#concepts)
+* [Recommended Haskell reading and watching](https://secure.plaimi.net/~alexander/haskell.html)
 
 > ゴルフでもトリッキーなコードでもなく、 計算の仕方を変えるだけでより直接的に、シンプルに、コードが短くなりました。 必要なのはやりたいことが実際にはどのような計算なのかということを認識することです。 難しく考えないようにしましょう。
 
@@ -166,7 +167,8 @@ memoized_fib = (map fib [0 ..] !!)
 * [array](https://hackage.haskell.org/package/array)
   * [すごい配列楽しく学ぼう](http://www.slideshare.net/xenophobia__/ss-14558187)
   * [Open Data Types and Open Functions](https://www.cs.ox.ac.uk/people/ralf.hinze/publications/PPDP06.pdf)
-* [Leonardo Random Access Lists](https://www.fpcomplete.com/user/edwardk/fibonacci/leonardo)
+* [Part 1: Leonardo Random Access Lists](https://www.fpcomplete.com/user/edwardk/fibonacci/leonardo)
+* [Part 2: Open-Ended Fibonacci Search](https://www.fpcomplete.com/user/edwardk/fibonacci/search)
 
 |記号|読み方|
 |:---|:-----|
