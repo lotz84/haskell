@@ -15,6 +15,9 @@
 ##ML
 * [SML for Haskellers](http://jozefg.bitbucket.org/posts/2015-04-24-sml-for-haskellers.html)
 
+##Agda
+* [Learn you an agda and achive enlightenment](http://learnyouanagda.liamoc.net/)
+
 ##OCaml
 * [OCaml for Haskellers](http://blog.ezyang.com/2010/10/ocaml-for-haskellers/)
 * [「プログラミングの基礎」を使った授業紹介](http://pllab.is.ocha.ac.jp/~asai/book-mov/)
