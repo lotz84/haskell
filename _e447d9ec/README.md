@@ -90,6 +90,7 @@ main = do
 * [Hakyll](http://jaspervdj.be/hakyll/)
 * [websockets](http://jaspervdj.be/websockets/)
 * [egonSchiele/HandsomeSoup](https://github.com/egonSchiele/HandsomeSoup)
+* [jwiegley/github](https://github.com/jwiegley/github)
 
 ###Database
 * [Safe concurrent MySQL access in Haskell](https://ro-che.info/articles/2015-04-17-safe-concurrent-mysql-haskell)
