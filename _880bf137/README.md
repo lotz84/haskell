@@ -1,3 +1,5 @@
+* [Thinking About Performance](http://chadaustin.me/2015/04/thinking-about-performance/)
+
 ##処理系
 ###GHC
 * [栄光のグラスゴーHaskellコンパイルシステム利用の手引き](http://www.kotha.net/ghcguide_ja/latest/)
