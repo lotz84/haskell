@@ -6,6 +6,7 @@
 * [Inductive family of types](http://mbps.hatenablog.com/entry/2014/09/28/035245)
 * [Polymorphism within higher-order functions?](http://stackoverflow.com/questions/7061538/polymorphism-within-higher-order-functions)
 * [Announcing the refinement types library](http://nikita-volkov.github.io/refined/)
+* [Type Programming with Athan Clark](https://www.youtube.com/watch?v=iwj3Bni4uYE)
 
 ```haskell
 data Bottom
