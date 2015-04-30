@@ -7,6 +7,7 @@
 * [If expression](http://mbps.hatenablog.com/entry/2014/10/14/012401)
 * [CATEGORICAL PROGRAMMING WITH INDUCTIVE AND COINDUCTIVE TYPES](http://kodu.ut.ee/~varmo/papers/thesis.pdf)
 * [ITERATION AND PRIMITIVE RECURSION IN CATEGORICAL TERMS](http://www.cs.ru.nl/barendregt60/essays/geuvers_poll/art08_geuvers_poll.pdf)
+* [Algebraic structure](https://en.wikipedia.org/wiki/Algebraic_structure)
 
 ##型理論
 * [Making Sense of Subtypes](http://languagengine.co/blog/making-sense-of-subtypes/)
