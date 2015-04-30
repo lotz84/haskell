@@ -93,6 +93,10 @@
 * [世界一わかりやすいモナドの記事](http://myuon-myon.hatenablog.com/entry/2013/06/26/173904)
 * [Monads from Comonads, Comonads from Monads](http://www.cs.ox.ac.uk/ralf.hinze/WG2.8/28/slides/Comonad.pdf)
 
+##エンド
+* [エンド](http://alg-d.com/math/category/end.pdf)
+* [This is the (co)end, my only (co)friend](http://arxiv.org/abs/1501.02503)
+
 ##プログラム意味論
 * [プログラミング言語の意味論](http://www.kurims.kyoto-u.ac.jp/~kenkyubu/kokai-koza/katsumata.pdf)
 
