@@ -32,6 +32,7 @@ instance Show Bool where
 * [Data.Distributive](hackage.haskell.org/package/distributive/docs/Data-Distributive.html)
 * [Adventure with Types in Haskell - Simon Peyton Jones](https://www.youtube.com/watch?v=6COvD8oynmI)
 * [Writing invertible functions](http://blog.callcc.name/posts/invertible-functions.html)
+* [Domains, Sets, Traversals and Applicatives](http://comonad.com/reader/2015/domains-sets-traversals-and-applicatives/)
 
 ##Functor
 * [Are Functor instances unique?](http://stackoverflow.com/questions/19774904/are-functor-instances-unique#19775139)
