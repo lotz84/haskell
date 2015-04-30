@@ -24,6 +24,7 @@
 
 ####Proposals
 * [Default superclass instances](https://ghc.haskell.org/trac/ghc/wiki/DefaultSuperclassInstances)
+* [Adding dependent types to Haskell](https://ghc.haskell.org/trac/ghc/wiki/DependentHaskell)
 
 ####Template Haskell
 * [Language.Haskell.TH](http://hackage.haskell.org/package/template-haskell-2.5.0.0/docs/Language-Haskell-TH.html)
