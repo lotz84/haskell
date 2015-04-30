@@ -89,6 +89,7 @@ main = do
 * [msgpack/msgpack-haskell](https://github.com/msgpack/msgpack-haskell)
 * [Hakyll](http://jaspervdj.be/hakyll/)
 * [websockets](http://jaspervdj.be/websockets/)
+* [egonSchiele/HandsomeSoup](https://github.com/egonSchiele/HandsomeSoup)
 
 ###Database
 * [Safe concurrent MySQL access in Haskell](https://ro-che.info/articles/2015-04-17-safe-concurrent-mysql-haskell)
