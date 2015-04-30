@@ -180,6 +180,7 @@ main = do
 * [optparse-applicative](https://hackage.haskell.org/package/optparse-applicative)
 * [vty](https://hackage.haskell.org/package/vty)
 * [ncurses](http://hackage.haskell.org/package/ncurses)
+* [zalora/getopt-generics](https://github.com/zalora/getopt-generics)
 
 ##Machine Learning
 * [mikeizbicki/HLearn](https://github.com/mikeizbicki/HLearn/)
