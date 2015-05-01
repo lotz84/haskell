@@ -7,7 +7,6 @@
 * [Polymorphism within higher-order functions?](http://stackoverflow.com/questions/7061538/polymorphism-within-higher-order-functions)
 * [Announcing the refinement types library](http://nikita-volkov.github.io/refined/)
 * [Type Programming with Athan Clark](https://www.youtube.com/watch?v=iwj3Bni4uYE)
-* [Smarter conditionals with dependent types: a quick case study](http://lambda.jstolarek.com/2015/04/smarter-conditionals-with-dependent-types-a-quick-case-study/)
 
 ```haskell
 data Bottom
@@ -29,6 +28,38 @@ data HList (as :: [*]) where
 ```
 
 出典: [DataKinds 言語拡張を使って Typed Heterogeneous List とその基本操作を実装してみた](http://hyone.hatenablog.com/entry/2012/12/26/181105)
+
+```haskell
+{-# LANGUAGE GADTs, DataKinds, KindSignatures, TypeFamilies #-}
+
+data N = Z | S N  -- natural numbers
+ 
+data Vec a (n :: N) where
+  Nil  :: Vec a Z
+  Cons :: a -> Vec a n -> Vec a (S n)
+
+vecTail :: Vec a (S n) -> Vec a n
+vecTail (Cons _ tl) = tl
+
+data IsNull (n :: N) where
+     Null    :: IsNull Z
+     NotNull :: IsNull (S n)
+
+vecNull' :: Vec a n -> IsNull n
+vecNull' Nil        = Null
+vecNull' (Cons _ _) = NotNull
+
+type family Pred (n :: N) :: N where
+    Pred Z     = Z
+    Pred (S n) = n
+
+shorten :: Vec a n -> Vec a (Pred n)
+shorten xs = case vecNull' xs of
+               Null    -> xs
+               NotNull -> vecTail xs
+```
+
+出展: [Smarter conditionals with dependent types: a quick case study](http://lambda.jstolarek.com/2015/04/smarter-conditionals-with-dependent-types-a-quick-case-study/)
 
 ###Phantom Type
 * [型安全なリストを作るのです(｀・ω・´) ～ その1、Phantom Type（幽霊型）入門ですー＞ω＜](https://kagamilove0707.github.io/programming/2014/02/20/about-phantom-type/)
