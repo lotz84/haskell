@@ -7,6 +7,7 @@
 * [Polymorphism within higher-order functions?](http://stackoverflow.com/questions/7061538/polymorphism-within-higher-order-functions)
 * [Announcing the refinement types library](http://nikita-volkov.github.io/refined/)
 * [Type Programming with Athan Clark](https://www.youtube.com/watch?v=iwj3Bni4uYE)
+* [Smarter conditionals with dependent types: a quick case study](http://lambda.jstolarek.com/2015/04/smarter-conditionals-with-dependent-types-a-quick-case-study/)
 
 ```haskell
 data Bottom
