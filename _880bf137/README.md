@@ -3,6 +3,7 @@
 ##処理系
 ###GHC
 * [栄光のグラスゴーHaskellコンパイルシステム利用の手引き](http://www.kotha.net/ghcguide_ja/latest/)
+* [Haskell Hierarchical Libraries](https://downloads.haskell.org/~ghc/latest/docs/html/libraries/index.html)
 * [Haskellのコンパイル中に現れるSTGと, GDBで見るC-backendなC--](http://d.hatena.ne.jp/suztomo/20111224/1324718354)
 * [Haskellコードの高速化](http://www.kotha.net/hperf/)
 * [Naïve Haskell data representation](http://www.scs.stanford.edu/14sp-cs240h/slides/memory-slides.html#(11))
