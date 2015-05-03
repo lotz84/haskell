@@ -159,6 +159,11 @@ memoized_fib = (map fib [0 ..] !!)
 
 [stepeval](http://bm380.user.srcf.net/cgi-bin/stepeval.cgi)
 
+##型
+* [Types & Kinds](http://slpopejoy.github.io/2015/04/10/Types/)
+* [A Route To Learning The Haskell Type System](http://www.colourcoding.net/blog/archive/2015/03/02/a-route-to-learning-the-haskell-type-system.aspx)
+* [Function Types](http://bartoszmilewski.com/2015/03/13/function-types/)
+
 ##データ構造
 * [(cons cat (cons cat nil))](https://twitter.com/lvsn/status/533685461957349376)
 * [Purely Functional Data Structures](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
@@ -169,6 +174,7 @@ memoized_fib = (map fib [0 ..] !!)
   * [Open Data Types and Open Functions](https://www.cs.ox.ac.uk/people/ralf.hinze/publications/PPDP06.pdf)
 * [Part 1: Leonardo Random Access Lists](https://www.fpcomplete.com/user/edwardk/fibonacci/leonardo)
 * [Part 2: Open-Ended Fibonacci Search](https://www.fpcomplete.com/user/edwardk/fibonacci/search)
+* [Lazy unary numbers](http://www.edofic.com/posts/2015-05-03-unary-numbers.html)
 
 |記号|読み方|
 |:---|:-----|
@@ -176,11 +182,6 @@ memoized_fib = (map fib [0 ..] !!)
 |`:` |cons  |
 |`[]`|nil   |
 |`++`|append|
-
-##型
-* [Types & Kinds](http://slpopejoy.github.io/2015/04/10/Types/)
-* [A Route To Learning The Haskell Type System](http://www.colourcoding.net/blog/archive/2015/03/02/a-route-to-learning-the-haskell-type-system.aspx)
-* [Function Types](http://bartoszmilewski.com/2015/03/13/function-types/)
 
 ##Record
 
