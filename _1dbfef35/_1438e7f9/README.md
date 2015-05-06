@@ -14,6 +14,44 @@
 ##並行
 * [async](http://hackage.haskell.org/package/async)
 
+###MVar
+[Control.Concurrent.MVar](https://hackage.haskell.org/package/base/docs/Control-Concurrent-MVar.html)
+
+```haskell
+import Control.Concurrent
+main = do
+    messages <- newEmptyMVar
+    forkIO $ putMVar messages "ping"
+    
+    msg <- takeMVar messages
+    putStrLn msg
+```
+
+出展: [Haskell by Example: Channels](http://lotz84.github.io/haskellbyexample/ex/channels)
+
+####Select
+
+```haskell
+{-# LANGUAGE GADTs #-}
+import Control.Concurrent
+
+data Select a where
+    Default :: IO a -> Select a
+    Case    :: MVar b -> (b -> IO a) -> Select a
+
+select :: [Select a] -> IO a
+select [] = error "select: empty list"
+select ((Default x):_) = x
+select (x@(Case v f):xs)  = do
+    var <- tryTakeMVar v
+    case var of
+        Just b  -> f b
+        Nothing -> select (xs ++ [x])
+```
+
+###Chan
+[Control.Concurrent.Chan](https://hackage.haskell.org/package/base/docs/Control-Concurrent-Chan.html)
+
 ###STM
 * [Simple STM example](https://wiki.haskell.org/Simple_STM_example)
 
