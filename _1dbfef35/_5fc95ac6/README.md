@@ -175,6 +175,7 @@ memoized_fib = (map fib [0 ..] !!)
 * [Part 1: Leonardo Random Access Lists](https://www.fpcomplete.com/user/edwardk/fibonacci/leonardo)
 * [Part 2: Open-Ended Fibonacci Search](https://www.fpcomplete.com/user/edwardk/fibonacci/search)
 * [Lazy unary numbers](http://www.edofic.com/posts/2015-05-03-unary-numbers.html)
+* [Palindromic tree](http://adilet.org/blog/25-09-14/)
 
 |記号|読み方|
 |:---|:-----|
