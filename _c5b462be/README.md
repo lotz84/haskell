@@ -49,6 +49,7 @@
 * [Enriched category](http://mbps.hatenablog.com/entry/2015/03/03/204917)
 * [Self-enriched category](http://mbps.hatenablog.com/entry/2015/03/11/155555)
 * [Basic Concepts of Enriched Category Theory](http://www.tac.mta.ca/tac/reprints/articles/10/tr10abs.html)
+* [Limits and Colimits](http://bartoszmilewski.com/2015/04/15/limits-and-colimits/)
 
 ## Steve Awodey - Category Theory Foundations
 * [Category Theory Foundations, Lecture 1](https://www.youtube.com/watch?v=ZKmodCApZwk)
