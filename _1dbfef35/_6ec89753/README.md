@@ -316,7 +316,9 @@ instance Monad Stream where
 * [Composing Monads Using Coproducts](http://www.informatik.uni-bremen.de/~cxl/papers/icfp02.pdf)
 * [monad-levels](http://hackage.haskell.org/package/monad-levels)
   * [Monadic yak shaving](https://ivanmiljenovic.wordpress.com/2015/02/02/monadic-yak-shaving/)
-* [Extensible Effects -An Alternative to Monad Transformers-](http://www.cs.indiana.edu/~sabry/papers/exteff.pdf)
+* [Extensible Effects: an alternative to Monad Transformers](http://okmij.org/ftp/Haskell/extensible/)
+    * [suhailshergill/extensible-effects](https://github.com/suhailshergill/extensible-effects)
+    * [Extensible Effects](http://www.cs.indiana.edu/~sabry/papers/exteff.pdf)
 * [Monatron](https://hackage.haskell.org/package/Monatron)
 * [Announcing: monad-unlift](https://www.fpcomplete.com/blog/2015/04/announcing-monad-unlift)
 
