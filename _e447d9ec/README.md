@@ -145,6 +145,7 @@ main = do
 * 🎥 [Reflex: Practical Functional Reactive Programming](https://www.youtube.com/watch?v=mYvkcskJbc4)
   * [part2](https://www.youtube.com/watch?v=3qfc9XFVo2c)
 * [frp-arduino/frp-arduino](https://github.com/frp-arduino/frp-arduino)
+* [FRP made simple!](http://travis.athougies.net/posts/2015-05-05-frp-made-simple.html)
 
 ###Other Language
 * [Elm](http://elm-lang.org/)
