@@ -336,18 +336,15 @@ instance Monad Stream where
 transformersにはMonad Transformerを新しく定義する度に全ての組み合わせの実装を定義する必要があるという問題点がある。
 
 ##継続
-* [Control.Monad.Cont](https://hackage.haskell.org/package/mtl/docs/Control-Monad-Cont.html)
-* [Continuation monad](http://mbps.hatenablog.com/entry/2014/11/13/034424)
-* [CPS monad](http://mbps.hatenablog.com/entry/2014/07/14/022058)
-* [CPS というプログラミングスタイルの導入の話](http://yuzumikan15.hatenablog.com/entry/2015/04/24/094610)
 
 > 文献を紐解くと、 継続とは「これから行われるであろう計算をパッケージ化したもの」とある。
 
 出典: [なんでも継続](http://practical-scheme.net/docs/cont-j.html)
 
-* [The Mother of all Monads](http://blog.sigfpe.com/2008/12/mother-of-all-monads.html)
-* [Haskell/Continuation passing style](http://en.wikibooks.org/wiki/Haskell/Continuation_passing_style)
 * [Representing Monads](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.43.8213)
+
+###call/cc
+###shift/reset
 * [shift/reset プログラミング入門](http://pllab.is.ocha.ac.jp/~asai/cw2011tutorial/main-j.pdf)
 
 ```haskell
@@ -361,12 +358,37 @@ reset e = return $ e `runCont` id
 
 出典: [MonadCont done right](https://www.haskell.org/haskellwiki/MonadCont_done_right)
 
+###継続渡しスタイル
+* [Control.Monad.Cont](https://hackage.haskell.org/package/mtl/docs/Control-Monad-Cont.html)
+* [Continuation monad](http://mbps.hatenablog.com/entry/2014/11/13/034424)
+* [CPS monad](http://mbps.hatenablog.com/entry/2014/07/14/022058)
+* [CPS というプログラミングスタイルの導入の話](http://yuzumikan15.hatenablog.com/entry/2015/04/24/094610)
+* [The Mother of all Monads](http://blog.sigfpe.com/2008/12/mother-of-all-monads.html)
+* [Haskell/Continuation passing style](http://en.wikibooks.org/wiki/Haskell/Continuation_passing_style)
+
+###論理学での継続
+
+> CPS変換は、二重否定による古典論理の直観主義論理への埋め込みにあたる。
+
+出典: [継続渡しスタイル - Wikipedia](http://ja.wikipedia.org/wiki/%E7%B6%99%E7%B6%9A%E6%B8%A1%E3%81%97%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB)
+
+* [Curry-Howard Isomorphism](http://www.kmonos.net/wlog/61.html#_0538060508)
+
+###米田埋め込み
+
 > The Yoneda embedding is familiar in category theory. The continuation passing transform is familiar in computer programming.
 > They’re the same thing! Why doesn’t anyone ever say so?
 
 出典: [The Continuation Passing Transform and the Yoneda Embedding](https://golem.ph.utexas.edu/category/2008/01/the_continuation_passing_trans.html)
 
-* [CPS（継続渡し方式）変換をJavaScriptで説明してみるべ、ナーニ、たいしたことねーべよ](http://d.hatena.ne.jp/m-hiyama/20080116/1200468797)
+CPSへの変換は米田埋め込みに対応している
+
+```haskell
+cps :: forall a b c. (a -> b) -> ((b -> c) -> (a -> c))
+cps = flip (.)
+```
+
+出典:[CPS（継続渡し方式）変換をJavaScriptで説明してみるべ、ナーニ、たいしたことねーべよ](http://d.hatena.ne.jp/m-hiyama/20080116/1200468797)
 
 ##Lens
 
