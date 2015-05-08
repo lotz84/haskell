@@ -343,7 +343,30 @@ transformersにはMonad Transformerを新しく定義する度に全ての組み
 
 * [Representing Monads](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.43.8213)
 
+継続は一般的な概念であるがここではHaskellの継続渡しスタイルとCont Monadについて説明する
+
+```haskell
+newtype Cont r a = Cont { runCont :: (a -> r) -> r }
+
+instance Functor (Cont r) where
+    fmap f c = Cont $ \k -> runCont c (k . f)
+
+instance Applicative (Cont r) where
+    pure a = Cont ($ a)
+    f <*> v = Cont $ \k -> runCont f $ \g -> runCont v (k . g)
+
+instance Monad (Cont r) where
+    return a = Cont ($ a)
+    m >>= c = ContT $ \k -> runCont m (\a -> runCont (c a) k)
+```
+
 ###call/cc
+
+```haskell
+callCC :: ((a -> Cont r b) -> Cont r a) -> ContT r a
+callCC f = Cont $ \c -> runCont (f (\a -> Cont $ \_ -> c a)) c
+```
+
 ###shift/reset
 * [shift/reset プログラミング入門](http://pllab.is.ocha.ac.jp/~asai/cw2011tutorial/main-j.pdf)
 
@@ -361,22 +384,6 @@ reset e = return $ e `runCont` id
 ###継続渡しスタイル
 * [CPS というプログラミングスタイルの導入の話](http://yuzumikan15.hatenablog.com/entry/2015/04/24/094610)
 * [The Mother of all Monads](http://blog.sigfpe.com/2008/12/mother-of-all-monads.html)
-
-```haskell
-newtype Cont r a = Cont { runCont :: (a -> r) -> r }
-
-instance Functor (Cont r) where
-    fmap f c = Cont $ \k -> runCont c (k . f)
-
-instance Applicative (Cont r) where
-    pure a = Cont ($ a)
-    f <*> v = Cont $ \k -> runCont f $ \g -> runCont v (k . g)
-
-instance Monad (Cont r) where
-    return a = Cont ($ a)
-    m >>= c = ContT $ \k -> runCont m (\a -> runCont (c a) k)
-```
-
 * [Control.Monad.Cont](https://hackage.haskell.org/package/mtl/docs/Control-Monad-Cont.html)
 * [Haskell/Continuation passing style](http://en.wikibooks.org/wiki/Haskell/Continuation_passing_style)
 
