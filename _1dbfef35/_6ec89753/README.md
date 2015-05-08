@@ -359,11 +359,25 @@ reset e = return $ e `runCont` id
 出典: [MonadCont done right](https://www.haskell.org/haskellwiki/MonadCont_done_right)
 
 ###継続渡しスタイル
-* [Control.Monad.Cont](https://hackage.haskell.org/package/mtl/docs/Control-Monad-Cont.html)
-* [Continuation monad](http://mbps.hatenablog.com/entry/2014/11/13/034424)
-* [CPS monad](http://mbps.hatenablog.com/entry/2014/07/14/022058)
 * [CPS というプログラミングスタイルの導入の話](http://yuzumikan15.hatenablog.com/entry/2015/04/24/094610)
 * [The Mother of all Monads](http://blog.sigfpe.com/2008/12/mother-of-all-monads.html)
+
+```haskell
+newtype Cont r a = Cont { runCont :: (a -> r) -> r }
+
+instance Functor (Cont r) where
+    fmap f c = Cont $ \k -> runCont c (k . f)
+
+instance Applicative (Cont r) where
+    pure a = Cont ($ a)
+    f <*> v = Cont $ \k -> runCont f $ \g -> runCont v (k . g)
+
+instance Monad (Cont r) where
+    return a = Cont ($ a)
+    m >>= c = ContT $ \k -> runCont m (\a -> runCont (c a) k)
+```
+
+* [Control.Monad.Cont](https://hackage.haskell.org/package/mtl/docs/Control-Monad-Cont.html)
 * [Haskell/Continuation passing style](http://en.wikibooks.org/wiki/Haskell/Continuation_passing_style)
 
 ###論理学での継続
