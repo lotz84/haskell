@@ -387,6 +387,20 @@ reset e = return $ e `runCont` id
 * [Control.Monad.Cont](https://hackage.haskell.org/package/mtl/docs/Control-Monad-Cont.html)
 * [Haskell/Continuation passing style](http://en.wikibooks.org/wiki/Haskell/Continuation_passing_style)
 
+```haskell
+-- Another junior Haskell programmer
+fac 0 = 1
+fac n = n * fac (n-1)
+
+-- Continuation-passing Haskell programmer
+facCps k 0 = k 1
+facCps k n = facCps (k . (n *)) (n-1)
+
+fac = facCps id
+```
+
+出典: [The Evolution of a Haskell Programmer](http://www.willamette.edu/~fruehr/haskell/evolution.html)
+
 ###論理学での継続
 
 > CPS変換は、二重否定による古典論理の直観主義論理への埋め込みにあたる。
