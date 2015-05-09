@@ -164,6 +164,31 @@ memoized_fib = (map fib [0 ..] !!)
 * [A Route To Learning The Haskell Type System](http://www.colourcoding.net/blog/archive/2015/03/02/a-route-to-learning-the-haskell-type-system.aspx)
 * [Function Types](http://bartoszmilewski.com/2015/03/13/function-types/)
 
+##動的型付けのエミュレート
+* [Data.Dynamic](https://hackage.haskell.org/package/base/docs/Data-Dynamic.html)
+
+```haskell
+import Data.Dynamic
+
+typeSwitch :: Dynamic -> IO ()
+typeSwitch d = do
+    case (fromDynamic d :: Maybe Int) of
+        Nothing -> return ()
+        Just i  -> putStrLn $ "This is Int! : " ++ show i
+    case (fromDynamic d :: Maybe Bool) of
+        Nothing -> return ()
+        Just b  -> putStrLn $ "This is Bool!: " ++ show b
+
+main = do
+    let d1 = toDyn (8 :: Int)
+    let d2 = toDyn (True :: Bool)
+
+    typeSwitch d1
+    -- This is Int! : 8
+    typeSwitch d2
+    -- This is Bool!: True
+```
+
 ##データ構造
 * [(cons cat (cons cat nil))](https://twitter.com/lvsn/status/533685461957349376)
 * [Purely Functional Data Structures](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
