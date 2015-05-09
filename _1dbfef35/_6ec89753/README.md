@@ -386,6 +386,7 @@ reset e = return $ e `runCont` id
 * [The Mother of all Monads](http://blog.sigfpe.com/2008/12/mother-of-all-monads.html)
 * [Control.Monad.Cont](https://hackage.haskell.org/package/mtl/docs/Control-Monad-Cont.html)
 * [Haskell/Continuation passing style](http://en.wikibooks.org/wiki/Haskell/Continuation_passing_style)
+* [Compiling With CPS](http://jozefg.bitbucket.org/posts/2015-04-30-cps.html)
 
 ```haskell
 -- Another junior Haskell programmer
@@ -400,14 +401,6 @@ fac = facCps id
 ```
 
 出典: [The Evolution of a Haskell Programmer](http://www.willamette.edu/~fruehr/haskell/evolution.html)
-
-###論理学での継続
-
-> CPS変換は、二重否定による古典論理の直観主義論理への埋め込みにあたる。
-
-出典: [継続渡しスタイル - Wikipedia](http://ja.wikipedia.org/wiki/%E7%B6%99%E7%B6%9A%E6%B8%A1%E3%81%97%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB)
-
-* [Curry-Howard Isomorphism](http://www.kmonos.net/wlog/61.html#_0538060508)
 
 ###米田埋め込み
 
@@ -424,6 +417,14 @@ cps = flip (.)
 ```
 
 出典:[CPS（継続渡し方式）変換をJavaScriptで説明してみるべ、ナーニ、たいしたことねーべよ](http://d.hatena.ne.jp/m-hiyama/20080116/1200468797)
+
+###論理学での継続
+
+> CPS変換は、二重否定による古典論理の直観主義論理への埋め込みにあたる。
+
+出典: [継続渡しスタイル - Wikipedia](http://ja.wikipedia.org/wiki/%E7%B6%99%E7%B6%9A%E6%B8%A1%E3%81%97%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB)
+
+* [Curry-Howard Isomorphism](http://www.kmonos.net/wlog/61.html#_0538060508)
 
 ##Lens
 
