@@ -78,6 +78,7 @@ shorten xs = case vecNull' xs of
 * [Haskell/GADT](http://en.wikibooks.org/wiki/Haskell/GADT)
 * [GADTs](http://mbps.hatenablog.com/entry/2014/10/03/010000)
 * [Question: Type System and N-Dimensional Vectors](http://www.reddit.com/r/haskell/comments/2z5l9y/question_type_system_and_ndimensional_vectors/)
+* [GADTs meet their match](http://research.microsoft.com/en-us/um/people/simonpj/papers/pattern-matching/gadtpm.pdf)
 
 ####Functional dependencies
 * [Functional dependencies](https://www.haskell.org/haskellwiki/Functional_dependencies)
