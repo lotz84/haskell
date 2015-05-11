@@ -163,6 +163,7 @@ memoized_fib = (map fib [0 ..] !!)
 * [Types & Kinds](http://slpopejoy.github.io/2015/04/10/Types/)
 * [A Route To Learning The Haskell Type System](http://www.colourcoding.net/blog/archive/2015/03/02/a-route-to-learning-the-haskell-type-system.aspx)
 * [Function Types](http://bartoszmilewski.com/2015/03/13/function-types/)
+* [How to Define Data Types](https://www.youtube.com/watch?v=zV70nrsMEZg)
 
 ##動的型付けのエミュレート
 * [Data.Dynamic](https://hackage.haskell.org/package/base/docs/Data-Dynamic.html)
