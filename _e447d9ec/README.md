@@ -93,6 +93,7 @@ main = do
 * [websockets](http://jaspervdj.be/websockets/)
 * [egonSchiele/HandsomeSoup](https://github.com/egonSchiele/HandsomeSoup)
 * [jwiegley/github](https://github.com/jwiegley/github)
+* [Deploying Haskell to Heroku using Docker](http://www.reddit.com/r/haskell/comments/35he88/deploying_haskell_to_heroku_using_docker/)
 
 ###Database
 * [Safe concurrent MySQL access in Haskell](https://ro-che.info/articles/2015-04-17-safe-concurrent-mysql-haskell)
