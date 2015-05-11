@@ -5,6 +5,15 @@
 * [A Compositional Theory for STM Haskell](https://vimeo.com/6685355)
 * [Programming in the Age of Concurrency: Software Transactional Memory](http://channel9.msdn.com/Shows/Going+Deep/Programming-in-the-Age-of-Concurrency-Software-Transactional-Memory)
 * [関数型プログラミング言語における通信記述の型付け](http://ir.nul.nagoya-u.ac.jp/jspui/handle/2237/16436)
+* [The Art of Multiprocessor Programming](http://www.e-reading.club/bookreader.php/134637/Herlihy_-_The_art_of_multiprocessor_programming.pdf)
+    * [sile/amp1-2.md](https://gist.github.com/sile/3130042)
+    * [sile/AMP-CH2.md](https://gist.github.com/sile/8097704)
+    * [sile/amp-3-5.md](https://gist.github.com/sile/3568187)
+    * [sile/amp-4-8.md](https://gist.github.com/sile/3762308)
+    * [sile/AMP-CH7-a.md](https://gist.github.com/sile/6a0fd3da6fb2f02ef163)
+    * [sile/AMP-CH10.md](https://gist.github.com/sile/2d50fc54fa25e55da139)
+    * [sile/AMP-CH13.md](https://gist.github.com/sile/83593f59c7f3e205fb8b)
+    * [sile/AMP-CH18-SUMMARY.md](https://gist.github.com/sile/1dc1a595e2c4c998b6b6)
 
 ##並列
 * [monad-par](https://hackage.haskell.org/package/monad-par)
