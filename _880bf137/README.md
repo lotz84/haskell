@@ -79,5 +79,6 @@ csv = QuasiQuoter
 
 ###Conference
 * [ICFP 2015](http://icfpconference.org/icfp2015/)
+  * [mpickering/icfp2015-papers](https://github.com/mpickering/icfp2015-papers)
 * [JSSST-SIGPPL](http://ppl.jssst.or.jp/)
 * [International Conference on Functional Programming](http://www.icfpconference.org/)
