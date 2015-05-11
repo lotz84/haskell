@@ -78,5 +78,6 @@ csv = QuasiQuoter
 * [Haskell(ja)](https://plus.google.com/communities/107562694527758263007)
 
 ###Conference
+* [ICFP 2015](http://icfpconference.org/icfp2015/)
 * [JSSST-SIGPPL](http://ppl.jssst.or.jp/)
 * [International Conference on Functional Programming](http://www.icfpconference.org/)
