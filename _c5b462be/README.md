@@ -11,6 +11,7 @@
 
 ##型理論
 * [Making Sense of Subtypes](http://languagengine.co/blog/making-sense-of-subtypes/)
+* [Propositions as Types](http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf)
 
 ##計算量理論
 * [計算量理論 演習問題](http://www-imai.is.s.u-tokyo.ac.jp/~kawamura/keisanryo/)
