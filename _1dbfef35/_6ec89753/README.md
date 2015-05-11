@@ -367,6 +367,23 @@ callCC :: ((a -> Cont r b) -> Cont r a) -> ContT r a
 callCC f = Cont $ \c -> runCont (f (\a -> Cont $ \_ -> c a)) c
 ```
 
+####例) 無限ループからの脱出
+
+```haskell
+import Control.Monad.Cont
+
+main = do
+    putStrLn "Start"
+    withBreak $ \break ->
+        forM_ [1..] $ \i -> do
+            liftIO . putStrLn $ "Loop: " ++ show i
+            when (i == 10) $ do
+                liftIO . putStrLn $ "Break!"
+                break ()
+    where
+    withBreak = (`runContT` return) . callCC
+```
+
 ###shift/reset
 * [shift/reset プログラミング入門](http://pllab.is.ocha.ac.jp/~asai/cw2011tutorial/main-j.pdf)
 
