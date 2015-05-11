@@ -146,18 +146,11 @@ main = do
 * <http://maoe.hatenadiary.jp/entry/20100123/1264225964>
 * <http://netsuperbrain.com/blog/posts/introducing-reactive-events/>
 * [A Survey of Functional Reactive Programming](http://www.cs.rit.edu/~eca7215/frp-independent-study/Survey.pdf)
+* [Ryan Trinkle - Reflex: Practical Functional Reactive Programming](https://www.youtube.com/watch?v=dOy7zIk3IUI)
 * 🎥 [Reflex: Practical Functional Reactive Programming](https://www.youtube.com/watch?v=mYvkcskJbc4)
   * [part2](https://www.youtube.com/watch?v=3qfc9XFVo2c)
 * [frp-arduino/frp-arduino](https://github.com/frp-arduino/frp-arduino)
 * [FRP made simple!](http://travis.athougies.net/posts/2015-05-05-frp-made-simple.html)
-
-###Other Language
-* [Elm](http://elm-lang.org/)
-  * [Elm at Prezi: Functional Reactive Programming for the Web](http://engineering.prezi.com/blog/2013/05/21/elm-at-prezi/)
-* [Kefir.js](https://pozadi.github.io/kefir/)
-* [Bacon.js](http://baconjs.github.io/)
-  * [Functional Reactive Programming in JavaScript](http://flippinawesome.org/2013/09/30/functional-reactive-programming-in-javascript/)
-* [ReactiveCocoa/ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
 
 ##数値計算・可視化
 * [linear](http://hackage.haskell.org/package/linear)
@@ -223,6 +216,7 @@ main = do
 * 🎥 [Kenneth Foner - Getting a Quick Fix on Comonads](https://www.youtube.com/watch?v=F7F-BzOB670)
 * [badamson/2048.hs](https://github.com/badamson/2048.hs)
 * [ImperativeHaskell](http://hackage.haskell.org/package/ImperativeHaskell)
+* [CλaSH - From Haskell to Hardware](http://www.clash-lang.org/)
 
 ###Formatting
 
