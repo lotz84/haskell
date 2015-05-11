@@ -193,6 +193,9 @@ main = do
 ##データ構造
 * [(cons cat (cons cat nil))](https://twitter.com/lvsn/status/533685461957349376)
 * [Purely Functional Data Structures](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
+  * [sile/pfds-ch1.md](https://gist.github.com/sile/e0cb80dc021ecb2d772d)
+  * [sile/pfds-ch6.md](https://gist.github.com/sile/8fc169d694fa5f02fe2c)
+  * [sile/pfds-7.md](https://gist.github.com/sile/9861a9d240eeb55555c2)
 * [bytestring](https://hackage.haskell.org/package/bytestring)
   * [A guided tour through the bytestring library](http://meiersi.github.io/HaskellerZ/meetups/2012%2001%2019%20-%20The%20bytestring%20library/slides.html)
 * [array](https://hackage.haskell.org/package/array)
