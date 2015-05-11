@@ -1,5 +1,6 @@
 * [Three Complementary Approaches to Bidirectional Programming](http://www.janis-voigtlaender.eu/papers/ThreeComplementaryApproachesToBidirectionalProgramming.pdf)
 * [SKI](https://ro-che.info/ccc/8)
+* [Gabriel439/Haskell-Morte-Library](https://github.com/Gabriel439/Haskell-Morte-Library)
 
 ##CPL
 * [圏論プログラミング言語 CPL](http://mandel59.hateblo.jp/entry/2015/02/02/110621)
@@ -19,6 +20,7 @@
 ##Agda
 * [Learn you an agda and achive enlightenment](http://learnyouanagda.liamoc.net/)
 * [Introduction to Agda - Matthew Brecknell (two talks)](https://www.youtube.com/playlist?list=PLlq2kxxWa_fEm2am9j3-VuRonuade9W_0)
+* [みんなのAgda Wiki](http://agda.wiki.fc2.com/)
 
 ##OCaml
 * [OCaml for Haskellers](http://blog.ezyang.com/2010/10/ocaml-for-haskellers/)
