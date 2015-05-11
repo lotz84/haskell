@@ -115,6 +115,7 @@ main = do
 * [Web](http://www.scs.stanford.edu/14sp-cs240h/slides/web-slides.html)
 * [scotty-web/scotty](https://github.com/scotty-web/scotty)
 * [agrafix/Spock](https://github.com/agrafix/Spock)
+* [servant](http://haskell-servant.github.io/)
 
 ###Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
@@ -165,7 +166,10 @@ main = do
 * [scientific](https://hackage.haskell.org/package/scientific)
 * [diagrams](http://projects.haskell.org/diagrams/)
 
-##OpenGL
+##Game
+* [Helm - A functionally reactive game engine](http://helm-engine.org/)
+
+###OpenGL
 * [OpenGL](https://hackage.haskell.org/package/OpenGL)
 * [GLUT](https://hackage.haskell.org/package/GLUT)
 * [GLUtil](https://hackage.haskell.org/package/GLUtil)
