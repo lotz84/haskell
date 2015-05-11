@@ -342,6 +342,7 @@ transformersにはMonad Transformerを新しく定義する度に全ての組み
 出典: [なんでも継続](http://practical-scheme.net/docs/cont-j.html)
 
 * [Representing Monads](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.43.8213)
+* [shift/reset プログラミング入門](http://pllab.is.ocha.ac.jp/~asai/cw2011tutorial/main-j.pdf)
 
 継続は一般的な概念であるがここではHaskellの継続渡しスタイルとCont Monadについて説明する
 
@@ -385,7 +386,6 @@ main = do
 ```
 
 ###shift/reset
-* [shift/reset プログラミング入門](http://pllab.is.ocha.ac.jp/~asai/cw2011tutorial/main-j.pdf)
 
 ```haskell
 -- shift/reset for the Cont monad
@@ -429,7 +429,7 @@ fac = facCps id
 CPSへの変換は米田埋め込みに対応している
 
 ```haskell
-cps :: forall a b c. (a -> b) -> ((b -> c) -> (a -> c))
+cps :: forall a b r. (a -> b) -> ((b -> r) -> (a -> r))
 cps = flip (.)
 ```
 
