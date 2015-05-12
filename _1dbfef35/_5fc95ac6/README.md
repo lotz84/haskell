@@ -214,6 +214,11 @@ main = do
 |`[]`|nil   |
 |`++`|append|
 
+###Zipper
+* [zipper](https://hackage.haskell.org/package/zipper)
+* [Zippers - LYAH](http://learnyouahaskell.com/zippers)
+* [データ型の微分](http://ja.wikibooks.org/wiki/Haskell/Zippers#.E3.83.87.E3.83.BC.E3.82.BF.E5.9E.8B.E3.81.AE.E5.BE.AE.E5.88.86)
+
 ##Record
 
 ```haskell
