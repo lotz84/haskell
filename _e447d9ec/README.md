@@ -50,6 +50,8 @@ main = do
     -- 期待通りに動かない例
 ```
 
+* [How to build library-agnostic streaming sources](http://www.haskellforall.com/2014/11/how-to-build-library-agnostic-streaming.html)
+
 ###History
 * ✕ Lazy IO
 * Deprecated [enumerator](https://hackage.haskell.org/package/enumerator)
@@ -162,10 +164,11 @@ main = do
 
 ##Game
 * [Helm - A functionally reactive game engine](http://helm-engine.org/)
+* [lukexi/halive](https://github.com/lukexi/halive)
 
 ###OpenGL
 * [OpenGL](https://hackage.haskell.org/package/OpenGL)
-* [GLUT](https://hackage.haskell.org/package/GLUT)
+* [GLFW-b](https://hackage.haskell.org/package/GLFW-b)
 * [GLUtil](https://hackage.haskell.org/package/GLUtil)
 
 > I've discovered that GLUT works for me if I compile first with ghc, and then run, rather than attempting to run via ghci or runghc. Have you tried that?
