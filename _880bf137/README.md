@@ -61,6 +61,7 @@ csv = QuasiQuoter
 
 ##エコシステム
 * [Hackage](http://hackage.haskell.org/)
+* [Hackage Dependency Monitor](http://packdeps.haskellers.com/)
 * [Hoogle](https://www.haskell.org/hoogle/)
 * [Hayoo!](http://hayoo.fh-wedel.de/)
 * [Stackage](https://www.stackage.org/)
