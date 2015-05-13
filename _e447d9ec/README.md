@@ -96,6 +96,7 @@ main = do
 * [egonSchiele/HandsomeSoup](https://github.com/egonSchiele/HandsomeSoup)
 * [jwiegley/github](https://github.com/jwiegley/github)
 * [Deploying Haskell to Heroku using Docker](http://www.reddit.com/r/haskell/comments/35he88/deploying_haskell_to_heroku_using_docker/)
+* [chrisdone/lucid](https://github.com/chrisdone/lucid)
 
 ###Database
 * [Safe concurrent MySQL access in Haskell](https://ro-che.info/articles/2015-04-17-safe-concurrent-mysql-haskell)
@@ -139,6 +140,9 @@ main = do
 
 出典: [FRP - Functional Reactive Programming](http://www.slideshare.net/kamimuraryo/frp-functional-reactive-programming)
 
+> 私は、Laurence Gのコメントと同じ意見です。彼は、FRPを「“時間とともに変化する”値を表すデータ型」とシンプルに表現しています。
+出典: [Q. （関数型）リアクティブプログラミングとは何ですか？](http://postd.cc/what-is-functional-reactive-programming/)
+
 * 比較表: [gelisam/frp-zoo](https://github.com/gelisam/frp-zoo)
 * [FRPの話](http://maoe.hatenadiary.jp/entry/2012/12/24/011414)
 * [【翻訳】あなたが求めていたリアクティブプログラミング入門](http://ninjinkun.hatenablog.com/entry/introrxja)
@@ -165,6 +169,7 @@ main = do
 ##Game
 * [Helm - A functionally reactive game engine](http://helm-engine.org/)
 * [lukexi/halive](https://github.com/lukexi/halive)
+* [Twinside/Juicy.Pixels](https://github.com/Twinside/Juicy.Pixels)
 
 ###OpenGL
 * [OpenGL](https://hackage.haskell.org/package/OpenGL)
