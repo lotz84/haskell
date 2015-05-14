@@ -26,6 +26,7 @@
 ####Proposals
 * [Default superclass instances](https://ghc.haskell.org/trac/ghc/wiki/DefaultSuperclassInstances)
 * [Adding dependent types to Haskell](https://ghc.haskell.org/trac/ghc/wiki/DependentHaskell)
+* [Applicative do-notation](https://ghc.haskell.org/trac/ghc/wiki/ApplicativeDo)
 
 ####Template Haskell
 * [Language.Haskell.TH](http://hackage.haskell.org/package/template-haskell-2.5.0.0/docs/Language-Haskell-TH.html)
@@ -56,8 +57,12 @@ csv = QuasiQuoter
 ```
 
 ####Type Inference
+* [Introduction to Type Inference](https://www.youtube.com/watch?v=il3gD7XMdmA)
 * [第 16 章 Hindley/Milner 型推論](http://www29.atwiki.jp/tmiya/pages/78.html)
 * [An Explanation of Type Inference for ML/Haskell](http://jozefg.bitbucket.org/posts/2015-02-28-type-inference.html)
+
+##Editor
+* [Switching from Vim to Atom (A Haskeller's Perspective)](http://edsko.net/2015/03/07/vim-to-atom/)
 
 ##エコシステム
 * [Hackage](http://hackage.haskell.org/)
