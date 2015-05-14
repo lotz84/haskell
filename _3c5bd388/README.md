@@ -62,3 +62,4 @@
 * [codata](https://groups.google.com/forum/#!msg/idris-lang/bZmQpOVbHpY/4At62mxn-mcJ)
 * [IdrisでWebアプリを書く](http://www.slideshare.net/tanakh/idrisweb)
 * [Tell dependent function in conditional statement branch that condition is true](http://stackoverflow.com/questions/28914593/tell-dependent-function-in-conditional-statement-branch-that-condition-is-true)
+* [Idris: General Purpose Programming with Dependent Types](https://www.youtube.com/watch?v=vkIlW797JN8)
