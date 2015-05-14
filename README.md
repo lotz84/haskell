@@ -21,8 +21,16 @@
     5. [テストとドキュメント](_1dbfef35/_d5be135d/)
 2. [Haskellの内と外](_880bf137/)
 3. [実践Haskell](_e447d9ec/)
+    1. [Parser](_e447d9ec/_7bf25524/)
+    2. [LazyIO](_e447d9ec/_c0d6f3be/)
+    3. [FRP](_e447d9ec/_29e60015/)
+    4. [OpenGL](_e447d9ec/_8ddd069c/)
+    5. [Web](_e447d9ec/_b8c0305d/)
 4. [関数型プログラミング言語](_3c5bd388/)
 5. [計算の基礎](_c5b462be/)
+    1. [論理学](_c5b462be/_f5a1af97/)
+    2. [型理論](_c5b462be/_0e701a32/)
+    3. [圏論](_c5b462be/_373c7046/)
 6. [Books](_530efeb2/)
 
 ##Related works

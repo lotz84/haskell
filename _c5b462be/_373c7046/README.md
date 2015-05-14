@@ -1,0 +1,70 @@
+##Category Theory
+* [Category Theory for Programmers](http://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+* [Category Theory & Programming](http://yogsototh.github.io/Category-Theory-Presentation/)
+* [Category theory for beginners](http://www.slideshare.net/kenbot/category-theory-for-beginners)
+* [圏論](http://alg-d.com/math/category/)
+* [2013年 圏論勉強会 資料](http://nineties.github.io/category-seminar/)
+* [圏と関手入門](http://www.math.nagoya-u.ac.jp/~hasimoto/paper/class/cat10.pdf)
+* [哲学者のための圏論入門](http://choreographlife.jp/pdf/intro.pdf)
+* [モナドへの近道・Haskell からの寄道](http://kurt.scitec.kobe-u.ac.jp/~shg/SFCArchives/docs/shortcut_monad.pdf)
+* [Notions of computation and monads](http://www.disi.unige.it/person/MoggiE/ftp/ic91.pdf)
+* [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
+* [YonedaとCoYoneda、そしてFunctor](http://d.hatena.ne.jp/its_out_of_tune/20130601/1370109743)
+* [String diagram](https://www.youtube.com/playlist?list=PL50ABC4792BD0A086)
+* [String diagram](http://mbps.hatenablog.com/entry/2015/02/07/175148)
+* [Category Theory Using String Diagrams](http://jp.arxiv.org/abs/1401.7220)
+* [n-Category](http://mbps.hatenablog.com/entry/2014/11/25/031401)
+* [Enriched category](http://mbps.hatenablog.com/entry/2015/03/03/204917)
+* [Self-enriched category](http://mbps.hatenablog.com/entry/2015/03/11/155555)
+* [Basic Concepts of Enriched Category Theory](http://www.tac.mta.ca/tac/reprints/articles/10/tr10abs.html)
+* [Limits and Colimits](http://bartoszmilewski.com/2015/04/15/limits-and-colimits/)
+
+## Steve Awodey - Category Theory Foundations
+* [Category Theory Foundations, Lecture 1](https://www.youtube.com/watch?v=ZKmodCApZwk)
+  * 圏の定義と例
+* [Category Theory Foundations, Lecture 2](https://www.youtube.com/watch?v=TQYjekxqw-Q)
+  * UMP
+* [Category Theory Foundations, Lecture 3](https://www.youtube.com/watch?v=BOynNljjbeg)
+  * 自然変換と米田の補題
+* [Category Theory Foundations, Lecture 4](https://www.youtube.com/watch?v=8fZmdhLLgs4)
+  * 随伴
+
+##Monoid
+* [MonadPlus and Monoid serve different purposes.](http://stackoverflow.com/questions/10167879/distinction-between-typeclasses-monadplus-alternative-and-monoid#10168111)
+* [Haskell Monoids and their Uses](http://blog.sigfpe.com/2009/01/haskell-monoids-and-their-uses.html)
+* [Monoids and Finger Trees](http://apfelmus.nfshost.com/articles/monoid-fingertree.html)
+
+> lists are not free monoids in Haskell.
+
+出典: [Free Monoids in Haskell](http://comonad.com/reader/2015/free-monoids-in-haskell/)
+
+##Functor
+* [ファンクタであそぼう](http://kinokkory.hatenablog.com/entry/20131203/p1)
+* [Monads and more](http://www.scs.stanford.edu/14sp-cs240h/slides/functors-monads-slides.html)
+
+##Applicative
+* [Applicative programming with effects](http://staff.city.ac.uk/~ross/papers/Applicative.pdf)
+
+##自然変換
+* [ホモトピー変形と自然変換](http://d.hatena.ne.jp/m-hiyama/comment?date=20111208&section=1323315799#c)
+* [Natural Transformations](http://bartoszmilewski.com/2015/04/07/natural-transformations/)
+
+##随伴
+* [Adjunctions](https://www.youtube.com/playlist?list=PL54B49729E5102248)
+
+> 今回は話の中でいきなりWriterとReaderが出てきて、この2つで随伴になると説明しましたが、実際はStateモナドやStoreコモナドからこの2つの関手を導くことができますです。
+
+* [随伴がモテないのはどう考えてもモナドが悪い！（モナドとコモナドの関係が分かる話）](http://kagamilove0707.hatenablog.com/entry/2014/11/02/210400#fn-8ae3ae26)
+* [Haskellと随伴](http://qiita.com/myuon_myon/items/d598480e4edd7a780ea7)
+* [From Adjunctions to Monads](http://www.stephendiehl.com/posts/adjunctions.html)
+* [Adjunctions with parameters](http://mbps.hatenablog.com/entry/2014/12/08/033230)
+
+##モナド
+* [世界一わかりやすいモナドの記事](http://myuon-myon.hatenablog.com/entry/2013/06/26/173904)
+* [Monads from Comonads, Comonads from Monads](http://www.cs.ox.ac.uk/ralf.hinze/WG2.8/28/slides/Comonad.pdf)
+
+##エンド
+* [エンド](http://alg-d.com/math/category/end.pdf)
+* [This is the (co)end, my only (co)friend](http://arxiv.org/abs/1501.02503)
+
+
