@@ -76,6 +76,7 @@ main = do
 ###Pipes
 * [Pipes.Tutorial](https://hackage.haskell.org/package/pipes/docs/Pipes-Tutorial.html)
 * [Pipes](http://www.scs.stanford.edu/14sp-cs240h/slides/pipes-slides.html)
+* [Pipes - London Haskell](https://www.youtube.com/watch?v=2jdJGdA7AYs)
 
 ###Conduit
 * <https://hackage.haskell.org/package/conduit>
