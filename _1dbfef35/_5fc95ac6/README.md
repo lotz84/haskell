@@ -63,6 +63,7 @@ $ hlint code.hs
 * [anchor/haskell-cheat-sheets](https://github.com/anchor/haskell-cheat-sheets)
 * [caiorss/Functional-Programming](https://github.com/caiorss/Functional-Programming#concepts)
 * [Recommended Haskell reading and watching](https://secure.plaimi.net/~alexander/haskell.html)
+* [Haskell programmers are liars](http://www.garrisonjensen.com/2015/05/13/haskell-programs-are-lies.html)
 
 > ゴルフでもトリッキーなコードでもなく、 計算の仕方を変えるだけでより直接的に、シンプルに、コードが短くなりました。 必要なのはやりたいことが実際にはどのような計算なのかということを認識することです。 難しく考えないようにしましょう。
 
