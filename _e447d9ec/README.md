@@ -13,6 +13,7 @@ newtype Parser result = Parser { parse :: Source -> [(result, Remainder)] }
 ```
 
 * [Monadic Parsing in Haskell](http://www.cs.nott.ac.uk/~gmh/pearl.pdf)
+* [Parsing with Haskell](http://fileadmin.cs.lth.se/cs/Education/EDAN40/assignment4/parser.pdf)
 * [構文解析器結合子](https://www.ipsj.or.jp/07editj/promenade/4702.pdf)
    * [モナディック・パーサー](http://d.hatena.ne.jp/kazu-yamamoto/20080920/1221881130)
 * [parsec](https://hackage.haskell.org/package/parsec)
@@ -97,14 +98,18 @@ main = do
 * [jwiegley/github](https://github.com/jwiegley/github)
 * [Deploying Haskell to Heroku using Docker](http://www.reddit.com/r/haskell/comments/35he88/deploying_haskell_to_heroku_using_docker/)
 * [chrisdone/lucid](https://github.com/chrisdone/lucid)
+* [Overloading Monads for Html Deployment](https://www.fpcomplete.com/user/AthanClark/overloaded-monadic-deployment)
 
 ###Database
 * [Safe concurrent MySQL access in Haskell](https://ro-che.info/articles/2015-04-17-safe-concurrent-mysql-haskell)
 * [Haxl - Haskellを使った暗黙的な並列データアクセス](http://www.infoq.com/jp/news/2014/06/haxl)
+* [postgresql-simple](https://hackage.haskell.org/package/postgresql-simple)
 
 ###JSON
 * [aeson](http://hackage.haskell.org/package/aeson)
   * [Aeson: the tutorial](http://artyom.me/aeson)
+* [aeson-schema](https://hackage.haskell.org/package/aeson-schema)
+  * [timjb/aeson-schema](https://github.com/timjb/aeson-schema)
 * [buffer-builder](https://hackage.haskell.org/package/buffer-builder)
 
 ###Client
@@ -157,6 +162,7 @@ main = do
   * [part2](https://www.youtube.com/watch?v=3qfc9XFVo2c)
 * [frp-arduino/frp-arduino](https://github.com/frp-arduino/frp-arduino)
 * [FRP made simple!](http://travis.athougies.net/posts/2015-05-05-frp-made-simple.html)
+* [FRP - A Short Primer by Gergely Patai at Helsinki FRP Meetup April 1, 2015](https://www.youtube.com/watch?v=_BICQhz6tkM&feature=youtu.be&list=PL3FxNVzVB9HJXCXlEDi3-mzx_Lw_pP11j)
 
 ##数値計算・可視化
 * [linear](http://hackage.haskell.org/package/linear)
