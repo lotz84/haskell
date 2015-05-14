@@ -33,6 +33,7 @@ instance Show Bool where
 * [Adventure with Types in Haskell - Simon Peyton Jones](https://www.youtube.com/watch?v=6COvD8oynmI)
 * [Writing invertible functions](http://blog.callcc.name/posts/invertible-functions.html)
 * [Domains, Sets, Traversals and Applicatives](http://comonad.com/reader/2015/domains-sets-traversals-and-applicatives/)
+* [Recursion Schemes](https://www.youtube.com/watch?v=Zw9KeP3OzpU)
 
 ##Functor
 * [Are Functor instances unique?](http://stackoverflow.com/questions/19774904/are-functor-instances-unique#19775139)
@@ -40,6 +41,7 @@ instance Show Bool where
 
 ##Applicative
 * [Applicative functor](http://mbps.hatenablog.com/entry/2014/07/16/200206)
+* [Applicative Programming with Effects](http://staff.city.ac.uk/~ross/papers/Applicative.html)
 
 |記号 |読み方      |
 |:----|:-----------|
