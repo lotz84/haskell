@@ -88,6 +88,7 @@ main = do
 ###例外処理
 * [Haskell での例外処理](http://d.hatena.ne.jp/kazu-yamamoto/20120604/1338802792)
 * [Haskellでの例外処理(その2)](http://d.hatena.ne.jp/kazu-yamamoto/20120605/1338871044)
+* [Exceptions Best Practices](https://www.fpcomplete.com/user/commercial/content/exceptions-best-practices)
 
 ##Web
 * [Haskell でソケット通信をやってみる](http://yasutech.blogspot.jp/2012/01/haskell.html)
