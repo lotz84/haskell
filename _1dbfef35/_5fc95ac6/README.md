@@ -31,6 +31,8 @@ sieve (p:xs) = p : sieve [x | x <- xs, x `mod` p /= 0]
 -- フィボナッチ数
 fib n = fibs !! n
 fibs = 0 : 1 : zipWith (+) fibs (tail fibs)
+-- fibs@(_ : fibs') = 1 : 1 : zipWith (+) fibs fibs'
+-- https://twitter.com/fumieval/status/599041496084385792
 ```
 
 出典: [Haskellの神話](http://d.hatena.ne.jp/kazu-yamamoto/20100624/1277348961)
