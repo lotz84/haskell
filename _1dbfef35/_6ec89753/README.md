@@ -28,33 +28,41 @@ instance Show Bool where
 * [Edward Kmett - Type Classes vs. the World](https://www.youtube.com/watch?v=hIZxTQP1ifo)
 * [Adventure with Types in Haskell - Simon Peyton Jones](https://www.youtube.com/watch?v=6COvD8oynmI)
 * [Writing invertible functions](http://blog.callcc.name/posts/invertible-functions.html)
-* [Domains, Sets, Traversals and Applicatives](http://comonad.com/reader/2015/domains-sets-traversals-and-applicatives/)
 * [Recursion Schemes](https://www.youtube.com/watch?v=Zw9KeP3OzpU)
 
 ##Functor
-* [Are Functor instances unique?](http://stackoverflow.com/questions/19774904/are-functor-instances-unique#19775139)
-  * [fmapの一意性](http://mbps.hatenablog.com/entry/2014/07/17/132835)
 
 ```haskell
 class Functor f where
     fmap :: (a -> b) -> f a -> f b
 ```
 
+* [Are Functor instances unique?](http://stackoverflow.com/questions/19774904/are-functor-instances-unique#19775139)
+  * [fmapの一意性](http://mbps.hatenablog.com/entry/2014/07/17/132835)
+
 ##Foldable
-* [Data.Foldable](https://hackage.haskell.org/package/base/docs/Data-Foldable.html)
 
 ```haskell
 class Foldable t where
     foldr :: (a -> b -> b) -> b -> t a -> b
 ```
 
+* [Data.Foldable](https://hackage.haskell.org/package/base/docs/Data-Foldable.html)
+
 ##Applicative
-* [Applicative functor](http://mbps.hatenablog.com/entry/2014/07/16/200206)
-* [Applicative Programming with Effects](http://staff.city.ac.uk/~ross/papers/Applicative.html)
+
+```haskell
+class Functor f => Applicative f where
+    pure :: a -> f a
+    (<*>) :: f (a -> b) -> f a -> f b
+```
 
 |記号 |読み方      |
 |:----|:-----------|
 |`<*>`|applied over|
+
+* [Applicative functor](http://mbps.hatenablog.com/entry/2014/07/16/200206)
+* [Applicative Programming with Effects](http://staff.city.ac.uk/~ross/papers/Applicative.html)
 
 ##Traversable
 
@@ -64,7 +72,8 @@ class (Functor t, Foldable t) => Traversable t where
 ```
 
 * [Data.Traversable](https://hackage.haskell.org/package/base/docs/Data-Traversable.html)
-  * [Traversable functor](http://mbps.hatenablog.com/entry/2014/09/22/100000)
+* [Traversable functor](http://mbps.hatenablog.com/entry/2014/09/22/100000)
+* [Domains, Sets, Traversals and Applicatives](http://comonad.com/reader/2015/domains-sets-traversals-and-applicatives/)
 
 ###Distributive
 Distributive is the categorical dual of Traversable.
@@ -77,7 +86,7 @@ class Functor g => Distributive g where
 * [Data.Distributive](hackage.haskell.org/package/distributive/docs/Data-Distributive.html)
 
 ##Monad
-「環」の理論を知らなくても整数の足し算掛け算が出来るように、モナドの数学的な理論を知らなくてもモナドを使うことは出来る。
+「環」の理論を知らなくても整数の足し算掛け算が出来るように、モナドの数学的な側面を知らなくてもモナドを使うことは出来る。
 
 > 盲目の男たちがいました。彼らは象を知ったばかりでした。
 > 
