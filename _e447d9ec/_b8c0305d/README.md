@@ -8,6 +8,7 @@
 * [Deploying Haskell to Heroku using Docker](http://www.reddit.com/r/haskell/comments/35he88/deploying_haskell_to_heroku_using_docker/)
 * [chrisdone/lucid](https://github.com/chrisdone/lucid)
 * [Overloading Monads for Html Deployment](https://www.fpcomplete.com/user/AthanClark/overloaded-monadic-deployment)
+* [Haskell on Heroku](https://haskellonheroku.com/)
 
 ###Database
 * [Safe concurrent MySQL access in Haskell](https://ro-che.info/articles/2015-04-17-safe-concurrent-mysql-haskell)
