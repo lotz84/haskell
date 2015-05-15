@@ -62,6 +62,7 @@ csv = QuasiQuoter
 * [An Explanation of Type Inference for ML/Haskell](http://jozefg.bitbucket.org/posts/2015-02-28-type-inference.html)
 
 ##Editor
+* [EclipseFP](http://eclipsefp.github.io/)
 * [Switching from Vim to Atom (A Haskeller's Perspective)](http://edsko.net/2015/03/07/vim-to-atom/)
 
 ##エコシステム
