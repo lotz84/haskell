@@ -67,4 +67,11 @@
 * [エンド](http://alg-d.com/math/category/end.pdf)
 * [This is the (co)end, my only (co)friend](http://arxiv.org/abs/1501.02503)
 
-
+##Others
+* [Fixed points of functors](http://www.pps.univ-paris-diderot.fr/~metayer/PDF/fix.pdf)
+* [Theory and Practice of Fusion](http://www.cs.ox.ac.uk/ralf.hinze/publications/IFL10.pdf)
+* [Catamorphism](http://mbps.hatenablog.com/entry/2013/05/15/032507)
+* [fold/build fusion](http://mbps.hatenablog.com/entry/2014/10/09/013718)
+* [Hylomorphism](http://mbps.hatenablog.com/entry/2014/10/17/010205)
+* [CATEGORICAL PROGRAMMING WITH INDUCTIVE AND COINDUCTIVE TYPES](http://kodu.ut.ee/~varmo/papers/thesis.pdf)
+* [ITERATION AND PRIMITIVE RECURSION IN CATEGORICAL TERMS](http://www.cs.ru.nl/barendregt60/essays/geuvers_poll/art08_geuvers_poll.pdf)
