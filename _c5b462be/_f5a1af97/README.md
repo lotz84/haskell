@@ -1,3 +1,7 @@
+* [ハイティング代数](http://www.info.human.nagoya-u.ac.jp/lab/phil/kukita/others/Heyting_algebra.pdf)
+
+##直観主義論理
+* [直観主義論理への招待](http://www.kurims.kyoto-u.ac.jp/~terui/summer2013.pdf)
 
 ##線形論理
 * [線形論理って何？](http://web.yl.is.s.u-tokyo.ac.jp/kobalab/kadai99/linear-logic.html)
@@ -10,5 +14,3 @@
 
 ##Modal Logic
 * [Modal Logic](http://plato.stanford.edu/entries/logic-modal/)
-
-
