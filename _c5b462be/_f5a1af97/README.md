@@ -1,3 +1,4 @@
+#論理学
 * [ハイティング代数](http://www.info.human.nagoya-u.ac.jp/lab/phil/kukita/others/Heyting_algebra.pdf)
 
 ##直観主義論理
@@ -14,3 +15,12 @@
 
 ##Modal Logic
 * [Modal Logic](http://plato.stanford.edu/entries/logic-modal/)
+
+#証明論
+* [Programs and Proofs](http://ilyasergey.net/pnp/)
+
+##Proof Theory
+* [Proof Theory Foundations, Lecture 1](https://www.youtube.com/watch?v=YRu7Xi-mNK8)
+* [Proof Theory Foundations, Lecture 2](https://www.youtube.com/watch?v=JzIAEv8fN88)
+* [Proof Theory Foundations, Lecture 3](https://www.youtube.com/watch?v=nw0JAF79gYI)
+* [Proof Theory Foundations, Lecture 4](https://www.youtube.com/watch?v=_XtflAEN6aA)
