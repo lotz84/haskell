@@ -16,9 +16,9 @@
 * [【翻訳】あなたが求めていたリアクティブプログラミング入門](http://ninjinkun.hatenablog.com/entry/introrxja)
 * [やさしいFunctional reactive programming（概要編）](http://maoe.hatenadiary.jp/entry/20100109/1263059731)
 * [Q. （関数型）リアクティブプログラミングとは何ですか？](http://postd.cc/what-is-functional-reactive-programming/)
+* [FRP explanation using reactive-banana](https://wiki.haskell.org/FRP_explanation_using_reactive-banana)
 * <http://maoe.hatenadiary.jp/entry/20100116/1263661213>
 * <http://maoe.hatenadiary.jp/entry/20100123/1264225964>
-* <http://netsuperbrain.com/blog/posts/introducing-reactive-events/>
 * [A Survey of Functional Reactive Programming](http://www.cs.rit.edu/~eca7215/frp-independent-study/Survey.pdf)
 * [Ryan Trinkle - Reflex: Practical Functional Reactive Programming](https://www.youtube.com/watch?v=dOy7zIk3IUI)
 * 🎥 [Reflex: Practical Functional Reactive Programming](https://www.youtube.com/watch?v=mYvkcskJbc4)
