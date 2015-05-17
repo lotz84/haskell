@@ -9,14 +9,15 @@
 出典: [FRP - Functional Reactive Programming](http://www.slideshare.net/kamimuraryo/frp-functional-reactive-programming)
 
 > 私は、Laurence Gのコメントと同じ意見です。彼は、FRPを「“時間とともに変化する”値を表すデータ型」とシンプルに表現しています。
+
 出典: [Q. （関数型）リアクティブプログラミングとは何ですか？](http://postd.cc/what-is-functional-reactive-programming/)
 
 * 比較表: [gelisam/frp-zoo](https://github.com/gelisam/frp-zoo)
 * [FRPの話](http://maoe.hatenadiary.jp/entry/2012/12/24/011414)
 * [【翻訳】あなたが求めていたリアクティブプログラミング入門](http://ninjinkun.hatenablog.com/entry/introrxja)
 * [やさしいFunctional reactive programming（概要編）](http://maoe.hatenadiary.jp/entry/20100109/1263059731)
-* [Q. （関数型）リアクティブプログラミングとは何ですか？](http://postd.cc/what-is-functional-reactive-programming/)
 * [FRP explanation using reactive-banana](https://wiki.haskell.org/FRP_explanation_using_reactive-banana)
+* [Introduction to FRP - Why Applicative Functors?](http://apfelmus.nfshost.com/blog/2011/05/06-frp-why-functors.html)
 * <http://maoe.hatenadiary.jp/entry/20100116/1263661213>
 * <http://maoe.hatenadiary.jp/entry/20100123/1264225964>
 * [A Survey of Functional Reactive Programming](http://www.cs.rit.edu/~eca7215/frp-independent-study/Survey.pdf)
