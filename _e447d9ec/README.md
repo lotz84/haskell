@@ -22,6 +22,7 @@
 ##Machine Learning
 * [mikeizbicki/HLearn](https://github.com/mikeizbicki/HLearn/)
 * [ajtulloch/dnngraph](https://github.com/ajtulloch/dnngraph)
+* [jbarrow/LambdaNet](https://github.com/jbarrow/LambdaNet)
 
 ##デバッグ
 * [Debug.Trace](http://hackage.haskell.org/package/base/docs/Debug-Trace.html)
