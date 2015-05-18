@@ -29,6 +29,7 @@ instance Show Bool where
 * [Adventure with Types in Haskell - Simon Peyton Jones](https://www.youtube.com/watch?v=6COvD8oynmI)
 * [Writing invertible functions](http://blog.callcc.name/posts/invertible-functions.html)
 * [Recursion Schemes](https://www.youtube.com/watch?v=Zw9KeP3OzpU)
+* [SelectricSimian/EventualMonad](https://github.com/selectricsimian/eventualmonad)
 
 ##Functor
 
