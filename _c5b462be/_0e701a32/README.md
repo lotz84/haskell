@@ -2,7 +2,7 @@
 ##型理論
 * [Making Sense of Subtypes](http://languagengine.co/blog/making-sense-of-subtypes/)
 * [Propositions as Types](http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf)
-
+* [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/)
 
 ##Type Theory
 * [PROOFS AND TYPES](http://www.paultaylor.eu/stable/prot.pdf)
