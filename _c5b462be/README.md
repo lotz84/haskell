@@ -1,5 +1,6 @@
 * [Notes on Lattice Theory](http://www.math.hawaii.edu/~jb/lat1-6.pdf)
 * [Algebraic structure](https://en.wikipedia.org/wiki/Algebraic_structure)
+* [Elliptic Curve Cryptography: a gentle introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
 
 ##計算量理論
 * [計算量理論 演習問題](http://www-imai.is.s.u-tokyo.ac.jp/~kawamura/keisanryo/)
