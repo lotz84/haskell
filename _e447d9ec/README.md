@@ -23,8 +23,10 @@
 * [mikeizbicki/HLearn](https://github.com/mikeizbicki/HLearn/)
 * [ajtulloch/dnngraph](https://github.com/ajtulloch/dnngraph)
 * [jbarrow/LambdaNet](https://github.com/jbarrow/LambdaNet)
+* [alpmestan/hnn](https://github.com/alpmestan/hnn)
 
 ###論文
+* [A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 * [The Boundary Forest Algorithm for Online Supervised and Unsupervised Learning](http://arxiv.org/abs/1505.02867)
 * [Margins, Kernels and Non-linear Smoothed Perceptrons](http://arxiv.org/abs/1505.04123)
 * [Reinforcement Learning applied to Single Neuron](http://arxiv.org/abs/1505.04150)
