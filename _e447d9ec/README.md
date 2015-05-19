@@ -24,6 +24,11 @@
 * [ajtulloch/dnngraph](https://github.com/ajtulloch/dnngraph)
 * [jbarrow/LambdaNet](https://github.com/jbarrow/LambdaNet)
 
+###論文
+* [The Boundary Forest Algorithm for Online Supervised and Unsupervised Learning](http://arxiv.org/abs/1505.02867)
+* [Margins, Kernels and Non-linear Smoothed Perceptrons](http://arxiv.org/abs/1505.04123)
+* [Reinforcement Learning applied to Single Neuron](http://arxiv.org/abs/1505.04150)
+
 ##デバッグ
 * [Debug.Trace](http://hackage.haskell.org/package/base/docs/Debug-Trace.html)
 * [2.5. GHCiデバッガ](http://www.kotha.net/ghcguide_ja/latest/ghci-debugger.html)
