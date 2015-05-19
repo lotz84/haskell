@@ -9,6 +9,7 @@
 * [chrisdone/lucid](https://github.com/chrisdone/lucid)
 * [Overloading Monads for Html Deployment](https://www.fpcomplete.com/user/AthanClark/overloaded-monadic-deployment)
 * [Haskell on Heroku](https://haskellonheroku.com/)
+* [fb](https://hackage.haskell.org/package/fb)
 
 ###Database
 * [Safe concurrent MySQL access in Haskell](https://ro-che.info/articles/2015-04-17-safe-concurrent-mysql-haskell)
