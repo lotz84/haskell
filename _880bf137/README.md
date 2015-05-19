@@ -1,4 +1,5 @@
 * [Thinking About Performance](http://chadaustin.me/2015/04/thinking-about-performance/)
+* [Learning C with gdb](https://www.recurse.com/blog/5-learning-c-with-gdb)
 
 ##処理系
 ###GHC
