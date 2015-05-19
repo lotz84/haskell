@@ -12,6 +12,10 @@
 * [Modern OpenGL with Haskell](http://www.arcadianvisions.com/blog/?p=224)
 * [[Haskell]でシューティングを読む(1)](http://d.hatena.ne.jp/h_sakurai/20050727)
 * [プログラミング/Haskell/GLUT](http://www.f13g.com/%a5%d7%a5%ed%a5%b0%a5%e9%a5%df%a5%f3%a5%b0/Haskell/GLUT/)
+* [stackgl/glsl-lighting-walkthrough](https://github.com/stackgl/glsl-lighting-walkthrough)
+
+###WebGL
+* [明解 WebGL オンラインサンプルインデックス](http://book.wgld.org/rf/)
 
 ###Game
 * [Helm - A functionally reactive game engine](http://helm-engine.org/)
