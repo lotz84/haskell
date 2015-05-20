@@ -1,5 +1,6 @@
 * [Thinking About Performance](http://chadaustin.me/2015/04/thinking-about-performance/)
 * [Learning C with gdb](https://www.recurse.com/blog/5-learning-c-with-gdb)
+* [Time and allocation profiling in Haskell](http://marcjuch.li/blog/2015/05/19/time-allocation-profiling-in-haskell/)
 
 ##処理系
 ###GHC
@@ -7,6 +8,7 @@
 * [Haskell Hierarchical Libraries](https://downloads.haskell.org/~ghc/latest/docs/html/libraries/index.html)
 * [Haskellのコンパイル中に現れるSTGと, GDBで見るC-backendなC--](http://d.hatena.ne.jp/suztomo/20111224/1324718354)
 * [Haskellコードの高速化](http://www.kotha.net/hperf/)
+* [The Glasgow Haskell Compiler](http://www.aosabook.org/en/ghc.html)
 * [Naïve Haskell data representation](http://www.scs.stanford.edu/14sp-cs240h/slides/memory-slides.html#(11))
 * [Language extensions](http://www.scs.stanford.edu/14sp-cs240h/slides/extensions-slides.html)
 * [Haskell Compiler (compiler)](http://www.scs.stanford.edu/14sp-cs240h/slides/ghc-compiler-slides.html)
