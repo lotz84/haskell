@@ -24,6 +24,7 @@
 * [ajtulloch/dnngraph](https://github.com/ajtulloch/dnngraph)
 * [jbarrow/LambdaNet](https://github.com/jbarrow/LambdaNet)
 * [alpmestan/hnn](https://github.com/alpmestan/hnn)
+* [Top 10 data mining algorithms in plain English](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 
 ###論文
 * [A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
