@@ -40,6 +40,7 @@
 ##FFI
 * [FFI使ってC++バインディングに入門](http://mymo.blog8.fc2.com/blog-entry-52.html)
 * [HsLua](https://www.haskell.org/haskellwiki/HsLua)
+* [inline-c](https://hackage.haskell.org/package/inline-c)
 
 ###Cocoa
 * [Haskell ではじめるふわとろ Cocoa アプリ開発](http://konn-san.com/prog/haskell/haskell-introduction-to-cocoa.html)
