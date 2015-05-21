@@ -10,6 +10,7 @@
 ##環境構築
 * [Linux](https://www.haskell.org/downloads/linux)
 * [OS X](https://www.haskell.org/downloads/osx)
+    * [Haskell for Mac OS X](http://ghcformacosx.github.io/)
 * [Windows](https://www.haskell.org/downloads/windows)
 
 ##Index
