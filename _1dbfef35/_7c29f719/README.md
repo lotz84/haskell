@@ -36,11 +36,25 @@ data HList (as :: [*]) where
 ```haskell
 {-# LANGUAGE TypeOperators #-}
 
-type (f :+: g) = Either f g
-type (f :*: g) = (f, g)
+type (a :+: b) = Either a b
+type (a :*: b) = (a, b)
 ```
 
 圏論において`Either`は直和, `Tuple`は直積と同型である。
+
+###Multi-parameter type class
+* [Multi-parameter type class](https://wiki.haskell.org/Multi-parameter_type_class)
+
+Lucid の例
+
+```haskell
+class Term arg result | result -> arg where
+  termWith :: Text -> [Attribute] -> arg -> result
+-- https://hackage.haskell.org/package/lucid/docs/Lucid-Base.html#t:Term
+
+p_ :: Term arg result => arg -> result
+-- https://hackage.haskell.org/package/lucid/docs/Lucid-Html5.html#v:p_
+```
 
 ###Phantom Type
 * [型安全なリストを作るのです(｀・ω・´) ～ その1、Phantom Type（幽霊型）入門ですー＞ω＜](https://kagamilove0707.github.io/programming/2014/02/20/about-phantom-type/)
