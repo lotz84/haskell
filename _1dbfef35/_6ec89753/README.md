@@ -267,6 +267,7 @@ instance Functor f => Monad (Free f) where
 * [Category of monads](http://mbps.hatenablog.com/entry/2014/06/26/123223)
 * [Free Monads for Less (Part 2 of 3): Yoneda](http://comonad.com/reader/2011/free-monads-for-less-2/)
 * [What is the difference between free monads and free monoids?](http://www.reddit.com/r/haskell/comments/2znhjk/what_is_the_difference_between_free_monads_and/)
+* [Interpreting Free Monads of Functor Sums](https://gist.github.com/avieth/334201aa341d9a00c7fc)
 
 ####Coyoneda
 
