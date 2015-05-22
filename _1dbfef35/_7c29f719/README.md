@@ -31,10 +31,22 @@ data HList (as :: [*]) where
 
 出典: [DataKinds 言語拡張を使って Typed Heterogeneous List とその基本操作を実装してみた](http://hyone.hatenablog.com/entry/2012/12/26/181105)
 
+###型の足し算と型の掛け算
+
+```haskell
+{-# LANGUAGE TypeOperators #-}
+
+type (f :+: g) = Either f g
+type (f :*: g) = (f, g)
+```
+
+圏論において`Either`は直和, `Tuple`は直積と同型である。
+
 ###Phantom Type
 * [型安全なリストを作るのです(｀・ω・´) ～ その1、Phantom Type（幽霊型）入門ですー＞ω＜](https://kagamilove0707.github.io/programming/2014/02/20/about-phantom-type/)
 * [Phantoms](http://www.scs.stanford.edu/14sp-cs240h/slides/phantoms-slides.html)
 * [What is the purpose of `Data.Proxy`?](http://stackoverflow.com/questions/22116363/what-is-the-purpose-of-data-proxy)
+* [Data.Functor.Constant](https://hackage.haskell.org/package/transformers/docs/Data-Functor-Constant.html)
 
 ###代数的データ型
 * http://nineties.github.io/category-seminar/7.html#/43
