@@ -63,6 +63,8 @@
 * [CλaSH - From Haskell to Hardware](http://www.clash-lang.org/)
 * [自分自身を出力するプログラム](https://www.ipsj.or.jp/07editj/promenade/4703.pdf)
 * [ImplicitCAD](http://www.implicitcad.org/)
+* [aristidb/aws](https://github.com/aristidb/aws)
+* [Handling Control-C in Haskell](http://neilmitchell.blogspot.jp/2015/05/handling-control-c-in-haskell.html)
 
 ###Formatting
 
