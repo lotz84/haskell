@@ -36,6 +36,8 @@
 * [scotty-web/scotty](https://github.com/scotty-web/scotty)
 * [agrafix/Spock](https://github.com/agrafix/Spock)
 * [servant](http://haskell-servant.github.io/)
+* [Overloading Monads for Html Deployment](https://www.fpcomplete.com/user/AthanClark/overloaded-monadic-deployment)
+* [Lucid: templating DSL for HTML](http://chrisdone.com/posts/lucid)
 
 ###Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
