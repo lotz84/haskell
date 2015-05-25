@@ -44,6 +44,11 @@
 ###Fay
 * [faylang/fay](https://github.com/faylang/fay)
 
+##Rust
+* [Rust](http://www.rust-lang.org/)
+* [The Rust Programming Language](https://doc.rust-lang.org/book/)
+* [Playground](https://play.rust-lang.org/)
+
 ##Idris
 <http://www.idris-lang.org/>
 
