@@ -207,6 +207,7 @@ instance Monad (State s) where
 * [How to Declare an Imperative](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.3579&rep=rep1&type=pdf)
 * [GHC 以外の処理系での IO 型/IO モナドの実装](http://togetter.com/li/252981)
 * [Zhuangzi, butterfly and referential transparency](https://ro-che.info/ccc/9)
+* [Effectful Haskell: IO, Monads, Functors](http://slpopejoy.github.io/posts/Effectful01.html)
 
 ```haskell
 module MyIO (MyIO, myPutChar, myGetChar, convert) where
