@@ -210,6 +210,7 @@ main = do
 * [Part 2: Open-Ended Fibonacci Search](https://www.fpcomplete.com/user/edwardk/fibonacci/search)
 * [Lazy unary numbers](http://www.edofic.com/posts/2015-05-03-unary-numbers.html)
 * [Palindromic tree](http://adilet.org/blog/25-09-14/)
+* [OBVERSE AND REVERSE](http://www.stackbuilders.com/news/obverse-and-reverse)
 
 |記号|読み方|
 |:---|:-----|
