@@ -25,6 +25,7 @@
 ##OCaml
 * [OCaml for Haskellers](http://blog.ezyang.com/2010/10/ocaml-for-haskellers/)
 * [「プログラミングの基礎」を使った授業紹介](http://pllab.is.ocha.ac.jp/~asai/book-mov/)
+* [Effective Concurrency with Algebraic Effects](http://kcsrk.info/ocaml/multicore/2015/05/20/effects-multicore/)
 
 ##AltJS
 ###elm
