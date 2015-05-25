@@ -9,6 +9,7 @@
 * [Chris Casinghino - Making Dependent Types Practical](https://www.youtube.com/watch?v=_2jrmgO_Gq0)
 * [Theorems for free!](http://www.cs.sfu.ca/CourseCentral/831/burton/Notes/July14/free.pdf)
 * [Parametricity](https://cubeoflambda.wordpress.com/2011/11/16/parametricity/) 
+* [Parametricity Tutorial (Part 1)](http://www.well-typed.com/blog/2015/05/parametricity/)
 
 ```haskell
 data Bottom
