@@ -19,22 +19,6 @@
 * [ncurses](http://hackage.haskell.org/package/ncurses)
 * [zalora/getopt-generics](https://github.com/zalora/getopt-generics)
 
-##Machine Learning
-* [mikeizbicki/HLearn](https://github.com/mikeizbicki/HLearn/)
-* [ajtulloch/dnngraph](https://github.com/ajtulloch/dnngraph)
-* [jbarrow/LambdaNet](https://github.com/jbarrow/LambdaNet)
-* [alpmestan/hnn](https://github.com/alpmestan/hnn)
-* [Top 10 data mining algorithms in plain English](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
-* [New ‘deep learning’ technique enables robot mastery of skills via trial and error](http://newscenter.berkeley.edu/2015/05/21/deep-learning-robot-masters-skills-via-trial-and-error/)
-* [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
-
-###論文
-* [A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
-* [The Boundary Forest Algorithm for Online Supervised and Unsupervised Learning](http://arxiv.org/abs/1505.02867)
-* [Margins, Kernels and Non-linear Smoothed Perceptrons](http://arxiv.org/abs/1505.04123)
-* [Reinforcement Learning applied to Single Neuron](http://arxiv.org/abs/1505.04150)
-* [Parallel Streaming Signature EM-tree: A Clustering Algorithm for Web Scale Applications](http://arxiv.org/abs/1505.05613)
-
 ##デバッグ
 * [Debug.Trace](http://hackage.haskell.org/package/base/docs/Debug-Trace.html)
 * [2.5. GHCiデバッガ](http://www.kotha.net/ghcguide_ja/latest/ghci-debugger.html)
