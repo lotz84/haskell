@@ -86,20 +86,20 @@ fac n = product [1..n]
 ##基本的な型
 |型   |値   |説明 |
 |:----|:----|:----|
-|`()`        |`()`               |ただひとつの値しか持たない型        |
-|`Bool`      |`True`,`False`     |真偽値を値として持つ型              |
-|`Int`       |ex) 1, 2, 3        |有界な整数を表す型                  |
-|`Integer`   |ex) 1, 2, 3        |多倍長精度の整数を表す型            |
-|`Float`     |ex) 1.0, 2.1, 3.2  |単精度浮動小数点数を表す型          |
-|`Double`    |ex) 1.0, 2.1, 3.2  |倍精度浮動小数点数を表す型          |
-|`Char`      |ex) 'a', 'b', 'c'  |文字を表す型。一文字                |
-|`String`    |ex) "abc", "123"   |文字列を表す型。`[Char]`と同じ      |
-|`[a]`       |ex) [1, 2, 3]      |リストを表す型                      |
-|`Maybe a`   |`Nothing`, `Just a`|存在しないかもしれない値を表す型    |
-|`IO a`      |-                  |副作用を持つ計算に使われる型        |
-|`(a, b)`    |ex) (1, 2)         |タプル。２つの値を組み合わせられる型|
-|`Either a b`|`Left a`, `Right b`|`a`か`b`かどちらかの値を取りうる型  |
-|`a -> b`    |ex) id, const, head|関数の型                            |
+|`()`        |`()`               |unitと読む。ただひとつの値しか持たない型|
+|`Bool`      |`True`,`False`     |真偽値を値として持つ型                  |
+|`Int`       |ex) 1, 2, 3        |有界な整数を表す型                      |
+|`Integer`   |ex) 1, 2, 3        |多倍長精度の整数を表す型                |
+|`Float`     |ex) 1.0, 2.1, 3.2  |単精度浮動小数点数を表す型              |
+|`Double`    |ex) 1.0, 2.1, 3.2  |倍精度浮動小数点数を表す型              |
+|`Char`      |ex) 'a', 'b', 'c'  |文字を表す型。一文字                    |
+|`String`    |ex) "abc", "123"   |文字列を表す型。`[Char]`と同じ          |
+|`[a]`       |ex) [1, 2, 3]      |リストを表す型                          |
+|`Maybe a`   |`Nothing`, `Just a`|存在しないかもしれない値を表す型        |
+|`IO a`      |-                  |副作用を持つ計算に使われる型            |
+|`(a, b)`    |ex) (1, 2)         |タプル。２つの値を組み合わせられる型    |
+|`Either a b`|`Left a`, `Right b`|`a`か`b`かどちらかの値を取りうる型      |
+|`a -> b`    |ex) id, const, head|関数の型                                |
 
 `ghci`では
 
@@ -110,16 +110,24 @@ ghci> :t 式
 とすることで式の型を調べることが出来る。
 
 ```haskell
+ghci> :t True
+True :: Bool
+
 ghci> :t 'a'
 'a' :: Char
+
 ghci> :t "abc"
 "abc" :: [Char]
+
 ghci> :t :t Just 'a'
 Just 'a' :: Maybe Char
+
 ghci> :t ('a', "abc")
 ('a', "abc") :: (Char, [Char])
+
 ghci> :t Left 'a'
 Left 'a' :: Either Char b
+
 ghci> :t ()
 () :: ()
 ```
@@ -281,9 +289,8 @@ main = do
 
 |記号|読み方|
 |:---|:-----|
-|`()`|unit  |
-|`:` |cons  |
 |`[]`|nil   |
+|`:` |cons  |
 |`++`|append|
 
 ###Zipper
