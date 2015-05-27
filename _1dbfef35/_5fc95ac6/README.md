@@ -120,6 +120,23 @@ ghci> :t ('a', "abc")
 ('a', "abc") :: (Char, [Char])
 ghci> :t Left 'a'
 Left 'a' :: Either Char b
+ghci> :t ()
+() :: ()
+```
+
+###型注釈
+
+式の任意の場所にその値がどのような型であるかを注釈として書くことが出来る。
+
+```haskell
+ghci> 1 :: Int
+1
+ghci> 5 :: Double
+5.0
+ghci> 1 + (2 :: Int)
+3
+ghci> Left 'a' :: Either Char Int
+Left 'a'
 ```
 
 ##関数
