@@ -154,7 +154,7 @@ instance Monad Maybe where
 ####Example
 
 ```haskell
-import Data.List
+import Data.List (lookup)
 
 env :: [(String, Int)]
 env = [("x", 3), ("y", 4), ("z", 5)]
