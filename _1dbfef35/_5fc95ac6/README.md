@@ -103,13 +103,13 @@ fac n = product [1..n]
 
 `ghci`では
 
-```
+```haskell
 ghci> :t 式
 ```
 
 とすることで式の型を調べることが出来る。
 
-```
+```haskell
 ghci> :t 'a'
 'a' :: Char
 ghci> :t "abc"
@@ -118,6 +118,8 @@ ghci> :t :t Just 'a'
 Just 'a' :: Maybe Char
 ghci> :t ('a', "abc")
 ('a', "abc") :: (Char, [Char])
+ghci> :t Left 'a'
+Left 'a' :: Either Char b
 ```
 
 ##関数
