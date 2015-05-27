@@ -1,4 +1,14 @@
 ##Hello World
+###GHCi
+Haskell には GHCi というREPLが標準でついている。
+
+```haskell
+$ ghci
+ghci> "Hello World"
+"Hello World"
+```
+
+###ファイルから実行
 
 ```bash
 $ vim hello.hs
@@ -12,6 +22,19 @@ main = putStrLn "Hello World!"
 $ runhaskell hello.hs
 Hello World!
 ```
+
+###コンパイルして実行
+上記の`hello.hs`を使う
+
+```bash
+$ ghc hello.hs
+$ ./hello
+Hello World
+```
+
+> 関数プログラミングを習得するには，これまで命令プログラミングで培った技術はいったん忘れ，真っ白な気持ちで臨む必要があります。関数型の山を登るためには，命令型の山を降りなければなりません。
+
+出典: [第1章　関数プログラミングは難しくない！](http://gihyo.jp/dev/feature/01/functional-prog/0001)
 
 * [A History of Haskell: Being Lazy With Class](http://haskell.cs.yale.edu/wp-content/uploads/2011/02/history.pdf)
    * <https://www.youtube.com/watch?v=3bjXGrycMhQ>
@@ -35,10 +58,6 @@ fibs = 0 : 1 : zipWith (+) fibs (tail fibs)
 ```
 
 出典: [Haskellの神話](http://d.hatena.ne.jp/kazu-yamamoto/20100624/1277348961)
-
-> 関数プログラミングを習得するには，これまで命令プログラミングで培った技術はいったん忘れ，真っ白な気持ちで臨む必要があります。関数型の山を登るためには，命令型の山を降りなければなりません。
-
-出典: [第1章　関数プログラミングは難しくない！](http://gihyo.jp/dev/feature/01/functional-prog/0001)
 
 ```shell
 $ cabal install hlint
