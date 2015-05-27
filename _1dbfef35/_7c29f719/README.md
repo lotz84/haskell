@@ -10,6 +10,7 @@
 * [Theorems for free!](http://www.cs.sfu.ca/CourseCentral/831/burton/Notes/July14/free.pdf)
 * [Parametricity](https://cubeoflambda.wordpress.com/2011/11/16/parametricity/) 
 * [Parametricity Tutorial (Part 1)](http://www.well-typed.com/blog/2015/05/parametricity/)
+* [Injective type families for Haskell](http://lambda.jstolarek.com/2015/05/injective-type-families-for-haskell/)
 
 ```haskell
 data Bottom
