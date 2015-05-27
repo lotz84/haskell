@@ -85,6 +85,7 @@ fac n = product [1..n]
 
 ##関数
 * [Curry](https://ro-che.info/ccc/10)
+* [Generalizing function composition](http://jaspervdj.be/posts/2014-10-17-generalizing-function-composition.html)
 
 > We shall suppose that functional application is more binding than any other operator, so f x ++ y means (f x) ++ y and not f (x ++ y).
 
