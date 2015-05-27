@@ -2,11 +2,10 @@
 * [Windows](https://www.haskell.org/downloads/windows)
 * [Linux](https://www.haskell.org/downloads/linux)
 * [OS X](https://www.haskell.org/downloads/osx)
-    * (おすすめ)[Haskell for Mac OS X](http://ghcformacosx.github.io/)
+    * [Haskell for Mac OS X](http://ghcformacosx.github.io/) (おすすめ)
 
 エディタはvimでよい
 
-**tools**
 * [hlint](https://hackage.haskell.org/package/hlint)
 
 ##Hello World
@@ -85,13 +84,12 @@ fibs = 1 : 1 : zipWith (+) fibs (tail fibs)
 * [What I Wish I Knew When Learning Haskell](http://www.stephendiehl.com/what/) [[ja](https://github.com/Kinokkory/wiwinwlh-jp/wiki)]
 
 ###Video Tutorials
-* �[Haskell Course by Philip Wadler](https://www.youtube.com/watch?v=AOl2y5uW0mA&list=PLtRG9GLtNcHBv4cuh2w1cz5VsgY6adoc3)
-* � [Haskell from Scratch](https://www.youtube.com/watch?v=zZ_nI9E9g0I&list=PLxj9UAX4Em-Ij4TKwKvo-SLp-Zbv-hB4B&index=1)
-* � [Adventures in Haskell](https://www.youtube.com/watch?v=9AllRc64pVE&list=PL_xuff3BkASMOzBr0hKVKLuSnU4UIinKx)
-* � [Sed implementation in Haskell](https://www.youtube.com/watch?v=0I90MTip-OQ&list=PLUQzXLQ6jvHL_k3QOMKXehVoZdk-sKtHd)
-* � [Haskell Tutorial - LazyCasts](https://www.youtube.com/watch?v=5XLTRuKoOtM&index=2&list=PLvj5k87ljYYHwOOcdGvS3qi85IvjOW--8)
-* � [Loop School](http://school.looprecur.com/)
-* � [Introduction to functional programming in Haskell](https://www.youtube.com/watch?v=me_KkQfSFrQ)
+* [Haskell Course by Philip Wadler](https://www.youtube.com/watch?v=AOl2y5uW0mA&list=PLtRG9GLtNcHBv4cuh2w1cz5VsgY6adoc3)
+* [Haskell from Scratch](https://www.youtube.com/watch?v=zZ_nI9E9g0I&list=PLxj9UAX4Em-Ij4TKwKvo-SLp-Zbv-hB4B&index=1)
+* [Adventures in Haskell](https://www.youtube.com/watch?v=9AllRc64pVE&list=PL_xuff3BkASMOzBr0hKVKLuSnU4UIinKx)
+* [Sed implementation in Haskell](https://www.youtube.com/watch?v=0I90MTip-OQ&list=PLUQzXLQ6jvHL_k3QOMKXehVoZdk-sKtHd)
+* [Haskell Tutorial - LazyCasts](https://www.youtube.com/watch?v=5XLTRuKoOtM&index=2&list=PLvj5k87ljYYHwOOcdGvS3qi85IvjOW--8)
+* [Introduction to functional programming in Haskell](https://www.youtube.com/watch?v=me_KkQfSFrQ)
 * [Recommended Haskell reading and watching](https://secure.plaimi.net/~alexander/haskell.html)
 
 ##基本的な型
@@ -190,6 +188,20 @@ fac n = product [1..n]
 
 ###多変数関数とカリー化
 * [Curry](https://ro-che.info/ccc/10)
+* [Loop School - Curring](http://school.looprecur.com/?video=122330958)
+
+```haskell
+ghci> :t take
+take :: Int -> [a] -> [a]
+```
+
+`Int -> [a] -> [a]`は`Int -> ([a] -> [a])`すなわち整数をとってリストをとってリストを返す関数を返す関数として定義されている。実際に使うときは
+
+```haskell
+ghci> take 3 [1..]
+[1,2,3]
+```
+の様に２変数関数のように使うことが出来る。このようにHaskellでは多変数関数を関数を返す関数として実装するのが普通である。
 
 > Haskell 初心者は括弧ばかりの Lisp のようなコードを書く。中級者になると、($) が多くなる。上級者(言い過ぎか？)になると、($) が消えて、(.) が多くなる。
 
