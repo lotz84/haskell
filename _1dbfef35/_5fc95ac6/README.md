@@ -1,10 +1,12 @@
 ##環境構築
+* [Windows](https://www.haskell.org/downloads/windows)
 * [Linux](https://www.haskell.org/downloads/linux)
 * [OS X](https://www.haskell.org/downloads/osx)
-    * [Haskell for Mac OS X](http://ghcformacosx.github.io/)
-* [Windows](https://www.haskell.org/downloads/windows)
+    * (おすすめ)[Haskell for Mac OS X](http://ghcformacosx.github.io/)
 
-###Tools
+エディタはvimでよい
+
+**tools**
 * [hlint](https://hackage.haskell.org/package/hlint)
 
 ##Hello World
@@ -64,6 +66,7 @@ sieve (p:xs) = p : sieve [x | x <- xs, x `mod` p /= 0]
 ```
 
 * [The Genuine Sieve of Eratosthenes](http://www.cs.hmc.edu/~oneill/papers/Sieve-JFP.pdf)
+* [Haskell programmers are liars](http://www.garrisonjensen.com/2015/05/13/haskell-programs-are-lies.html)
 
 ###フィボナッチ数列
 
@@ -77,38 +80,19 @@ fibs = 1 : 1 : zipWith (+) fibs (tail fibs)
 
 ##Basics
 * [Try Haskell](https://tryhaskell.org/)
-* [Basics](http://www.scs.stanford.edu/14sp-cs240h/slides/basics-slides.html)
-* [What I Wish I Knew When Learning Haskell](http://www.stephendiehl.com/what/)
-  * [日本語訳](https://github.com/Kinokkory/wiwinwlh-jp/wiki)
-* 🎥 [Haskell Course by Philip Wadler](https://www.youtube.com/watch?v=AOl2y5uW0mA&list=PLtRG9GLtNcHBv4cuh2w1cz5VsgY6adoc3)
-* 🎥 [Haskell from Scratch](https://www.youtube.com/watch?v=zZ_nI9E9g0I&list=PLxj9UAX4Em-Ij4TKwKvo-SLp-Zbv-hB4B&index=1)
-* 🎥 [Adventures in Haskell](https://www.youtube.com/watch?v=9AllRc64pVE&list=PL_xuff3BkASMOzBr0hKVKLuSnU4UIinKx)
-* 🎥 [Sed implementation in Haskell](https://www.youtube.com/watch?v=0I90MTip-OQ&list=PLUQzXLQ6jvHL_k3QOMKXehVoZdk-sKtHd)
-* 🎥 [Haskell Tutorial - LazyCasts](https://www.youtube.com/watch?v=5XLTRuKoOtM&index=2&list=PLvj5k87ljYYHwOOcdGvS3qi85IvjOW--8)
-* 🎥 [Loop School](http://school.looprecur.com/)
-* 🎥 [Introduction to functional programming in Haskell](https://www.youtube.com/watch?v=me_KkQfSFrQ)
 * [99 Haskell](http://www.99haskell.org/)
-* [TEACHING HASKELL TO A 10 YEAR OLD: DAY 1](https://superginbaby.wordpress.com/2015/04/08/teaching-haskell-to-a-10-year-old-day-1/)
-* [anchor/haskell-cheat-sheets](https://github.com/anchor/haskell-cheat-sheets)
-* [caiorss/Functional-Programming](https://github.com/caiorss/Functional-Programming#concepts)
+* [Basics](http://www.scs.stanford.edu/14sp-cs240h/slides/basics-slides.html)
+* [What I Wish I Knew When Learning Haskell](http://www.stephendiehl.com/what/) [[ja](https://github.com/Kinokkory/wiwinwlh-jp/wiki)]
+
+###Video Tutorials
+* �[Haskell Course by Philip Wadler](https://www.youtube.com/watch?v=AOl2y5uW0mA&list=PLtRG9GLtNcHBv4cuh2w1cz5VsgY6adoc3)
+* � [Haskell from Scratch](https://www.youtube.com/watch?v=zZ_nI9E9g0I&list=PLxj9UAX4Em-Ij4TKwKvo-SLp-Zbv-hB4B&index=1)
+* � [Adventures in Haskell](https://www.youtube.com/watch?v=9AllRc64pVE&list=PL_xuff3BkASMOzBr0hKVKLuSnU4UIinKx)
+* � [Sed implementation in Haskell](https://www.youtube.com/watch?v=0I90MTip-OQ&list=PLUQzXLQ6jvHL_k3QOMKXehVoZdk-sKtHd)
+* � [Haskell Tutorial - LazyCasts](https://www.youtube.com/watch?v=5XLTRuKoOtM&index=2&list=PLvj5k87ljYYHwOOcdGvS3qi85IvjOW--8)
+* � [Loop School](http://school.looprecur.com/)
+* � [Introduction to functional programming in Haskell](https://www.youtube.com/watch?v=me_KkQfSFrQ)
 * [Recommended Haskell reading and watching](https://secure.plaimi.net/~alexander/haskell.html)
-* [Haskell programmers are liars](http://www.garrisonjensen.com/2015/05/13/haskell-programs-are-lies.html)
-
-> ゴルフでもトリッキーなコードでもなく、 計算の仕方を変えるだけでより直接的に、シンプルに、コードが短くなりました。 必要なのはやりたいことが実際にはどのような計算なのかということを認識することです。 難しく考えないようにしましょう。
-
-出典: [非決定計算としてのリストモナド](http://tanakh.jp/posts/2012-02-22-list-monad.html)
-
-```haskell
--- Freshman Haskell programmer
-fac n = if n == 0 
-           then 1
-           else n * fac (n-1)
-
--- Tenured professor
-fac n = product [1..n]
-```
-
-出典: [The Evolution of a Haskell Programmer](http://www.willamette.edu/~fruehr/haskell/evolution.html)
 
 ##基本的な型
 |型   |値   |説明 |
@@ -189,10 +173,22 @@ fac n = n * fac (n-1)
 
 関数適用の優先度はとても高く、上の例では`n * fac (n-1)`は`n * (fac (n-1))`と計算されます。
 
+```haskell
+-- Freshman Haskell programmer
+fac n = if n == 0 
+           then 1
+           else n * fac (n-1)
+
+-- Tenured professor
+fac n = product [1..n]
+```
+
+出典: [The Evolution of a Haskell Programmer](http://www.willamette.edu/~fruehr/haskell/evolution.html)
+
 ###パターンマッチ
 * [Pattern matching](http://mbps.hatenablog.com/entry/2014/10/04/010000)
 
-##多変数関数とカリー化
+###多変数関数とカリー化
 * [Curry](https://ro-che.info/ccc/10)
 
 > Haskell 初心者は括弧ばかりの Lisp のようなコードを書く。中級者になると、($) が多くなる。上級者(言い過ぎか？)になると、($) が消えて、(.) が多くなる。
