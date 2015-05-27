@@ -161,8 +161,8 @@ env = [("x", 3), ("y", 4), ("z", 5)]
 
 calc :: Maybe Int
 calc = do
-    x <- snd <$> find ((== "x") . fst) env
-    y <- snd <$> find ((== "y") . fst) env
+    x <- lookup "x" env
+    y <- lookup "y" env
     return $ x + y
 -- ghci> calc
 -- Just 7
