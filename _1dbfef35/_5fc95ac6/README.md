@@ -1,3 +1,12 @@
+##環境構築
+* [Linux](https://www.haskell.org/downloads/linux)
+* [OS X](https://www.haskell.org/downloads/osx)
+    * [Haskell for Mac OS X](http://ghcformacosx.github.io/)
+* [Windows](https://www.haskell.org/downloads/windows)
+
+###Tools
+* [hlint](https://hackage.haskell.org/package/hlint)
+
 ##Hello World
 ###GHCi
 Haskell には GHCi というREPLが標準でついている。
@@ -64,12 +73,7 @@ fibs = 1 : 1 : zipWith (+) fibs (tail fibs)
 -- [1,1,2,3,5,8,13,21,34,55,89,..
 ```
 
-しかしこれらは必ずしも効率のいい実装とは限らない([参考](http://d.hatena.ne.jp/kazu-yamamoto/20100624/1277348961))
-
-* [A History of Haskell: Being Lazy With Class](http://haskell.cs.yale.edu/wp-content/uploads/2011/02/history.pdf)
-   * <https://www.youtube.com/watch?v=3bjXGrycMhQ>
-
-[hlint](https://hackage.haskell.org/package/hlint)
+しかしこれらは綺麗であるが必ずしも効率のいい実装とは限らない([参考](http://d.hatena.ne.jp/kazu-yamamoto/20100624/1277348961))
 
 ##Basics
 * [Try Haskell](https://tryhaskell.org/)
