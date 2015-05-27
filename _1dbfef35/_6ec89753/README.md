@@ -64,6 +64,7 @@ class Functor f => Applicative f where
 
 * [Applicative functor](http://mbps.hatenablog.com/entry/2014/07/16/200206)
 * [Applicative Programming with Effects](http://staff.city.ac.uk/~ross/papers/Applicative.html)
+* [The Prio Applicative](http://jaspervdj.be/posts/2015-05-26-prio-applicative.html)
 
 ##Traversable
 
