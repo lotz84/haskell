@@ -5,7 +5,6 @@
 * [egonSchiele/HandsomeSoup](https://github.com/egonSchiele/HandsomeSoup)
 * [jwiegley/github](https://github.com/jwiegley/github)
 * [Deploying Haskell to Heroku using Docker](http://www.reddit.com/r/haskell/comments/35he88/deploying_haskell_to_heroku_using_docker/)
-* [Overloading Monads for Html Deployment](https://www.fpcomplete.com/user/AthanClark/overloaded-monadic-deployment)
 * [Haskell on Heroku](https://haskellonheroku.com/)
 * [fb](https://hackage.haskell.org/package/fb)
 
@@ -30,6 +29,8 @@
 ##HTML Template/DSL
 * Template - [shakespeare](https://hackage.haskell.org/package/shakespeare)
 * [blaze-html](http://hackage.haskell.org/package/blaze-html)
+
+###Lucid
 * [chrisdone/lucid](https://github.com/chrisdone/lucid)
 * [Lucid: templating DSL for HTML](http://chrisdone.com/posts/lucid)
 
@@ -51,10 +52,18 @@ indexHtml = do
 * [mighttpd](https://hackage.haskell.org/package/mighttpd)
 * [Haskell から見た node.js](http://d.hatena.ne.jp/kazu-yamamoto/20110825/1314254885)
 * [Web](http://www.scs.stanford.edu/14sp-cs240h/slides/web-slides.lhtml)
-* [scotty-web/scotty](https://github.com/scotty-web/scotty)
 * [agrafix/Spock](https://github.com/agrafix/Spock)
-* [servant](http://haskell-servant.github.io/)
 * [Overloading Monads for Html Deployment](https://www.fpcomplete.com/user/AthanClark/overloaded-monadic-deployment)
+
+###WAI/Warp
+* [wai](https://hackage.haskell.org/package/wai)
+* [warp](https://hackage.haskell.org/package/warp)
+
+###Scotty
+* [scotty-web/scotty](https://github.com/scotty-web/scotty)
+
+###Servant
+* [servant](http://haskell-servant.github.io/)
 
 ###Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
