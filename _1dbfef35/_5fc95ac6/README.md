@@ -73,7 +73,7 @@ fibs = 1 : 1 : zipWith (+) fibs (tail fibs)
 -- [1,1,2,3,5,8,13,21,34,55,89,..
 ```
 
-しかしこれらは綺麗であるが必ずしも効率のいい実装とは限らない([参考](http://d.hatena.ne.jp/kazu-yamamoto/20100624/1277348961))
+しかしこれらの実装は綺麗であるが必ずしも効率がいいとは限らない([参考](http://d.hatena.ne.jp/kazu-yamamoto/20100624/1277348961))
 
 ##Basics
 * [Try Haskell](https://tryhaskell.org/)
