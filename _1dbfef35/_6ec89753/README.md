@@ -151,6 +151,23 @@ instance Monad Maybe where
   Just x >>= f  = f x
 ```
 
+####Example
+
+```haskell
+import Data.List
+
+env :: [(String, Int)]
+env = [("x", 3), ("y", 4), ("z", 5)]
+
+calc :: Maybe Int
+calc = do
+    x <- snd <$> find ((== "x") . fst) env
+    y <- snd <$> find ((== "y") . fst) env
+    return $ x + y
+-- ghci> calc
+-- Just 7
+```
+
 ###List Monad
 
 ```haskell
