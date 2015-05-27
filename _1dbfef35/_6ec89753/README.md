@@ -160,6 +160,7 @@ instance Monad [] where
 ```
 
 * [リストモナドの動作原理を考える](http://d.hatena.ne.jp/kazu-yamamoto/20090313/1236935179)
+* [非決定計算としてのリストモナド](http://tanakh.jp/posts/2012-02-22-list-monad.html)
 * [guard の動作原理を考える](http://d.hatena.ne.jp/kazu-yamamoto/20090401/1238555013)
 * [Easy exhasutive search with the list monad](http://blog.plover.com/prog/haskell/monad-search.html)
 
