@@ -83,8 +83,44 @@ fac n = product [1..n]
 
 出典: [The Evolution of a Haskell Programmer](http://www.willamette.edu/~fruehr/haskell/evolution.html)
 
+##基本的な型
+|型   |値   |説明 |
+|:----|:----|:----|
+|`()`        |`()`               |ただひとつの値しか持たない型        |
+|`Bool`      |`True`,`False`     |真偽値を値として持つ型              |
+|`Int`       |ex) 1, 2, 3        |有界な整数を表す型                  |
+|`Integer`   |ex) 1, 2, 3        |多倍長精度の整数を表す型            |
+|`Float`     |ex) 1.0, 2.1, 3.2  |単精度浮動小数点数を表す型          |
+|`Double`    |ex) 1.0, 2.1, 3.2  |倍精度浮動小数点数を表す型          |
+|`Char`      |ex) 'a', 'b', 'c'  |文字を表す型。一文字                |
+|`String`    |ex) "abc", "123"   |文字列を表す型。`[Char]`と同じ      |
+|`[a]`       |ex) [1, 2, 3]      |リストを表す型                      |
+|`Maybe a`   |`Nothing`, `Just a`|存在しないかもしれない値を表す型    |
+|`IO a`      |-                  |副作用を持つ計算に使われる型        |
+|`(a, b)`    |ex) (1, 2)         |タプル。２つの値を組み合わせられる型|
+|`Either a b`|`Left a`, `Right b`|`a`か`b`かどちらかの値を取りうる型  |
+|`a -> b`    |ex) id, const, head|関数の型                            |
+
+`ghci`では
+
+```
+ghci> :t 式
+```
+
+とすることで式の型を調べることが出来る。
+
+```
+ghci> :t 'a'
+'a' :: Char
+ghci> :t "abc"
+"abc" :: [Char]
+ghci> :t :t Just 'a'
+Just 'a' :: Maybe Char
+ghci> :t ('a', "abc")
+('a', "abc") :: (Char, [Char])
+```
+
 ##関数
-* [Curry](https://ro-che.info/ccc/10)
 * [Generalizing function composition](http://jaspervdj.be/posts/2014-10-17-generalizing-function-composition.html)
 
 ```haskell
@@ -93,16 +129,21 @@ fac :: Integer -> Integer
 -- 関数の実装
 fac 0 = 1
 fac n = n * fac (n-1)
+-- ghci> fac 5
+-- 120
 ```
 
 関数適用の優先度はとても高く、上の例では`n * fac (n-1)`は`n * (fac (n-1))`と計算されます。
 
+###パターンマッチ
+* [Pattern matching](http://mbps.hatenablog.com/entry/2014/10/04/010000)
+
+##多変数関数とカリー化
+* [Curry](https://ro-che.info/ccc/10)
+
 > Haskell 初心者は括弧ばかりの Lisp のようなコードを書く。中級者になると、($) が多くなる。上級者(言い過ぎか？)になると、($) が消えて、(.) が多くなる。
 
 出典: [関数合成の妙技](http://d.hatena.ne.jp/kazu-yamamoto/20100702/1278036842)
-
-###パターンマッチ
-* [Pattern matching](http://mbps.hatenablog.com/entry/2014/10/04/010000)
 
 ###ポイントフリー
 必要のないところでポイントワイズに書く必要はないが、あまりポイントフリーに拘りすぎないのも大事
