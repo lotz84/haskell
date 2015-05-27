@@ -29,7 +29,7 @@ Hello World!
 ```bash
 $ ghc hello.hs
 $ ./hello
-Hello World
+Hello World!
 ```
 
 ##Examples
@@ -48,9 +48,10 @@ quicksort (p:xs) = quicksort [ x | x <- xs, x <= p] ++ [p] ++ quicksort [ x | x 
 ###エラトステネスの篩(素数生成)
 
 ```haskell
-prime n = primes !! n
 primes = sieve [2..]
 sieve (p:xs) = p : sieve [x | x <- xs, x `mod` p /= 0]
+-- ghci> primes
+-- [2,3,5,7,11,13,17,19,23,..
 ```
 
 * [The Genuine Sieve of Eratosthenes](http://www.cs.hmc.edu/~oneill/papers/Sieve-JFP.pdf)
@@ -58,8 +59,9 @@ sieve (p:xs) = p : sieve [x | x <- xs, x `mod` p /= 0]
 ###フィボナッチ数列
 
 ```haskell
-fib n = fibs !! n
 fibs = 1 : 1 : zipWith (+) fibs (tail fibs)
+-- ghci> fibs
+-- [1,1,2,3,5,8,13,21,34,55,89,..
 ```
 
 しかしこれらは必ずしも効率のいい実装とは限らない([参考](http://d.hatena.ne.jp/kazu-yamamoto/20100624/1277348961))
