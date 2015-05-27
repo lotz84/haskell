@@ -32,37 +32,40 @@ $ ./hello
 Hello World
 ```
 
+##Examples
+
 > 関数プログラミングを習得するには，これまで命令プログラミングで培った技術はいったん忘れ，真っ白な気持ちで臨む必要があります。関数型の山を登るためには，命令型の山を降りなければなりません。
 
 出典: [第1章　関数プログラミングは難しくない！](http://gihyo.jp/dev/feature/01/functional-prog/0001)
 
-* [A History of Haskell: Being Lazy With Class](http://haskell.cs.yale.edu/wp-content/uploads/2011/02/history.pdf)
-   * <https://www.youtube.com/watch?v=3bjXGrycMhQ>
+###クイックソート
 
 ```haskell
--- クイックソート
 quicksort [] = []
 quicksort (p:xs) = quicksort [ x | x <- xs, x <= p] ++ [p] ++ quicksort [ x | x <- xs, x > p]
+```
 
--- 素数生成
+###エラトステネスの篩(素数生成)
+
+```haskell
 prime n = primes !! n
 primes = sieve [2..]
 sieve (p:xs) = p : sieve [x | x <- xs, x `mod` p /= 0]
--- http://www.cs.hmc.edu/~oneill/papers/Sieve-JFP.pdf
+```
 
--- フィボナッチ数
+* [The Genuine Sieve of Eratosthenes](http://www.cs.hmc.edu/~oneill/papers/Sieve-JFP.pdf)
+
+###フィボナッチ数列
+
+```haskell
 fib n = fibs !! n
-fibs = 0 : 1 : zipWith (+) fibs (tail fibs)
--- fibs@(_ : fibs') = 1 : 1 : zipWith (+) fibs fibs'
--- https://twitter.com/fumieval/status/599041496084385792
+fibs = 1 : 1 : zipWith (+) fibs (tail fibs)
 ```
 
-出典: [Haskellの神話](http://d.hatena.ne.jp/kazu-yamamoto/20100624/1277348961)
+しかしこれらは必ずしも効率のいい実装とは限らない([参考](http://d.hatena.ne.jp/kazu-yamamoto/20100624/1277348961))
 
-```shell
-$ cabal install hlint
-$ hlint code.hs
-```
+* [A History of Haskell: Being Lazy With Class](http://haskell.cs.yale.edu/wp-content/uploads/2011/02/history.pdf)
+   * <https://www.youtube.com/watch?v=3bjXGrycMhQ>
 
 [hlint](https://hackage.haskell.org/package/hlint)
 
