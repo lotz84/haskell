@@ -1,4 +1,3 @@
-#基本と関数と型
 ##Hello World
 
 ```bash
