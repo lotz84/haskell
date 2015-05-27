@@ -6,7 +6,7 @@
 出典: [不完全にしておよそ正しくないプログラミング言語小史](http://www.aoky.net/articles/james_iry/brief-incomplete-and-mostly-wrong.htm)
 
 * [なぜ関数プログラミングは重要か](http://www.sampou.org/haskell/article/whyfp.html)
-* [A History of Haskell: Being Lazy With Class](http://haskell.cs.yale.edu/wp-content/uploads/2011/02/history.pdf)([youtube](https://www.youtube.com/watch?v=3bjXGrycMhQ))
+* [A History of Haskell: Being Lazy With Class](http://haskell.cs.yale.edu/wp-content/uploads/2011/02/history.pdf) [[video](https://www.youtube.com/watch?v=3bjXGrycMhQ)]
 
 ##Index
 1. Haskell: 純粋関数型プログラミング言語
