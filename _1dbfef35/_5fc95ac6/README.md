@@ -87,13 +87,22 @@ fac n = product [1..n]
 * [Curry](https://ro-che.info/ccc/10)
 * [Generalizing function composition](http://jaspervdj.be/posts/2014-10-17-generalizing-function-composition.html)
 
-> We shall suppose that functional application is more binding than any other operator, so f x ++ y means (f x) ++ y and not f (x ++ y).
+```haskell
+-- 型の宣言
+fac :: Integer -> Integer
+-- 関数の実装
+fac 0 = 1
+fac n = n * fac (n-1)
+```
 
-出典: [An Introduction to the Theory of Lists](https://www.cs.ox.ac.uk/files/3378/PRG56.pdf)
+関数適用の優先度はとても高く、上の例では`n * fac (n-1)`は`n * (fac (n-1))`と計算されます。
 
 > Haskell 初心者は括弧ばかりの Lisp のようなコードを書く。中級者になると、($) が多くなる。上級者(言い過ぎか？)になると、($) が消えて、(.) が多くなる。
 
 出典: [関数合成の妙技](http://d.hatena.ne.jp/kazu-yamamoto/20100702/1278036842)
+
+###パターンマッチ
+* [Pattern matching](http://mbps.hatenablog.com/entry/2014/10/04/010000)
 
 ###ポイントフリー
 必要のないところでポイントワイズに書く必要はないが、あまりポイントフリーに拘りすぎないのも大事
@@ -122,9 +131,6 @@ memoized_fib = (map fib [0 ..] !!)
 * [Can someone explain the concept behind Haskell's memoization?](http://programmers.stackexchange.com/questions/220746/can-someone-explain-the-concept-behind-haskells-memoization)
 * [The Incomplete Guide to Lazy Evaluation (in Haskell)](https://hackhands.com/guide-lazy-evaluation-haskell/)
 * [If Haskell were strict, what would the laziness be like?](http://nikita-volkov.github.io/if-haskell-were-strict/)
-
-##パターンマッチ
-* [Pattern matching](http://mbps.hatenablog.com/entry/2014/10/04/010000)
 
 ##再帰
 * [再帰ドリル](https://github.com/kazu-yamamoto/recursion-drill)
