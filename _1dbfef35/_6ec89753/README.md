@@ -38,6 +38,8 @@ class Functor f where
     fmap :: (a -> b) -> f a -> f b
 ```
 
+* [Loop School - Functors](http://school.looprecur.com/?video=122708837)
+* [Loop School - Natural Transformations](http://school.looprecur.com/?video=122707678)
 * [Are Functor instances unique?](http://stackoverflow.com/questions/19774904/are-functor-instances-unique#19775139)
   * [fmapの一意性](http://mbps.hatenablog.com/entry/2014/07/17/132835)
 
@@ -117,6 +119,9 @@ class Monad m where
 
 * [All About Monads](https://wiki.haskell.org/All_About_Monads)
 * [Monad tutorials timeline](https://wiki.haskell.org/Monad_tutorials_timeline)
+* [Loop School - F-Algebras Part1](http://school.looprecur.com/?video=122715366)
+* [Loop School - F-Algebras Part2](http://school.looprecur.com/?video=122716014)
+* [Loop School - F-Algebras Part3](http://school.looprecur.com/?video=122716071)
 
 |記号 |読み方    |
 |:----|:---------|
@@ -290,6 +295,7 @@ instance Functor f => Monad (Free f) where
 * [Interpreting Free Monads of Functor Sums](https://gist.github.com/avieth/334201aa341d9a00c7fc)
 
 ####Coyoneda
+* [Loop School - Coyoneda](http://school.looprecur.com/?video=122708005)
 
 ```haskell
 data Coyoneda f a where
