@@ -30,6 +30,7 @@ instance Show Bool where
 * [Writing invertible functions](http://blog.callcc.name/posts/invertible-functions.html)
 * [Recursion Schemes](https://www.youtube.com/watch?v=Zw9KeP3OzpU)
 * [SelectricSimian/EventualMonad](https://github.com/selectricsimian/eventualmonad)
+* [Categories of Structures in Haskell](http://comonad.com/reader/2015/categories-of-structures-in-haskell/)
 
 ##Functor
 
