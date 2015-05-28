@@ -11,6 +11,7 @@
 ##Database
 * [Safe concurrent MySQL access in Haskell](https://ro-che.info/articles/2015-04-17-safe-concurrent-mysql-haskell)
 * [Haxl - Haskellを使った暗黙的な並列データアクセス](http://www.infoq.com/jp/news/2014/06/haxl)
+* [esqueleto](http://hackage.haskell.org/package/esqueleto)
 * [postgresql-simple](https://hackage.haskell.org/package/postgresql-simple)
 
 ##JSON
