@@ -99,6 +99,7 @@ p_ :: Term arg result => arg -> result
 * [GHC.Generics](http://hackage.haskell.org/package/base/docs/GHC-Generics.html)
 * [Datatype-Generic Programming in Haskell](https://skillsmatter.com/skillscasts/3932-a-haskell-lecture-with-leading-expert-andres-loh)
 * [Generic programming](http://www.scs.stanford.edu/14sp-cs240h/slides/generic-slides.html)
+* [Lightweight Higher-Order Rewriting in Haskell](http://www.cse.chalmers.se/~emax/documents/axelsson2015lightweight_DRAFT.pdf)
 
 ##Dependent Types
 * [Dependent Types](https://cubeoflambda.wordpress.com/2011/12/03/dependent-types/)
