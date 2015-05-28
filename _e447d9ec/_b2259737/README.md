@@ -13,6 +13,8 @@
 * [Margins, Kernels and Non-linear Smoothed Perceptrons](http://arxiv.org/abs/1505.04123)
 * [Reinforcement Learning applied to Single Neuron](http://arxiv.org/abs/1505.04150)
 * [Parallel Streaming Signature EM-tree: A Clustering Algorithm for Web Scale Applications](http://arxiv.org/abs/1505.05613)
+* [New results on inconsistency indices and their relationship with the quality of priority vector estimation](http://arxiv.org/abs/1505.06573)
+* [A Logic of Knowing How](http://arxiv.org/abs/1505.06651)
 
 ##Others
 * [The main trick in Machine Learning](http://edinburghhacklab.com/2013/12/the-main-trick-in-machine-learning/)
