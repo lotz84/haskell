@@ -41,8 +41,6 @@ class Functor f where
 
 * [Loop School - Functors](http://school.looprecur.com/?video=122708837)
 * [Loop School - Natural Transformations](http://school.looprecur.com/?video=122707678)
-* [Are Functor instances unique?](http://stackoverflow.com/questions/19774904/are-functor-instances-unique#19775139)
-  * [fmapの一意性](http://mbps.hatenablog.com/entry/2014/07/17/132835)
 
 ##Foldable
 
