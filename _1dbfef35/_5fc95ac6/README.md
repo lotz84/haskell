@@ -158,6 +158,7 @@ Left 'a'
 
 ##関数
 * [Generalizing function composition](http://jaspervdj.be/posts/2014-10-17-generalizing-function-composition.html)
+* [Haskell Symposium 2012. Koen Claessen: Shrinking and showing functions](https://www.youtube.com/watch?v=CH8UQJiv9Q4)
 
 ```haskell
 -- 型の宣言
@@ -185,6 +186,7 @@ fac n = product [1..n]
 
 ###パターンマッチ
 * [Pattern matching](http://mbps.hatenablog.com/entry/2014/10/04/010000)
+* [PATTERN MATCHING: WOT'S... UH THE DEAL?](http://www.stackbuilders.com/news/pattern-matching-wot-s-uh-the-deal)
 
 ###多変数関数とカリー化
 * [Curry](https://ro-che.info/ccc/10)
@@ -321,6 +323,7 @@ main = do
 * [Lazy unary numbers](http://www.edofic.com/posts/2015-05-03-unary-numbers.html)
 * [Palindromic tree](http://adilet.org/blog/25-09-14/)
 * [OBVERSE AND REVERSE](http://www.stackbuilders.com/news/obverse-and-reverse)
+* [foldl](https://hackage.haskell.org/package/foldl)
 
 |記号|読み方|
 |:---|:-----|
