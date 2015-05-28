@@ -7,9 +7,6 @@
 * [Polymorphism within higher-order functions?](http://stackoverflow.com/questions/7061538/polymorphism-within-higher-order-functions)
 * [Announcing the refinement types library](http://nikita-volkov.github.io/refined/)
 * [Chris Casinghino - Making Dependent Types Practical](https://www.youtube.com/watch?v=_2jrmgO_Gq0)
-* [Theorems for free!](http://www.cs.sfu.ca/CourseCentral/831/burton/Notes/July14/free.pdf)
-* [Parametricity](https://cubeoflambda.wordpress.com/2011/11/16/parametricity/) 
-* [Parametricity Tutorial (Part 1)](http://www.well-typed.com/blog/2015/05/parametricity/)
 * [Injective type families for Haskell](http://lambda.jstolarek.com/2015/05/injective-type-families-for-haskell/)
 
 ```haskell
@@ -32,6 +29,14 @@ data HList (as :: [*]) where
 ```
 
 出典: [DataKinds 言語拡張を使って Typed Heterogeneous List とその基本操作を実装してみた](http://hyone.hatenablog.com/entry/2012/12/26/181105)
+
+###Free Theorem
+* [Theorems for free!](http://www.cs.sfu.ca/CourseCentral/831/burton/Notes/July14/free.pdf)
+* [Parametricity](https://cubeoflambda.wordpress.com/2011/11/16/parametricity/) 
+* [Parametricity Tutorial (Part 1)](http://www.well-typed.com/blog/2015/05/parametricity/)
+* [Automatic generation of free theorems](http://www-ps.iai.uni-bonn.de/cgi-bin/free-theorems-webui.cgi)
+* [Are Functor instances unique?](http://stackoverflow.com/questions/19774904/are-functor-instances-unique#19775139)
+  * [fmapの一意性](http://mbps.hatenablog.com/entry/2014/07/17/132835)
 
 ###型の足し算と型の掛け算
 
