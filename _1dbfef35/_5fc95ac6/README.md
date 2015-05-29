@@ -282,6 +282,9 @@ memoized_fib = (map fib [0 ..] !!)
 * [How to Define Data Types](https://www.youtube.com/watch?v=zV70nrsMEZg)
 * [Refinement Types For Haskell](http://goto.ucsd.edu/~nvazou/refinement_types_for_haskell.pdf)
 
+###代数的データ型
+* [代数的データ型について](https://speakerdeck.com/amutake/dai-shu-de-detaxing-nituite-number-w8lt)
+
 ##動的型付けのエミュレート
 * [Data.Dynamic](https://hackage.haskell.org/package/base/docs/Data-Dynamic.html)
 
