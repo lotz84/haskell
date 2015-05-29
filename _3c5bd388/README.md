@@ -48,6 +48,10 @@
 * [Rust](http://www.rust-lang.org/)
 * [The Rust Programming Language](https://doc.rust-lang.org/book/)
 * [Playground](https://play.rust-lang.org/)
+* [関数型プログラマのためのRust](http://postd.cc/rust-for-functional-programmers/)
+* [Experience Report: Developing the Servo Web Browser Engine using Rust](http://arxiv.org/abs/1505.07383)
+* [Rust for functional programmers](http://science.raphael.poss.name/rust-for-functional-programmers.html)
+* [Rustのポインタのガイド](http://qiita.com/kondei/items/2ee292d863ea874d7691)
 
 ##Idris
 <http://www.idris-lang.org/>
