@@ -1,7 +1,10 @@
 ##OpenGL
+※GLUTはもう古い
+
 * [OpenGL](https://hackage.haskell.org/package/OpenGL)
 * [GLFW-b](https://hackage.haskell.org/package/GLFW-b)
 * [GLUtil](https://hackage.haskell.org/package/GLUtil)
+* [gloss](http://hackage.haskell.org/package/gloss)
 
 > I've discovered that GLUT works for me if I compile first with ghc, and then run, rather than attempting to run via ghci or runghc. Have you tried that?
 
