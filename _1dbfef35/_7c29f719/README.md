@@ -68,6 +68,7 @@ p_ :: Term arg result => arg -> result
 * [Phantoms](http://www.scs.stanford.edu/14sp-cs240h/slides/phantoms-slides.html)
 * [What is the purpose of `Data.Proxy`?](http://stackoverflow.com/questions/22116363/what-is-the-purpose-of-data-proxy)
 * [Data.Functor.Constant](https://hackage.haskell.org/package/transformers/docs/Data-Functor-Constant.html)
+* [Data.Tagged](https://hackage.haskell.org/package/tagged/docs/Data-Tagged.html)
 
 ###代数的データ型
 * http://nineties.github.io/category-seminar/7.html#/43
