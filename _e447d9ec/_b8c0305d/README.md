@@ -19,12 +19,15 @@
   * [Aeson: the tutorial](http://artyom.me/aeson)
 * [aeson-schema](https://hackage.haskell.org/package/aeson-schema)
   * [timjb/aeson-schema](https://github.com/timjb/aeson-schema)
+* [lens-aeson](https://hackage.haskell.org/package/lens-aeson)
 * [buffer-builder](https://hackage.haskell.org/package/buffer-builder)
 
 ##Client
 * [HTTP](https://hackage.haskell.org/package/HTTP) - HTTPSは対応していない
 * [wreq](http://www.serpentine.com/wreq/)
 * [http-conduit](http://hackage.haskell.org/package/http-conduit)
+* [xml-conduit](https://hackage.haskell.org/package/xml-conduit)
+* [xml-lens](https://hackage.haskell.org/package/xml-lens)
 * [twitter-conduit](http://hackage.haskell.org/package/twitter-conduit)
 
 ##HTML Template/DSL
