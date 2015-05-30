@@ -528,6 +528,11 @@ cps = flip (.)
 * [Could someone explain the diagram about the `lens` library?](http://stackoverflow.com/questions/29742634/could-someone-explain-the-diagram-about-the-lens-library/29742635#29742635)
 * [Lenses: compositional data access and manipulation.](https://skillsmatter.com/skillscasts/4251-lenses-compositional-data-access-and-manipulation)
 * [Zippers and lenses](http://www.scs.stanford.edu/14sp-cs240h/slides/lenses-slides.html)
+* [LensでHaskellをもっと格好良く！ 2013/3/31](http://www.slideshare.net/itsoutoftunethismymusic/ekmett-17955009)
+* [LensでHaskellをもっと格好良く！ 2013/5/30](http://tokiwoousaka.github.io/takahashi/contents/20150530LensPrism.html)
+* [Lens : Smart setter for immutable data](https://speakerdeck.com/hiratara/lens-smart-setter-for-immutable-data)
+* [Beyond Scala Lens](http://www.slideshare.net/JulienTruffaut/beyond-scala-lens)
+* [lensのmakeClassyで型を合成する](http://tune.hateblo.jp/entry/2014/09/27/191008)
 
 ###Comonad
 * [comonad](https://hackage.haskell.org/package/comonad)
