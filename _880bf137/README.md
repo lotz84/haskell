@@ -21,6 +21,7 @@
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
 * [New in GHC 7.10: Partial Type Signatures](https://www.fpcomplete.com/user/thomasw/new-in-ghc-7-10-partial-type-signatures)
 * [High-Performance Haskell](http://www.slideshare.net/tibbe/highperformance-haskell)
+* [GHCのこと](http://www.kotha.net/hperf/ghc.html)
 
 ####Bang patterms
 * [7.18. Bang patterns](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/bang-patterns.html)
