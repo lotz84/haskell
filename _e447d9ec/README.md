@@ -49,6 +49,7 @@
 * [ImplicitCAD](http://www.implicitcad.org/)
 * [aristidb/aws](https://github.com/aristidb/aws)
 * [Handling Control-C in Haskell](http://neilmitchell.blogspot.jp/2015/05/handling-control-c-in-haskell.html)
+* [IHaskell Online: Help Choose Demo Code Snippets!](http://www.reddit.com/r/haskell/comments/37uqqk/ihaskell_online_help_choose_demo_code_snippets/)
 
 ###Formatting
 
