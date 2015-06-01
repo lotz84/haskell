@@ -97,6 +97,7 @@ p_ :: Term arg result => arg -> result
 * [Type family](http://mbps.hatenablog.com/entry/2013/05/12/132507)
 * [Kind](http://mbps.hatenablog.com/entry/2013/05/14/004510)
 * [Singletons](http://mbps.hatenablog.com/entry/2013/05/23/084257)
+* <http://ja.stackoverflow.com/a/10475>
 
 ####Type Operators
 * [24 Days of GHC Extensions: Type Operators](https://ocharles.org.uk/blog/posts/2014-12-08-type-operators.html)
