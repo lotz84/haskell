@@ -55,6 +55,7 @@ main = do
 * [５分で分かるコンジット](http://melpon.org/yesodbookjp/conduit)
 * [ConduitとHaskellでネットワークプロキシサーバを作る](http://tanakh.jp/posts/2012-07-01-conduit-0.5.html)
 * [Conduitの使い方](http://qiita.com/siphilia_rn/items/f3d8d83496a8eab65274)
+* [Conduits - Dealing with streaming data](http://none.io/posts/2014-07-03-Conduits---Dealing-with-streaming-data.html)
 
 ###例外処理
 * [Haskell での例外処理](http://d.hatena.ne.jp/kazu-yamamoto/20120604/1338802792)
