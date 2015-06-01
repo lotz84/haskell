@@ -236,6 +236,7 @@ memoized_fib = (map fib [0 ..] !!)
 * [Can someone explain the concept behind Haskell's memoization?](http://programmers.stackexchange.com/questions/220746/can-someone-explain-the-concept-behind-haskells-memoization)
 * [The Incomplete Guide to Lazy Evaluation (in Haskell)](https://hackhands.com/guide-lazy-evaluation-haskell/)
 * [If Haskell were strict, what would the laziness be like?](http://nikita-volkov.github.io/if-haskell-were-strict/)
+* [How to force a list](https://ro-che.info/articles/2015-05-28-force-list)
 
 ##再帰
 * [再帰ドリル](https://github.com/kazu-yamamoto/recursion-drill)
@@ -327,6 +328,8 @@ main = do
 * [Palindromic tree](http://adilet.org/blog/25-09-14/)
 * [OBVERSE AND REVERSE](http://www.stackbuilders.com/news/obverse-and-reverse)
 * [foldl](https://hackage.haskell.org/package/foldl)
+* [Moore for Less](https://www.fpcomplete.com/user/edwardk/moore)
+* [Exact Real Arithmetic in Haskell](https://www.youtube.com/watch?v=LJQgYBQFtSE)
 
 |記号|読み方|
 |:---|:-----|
