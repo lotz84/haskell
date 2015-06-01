@@ -8,6 +8,7 @@
 * [Announcing the refinement types library](http://nikita-volkov.github.io/refined/)
 * [Chris Casinghino - Making Dependent Types Practical](https://www.youtube.com/watch?v=_2jrmgO_Gq0)
 * [Injective type families for Haskell](http://lambda.jstolarek.com/2015/05/injective-type-families-for-haskell/)
+* [What Are Impredicative Types?](http://jozefg.bitbucket.org/posts/2014-12-23-impredicative.html)
 
 ```haskell
 data Bottom
@@ -37,6 +38,7 @@ data HList (as :: [*]) where
 * [Automatic generation of free theorems](http://www-ps.iai.uni-bonn.de/cgi-bin/free-theorems-webui.cgi)
 * [Are Functor instances unique?](http://stackoverflow.com/questions/19774904/are-functor-instances-unique#19775139)
   * [fmapの一意性](http://mbps.hatenablog.com/entry/2014/07/17/132835)
+* [Notes on Parametricity](http://jozefg.bitbucket.org/posts/2014-12-22-parametricity.html)
 
 ###型の足し算と型の掛け算
 
