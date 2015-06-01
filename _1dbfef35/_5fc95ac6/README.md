@@ -328,6 +328,7 @@ main = do
 * [Palindromic tree](http://adilet.org/blog/25-09-14/)
 * [OBVERSE AND REVERSE](http://www.stackbuilders.com/news/obverse-and-reverse)
 * [foldl](https://hackage.haskell.org/package/foldl)
+* [Examining Hackage: folds](http://jozefg.bitbucket.org/posts/2014-12-27-folds.html)
 * [Moore for Less](https://www.fpcomplete.com/user/edwardk/moore)
 * [Exact Real Arithmetic in Haskell](https://www.youtube.com/watch?v=LJQgYBQFtSE)
 
