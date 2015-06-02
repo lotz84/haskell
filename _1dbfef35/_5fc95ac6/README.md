@@ -331,6 +331,8 @@ main = do
 * [Examining Hackage: folds](http://jozefg.bitbucket.org/posts/2014-12-27-folds.html)
 * [Moore for Less](https://www.fpcomplete.com/user/edwardk/moore)
 * [Exact Real Arithmetic in Haskell](https://www.youtube.com/watch?v=LJQgYBQFtSE)
+* [HASKELL BINARY SEARCH TREE (BST) EXAMPLE](http://haskelle.blogspot.jp/2015/06/haskell-binary-search-tree-bst-example.html)
+* [HANGMAN: IMPERATIVE FUNCTIONAL PROGRAMMING](http://www.stackbuilders.com/news/hangman-imperative-functional-programming)
 
 |記号|読み方|
 |:---|:-----|
