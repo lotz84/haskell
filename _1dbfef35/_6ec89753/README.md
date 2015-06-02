@@ -293,6 +293,7 @@ instance Functor f => Monad (Free f) where
 * [What is the difference between free monads and free monoids?](http://www.reddit.com/r/haskell/comments/2znhjk/what_is_the_difference_between_free_monads_and/)
 * [Interpreting Free Monads of Functor Sums](https://gist.github.com/avieth/334201aa341d9a00c7fc)
 * [Examining Hackage: operational](http://jozefg.bitbucket.org/posts/2014-12-27-folds.html)
+* [Free for DSLs, cofree for interpreters](http://dlaing.org/cofun/posts/free_and_cofree.html)
 
 ####Coyoneda
 * [Loop School - Coyoneda](http://school.looprecur.com/?video=122708005)
@@ -534,6 +535,7 @@ cps = flip (.)
 * [Lens : Smart setter for immutable data](https://speakerdeck.com/hiratara/lens-smart-setter-for-immutable-data)
 * [Beyond Scala Lens](http://www.slideshare.net/JulienTruffaut/beyond-scala-lens)
 * [lensのmakeClassyで型を合成する](http://tune.hateblo.jp/entry/2014/09/27/191008)
+* [total-1.0.0: Exhaustive pattern matching using traversals, prisms, and lenses](http://www.haskellforall.com/2015/01/total-100-exhaustive-pattern-matching.html)
 
 ###Comonad
 * [comonad](https://hackage.haskell.org/package/comonad)
