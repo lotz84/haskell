@@ -8,6 +8,7 @@
 * [Haskell on Heroku](https://haskellonheroku.com/)
 * [fb](https://hackage.haskell.org/package/fb)
 * [hoauth2](http://hackage.haskell.org/package/hoauth2)
+* [ananthakumaran/webify](https://github.com/ananthakumaran/webify)
 
 ##Database
 * [Safe concurrent MySQL access in Haskell](https://ro-che.info/articles/2015-04-17-safe-concurrent-mysql-haskell)
@@ -60,6 +61,7 @@ indexHtml = do
 * [Web](http://www.scs.stanford.edu/14sp-cs240h/slides/web-slides.lhtml)
 * [agrafix/Spock](https://github.com/agrafix/Spock)
 * [Overloading Monads for Html Deployment](https://www.fpcomplete.com/user/AthanClark/overloaded-monadic-deployment)
+* [apiary](https://hackage.haskell.org/package/apiary)
 
 ###WAI/Warp
 * [wai](https://hackage.haskell.org/package/wai)
