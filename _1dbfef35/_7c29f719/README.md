@@ -9,6 +9,7 @@
 * [Chris Casinghino - Making Dependent Types Practical](https://www.youtube.com/watch?v=_2jrmgO_Gq0)
 * [Injective type families for Haskell](http://lambda.jstolarek.com/2015/05/injective-type-families-for-haskell/)
 * [What Are Impredicative Types?](http://jozefg.bitbucket.org/posts/2014-12-23-impredicative.html)
+* [A SIMPLE PROBLEM WITH RECURSIVE TYPES AND SUBTYPING](https://noamlewis.wordpress.com/2015/06/02/a-simple-problem-with-recursive-types-and-subtyping/)
 
 ```haskell
 data Bottom
@@ -66,6 +67,7 @@ p_ :: Term arg result => arg -> result
 ```
 
 ###Phantom Type
+* [Phantom Types and Subtyping](http://www.cs.rit.edu/~mtf/research/phantom-subtyping/jfp06/jfp06.pdf)
 * [型安全なリストを作るのです(｀・ω・´) ～ その1、Phantom Type（幽霊型）入門ですー＞ω＜](https://kagamilove0707.github.io/programming/2014/02/20/about-phantom-type/)
 * [Phantoms](http://www.scs.stanford.edu/14sp-cs240h/slides/phantoms-slides.html)
 * [What is the purpose of `Data.Proxy`?](http://stackoverflow.com/questions/22116363/what-is-the-purpose-of-data-proxy)
