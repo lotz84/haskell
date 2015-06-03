@@ -388,6 +388,7 @@ instance Monad Stream where
 * [Extensible Effects: an alternative to Monad Transformers](http://okmij.org/ftp/Haskell/extensible/)
     * [suhailshergill/extensible-effects](https://github.com/suhailshergill/extensible-effects)
     * [Extensible Effects](http://www.cs.indiana.edu/~sabry/papers/exteff.pdf)
+    * [Are extensible effects a complete replacement for mtl?](http://www.reddit.com/r/haskell/comments/387ex0/are_extensible_effects_a_complete_replacement_for/crt1pzm)
 * [Monatron](https://hackage.haskell.org/package/Monatron)
 * [Announcing: monad-unlift](https://www.fpcomplete.com/blog/2015/04/announcing-monad-unlift)
 
