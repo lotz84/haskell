@@ -6,6 +6,8 @@
 * [Top 10 data mining algorithms in plain English](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 * [New ‘deep learning’ technique enables robot mastery of skills via trial and error](http://newscenter.berkeley.edu/2015/05/21/deep-learning-robot-masters-skills-via-trial-and-error/)
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+* [friday](https://hackage.haskell.org/package/friday)
+  * [RaphaelJ/friday-report](https://github.com/RaphaelJ/friday-report/blob/master/README.md)
 
 ###Classification
 * [Factorization Machines](http://www.ismll.uni-hildesheim.de/pub/pdfs/Rendle2010FM.pdf)
@@ -19,6 +21,7 @@
 * [Parallel Streaming Signature EM-tree: A Clustering Algorithm for Web Scale Applications](http://arxiv.org/abs/1505.05613)
 * [New results on inconsistency indices and their relationship with the quality of priority vector estimation](http://arxiv.org/abs/1505.06573)
 * [A Logic of Knowing How](http://arxiv.org/abs/1505.06651)
+* [SkILL - a Stochastic Inductive Logic Learner](http://arxiv.org/abs/1506.00893)
 
 ##Others
 * [The main trick in Machine Learning](http://edinburghhacklab.com/2013/12/the-main-trick-in-machine-learning/)
