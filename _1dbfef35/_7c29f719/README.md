@@ -1,4 +1,5 @@
 #型レベルプログラミング
+* [GHC.TypeLits](https://hackage.haskell.org/package/base/docs/GHC-TypeLits.html)
 * [定理証明系 Haskell](http://konn-san.com/prog/2013-advent-calendar.html)
 * [プログラミング Coq 〜 絶対にバグのないプログラムの書き方 〜](http://www.iij-ii.co.jp/lab/techdoc/coqt/)
 * [Testing a type for (Eq a) in Haskell](http://stackoverflow.com/questions/28799005/testing-a-type-for-eq-a-in-haskell)
