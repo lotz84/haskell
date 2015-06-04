@@ -53,6 +53,9 @@
 * [Rust for functional programmers](http://science.raphael.poss.name/rust-for-functional-programmers.html)
 * [Rustのポインタのガイド](http://qiita.com/kondei/items/2ee292d863ea874d7691)
 
+##F#
+* [Functional Programming Design Patterns](http://www.infoq.com/presentations/fp-design-patterns)
+
 ##Idris
 <http://www.idris-lang.org/>
 
