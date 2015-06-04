@@ -17,6 +17,7 @@ newtype Parser result = Parser { parse :: Source -> [(result, Remainder)] }
   * [markup.rocks](http://markup.rocks/)
 * [cassava](https://hackage.haskell.org/package/cassava-0.4.2.4)
 * [haskell-src-exts](https://hackage.haskell.org/package/haskell-src-exts)
+* [htoml](https://hackage.haskell.org/package/htoml)
 
 ###コンパイラを作る
 * [Write Yourself a Scheme in 48 Hours](http://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
