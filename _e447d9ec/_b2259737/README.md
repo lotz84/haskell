@@ -22,6 +22,7 @@
 * [New results on inconsistency indices and their relationship with the quality of priority vector estimation](http://arxiv.org/abs/1505.06573)
 * [A Logic of Knowing How](http://arxiv.org/abs/1505.06651)
 * [SkILL - a Stochastic Inductive Logic Learner](http://arxiv.org/abs/1506.00893)
+* [Encoding Markov Logic Networks in Possibilistic Logic](http://arxiv.org/abs/1506.01432)
 
 ##Others
 * [The main trick in Machine Learning](http://edinburghhacklab.com/2013/12/the-main-trick-in-machine-learning/)
