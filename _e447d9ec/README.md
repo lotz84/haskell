@@ -28,6 +28,8 @@
 * [FFI使ってC++バインディングに入門](http://mymo.blog8.fc2.com/blog-entry-52.html)
 * [HsLua](https://www.haskell.org/haskellwiki/HsLua)
 * [inline-c](https://hackage.haskell.org/package/inline-c)
+* [Haskellにインラインアセンブリを書く](http://qiita.com/tanakh/items/08c15f6e72dbe2da61a8)
+* [Calling Haskell from C](https://wiki.haskell.org/Calling_Haskell_from_C)
 
 ###Cocoa
 * [Haskell ではじめるふわとろ Cocoa アプリ開発](http://konn-san.com/prog/haskell/haskell-introduction-to-cocoa.html)
