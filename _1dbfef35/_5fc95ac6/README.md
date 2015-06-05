@@ -282,6 +282,7 @@ memoized_fib = (map fib [0 ..] !!)
 * [Function Types](http://bartoszmilewski.com/2015/03/13/function-types/)
 * [How to Define Data Types](https://www.youtube.com/watch?v=zV70nrsMEZg)
 * [Refinement Types For Haskell](http://goto.ucsd.edu/~nvazou/refinement_types_for_haskell.pdf)
+* [What is the difference between an Algebraic Data Type and an Abstract Data Type?](http://www.reddit.com/r/haskell/comments/38grqx/what_is_the_difference_between_an_algebraic_data/)
 
 ###代数的データ型
 * [代数的データ型について](https://speakerdeck.com/amutake/dai-shu-de-detaxing-nituite-number-w8lt)
