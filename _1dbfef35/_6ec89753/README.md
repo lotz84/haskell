@@ -471,6 +471,7 @@ reset e = return $ e `runCont` id
 ###継続渡しスタイル
 * [CPS というプログラミングスタイルの導入の話](http://yuzumikan15.hatenablog.com/entry/2015/04/24/094610)
 * [The Mother of all Monads](http://blog.sigfpe.com/2008/12/mother-of-all-monads.html)
+* [Continuation Passing Style in Haskell](http://begriffs.com/posts/2015-06-03-haskell-continuations.html)
 * [Control.Monad.Cont](https://hackage.haskell.org/package/mtl/docs/Control-Monad-Cont.html)
 * [Haskell/Continuation passing style](http://en.wikibooks.org/wiki/Haskell/Continuation_passing_style)
 * [Compiling With CPS](http://jozefg.bitbucket.org/posts/2015-04-30-cps.html)
