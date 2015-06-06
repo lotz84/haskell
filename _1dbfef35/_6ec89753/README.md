@@ -121,6 +121,7 @@ class Monad m where
 * [Loop School - F-Algebras Part1](http://school.looprecur.com/?video=122715366)
 * [Loop School - F-Algebras Part2](http://school.looprecur.com/?video=122716014)
 * [Loop School - F-Algebras Part3](http://school.looprecur.com/?video=122716071)
+* [DefaultSignaturesを用いたMonadの理想的な定義](http://qiita.com/tanakh/items/27b1c08b9f03d6836c13)
 
 |記号 |読み方    |
 |:----|:---------|
