@@ -9,6 +9,7 @@
 * [fb](https://hackage.haskell.org/package/fb)
 * [hoauth2](http://hackage.haskell.org/package/hoauth2)
 * [ananthakumaran/webify](https://github.com/ananthakumaran/webify)
+* [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)
 
 ##Database
 * [Safe concurrent MySQL access in Haskell](https://ro-che.info/articles/2015-04-17-safe-concurrent-mysql-haskell)
