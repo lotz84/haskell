@@ -24,6 +24,7 @@
 * [GHCのこと](http://www.kotha.net/hperf/ghc.html)
 * [Value vs Monomorphism Restriction](http://jozefg.bitbucket.org/posts/2015-03-27-unsafe.html)
 * [Why does this Haskell code run slower with -O?](http://stackoverflow.com/questions/29404065/why-does-this-haskell-code-run-slower-with-o/30603291#30603291)
+* [見せてやろうGHCが持つ真のチカラを！ GHCの言語拡張を一覧する方法について。](http://qiita.com/tanakh/items/ee756a3948684ac30b34)
 
 ####Bang patterms
 * [7.18. Bang patterns](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/bang-patterns.html)
