@@ -73,6 +73,7 @@ indexHtml = do
 
 ###Servant
 * [servant](http://haskell-servant.github.io/)
+* [parsonsmatt/servant-persistent](https://github.com/parsonsmatt/servant-persistent)
 * [haskell-servant の利用例とちょっとだけ仕組みの調査](http://krdlab.hatenablog.com/entry/2014/12/31/170158)
 
 ###Yesod
