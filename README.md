@@ -31,7 +31,6 @@
     1. [論理学/証明論](5-1.md)
     2. [型理論](5-2.md)
     3. [圏論](5-3.md)
-6. [Books](6-0.md)
 
 ##Related works
 * [bitemyapp/learnhaskell](https://github.com/bitemyapp/learnhaskell)
