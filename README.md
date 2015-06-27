@@ -9,8 +9,7 @@
 * [A History of Haskell: Being Lazy With Class](http://haskell.cs.yale.edu/wp-content/uploads/2011/02/history.pdf) [[video](https://www.youtube.com/watch?v=3bjXGrycMhQ)]
 
 ##Index
-1. Haskell: 純粋関数型プログラミング言語
-    1. [基本](1-1.md)
+1. [Haskell: 純粋関数型プログラミング言語](1-1.md)
     1. [型とデータ構造](1-2.md)
     2. [型クラスと抽象](1-3.md)
     3. [Free Monad](1-4.md)
