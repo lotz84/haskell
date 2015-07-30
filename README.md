@@ -12,6 +12,8 @@
 1. [Haskell: 純粋関数型プログラミング言語](handbook/1-0.md)
     1. [型とデータ構造](handbook/1-1.md)
     2. [型クラスと抽象](handbook/1-2.md)
+        1. [Functor, Applicative, Monad](handbook/1-2-1.md)
+        1. [Foldable, Traversable](handbook/1-2-2.md)
     3. [モナド交換子](handbook/1-3.md)
     4. [Free Monad](handbook/1-4.md)
     5. [継続](handbook/1-5.md)
@@ -33,9 +35,6 @@
     1. [論理学/証明論](handbook/5-1.md)
     2. [型理論](handbook/5-2.md)
     3. [圏論](handbook/5-3.md)
-
-##Log
-* [2015 07](monthly/2015-07.md)
 
 ##Related works
 * [bitemyapp/learnhaskell](https://github.com/bitemyapp/learnhaskell)
