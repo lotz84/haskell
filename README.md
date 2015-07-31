@@ -7,6 +7,7 @@
 
 * [なぜ関数プログラミングは重要か](http://www.sampou.org/haskell/article/whyfp.html)
 * [A History of Haskell: Being Lazy With Class](http://haskell.cs.yale.edu/wp-content/uploads/2011/02/history.pdf) [[video](https://www.youtube.com/watch?v=3bjXGrycMhQ)]
+* [How Functional Programming Mattered](http://nsr.oxfordjournals.org/content/early/2015/07/13/nsr.nwv042)
 
 ##Index
 1. [Haskell: 純粋関数型プログラミング言語](handbook/1-0.md)
