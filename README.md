@@ -26,7 +26,7 @@
     11. [型レベルプログラミング](handbook/1-11.md)
 2. [Haskellの内と外](handbook/2-0.md)
 3. [実践Haskell](handbook/3-0.md)
-    1. [Game](handbook/3-1.md)
+    1. [Game Programming](handbook/3-1.md)
     2. [Web Service](handbook/3-2.md)
     3. [機械学習](handbook/3-3.md)
     4. [テストとデバッグ](handbook/3-4.md)
