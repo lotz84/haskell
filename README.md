@@ -37,6 +37,7 @@
     3. [圏論](handbook/5-3.md)
 
 ##Related works
+* [State of the Haskell ecosystem - August 2015](http://www.haskellforall.com/2015/08/state-of-haskell-ecosystem-august-2015.html)
 * [bitemyapp/learnhaskell](https://github.com/bitemyapp/learnhaskell)
   * [翻訳(WIP)](https://github.com/fujimura/learnhaskell/tree/japanese)
 * [krispo/awesome-haskell](https://github.com/krispo/awesome-haskell)
