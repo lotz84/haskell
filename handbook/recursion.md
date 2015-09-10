@@ -52,7 +52,7 @@ evenElements xs = filter even xs
 出典: <http://d.hatena.ne.jp/kazu-yamamoto/20091122/1258899591>
 
 ##領域理論
-* fix
+* [Haskell/不動点と再帰](https://ja.wikibooks.org/wiki/Haskell/%E4%B8%8D%E5%8B%95%E7%82%B9%E3%81%A8%E5%86%8D%E5%B8%B0)
 * [Solving Recursive Equations](http://jozefg.bitbucket.org/posts/2015-08-14-solve-domains.html)
 
 ##Catamorphism, Anamorphism
