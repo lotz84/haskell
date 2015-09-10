@@ -10,8 +10,8 @@
 * [How Functional Programming Mattered](http://nsr.oxfordjournals.org/content/early/2015/07/13/nsr.nwv042)
 
 ##Index
-1. [Haskell: 純粋関数型プログラミング言語](handbook/1-0.md)
-    1.  [再帰](handbook/recursion.md)
+1. [Haskell: 純粋関数型プログラミング言語](docs/introduction.md)
+    1.  [再帰](docs/recursion.md)
     2.  [型とデータ構造](handbook/1-1.md)
     3.  [型クラスと抽象](handbook/1-2.md)
         1. [Functor, Applicative, Monad](handbook/1-2-1.md)
