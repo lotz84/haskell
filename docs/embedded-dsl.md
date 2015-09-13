@@ -1,4 +1,4 @@
-###Free Monad
+##Free Monad
 * [The free package](http://hackage.haskell.org/package/free)
 
 ```haskell
@@ -33,7 +33,7 @@ instance Functor f => Monad (Free f) where
 * [Freeモナドで領域特化言語を作るとプリティミューテーション](http://qiita.com/hiruberuto/items/3d55b0e54565dbb286a7)
 * [Freer Monads, More Extensible Effects](http://okmij.org/ftp/Haskell/extensible/more.pdf)
 
-####Coyoneda
+###Coyoneda
 * [Loop School - Coyoneda](http://school.looprecur.com/?video=122708005)
 
 ```haskell
@@ -85,14 +85,24 @@ yoneda f = Natural $ \ax -> fmap ax f
 
 <https://twitter.com/fumieval/status/576349394724765697>
 
-####Operational Monad
+###Operational Monad
 * [operational](https://hackage.haskell.org/package/operational)
 * [Freeモナドを超えた！？operationalモナドを使ってみよう](http://fumieval.hatenablog.com/entry/2013/05/09/223604)
 * [Operational monad](http://mbps.hatenablog.com/entry/2014/07/10/010000)
 * [09. Operationalモナド](https://sites.google.com/site/toriaezuzakki/haskell/operational)
 * [Yoneda lemmaとOperational Monad](http://myuon-myon.hatenablog.com/entry/2013/06/09/135407)
 
-###Ideal Monad
+##Ideal Monad
 * [究極のモナド「Idealモナド」を垣間見る](http://fumieval.hatenablog.com/entry/2013/01/04/110339)
 * [究極のモナド「Idealモナド」を垣間見る(続/その0)](http://fumieval.hatenablog.com/entry/2013/01/07/113221)
 * [What is the correct definition of ideal monads?](http://theorylunch.wordpress.com/2012/11/22/what-is-the-correct-definition-of-ideal-monads/)
+
+##The Expression Problem
+* [The Expression Problem](http://maoe.hatenadiary.jp/entry/20101214/1292337923)
+* [Data types à la carte](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.101.4131)
+* [C9 Lectures: Dr. Ralf Lämmel - Advanced Functional Programming - The Expression Problem](https://channel9.msdn.com/Shows/Going+Deep/C9-Lectures-Dr-Ralf-Laemmel-Advanced-Functional-Programming-The-Expression-Problem)
+
+##Tagless Final
+* [Typed Tagless Final Interpreters](http://okmij.org/ftp/tagless-final/course/lecture.pdf)
+* [Typed tagless-final interpretations: Lecture notes](http://okmij.org/ftp/tagless-final/course/)
+* [Typed Tagless-Final Linear Lambda Calculus](https://www.fpcomplete.com/user/mutjida/typed-tagless-final-linear-lambda-calculus)
