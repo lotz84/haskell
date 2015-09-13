@@ -58,8 +58,6 @@ parse = evalStateT
 * [Alex and Happy: Parsing comments and strings](http://www.jyotirmoy.net/posts/2015-08-17-alex-happy-startcodes.html)
 * [Calling Python libraries from Haskell](https://john-millikin.com/articles/ride-the-snake/)
 * [Erasing "expected" messages in Parsec](http://jaspervdj.be/posts/2015-09-02-erasing-parsec-expected-messages.html)
-
-###コンパイラを作る
 * [bound](http://hackage.haskell.org/package/bound)
 * [Write Yourself a Scheme in 48 Hours](http://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours) [[ja](https://ja.wikibooks.org/wiki/48%E6%99%82%E9%96%93%E3%81%A7Scheme%E3%82%92%E6%9B%B8%E3%81%93%E3%81%86)]
 * [Write You a Haskell](http://dev.stephendiehl.com/fun/)
@@ -67,6 +65,7 @@ parse = evalStateT
 * [A Tutorial Implementation of a Dependently Typed Lambda Calculus](http://www.andres-loeh.de/LambdaPi/)
 * [Introduction to PEG](http://www.slideshare.net/kmizushima/introduction-to-peg)
 * [ビジュアル構文解析](http://www.slideshare.net/ichikaz3/ss-11400787)
+* [Two kinds of backtracking](http://gelisam.blogspot.ca/2015/09/two-kinds-of-backtracking.html)
 
 ##Extensible Effects
 * [extensible-effects](https://hackage.haskell.org/package/extensible-effects)
