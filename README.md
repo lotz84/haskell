@@ -18,7 +18,7 @@
         2. [Foldable, Traversable](handbook/1-2-2.md)
     4.  [モナド交換子](docs/monad-transformers.md)
     5.  [継続](handbook/1-4.md)
-    6.  [Free Monad](handbook/1-5.md)
+    6.  [Embedded DSL](docs/embedded-dsl.md)
     7.  [Optic (Lens, Prism...)](handbook/1-6.md)
     8.  [並列・並行処理](handbook/1-7.md)
     9.  [Stream](handbook/1-8.md)
