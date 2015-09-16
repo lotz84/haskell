@@ -45,6 +45,7 @@ sieve (p:xs) = p : sieve [x | x <- xs, x `mod` p /= 0]
 * [PLEAC-Haskell](http://pleac.sourceforge.net/pleac_haskell/index.html)
 * [Real World Haskell](http://book.realworldhaskell.org/read/)
 * [What I Wish I Knew When Learning Haskell](http://www.stephendiehl.com/what/) [[ja](https://github.com/Kinokkory/wiwinwlh-jp/wiki)]
+* [参照透過性とは何だったのか](http://www.slideshare.net/RuiccRail/haskell-day2012)
 
 ##基本
 * [Base で定義されている演算子の一覧](http://hackage.haskell.org/package/acme-operators/docs/Acme-Operators-Base.html)
