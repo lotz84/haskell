@@ -29,7 +29,7 @@
 3. [実践Haskell](handbook/3-0.md)
     1. [Game Programming](handbook/3-1.md)
     2. [Web Service](handbook/3-2.md)
-    4. [機械学習](handbook/3-3.md)
+    4. [機械学習](https://github.com/lotz84/machine-learning)
     5. [テストとデバッグ](handbook/3-4.md)
 4. [関数型プログラミング言語](handbook/4-0.md)
 5. [計算の基礎](handbook/5-0.md)
