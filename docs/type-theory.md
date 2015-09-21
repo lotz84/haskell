@@ -36,6 +36,7 @@
 
 ##Coq
 * [プログラミング Coq 〜 絶対にバグのないプログラムの書き方 〜](http://www.iij-ii.co.jp/lab/techdoc/coqt/)
+* [ソフトウェアの基礎](http://proofcafe.org/sf/)
 
 ##Agda
 * [Learn you an agda and achive enlightenment](http://learnyouanagda.liamoc.net/)
