@@ -34,7 +34,7 @@
 4. [関数型プログラミング言語](handbook/4-0.md)
 5. [計算の基礎](handbook/5-0.md)
     1. [論理学/証明論](handbook/5-1.md)
-    2. [型理論/HoTT](handbook/5-2.md)
+    2. [型理論/HoTT](docs/type-theory.md)
     3. [圏論](handbook/5-3.md)
 
 ##Related works
