@@ -6,6 +6,18 @@
 * [apiary](https://hackage.haskell.org/package/apiary)
 * [Your Server as a Function](http://monkey.org/~marius/funsrv.pdf)
 * [Taking Authentication to the next Level](https://www.spock.li/2015/08/23/taking_authentication_to_the_next_level.html)
+* [bendyworks/api-server](https://github.com/bendyworks/api-server)
+* [Run secure WebSocket clients with Wuss](http://taylor.fausak.me/2015/06/04/run-secure-websocket-clients-with-wuss/)
+* [The Ur Programming Language Family](http://www.impredicative.com/ur/)
+  * [04 An Optimizing Compiler for a Purely Functional Web Application Language](https://www.youtube.com/watch?v=McYhbIubeTc)
+* [kazu-yamamoto/logger](https://github.com/kazu-yamamoto/logger)
+* [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)* [Haskell でソケット通信をやってみる](http://yasutech.blogspot.jp/2012/01/haskell.html)
+* [socket](https://hackage.haskell.org/package/socket)
+* [HaNS](https://hackage.haskell.org/package/hans)
+* TLS/SSL implementation in haskell - [vincenthz/hs-tls](https://github.com/vincenthz/hs-tls)
+* [websockets](http://jaspervdj.be/websockets/)
+* [リアルタイム通信で利用されるプロトコルと手法](http://tech.guitarrapc.com/entry/2015/08/17/044937)
+* [snoyberg/keter](https://github.com/snoyberg/keter)
 
 ###WAI/Warp
 * [wai](https://hackage.haskell.org/package/wai)
