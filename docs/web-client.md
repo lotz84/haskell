@@ -1,3 +1,6 @@
+* A high level web scraping library for Haskell - [fimad/scalpel](https://github.com/fimad/scalpel)
+* A minimal web-browser written and configured in Haskell - [k0ral/hbro](https://github.com/k0ral/hbro)
+
 ##Client
 * [HTTP](https://hackage.haskell.org/package/HTTP) - HTTPSは対応していない
 * [http-conduit](http://hackage.haskell.org/package/http-conduit)
@@ -11,12 +14,12 @@
 * [glguy/irc-core](https://github.com/glguy/irc-core)
 * [msgpack/msgpack-haskell](https://github.com/msgpack/msgpack-haskell)
 
-###Scraping
+##Scraping
 * [wreq](http://www.serpentine.com/wreq/)
   * [Web Scraping with Lenses](http://two-wrongs.com/web-scraping-with-lenses)
 * [egonSchiele/HandsomeSoup](https://github.com/egonSchiele/HandsomeSoup)
 
-###Github
+##Github
 * [The github package](https://hackage.haskell.org/package/github)
 * [The github-types package](https://hackage.haskell.org/package/github-types)
 * [The github-webhook-handler package](https://hackage.haskell.org/package/github-webhook-handler)
