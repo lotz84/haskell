@@ -52,8 +52,11 @@ evenElements xs = filter even xs
 出典: <http://d.hatena.ne.jp/kazu-yamamoto/20091122/1258899591>
 
 ##領域理論
+* [不動点の話](http://d.hatena.ne.jp/kazu-yamamoto/20110426/1303810333)
 * [Haskell/不動点と再帰](https://ja.wikibooks.org/wiki/Haskell/%E4%B8%8D%E5%8B%95%E7%82%B9%E3%81%A8%E5%86%8D%E5%B8%B0)
 * [Solving Recursive Equations](http://jozefg.bitbucket.org/posts/2015-08-14-solve-domains.html)
+* [Haskell/Denotational semantics](https://ja.wikibooks.org/wiki/Haskell/Denotational_semantics)
+* [Domain Theory](http://www.cs.bham.ac.uk/~axj/pub/papers/handy1.pdf)
 
 ##Catamorphism, Anamorphism
 * [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire](http://eprints.eemcs.utwente.nl/7281/01/db-utwente-40501F46.pdf)
@@ -62,3 +65,7 @@ evenElements xs = filter even xs
 * [An Introduction to Recursion Schemes](http://patrickthomson.ghost.io/an-introduction-to-recursion-schemes/)
 * [Recursion Schemes, Part 2: A Mob of Morphisms](http://patrickthomson.ghost.io/recursion-schemes-part-2/)
 * [Practical Recursion Schemes](https://medium.com/@jaredtobin/practical-recursion-schemes-c10648ec1c29)
+
+----
+
+* [プログラム意味論とトポロジー -再帰，相互作用，結び目-](http://www.kurims.kyoto-u.ac.jp/~hassei/papers/msj2010sept_slides.pdf)
