@@ -19,14 +19,14 @@
 * [リアルタイム通信で利用されるプロトコルと手法](http://tech.guitarrapc.com/entry/2015/08/17/044937)
 * [snoyberg/keter](https://github.com/snoyberg/keter)
 
-###WAI/Warp
+##WAI/Warp
 * [wai](https://hackage.haskell.org/package/wai)
 * [warp](https://hackage.haskell.org/package/warp)
 
-###Scotty
+##Scotty
 * [scotty-web/scotty](https://github.com/scotty-web/scotty)
 
-###Servant
+##Servant
 * [servant](http://haskell-servant.github.io/)
 * [parsonsmatt/servant-persistent](https://github.com/parsonsmatt/servant-persistent)
 * [haskell-servant の利用例とちょっとだけ仕組みの調査](http://krdlab.hatenablog.com/entry/2014/12/31/170158)
@@ -34,14 +34,18 @@
 * [Pulling a mock server for your APIs out of thin air](https://haskell-servant.github.io/posts/2015-07-24-pulling-mock-servers-out-of-thin-air.html)
 * [Julian Arni - Servant: a type level DSL for web APIs - Curry On](https://www.youtube.com/watch?v=snOBI8PcbMQ)
 * [Content Type Bliss](http://haskell-servant.github.io/posts/2015-08-05-content-types.html)
-* [k-bx/owlcloud](https://github.com/k-bx/owlcloud)
 * [Type safe web services in Haskell with Servant](http://taylor.fausak.me/2015/08/23/type-safe-web-services-in-haskell-with-servant/)
+* [03 Type Level Web APIs](https://www.youtube.com/watch?v=vXRIXkbjLbU)
 
-###Snap
+###Microservices
+* [k-bx/owlcloud](https://github.com/k-bx/owlcloud)
+* [マイクロサービスのデザインパターン](https://uramoto.wordpress.com/2015/09/21/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3/)
+
+##Snap
 * [Snap](http://snapframework.com/)
 * [snaplet-postgresql-simple](https://hackage.haskell.org/package/snaplet-postgresql-simple)
 
-###Yesod
+##Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
 * [quick start guide](http://www.yesodweb.com/page/quickstart)
 * [tutorial](http://yannesposito.com/Scratch/en/blog/Yesod-tutorial-for-newbies/)
