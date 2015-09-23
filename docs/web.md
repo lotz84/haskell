@@ -15,6 +15,7 @@
 ##Hakyll
 * [Hakyll](http://jaspervdj.be/hakyll/)
 * [Hakyllを使ってGitHub Pagesを作成して、そのソースも管理して、Travis CIで自動デプロイする。](http://imokuri123.com/blog/2015/04/create-github-pages-with-hakyll.html)
+* [Hakyllでページング](http://qiita.com/hiratara/items/714d890e1b363f06c2d3)
 
 ##Heroku
 * [Deploying Haskell to Heroku using Docker](http://www.reddit.com/r/haskell/comments/35he88/deploying_haskell_to_heroku_using_docker/)
