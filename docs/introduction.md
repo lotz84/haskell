@@ -48,6 +48,12 @@ sieve (p:xs) = p : sieve [x | x <- xs, x `mod` p /= 0]
 * [参照透過性とは何だったのか](http://www.slideshare.net/RuiccRail/haskell-day2012)
 * [VimでHaskellしよう](http://qiita.com/yukiasai/items/92a2b343b6519b38f402)
 
+##Editor
+* [Leksah](http://leksah.org/)
+* [Haskell for Mac](http://haskellformac.com/)
+* [EclipseFP](http://eclipsefp.github.io/)
+* [Switching from Vim to Atom (A Haskeller's Perspective)](http://edsko.net/2015/03/07/vim-to-atom/)
+
 ##基本
 * [Base で定義されている演算子の一覧](http://hackage.haskell.org/package/acme-operators/docs/Acme-Operators-Base.html)
 * [順列列挙関数（素朴な実装）](http://qiita.com/nobsun/items/babd28fe81ba3b9f304f)
