@@ -1,3 +1,6 @@
+* [Domain-specific Languages and Code Synthesis Using Haskell](http://dl.acm.org/citation.cfm?id=2617811)
+* [Jurriaan Hage - Making Embedded Domain Specific Languages a Practical Reality](https://www.youtube.com/watch?v=bPrM1gONdII)
+
 ##Free Monad
 * [The free package](http://hackage.haskell.org/package/free)
 
