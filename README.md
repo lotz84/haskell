@@ -15,7 +15,6 @@
     2.  [型とデータ構造](handbook/1-1.md)
     3.  [型クラスと抽象](handbook/1-2.md)
         1. [Functor, Applicative, Monad](handbook/1-2-1.md)
-        2. [Foldable, Traversable](handbook/1-2-2.md)
     4.  [モナド交換子](docs/monad-transformers.md)
     5.  [継続](handbook/1-4.md)
     6.  [Embedded DSL](docs/embedded-dsl.md)
