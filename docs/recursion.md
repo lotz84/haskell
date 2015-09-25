@@ -51,6 +51,42 @@ evenElements xs = filter even xs
 
 出典: <http://d.hatena.ne.jp/kazu-yamamoto/20091122/1258899591>
 
+##Foldable/Traversable
+###Foldable
+
+```haskell
+class Foldable t where
+    foldr :: (a -> b -> b) -> b -> t a -> b
+```
+
+* [Data.Foldable](https://hackage.haskell.org/package/base/docs/Data-Foldable.html)
+* [Foldable with metadata](http://kenta.blogspot.jp/2015/08/clomduww-foldable-with-metadata.html)
+
+###Traversable
+
+```haskell
+class (Functor t, Foldable t) => Traversable t where
+    sequenceA :: Applicative f => t (f a) -> f (t a)
+```
+
+* [Data.Traversable](https://hackage.haskell.org/package/base/docs/Data-Traversable.html)
+* [Traversable functor](http://mbps.hatenablog.com/entry/2014/09/22/100000)
+* [Domains, Sets, Traversals and Applicatives](http://comonad.com/reader/2015/domains-sets-traversals-and-applicatives/)
+* [String diagrams, traversables, and positive braids](http://parametricity.com/posts/2015-07-18-braids.html)
+* [On the Static Nature of Traversals](http://r6.ca/blog/20121209T182914Z.html)
+* [The Essence of the Iterator Pattern](https://www.cs.ox.ac.uk/jeremy.gibbons/publications/iterator.pdf)
+* [witherable](https://hackage.haskell.org/package/witherable)
+
+####Distributive
+Distributive is the categorical dual of Traversable.
+
+```haskell
+class Functor g => Distributive g where
+    distribute  :: Functor f => f (g a) -> g (f a)
+```
+
+* [Data.Distributive](https://hackage.haskell.org/package/distributive/docs/Data-Distributive.html)
+
 ##領域理論
 * [不動点の話](http://d.hatena.ne.jp/kazu-yamamoto/20110426/1303810333)
 * [Haskell/不動点と再帰](https://ja.wikibooks.org/wiki/Haskell/%E4%B8%8D%E5%8B%95%E7%82%B9%E3%81%A8%E5%86%8D%E5%B8%B0)
