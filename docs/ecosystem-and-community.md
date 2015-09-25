@@ -28,6 +28,7 @@
 * [Hackage Matrix Builder](http://matrix.hackage.haskell.org/)
 
 ###日本
+* [Tokyo Haskell Meetup](http://www.meetup.com/Tokyo-Haskell-Meetup/)
 * [Chaton haskell-ja](http://chaton.practical-scheme.net/haskell-ja/)
 * [HaskellJP](http://wiki.haskell.jp/)
 * [Haskell(ja)](https://plus.google.com/communities/107562694527758263007)
