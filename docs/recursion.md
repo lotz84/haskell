@@ -94,6 +94,10 @@ class Functor g => Distributive g where
 * [Haskell/Denotational semantics](https://ja.wikibooks.org/wiki/Haskell/Denotational_semantics)
 * [Domain Theory](http://www.cs.bham.ac.uk/~axj/pub/papers/handy1.pdf)
 
+```haskell
+fact = fix $ \fact n -> if n == 0 then 1 else n * fact (n-1)
+```
+
 ##Catamorphism, Anamorphism
 * [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire](http://eprints.eemcs.utwente.nl/7281/01/db-utwente-40501F46.pdf)
 * [再帰のパターン](http://maoe.hatenadiary.jp/entry/20090820/1250782646)
