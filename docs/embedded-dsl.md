@@ -35,6 +35,7 @@ instance Functor f => Monad (Free f) where
 * [FreeモナドとTagless FinalによるDependency InjectionのためのDSL](http://qiita.com/yyu/items/377513f17fec536b562e)
 * [Freeモナドで領域特化言語を作るとプリティミューテーション](http://qiita.com/hiruberuto/items/3d55b0e54565dbb286a7)
 * [Freer Monads, More Extensible Effects](http://okmij.org/ftp/Haskell/extensible/more.pdf)
+* [Recursion Excursion](http://www.parsonsmatt.org/programming/2015/09/24/recursion.html)
 
 ###Coyoneda
 * [Loop School - Coyoneda](http://school.looprecur.com/?video=122708005)
