@@ -23,6 +23,7 @@
 * [Stack Safety for Free](http://functorial.com/stack-safety-for-free/index.pdf)
 * [slamdata/purescript-halogen](https://github.com/slamdata/purescript-halogen)
 * [実例によるPureScript](http://hiruberuto.bitbucket.org/purescript/)
+* [purescript/purescript-free](https://github.com/purescript/purescript-free)
 
 ##HTML Template/DSL
 * Template - [shakespeare](https://hackage.haskell.org/package/shakespeare)
