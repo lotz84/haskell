@@ -14,6 +14,7 @@
 * [Isomorphisms as equalities](http://diaz-caro.web.unq.edu.ar/lambdaPlusI.pdf)
 * [Intensional Type Theory with Guarded Recursive Types qua Fixed Points on Universes](http://cs.au.dk/~birke/papers/sgdtuniverse-conf.pdf)
 * [Categorical Programming for Data Types with Restricted Parametricity](https://www.cl.cam.ac.uk/~dao29/drafts/tfp-structures-orchard12.pdf)
+* [Two Different Flavors of Type Theory](http://jozefg.bitbucket.org/posts/2015-09-27-flavors.html)
 
 ##Lambda Calculus
 * [Alligator Eggs](http://www.jmuk.org/AlligatorEggs.html)
@@ -92,3 +93,4 @@
 * [Type Theory in Type Theory using Quotient Inductive Types](http://www.cs.nott.ac.uk/~txa/publ/tt-in-tt.pdf)
 * [Type Theory through Comprehension Categories](http://www.cs.nott.ac.uk/~pvc/report-2013.pdf)
 * [Dependent Inductive and Coinductive Types are Fibrational Dialgebras](http://arxiv.org/abs/1508.06779)
+* [Homotopy Type Theory DMV2015](http://ncatlab.org/homotopytypetheory/show/DMV2015)
