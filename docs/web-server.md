@@ -39,6 +39,10 @@
 
 ###Microservices
 * [k-bx/owlcloud](https://github.com/k-bx/owlcloud)
+* [マイクロサービスが Scala を選ぶ３つの理由](http://okapies.hateblo.jp/entry/2014/11/25/010416)
+  1. JVM 言語である
+  2. 非同期 RPC フレームワーク "Finagle" の存在
+  3. 静的型付き言語である
 * [マイクロサービスのデザインパターン](https://uramoto.wordpress.com/2015/09/21/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3/)
 
 ##Snap
