@@ -44,6 +44,29 @@
 * [Introduction to Agda - Matthew Brecknell (two talks)](https://www.youtube.com/playlist?list=PLlq2kxxWa_fEm2am9j3-VuRonuade9W_0)
 * [みんなのAgda Wiki](http://agda.wiki.fc2.com/)
 
+##Idris
+<http://www.idris-lang.org/>
+
+* [Practical Erasure in Dependently Typed Languages](https://edwinb.wordpress.com/2015/02/28/practical-erasure-in-dependently-typed-languages/)
+* [Idris: Practical Dependent Types with Practical Examples](https://www.youtube.com/watch?v=4i7KrG1Afbk)
+* [Dependently Typed Functional Programming in Idris by David Christiansen 1 of 3](https://vimeo.com/117221082)
+* [Dependently typed functional programming in Idris, 2 of 3](https://vimeo.com/117973383)
+* [Dependently typed functional programming in Idris, 3 of 3](https://vimeo.com/117979741)
+* [こわくない Idris (1)](http://mandel59.hateblo.jp/entry/2013/09/02/184831)
+* [こわくない Idris (2)](http://mandel59.hateblo.jp/entry/2013/09/03/162145)
+* [こわくない Idris (3)](http://mandel59.hateblo.jp/entry/2013/09/06/104042)
+* [こわくない Idris (4)](http://mandel59.hateblo.jp/entry/2013/09/14/082342)
+* [こわくない Idris (5)](http://mandel59.hateblo.jp/entry/2013/09/14/115924)
+* [こわくない Idris (6)](http://mandel59.hateblo.jp/entry/2013/09/14/153041)
+  * [こわくない Idris (6) 補足](http://mandel59.hateblo.jp/entry/2014/10/05/233126)
+* [こわくない Idris (7)](http://mandel59.hateblo.jp/entry/2013/09/17/142709)
+* [codata](https://groups.google.com/forum/#!msg/idris-lang/bZmQpOVbHpY/4At62mxn-mcJ)
+* [IdrisでWebアプリを書く](http://www.slideshare.net/tanakh/idrisweb)
+* [Tell dependent function in conditional statement branch that condition is true](http://stackoverflow.com/questions/28914593/tell-dependent-function-in-conditional-statement-branch-that-condition-is-true)
+* [Idris: General Purpose Programming with Dependent Types](https://www.youtube.com/watch?v=vkIlW797JN8)
+* [Coding for Types: The Universe Patern in Idris](https://www.youtube.com/watch?v=AWeT_G04a0A)
+* [REVERSE, REVERSE: THEOREM PROVING WITH IDRIS](http://www.stackbuilders.com/news/reverse-reverse-theorem-proving-with-idris)
+
 ##Dependent Type Theory
 * Robert Harper - Type Theory Foundations [1](https://www.youtube.com/watch?v=ev7AYsLljxk) [2](https://www.youtube.com/watch?v=3JHTb6b1to8) [3](https://www.youtube.com/watch?v=wJLTE8rnqH0) [4](https://www.youtube.com/watch?v=P6YUm_E6rRA) [5](https://www.youtube.com/watch?v=wnHp5F9RDPI) [6](https://www.youtube.com/watch?v=glv3X4PfrEc)
 * [ΠΣ: Dependent Types without the Sugar](http://www.andres-loeh.de/PiSigma/PiSigma.pdf)
