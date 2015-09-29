@@ -54,6 +54,7 @@
 * [Games for Dependent Types](http://arxiv.org/abs/1508.05023)
 * [06 Dependent Types Effects and Efficient Verification Conditions in F star](https://www.youtube.com/watch?v=em_tDc1Gc40)
 * [Designing Dependently-Typed Programming Languages - Lecture 1 - Stephanie Weirich](https://www.youtube.com/watch?v=AT4JJm_ujRg)
+* [Dependent Types for Low-Level Programming](http://www.cs.berkeley.edu/~necula/Papers/deputy-esop07.pdf)
 
 ##Homotopy Theory
 * Allen Hatcher - [Algebraic Topology](http://www.math.cornell.edu/~hatcher/AT/AT.pdf)
