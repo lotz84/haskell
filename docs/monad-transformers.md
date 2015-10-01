@@ -69,6 +69,7 @@ parse = evalStateT
 * [Two kinds of backtracking](http://gelisam.blogspot.ca/2015/09/two-kinds-of-backtracking.html)
 * [8章:関数型パーサ](http://www.slideshare.net/RuiccRail/programming-haskell-chapter8)
 * [The megaparsec package](https://hackage.haskell.org/package/megaparsec)
+* [Simple Monadic Parser in Haskell](http://michal.muskala.eu/2015/09/23/simple-monadic-parser-in-haskell.html)
 
 ##Extensible Effects
 * [extensible-effects](https://hackage.haskell.org/package/extensible-effects)
