@@ -68,6 +68,7 @@ parse = evalStateT
 * [ビジュアル構文解析](http://www.slideshare.net/ichikaz3/ss-11400787)
 * [Two kinds of backtracking](http://gelisam.blogspot.ca/2015/09/two-kinds-of-backtracking.html)
 * [8章:関数型パーサ](http://www.slideshare.net/RuiccRail/programming-haskell-chapter8)
+* [The megaparsec package](https://hackage.haskell.org/package/megaparsec)
 
 ##Extensible Effects
 * [extensible-effects](https://hackage.haskell.org/package/extensible-effects)
