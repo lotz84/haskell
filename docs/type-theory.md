@@ -67,6 +67,9 @@
 * [Coding for Types: The Universe Patern in Idris](https://www.youtube.com/watch?v=AWeT_G04a0A)
 * [REVERSE, REVERSE: THEOREM PROVING WITH IDRIS](http://www.stackbuilders.com/news/reverse-reverse-theorem-proving-with-idris)
 
+##Alms
+* [Practical Affine Types](http://www.ccs.neu.edu/home/tov/pubs/alms/)
+
 ##Dependent Type Theory
 * Robert Harper - Type Theory Foundations [1](https://www.youtube.com/watch?v=ev7AYsLljxk) [2](https://www.youtube.com/watch?v=3JHTb6b1to8) [3](https://www.youtube.com/watch?v=wJLTE8rnqH0) [4](https://www.youtube.com/watch?v=P6YUm_E6rRA) [5](https://www.youtube.com/watch?v=wnHp5F9RDPI) [6](https://www.youtube.com/watch?v=glv3X4PfrEc)
 * [ΠΣ: Dependent Types without the Sugar](http://www.andres-loeh.de/PiSigma/PiSigma.pdf)
