@@ -14,6 +14,7 @@
 * [glguy/irc-core](https://github.com/glguy/irc-core)
 * [msgpack/msgpack-haskell](https://github.com/msgpack/msgpack-haskell)
 * [steven777400/TwilioIVR](https://github.com/steven777400/TwilioIVR/)
+* [The stripe-haskell package](http://hackage.haskell.org/package/stripe-haskell)
 
 ##Scraping
 * [wreq](http://www.serpentine.com/wreq/)
