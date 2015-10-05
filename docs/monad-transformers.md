@@ -23,6 +23,7 @@
 * [Wrangling Monad Transformer Stacks](https://www.youtube.com/watch?v=8t8fjkISjus)
 * [Monad transformers](http://taylor.fausak.me/2015/05/14/monad-transformers/)
 * [The mmorph package](https://hackage.haskell.org/package/mmorph)
+* [ContEitherT](https://iteratee.wordpress.com/2015/10/01/conteithert/)
 
 transformersにはMonad Transformerを新しく定義する度に全ての組み合わせの実装を定義する必要があるという問題点がある。
 
