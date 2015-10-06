@@ -15,6 +15,7 @@
 * [Intensional Type Theory with Guarded Recursive Types qua Fixed Points on Universes](http://cs.au.dk/~birke/papers/sgdtuniverse-conf.pdf)
 * [Categorical Programming for Data Types with Restricted Parametricity](https://www.cl.cam.ac.uk/~dao29/drafts/tfp-structures-orchard12.pdf)
 * [Two Different Flavors of Type Theory](http://jozefg.bitbucket.org/posts/2015-09-27-flavors.html)
+* [Generic Evaluators](http://languagengine.co/blog/generic-evaluators/)
 
 ##Lambda Calculus
 * [Alligator Eggs](http://www.jmuk.org/AlligatorEggs.html)
