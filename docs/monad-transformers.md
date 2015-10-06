@@ -81,3 +81,4 @@ parse = evalStateT
 * [Are extensible effects a complete replacement for mtl?](http://www.reddit.com/r/haskell/comments/387ex0/are_extensible_effects_a_complete_replacement_for/crt1pzm)
 * [24 Days of Hackage: extensible-effects](https://ocharles.org.uk/blog/posts/2013-12-04-24-days-of-hackage-extensible-effects.html)
 * [effin](https://hackage.haskell.org/package/effin)
+* [The effect-handlers package](https://hackage.haskell.org/package/effect-handlers)
