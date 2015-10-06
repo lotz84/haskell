@@ -47,3 +47,4 @@
   * [翻訳(WIP)](https://github.com/fujimura/learnhaskell/tree/japanese)
 * [krispo/awesome-haskell](https://github.com/krispo/awesome-haskell)
 * [drKraken/haskell-must-watch](https://github.com/drKraken/haskell-must-watch)
+* [beerendlauwers/haskell-papers-ereader](https://github.com/beerendlauwers/haskell-papers-ereader)
