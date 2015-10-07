@@ -32,6 +32,7 @@
         1. [Front End](docs/web-front-end.md)
         2. [Client](docs/web-client.md)
         3. [Server](docs/web-server.md)
+        4. [Database](docs/database.md)
     3. [iOS/Android](docs/mobile-apps.md)
     4. [機械学習](https://github.com/lotz84/machine-learning)
     5. [テストとデバッグ](handbook/3-4.md)
