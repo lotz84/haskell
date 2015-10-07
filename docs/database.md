@@ -11,6 +11,7 @@
 * [Safe concurrent MySQL access in Haskell](https://ro-che.info/articles/2015-04-17-safe-concurrent-mysql-haskell)
 * [the-real-blackh/cassandra-cql](https://github.com/the-real-blackh/cassandra-cql)
 * [Haskell Relational Record](https://khibino.github.io/haskell-relational-record/)
+* [PostgREST Workshop](http://begriffs.com/posts/2015-10-02-postgrest-workshop.html)
 
 ###Simples
 * [The mysql-simple package](https://hackage.haskell.org/package/mysql-simple)
