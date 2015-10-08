@@ -15,6 +15,8 @@ $ brew install ghc cabal-install
 * [tonsky/FiraCode](https://github.com/tonsky/FiraCode)
 
 ##Example
+* [Basic Haskell Examples](http://www.haskellforall.com/2015/10/basic-haskell-examples.html)
+* [Haskell by Example](http://lotz84.github.io/haskellbyexample/)
 
 **エラトステネスの篩**
 
