@@ -122,3 +122,4 @@
 * [Type Theory through Comprehension Categories](http://www.cs.nott.ac.uk/~pvc/report-2013.pdf)
 * [Dependent Inductive and Coinductive Types are Fibrational Dialgebras](http://arxiv.org/abs/1508.06779)
 * [Homotopy Type Theory DMV2015](http://ncatlab.org/homotopytypetheory/show/DMV2015)
+* [The encode-decode method in HoTT, relationally](https://personal.cis.strath.ac.uk/fredrik.nordvall-forsberg/talks/stp_dundee_2015/stp_dundee_2015-10-07.pdf)
