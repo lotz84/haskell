@@ -51,6 +51,16 @@ evenElements xs = filter even xs
 
 出典: <http://d.hatena.ne.jp/kazu-yamamoto/20091122/1258899591>
 
+* [foldl](https://hackage.haskell.org/package/foldl)
+* [Examining Hackage: folds](http://jozefg.bitbucket.org/posts/2014-12-27-folds.html)
+
+##リスト
+* [(cons cat (cons cat nil))](https://twitter.com/lvsn/status/533685461957349376)
+* [split](https://hackage.haskell.org/package/split)
+* [An Introduction to Recursion Schemes](http://patrickthomson.ghost.io/an-introduction-to-recursion-schemes/)
+* [dlist](http://hackage.haskell.org/package/dlist)
+* [代数的データ型を使わないリスト](http://maoe.hatenadiary.jp/entry/20110402/1301677925)
+
 ##Foldable/Traversable
 ###Foldable
 
@@ -105,6 +115,7 @@ fact = fix $ \fact n -> if n == 0 then 1 else n * fact (n-1)
 * [An Introduction to Recursion Schemes](http://patrickthomson.ghost.io/an-introduction-to-recursion-schemes/)
 * [Recursion Schemes, Part 2: A Mob of Morphisms](http://patrickthomson.ghost.io/recursion-schemes-part-2/)
 * [Practical Recursion Schemes](https://medium.com/@jaredtobin/practical-recursion-schemes-c10648ec1c29)
+* [F始代数](http://nineties.github.io/category-seminar/7.html#/43)
 
 ----
 
