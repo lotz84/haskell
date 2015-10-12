@@ -12,6 +12,7 @@
 * [the-real-blackh/cassandra-cql](https://github.com/the-real-blackh/cassandra-cql)
 * [Haskell Relational Record](https://khibino.github.io/haskell-relational-record/)
 * [PostgREST Workshop](http://begriffs.com/posts/2015-10-02-postgrest-workshop.html)
+* [Working with databases using Groundhog](https://www.fpcomplete.com/user/lykahb/groundhog)
 
 ###Simples
 * [The mysql-simple package](https://hackage.haskell.org/package/mysql-simple)
