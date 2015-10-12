@@ -119,4 +119,5 @@ fact = fix $ \fact n -> if n == 0 then 1 else n * fact (n-1)
 
 ----
 
+* [A Type-theoretic Reconstruction of the Visitor Pattern](http://www.cs.bham.ac.uk/~hxt/research/mfps-visitors.pdf)
 * [プログラム意味論とトポロジー -再帰，相互作用，結び目-](http://www.kurims.kyoto-u.ac.jp/~hassei/papers/msj2010sept_slides.pdf)
