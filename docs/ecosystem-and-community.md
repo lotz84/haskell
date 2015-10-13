@@ -18,6 +18,7 @@
 * [stack - from github to hacking haskell project in no time with stack](https://www.youtube.com/watch?v=asptVVijhhM&feature=youtu.be)
 * [commercialhaskell/stack-templates](https://github.com/commercialhaskell/stack-templates)
 * [stack new した時に出てくるファイルのテンプレートの設定](http://qiita.com/igrep/items/42130f58fb18da55e8c3)
+* [Haskell環境構築_20151013_最新版_1_投稿済み.md](http://qiita.com/philopon/items/879c2011ce8744c838de#fn4)
 
 ##コミュニティ
 * [New York Haskell Users Group](http://www.meetup.com/NY-Haskell/)
