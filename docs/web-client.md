@@ -15,6 +15,7 @@
 * [msgpack/msgpack-haskell](https://github.com/msgpack/msgpack-haskell)
 * [steven777400/TwilioIVR](https://github.com/steven777400/TwilioIVR/)
 * [The stripe-haskell package](http://hackage.haskell.org/package/stripe-haskell)
+* [The dns package](https://hackage.haskell.org/package/dns)
 * [Creating a BitTorrent client in Haskell](https://blog.chaps.io/2015/10/05/torrent-client-in-haskell-1.html)
 
 ##Scraping
