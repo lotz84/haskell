@@ -16,6 +16,7 @@
 * [Categorical Programming for Data Types with Restricted Parametricity](https://www.cl.cam.ac.uk/~dao29/drafts/tfp-structures-orchard12.pdf)
 * [Two Different Flavors of Type Theory](http://jozefg.bitbucket.org/posts/2015-09-27-flavors.html)
 * [Generic Evaluators](http://languagengine.co/blog/generic-evaluators/)
+* [Several types of types in programming languages](http://arxiv.org/abs/1510.03726)
 
 ##Lambda Calculus
 * [Alligator Eggs](http://www.jmuk.org/AlligatorEggs.html)
