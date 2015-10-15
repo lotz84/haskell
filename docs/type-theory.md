@@ -72,6 +72,11 @@
 ##Alms
 * [Practical Affine Types](http://www.ccs.neu.edu/home/tov/pubs/alms/)
 
+###Type Inference
+* [Introduction to Type Inference](https://www.youtube.com/watch?v=il3gD7XMdmA)
+* [第 16 章 Hindley/Milner 型推論](http://www29.atwiki.jp/tmiya/pages/78.html)
+* [An Explanation of Type Inference for ML/Haskell](http://jozefg.bitbucket.org/posts/2015-02-28-type-inference.html)
+
 ##Dependent Type Theory
 * Robert Harper - Type Theory Foundations [1](https://www.youtube.com/watch?v=ev7AYsLljxk) [2](https://www.youtube.com/watch?v=3JHTb6b1to8) [3](https://www.youtube.com/watch?v=wJLTE8rnqH0) [4](https://www.youtube.com/watch?v=P6YUm_E6rRA) [5](https://www.youtube.com/watch?v=wnHp5F9RDPI) [6](https://www.youtube.com/watch?v=glv3X4PfrEc)
 * [ΠΣ: Dependent Types without the Sugar](http://www.andres-loeh.de/PiSigma/PiSigma.pdf)
