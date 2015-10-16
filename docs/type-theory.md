@@ -17,6 +17,7 @@
 * [Two Different Flavors of Type Theory](http://jozefg.bitbucket.org/posts/2015-09-27-flavors.html)
 * [Generic Evaluators](http://languagengine.co/blog/generic-evaluators/)
 * [Several types of types in programming languages](http://arxiv.org/abs/1510.03726)
+* [Strange Loop: "Propositions as Types" by Philip Wadler](http://wadler.blogspot.jp/2015/10/strange-loop-propositions-as-types-by.html)
 
 ##Lambda Calculus
 * [Alligator Eggs](http://www.jmuk.org/AlligatorEggs.html)
