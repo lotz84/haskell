@@ -19,6 +19,7 @@
 * [リアルタイム通信で利用されるプロトコルと手法](http://tech.guitarrapc.com/entry/2015/08/17/044937)
 * [snoyberg/keter](https://github.com/snoyberg/keter)
 * [Rest for Haskell](http://silkapp.github.io/rest/)
+* [rnons/shadowsocks-haskell](https://github.com/rnons/shadowsocks-haskell)
 
 ##WAI/Warp
 * [wai](https://hackage.haskell.org/package/wai)
