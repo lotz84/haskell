@@ -4,6 +4,7 @@
 * [Hayoo!](http://hayoo.fh-wedel.de/)
 * [Stackage](https://www.stackage.org/)
    * [Announcing stackage-update](http://www.yesodweb.com/blog/2015/04/announcing-stackage-update)
+   * [Stackage Badges](https://www.fpcomplete.com/blog/2015/10/stackage-badges)
 
 ##Stack
 * [Haskellのビルドツール"stack"の紹介](http://qiita.com/tanakh/items/6866d0f570d0547df026)
