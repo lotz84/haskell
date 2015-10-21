@@ -73,6 +73,7 @@ parse = evalStateT
 * [8章:関数型パーサ](http://www.slideshare.net/RuiccRail/programming-haskell-chapter8)
 * [The megaparsec package](https://hackage.haskell.org/package/megaparsec)
 * [Simple Monadic Parser in Haskell](http://michal.muskala.eu/2015/09/23/simple-monadic-parser-in-haskell.html)
+* [mchakravarty/language-swift-quote](https://github.com/mchakravarty/language-swift-quote)
 
 ##Extensible Effects
 * [extensible-effects](https://hackage.haskell.org/package/extensible-effects)
