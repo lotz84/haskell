@@ -18,6 +18,7 @@
 * [The dns package](https://hackage.haskell.org/package/dns)
 * [Creating a BitTorrent client in Haskell](https://blog.chaps.io/2015/10/05/torrent-client-in-haskell-1.html)
 * [basvandijk/rss](https://github.com/basvandijk/rss)
+* [The ig package](http://hackage.haskell.org/package/ig)
 
 ##Scraping
 * [wreq](http://www.serpentine.com/wreq/)
