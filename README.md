@@ -45,6 +45,7 @@
 
 ##Related works
 * [State of the Haskell ecosystem - August 2015](http://www.haskellforall.com/2015/08/state-of-haskell-ecosystem-august-2015.html)
+* [commercialhaskell/haskelldocumentation](https://github.com/commercialhaskell/haskelldocumentation)
 * [bitemyapp/learnhaskell](https://github.com/bitemyapp/learnhaskell)
   * [翻訳(WIP)](https://github.com/fujimura/learnhaskell/tree/japanese)
 * [krispo/awesome-haskell](https://github.com/krispo/awesome-haskell)
