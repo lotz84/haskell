@@ -86,6 +86,7 @@ class (Functor t, Foldable t) => Traversable t where
 * [On the Static Nature of Traversals](http://r6.ca/blog/20121209T182914Z.html)
 * [The Essence of the Iterator Pattern](https://www.cs.ox.ac.uk/jeremy.gibbons/publications/iterator.pdf)
 * [witherable](https://hackage.haskell.org/package/witherable)
+* [snoyberg/mono-traversable](https://github.com/snoyberg/mono-traversable)
 
 ####Distributive
 Distributive is the categorical dual of Traversable.
