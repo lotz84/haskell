@@ -20,6 +20,8 @@
 * [snoyberg/keter](https://github.com/snoyberg/keter)
 * [Rest for Haskell](http://silkapp.github.io/rest/)
 * [rnons/shadowsocks-haskell](https://github.com/rnons/shadowsocks-haskell)
+* [The HaskellNet package](http://hackage.haskell.org/package/HaskellNet)
+* [The wuss package](https://hackage.haskell.org/package/wuss)
 
 ##WAI/Warp
 * [wai](https://hackage.haskell.org/package/wai)
