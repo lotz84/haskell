@@ -13,6 +13,7 @@
 * [Haskell Relational Record](https://khibino.github.io/haskell-relational-record/)
 * [PostgREST Workshop](http://begriffs.com/posts/2015-10-02-postgrest-workshop.html)
 * [Working with databases using Groundhog](https://www.fpcomplete.com/user/lykahb/groundhog)
+* [wereHamster/rethinkdb-client-driver](https://github.com/wereHamster/rethinkdb-client-driver)
 
 ###Simples
 * [The mysql-simple package](https://hackage.haskell.org/package/mysql-simple)
