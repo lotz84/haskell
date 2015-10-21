@@ -10,6 +10,7 @@
 * [elm-lang/elm-make](https://github.com/elm-lang/elm-make)
 * [elm+electronで気楽に始めるFRP](http://qiita.com/yasuyuky/items/e28106e3dd7fed17d50f)
 * [関数型リアクティブプログラミング言語Elmに学ぶ フロントエンド開発の新しい形](http://codezine.jp/article/detail/8873)
+* [Building elm with stack](http://therning.org/magnus/posts/2015-10-13-000-building-elm-with-stack.html)
 
 ##AltJS
 * [Haste](http://haste-lang.org/)
