@@ -2,6 +2,7 @@
 * [kolmodin/cabal-install-trace](https://github.com/kolmodin/cabal-install-trace)
 * [bitc/hdevtools](https://github.com/bitc/hdevtools)
 * [dan-t/cabal-bounds](https://github.com/dan-t/cabal-bounds)
+* [rubik/argon](https://github.com/rubik/argon)
 
 ##GHC
 * [GHC Speed](https://perf.haskell.org/ghc/#)
