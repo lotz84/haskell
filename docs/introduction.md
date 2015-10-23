@@ -49,7 +49,7 @@ sieve (p:xs) = p : sieve [x | x <- xs, x `mod` p /= 0]
 * [Real World Haskell](http://book.realworldhaskell.org/read/)
 * [What I Wish I Knew When Learning Haskell](http://www.stephendiehl.com/what/) [[ja](https://github.com/Kinokkory/wiwinwlh-jp/wiki)]
 * [参照透過性とは何だったのか](http://www.slideshare.net/RuiccRail/haskell-day2012)
-* [VimでHaskellしよう](http://qiita.com/yukiasai/items/92a2b343b6519b38f402)
+* [A community maintained course for learning Haskell](http://openhaskell.com/)
 
 ##Editor
 * [Leksah](http://leksah.org/)
@@ -57,6 +57,8 @@ sieve (p:xs) = p : sieve [x | x <- xs, x `mod` p /= 0]
 * [EclipseFP](http://eclipsefp.github.io/)
 * [Switching from Vim to Atom (A Haskeller's Perspective)](http://edsko.net/2015/03/07/vim-to-atom/)
 * [begriffs/haskell-vim-now](https://github.com/begriffs/haskell-vim-now?hr=2)
+* [VimでHaskellしよう](http://qiita.com/yukiasai/items/92a2b343b6519b38f402)
+* [[Haskell-cafe] [ANN] haskell-ide project](https://mail.haskell.org/pipermail/haskell-cafe/2015-October/121875.html)
 
 ##基本
 * [Base で定義されている演算子の一覧](http://hackage.haskell.org/package/acme-operators/docs/Acme-Operators-Base.html)
