@@ -56,6 +56,7 @@ sieve (p:xs) = p : sieve [x | x <- xs, x `mod` p /= 0]
 * [Haskell for Mac](http://haskellformac.com/)
 * [EclipseFP](http://eclipsefp.github.io/)
 * [Switching from Vim to Atom (A Haskeller's Perspective)](http://edsko.net/2015/03/07/vim-to-atom/)
+* [begriffs/haskell-vim-now](https://github.com/begriffs/haskell-vim-now?hr=2)
 
 ##基本
 * [Base で定義されている演算子の一覧](http://hackage.haskell.org/package/acme-operators/docs/Acme-Operators-Base.html)
