@@ -40,6 +40,7 @@
 * [Content Type Bliss](http://haskell-servant.github.io/posts/2015-08-05-content-types.html)
 * [Type safe web services in Haskell with Servant](http://taylor.fausak.me/2015/08/23/type-safe-web-services-in-haskell-with-servant/)
 * [03 Type Level Web APIs](https://www.youtube.com/watch?v=vXRIXkbjLbU)
+* [Gabriel439/servant-crud](https://github.com/Gabriel439/servant-crud)
 
 ###Microservices
 * [k-bx/owlcloud](https://github.com/k-bx/owlcloud)
