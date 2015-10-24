@@ -2,6 +2,7 @@
   * [agocorona/transient](https://github.com/agocorona/transient)
 * [Descent into Haskell (Part I)](https://www.facebook.com/notes/10153092264418543/)
 * [Docker Hosting – Run Docker Containers in any Cloud - Tutum](https://www.tutum.co/)
+* [k0ral/hbro](https://github.com/k0ral/hbro)
 
 ##JSON
 * [aeson](http://hackage.haskell.org/package/aeson)
