@@ -1,0 +1,5 @@
+* [Functional IoT](http://fpiot.metasepi.org/)
+* [Jhc Haskell Compiler](http://repetae.net/computer/jhc/)
+* [GaloisInc/ivory](https://github.com/GaloisInc/ivory)
+* [Copilot](http://leepike.github.io/Copilot/)
+* [CλaSH - From Haskell to Hardware](http://www.clash-lang.org/)
