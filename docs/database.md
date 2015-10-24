@@ -15,6 +15,8 @@
 * [wereHamster/rethinkdb-client-driver](https://github.com/wereHamster/rethinkdb-client-driver)
 * [tomjaguarpaw/haskell-opaleye](https://github.com/tomjaguarpaw/haskell-opaleye)
 * [Opaleye’s sugar on top](http://ren.zone/articles/opaleye-sot)
+* [Fun With Haxl (Part 1)](http://simonmar.github.io/posts/2015-10-20-Fun-With-Haxl-1.html)
+* [Paxos](http://www.slideshare.net/pfi/paxos-13615514?ref=http://open-groove.net/all-things-technology/paxos/)
 
 ###Simples
 * [The mysql-simple package](https://hackage.haskell.org/package/mysql-simple)
