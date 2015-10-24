@@ -3,3 +3,4 @@
 * [GaloisInc/ivory](https://github.com/GaloisInc/ivory)
 * [Copilot](http://leepike.github.io/Copilot/)
 * [CλaSH - From Haskell to Hardware](http://www.clash-lang.org/)
+* [frp-arduino/frp-arduino](https://github.com/frp-arduino/frp-arduino)
