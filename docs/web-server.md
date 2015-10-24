@@ -26,6 +26,7 @@
 ##WAI/Warp
 * [wai](https://hackage.haskell.org/package/wai)
 * [warp](https://hackage.haskell.org/package/warp)
+* [Using WAI's vault for fun and profit](http://www.yesodweb.com/blog/2015/10/using-wais-vault)
 
 ##Scotty
 * [scotty-web/scotty](https://github.com/scotty-web/scotty)
