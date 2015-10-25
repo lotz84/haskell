@@ -50,6 +50,7 @@ sieve (p:xs) = p : sieve [x | x <- xs, x `mod` p /= 0]
 * [What I Wish I Knew When Learning Haskell](http://www.stephendiehl.com/what/) [[ja](https://github.com/Kinokkory/wiwinwlh-jp/wiki)]
 * [参照透過性とは何だったのか](http://www.slideshare.net/RuiccRail/haskell-day2012)
 * [A community maintained course for learning Haskell](http://openhaskell.com/)
+* [Learning Real Haskell Incrementally](http://begriffs.com/posts/2015-10-24-learning-haskell-incrementally.html)
 
 ##Editor
 * [Leksah](http://leksah.org/)
