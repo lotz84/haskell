@@ -18,6 +18,7 @@
 * [Announcing ghc-exactprint: A New Foundation For Refactoring Tools](http://mpickering.github.io/posts/2015-07-23-ghc-exactprint.html)
 * [mikeizbicki/HerbiePlugin](https://github.com/mikeizbicki/HerbiePlugin)
 * [Compile-time arity checking for abstract binding trees](http://blog.callcc.name/posts/safer-abts.html)
+* [ImpredicativePolymorphism/Impredicative-2015: impredicativity.pdf](https://ghc.haskell.org/trac/ghc/attachment/wiki/ImpredicativePolymorphism/Impredicative-2015/impredicativity.pdf)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
