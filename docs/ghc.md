@@ -19,6 +19,7 @@
 * [mikeizbicki/HerbiePlugin](https://github.com/mikeizbicki/HerbiePlugin)
 * [Compile-time arity checking for abstract binding trees](http://blog.callcc.name/posts/safer-abts.html)
 * [ImpredicativePolymorphism/Impredicative-2015: impredicativity.pdf](https://ghc.haskell.org/trac/ghc/attachment/wiki/ImpredicativePolymorphism/Impredicative-2015/impredicativity.pdf)
+* [Static linking with ghc](https://ro-che.info/articles/2015-10-26-static-linking-ghc)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
