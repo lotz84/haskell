@@ -116,6 +116,7 @@ fact = fix $ \fact n -> if n == 0 then 1 else n * fact (n-1)
 * [Recursion Schemes, Part 2: A Mob of Morphisms](http://patrickthomson.ghost.io/recursion-schemes-part-2/)
 * [Practical Recursion Schemes](https://medium.com/@jaredtobin/practical-recursion-schemes-c10648ec1c29)
 * [F始代数](http://nineties.github.io/category-seminar/7.html#/43)
+* [Initial Algebra Semantics for Cyclic Sharing Tree Structures](http://arxiv.org/abs/1007.4266v2)
 
 ----
 
