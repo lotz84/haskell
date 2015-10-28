@@ -53,6 +53,7 @@
 * [Implementing a JIT Compiled Language with Haskell and LLVM](http://www.stephendiehl.com/llvm/)
 
 ###GHC拡張
+* [GHCanIUse](http://damianfral.github.io/ghcaniuse/)
 * [24 Days of GHC Extensions](https://ocharles.org.uk/blog/pages/2014-12-01-24-days-of-ghc-extensions.html)
 * [Language extensions](http://www.scs.stanford.edu/14sp-cs240h/slides/extensions-slides.html)
 * [見せてやろうGHCが持つ真のチカラを！ GHCの言語拡張を一覧する方法について。](http://qiita.com/tanakh/items/ee756a3948684ac30b34)
