@@ -22,6 +22,7 @@
 * [Haskell環境構築_20151013_最新版_1_投稿済み.md](http://qiita.com/philopon/items/879c2011ce8744c838de#fn4)
 * [Getting started with Haskell, stack and spacemacs](http://www.rnowak.info/2015/10/getting-started-with-haskell-stack-and.html)
 * [Haskell Stack Mega-Tutorial](https://www.youtube.com/watch?v=sRonIB8ZStw)
+* [Stackで管理しているHaskellのプロジェクトをCircleCIでビルドする](http://qiita.com/fujimura/items/b619e0a4ca2028b0eb03)
 
 ##コミュニティ
 * [New York Haskell Users Group](http://www.meetup.com/NY-Haskell/)
