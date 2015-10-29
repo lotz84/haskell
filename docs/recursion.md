@@ -22,6 +22,7 @@ main = print $ sum [1..10]
 
 * [再帰ドリル](https://github.com/kazu-yamamoto/recursion-drill)
 * [末尾再帰最適化](https://ja.wikipedia.org/wiki/%E6%9C%AB%E5%B0%BE%E5%86%8D%E5%B8%B0#.E6.9C.AB.E5.B0.BE.E5.91.BC.E5.87.BA.E3.81.97.E6.9C.80.E9.81.A9.E5.8C.96)
+* [Spirals, Snowflakes & Trees: Recursion in Pictures](http://learn.hfm.io/fractals.html)
 
 ##map, filter, foldr
 
