@@ -9,6 +9,7 @@
 * [Monad transformers and comonad transformers](http://dlaing.org/cofun/posts/monad_transformers_and_comonad_transformers.html)
 * [Fusion for Free: Efficient Algebraic Effect Handlers](http://people.cs.kuleuven.be/~tom.schrijvers/portfolio/mpc2015.html)
 * [Documentation.Layers.Overview](http://hackage.haskell.org/package/layers/docs/Documentation-Layers-Overview.html)
+* [モナドをラップする話](http://qiita.com/ruicc/items/175cc23f13d6004d8b3d)
 
 ##Monad Transformer
 * [transformers](https://hackage.haskell.org/package/transformers)
