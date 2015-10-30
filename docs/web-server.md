@@ -43,6 +43,7 @@
 * [Type safe web services in Haskell with Servant](http://taylor.fausak.me/2015/08/23/type-safe-web-services-in-haskell-with-servant/)
 * [03 Type Level Web APIs](https://www.youtube.com/watch?v=vXRIXkbjLbU)
 * [Gabriel439/servant-crud](https://github.com/Gabriel439/servant-crud)
+* [Haskell Servant: Type-Level DSLs for Web APIs](https://www.youtube.com/watch?v=gMDiKOuwLXw)
 
 ###Microservices
 * [k-bx/owlcloud](https://github.com/k-bx/owlcloud)
