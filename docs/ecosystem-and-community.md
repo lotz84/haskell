@@ -44,6 +44,7 @@
   * [ICFP Video](https://www.youtube.com/channel/UCwRL68qZFfub1Ep1EScfmBw)
 * [JSSST-SIGPPL](http://ppl.jssst.or.jp/)
 * [International Conference on Functional Programming](http://www.icfpconference.org/)
+* [gasche/popl2016-papers](https://github.com/gasche/popl2016-papers)
 
 ##イベント
 * [モナド基礎勉強会 vol.2](http://xbase.connpass.com/event/11252/)
