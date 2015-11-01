@@ -7,6 +7,10 @@
 * [The Algebra of Algebraic Data Types, Part 1](http://chris-taylor.github.io/blog/2013/02/10/the-algebra-of-algebraic-data-types/)
 * [Why are ADTs necessary?](http://www.reddit.com/r/haskell/comments/2z1n16/why_are_adts_necessary/)
 
+###Codata
+* [Codata](http://types2004.lri.fr/SLIDES/altenkirch.pdf)
+* [Data and Codata](http://blog.sigfpe.com/2007/07/data-and-codata.html)
+
 ###Zipper
 * [zipper](https://hackage.haskell.org/package/zipper)
 * [Zippers - LYAH](http://learnyouahaskell.com/zippers)
