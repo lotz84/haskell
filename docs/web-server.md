@@ -28,6 +28,7 @@
 * [warp](https://hackage.haskell.org/package/warp)
 * [Using WAI's vault for fun and profit](http://www.yesodweb.com/blog/2015/10/using-wais-vault)
 * [Resurrecting servius](http://www.yesodweb.com/blog/2015/10/resurrecting-servius)
+* [Intro to Nested-Routes](http://athanclark.github.io/posts/2015-10-27-nested-routes-tut-1.html)
 
 ##Scotty
 * [scotty-web/scotty](https://github.com/scotty-web/scotty)
