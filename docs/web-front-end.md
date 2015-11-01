@@ -1,5 +1,5 @@
 * [シンプルでかつ最高のJavaScriptプロファイラ sjsp を作りました！](http://itchyny.hatenablog.com/entry/2015/07/01/120000)
-* [ananthakumaran/webify](https://github.com/ananthakumaran/webify)
+* webfont generator - [ananthakumaran/webify](https://github.com/ananthakumaran/webify)
 * [LambdaCms](http://lambdacms.org/)
 * [Animating Web UI with React and Haskell](http://joelburget.com/react-haskell/)
 
