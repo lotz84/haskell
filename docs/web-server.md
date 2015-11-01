@@ -1,26 +1,25 @@
 * [mighttpd](https://hackage.haskell.org/package/mighttpd)
-* [Haskell から見た node.js](http://d.hatena.ne.jp/kazu-yamamoto/20110825/1314254885)
 * [Web](http://www.scs.stanford.edu/14sp-cs240h/slides/web-slides.lhtml)
-* [agrafix/Spock](https://github.com/agrafix/Spock)
 * [Overloading Monads for Html Deployment](https://www.fpcomplete.com/user/AthanClark/overloaded-monadic-deployment)
-* [apiary](https://hackage.haskell.org/package/apiary)
 * [Your Server as a Function](http://monkey.org/~marius/funsrv.pdf)
 * [Taking Authentication to the next Level](https://www.spock.li/2015/08/23/taking_authentication_to_the_next_level.html)
-* [bendyworks/api-server](https://github.com/bendyworks/api-server)
-* [Run secure WebSocket clients with Wuss](http://taylor.fausak.me/2015/06/04/run-secure-websocket-clients-with-wuss/)
 * [The Ur Programming Language Family](http://www.impredicative.com/ur/)
   * [04 An Optimizing Compiler for a Purely Functional Web Application Language](https://www.youtube.com/watch?v=McYhbIubeTc)
 * [kazu-yamamoto/logger](https://github.com/kazu-yamamoto/logger)
-* [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)* [Haskell でソケット通信をやってみる](http://yasutech.blogspot.jp/2012/01/haskell.html)
+* [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)
+* [Haskell でソケット通信をやってみる](http://yasutech.blogspot.jp/2012/01/haskell.html)
 * [socket](https://hackage.haskell.org/package/socket)
 * [HaNS](https://hackage.haskell.org/package/hans)
 * TLS/SSL implementation in haskell - [vincenthz/hs-tls](https://github.com/vincenthz/hs-tls)
+* [snoyberg/keter](https://github.com/snoyberg/keter)
+* [The HaskellNet package](http://hackage.haskell.org/package/HaskellNet)
+
+##Web Socket
+* [Haskell から見た node.js](http://d.hatena.ne.jp/kazu-yamamoto/20110825/1314254885)
 * [websockets](http://jaspervdj.be/websockets/)
 * [リアルタイム通信で利用されるプロトコルと手法](http://tech.guitarrapc.com/entry/2015/08/17/044937)
-* [snoyberg/keter](https://github.com/snoyberg/keter)
-* [Rest for Haskell](http://silkapp.github.io/rest/)
 * [rnons/shadowsocks-haskell](https://github.com/rnons/shadowsocks-haskell)
-* [The HaskellNet package](http://hackage.haskell.org/package/HaskellNet)
+* [Run secure WebSocket clients with Wuss](http://taylor.fausak.me/2015/06/04/run-secure-websocket-clients-with-wuss/)
 * [The wuss package](https://hackage.haskell.org/package/wuss)
 
 ##WAI/Warp
@@ -30,10 +29,14 @@
 * [Resurrecting servius](http://www.yesodweb.com/blog/2015/10/resurrecting-servius)
 * [Intro to Nested-Routes](http://athanclark.github.io/posts/2015-10-27-nested-routes-tut-1.html)
 
-##Scotty
-* [scotty-web/scotty](https://github.com/scotty-web/scotty)
+##Web Application Framework
+* [The scotty package](http://hackage.haskell.org/package/scotty)
+  * [bendyworks/api-server](https://github.com/bendyworks/api-server)
+* [Spock Web Framework](https://www.spock.li/)
+* [Rest for Haskell](http://silkapp.github.io/rest/)
+* [apiary](https://hackage.haskell.org/package/apiary)
 
-##Servant
+###Servant
 * [servant](http://haskell-servant.github.io/)
 * [parsonsmatt/servant-persistent](https://github.com/parsonsmatt/servant-persistent)
 * [haskell-servant の利用例とちょっとだけ仕組みの調査](http://krdlab.hatenablog.com/entry/2014/12/31/170158)
@@ -46,7 +49,7 @@
 * [Gabriel439/servant-crud](https://github.com/Gabriel439/servant-crud)
 * [Haskell Servant: Type-Level DSLs for Web APIs](https://www.youtube.com/watch?v=gMDiKOuwLXw)
 
-###Microservices
+####Microservices
 * [k-bx/owlcloud](https://github.com/k-bx/owlcloud)
 * [マイクロサービスが Scala を選ぶ３つの理由](http://okapies.hateblo.jp/entry/2014/11/25/010416)
   1. JVM 言語である
@@ -54,11 +57,11 @@
   3. 静的型付き言語である
 * [マイクロサービスのデザインパターン](https://uramoto.wordpress.com/2015/09/21/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3/)
 
-##Snap
+###Snap
 * [Snap](http://snapframework.com/)
 * [snaplet-postgresql-simple](https://hackage.haskell.org/package/snaplet-postgresql-simple)
 
-##Yesod
+###Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
 * [quick start guide](http://www.yesodweb.com/page/quickstart)
 * [tutorial](http://yannesposito.com/Scratch/en/blog/Yesod-tutorial-for-newbies/)
