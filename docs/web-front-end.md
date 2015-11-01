@@ -28,11 +28,13 @@
 
 ##HTML Template/DSL
 * Template - [shakespeare](https://hackage.haskell.org/package/shakespeare)
-* Template - [hastache](https://hackage.haskell.org/package/hastache)
-* Combinator - [blaze-html](http://hackage.haskell.org/package/blaze-html)
-  * [meiersi/blaze-react](https://github.com/meiersi/blaze-react)
 * [ede](https://hackage.haskell.org/package/ede)
 * [mustache](https://hackage.haskell.org/package/mustache)
+  * **Deprecated(?)** - [hastache](https://hackage.haskell.org/package/hastache)
+
+###Blaze
+* [blaze-html](http://hackage.haskell.org/package/blaze-html)
+* [meiersi/blaze-react](https://github.com/meiersi/blaze-react)
 
 ###Lucid
 * [chrisdone/lucid](https://github.com/chrisdone/lucid)
