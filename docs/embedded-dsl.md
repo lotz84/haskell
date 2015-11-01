@@ -23,11 +23,8 @@ instance Functor f => Monad (Free f) where
 * [Free monads are free](http://mbps.hatenablog.com/entry/2014/07/08/201210)
 * [Free monad](http://mbps.hatenablog.com/entry/2014/06/19/190518)
 * [Category of monads](http://mbps.hatenablog.com/entry/2014/06/26/123223)
-* [Free Monads for Less (Part 2 of 3): Yoneda](http://comonad.com/reader/2011/free-monads-for-less-2/)
 * [What is the difference between free monads and free monoids?](http://www.reddit.com/r/haskell/comments/2znhjk/what_is_the_difference_between_free_monads_and/)
 * [Interpreting Free Monads of Functor Sums](https://gist.github.com/avieth/334201aa341d9a00c7fc)
-* [Examining Hackage: operational](http://jozefg.bitbucket.org/posts/2014-12-27-folds.html)
-* [Free for DSLs, cofree for interpreters](http://dlaing.org/cofun/posts/free_and_cofree.html)
 * [Reasoning about Errors in Free Monads and Their Interpreters](http://aaronlevin.ca/post/122079863187/reasoning-about-errors-in-free-monads-and-their)
 * [Free Monads from Functors from GADTs](http://jstimpfle.de/fun/free-monads-gadts.html)
 * [Functional Pearl: A Smart View on Datatypes](http://www.fceia.unr.edu.ar/~mauro/pubs/smartviews/smartviews.pdf)
@@ -79,6 +76,7 @@ main = runProc proc
 * [EndによるYoneda lemma](http://mbps.hatenablog.com/entry/2014/04/04/044134)
 * [(Co)Yoneda reduction for free](http://mbps.hatenablog.com/entry/2014/04/12/074615)
 * [Co-Yoneda lemma in colimits](http://mbps.hatenablog.com/entry/2014/09/30/150836)
+* [Free Monads for Less (Part 2 of 3): Yoneda](http://comonad.com/reader/2011/free-monads-for-less-2/)
 
 ```haskell
 newtype Natural f g = Natural (forall x. f x -> g x)
@@ -96,11 +94,16 @@ yoneda f = Natural $ \ax -> fmap ax f
 * [09. Operationalモナド](https://sites.google.com/site/toriaezuzakki/haskell/operational)
 * [Yoneda lemmaとOperational Monad](http://myuon-myon.hatenablog.com/entry/2013/06/09/135407)
 * Operationalモナドは任意のモナドを実装できる [StateT s IO a](https://gist.github.com/lotz84/ec6b7cb737f12211ebd3)
+* [Examining Hackage: operational](http://jozefg.bitbucket.org/posts/2014-12-27-folds.html)
 
-##Ideal Monad
+###Ideal Monad
 * [究極のモナド「Idealモナド」を垣間見る](http://fumieval.hatenablog.com/entry/2013/01/04/110339)
 * [究極のモナド「Idealモナド」を垣間見る(続/その0)](http://fumieval.hatenablog.com/entry/2013/01/07/113221)
 * [What is the correct definition of ideal monads?](http://theorylunch.wordpress.com/2012/11/22/what-is-the-correct-definition-of-ideal-monads/)
+
+###Cofree
+* [Free for DSLs, cofree for interpreters](http://dlaing.org/cofun/posts/free_and_cofree.html)
+* [Cofun with Cofree Comonads](https://yow.eventer.com/yow-lambda-jam-2015-1305/cofun-with-cofree-comonads-by-david-laing-1891)
 
 ##The Expression Problem
 * [The Expression Problem](http://maoe.hatenadiary.jp/entry/20101214/1292337923)
