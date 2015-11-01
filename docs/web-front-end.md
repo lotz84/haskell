@@ -27,10 +27,9 @@
 * [purescript/purescript-free](https://github.com/purescript/purescript-free)
 
 ##HTML Template/DSL
-* Template - [shakespeare](https://hackage.haskell.org/package/shakespeare)
+* [shakespeare](https://hackage.haskell.org/package/shakespeare)
 * [ede](https://hackage.haskell.org/package/ede)
 * [mustache](https://hackage.haskell.org/package/mustache)
-  * **Deprecated(?)** - [hastache](https://hackage.haskell.org/package/hastache)
 
 ###Blaze
 * [blaze-html](http://hackage.haskell.org/package/blaze-html)
