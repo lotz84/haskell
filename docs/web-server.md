@@ -13,6 +13,7 @@
 * TLS/SSL implementation in haskell - [vincenthz/hs-tls](https://github.com/vincenthz/hs-tls)
 * [snoyberg/keter](https://github.com/snoyberg/keter)
 * [The HaskellNet package](http://hackage.haskell.org/package/HaskellNet)
+* [Haskell Web Development: A Freely Available Book](https://www.indiegogo.com/projects/haskell-web-development-a-freely-available-book#/)
 
 ##Web Socket
 * [Haskell から見た node.js](http://d.hatena.ne.jp/kazu-yamamoto/20110825/1314254885)
