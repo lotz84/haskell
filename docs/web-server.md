@@ -1,3 +1,4 @@
+* [HaskellでWebAppの開発に必要なN個のこと](http://maoe.hatenadiary.jp/entry/2013/09/10/182914)
 * [mighttpd](https://hackage.haskell.org/package/mighttpd)
 * [Web](http://www.scs.stanford.edu/14sp-cs240h/slides/web-slides.lhtml)
 * [Overloading Monads for Html Deployment](https://www.fpcomplete.com/user/AthanClark/overloaded-monadic-deployment)
@@ -14,6 +15,7 @@
 * [snoyberg/keter](https://github.com/snoyberg/keter)
 * [The HaskellNet package](http://hackage.haskell.org/package/HaskellNet)
 * [Haskell Web Development: A Freely Available Book](https://www.indiegogo.com/projects/haskell-web-development-a-freely-available-book#/)
+* [stackを使ってhaskellで最小のWeb Applicationしてみる](http://qiita.com/eielh/items/09b9f1c21f7d16e09ede)
 
 ##Web Socket
 * [Haskell から見た node.js](http://d.hatena.ne.jp/kazu-yamamoto/20110825/1314254885)
