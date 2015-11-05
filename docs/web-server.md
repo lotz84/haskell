@@ -52,6 +52,7 @@
 * [Gabriel439/servant-crud](https://github.com/Gabriel439/servant-crud)
 * [Haskell Servant: Type-Level DSLs for Web APIs](https://www.youtube.com/watch?v=gMDiKOuwLXw)
 * [The lackey package](https://hackage.haskell.org/package/lackey)
+* [The servant-swagger package](https://hackage.haskell.org/package/servant-swagger)
 
 ####Microservices
 * [k-bx/owlcloud](https://github.com/k-bx/owlcloud)
