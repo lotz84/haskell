@@ -52,6 +52,9 @@ sieve (p:xs) = p : sieve [x | x <- xs, x `mod` p /= 0]
 * [A community maintained course for learning Haskell](http://openhaskell.com/)
 * [Learning Real Haskell Incrementally](http://begriffs.com/posts/2015-10-24-learning-haskell-incrementally.html)
 * [Haskell Basics](http://www.sonarlearning.co.uk/coursepage.php?topic=desktop&course=haskell-basics)
+* [Design Patterns in Haskell](http://blog.ezyang.com/2010/05/design-patterns-in-haskel/)
+* [Haskell Design Patterns](https://www.packtpub.com/application-development/haskell-design-patterns)
+* [The category design pattern](http://www.haskellforall.com/2012/08/the-category-design-pattern.html)
 
 ##Editor
 * [Leksah](http://leksah.org/)
