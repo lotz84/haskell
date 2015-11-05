@@ -51,6 +51,7 @@ sieve (p:xs) = p : sieve [x | x <- xs, x `mod` p /= 0]
 * [参照透過性とは何だったのか](http://www.slideshare.net/RuiccRail/haskell-day2012)
 * [A community maintained course for learning Haskell](http://openhaskell.com/)
 * [Learning Real Haskell Incrementally](http://begriffs.com/posts/2015-10-24-learning-haskell-incrementally.html)
+* [Haskell Basics](http://www.sonarlearning.co.uk/coursepage.php?topic=desktop&course=haskell-basics)
 
 ##Editor
 * [Leksah](http://leksah.org/)
