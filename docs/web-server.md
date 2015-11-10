@@ -18,6 +18,7 @@
 * [stackを使ってhaskellで最小のWeb Applicationしてみる](http://qiita.com/eielh/items/09b9f1c21f7d16e09ede)
 * [A lot of websockets in Haskell](https://blog.wearewizards.io/a-lot-of-websockets-in-haskell)
 * [How I deploy Haskell Code](http://www.alfredodinapoli.com/posts/2015-11-03-how-i-deploy-haskell-code.html)
+* [The smtp-mail package](https://hackage.haskell.org/package/smtp-mail)
 
 ##Web Socket
 * [Haskell から見た node.js](http://d.hatena.ne.jp/kazu-yamamoto/20110825/1314254885)
