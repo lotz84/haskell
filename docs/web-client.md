@@ -12,6 +12,8 @@
   * [http-client](https://hackage.haskell.org/package/http-client)
   * [http-client-tls](https://hackage.haskell.org/package/http-client-tls)
   * [http-conduit](http://hackage.haskell.org/package/http-conduit)
+  * [pipes-http](https://hackage.haskell.org/package/pipes-http)
+  * [http-streams](https://hackage.haskell.org/package/http-streams)
 * **OAuth**
   * [hoauth2](http://hackage.haskell.org/package/hoauth2)
 * **Twitter**
