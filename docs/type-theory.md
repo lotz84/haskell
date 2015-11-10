@@ -90,6 +90,7 @@
 * [06 Dependent Types Effects and Efficient Verification Conditions in F star](https://www.youtube.com/watch?v=em_tDc1Gc40)
 * [Designing Dependently-Typed Programming Languages - Lecture 1 - Stephanie Weirich](https://www.youtube.com/watch?v=AT4JJm_ujRg)
 * [Dependent Types for Low-Level Programming](http://www.cs.berkeley.edu/~necula/Papers/deputy-esop07.pdf)
+* [Unified Interpreters For Dependent Languages](http://gallabytes.com/2015/10/Unified-Interpreters-For-Dependent-Languages.html)
 
 ##Homotopy Theory
 * Allen Hatcher - [Algebraic Topology](http://www.math.cornell.edu/~hatcher/AT/AT.pdf)
