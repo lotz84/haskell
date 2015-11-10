@@ -54,6 +54,7 @@
 * [Implementing a JIT Compiled Language with Haskell and LLVM](http://www.stephendiehl.com/llvm/)
 
 ###GHC拡張
+* [Language.Haskell.Extension](http://downloads.haskell.org/~ghc/latest/docs/html/libraries/Cabal-1.22.4.0/Language-Haskell-Extension.html)
 * [GHCanIUse](http://damianfral.github.io/ghcaniuse/)
 * [24 Days of GHC Extensions](https://ocharles.org.uk/blog/pages/2014-12-01-24-days-of-ghc-extensions.html)
 * [Language extensions](http://www.scs.stanford.edu/14sp-cs240h/slides/extensions-slides.html)
