@@ -29,6 +29,9 @@
 
 transformersにはMonad Transformerを新しく定義する度に全ての組み合わせの実装を定義する必要があるという問題点がある。
 
+* [Avoiding lift with Monad Transformers](http://stackoverflow.com/questions/9054731/avoiding-lift-with-monad-transformers)
+* [If you’re using lift, you’re doing it wrong (probably)](http://blog.ezyang.com/2013/09/if-youre-using-lift-youre-doing-it-wrong-probably/)
+
 ###monad-control
 * [モナドトランスフォーマーとmonad-control](http://maoe.hatenadiary.jp/entry/20111207/1323185162)
 * [monad-control](https://hackage.haskell.org/package/monad-control)
