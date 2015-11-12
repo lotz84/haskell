@@ -27,3 +27,5 @@ csv = QuasiQuoter
 >>> [csv|1,2,3|]
 ["1","2","3"]
 ```
+
+* [Pre-Proposal: Introspective Template Haskell](https://mail.haskell.org/pipermail/ghc-devs/2015-November/010402.html)
