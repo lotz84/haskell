@@ -20,6 +20,7 @@
 * [Strange Loop: "Propositions as Types" by Philip Wadler](http://wadler.blogspot.jp/2015/10/strange-loop-propositions-as-types-by.html)
 * [Gabriel439/Haskell-Morte-Library](https://github.com/Gabriel439/Haskell-Morte-Library)
 * [type-theory/type-theory-study-group-2015](https://github.com/type-theory/type-theory-study-group-2015)
+* [Program Synthesis from Polymorphic Refinement Types](http://arxiv.org/abs/1510.08419)
 
 ##Lambda Calculus
 * [Alligator Eggs](http://www.jmuk.org/AlligatorEggs.html)
