@@ -1,7 +1,7 @@
 ##FPComplete
 * [FPComplete](https://www.fpcomplete.com/)
 * [HASKELL IN ENTERPRISE](https://snoyberg.github.io/2015-08-30-tel-aviv-haskell-in-enterprise.html#/)
-* [HASKELL FOR FAST, CONCURRENT, ROBUST SERVICES](http://snoyberg.github.io/generated/2015-11-10-twitter-haskell-fast-concurrent-robust-services.html#/)
+* [HASKELL FOR FAST, CONCURRENT, ROBUST SERVICES](http://snoyberg.github.io/generated/2015-11-10-twitter-haskell-fast-concurrent-robust-services.html#/) [[video](https://www.youtube.com/watch?v=6bkWvfI7QDQ)]
 
 ##Well-Typed
 * [Well-Typed](http://www.well-typed.com/)
