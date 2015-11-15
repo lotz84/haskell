@@ -38,6 +38,7 @@
 ###Lucid
 * [chrisdone/lucid](https://github.com/chrisdone/lucid)
 * [Lucid: templating DSL for HTML](http://chrisdone.com/posts/lucid)
+* [lucid-svg](http://hackage.haskell.org/package/lucid-svg)
 
 ```haskell
 indexHtml :: Html ()
