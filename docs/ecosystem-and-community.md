@@ -1,12 +1,15 @@
-* [Hackage](http://hackage.haskell.org/)
-* [Hackage Dependency Monitor](http://packdeps.haskellers.com/)
 * [Hoogle](https://www.haskell.org/hoogle/)
 * [Hayoo!](http://hayoo.fh-wedel.de/)
+
+##Cabal
+* [Hackage](http://hackage.haskell.org/)
+* [Hackage Dependency Monitor](http://packdeps.haskellers.com/)
+* [Cabalでビルド時にProtocol Buffersファイルをコンパイルする](http://qiita.com/yunomu/items/a8ef65dccc1c085b7c0d)
+
+##Stack
 * [Stackage](https://www.stackage.org/)
    * [Announcing stackage-update](http://www.yesodweb.com/blog/2015/04/announcing-stackage-update)
    * [Stackage Badges](https://www.fpcomplete.com/blog/2015/10/stackage-badges)
-
-##Stack
 * [Haskellのビルドツール"stack"の紹介](http://qiita.com/tanakh/items/6866d0f570d0547df026)
 * [Stackでやる最速Haskell Hello world! (GHCのインストール付き！)](http://qiita.com/igrep/items/da1d8df6d40eb001a561)
 * [Stackを使って楽しくHaskellスクリプティング](http://qiita.com/tanakh/items/1ca4ba9e1f5006a30106)
