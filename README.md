@@ -15,7 +15,7 @@
     2.  [代数的データ型](docs/algebraic-data-type.md)
     3.  [データ構造とアルゴリズム](handbook/1-1.md)
     4.  [型クラスと抽象](handbook/1-2.md)
-        1. [Functor, Applicative, Monad](handbook/1-2-1.md)
+        1. [Functor, Applicative, Monad](docs/functor-applicative-monad.md)
     5.  [モナド交換子](docs/monad-transformers.md)
     6.  [パーサー](docs/parser.md)
     7.  [継続](handbook/1-4.md)
