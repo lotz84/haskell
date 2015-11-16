@@ -98,7 +98,7 @@ class Monad m where
 * [From Imperative to Pure-Functional and Back Again: Monads vs. Scoped Continuations](http://blog.paralleluniverse.co/2015/08/07/scoped-continuations/)
 * [Monads need not be endofunctors](http://arxiv.org/abs/1412.7148)
 * [Burritos for the Hungry Mathematician](http://www.cs.cmu.edu/~edmo/silliness/burrito_monads.pdf)
-* [Free Monad](docs/embedded-dsl.md#free-monad)
+* [Free Monad](embedded-dsl.md#free-monad)
 
 ```haskell
 do x <- mx
