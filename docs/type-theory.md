@@ -21,6 +21,7 @@
 * [Gabriel439/Haskell-Morte-Library](https://github.com/Gabriel439/Haskell-Morte-Library)
 * [type-theory/type-theory-study-group-2015](https://github.com/type-theory/type-theory-study-group-2015)
 * [Program Synthesis from Polymorphic Refinement Types](http://arxiv.org/abs/1510.08419)
+* [型推論を実装してみる](http://qiita.com/tyfkda/items/25062cabd7df904bada3)
 
 ##Lambda Calculus
 * [Alligator Eggs](http://www.jmuk.org/AlligatorEggs.html)
