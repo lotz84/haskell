@@ -53,6 +53,7 @@ evenElements xs = filter even xs
 
 * [foldl](https://hackage.haskell.org/package/foldl)
 * [Examining Hackage: folds](http://jozefg.bitbucket.org/posts/2014-12-27-folds.html)
+* [A tutorial on the universality and expressiveness of fold](http://www.cs.nott.ac.uk/~gmh/fold.pdf)
 
 ##リスト
 * [(cons cat (cons cat nil))](https://twitter.com/lvsn/status/533685461957349376)
