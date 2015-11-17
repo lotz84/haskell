@@ -48,6 +48,7 @@
 * [A small Haskell extension](http://augustss.blogspot.jp/2014/04/a-small-haskell-extension.html)
 * [OverloadedRecordFields design](https://ghc.haskell.org/trac/ghc/wiki/Records/OverloadedRecordFields/Design)
 * [GADTs meet their match](http://research.microsoft.com/en-us/um/people/simonpj/papers/pattern-matching/gadtpm.pdf)
+* [Strict Haskell](http://d.hatena.ne.jp/kazu-yamamoto/20151117/1447726679)
 
 ###LLVM
 * [LLVM フレームワークで実用的なコンパイラーを作成する: 第 1 回](http://www.ibm.com/developerworks/jp/opensource/library/os-createcompilerllvm1/index.html)
