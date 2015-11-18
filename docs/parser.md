@@ -36,3 +36,4 @@ parse = evalStateT
 * [Simple Monadic Parser in Haskell](http://michal.muskala.eu/2015/09/23/simple-monadic-parser-in-haskell.html)
 * [mchakravarty/language-swift-quote](https://github.com/mchakravarty/language-swift-quote)
 * [Tries and elegant Scope Checking](http://jaspervdj.be/posts/2015-10-30-tries-scope-checking.html)
+* [Packrat Parsing: Simple, Powerful, Lazy, Linear Time](http://bford.info/pub/lang/packrat-icfp02.pdf)
