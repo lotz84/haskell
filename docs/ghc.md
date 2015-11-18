@@ -6,6 +6,7 @@
 
 ##GHC
 * [GHC Speed](https://perf.haskell.org/ghc/#)
+* [Glasgow Haskell Compiler Users Guide](http://downloads.haskell.org/~ghc/master/users-guide/)
 * [栄光のグラスゴーHaskellコンパイルシステム利用の手引き](http://www.kotha.net/ghcguide_ja/latest/)
 * [Haskell Hierarchical Libraries](https://downloads.haskell.org/~ghc/latest/docs/html/libraries/index.html)
 * [The Glasgow Haskell Compiler](http://www.aosabook.org/en/ghc.html)
