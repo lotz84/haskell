@@ -43,12 +43,13 @@
 * [Foldable Traversable In Prelude](https://wiki.haskell.org/Foldable_Traversable_In_Prelude)
 * [Foldable for non-Haskellers: Haskell's controversial FTP proposal](http://tojans.me/blog/2015/10/13/foldable-for-non-haskellers-haskells-controversial-ftp-proposal/)
 
-###8.0
+###8.0.1
 * [GHC plans for 8.0.1](https://ghc.haskell.org/trac/ghc/wiki/Status/GHC-8.0.1)
 * [Planning for the 7.12 release](http://thread.gmane.org/gmane.comp.lang.haskell.ghc.devel/9466)
 * [A small Haskell extension](http://augustss.blogspot.jp/2014/04/a-small-haskell-extension.html)
 * [OverloadedRecordFields design](https://ghc.haskell.org/trac/ghc/wiki/Records/OverloadedRecordFields/Design)
 * [GADTs meet their match](http://research.microsoft.com/en-us/um/people/simonpj/papers/pattern-matching/gadtpm.pdf)
+* [The design of the Strict Haskell pragma](http://blog.johantibell.com/2015/11/the-design-of-strict-haskell-pragma.html)
 * [Strict Haskell](http://d.hatena.ne.jp/kazu-yamamoto/20151117/1447726679)
 
 ###LLVM
