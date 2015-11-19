@@ -16,9 +16,16 @@
 * [The HaskellNet package](http://hackage.haskell.org/package/HaskellNet)
 * [Haskell Web Development: A Freely Available Book](https://www.indiegogo.com/projects/haskell-web-development-a-freely-available-book#/)
 * [stackを使ってhaskellで最小のWeb Applicationしてみる](http://qiita.com/eielh/items/09b9f1c21f7d16e09ede)
-* [A lot of websockets in Haskell](https://blog.wearewizards.io/a-lot-of-websockets-in-haskell)
-* [How I deploy Haskell Code](http://www.alfredodinapoli.com/posts/2015-11-03-how-i-deploy-haskell-code.html)
 * [The smtp-mail package](https://hackage.haskell.org/package/smtp-mail)
+
+##Hakyll
+* [Hakyll](http://jaspervdj.be/hakyll/)
+* [Hakyllを使ってGitHub Pagesを作成して、そのソースも管理して、Travis CIで自動デプロイする。](http://imokuri123.com/blog/2015/04/create-github-pages-with-hakyll.html)
+* [Hakyllでページング](http://qiita.com/hiratara/items/714d890e1b363f06c2d3)
+
+##Docker
+* [How I deploy Haskell Code](http://www.alfredodinapoli.com/posts/2015-11-03-how-i-deploy-haskell-code.html)
+* [Docker Hosting – Run Docker Containers in any Cloud - Tutum](https://www.tutum.co/)
 
 ##Web Socket
 * [Haskell から見た node.js](http://d.hatena.ne.jp/kazu-yamamoto/20110825/1314254885)
@@ -27,6 +34,7 @@
 * [rnons/shadowsocks-haskell](https://github.com/rnons/shadowsocks-haskell)
 * [Run secure WebSocket clients with Wuss](http://taylor.fausak.me/2015/06/04/run-secure-websocket-clients-with-wuss/)
 * [The wuss package](https://hackage.haskell.org/package/wuss)
+* [A lot of websockets in Haskell](https://blog.wearewizards.io/a-lot-of-websockets-in-haskell)
 
 ##WAI/Warp
 * [wai](https://hackage.haskell.org/package/wai)
@@ -85,3 +93,16 @@
 * [yesod-table](http://www.yesodweb.com/blog/2015/07/yesod-table)
 * [thoughtbot/yesod-auth-oauth2](https://github.com/thoughtbot/yesod-auth-oauth2)
 * [Progress with wai-devel](http://blog.urbanslug.com/programming/haskell/wai/wai-devel/2015/08/13/Progress-with-wai-devel.html)
+
+##Heroku
+* [Deploying Haskell to Heroku using Docker](http://www.reddit.com/r/haskell/comments/35he88/deploying_haskell_to_heroku_using_docker/)
+
+###Haskell on Heroku
+* [Haskell on Heroku](https://haskellonheroku.com/)
+* [Halcyon](https://halcyon.sh/)
+
+```bash
+$ heroku config:set HALCYON_GHC_VERSION=7.10.1
+$ heroku config:set HALCYON_CABAL_VERSION=1.22.6.0
+$ heroku config:set HALCYON_NO_BUILD_DEPENDENCIES=0
+```
