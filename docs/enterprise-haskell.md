@@ -6,6 +6,9 @@
 ##Well-Typed
 * [Well-Typed](http://www.well-typed.com/)
 
+##Galois
+* [Galois](http://galois.com/)
+
 ##Facebook
 * [Descent into Haskell (Part I)](https://www.facebook.com/notes/10153092264418543/)
 * [Fighting spam with Haskell](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/)
