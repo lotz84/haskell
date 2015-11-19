@@ -1,31 +1,55 @@
-##FPComplete
+##コミュニティ
+* [New York Haskell Users Group](http://www.meetup.com/NY-Haskell/)
+* [Google+](https://plus.google.com/communities/104818126031270146189)
+* [Facebook](https://www.facebook.com/groups/programming.haskell)
+* [Reddit](http://www.reddit.com/r/haskell/)
+* [IRC channel](https://wiki.haskell.org/IRC_channel)
+* [Hackage Matrix Builder](http://matrix.hackage.haskell.org/)
+
+###日本
+* [Tokyo Haskell Meetup](http://www.meetup.com/Tokyo-Haskell-Meetup/)
+* [Chaton haskell-ja](http://chaton.practical-scheme.net/haskell-ja/)
+* [HaskellJP](http://wiki.haskell.jp/)
+* [Haskell(ja)](https://plus.google.com/communities/107562694527758263007)
+
+###Conference
+* [ICFP 2015](http://icfpconference.org/icfp2015/)
+  * [mpickering/icfp2015-papers](https://github.com/mpickering/icfp2015-papers)
+  * [ICFP Video](https://www.youtube.com/channel/UCwRL68qZFfub1Ep1EScfmBw)
+* [JSSST-SIGPPL](http://ppl.jssst.or.jp/)
+* [International Conference on Functional Programming](http://www.icfpconference.org/)
+* [gasche/popl2016-papers](https://github.com/gasche/popl2016-papers)
+* [yallop/haskell2014-papers](https://github.com/yallop/haskell2014-papers)
+
+##企業
+###FPComplete
 * [FPComplete](https://www.fpcomplete.com/)
 * [HASKELL IN ENTERPRISE](https://snoyberg.github.io/2015-08-30-tel-aviv-haskell-in-enterprise.html#/)
 * [HASKELL FOR FAST, CONCURRENT, ROBUST SERVICES](http://snoyberg.github.io/generated/2015-11-10-twitter-haskell-fast-concurrent-robust-services.html#/) [[video](https://www.youtube.com/watch?v=6bkWvfI7QDQ)]
 
-##Well-Typed
+###Well-Typed
 * [Well-Typed](http://www.well-typed.com/)
 
-##Galois
+###Galois
 * [Galois](http://galois.com/)
 
-##Facebook
+###Facebook
 * [Descent into Haskell (Part I)](https://www.facebook.com/notes/10153092264418543/)
 * [Fighting spam with Haskell](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/)
 * [The Road to Running Haskell at Facebook Scale - Jon Coens](https://www.youtube.com/watch?v=sl2zo7tzrO8)
 * [Facebook’s New Spam-Killer Hints at the Future of Coding](http://www.wired.com/2015/09/facebooks-new-anti-spam-system-hints-future-coding/)
 
-##Microsoft
+###Microsoft
 * [Simon Peyton Jones - Microsoft Research](http://research.microsoft.com/en-us/people/simonpj/)
 * [BlockApps Strato](http://blockapps.net/pdfs/blockapps-strato-microsoft-partnership.pdf)
 
-##Prezi
+###Prezi
 * [Case Study - Haskell at Prezi](https://www.fpcomplete.com/page/case-study-prezi)
 
-##Tsuru Capital
+###Tsuru Capital
 * [Tsuru Capital](http://www.tsurucapital.com/en/)
 
-##Square
+###Square
 * [Haskell in Production - Square Tech Talk](https://www.wagonhq.com/blog/square-tech-talk)
 
 ##主な企業のHaskellレポジトリ
