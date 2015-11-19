@@ -51,6 +51,7 @@
 * [GADTs meet their match](http://research.microsoft.com/en-us/um/people/simonpj/papers/pattern-matching/gadtpm.pdf)
 * [The design of the Strict Haskell pragma](http://blog.johantibell.com/2015/11/the-design-of-strict-haskell-pragma.html)
 * [Strict Haskell](http://d.hatena.ne.jp/kazu-yamamoto/20151117/1447726679)
+* [Custom Type Errors](https://ghc.haskell.org/trac/ghc/wiki/Proposal/CustomTypeErrors)
 
 ###LLVM
 * [LLVM フレームワークで実用的なコンパイラーを作成する: 第 1 回](http://www.ibm.com/developerworks/jp/opensource/library/os-createcompilerllvm1/index.html)
