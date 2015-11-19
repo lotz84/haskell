@@ -46,6 +46,10 @@ parse = evalStateT
 ###CSV
 * [cassava](https://hackage.haskell.org/package/cassava)
 
+###XML
+* [xml-conduit](https://hackage.haskell.org/package/xml-conduit)
+  * [xml-lens](https://hackage.haskell.org/package/xml-lens)
+
 ###JSON
 * [aeson](http://hackage.haskell.org/package/aeson)
   * [Aeson: the tutorial](http://artyom.me/aeson)
