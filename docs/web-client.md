@@ -4,8 +4,6 @@
 * [msgpack/msgpack-haskell](https://github.com/msgpack/msgpack-haskell)
 * [Creating a BitTorrent client in Haskell](https://blog.chaps.io/2015/10/05/torrent-client-in-haskell-1.html)
 * [basvandijk/rss](https://github.com/basvandijk/rss)
-* [xml-conduit](https://hackage.haskell.org/package/xml-conduit)
-  * [xml-lens](https://hackage.haskell.org/package/xml-lens)
 
 ##Client
 * **HTTP/HTTPS**
