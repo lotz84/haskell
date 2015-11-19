@@ -30,7 +30,7 @@
     16. [テストとデバッグ](handbook/3-4.md)
 3. [数学とHaskell](docs/mathematics-and-haskell.md)
 4. [実践Haskell](handbook/3-0.md)
-    1. [企業とHaskell](docs/enterprise-haskell.md)
+    1. [社会とHaskell](docs/society-and-haskell.md)
     2. [Graphics/Game](docs/graphics.md)
     3. Web Programming
         1. [Front End](docs/web-front-end.md)
