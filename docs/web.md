@@ -4,16 +4,6 @@
 * [Docker Hosting – Run Docker Containers in any Cloud - Tutum](https://www.tutum.co/)
 * [k0ral/hbro](https://github.com/k0ral/hbro)
 
-##JSON
-* [aeson](http://hackage.haskell.org/package/aeson)
-  * [Aeson: the tutorial](http://artyom.me/aeson)
-  * [AesonでJSONをパース・生成する方法まとめ](http://qiita.com/alpha22jp/items/4cc65f128962e11811fb)
-* [aeson-schema](https://hackage.haskell.org/package/aeson-schema)
-  * [timjb/aeson-schema](https://github.com/timjb/aeson-schema)
-* [The aeson-yak package](http://hackage.haskell.org/package/aeson-yak)
-* [lens-aeson](https://hackage.haskell.org/package/lens-aeson)
-* [buffer-builder](https://hackage.haskell.org/package/buffer-builder)
-
 ##Hakyll
 * [Hakyll](http://jaspervdj.be/hakyll/)
 * [Hakyllを使ってGitHub Pagesを作成して、そのソースも管理して、Travis CIで自動デプロイする。](http://imokuri123.com/blog/2015/04/create-github-pages-with-hakyll.html)
