@@ -26,7 +26,7 @@
 
 出典: [課題４](http://web.yl.is.s.u-tokyo.ac.jp/kobalab/kadai99/kadai4.html)
 
-#カリー＝ハワード同型対応
+##カリー＝ハワード同型対応
 * [Lectures on the Curry-Howard Isomorphism (1998)](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.17.7385)
 
 ##圏論
