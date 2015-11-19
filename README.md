@@ -28,8 +28,8 @@
     14. [型レベルプログラミング](handbook/1-11.md)
     15. [Template Haskell](docs/template-haskell.md)
     16. [テストとデバッグ](handbook/3-4.md)
-2. [エコシステムとコミュニティ](docs/ecosystem-and-community.md)
-3. [実践Haskell](handbook/3-0.md)
+3. [数学とHaskell](docs/mathematics-and-haskell.md)
+4. [実践Haskell](handbook/3-0.md)
     1. [企業とHaskell](docs/enterprise-haskell.md)
     2. [Graphics/Game](docs/graphics.md)
     3. Web Programming
@@ -42,10 +42,6 @@
     5. [機械学習](https://github.com/lotz84/machine-learning)
     6. [Blockchain](docs/blockchain.md)
     7. [GHCと最適化](docs/ghc.md)
-4. [計算の基礎](handbook/5-0.md)
-    1. [論理学/証明論](handbook/5-1.md)
-    2. [型理論/HoTT](docs/type-theory.md)
-    3. [圏論](handbook/5-3.md)
 
 ##Related works
 * [State of the Haskell ecosystem - August 2015](http://www.haskellforall.com/2015/08/state-of-haskell-ecosystem-august-2015.html)
