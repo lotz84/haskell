@@ -7,6 +7,7 @@
 * [Well-Typed](http://www.well-typed.com/)
 
 ##Facebook
+* [Descent into Haskell (Part I)](https://www.facebook.com/notes/10153092264418543/)
 * [Fighting spam with Haskell](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/)
 * [The Road to Running Haskell at Facebook Scale - Jon Coens](https://www.youtube.com/watch?v=sl2zo7tzrO8)
 * [Facebook’s New Spam-Killer Hints at the Future of Coding](http://www.wired.com/2015/09/facebooks-new-anti-spam-system-hints-future-coding/)
