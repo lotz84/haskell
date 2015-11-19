@@ -15,6 +15,8 @@
 * [ghc-ios/ghc-ios-scripts](https://github.com/ghc-ios/ghc-ios-scripts)
 * [language-c-inline](https://hackage.haskell.org/package/language-c-inline)
 * [mchakravarty/language-c-inline - wiki](https://github.com/mchakravarty/language-c-inline/wiki)
+* [Haskell - GHC for iOS : OpenGLで3Dグラフィックスを表示してみる、の準備](http://blog.euphonictech.com/entry/2015/03/01/194126)
+* [Using Haskell in an Xcode Cocoa project](https://wiki.haskell.org/Using_Haskell_in_an_Xcode_Cocoa_project)
 
 ##Android
 * [Android](https://wiki.haskell.org/Android)
