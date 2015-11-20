@@ -83,16 +83,6 @@
 * [EKG: Remote monitoring of running processes over HTTP](https://github.com/tibbe/ekg#readme)
 * [Record X11 window using ffmpeg](http://lpaste.net/145533)
 
-##Rust
-* [Rust Documentation](http://doc.rust-lang.org/stable/)
-* [The Rust Programming Language](http://doc.rust-lang.org/stable/book/README.html)
-* [Introduction Rust for Creating Your Operating System](http://qiita.com/mopp/items/9c816d58104752180207)
-
-##データ分析基盤
-* [Soostone/hadron](https://github.com/Soostone/hadron)
-* [Executable specification of MapReduce](http://kenta.blogspot.jp/2015/09/ajoyvtsr-type-signature-of-mapreduce.html)
-* [The riak package](https://hackage.haskell.org/package/riak)
-
 ##FFI
 * [inline-c](https://hackage.haskell.org/package/inline-c)
 * [FFI使ってC++バインディングに入門](http://mymo.blog8.fc2.com/blog-entry-52.html)
@@ -104,17 +94,6 @@
 * [Combining Rust and Haskell](http://tab.snarc.org/posts/haskell/2015-09-29-rust-with-haskell.html)
 * [language-c-quote](https://hackage.haskell.org/package/language-c-quote)
 * [Calling Python libraries from Haskell](https://john-millikin.com/articles/ride-the-snake/)
-
-##例外処理
-* <https://twitter.com/GabrielG439/status/656202814121574400>
-* [Haskell での例外処理](http://d.hatena.ne.jp/kazu-yamamoto/20120604/1338802792)
-* [Haskellでの例外処理(その2)](http://d.hatena.ne.jp/kazu-yamamoto/20120605/1338871044)
-* [Exceptions Best Practices](https://www.fpcomplete.com/user/commercial/content/exceptions-best-practices)
-* [Lightweight Checked Exceptions in Haskell](http://www.well-typed.com/blog/2015/07/checked-exceptions/)
-* [ERRORS AND EXCEPTIONS IN HASKELL](http://www.stackbuilders.com/news/errors-and-exceptions-in-haskell)
-* [errors](http://hackage.haskell.org/package/errors)
-* [The exceptions package](http://hackage.haskell.org/package/exceptions)
-* [The retry package](https://hackage.haskell.org/package/retry)
 
 ----
 
