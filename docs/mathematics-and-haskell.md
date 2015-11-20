@@ -114,6 +114,7 @@
 * [Equality in Lambda Calculus, Weak Universality in Category Theory and Reversible Computations](http://www.irit.fr/~Sergei.Soloviev/guitard_wu1.pdf)
 * [Call-by-Value is Dual to Call-by-Name](http://homepages.inf.ed.ac.uk/wadler/papers/dual/dual.pdf)
 * [Call-by-Value is Dual to Call-by-Name, Reloaded](http://homepages.inf.ed.ac.uk/wadler/papers/dual-reloaded/dual-reloaded.pdf)
+* [Alternative to the Church, Scott and Parigot encodings of data on the Lambda Calculus.](http://maiavictor.github.io/2015/11/18/church-scott-perigot-encodings/)
 
 ###SLC
 * [Declarative Continuations and Categorical Duality](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.43.8729&rep=rep1&type=pdf)
