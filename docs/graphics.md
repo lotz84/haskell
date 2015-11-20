@@ -20,6 +20,7 @@
 * [diagrams](http://projects.haskell.org/diagrams/)
   * [Diagrams: Composition, Envelopes and Alignment Part 1](https://www.youtube.com/watch?v=5_fCUSOn7m0)
   * [Diagrams: Composition, Envelopes and Alignment Part 2](https://www.youtube.com/watch?v=nZCzsBOYdis)
+* [Interactive and composable charts](http://www.haskellforall.com/2015/11/interactive-and-composable-charts.html)
 * [smoothie](https://hackage.haskell.org/package/smoothie)
 * [Symbolic Calculus in Haskell](http://5outh.blogspot.in/2013/05/symbolic-calculus-in-haskell.html)
 * [prowdsponsor/diagrams-qrcode](https://github.com/prowdsponsor/diagrams-qrcode)
