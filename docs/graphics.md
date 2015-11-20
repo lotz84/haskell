@@ -27,6 +27,7 @@
 * [Constraint Solver](http://www.mattkeeter.com/projects/constraints/)
 * [The dimensional package](http://hackage.haskell.org/package/dimensional)
 * [Floating Point: A Faustian Bargain?](https://idontgetoutmuch.wordpress.com/2015/11/12/floating-point-a-faustian-bargain/)
+* [Comonad and Sierpinski gasket](http://nbviewer.ipython.org/urls/gist.githubusercontent.com/miguel-negrao/571be4120ebecdbb3e26/raw/b740adc557fe097f9c6ff66ff7349bbf0a095091/gistfile1.txt)
 
 ##Gloss
 * [gloss](http://hackage.haskell.org/package/gloss)
