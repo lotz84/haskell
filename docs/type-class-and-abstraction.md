@@ -1,7 +1,8 @@
 #型クラスと抽象
 
-##型クラス
-→導入
+![](https://i.gyazo.com/51a4265483dc39c8c43d90a1e60f4fac.jpg)
+
+出典: <https://wiki.haskell.org/wikiupload/8/85/TMR-Issue13.pdf>
 
 ###宣言
 
@@ -23,6 +24,7 @@ instance Show Bool where
 これで`Bool`型はShowのインスタンスになる。
 例えば`print :: Show a => a -> IO ()`の型`a`にはShowのインスタンスであれば何でも使うことが出来る。
 
+* [Haskell/Classes and types](https://en.wikibooks.org/wiki/Haskell/Classes_and_types)
 * [The Typeclassopediaを訳しました](http://snak.tdiary.net/20091020.html)
 * [When to use a type class, when to use a type](http://stackoverflow.com/questions/12286315/when-to-use-a-type-class-when-to-use-a-type)
 * [Type classes: an exploration of the design space](http://courses.cs.washington.edu/courses/cse590p/06sp/multi.pdf)
