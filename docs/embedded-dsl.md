@@ -34,6 +34,7 @@ instance Functor f => Monad (Free f) where
 * [Freer Monads, More Extensible Effects](http://okmij.org/ftp/Haskell/extensible/more.pdf)
 * [Recursion Excursion](http://www.parsonsmatt.org/programming/2015/09/24/recursion.html)
 * [Free and Freer Monads: Putting Monads Back into Closet](http://okmij.org/ftp/Computation/free-monad.html)
+* [The free-concurrent package](https://hackage.haskell.org/package/free-concurrent)
 
 ###Coyoneda
 * [Loop School - Coyoneda](http://school.looprecur.com/?video=122708005)
