@@ -53,3 +53,14 @@ Passed:
 * [criterion](http://hackage.haskell.org/package/criterion)
 * [Perf for low-level profiling](https://www.fpcomplete.com/user/bitonic/perf-for-low-level-profiling)
 * [Control.Exception.Base (assert)](http://hackage.haskell.org/package/base-4.8.1.0/docs/Control-Exception-Base.html#v:assert)
+
+##例外処理
+* <https://twitter.com/GabrielG439/status/656202814121574400>
+* [Haskell での例外処理](http://d.hatena.ne.jp/kazu-yamamoto/20120604/1338802792)
+* [Haskellでの例外処理(その2)](http://d.hatena.ne.jp/kazu-yamamoto/20120605/1338871044)
+* [Exceptions Best Practices](https://www.fpcomplete.com/user/commercial/content/exceptions-best-practices)
+* [Lightweight Checked Exceptions in Haskell](http://www.well-typed.com/blog/2015/07/checked-exceptions/)
+* [ERRORS AND EXCEPTIONS IN HASKELL](http://www.stackbuilders.com/news/errors-and-exceptions-in-haskell)
+* [errors](http://hackage.haskell.org/package/errors)
+* [The exceptions package](http://hackage.haskell.org/package/exceptions)
+* [The retry package](https://hackage.haskell.org/package/retry)
