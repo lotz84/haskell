@@ -31,16 +31,13 @@
 2. [実践Haskell](docs/practical-haskell.md)
     1. [社会とHaskell](docs/society-and-haskell.md)
     2. [Graphics/Game](docs/graphics.md)
-    3. Web Programming
-        1. [Front End](docs/web-front-end.md)
-        2. [Client](docs/web-client.md)
-        3. [Server](docs/web-server.md)
-        4. [Database](docs/database.md)
-    4. [Hardware/IoT](docs/hardware.md)
+    3. [Web Front](docs/web-front-end.md)
+    4. [Web Server](docs/web-server.md)
+    5. [Hardware/IoT](docs/hardware.md)
         1. [iOS/Android](docs/mobile-apps.md)
-    5. [機械学習](https://github.com/lotz84/machine-learning)
-    6. [Blockchain](docs/blockchain.md)
-    7. [GHCと最適化](docs/ghc.md)
+    6. [機械学習](https://github.com/lotz84/machine-learning)
+    7. [Blockchain](docs/blockchain.md)
+    8. [GHCと最適化](docs/ghc.md)
 
 ##Related works
 * [State of the Haskell ecosystem - August 2015](http://www.haskellforall.com/2015/08/state-of-haskell-ecosystem-august-2015.html)
