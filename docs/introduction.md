@@ -2,18 +2,11 @@
 * [The Haskell User Experience](http://rickdzekman.com/thoughts/the-haskell-user-experience/)
 
 ```bash
-$ brew install ghc cabal-install
+$ brew install haskell-stack
+$ stack setup
+$ alias ghc='stack ghc'
+$ alias ghci='stack ghci'
 ```
-
-* [OS X](http://ghcformacosx.github.io/)
-* [Windows](https://github.com/fpco/minghc)
-* [Linux](https://www.haskell.org/downloads/linux)
-
-----
-
-* [hlint](https://hackage.haskell.org/package/hlint)
-* [tonsky/FiraCode](https://github.com/tonsky/FiraCode)
-
 ##Example
 * [Basic Haskell Examples](http://www.haskellforall.com/2015/10/basic-haskell-examples.html)
 * [Haskell by Example](http://lotz84.github.io/haskellbyexample/)
