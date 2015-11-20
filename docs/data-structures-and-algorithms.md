@@ -32,6 +32,7 @@
 * [You know more about presheaves than you think](https://derekelkins.github.io/posts/you-know-more-about-presheaves-than-you-think.html)
 * [Vertical Finger Trees](http://www.alexkyte.me/2015/10/vertical-finger-trees.html)
 * [The Theory of patches-vector](http://liamoc.net/posts/2015-11-10-patch-theory.html)
+* [Cellular Automata](https://www.fpcomplete.com/user/edwardk/cellular-automata)
 
 ###Binary
 * [The binary package](https://hackage.haskell.org/package/binary)
