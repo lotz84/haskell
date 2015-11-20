@@ -1,12 +1,15 @@
 * [Practical Foundations for Programming Languages](http://www.cs.cmu.edu/~rwh/plbook/1sted-revised.pdf)
-* [Algebraic structure](https://en.wikipedia.org/wiki/Algebraic_structure)
 * [Programming Language Theory](http://steshaw.org/plt/)
-* [Set Theory and Haskell](https://www.youtube.com/watch?v=beaBqjLhBJU)
 
 ##意味論
 * [計算機科学と代数学](http://www-mmm.is.s.u-tokyo.ac.jp/~ichiro/papers/algPLJapaneseJan2014.pdf)
 * [プログラミング言語の意味論](http://www.kurims.kyoto-u.ac.jp/~kenkyubu/kokai-koza/katsumata.pdf)
 * [おもしろいみろん](http://www.kmonos.net/wlog/86.html#_1755080603)
+
+##カリー＝ハワード同型対応
+* [Haskell/カリー=ハワード同型](https://ja.wikibooks.org/wiki/Haskell/%E3%82%AB%E3%83%AA%E3%83%BC%3D%E3%83%8F%E3%83%AF%E3%83%BC%E3%83%89%E5%90%8C%E5%9E%8B)
+* [カリー・ハワード同型対応入門](http://ocw.kyoto-u.ac.jp/ja/faculty-of-lettersja/002-006/pdf/curryhoward.pdf)
+* [Lectures on the Curry-Howard Isomorphism (1998)](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.17.7385)
 
 ##論理学と証明
 * [直観主義論理への招待](http://www.kurims.kyoto-u.ac.jp/~terui/summer2013.pdf)
@@ -17,64 +20,51 @@
 * Proof Theory Foundations, Lecture [1](https://www.youtube.com/watch?v=YRu7Xi-mNK8), [2](https://www.youtube.com/watch?v=JzIAEv8fN88), [3](https://www.youtube.com/watch?v=nw0JAF79gYI), [4](https://www.youtube.com/watch?v=_XtflAEN6aA)
 
 ###線形論理
-* [線形論理って何？](http://web.yl.is.s.u-tokyo.ac.jp/kobalab/kadai99/linear-logic.html)
-* [線形論理入門 ∼ What’s the USE? ∼](http://www.kurims.kyoto-u.ac.jp/~terui/summer1.pdf)
-* [線形論理の誕生](http://www.kurims.kyoto-u.ac.jp/~terui/birth.pdf)
-* [15-816 Linear Logic](http://www.cs.cmu.edu/~./fp/courses/15816-f01/index.html)
 
 > 線形型システムとは、プログラム実行中に作られた値が何度使われうるかによって型を区別するような型システムです
 
 出典: [課題４](http://web.yl.is.s.u-tokyo.ac.jp/kobalab/kadai99/kadai4.html)
 
-##カリー＝ハワード同型対応
-* [Lectures on the Curry-Howard Isomorphism (1998)](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.17.7385)
+* [線形論理って何？](http://web.yl.is.s.u-tokyo.ac.jp/kobalab/kadai99/linear-logic.html)
+* [線形論理入門 ∼ What’s the USE? ∼](http://www.kurims.kyoto-u.ac.jp/~terui/summer1.pdf)
+* [線形論理の誕生](http://www.kurims.kyoto-u.ac.jp/~terui/birth.pdf)
+* [15-816 Linear Logic](http://www.cs.cmu.edu/~./fp/courses/15816-f01/index.html)
 
 ##圏論
 * [圏論とは何か](https://infinitytopos.wordpress.com/2015/01/25/%E5%9C%8F%E8%AB%96%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B/)
+* [Category Theory, The essence of interface-based design - Erik Meijer](https://www.youtube.com/watch?v=JMP6gI5mLHc)
+* [Category theory for beginners](http://www.slideshare.net/kenbot/category-theory-for-beginners)
+* [Category Theory & Programming](http://yogsototh.github.io/Category-Theory-Presentation/)
+* [Category theory](http://www.mis.mpg.de/lecture-materials/funk-prog/haskell05.pdf)
+* [哲学者のための圏論入門](http://choreographlife.jp/pdf/intro.pdf)
+* [2013年 圏論勉強会 資料](http://nineties.github.io/category-seminar/)
+* [圏論](http://alg-d.com/math/category/)
+* [圏と関手入門](http://www.math.nagoya-u.ac.jp/~hasimoto/paper/class/cat10.pdf)
+* [圏論と構造主義](http://eprints.lib.hokudai.ac.jp/dspace/bitstream/2115/51910/1/002_FUKAYAMA.pdf)
+* [Category Theory for Computing Science](http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf)
+* Steve Awodey - [Category Theory](http://www.amazon.co.jp/dp/0199237182)[[pdf](http://www.andrew.cmu.edu/course/80-413-713/notes/)]
+* Steve Awodey - Category Theory Foundations [1](https://www.youtube.com/watch?v=ZKmodCApZwk), [2](https://www.youtube.com/watch?v=TQYjekxqw-Q), [3](https://www.youtube.com/watch?v=BOynNljjbeg), [4](https://www.youtube.com/watch?v=8fZmdhLLgs4)
 * [The Catsters' Category Theory Videos](http://www.simonwillerton.staff.shef.ac.uk/TheCatsters/)
 * [Category Theory for Programmers](http://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
-* [Category Theory & Programming](http://yogsototh.github.io/Category-Theory-Presentation/)
-* [Category theory for beginners](http://www.slideshare.net/kenbot/category-theory-for-beginners)
-* [哲学者のための圏論入門](http://choreographlife.jp/pdf/intro.pdf)
-* [圏論](http://alg-d.com/math/category/)
-* [2013年 圏論勉強会 資料](http://nineties.github.io/category-seminar/)
-* [圏と関手入門](http://www.math.nagoya-u.ac.jp/~hasimoto/paper/class/cat10.pdf)
-* [n-Category](http://mbps.hatenablog.com/entry/2014/11/25/031401)
-* [Enriched category](http://mbps.hatenablog.com/entry/2015/03/03/204917)
-* [Self-enriched category](http://mbps.hatenablog.com/entry/2015/03/11/155555)
-* [Basic Concepts of Enriched Category Theory](http://www.tac.mta.ca/tac/reprints/articles/10/tr10abs.html)
-* [圏論と構造主義](http://eprints.lib.hokudai.ac.jp/dspace/bitstream/2115/51910/1/002_FUKAYAMA.pdf)
-* [String diagram](https://www.youtube.com/playlist?list=PL50ABC4792BD0A086)
-* [String diagram](http://mbps.hatenablog.com/entry/2015/02/07/175148)
-* [Category Theory Using String Diagrams](http://jp.arxiv.org/abs/1401.7220)
-* [Function Types](http://bartoszmilewski.com/2015/03/13/function-types/)
 * [Category Theory Lulz - Ken Scambler](https://www.youtube.com/watch?v=jDhMDgU7Koc)
-* [Category Theory](http://www.amazon.co.jp/dp/0199237182)[[pdf](http://www.andrew.cmu.edu/course/80-413-713/notes/)]
-* [Category Theory for Computing Science](http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf)
 * [Abstract and Concrete Categories](http://katmat.math.uni-bremen.de/acc/acc.pdf)
-* [Categorical homotopy theory](http://www.math.harvard.edu/~eriehl/cathtpy.pdf)
-* [Skew-Monoidal Normalization](https://www.fpcomplete.com/user/tomberek/skew-monoidal-normalization)
-* [Category Theory, The essence of interface-based design - Erik Meijer](https://www.youtube.com/watch?v=JMP6gI5mLHc)
-* [It’s All About Morphisms](http://bartoszmilewski.com/2015/11/17/its-all-about-morphisms/)
-* [Category theory](http://www.mis.mpg.de/lecture-materials/funk-prog/haskell05.pdf)
-* Steve Awodey - Category Theory Foundations [1](https://www.youtube.com/watch?v=ZKmodCApZwk), [2](https://www.youtube.com/watch?v=TQYjekxqw-Q), [3](https://www.youtube.com/watch?v=BOynNljjbeg), [4](https://www.youtube.com/watch?v=8fZmdhLLgs4)
 * [Limits and Colimits](http://bartoszmilewski.com/2015/04/15/limits-and-colimits/)
 * [Natural Transformations](http://bartoszmilewski.com/2015/04/07/natural-transformations/)
 * [エンド](http://alg-d.com/math/category/end.pdf)
 * [This is the (co)end, my only (co)friend](http://arxiv.org/abs/1501.02503)
 * [Fixed points of functors](http://www.pps.univ-paris-diderot.fr/~metayer/PDF/fix.pdf)
-* [Theory and Practice of Fusion](http://www.cs.ox.ac.uk/ralf.hinze/publications/IFL10.pdf)
-* [Catamorphism](http://mbps.hatenablog.com/entry/2013/05/15/032507)
-* [fold/build fusion](http://mbps.hatenablog.com/entry/2014/10/09/013718)
-* [Hylomorphism](http://mbps.hatenablog.com/entry/2014/10/17/010205)
-* [CATEGORICAL PROGRAMMING WITH INDUCTIVE AND COINDUCTIVE TYPES](http://kodu.ut.ee/~varmo/papers/thesis.pdf)
-* [ITERATION AND PRIMITIVE RECURSION IN CATEGORICAL TERMS](http://www.cs.ru.nl/barendregt60/essays/geuvers_poll/art08_geuvers_poll.pdf)
 * [Locally cartesian closed categories, coalgebras, and containers](http://www.diva-portal.se/smash/get/diva2:613378/FULLTEXT01.pdf)
 * [A Study of Categories of Algebras and Coalgebras](https://www.andrew.cmu.edu/user/awodey/students/hughes.pdf)
 * [Fundamental Study Universal coalgebra: a theory of systems](http://homepages.cwi.nl/~janr/papers/files-of-papers/universal_coalgebra.pdf)
 * [Coalgebras in functional programming and type theory](http://www.duplavis.com/venanzio/publications/Coalgebras_CMCS_2010.pdf)
-* [The semigroupoids package](http://hackage.haskell.org/package/semigroupoids)
 * [Strange Loop: "Strange Loops: Capturing Knots With Powerful Notations" by Kay Ye](http://wadler.blogspot.jp/2015/10/strange-loop-strange-loops-capturing.html)
+* [n-Category](http://mbps.hatenablog.com/entry/2014/11/25/031401)
+* [Enriched category](http://mbps.hatenablog.com/entry/2015/03/03/204917)
+* [Self-enriched category](http://mbps.hatenablog.com/entry/2015/03/11/155555)
+* [Basic Concepts of Enriched Category Theory](http://www.tac.mta.ca/tac/reprints/articles/10/tr10abs.html)
+* [String diagram](https://www.youtube.com/playlist?list=PL50ABC4792BD0A086)
+* [String diagram](http://mbps.hatenablog.com/entry/2015/02/07/175148)
+* [Category Theory Using String Diagrams](http://jp.arxiv.org/abs/1401.7220)
 
 ###CPL
 * [圏論プログラミング言語 CPL](http://mandel59.hateblo.jp/entry/2015/02/02/110621)
@@ -221,3 +211,4 @@
 * [Homotopy Type Theory DMV2015](http://ncatlab.org/homotopytypetheory/show/DMV2015)
 * [The encode-decode method in HoTT, relationally](https://personal.cis.strath.ac.uk/fredrik.nordvall-forsberg/talks/stp_dundee_2015/stp_dundee_2015-10-07.pdf)
 * [The equivalence of the torus and the product of two circles in homotopy type theory](http://arxiv.org/abs/1510.03918)
+* [Categorical homotopy theory](http://www.math.harvard.edu/~eriehl/cathtpy.pdf)
