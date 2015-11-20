@@ -276,3 +276,43 @@ Reader + Writer + State
 
 ##MonadFix
 * [MonadFix example: compiling regular expressions](https://ro-che.info/articles/2015-09-02-monadfix)
+
+##圏論
+* [圏論とは何か](https://infinitytopos.wordpress.com/2015/01/25/%E5%9C%8F%E8%AB%96%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B/)
+* [Category Theory, The essence of interface-based design - Erik Meijer](https://www.youtube.com/watch?v=JMP6gI5mLHc)
+* [Category theory for beginners](http://www.slideshare.net/kenbot/category-theory-for-beginners)
+* [Category Theory & Programming](http://yogsototh.github.io/Category-Theory-Presentation/)
+* [Category theory](http://www.mis.mpg.de/lecture-materials/funk-prog/haskell05.pdf)
+* [哲学者のための圏論入門](http://choreographlife.jp/pdf/intro.pdf)
+* [2013年 圏論勉強会 資料](http://nineties.github.io/category-seminar/)
+* [圏論](http://alg-d.com/math/category/)
+* [圏と関手入門](http://www.math.nagoya-u.ac.jp/~hasimoto/paper/class/cat10.pdf)
+* [圏論と構造主義](http://eprints.lib.hokudai.ac.jp/dspace/bitstream/2115/51910/1/002_FUKAYAMA.pdf)
+* [Category Theory for Computing Science](http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf)
+* Steve Awodey - [Category Theory](http://www.amazon.co.jp/dp/0199237182)[[pdf](http://www.andrew.cmu.edu/course/80-413-713/notes/)]
+* Steve Awodey - Category Theory Foundations [1](https://www.youtube.com/watch?v=ZKmodCApZwk), [2](https://www.youtube.com/watch?v=TQYjekxqw-Q), [3](https://www.youtube.com/watch?v=BOynNljjbeg), [4](https://www.youtube.com/watch?v=8fZmdhLLgs4)
+* [The Catsters' Category Theory Videos](http://www.simonwillerton.staff.shef.ac.uk/TheCatsters/)
+* [Category Theory for Programmers](http://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+* [Category Theory Lulz - Ken Scambler](https://www.youtube.com/watch?v=jDhMDgU7Koc)
+* [Abstract and Concrete Categories](http://katmat.math.uni-bremen.de/acc/acc.pdf)
+* [Limits and Colimits](http://bartoszmilewski.com/2015/04/15/limits-and-colimits/)
+* [Natural Transformations](http://bartoszmilewski.com/2015/04/07/natural-transformations/)
+* [エンド](http://alg-d.com/math/category/end.pdf)
+* [This is the (co)end, my only (co)friend](http://arxiv.org/abs/1501.02503)
+* [Fixed points of functors](http://www.pps.univ-paris-diderot.fr/~metayer/PDF/fix.pdf)
+* [Locally cartesian closed categories, coalgebras, and containers](http://www.diva-portal.se/smash/get/diva2:613378/FULLTEXT01.pdf)
+* [A Study of Categories of Algebras and Coalgebras](https://www.andrew.cmu.edu/user/awodey/students/hughes.pdf)
+* [Fundamental Study Universal coalgebra: a theory of systems](http://homepages.cwi.nl/~janr/papers/files-of-papers/universal_coalgebra.pdf)
+* [Coalgebras in functional programming and type theory](http://www.duplavis.com/venanzio/publications/Coalgebras_CMCS_2010.pdf)
+* [Strange Loop: "Strange Loops: Capturing Knots With Powerful Notations" by Kay Ye](http://wadler.blogspot.jp/2015/10/strange-loop-strange-loops-capturing.html)
+* [n-Category](http://mbps.hatenablog.com/entry/2014/11/25/031401)
+* [Enriched category](http://mbps.hatenablog.com/entry/2015/03/03/204917)
+* [Self-enriched category](http://mbps.hatenablog.com/entry/2015/03/11/155555)
+* [Basic Concepts of Enriched Category Theory](http://www.tac.mta.ca/tac/reprints/articles/10/tr10abs.html)
+* [String diagram](https://www.youtube.com/playlist?list=PL50ABC4792BD0A086)
+* [String diagram](http://mbps.hatenablog.com/entry/2015/02/07/175148)
+* [Category Theory Using String Diagrams](http://jp.arxiv.org/abs/1401.7220)
+
+###CPL
+* [圏論プログラミング言語 CPL](http://mandel59.hateblo.jp/entry/2015/02/02/110621)
+* [圏論プログラミング言語CPL入門](http://solorab.net/blog/2015/06/10/introduction-to-categorical-programming-language-cpl/)
