@@ -26,6 +26,7 @@
 ##Docker
 * [How I deploy Haskell Code](http://www.alfredodinapoli.com/posts/2015-11-03-how-i-deploy-haskell-code.html)
 * [Docker Hosting – Run Docker Containers in any Cloud - Tutum](https://www.tutum.co/)
+* [Kubernetes for Haskell Services](https://www.fpcomplete.com/blog/2015/11/kubernetes)
 
 ##Web Socket
 * [Haskell から見た node.js](http://d.hatena.ne.jp/kazu-yamamoto/20110825/1314254885)
