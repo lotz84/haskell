@@ -40,6 +40,7 @@ sieve (p:xs) = p : sieve [x | x <- xs, x `mod` p /= 0]
 出典: [第1章　関数プログラミングは難しくない！](http://gihyo.jp/dev/feature/01/functional-prog/0001)
 
 * [Try Haskell](https://tryhaskell.org/)
+* [Learning Haskell](http://learn.hfm.io/)
 * [Introduction to functional programming with Haskell](https://ocramz.github.io/haskell/tutorials/2015/08/21/haskell-tut-v1.html)
 * [ウォークスルー Haskell](http://walk.wgag.net/haskell/)
 * [Haskell 超入門](http://qiita.com/7shi/items/145f1234f8ec2af923ef)
