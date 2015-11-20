@@ -95,6 +95,11 @@
 * [language-c-quote](https://hackage.haskell.org/package/language-c-quote)
 * [Calling Python libraries from Haskell](https://john-millikin.com/articles/ride-the-snake/)
 
+##データ分析基盤
+* [Soostone/hadron](https://github.com/Soostone/hadron)
+* [Executable specification of MapReduce](http://kenta.blogspot.jp/2015/09/ajoyvtsr-type-signature-of-mapreduce.html)
+* [The riak package](https://hackage.haskell.org/package/riak)
+
 ----
 
 * [dcfl is a parallelized constraint solving library for Haskell.](http://poincare.github.io/DCFL/)
