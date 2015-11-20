@@ -51,7 +51,6 @@ instance Show Bool where
 ##Enum
 ##数に関する型クラス
 ##Monoid
-* [Free Monoids](http://bartoszmilewski.com/2015/07/21/free-monoids/)
 * [Haskell Monoids and their Uses](http://blog.sigfpe.com/2009/01/haskell-monoids-and-their-uses.html)
 * [Monoids and Finger Trees](http://apfelmus.nfshost.com/articles/monoid-fingertree.html)
 
