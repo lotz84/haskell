@@ -33,6 +33,9 @@
 ###Galois
 * [Galois](http://galois.com/)
 
+###Google
+* [Haskell Amuse-Bouche](https://www.youtube.com/watch?v=b9FagOVqxmI)
+
 ###Facebook
 * [Descent into Haskell (Part I)](https://www.facebook.com/notes/10153092264418543/)
 * [Fighting spam with Haskell](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/)
