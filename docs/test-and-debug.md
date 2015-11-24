@@ -14,6 +14,7 @@
 * [The webdriver package](https://hackage.haskell.org/package/webdriver)
 * [Hspec: A Testing Framework for Haskell](http://hspec.github.io/index.html)
 * [IO 部分の自動テスト](http://krdlab.hatenablog.com/)
+* [5 Ways to Test Applications that Access a Database in Haskell](http://functor.tokyo/blog/2015-11-20-testing-db-access)
 
 ###QuickCheck
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
