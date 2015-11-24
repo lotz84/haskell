@@ -17,6 +17,7 @@
 * [Applying Type-Level and Generic Programming in Haskell](https://github.com/kosmikus/SSGEP)
 * [Djinn, a theorem prover in Haskell, for Haskell.](http://lambda-the-ultimate.org/node/1178)
 * [The type-combinators package](http://hackage.haskell.org/package/type-combinators)
+* [Typing Haskell in Haskell](https://web.cecs.pdx.edu/~mpj/thih/thih.pdf)
 
 ```haskell
 data Bottom
