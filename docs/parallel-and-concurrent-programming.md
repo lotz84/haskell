@@ -31,6 +31,7 @@
 * [2 04 Imprving Implicit Parallelism](https://www.youtube.com/watch?v=UsU8h0WYemo)
 
 ##並行
+* [Haskellでマルチスレッド処理](http://qiita.com/myuon_myon/items/d0334317f220dfe05092)
 * [async](http://hackage.haskell.org/package/async)
 * [lifted-async](https://hackage.haskell.org/package/lifted-async)
 * [新しいlifted-asyncの使い方](http://maoe.hatenadiary.jp/entry/2014/12/31/015338)
