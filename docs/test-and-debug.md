@@ -65,3 +65,4 @@ Passed:
 * [errors](http://hackage.haskell.org/package/errors)
 * [The exceptions package](http://hackage.haskell.org/package/exceptions)
 * [The retry package](https://hackage.haskell.org/package/retry)
+* [Erin Swenson-Healey: A Beginner's Guide to Exceptions in Haskell](https://www.youtube.com/watch?v=PWS0Whf6-wc)
