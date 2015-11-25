@@ -3,6 +3,7 @@
 * [Adventure with Types in Haskell](https://www.youtube.com/watch?v=6COvD8oynmI)
 * [Another Approach to Default Function Parameters](https://ocharles.org.uk/blog/posts/2015-07-23-another-approach-to-default-variables.html)
 * [avieth/Algebraic](https://github.com/avieth/Algebraic)
+* [The vacuum-cairo package](https://hackage.haskell.org/package/vacuum-cairo)
 
 ##データ構造とアルゴリズム
 * [Memory footprints of some common data types](http://blog.johantibell.com/2011/06/memory-footprints-of-some-common-data.html)
