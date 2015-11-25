@@ -6,7 +6,6 @@
 * [Taking Authentication to the next Level](https://www.spock.li/2015/08/23/taking_authentication_to_the_next_level.html)
 * [The Ur Programming Language Family](http://www.impredicative.com/ur/)
   * [04 An Optimizing Compiler for a Purely Functional Web Application Language](https://www.youtube.com/watch?v=McYhbIubeTc)
-* [kazu-yamamoto/logger](https://github.com/kazu-yamamoto/logger)
 * [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)
 * [Haskell でソケット通信をやってみる](http://yasutech.blogspot.jp/2012/01/haskell.html)
 * [socket](https://hackage.haskell.org/package/socket)
@@ -17,7 +16,11 @@
 * [Haskell Web Development: A Freely Available Book](https://www.indiegogo.com/projects/haskell-web-development-a-freely-available-book#/)
 * [stackを使ってhaskellで最小のWeb Applicationしてみる](http://qiita.com/eielh/items/09b9f1c21f7d16e09ede)
 * [The smtp-mail package](https://hackage.haskell.org/package/smtp-mail)
+
+##Logger
 * [wdanilo/haskell-logger](https://github.com/wdanilo/haskell-logger)
+* [kazu-yamamoto/logger](https://github.com/kazu-yamamoto/logger)
+* [jgoerzen/hslogger](https://github.com/jgoerzen/hslogger)
 
 ##Hakyll
 * [Hakyll](http://jaspervdj.be/hakyll/)
@@ -70,6 +73,7 @@
 * [Implementing a minimal version of haskell-servant](http://www.well-typed.com/blog/2015/11/implementing-a-minimal-version-of-haskell-servant/)
 * [Julian Arni - Servant - Boston Haskell](https://www.youtube.com/watch?v=rsv96JK4Vx4)
 * [Servant, Type Families, and Type-level Everything](http://www.arow.info/blog/posts/2015-07-10-servant-intro.html)
+* [futurice/haskell-servant-status](https://github.com/futurice/haskell-servant-status)
 
 ####Microservices
 * [k-bx/owlcloud](https://github.com/k-bx/owlcloud)
@@ -114,7 +118,9 @@ $ heroku config:set HALCYON_NO_BUILD_DEPENDENCIES=0
 * A minimal web-browser written and configured in Haskell - [k0ral/hbro](https://github.com/k0ral/hbro)
 * [The dns package](https://hackage.haskell.org/package/dns)
 * [msgpack/msgpack-haskell](https://github.com/msgpack/msgpack-haskell)
-* [Creating a BitTorrent client in Haskell](https://blog.chaps.io/2015/10/05/torrent-client-in-haskell-1.html)
+* [Creating a BitTorrent client in Haskell #1](https://blog.chaps.io/2015/10/05/torrent-client-in-haskell-1.html)
+* [Creating a BitTorrent client in Haskell #2](http://blog.chaps.io/2015/10/13/torrent-client-in-haskell-2.html)
+* [Creating a BitTorrent client in Haskell #3](http://blog.chaps.io/2015/11/24/torrent-client-in-haskell-3)
 * [basvandijk/rss](https://github.com/basvandijk/rss)
 * **HTTP/HTTPS**
   * [http-client](https://hackage.haskell.org/package/http-client)
