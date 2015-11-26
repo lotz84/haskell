@@ -2,6 +2,7 @@
 * [The Haskell User Experience](http://rickdzekman.com/thoughts/the-haskell-user-experience/)
 
 ```bash
+$ # on Mac OSX
 $ brew install haskell-stack
 $ stack setup
 $ alias ghc='stack ghc'
@@ -63,6 +64,7 @@ sieve (p:xs) = p : sieve [x | x <- xs, x `mod` p /= 0]
 
 ##基本
 * [Base で定義されている演算子の一覧](http://hackage.haskell.org/package/acme-operators/docs/Acme-Operators-Base.html)
+* [The base-prelude package](https://hackage.haskell.org/package/base-prelude)
 * [順列列挙関数（素朴な実装）](http://qiita.com/nobsun/items/babd28fe81ba3b9f304f)
 
 ###型と関数
