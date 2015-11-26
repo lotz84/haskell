@@ -58,4 +58,5 @@ parse = evalStateT
   * [timjb/aeson-schema](https://github.com/timjb/aeson-schema)
 * [The aeson-yak package](http://hackage.haskell.org/package/aeson-yak)
 * [lens-aeson](https://hackage.haskell.org/package/lens-aeson)
-* [buffer-builder](https://hackage.haskell.org/package/buffer-builder)
+* [mgajda/json-autotype](https://github.com/mgajda/json-autotype)
+* [JSON Autotype 1.0 - Haskell SG](https://www.youtube.com/watch?v=8D2-m2ikydc)
