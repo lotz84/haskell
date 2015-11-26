@@ -5,28 +5,24 @@
 
 出典: [不完全にしておよそ正しくないプログラミング言語小史](http://www.aoky.net/articles/james_iry/brief-incomplete-and-mostly-wrong.htm)
 
-* [なぜ関数プログラミングは重要か](http://www.sampou.org/haskell/article/whyfp.html)
-* [A History of Haskell: Being Lazy With Class](http://haskell.cs.yale.edu/wp-content/uploads/2011/02/history.pdf) [[video](https://www.youtube.com/watch?v=3bjXGrycMhQ)]
-* [How Functional Programming Mattered](http://nsr.oxfordjournals.org/content/early/2015/07/13/nsr.nwv042)
-
 ##Index
 1. [Haskell: 純粋関数型プログラミング言語](docs/introduction.md)
     1.  [再帰](docs/recursion.md)
     2.  [代数的データ型](docs/algebraic-data-type.md)
     3.  [データ構造とアルゴリズム](docs/data-structures-and-algorithms.md)
-    4.  [型クラス](docs/type-class-and-abstraction.md)
-    5.  [圏論](docs/category-theory.md)
+    4.  [型クラス](docs/type-class-and-abstraction.md) - 代表的な型クラスについて
+    5.  [圏論](docs/category-theory.md) - Haskellで使われている圏論由来の概念
     6.  [モナド交換子](docs/monad-transformers.md)
     7.  [パーサー](docs/parser.md)
     8.  [継続](docs/continuation.md)
     9.  [Embedded DSL](docs/embedded-dsl.md)
     10. [Optic (Lens, Prism...)](docs/optic.md)
-    11. [並列・並行・分散](docs/parallel-and-concurrent-programming.md)
+    11. [並列・並行・分散](docs/parallel-and-concurrent-programming.md) - ヘイヘイ！
     12. [Stream data processing](docs/streaming-data-processing.md)
     13. [Functional Reactive Programming](docs/functional-reactive-programming.md)
     14. [Generic Programming](docs/generic-programming.md)
-    15. [型レベルプログラミング](docs/type-level-programming.md)
-    16. [Template Haskell](docs/template-haskell.md)
+    15. [型レベルプログラミング](docs/type-level-programming.md) - 型理論
+    16. [Template Haskell](docs/template-haskell.md) - マクロ
     17. [テストとデバッグ](docs/test-and-debug.md)
 2. [実践Haskell](docs/practical-haskell.md)
     1. [社会とHaskell](docs/society-and-haskell.md)
