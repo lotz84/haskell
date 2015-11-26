@@ -54,6 +54,7 @@
 * [詳解bytestring](http://maoe.hatenadiary.jp/entry/2013/12/23/221834)
 * [lzma](https://hackage.haskell.org/package/lzma)
 * [lzma-streams](https://hackage.haskell.org/package/lzma-streams)
+* [buffer-builder](https://hackage.haskell.org/package/buffer-builder)
 
 ###配列
 * [The vector package](https://hackage.haskell.org/package/vector)
