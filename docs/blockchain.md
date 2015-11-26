@@ -24,6 +24,7 @@
 * [誰も教えてくれないけれど、これを読めば分かるビットコインの仕組みと可能性](http://jp.techcrunch.com/2015/03/31/bitcoin-essay/)
 * [bitcoinのしくみ](http://bitcoin.peryaudo.org/)
 * [CryptAd](https://cryptad.com/)
+* [ビットコインの仕組み](http://www.slideshare.net/GOTO_A/ss-36650203)
 
 ###Info
 * [Blockchain Info](https://blockchain.info/ja/)
