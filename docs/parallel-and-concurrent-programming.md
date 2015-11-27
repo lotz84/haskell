@@ -31,6 +31,7 @@
 * [2 04 Imprving Implicit Parallelism](https://www.youtube.com/watch?v=UsU8h0WYemo)
 
 ##並行
+* [RAM footprint per unit of concurrency (approx)](http://bob.ippoli.to/haskell-for-erlangers-2014/#/cost-of-concurrency)
 * [Haskellでマルチスレッド処理](http://qiita.com/myuon_myon/items/d0334317f220dfe05092)
 * [async](http://hackage.haskell.org/package/async)
 * [lifted-async](https://hackage.haskell.org/package/lifted-async)
