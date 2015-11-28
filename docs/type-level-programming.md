@@ -295,6 +295,7 @@ instance Eval' Hole where
 * [Call-by-Value is Dual to Call-by-Name](http://homepages.inf.ed.ac.uk/wadler/papers/dual/dual.pdf)
 * [Call-by-Value is Dual to Call-by-Name, Reloaded](http://homepages.inf.ed.ac.uk/wadler/papers/dual-reloaded/dual-reloaded.pdf)
 * [Alternative to the Church, Scott and Parigot encodings of data on the Lambda Calculus.](http://maiavictor.github.io/2015/11/18/church-scott-perigot-encodings/)
+* [The Y Combinator (no, not that one)](https://medium.com/@ayanonagon/the-y-combinator-no-not-that-one-7268d8d9c46#.plyiyxsq1)
 
 ###SLC
 * [Declarative Continuations and Categorical Duality](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.43.8729&rep=rep1&type=pdf)
