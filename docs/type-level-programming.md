@@ -2,7 +2,6 @@
 * [GHC.TypeLits](https://hackage.haskell.org/package/base/docs/GHC-TypeLits.html)
 * [Testing a type for (Eq a) in Haskell](http://stackoverflow.com/questions/28799005/testing-a-type-for-eq-a-in-haskell)
 * [Polymorphism within higher-order functions?](http://stackoverflow.com/questions/7061538/polymorphism-within-higher-order-functions)
-* [Announcing the refinement types library](http://nikita-volkov.github.io/refined/)
 * [What Are Impredicative Types?](http://jozefg.bitbucket.org/posts/2014-12-23-impredicative.html)
 * [A SIMPLE PROBLEM WITH RECURSIVE TYPES AND SUBTYPING](https://noamlewis.wordpress.com/2015/06/02/a-simple-problem-with-recursive-types-and-subtyping/)
 * [Haskellのforallについて理解したことを書いておく(ランクN多相限定)。](http://uehaj.hatenablog.com/entry/2014/01/23/121923)
@@ -82,6 +81,11 @@ circum (Circle _ _ r) = …
 * [Are Functor instances unique?](http://stackoverflow.com/questions/19774904/are-functor-instances-unique#19775139)
   * [fmapの一意性](http://mbps.hatenablog.com/entry/2014/07/17/132835)
 * [Notes on Parametricity](http://jozefg.bitbucket.org/posts/2014-12-22-parametricity.html)
+
+##Refinement Type
+* [Announcing the refinement types library](http://nikita-volkov.github.io/refined/)
+* [Program Synthesis from Polymorphic Refinement Types](http://arxiv.org/abs/1510.08419)
+* [Programming with Refinement Types](https://ucsd-progsys.github.io/liquidhaskell-tutorial/)
 
 ##Dependent Types
 * [Dependent Types](https://cubeoflambda.wordpress.com/2011/12/03/dependent-types/)
@@ -281,7 +285,6 @@ instance Eval' Hole where
 * [Strange Loop: "Propositions as Types" by Philip Wadler](http://wadler.blogspot.jp/2015/10/strange-loop-propositions-as-types-by.html)
 * [Gabriel439/Haskell-Morte-Library](https://github.com/Gabriel439/Haskell-Morte-Library)
 * [type-theory/type-theory-study-group-2015](https://github.com/type-theory/type-theory-study-group-2015)
-* [Program Synthesis from Polymorphic Refinement Types](http://arxiv.org/abs/1510.08419)
 * [型推論を実装してみる](http://qiita.com/tyfkda/items/25062cabd7df904bada3)
 
 ##Lambda Calculus
