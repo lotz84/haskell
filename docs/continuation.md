@@ -10,17 +10,6 @@
 
 ```haskell
 newtype Cont r a = Cont { runCont :: (a -> r) -> r }
-
-instance Functor (Cont r) where
-    fmap f c = Cont $ \k -> runCont c (k . f)
-
-instance Applicative (Cont r) where
-    pure a = Cont ($ a)
-    f <*> v = Cont $ \k -> runCont f $ \g -> runCont v (k . g)
-
-instance Monad (Cont r) where
-    return a = Cont ($ a)
-    m >>= c = ContT $ \k -> runCont m (\a -> runCont (c a) k)
 ```
 
 ###call/cc
@@ -46,6 +35,8 @@ main = do
   where
     withBreak = flip runContT pure . callCC
 ```
+
+* [無限ループから抜け出すプログラム](http://qiita.com/lotz/items/a1ff5725e918e216940e)
 
 ###shift/reset
 * [shift/reset プログラミング入門](http://pllab.is.ocha.ac.jp/~asai/cw2011tutorial/main-j.pdf)
