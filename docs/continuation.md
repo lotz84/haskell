@@ -35,16 +35,16 @@ callCC f = Cont $ \c -> runCont (f (\a -> Cont $ \_ -> c a)) c
 ```haskell
 import Control.Monad.Cont
 
+main :: IO ()
 main = do
-    putStrLn "Start"
-    withBreak $ \break ->
-        forM_ [1..] $ \i -> do
-            liftIO . putStrLn $ "Loop: " ++ show i
-            when (i == 10) $ do
-                liftIO . putStrLn $ "Break!"
-                break ()
-    where
-    withBreak = (`runContT` return) . callCC
+  putStrLn "Start"
+  withBreak $ \break ->
+    forM_ [1..] $ \i -> do
+      liftIO . putStrLn $ "Loop: " ++ show i
+      when (i == 5) $ break ()
+  putStrLn "End"
+  where
+    withBreak = flip runContT pure . callCC
 ```
 
 ###shift/reset
