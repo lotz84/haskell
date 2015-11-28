@@ -240,6 +240,7 @@ instance Monad (State s) where
 * [Haskellでスタックを利用した加減乗除の計算機を作ってみる](http://kzfm.github.io/laskell/stackCalc.html)
 * [逆Stateモナド](http://qiita.com/hiyakashi_/items/afee12104237e0ae2161)
 * [Haskell has no state monad](http://www.cse.chalmers.se/)
+* [Stateモナドが便利に使えた！](http://qiita.com/lotz/items/503ef04b03433d29f77c)
 
 ###RWS Monad
 Reader + Writer + State
