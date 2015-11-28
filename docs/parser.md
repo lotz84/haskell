@@ -60,3 +60,4 @@ parse = evalStateT
 * [lens-aeson](https://hackage.haskell.org/package/lens-aeson)
 * [mgajda/json-autotype](https://github.com/mgajda/json-autotype)
 * [JSON Autotype 1.0 - Haskell SG](https://www.youtube.com/watch?v=8D2-m2ikydc)
+* [HaskellでのJSONパースがこんなに簡単だったとは](http://qiita.com/lotz/items/6305f8460db3419c22e3)
