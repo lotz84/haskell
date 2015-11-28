@@ -74,7 +74,6 @@
 * [Julian Arni - Servant - Boston Haskell](https://www.youtube.com/watch?v=rsv96JK4Vx4)
 * [Servant, Type Families, and Type-level Everything](http://www.arow.info/blog/posts/2015-07-10-servant-intro.html)
 * [futurice/haskell-servant-status](https://github.com/futurice/haskell-servant-status)
-* [Haskell and Type-Safe Routing](http://andrewthad.blogspot.jp/2015/11/allr-detailsr-buyr-frompiece-str1-buyr.html)
 
 ####Microservices
 * [k-bx/owlcloud](https://github.com/k-bx/owlcloud)
@@ -100,6 +99,7 @@
 * [yesod-table](http://www.yesodweb.com/blog/2015/07/yesod-table)
 * [thoughtbot/yesod-auth-oauth2](https://github.com/thoughtbot/yesod-auth-oauth2)
 * [Progress with wai-devel](http://blog.urbanslug.com/programming/haskell/wai/wai-devel/2015/08/13/Progress-with-wai-devel.html)
+* [Haskell and Type-Safe Routing](http://andrewthad.blogspot.jp/2015/11/allr-detailsr-buyr-frompiece-str1-buyr.html)
 
 ##Heroku
 * [Deploying Haskell to Heroku using Docker](http://www.reddit.com/r/haskell/comments/35he88/deploying_haskell_to_heroku_using_docker/)
