@@ -64,6 +64,7 @@
 * [3D programming in Haskell: Extensive GPipe tutorial now availible](https://www.reddit.com/r/haskell/comments/3r3fcb/3d_programming_in_haskell_extensive_gpipe/)
 * [Realtime 60fps 800 Body Sim using Repa & GPipe.](https://www.youtube.com/watch?v=O9YQZ4dhD70)
 * [OpenGL 3.2 support for luminance!](http://phaazon.blogspot.jp/2015/11/opengl-32-support-for-luminance.html)
+* [Chase-C/Flocking-Simulation](https://github.com/Chase-C/Flocking-Simulation)
 
 ##WebGL
 * [wgld.org](http://wgld.org/)
