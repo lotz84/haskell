@@ -1,5 +1,7 @@
 * [箱で考えるFunctor、ApplicativeそしてMonad](http://qiita.com/suin/items/0255f0637921dcdfe83b)
 * [Grasping Haskell: functors, applicatives and monads (Part 1)](https://medium.com/@xanderdeseyn/grasping-haskell-functors-applicatives-and-monads-part-1-93368e0a7a74#.wo1peulfu)
+* [Grasping Haskell: functors, applicatives and monads (part 2)](https://medium.com/@xanderdeseyn/grasping-haskell-functors-applicatives-and-monads-part-2-65255e3e6a1d#.4m2g2bbum)
+* [Briefly on the purpose of Functors, Applicatives and Monads](https://codetalk.io/posts/2015-11-28-briefly-on-the-purpose-of-functors-applicatives-and-monads.html)
 
 ##関手 - Functor
 
@@ -44,6 +46,8 @@ class Functor f => Applicative f where
 * [Free Applicative Functors](http://www.paolocapriotti.com/assets/applicative.pdf)
 * [Free Applicative Functors in Haskell](http://www.eyrie.org/~zednenem/2013/05/27/freeapp)
 * [More on Free Applicative Functors](http://www.eyrie.org/~zednenem/2013/06/freeapp-2)
+* [closed functor](http://ncatlab.org/nlab/show/closed+functor)
+* 
 
 ###Discrimination
 * [discrimination](http://hackage.haskell.org/package/discrimination)
