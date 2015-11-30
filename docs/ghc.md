@@ -3,6 +3,7 @@
 * [bitc/hdevtools](https://github.com/bitc/hdevtools)
 * [dan-t/cabal-bounds](https://github.com/dan-t/cabal-bounds)
 * [rubik/argon](https://github.com/rubik/argon)
+* [A series about optimization](https://www.reddit.com/r/haskell/comments/3urjm3/a_series_about_optimization/)
 
 ##GHC
 * [GHC Speed](https://perf.haskell.org/ghc/#)
