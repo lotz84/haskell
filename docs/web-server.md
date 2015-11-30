@@ -74,6 +74,7 @@
 * [Julian Arni - Servant - Boston Haskell](https://www.youtube.com/watch?v=rsv96JK4Vx4)
 * [Servant, Type Families, and Type-level Everything](http://www.arow.info/blog/posts/2015-07-10-servant-intro.html)
 * [futurice/haskell-servant-status](https://github.com/futurice/haskell-servant-status)
+* [Haskell and Servant on Scaleway ARM servers](http://statusfailed.com/blog/2015/11/29/haskell-and-servant-on-scaleway-arm-servers.html)
 
 ####Microservices
 * [k-bx/owlcloud](https://github.com/k-bx/owlcloud)
