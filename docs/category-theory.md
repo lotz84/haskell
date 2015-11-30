@@ -104,6 +104,7 @@ class Monad m where
 * [Monads need not be endofunctors](http://arxiv.org/abs/1412.7148)
 * [Burritos for the Hungry Mathematician](http://www.cs.cmu.edu/~edmo/silliness/burrito_monads.pdf)
 * [Free Monad](embedded-dsl.md#free-monad)
+* [Monads by Example](http://cs-syd.eu/posts/2014-11-23-monads-by-example.html)
 
 ```haskell
 do x <- mx
