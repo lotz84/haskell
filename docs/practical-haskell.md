@@ -17,6 +17,7 @@
 * [Cabalでビルド時にProtocol Buffersファイルをコンパイルする](http://qiita.com/yunomu/items/a8ef65dccc1c085b7c0d)
 
 ##Stack
+* [The Haskell Tool Stack](http://docs.haskellstack.org/en/stable/README.html)
 * [Stackage](https://www.stackage.org/)
    * [Announcing stackage-update](http://www.yesodweb.com/blog/2015/04/announcing-stackage-update)
    * [Stackage Badges](https://www.fpcomplete.com/blog/2015/10/stackage-badges)
