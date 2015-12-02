@@ -287,6 +287,8 @@ instance Eval' Hole where
 * [type-theory/type-theory-study-group-2015](https://github.com/type-theory/type-theory-study-group-2015)
 * [型推論を実装してみる](http://qiita.com/tyfkda/items/25062cabd7df904bada3)
 * [Cubical Type Theory: a constructive interpretation of the univalence axiom](http://www.math.ias.edu/~amortberg/papers/cubicaltt.pdf)
+* [Interactive Theorem Proving with Lean](https://www.youtube.com/watch?v=tU5HfVc2nR8)
+* ["Propositions as Types" by Philip Wadler](https://www.youtube.com/watch?v=IOiZatlZtGU)
 
 ##Lambda Calculus
 * [An informal introduction to Lambda Calculus.](https://medium.com/@Sudhagar/an-informal-introduction-to-lambda-calculus-51c637f35f7d#.vsy3u1aex)
