@@ -15,6 +15,9 @@
 * [Hspec: A Testing Framework for Haskell](http://hspec.github.io/index.html)
 * [IO 部分の自動テスト](http://krdlab.hatenablog.com/)
 * [5 Ways to Test Applications that Access a Database in Haskell](http://functor.tokyo/blog/2015-11-20-testing-db-access)
+* [Breaking the Law: Verifying Typeclass Laws with QuickCheck and Deja Fu](http://www.barrucadu.co.uk/posts/2015-11-29-breaking-the-law-verifying-typeclass-laws-with-quickcheck-and-dejafu.html)
+* [barrucadu/dejafu](https://github.com/barrucadu/dejafu)
+* [dejafu/async-dejafu](https://github.com/barrucadu/dejafu/tree/master/async-dejafu)
 
 ###QuickCheck
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
