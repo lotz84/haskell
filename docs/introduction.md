@@ -106,6 +106,7 @@ uncurry :: (a -> b -> c) -> (a, b) -> c
 ##遅延評価
 * [Schrödinger's cat](https://ro-che.info/ccc/4)
 * [Résumé](https://ro-che.info/ccc/11)
+* [正格評価と遅延評価（基本編）](http://qiita.com/ruicc/items/07143c9e78c697227706)
 
 > One very interesting comparison is that lazy evaluation is to the CPU what garbage collection is to memory.
 
@@ -138,3 +139,4 @@ fib n = fibs !! (n-1) + fibs !! (n-2)
 * [Haskell Functions Take One Argument](http://tonymorris.github.io/blog/posts/haskell-functions-take-one-argument/)
 * [The base-prelude package](https://hackage.haskell.org/package/base-prelude)
 * [fptudelft/FP101x-Content-2015](https://github.com/fptudelft/FP101x-Content-2015)
+* <https://twitter.com/GabrielG439/status/671803691591077888>
