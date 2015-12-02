@@ -107,6 +107,7 @@ class Monad m where
 * [Burritos for the Hungry Mathematician](http://www.cs.cmu.edu/~edmo/silliness/burrito_monads.pdf)
 * [Free Monad](embedded-dsl.md#free-monad)
 * [Monads by Example](http://cs-syd.eu/posts/2014-11-23-monads-by-example.html)
+* [Implementing a category-theoretic Hask-monad in Haskell](https://medium.com/@brettwines/implementing-a-category-theoretic-hask-monad-in-haskell-7bf662f2e98b#.h73nxxjl2)
 
 ```haskell
 do x <- mx
