@@ -158,6 +158,7 @@ $ heroku config:set HALCYON_NO_BUILD_DEPENDENCIES=0
 * [wreq](http://www.serpentine.com/wreq/)
   * [Web Scraping with Lenses](http://two-wrongs.com/web-scraping-with-lenses)
 * [egonSchiele/HandsomeSoup](https://github.com/egonSchiele/HandsomeSoup)
+* [Haskell で楽しい Web スクレイピング](http://qiita.com/na-o-ys/items/30a4950d5391911493c2)
 
 #Database
 * [Haxl - Haskellを使った暗黙的な並列データアクセス](http://www.infoq.com/jp/news/2014/06/haxl)
