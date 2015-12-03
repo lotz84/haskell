@@ -18,6 +18,8 @@
 * [The type-combinators package](http://hackage.haskell.org/package/type-combinators)
 * [Typing Haskell in Haskell](https://web.cecs.pdx.edu/~mpj/thih/thih.pdf)
 * [type roleについて学ぶ](http://qiita.com/hiratara/items/888bdae1455fd7c4a5f0)
+* [7.27. Roles](https://downloads.haskell.org/~ghc/7.10.1/docs/html/users_guide/roles.html)
+* [Generative Type Abstraction and Type-level Computation](http://www.seas.upenn.edu/~sweirich/papers/popl163af-weirich.pdf)
 
 ```haskell
 data Bottom
