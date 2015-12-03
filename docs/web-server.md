@@ -75,6 +75,7 @@
 * [Servant, Type Families, and Type-level Everything](http://www.arow.info/blog/posts/2015-07-10-servant-intro.html)
 * [futurice/haskell-servant-status](https://github.com/futurice/haskell-servant-status)
 * [Haskell and Servant on Scaleway ARM servers](http://statusfailed.com/blog/2015/11/29/haskell-and-servant-on-scaleway-arm-servers.html)
+* [Dependently typed servers in Servant](http://www.well-typed.com/blog/2015/12/dependently-typed-servers/)
 
 ####Microservices
 * [k-bx/owlcloud](https://github.com/k-bx/owlcloud)
