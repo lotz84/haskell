@@ -17,6 +17,7 @@
 * [Djinn, a theorem prover in Haskell, for Haskell.](http://lambda-the-ultimate.org/node/1178)
 * [The type-combinators package](http://hackage.haskell.org/package/type-combinators)
 * [Typing Haskell in Haskell](https://web.cecs.pdx.edu/~mpj/thih/thih.pdf)
+* [type roleについて学ぶ](http://qiita.com/hiratara/items/888bdae1455fd7c4a5f0)
 
 ```haskell
 data Bottom
