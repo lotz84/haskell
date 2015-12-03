@@ -107,6 +107,7 @@ uncurry :: (a -> b -> c) -> (a, b) -> c
 * [Schrödinger's cat](https://ro-che.info/ccc/4)
 * [Résumé](https://ro-che.info/ccc/11)
 * [正格評価と遅延評価（基本編）](http://qiita.com/ruicc/items/07143c9e78c697227706)
+* [正格評価と遅延評価（詳細編）](http://qiita.com/ruicc/items/31a269f93404268d80d7)
 
 > One very interesting comparison is that lazy evaluation is to the CPU what garbage collection is to memory.
 
