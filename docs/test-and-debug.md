@@ -18,6 +18,7 @@
 * [Breaking the Law: Verifying Typeclass Laws with QuickCheck and Deja Fu](http://www.barrucadu.co.uk/posts/2015-11-29-breaking-the-law-verifying-typeclass-laws-with-quickcheck-and-dejafu.html)
 * [barrucadu/dejafu](https://github.com/barrucadu/dejafu)
 * [dejafu/async-dejafu](https://github.com/barrucadu/dejafu/tree/master/async-dejafu)
+* [24 days of Hackage, 2015: day 3: HSpec; the importance of testing](http://conscientiousprogrammer.com/blog/2015/12/03/24-days-of-hackage-2015-day-3-hspec-the-importance-of-testing/)
 
 ###QuickCheck
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
