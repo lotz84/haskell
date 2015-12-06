@@ -19,6 +19,7 @@
 * [barrucadu/dejafu](https://github.com/barrucadu/dejafu)
 * [dejafu/async-dejafu](https://github.com/barrucadu/dejafu/tree/master/async-dejafu)
 * [24 days of Hackage, 2015: day 3: HSpec; the importance of testing](http://conscientiousprogrammer.com/blog/2015/12/03/24-days-of-hackage-2015-day-3-hspec-the-importance-of-testing/)
+* [24 days of Hackage, 2015: day 5: should-not-typecheck: making Haskell sort of dynamically typed with deferred type errors](http://conscientiousprogrammer.com/blog/2015/12/05/24-days-of-hackage-2015-day-5-should-not-typecheck-making-haskell-sort-of-dynamically-typed-with-deferred-type-errors/)
 
 ###QuickCheck
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
