@@ -74,6 +74,10 @@
 * [A Haskell Time Library Tutorial](http://two-wrongs.com/haskell-time-library-tutorial)
 * [The unix-time package](https://hackage.haskell.org/package/unix-time)
 
+###FFI
+* [Simple FFT in Haskell](https://ro-che.info/articles/2015-12-04-fft)
+* [Testing FFT with R](https://ro-che.info/articles/2015-12-05-testing-fft)
+
 ###Record
 
 ```haskell
@@ -94,6 +98,7 @@ p = Circle {center = (1.0, 2.0), radius = 3.0}
   * [Announcing the first class records library](http://nikita-volkov.github.io/record/)
   * [Anonymous records in Haskell](http://www.techcast.com/events/bigtechday8/maffei-1005/?q=maffei-1005)
 * [OverloadedRecordFields revived](http://www.well-typed.com/blog/2015/03/overloadedrecordfields-revived/)
+* [odr/pers](https://github.com/odr/pers)
 
 ###Vinyl
 * [vinyl](https://hackage.haskell.org/package/vinyl)
