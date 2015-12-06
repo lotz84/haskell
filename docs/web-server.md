@@ -158,6 +158,7 @@ $ heroku config:set HALCYON_NO_BUILD_DEPENDENCIES=0
 ##Scraping
 * [wreq](http://www.serpentine.com/wreq/)
   * [Web Scraping with Lenses](http://two-wrongs.com/web-scraping-with-lenses)
+  * [24 days of Hackage, 2015: day 4: wreq: Web client programming; with notes on lens and operator syntax](http://conscientiousprogrammer.com/blog/2015/12/04/24-days-of-hackage-2015-day-4-wreq-web-client-programming-with-notes-on-lens-and-operator-syntax/)
 * [egonSchiele/HandsomeSoup](https://github.com/egonSchiele/HandsomeSoup)
 * [Haskell で楽しい Web スクレイピング](http://qiita.com/na-o-ys/items/30a4950d5391911493c2)
 
