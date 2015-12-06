@@ -12,6 +12,7 @@
 * [モナドをラップする話](http://qiita.com/ruicc/items/175cc23f13d6004d8b3d)
 
 ##Monad Transformer
+* [Monad Transformers and Modular Interpreters](http://haskell.cs.yale.edu/wp-content/uploads/2011/02/POPL96-Modular-interpreters.pdf)
 * [transformers](https://hackage.haskell.org/package/transformers)
 * [モナドトランスフォーマーとその周辺](http://qiita.com/ruicc/items/7512c990a1835bba444a)
 * [Haskell モナド変換子 超入門](http://qiita.com/7shi/items/4408b76624067c17e933)
@@ -50,3 +51,4 @@ mtlにはMonad Transformerを新しく定義する度に全ての組み合わせ
 * [24 Days of Hackage: extensible-effects](https://ocharles.org.uk/blog/posts/2013-12-04-24-days-of-hackage-extensible-effects.html)
 * [effin](https://hackage.haskell.org/package/effin)
 * [The effect-handlers package](https://hackage.haskell.org/package/effect-handlers)
+* [Freer Monads, More Extensible Effects](http://okmij.org/ftp/Haskell/extensible/more.pdf)
