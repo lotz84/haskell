@@ -274,6 +274,12 @@ Reader + Writer + State
 * [Making sequence/mapM for IO take O(1) stack](http://neilmitchell.blogspot.jp/2015/09/making-sequencemapm-for-io-take-o1-stack.html)
 * [Extra unsafe sequencing of IO actions](http://twanvl.nl/blog/haskell/unsafe-sequence)
 
+###LogicT
+* [リストモナドとLogicモナド](http://qiita.com/fumieval/items/794a85e2d7497b2463ba)
+* [Backtracking, Interleaving, and Terminating Monad Transformers](http://okmij.org/ftp/Computation/LogicT.pdf)
+* [The logict package](http://hackage.haskell.org/package/logict)
+* [BACKTRACKING, INTERLEAVING, AND TERMINATING MONAD TRANSFORMERS](http://halcat.org/oleg.html#/)
+
 ###Indexed Monad
 * [What is indexed monad?](http://stackoverflow.com/questions/28690448/what-is-indexed-monad)
 * [Indexed Monadの世界](http://fumieval.hatenablog.com/entry/2013/05/04/144840)
