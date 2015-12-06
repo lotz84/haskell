@@ -52,3 +52,4 @@ mtlにはMonad Transformerを新しく定義する度に全ての組み合わせ
 * [effin](https://hackage.haskell.org/package/effin)
 * [The effect-handlers package](https://hackage.haskell.org/package/effect-handlers)
 * [Freer Monads, More Extensible Effects](http://okmij.org/ftp/Haskell/extensible/more.pdf)
+* [Programming with Algebraic Effects and Handlers](http://math.andrej.com/2012/03/08/programming-with-algebraic-effects-and-handlers/)
