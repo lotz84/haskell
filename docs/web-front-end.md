@@ -25,6 +25,7 @@
 * [slamdata/purescript-halogen](https://github.com/slamdata/purescript-halogen)
 * [実例によるPureScript](http://hiruberuto.bitbucket.org/purescript/)
 * [purescript/purescript-free](https://github.com/purescript/purescript-free)
+* [Flare](http://david-peter.de/articles/flare/)
 
 ##HTML Template/DSL
 * [shakespeare](https://hackage.haskell.org/package/shakespeare)
