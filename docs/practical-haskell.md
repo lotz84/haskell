@@ -96,6 +96,7 @@
 * [Combining Rust and Haskell](http://tab.snarc.org/posts/haskell/2015-09-29-rust-with-haskell.html)
 * [language-c-quote](https://hackage.haskell.org/package/language-c-quote)
 * [Calling Python libraries from Haskell](https://john-millikin.com/articles/ride-the-snake/)
+* [HaskellのCインターフェースと選定基準](http://qiita.com/masatoko/items/06665400b2ef10a7e2b0)
 
 ##データ分析基盤
 * [Soostone/hadron](https://github.com/Soostone/hadron)
