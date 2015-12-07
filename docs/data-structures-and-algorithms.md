@@ -34,6 +34,7 @@
 * [Vertical Finger Trees](http://www.alexkyte.me/2015/10/vertical-finger-trees.html)
 * [The Theory of patches-vector](http://liamoc.net/posts/2015-11-10-patch-theory.html)
 * [Cellular Automata](https://www.fpcomplete.com/user/edwardk/cellular-automata)
+* [Towards general techniques in programming - the second diagonal principle](http://correctsoftware.websitefreelancing.com/index.php?/archives/6-Towards-general-techniques-in-programming-the-second-diagonal-principle.html)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
