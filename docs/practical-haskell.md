@@ -84,6 +84,7 @@
 * [hworker](http://hackage.haskell.org/package/hworker)
 * [EKG: Remote monitoring of running processes over HTTP](https://github.com/tibbe/ekg#readme)
 * [Record X11 window using ffmpeg](http://lpaste.net/145533)
+* [fuse でオレオレファイルシステムを作ってみた (Haskell で)](http://www.techscore.com/blog/2015/12/08/fuse-%E3%81%A7%E3%82%AA%E3%83%AC%E3%82%AA%E3%83%AC%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F-haskell-%E3%81%A7/)
 
 ##FFI
 * [inline-c](https://hackage.haskell.org/package/inline-c)
