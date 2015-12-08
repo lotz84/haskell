@@ -35,6 +35,7 @@
 * [The Theory of patches-vector](http://liamoc.net/posts/2015-11-10-patch-theory.html)
 * [Cellular Automata](https://www.fpcomplete.com/user/edwardk/cellular-automata)
 * [Towards general techniques in programming - the second diagonal principle](http://correctsoftware.websitefreelancing.com/index.php?/archives/6-Towards-general-techniques-in-programming-the-second-diagonal-principle.html)
+* [24 days of Hackage, 2015: day 7: semigroups; NonEmpty list and a case study of types and tests](http://conscientiousprogrammer.com/blog/2015/12/07/24-days-of-hackage-2015-day-7-semigroups-nonempty-list-and-a-case-study-of-types-and-tests/)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
