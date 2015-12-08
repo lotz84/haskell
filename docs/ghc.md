@@ -23,6 +23,7 @@
 * [ImpredicativePolymorphism/Impredicative-2015: impredicativity.pdf](https://ghc.haskell.org/trac/ghc/attachment/wiki/ImpredicativePolymorphism/Impredicative-2015/impredicativity.pdf)
 * [Static linking with ghc](https://ro-che.info/articles/2015-10-26-static-linking-ghc)
 * [ViewPatterns and lambda expansion](http://neilmitchell.blogspot.jp/2015/10/viewpatterns-and-lambda-expansion.html)
+* [GHC Derived Foldable and Traversable Instances](http://accidentallyquadratic.tumblr.com/post/134605666547/ghc-derived-foldable-and-traversable-instances)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
@@ -36,6 +37,8 @@
 * [A Haskell space leak](http://clrnd.com.ar/posts/2015-08-21-profiling-a-haskell-space-leak.html)
 * [Top tips and tools for optimising Haskell](https://blog.pusher.com/top-tips-and-tools-for-optimising-haskell/)
 * [ghc-simple](http://hackage.haskell.org/package/ghc-simple)
+* [僕が人生で起こした唯一のスペースリーク](http://d.hatena.ne.jp/kazu-yamamoto/20151207)
+* [スペースリーク、その傾向と対策](http://qiita.com/ruicc/items/bfa659c2ef9e1f75f7e1)
 
 ###7.10
 * [Functor-Applicative-Monad Proposal](https://wiki.haskell.org/Functor-Applicative-Monad_Proposal)
