@@ -105,6 +105,7 @@
 
 ##Heroku
 * [Deploying Haskell to Heroku using Docker](http://www.reddit.com/r/haskell/comments/35he88/deploying_haskell_to_heroku_using_docker/)
+* [Herokuで、Gititを起動する](http://qiita.com/rouge_pawn/items/4a5d5ee68590a002ce8d)
 
 ###Haskell on Heroku
 * [Haskell on Heroku](https://haskellonheroku.com/)
