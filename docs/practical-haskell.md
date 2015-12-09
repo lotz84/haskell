@@ -43,6 +43,7 @@
 ##Nix
 * [Nix ±Cabal](http://begriffs.com/posts/2015-08-07-nix-plus-minus-cabal.html)
 * [Haskell & Nix](https://www.youtube.com/playlist?list=PLErve0z4I-unD_Kz9LuK7fm_0xaZPyKA4)
+* [What's the point of Stackage LTS?](http://neilmitchell.blogspot.jp/2015/12/whats-point-of-stackage-lts.html)
 
 ##CI
 * [Shake](http://shakebuild.com/)
