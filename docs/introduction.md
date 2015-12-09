@@ -143,3 +143,4 @@ fib n = fibs !! (n-1) + fibs !! (n-2)
 * [The base-prelude package](https://hackage.haskell.org/package/base-prelude)
 * [fptudelft/FP101x-Content-2015](https://github.com/fptudelft/FP101x-Content-2015)
 * <https://twitter.com/GabrielG439/status/671803691591077888>
+* [On stateless software design: what is state ?](http://www.leonmergen.com/code/2015/12/04/on-stateless-software-design-what-is-state.html)
