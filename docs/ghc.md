@@ -40,6 +40,7 @@
 * [ghc-simple](http://hackage.haskell.org/package/ghc-simple)
 * [僕が人生で起こした唯一のスペースリーク](http://d.hatena.ne.jp/kazu-yamamoto/20151207)
 * [スペースリーク、その傾向と対策](http://qiita.com/ruicc/items/bfa659c2ef9e1f75f7e1)
+* [にせ末尾再帰](http://d.hatena.ne.jp/kazu-yamamoto/20151208)
 
 ###7.10
 * [Functor-Applicative-Monad Proposal](https://wiki.haskell.org/Functor-Applicative-Monad_Proposal)
