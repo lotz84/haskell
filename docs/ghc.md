@@ -24,6 +24,7 @@
 * [Static linking with ghc](https://ro-che.info/articles/2015-10-26-static-linking-ghc)
 * [ViewPatterns and lambda expansion](http://neilmitchell.blogspot.jp/2015/10/viewpatterns-and-lambda-expansion.html)
 * [GHC Derived Foldable and Traversable Instances](http://accidentallyquadratic.tumblr.com/post/134605666547/ghc-derived-foldable-and-traversable-instances)
+* [Correctness of short cut fusion](https://wiki.haskell.org/Correctness_of_short_cut_fusion)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
