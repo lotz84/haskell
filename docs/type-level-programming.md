@@ -413,3 +413,4 @@ instance Eval' Hole where
 * [The encode-decode method in HoTT, relationally](https://personal.cis.strath.ac.uk/fredrik.nordvall-forsberg/talks/stp_dundee_2015/stp_dundee_2015-10-07.pdf)
 * [The equivalence of the torus and the product of two circles in homotopy type theory](http://arxiv.org/abs/1510.03918)
 * [Categorical homotopy theory](http://www.math.harvard.edu/~eriehl/cathtpy.pdf)
+* [Constructing the Propositional Truncation using Non-recursive HITs](http://arxiv.org/abs/1512.02274)
