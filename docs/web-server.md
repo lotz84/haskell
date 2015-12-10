@@ -76,6 +76,7 @@
 * [futurice/haskell-servant-status](https://github.com/futurice/haskell-servant-status)
 * [Haskell and Servant on Scaleway ARM servers](http://statusfailed.com/blog/2015/11/29/haskell-and-servant-on-scaleway-arm-servers.html)
 * [Dependently typed servers in Servant](http://www.well-typed.com/blog/2015/12/dependently-typed-servers/)
+* [【型レベルWeb DSL】 Servantの紹介](http://qiita.com/lotz/items/883b41fa79f060e59efa)
 
 ####Microservices
 * [k-bx/owlcloud](https://github.com/k-bx/owlcloud)
