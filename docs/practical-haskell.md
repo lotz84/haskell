@@ -39,11 +39,12 @@
 * [Stackで管理しているHaskellのプロジェクトをCircleCIでビルドする](http://qiita.com/fujimura/items/b619e0a4ca2028b0eb03)
 * [Stack entering stabilization phase](https://www.fpcomplete.com/blog/2015/11/stack-stabilization)
 * [Haskell tidbits: 24 days of Hackage, 2015: day 1: Introduction and Stack](http://conscientiousprogrammer.com/blog/2015/11/30/haskell-tidbits-24-days-of-hackage-2015-day-1-introduction-and-stack/)
+* [What's the point of Stackage LTS?](http://neilmitchell.blogspot.jp/2015/12/whats-point-of-stackage-lts.html)
 
 ##Nix
 * [Nix ±Cabal](http://begriffs.com/posts/2015-08-07-nix-plus-minus-cabal.html)
 * [Haskell & Nix](https://www.youtube.com/playlist?list=PLErve0z4I-unD_Kz9LuK7fm_0xaZPyKA4)
-* [What's the point of Stackage LTS?](http://neilmitchell.blogspot.jp/2015/12/whats-point-of-stackage-lts.html)
+* [Stack + Nix = portable reproducible builds](http://www.tweag.io/blog/stack-nix-portable-reproducible-builds)
 
 ##CI
 * [Shake](http://shakebuild.com/)
