@@ -2,6 +2,7 @@
 * webfont generator - [ananthakumaran/webify](https://github.com/ananthakumaran/webify)
 * [LambdaCms](http://lambdacms.org/)
 * [Animating Web UI with React and Haskell](http://joelburget.com/react-haskell/)
+* [A Distributed Haskell for the Modern Web](http://ekblad.cc/lic.pdf)
 
 ##Elm
 * [elm](http://elm-lang.org/)
