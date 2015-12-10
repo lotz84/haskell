@@ -60,6 +60,7 @@
 * [lzma](https://hackage.haskell.org/package/lzma)
 * [lzma-streams](https://hackage.haskell.org/package/lzma-streams)
 * [buffer-builder](https://hackage.haskell.org/package/buffer-builder)
+* [The bytestring-tree-builder package](http://hackage.haskell.org/package/bytestring-tree-builder)
 
 ###配列
 * [The vector package](https://hackage.haskell.org/package/vector)
