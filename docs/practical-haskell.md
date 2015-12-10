@@ -10,6 +10,7 @@
 * [Dev and Deploy Haskell on Docker](http://begriffs.com/posts/2015-08-11-dev-deploy-haskell-docker.html)
 * [GaloisInc/HaLVM](https://github.com/GaloisInc/HaLVM)
 * [dkubb/haskell-builder](https://github.com/dkubb/haskell-builder)
+* [How to contribute to the Haskell ecosystem](http://www.haskellforall.com/2015/12/how-to-contribute-to-haskell-ecosystem.html)
 
 ##Cabal
 * [Hackage](http://hackage.haskell.org/)
