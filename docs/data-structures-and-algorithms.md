@@ -82,6 +82,10 @@
 * [Simple FFT in Haskell](https://ro-che.info/articles/2015-12-04-fft)
 * [Testing FFT with R](https://ro-che.info/articles/2015-12-05-testing-fft)
 
+###S式
+* [The s-cargot package](https://hackage.haskell.org/package/s-cargot)
+* [24 days of Hackage, 2015: day 10: s-cargot: using S-expression syntax](http://conscientiousprogrammer.com/blog/2015/12/10/24-days-of-hackage-2015-day-10-s-cargot-using-s-expression-syntax/)
+
 ###Record
 
 ```haskell
