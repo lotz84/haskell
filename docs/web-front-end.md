@@ -27,6 +27,7 @@
 * [実例によるPureScript](http://hiruberuto.bitbucket.org/purescript/)
 * [purescript/purescript-free](https://github.com/purescript/purescript-free)
 * [Flare](http://david-peter.de/articles/flare/)
+* [Pursuit](http://pursuit.purescript.org/)
 
 ##HTML Template/DSL
 * [shakespeare](https://hackage.haskell.org/package/shakespeare)
