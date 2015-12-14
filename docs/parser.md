@@ -10,6 +10,7 @@
 
 ##正規表現
 * [24 days of Hackage, 2015: day 2: Regexes with pcre-heavy; standalone Haskell scripts using Stack](http://conscientiousprogrammer.com/blog/2015/12/02/24-days-of-hackage-2015-day-2-regexes-with-pcre-heavy-standalone-haskell-scripts-using-stack/)
+* [lens-regex で正規表現を便利に](http://qiita.com/thimura/items/887db74cdf8bde9c1902)
 
 ##パーサーコンビネータ
 * [JavaScriptでパーサコンビネータのコンセプトを理解する](http://blog.anatoo.jp/entry/2015/04/26/220026)
