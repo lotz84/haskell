@@ -108,6 +108,7 @@ class Monad m where
 * [Free Monad](embedded-dsl.md#free-monad)
 * [Monads by Example](http://cs-syd.eu/posts/2014-11-23-monads-by-example.html)
 * [Implementing a category-theoretic Hask-monad in Haskell](https://medium.com/@brettwines/implementing-a-category-theoretic-hask-monad-in-haskell-7bf662f2e98b#.h73nxxjl2)
+* [24 days of Hackage, 2015: day 11: monad-loops: avoiding writing recursive functions by refactoring](http://conscientiousprogrammer.com/blog/2015/12/11/24-days-of-hackage-2015-day-11-monad-loops-avoiding-writing-recursive-functions-by-refactoring/)
 
 ```haskell
 do x <- mx
@@ -161,7 +162,13 @@ instance Monad [] where
 * [guard の動作原理を考える](http://d.hatena.ne.jp/kazu-yamamoto/20090401/1238555013)
 * [Easy exhasutive search with the list monad](http://blog.plover.com/prog/haskell/monad-search.html)
 
-###Either monad
+####LogicT
+* [リストモナドとLogicモナド](http://qiita.com/fumieval/items/794a85e2d7497b2463ba)
+* [Backtracking, Interleaving, and Terminating Monad Transformers](http://okmij.org/ftp/Computation/LogicT.pdf)
+* [The logict package](http://hackage.haskell.org/package/logict)
+* [BACKTRACKING, INTERLEAVING, AND TERMINATING MONAD TRANSFORMERS](http://halcat.org/oleg.html#/)
+
+###Either Monad
 
 ```haskell
 instance Monad (Either e) where
@@ -273,12 +280,6 @@ Reader + Writer + State
 * [純粋関数型JavaScriptのつくりかた](http://qiita.com/hiruberuto/items/810ecdff0c1674d1a74e)
 * [Making sequence/mapM for IO take O(1) stack](http://neilmitchell.blogspot.jp/2015/09/making-sequencemapm-for-io-take-o1-stack.html)
 * [Extra unsafe sequencing of IO actions](http://twanvl.nl/blog/haskell/unsafe-sequence)
-
-###LogicT
-* [リストモナドとLogicモナド](http://qiita.com/fumieval/items/794a85e2d7497b2463ba)
-* [Backtracking, Interleaving, and Terminating Monad Transformers](http://okmij.org/ftp/Computation/LogicT.pdf)
-* [The logict package](http://hackage.haskell.org/package/logict)
-* [BACKTRACKING, INTERLEAVING, AND TERMINATING MONAD TRANSFORMERS](http://halcat.org/oleg.html#/)
 
 ###Indexed Monad
 * [What is indexed monad?](http://stackoverflow.com/questions/28690448/what-is-indexed-monad)
