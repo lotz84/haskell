@@ -27,6 +27,7 @@
 * [GHC Derived Foldable and Traversable Instances](http://accidentallyquadratic.tumblr.com/post/134605666547/ghc-derived-foldable-and-traversable-instances)
 * [Correctness of short cut fusion](https://wiki.haskell.org/Correctness_of_short_cut_fusion)
 * [Monad of no return/>> Proposal (MRP)](https://ghc.haskell.org/trac/ghc/wiki/Proposal/MonadOfNoReturn)
+* [スレッドリーク](http://d.hatena.ne.jp/kazu-yamamoto/20151214)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
