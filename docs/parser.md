@@ -6,6 +6,7 @@
 * [ビジュアル構文解析](http://www.slideshare.net/ichikaz3/ss-11400787)
 * [A Tutorial Implementation of a Dependently Typed Lambda Calculus](http://www.andres-loeh.de/LambdaPi/)
 * [Tries and elegant Scope Checking](http://jaspervdj.be/posts/2015-10-30-tries-scope-checking.html)
+* [24 days of Hackage, 2015: day 13: hint: runtime eval for Haskell](http://conscientiousprogrammer.com/blog/2015/12/13/24-days-of-hackage-2015-day-13-hint-runtime-eval-for-haskell/)
 
 ##正規表現
 * [24 days of Hackage, 2015: day 2: Regexes with pcre-heavy; standalone Haskell scripts using Stack](http://conscientiousprogrammer.com/blog/2015/12/02/24-days-of-hackage-2015-day-2-regexes-with-pcre-heavy-standalone-haskell-scripts-using-stack/)
@@ -64,3 +65,4 @@ parse = evalStateT
 * [mgajda/json-autotype](https://github.com/mgajda/json-autotype)
 * [JSON Autotype 1.0 - Haskell SG](https://www.youtube.com/watch?v=8D2-m2ikydc)
 * [HaskellでのJSONパースがこんなに簡単だったとは](http://qiita.com/lotz/items/6305f8460db3419c22e3)
+* [24 days of Hackage, 2015: day 12: json-autotype: inferring types from data](http://conscientiousprogrammer.com/blog/2015/12/12/24-days-of-hackage-2015-day-12-json-autotype-inferring-types-from-data/)
