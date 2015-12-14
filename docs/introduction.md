@@ -145,3 +145,4 @@ fib n = fibs !! (n-1) + fibs !! (n-2)
 * <https://twitter.com/GabrielG439/status/671803691591077888>
 * [On stateless software design: what is state ?](http://www.leonmergen.com/code/2015/12/04/on-stateless-software-design-what-is-state.html)
 * [部分関数をどう扱うか(spoonの紹介)](http://qiita.com/techno-tanoC/items/1b725713cd01bdf83b40)
+* [The spoon package](https://hackage.haskell.org/package/spoon)
