@@ -68,13 +68,14 @@
 * [LLVM フレームワークで実用的なコンパイラーを作成する: 第 1 回](http://www.ibm.com/developerworks/jp/opensource/library/os-createcompilerllvm1/index.html)
 * [Implementing a JIT Compiled Language with Haskell and LLVM](http://www.stephendiehl.com/llvm/)
 
-###GHC拡張
+###言語拡張
 * [Language.Haskell.Extension](http://downloads.haskell.org/~ghc/latest/docs/html/libraries/Cabal-1.22.4.0/Language-Haskell-Extension.html)
 * [GHCanIUse](http://damianfral.github.io/ghcaniuse/)
 * [24 Days of GHC Extensions](https://ocharles.org.uk/blog/pages/2014-12-01-24-days-of-ghc-extensions.html)
 * [Language extensions](http://www.scs.stanford.edu/14sp-cs240h/slides/extensions-slides.html)
 * [見せてやろうGHCが持つ真のチカラを！ GHCの言語拡張を一覧する方法について。](http://qiita.com/tanakh/items/ee756a3948684ac30b34)
 * [GHC拡張FunctionalDependenciesとは](http://qiita.com/tattsun58/items/6a58b8125d6eccbd111b)
+* [Haskellの言語拡張たち](http://rf0444.hatenablog.jp/entry/20120513/1336883141)
 
 ###Pattern Synonyms
 * [Pattern Synonyms](https://ghc.haskell.org/trac/ghc/wiki/PatternSynonyms)
