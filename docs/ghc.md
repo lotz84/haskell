@@ -4,6 +4,7 @@
 * [dan-t/cabal-bounds](https://github.com/dan-t/cabal-bounds)
 * [rubik/argon](https://github.com/rubik/argon)
 * [A series about optimization](https://www.reddit.com/r/haskell/comments/3urjm3/a_series_about_optimization/)
+* [On sufficiently smart compilers](http://osa1.net/posts/2015-08-09-sufficiently-smart-compiler.html)
 
 ##GHC
 * [GHC Speed](https://perf.haskell.org/ghc/#)
