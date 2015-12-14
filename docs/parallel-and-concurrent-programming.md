@@ -29,6 +29,7 @@
 * [Repeating History: Execution Replay for Parallel Haskell Programs](https://research-repository.st-andrews.ac.uk/bitstream/10023/5895/1/tfp2012.pdf)
 * [Parallel Computation of Cryptographic Hash Functions](https://www.youtube.com/watch?v=VL04HTzL2B0)
 * [2 04 Imprving Implicit Parallelism](https://www.youtube.com/watch?v=UsU8h0WYemo)
+* [AutoPar: automating the parallelization of functional programs](http://doras.dcu.ie/20805/)
 
 ##並行
 * [RAM footprint per unit of concurrency (approx)](http://bob.ippoli.to/haskell-for-erlangers-2014/#/cost-of-concurrency)
