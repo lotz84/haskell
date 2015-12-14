@@ -17,6 +17,7 @@
 * [stackを使ってhaskellで最小のWeb Applicationしてみる](http://qiita.com/eielh/items/09b9f1c21f7d16e09ede)
 * [The smtp-mail package](https://hackage.haskell.org/package/smtp-mail)
 * [(解説) はてなブックマークにおけるアクセス制御 - 半環構造に基づくモデル化](http://developer.hatenastaff.com/entry/bookmark-semiring-ac)
+* [In the Age of Web: Typed Functional-First Programming Revisited](http://arxiv.org/abs/1512.01896)
 
 ##Logger
 * [wdanilo/haskell-logger](https://github.com/wdanilo/haskell-logger)
