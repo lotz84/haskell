@@ -205,6 +205,7 @@ $ heroku config:set HALCYON_NO_BUILD_DEPENDENCIES=0
 
 ###DSL for SQL
 * [Haskell Relational Record](https://khibino.github.io/haskell-relational-record/)
+* [Composable, Typesafe Query Building](https://htmlpreview.github.io/?https://github.com/khibino/haskell-relational-record/blob/master/doc/slide/PostgreSQL-Unconference-201512/Query.html)
 * [tomjaguarpaw/haskell-opaleye](https://github.com/tomjaguarpaw/haskell-opaleye)
 * [Opaleye’s sugar on top](http://ren.zone/articles/opaleye-sot)
 * [Typesafe SQL in Haskell - Ben Kolera - BFPG 2015-09](https://www.youtube.com/watch?v=A0oVn-GXOok)
