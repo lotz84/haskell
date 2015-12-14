@@ -60,6 +60,7 @@
 * [The design of the Strict Haskell pragma](http://blog.johantibell.com/2015/11/the-design-of-strict-haskell-pragma.html)
 * [Strict Haskell](http://d.hatena.ne.jp/kazu-yamamoto/20151117/1447726679)
 * [Custom Type Errors](https://ghc.haskell.org/trac/ghc/wiki/Proposal/CustomTypeErrors)
+* [Pattern Synonyms in GHC 8.0](http://mpickering.github.io/posts/2015-12-12-pattern-synonyms-8.html)
 
 ###LLVM
 * [LLVM フレームワークで実用的なコンパイラーを作成する: 第 1 回](http://www.ibm.com/developerworks/jp/opensource/library/os-createcompilerllvm1/index.html)
