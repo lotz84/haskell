@@ -144,3 +144,4 @@ fib n = fibs !! (n-1) + fibs !! (n-2)
 * [fptudelft/FP101x-Content-2015](https://github.com/fptudelft/FP101x-Content-2015)
 * <https://twitter.com/GabrielG439/status/671803691591077888>
 * [On stateless software design: what is state ?](http://www.leonmergen.com/code/2015/12/04/on-stateless-software-design-what-is-state.html)
+* [部分関数をどう扱うか(spoonの紹介)](http://qiita.com/techno-tanoC/items/1b725713cd01bdf83b40)
