@@ -109,6 +109,7 @@ class Monad m where
 * [Monads by Example](http://cs-syd.eu/posts/2014-11-23-monads-by-example.html)
 * [Implementing a category-theoretic Hask-monad in Haskell](https://medium.com/@brettwines/implementing-a-category-theoretic-hask-monad-in-haskell-7bf662f2e98b#.h73nxxjl2)
 * [24 days of Hackage, 2015: day 11: monad-loops: avoiding writing recursive functions by refactoring](http://conscientiousprogrammer.com/blog/2015/12/11/24-days-of-hackage-2015-day-11-monad-loops-avoiding-writing-recursive-functions-by-refactoring/)
+* [モナドのすべて](http://www.sampou.org/haskell/a-a-monads/html/index.html)
 
 ```haskell
 do x <- mx
