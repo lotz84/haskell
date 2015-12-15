@@ -20,6 +20,7 @@
 * [type roleについて学ぶ](http://qiita.com/hiratara/items/888bdae1455fd7c4a5f0)
 * [7.27. Roles](https://downloads.haskell.org/~ghc/7.10.1/docs/html/users_guide/roles.html)
 * [Generative Type Abstraction and Type-level Computation](http://www.seas.upenn.edu/~sweirich/papers/popl163af-weirich.pdf)
+* [型推論のしくみ](http://klabgames.tech.blog.jp.klab.com/archives/1047569315.html)
 
 ```haskell
 data Bottom
@@ -56,6 +57,7 @@ data HList (as :: [*]) where
 * [What is the purpose of `Data.Proxy`?](http://stackoverflow.com/questions/22116363/what-is-the-purpose-of-data-proxy)
 * [Data.Functor.Constant](https://hackage.haskell.org/package/transformers/docs/Data-Functor-Constant.html)
 * [Data.Tagged](https://hackage.haskell.org/package/tagged/docs/Data-Tagged.html)
+* [【幽霊型トリック集】キェェ！幽霊型でバグを呪い殺すのじゃ！【呪術プログラミング】](http://akabe.github.io/2015/12/PhantomTypeTricks/)
 
 ```haskell
 data Circle
