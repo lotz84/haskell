@@ -28,6 +28,8 @@
 * [Correctness of short cut fusion](https://wiki.haskell.org/Correctness_of_short_cut_fusion)
 * [Monad of no return/>> Proposal (MRP)](https://ghc.haskell.org/trac/ghc/wiki/Proposal/MonadOfNoReturn)
 * [スレッドリーク](http://d.hatena.ne.jp/kazu-yamamoto/20151214)
+* [Space Leak Zoo開園](https://medium.com/@maoe/space-leak-zoo%E9%96%8B%E5%9C%92-947b0422d7fd#.73wxzt8ku)
+* [Space Leak Zoo](https://medium.com/space-leak-zoo)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
