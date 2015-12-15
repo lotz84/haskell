@@ -9,6 +9,7 @@
 ##GHC
 * [GHC Speed](https://perf.haskell.org/ghc/#)
 * [Glasgow Haskell Compiler Users Guide](http://downloads.haskell.org/~ghc/master/users-guide/)
+* [GHCのこと](http://www.kotha.net/hperf/ghc.html)
 * [栄光のグラスゴーHaskellコンパイルシステム利用の手引き](http://www.kotha.net/ghcguide_ja/latest/)
 * [Haskell Hierarchical Libraries](https://downloads.haskell.org/~ghc/latest/docs/html/libraries/index.html)
 * [The Glasgow Haskell Compiler](http://www.aosabook.org/en/ghc.html)
@@ -50,7 +51,6 @@
 ###7.10
 * [Functor-Applicative-Monad Proposal](https://wiki.haskell.org/Functor-Applicative-Monad_Proposal)
 * [New in GHC 7.10: Partial Type Signatures](https://www.fpcomplete.com/user/thomasw/new-in-ghc-7-10-partial-type-signatures)
-* [GHCのこと](http://www.kotha.net/hperf/ghc.html)
 * [Foldable Traversable In Prelude](https://wiki.haskell.org/Foldable_Traversable_In_Prelude)
 * [Foldable for non-Haskellers: Haskell's controversial FTP proposal](http://tojans.me/blog/2015/10/13/foldable-for-non-haskellers-haskells-controversial-ftp-proposal/)
 * [Using Stack with GHC 7.10.3](https://www.fpcomplete.com/blog/2015/12/stack-with-ghc-7-10-3)
