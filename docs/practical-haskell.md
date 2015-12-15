@@ -101,6 +101,7 @@
 * [language-c-quote](https://hackage.haskell.org/package/language-c-quote)
 * [Calling Python libraries from Haskell](https://john-millikin.com/articles/ride-the-snake/)
 * [HaskellのCインターフェースと選定基準](http://qiita.com/masatoko/items/06665400b2ef10a7e2b0)
+* [erlang-ffi](https://twitter.com/puffnfresh/status/676608880714121220)
 
 ##データ分析基盤
 * [Soostone/hadron](https://github.com/Soostone/hadron)
