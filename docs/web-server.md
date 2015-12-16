@@ -105,6 +105,7 @@
 * [thoughtbot/yesod-auth-oauth2](https://github.com/thoughtbot/yesod-auth-oauth2)
 * [Progress with wai-devel](http://blog.urbanslug.com/programming/haskell/wai/wai-devel/2015/08/13/Progress-with-wai-devel.html)
 * [Haskell and Type-Safe Routing](http://andrewthad.blogspot.jp/2015/11/allr-detailsr-buyr-frompiece-str1-buyr.html)
+* [Yesod hosting with Docker and Kubernetes](http://www.yesodweb.com/blog/2015/12/yesod-hosting-docker-kubernetes)
 
 ##Heroku
 * [Deploying Haskell to Heroku using Docker](http://www.reddit.com/r/haskell/comments/35he88/deploying_haskell_to_heroku_using_docker/)
