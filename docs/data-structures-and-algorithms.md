@@ -40,6 +40,8 @@
 * [24 days of Hackage, 2015: day 8: multiset; I wish this were in the standard containers package](http://conscientiousprogrammer.com/blog/2015/12/08/24-days-of-hackage-2015-day-8-multiset-i-wish-this-were-in-the-standard-containers-package/)
 * [Subtractable values are torsors](https://ro-che.info/articles/2013-01-08-torsors)
 * [Torsors, midpoints, and homogeneous coordinates](https://ro-che.info/articles/2015-12-16-torsors-midpoints-homogeneous-coordinates)
+* [lotz84/transducer-survey.md](https://gist.github.com/lotz84/0cbe22416319b6caf2e1)
+* [Transducers: Why and How?](http://beerendlauwers.be/posts/2015-12-09-transducers.html)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
