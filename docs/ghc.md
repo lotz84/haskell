@@ -31,6 +31,7 @@
 * [スレッドリーク](http://d.hatena.ne.jp/kazu-yamamoto/20151214)
 * [Space Leak Zoo開園](https://medium.com/@maoe/space-leak-zoo%E9%96%8B%E5%9C%92-947b0422d7fd#.73wxzt8ku)
 * [Space Leak Zoo](https://medium.com/space-leak-zoo)
+* [[翻訳]Space leak zoo](http://qiita.com/tsukimizake774/items/b3ce44b7208523c6c046)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
