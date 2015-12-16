@@ -6,6 +6,7 @@
 * [frp-arduino/frp-arduino](https://github.com/frp-arduino/frp-arduino)
 * [CPUの創りかた(1): 基本論理回路の定義など](http://eijian.hatenablog.com/entry/2015/12/13/140226)
 * [ARMing Haskell](http://haskellembedded.github.io/posts/2015-12-15-arm.html)
+* [CλaSH FPGA Starter](http://christiaanb.github.io/posts/clash-fpga-starter/)
 
 ##ATS
 * [Japan ATS User Group](http://jats-ug.metasepi.org/)
