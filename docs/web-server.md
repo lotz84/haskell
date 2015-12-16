@@ -29,11 +29,6 @@
 * [Hakyllを使ってGitHub Pagesを作成して、そのソースも管理して、Travis CIで自動デプロイする。](http://imokuri123.com/blog/2015/04/create-github-pages-with-hakyll.html)
 * [Hakyllでページング](http://qiita.com/hiratara/items/714d890e1b363f06c2d3)
 
-##Docker
-* [How I deploy Haskell Code](http://www.alfredodinapoli.com/posts/2015-11-03-how-i-deploy-haskell-code.html)
-* [Docker Hosting – Run Docker Containers in any Cloud - Tutum](https://www.tutum.co/)
-* [Kubernetes for Haskell Services](https://www.fpcomplete.com/blog/2015/11/kubernetes)
-
 ##Web Socket
 * [Haskell から見た node.js](http://d.hatena.ne.jp/kazu-yamamoto/20110825/1314254885)
 * [websockets](http://jaspervdj.be/websockets/)
