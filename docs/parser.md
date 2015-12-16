@@ -40,6 +40,8 @@ parse = evalStateT
 * [8章:関数型パーサ](http://www.slideshare.net/RuiccRail/programming-haskell-chapter8)
 * [Simple Monadic Parser in Haskell](http://michal.muskala.eu/2015/09/23/simple-monadic-parser-in-haskell.html)
 * [Packrat Parsing: Simple, Powerful, Lazy, Linear Time](http://bford.info/pub/lang/packrat-icfp02.pdf)
+* Efficient parsing of large text files, [part1](https://hbtvl.wordpress.com/2015/11/19/efficient-parsing-of-large-text-files-part-1/) [part2](https://hbtvl.wordpress.com/2015/11/28/efficient-parsing-of-large-text-files-part-2/) [part3](https://hbtvl.wordpress.com/2015/11/29/efficient-parsing-of-large-text-files-part-3/) [part4](https://hbtvl.wordpress.com/2015/12/14/efficient-parsing-of-large-text-files-part-4-and-conclusion/)
+* [High-performance Log Parsing in Haskell: Part Two](https://www.safaribooksonline.com/blog/2015/12/14/high-performance-log-parsing-in-haskell-part-two/)
 
 ###Language
 * [Hackage Search: language](https://hackage.haskell.org/packages/search?terms=language)
