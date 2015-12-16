@@ -7,7 +7,6 @@
 * [Equational reasoning at scale](http://www.haskellforall.com/2014/07/equational-reasoning-at-scale.html)
 * [Just do it: Simple monadic equational reasoning](http://www.cs.ox.ac.uk/publications/publication4877-abstract.html)
 * [How to prove large software projects correct](http://www.techcast.com/events/bigtechday8/maffei-1450/?q=maffei-1450)
-* [Dev and Deploy Haskell on Docker](http://begriffs.com/posts/2015-08-11-dev-deploy-haskell-docker.html)
 * [GaloisInc/HaLVM](https://github.com/GaloisInc/HaLVM)
 * [dkubb/haskell-builder](https://github.com/dkubb/haskell-builder)
 * [How to contribute to the Haskell ecosystem](http://www.haskellforall.com/2015/12/how-to-contribute-to-haskell-ecosystem.html)
@@ -47,6 +46,14 @@
 * [Haskell & Nix](https://www.youtube.com/playlist?list=PLErve0z4I-unD_Kz9LuK7fm_0xaZPyKA4)
 * [Stack + Nix = portable reproducible builds](http://www.tweag.io/blog/stack-nix-portable-reproducible-builds)
 
+##Docker
+* [How I deploy Haskell Code](http://www.alfredodinapoli.com/posts/2015-11-03-how-i-deploy-haskell-code.html)
+* [Docker Hosting – Run Docker Containers in any Cloud - Tutum](https://www.tutum.co/)
+* [Kubernetes for Haskell Services](https://www.fpcomplete.com/blog/2015/11/kubernetes)
+* [Dev and Deploy Haskell on Docker](http://begriffs.com/posts/2015-08-11-dev-deploy-haskell-docker.html)
+* [Docker container with ip address on local network](http://therning.org/magnus/posts/2015-10-22-000-docker-container-with-ip-address-on-local-network.html)
+* [The split-image approach to building minimal runtime Docker images](https://www.fpcomplete.com/blog/2015/12/docker-split-images)
+
 ##CI
 * [Shake](http://shakebuild.com/)
   * [Applicative vs Monadic build systems](http://neilmitchell.blogspot.co.uk/2014/07/applicative-vs-monadic-build-systems.html)
@@ -59,7 +66,6 @@
 * [Haskell on Travis CI](http://justus.science/blog/2015/09/04/travis.html)
 * [hvr/multi-ghc-travis](https://github.com/hvr/multi-ghc-travis)
 * [The hapistrano package](https://hackage.haskell.org/package/hapistrano)
-* [Docker container with ip address on local network](http://therning.org/magnus/posts/2015-10-22-000-docker-container-with-ip-address-on-local-network.html)
 * [Stackで管理しているHaskellのプロジェクトをCircleCIでビルドする](http://qiita.com/fujimura/items/b619e0a4ca2028b0eb03)
 * [How I deploy Haskell Code](http://www.alfredodinapoli.com/posts/2015-11-03-how-i-deploy-haskell-code.html)
 * [herokuにhaskellのウェブアプリをdocker:releaseをつかってデプロイしてみる](http://qiita.com/eielh/items/e52aeee1419ba611a84d)
