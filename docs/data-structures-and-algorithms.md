@@ -38,6 +38,8 @@
 * [Towards general techniques in programming - the second diagonal principle](http://correctsoftware.websitefreelancing.com/index.php?/archives/6-Towards-general-techniques-in-programming-the-second-diagonal-principle.html)
 * [24 days of Hackage, 2015: day 7: semigroups; NonEmpty list and a case study of types and tests](http://conscientiousprogrammer.com/blog/2015/12/07/24-days-of-hackage-2015-day-7-semigroups-nonempty-list-and-a-case-study-of-types-and-tests/)
 * [24 days of Hackage, 2015: day 8: multiset; I wish this were in the standard containers package](http://conscientiousprogrammer.com/blog/2015/12/08/24-days-of-hackage-2015-day-8-multiset-i-wish-this-were-in-the-standard-containers-package/)
+* [Subtractable values are torsors](https://ro-che.info/articles/2013-01-08-torsors)
+* [Torsors, midpoints, and homogeneous coordinates](https://ro-che.info/articles/2015-12-16-torsors-midpoints-homogeneous-coordinates)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
