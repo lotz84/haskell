@@ -44,12 +44,8 @@ instance Show Bool where
 * [Maintainable Type Classes for Haskell](https://ff32.host.cs.st-andrews.ac.uk/papers/hsym15.pdf)
 * [10章:型とクラスの定義](http://www.slideshare.net/RuiccRail/programming-haskell-chapter10)
 * [Scrap your type classes](http://www.haskellforall.com/2012/05/scrap-your-type-classes.html)
+* [Counterexamples of Type Classes](http://blog.functorial.com/posts/2015-12-06-Counterexamples.html)
 
-##Show
-##Eq
-##Ord
-##Enum
-##数に関する型クラス
 ##Monoid
 * [Haskell Monoids and their Uses](http://blog.sigfpe.com/2009/01/haskell-monoids-and-their-uses.html)
 * [Monoids and Finger Trees](http://apfelmus.nfshost.com/articles/monoid-fingertree.html)
