@@ -51,6 +51,7 @@ sieve (p:xs) = p : sieve [x | x <- xs, x `mod` p /= 0]
 * [Haskell Design Patterns](https://www.packtpub.com/application-development/haskell-design-patterns)
 * [The category design pattern](http://www.haskellforall.com/2012/08/the-category-design-pattern.html)
 * [安定結婚問題を解きながらHaskellプログラミングを紹介しつつ恋愛について学ぶ](http://qiita.com/cutsea110/items/27d9f6db834b70e52dd9)
+* [Haskell for Mac でちょっと Haskell をさわってみる](http://qiita.com/usamik26/items/d99bf694150a549b5078)
 
 ##Editor
 * [Leksah](http://leksah.org/)
