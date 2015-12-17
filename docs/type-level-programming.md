@@ -21,6 +21,7 @@
 * [7.27. Roles](https://downloads.haskell.org/~ghc/7.10.1/docs/html/users_guide/roles.html)
 * [Generative Type Abstraction and Type-level Computation](http://www.seas.upenn.edu/~sweirich/papers/popl163af-weirich.pdf)
 * [型推論のしくみ](http://klabgames.tech.blog.jp.klab.com/archives/1047569315.html)
+* [thihの解析に進捗があります](http://qiita.com/h_sakurai/items/afab2e180497e49aa106)
 
 ```haskell
 data Bottom
