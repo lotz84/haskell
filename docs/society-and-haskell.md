@@ -46,6 +46,7 @@
 * [Fighting spam with Haskell](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/)
 * [The Road to Running Haskell at Facebook Scale - Jon Coens](https://www.youtube.com/watch?v=sl2zo7tzrO8)
 * [Facebook’s New Spam-Killer Hints at the Future of Coding](http://www.wired.com/2015/09/facebooks-new-anti-spam-system-hints-future-coding/)
+* [Research Intern (Functional Programming)](https://www.facebook.com/careers/jobs/a0I1200000I9saG/)
 
 ###Microsoft
 * [Simon Peyton Jones - Microsoft Research](http://research.microsoft.com/en-us/people/simonpj/)
