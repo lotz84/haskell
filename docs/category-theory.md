@@ -165,6 +165,7 @@ instance Monad [] where
 
 ####LogicT
 * [リストモナドとLogicモナド](http://qiita.com/fumieval/items/794a85e2d7497b2463ba)
+* [LogicT](http://halcat.org/haskell/logic/index.html)
 * [Backtracking, Interleaving, and Terminating Monad Transformers](http://okmij.org/ftp/Computation/LogicT.pdf)
 * [The logict package](http://hackage.haskell.org/package/logict)
 * [BACKTRACKING, INTERLEAVING, AND TERMINATING MONAD TRANSFORMERS](http://halcat.org/oleg.html#/)
