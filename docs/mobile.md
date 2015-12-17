@@ -7,6 +7,7 @@
 * [CPUの創りかた(1): 基本論理回路の定義など](http://eijian.hatenablog.com/entry/2015/12/13/140226)
 * [ARMing Haskell](http://haskellembedded.github.io/posts/2015-12-15-arm.html)
 * [CλaSH FPGA Starter](http://christiaanb.github.io/posts/clash-fpga-starter/)
+* [FFT With Circat](http://begriffs.com/posts/2015-12-14-fft-with-circat.html)
 
 ##ATS
 * [Japan ATS User Group](http://jats-ug.metasepi.org/)
