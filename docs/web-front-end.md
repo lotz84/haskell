@@ -14,8 +14,12 @@
 * [Building elm with stack](http://therning.org/magnus/posts/2015-10-13-000-building-elm-with-stack.html)
 
 ##AltJS
+* [Haskell風AltJSのベンチマーク](http://qiita.com/philopon/items/1451f6b8c5ccec41479d)
 * [Haste](http://haste-lang.org/)
   * [Client-side haskell](http://ifeanyi.co/posts/client-side-haskell/)
+* <http://lesguillemets.github.io/fouricle/>
+* [オートマトンで遊ぶやつを作った](http://myuon-myon.hatenablog.com/entry/2015/12/18/193654)
+* [Automatoy](http://myuon.github.io/automatoy/)
 * [ghcjs/ghcjs](https://github.com/ghcjs/ghcjs)
 * [faylang/fay](https://github.com/faylang/fay)
 
