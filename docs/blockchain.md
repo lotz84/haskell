@@ -19,6 +19,7 @@
 * [coincheck payment](https://coincheck.jp/payment)
 * [Counterparty](http://counterparty.io/)
 * [金融審議会「決済業務等の高度化に関するワーキング・グループ」（第４回）議事次第](http://www.fsa.go.jp/singi/singi_kinyu/kessai_wg/siryou/20151116.html)
+* [Bitcoin@Wiki - 手数料](http://www58.atwiki.jp/coinwiki/pages/27.html)
 
 ###入門
 * [誰も教えてくれないけれど、これを読めば分かるビットコインの仕組みと可能性](http://jp.techcrunch.com/2015/03/31/bitcoin-essay/)
