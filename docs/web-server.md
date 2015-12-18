@@ -125,6 +125,7 @@ $ heroku config:set HALCYON_NO_BUILD_DEPENDENCIES=0
 * [Creating a BitTorrent client in Haskell #2](http://blog.chaps.io/2015/10/13/torrent-client-in-haskell-2.html)
 * [Creating a BitTorrent client in Haskell #3](http://blog.chaps.io/2015/11/24/torrent-client-in-haskell-3)
 * [basvandijk/rss](https://github.com/basvandijk/rss)
+* [pontarius/pontarius-xmpp](https://github.com/pontarius/pontarius-xmpp)
 * **HTTP/HTTPS**
   * [http-client](https://hackage.haskell.org/package/http-client)
   * [http-client-tls](https://hackage.haskell.org/package/http-client-tls)
