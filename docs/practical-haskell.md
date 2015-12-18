@@ -68,7 +68,6 @@
 * [The hapistrano package](https://hackage.haskell.org/package/hapistrano)
 * [Stackで管理しているHaskellのプロジェクトをCircleCIでビルドする](http://qiita.com/fujimura/items/b619e0a4ca2028b0eb03)
 * [How I deploy Haskell Code](http://www.alfredodinapoli.com/posts/2015-11-03-how-i-deploy-haskell-code.html)
-* [herokuにhaskellのウェブアプリをdocker:releaseをつかってデプロイしてみる](http://qiita.com/eielh/items/e52aeee1419ba611a84d)
 
 ##CLI
 * [zalora/getopt-generics](https://github.com/zalora/getopt-generics)
@@ -94,6 +93,8 @@
 * [EKG: Remote monitoring of running processes over HTTP](https://github.com/tibbe/ekg#readme)
 * [Record X11 window using ffmpeg](http://lpaste.net/145533)
 * [fuse でオレオレファイルシステムを作ってみた (Haskell で)](http://www.techscore.com/blog/2015/12/08/fuse-%E3%81%A7%E3%82%AA%E3%83%AC%E3%82%AA%E3%83%AC%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F-haskell-%E3%81%A7/)
+* [HaskellのSystem.Console.ParseArgs](http://yu-i9.hatenablog.com/entry/2014/08/29/135253)
+* [24 days of Hackage, 2015: day 17: ansi-wl-pprint: avoiding string hacking](http://conscientiousprogrammer.com/blog/2015/12/17/24-days-of-hackage-2015-day-17-ansi-wl-pprint-avoiding-string-hacking/)
 
 ##FFI
 * [inline-c](https://hackage.haskell.org/package/inline-c)
