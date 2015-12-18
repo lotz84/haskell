@@ -214,6 +214,7 @@ instance Monad (Reader e) where
 * [Reader monad](http://mbps.hatenablog.com/entry/2014/11/08/010000)
 * [Dependency InjectionとDSL](http://qiita.com/yyu/items/a2debfcde8f1915d5083)
 * [Quick interpreters with the Reader monad](https://donsbot.wordpress.com/2006/12/11/quick-interpreters-with-the-reader-monad/)
+* [Haskellで大域変数が欲しい時はReaderモナドを使いましょう](http://yu-i9.hatenablog.com/entry/2014/11/19/235007)
 
 ###Writer Monad
 
