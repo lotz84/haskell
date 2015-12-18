@@ -59,6 +59,12 @@ parse = evalStateT
 * [xml-conduit](https://hackage.haskell.org/package/xml-conduit)
   * [xml-lens](https://hackage.haskell.org/package/xml-lens)
 
+###Excel
+* [xlsx](https://hackage.haskell.org/package/xlsx)
+
+###PDF
+* [詳細PDF入門 ー 実装して学ぼう！PDFファイルの構造とその書き方読み方](http://itchyny.hatenablog.com/entry/2015/09/16/100000)
+
 ###JSON
 * [aeson](http://hackage.haskell.org/package/aeson)
   * [Aeson: the tutorial](http://artyom.me/aeson)
