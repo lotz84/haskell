@@ -62,6 +62,7 @@ Passed:
 * [criterion](http://hackage.haskell.org/package/criterion)
 * [Perf for low-level profiling](https://www.fpcomplete.com/user/bitonic/perf-for-low-level-profiling)
 * [Control.Exception.Base (assert)](http://hackage.haskell.org/package/base-4.8.1.0/docs/Control-Exception-Base.html#v:assert)
+* [【Haskell】Debug.Traceとプロファイリングで幸せなデバッグ生活](http://yu-i9.hatenablog.com/entry/2014/09/04/000000)
 
 ##例外処理
 * <https://twitter.com/GabrielG439/status/656202814121574400>
