@@ -130,8 +130,6 @@
 * [The Music Suite](http://music-suite.github.io/docs/ref/)
 * [passy/android-lint-summary](https://github.com/passy/android-lint-summary)
 * A comprehensive Amazon Web Services SDK for Haskell - [brendanhay/amazonka](https://github.com/brendanhay/amazonka)
-* [xlsx](https://hackage.haskell.org/package/xlsx)
-* [詳細PDF入門 ー 実装して学ぼう！PDFファイルの構造とその書き方読み方](http://itchyny.hatenablog.com/entry/2015/09/16/100000)
 * [How to make your Haskell code more readable to non-Haskell programmers](http://www.haskellforall.com/2015/09/how-to-make-your-haskell-code-more.html)
 * [2D Contouring](http://www.mattkeeter.com/projects/contours/)
 * [mrkkrp/htaglib](https://github.com/mrkkrp/htaglib)
