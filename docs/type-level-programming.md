@@ -22,6 +22,8 @@
 * [Generative Type Abstraction and Type-level Computation](http://www.seas.upenn.edu/~sweirich/papers/popl163af-weirich.pdf)
 * [型推論のしくみ](http://klabgames.tech.blog.jp.klab.com/archives/1047569315.html)
 * [thihの解析に進捗があります](http://qiita.com/h_sakurai/items/afab2e180497e49aa106)
+* [型クラスを含んだ型推論を概観する 〜Typing Haskell in Haskell より〜](http://yu-i9.hatenablog.com/entry/thih)
+* [System F をHaskellとPythonで実装した](http://yu-i9.hatenablog.com/entry/2015/08/10/154353)
 
 ```haskell
 data Bottom
