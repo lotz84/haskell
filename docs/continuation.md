@@ -58,6 +58,8 @@ reset e = return $ e `runCont` id
 * [Control.Monad.Cont](https://hackage.haskell.org/package/mtl/docs/Control-Monad-Cont.html)
 * [Haskell/Continuation passing style](http://en.wikibooks.org/wiki/Haskell/Continuation_passing_style)
 * [Compiling With CPS](http://jozefg.bitbucket.org/posts/2015-04-30-cps.html)
+* [Haskell で継続渡しスタイル (CPS)](http://jutememo.blogspot.jp/2011/05/haskell-cps.html)
+* [The mtl-c package](https://hackage.haskell.org/package/mtl-c)
 
 ```haskell
 -- Another junior Haskell programmer
