@@ -43,3 +43,4 @@
 * [drKraken/haskell-must-watch](https://github.com/drKraken/haskell-must-watch)
 * [beerendlauwers/haskell-papers-ereader](https://github.com/beerendlauwers/haskell-papers-ereader)
 * [Intermediate Haskell](https://www.fpcomplete.com/user/commercial/outline/intermediate-haskell)
+* [Reflecting on Haskell in 2015](http://www.stephendiehl.com/posts/haskell_2016.html)
