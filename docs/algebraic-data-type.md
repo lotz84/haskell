@@ -17,6 +17,7 @@ type a :*: b = (a, b)
 * [The Algebra of Programming in Haskell](http://www.cs.ox.ac.uk/research/pdt/ap/dgp/workshop2004/oliveira.pdf)
 * [The Algebra of Algebraic Data Types, Part 1](http://chris-taylor.github.io/blog/2013/02/10/the-algebra-of-algebraic-data-types/)
 * [Why are ADTs necessary?](http://www.reddit.com/r/haskell/comments/2z1n16/why_are_adts_necessary/)
+* [Algebraic Data Types Demystified](http://blog.haskellformac.com/blog/algebraic-data-types-demystified)
 
 ###Codata
 * [Codata](http://types2004.lri.fr/SLIDES/altenkirch.pdf)
