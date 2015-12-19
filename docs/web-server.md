@@ -18,6 +18,7 @@
 * [The smtp-mail package](https://hackage.haskell.org/package/smtp-mail)
 * [(解説) はてなブックマークにおけるアクセス制御 - 半環構造に基づくモデル化](http://developer.hatenastaff.com/entry/bookmark-semiring-ac)
 * [In the Age of Web: Typed Functional-First Programming Revisited](http://arxiv.org/abs/1512.01896)
+* [FRPNowをサーバで使ってみた](http://qiita.com/asukamirai/items/d23c34a71d72d077e39d)
 
 ##Logger
 * [wdanilo/haskell-logger](https://github.com/wdanilo/haskell-logger)
