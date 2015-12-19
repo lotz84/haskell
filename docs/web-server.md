@@ -28,6 +28,7 @@
 * [Hakyll](http://jaspervdj.be/hakyll/)
 * [Hakyllを使ってGitHub Pagesを作成して、そのソースも管理して、Travis CIで自動デプロイする。](http://imokuri123.com/blog/2015/04/create-github-pages-with-hakyll.html)
 * [Hakyllでページング](http://qiita.com/hiratara/items/714d890e1b363f06c2d3)
+* [Hakyllでブログを作る(実践編)](https://imokuri123.com/blog/2015/12/how-to-create-blog-with-hakyll-part1.html)
 
 ##Web Socket
 * [Haskell から見た node.js](http://d.hatena.ne.jp/kazu-yamamoto/20110825/1314254885)
