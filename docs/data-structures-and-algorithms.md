@@ -42,6 +42,8 @@
 * [Torsors, midpoints, and homogeneous coordinates](https://ro-che.info/articles/2015-12-16-torsors-midpoints-homogeneous-coordinates)
 * [lotz84/transducer-survey.md](https://gist.github.com/lotz84/0cbe22416319b6caf2e1)
 * [Transducers: Why and How?](http://beerendlauwers.be/posts/2015-12-09-transducers.html)
+* [Haskell Tutorial: Implementing highly efficient data structures with Monoids and Fingertrees](https://www.codementor.io/haskell/tutorial/monoids-fingertrees-implement-abstract-data)
+* [24 days of Hackage, 2015: day 18: vector, vector-algorithms: unleash your inner C programmer!](http://conscientiousprogrammer.com/blog/2015/12/18/24-days-of-hackage-2015-day-18-vector-vector-algorithms-unleash-your-inner-c-programmer/)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
