@@ -22,6 +22,8 @@
 * [Automatoy](http://myuon.github.io/automatoy/)
 * [ghcjs/ghcjs](https://github.com/ghcjs/ghcjs)
 * [faylang/fay](https://github.com/faylang/fay)
+* [Haskell + Haste で Fourier 級数の可視化](http://qiita.com/lesguillemets/items/dbd928237be3e6a1221d)
+* [Haste + Parsec でブラウザ上で動く電卓をつくる](http://qiita.com/lesguillemets/items/b58e684a773fb4b5e4aa)
 
 ###Pure Script
 * <http://www.purescript.org/>
