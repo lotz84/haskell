@@ -332,6 +332,7 @@ Reader + Writer + State
 * [String diagram](https://www.youtube.com/playlist?list=PL50ABC4792BD0A086)
 * [String diagram](http://mbps.hatenablog.com/entry/2015/02/07/175148)
 * [Category Theory Using String Diagrams](http://jp.arxiv.org/abs/1401.7220)
+* [String diagram のすすめ](http://mbps.hatenablog.com/entry/2015/12/20/070000)
 
 ###CPL
 * [圏論プログラミング言語 CPL](http://mandel59.hateblo.jp/entry/2015/02/02/110621)
