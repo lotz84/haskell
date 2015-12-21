@@ -15,6 +15,7 @@
 * [Hackage](http://hackage.haskell.org/)
 * [Hackage Dependency Monitor](http://packdeps.haskellers.com/)
 * [Cabalでビルド時にProtocol Buffersファイルをコンパイルする](http://qiita.com/yunomu/items/a8ef65dccc1c085b7c0d)
+* [stepcut/hackage-whatsnew](https://github.com/stepcut/hackage-whatsnew)
 
 ##Stack
 * [The Haskell Tool Stack](http://docs.haskellstack.org/en/stable/README.html)
@@ -109,6 +110,7 @@
 * [Calling Python libraries from Haskell](https://john-millikin.com/articles/ride-the-snake/)
 * [HaskellのCインターフェースと選定基準](http://qiita.com/masatoko/items/06665400b2ef10a7e2b0)
 * [erlang-ffi](https://twitter.com/puffnfresh/status/676608880714121220)
+* [Using withPtr From inline-c in Haskell](http://two-wrongs.com/using-withptr-from-inline-c-in-haskell)
 
 ##データ分析基盤
 * [Soostone/hadron](https://github.com/Soostone/hadron)
