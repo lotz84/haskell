@@ -44,6 +44,7 @@
 * [Transducers: Why and How?](http://beerendlauwers.be/posts/2015-12-09-transducers.html)
 * [Haskell Tutorial: Implementing highly efficient data structures with Monoids and Fingertrees](https://www.codementor.io/haskell/tutorial/monoids-fingertrees-implement-abstract-data)
 * [24 days of Hackage, 2015: day 18: vector, vector-algorithms: unleash your inner C programmer!](http://conscientiousprogrammer.com/blog/2015/12/18/24-days-of-hackage-2015-day-18-vector-vector-algorithms-unleash-your-inner-c-programmer/)
+* [Tag, don't type](https://github.com/quchen/articles/blob/master/tag-dont-type.md)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
