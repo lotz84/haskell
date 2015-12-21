@@ -49,6 +49,8 @@
 * [僕が人生で起こした唯一のスペースリーク](http://d.hatena.ne.jp/kazu-yamamoto/20151207)
 * [スペースリーク、その傾向と対策](http://qiita.com/ruicc/items/bfa659c2ef9e1f75f7e1)
 * [にせ末尾再帰](http://d.hatena.ne.jp/kazu-yamamoto/20151208)
+* [24 days of Hackage, 2015: day 19: ghc-core-html, list-fusion-probe; checking GHC's fusion rewrite rules for erasing intermediate data from existence](http://conscientiousprogrammer.com/blog/2015/12/19/24-days-of-hackage-2015-day-19-ghc-core-html-list-fusion-probe-checking-ghcs-fusion-rewrite-rules-for-erasing-intermediate-data-from-existence/)
+* [GHC optimisations](https://wiki.haskell.org/GHC_optimisations)
 
 ###7.10
 * [Functor-Applicative-Monad Proposal](https://wiki.haskell.org/Functor-Applicative-Monad_Proposal)
