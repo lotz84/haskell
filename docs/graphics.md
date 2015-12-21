@@ -30,6 +30,7 @@
 * [Comonad and Sierpinski gasket](http://nbviewer.ipython.org/urls/gist.githubusercontent.com/miguel-negrao/571be4120ebecdbb3e26/raw/b740adc557fe097f9c6ff66ff7349bbf0a095091/gistfile1.txt)
 * [Haskell で振動子](http://d.hatena.ne.jp/webapp/20110508)
 * [24 days of Hackage, 2015: day 20: dimensional: type-checked computation on physical quantities with units](http://conscientiousprogrammer.com/blog/2015/12/20/24-days-of-hackage-2015-day-20-dimensional-type-checked-computation-on-physical-quantities-with-units/)
+* [Haphviz: Graphviz code generation with Haskell](http://cs-syd.eu/posts/2015-12-20-haphviz-graphviz-code-generation-with-haskell.html)
 
 ##Gloss
 * [gloss](http://hackage.haskell.org/package/gloss)
