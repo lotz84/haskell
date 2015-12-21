@@ -24,6 +24,7 @@
 * [thihの解析に進捗があります](http://qiita.com/h_sakurai/items/afab2e180497e49aa106)
 * [型クラスを含んだ型推論を概観する 〜Typing Haskell in Haskell より〜](http://yu-i9.hatenablog.com/entry/thih)
 * [System F をHaskellとPythonで実装した](http://yu-i9.hatenablog.com/entry/2015/08/10/154353)
+* [Decidable Propositional Equality in Haskell](https://typesandkinds.wordpress.com/2012/12/01/decidable-propositional-equality-in-haskell/)
 
 ```haskell
 data Bottom
