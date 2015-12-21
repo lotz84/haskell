@@ -76,6 +76,7 @@
 * [Haskell and Servant on Scaleway ARM servers](http://statusfailed.com/blog/2015/11/29/haskell-and-servant-on-scaleway-arm-servers.html)
 * [Dependently typed servers in Servant](http://www.well-typed.com/blog/2015/12/dependently-typed-servers/)
 * [【型レベルWeb DSL】 Servantの紹介](http://qiita.com/lotz/items/883b41fa79f060e59efa)
+* [tel/serv](https://github.com/tel/serv)
 
 ####Microservices
 * [k-bx/owlcloud](https://github.com/k-bx/owlcloud)
@@ -107,6 +108,7 @@
 ##Heroku
 * [Deploying Haskell to Heroku using Docker](http://www.reddit.com/r/haskell/comments/35he88/deploying_haskell_to_heroku_using_docker/)
 * [Herokuで、Gititを起動する](http://qiita.com/rouge_pawn/items/4a5d5ee68590a002ce8d)
+* [Haskell + Yesodで作ったアプリをHerokuにデプロイする](http://qiita.com/etmnk/items/79f022cd6cb5fd2e8794)
 
 ###Haskell on Heroku
 * [Haskell on Heroku](https://haskellonheroku.com/)
