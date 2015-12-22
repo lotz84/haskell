@@ -48,6 +48,9 @@
 * [Facebook’s New Spam-Killer Hints at the Future of Coding](http://www.wired.com/2015/09/facebooks-new-anti-spam-system-hints-future-coding/)
 * [Research Intern (Functional Programming)](https://www.facebook.com/careers/jobs/a0I1200000I9saG/)
 
+###Twitter
+* [FUNctional Programming with Haskell - Twitter Tech Talk](https://www.wagonhq.com/blog/twitter-tech-talk)
+
 ###Microsoft
 * [Simon Peyton Jones - Microsoft Research](http://research.microsoft.com/en-us/people/simonpj/)
 * [BlockApps Strato](http://blockapps.net/pdfs/blockapps-strato-microsoft-partnership.pdf)
