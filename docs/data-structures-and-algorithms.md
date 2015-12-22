@@ -45,6 +45,7 @@
 * [Haskell Tutorial: Implementing highly efficient data structures with Monoids and Fingertrees](https://www.codementor.io/haskell/tutorial/monoids-fingertrees-implement-abstract-data)
 * [24 days of Hackage, 2015: day 18: vector, vector-algorithms: unleash your inner C programmer!](http://conscientiousprogrammer.com/blog/2015/12/18/24-days-of-hackage-2015-day-18-vector-vector-algorithms-unleash-your-inner-c-programmer/)
 * [Tag, don't type](https://github.com/quchen/articles/blob/master/tag-dont-type.md)
+* [巡回冗長検査(CRC-32)のHaskellでの実装](http://qiita.com/YoshikuniJujo/items/687ad7cb6f6e97725121)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
