@@ -60,6 +60,7 @@
 * [Shake](http://shakebuild.com/)
   * [Applicative vs Monadic build systems](http://neilmitchell.blogspot.co.uk/2014/07/applicative-vs-monadic-build-systems.html)
   * [Defining your own build system With Shake](http://ndmitchell.com/downloads/slides-defining_your_own_build_system_with_shake-09_oct_2015.pdf)
+* [24 days of Hackage, 2015: day 22: Shake: the dynamic build system](http://conscientiousprogrammer.com/blog/2015/12/22/24-days-of-hackage-2015-day-22-shake-the-dynamic-build-system/)
 * [ndmitchell/bake](https://github.com/ndmitchell/bake)
 * [hvr/multi-ghc-travis](https://github.com/hvr/multi-ghc-travis)
 * [phadej/travis-meta-yaml](https://github.com/phadej/travis-meta-yaml)
