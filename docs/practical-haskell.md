@@ -143,3 +143,4 @@
 * [Paul Chiusano on csound-expression](https://www.youtube.com/watch?v=O0oBXcwGZQY&feature=youtu.be)
 * [Haskell-native spreadsheets](http://www.haskellforall.com/2015/11/haskell-native-spreadsheets.html)
 * [Frege, a Haskell for the JVM by Dierk König](https://www.youtube.com/watch?v=1P1-HXNfFPc)
+* [DDCSF/ddc](https://github.com/DDCSF/ddc)
