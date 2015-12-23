@@ -71,6 +71,7 @@
 * [The hapistrano package](https://hackage.haskell.org/package/hapistrano)
 * [Stackで管理しているHaskellのプロジェクトをCircleCIでビルドする](http://qiita.com/fujimura/items/b619e0a4ca2028b0eb03)
 * [How I deploy Haskell Code](http://www.alfredodinapoli.com/posts/2015-11-03-how-i-deploy-haskell-code.html)
+* [Using Stack on Travis CI](https://www.fpcomplete.com/blog/2015/12/stack-travis)
 
 ##CLI
 * [zalora/getopt-generics](https://github.com/zalora/getopt-generics)
