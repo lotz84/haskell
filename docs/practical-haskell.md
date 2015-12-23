@@ -41,6 +41,7 @@
 * [Stack entering stabilization phase](https://www.fpcomplete.com/blog/2015/11/stack-stabilization)
 * [Haskell tidbits: 24 days of Hackage, 2015: day 1: Introduction and Stack](http://conscientiousprogrammer.com/blog/2015/11/30/haskell-tidbits-24-days-of-hackage-2015-day-1-introduction-and-stack/)
 * [What's the point of Stackage LTS?](http://neilmitchell.blogspot.jp/2015/12/whats-point-of-stackage-lts.html)
+* [StackでHeskellプロジェクトを作ってみる](http://qiita.com/hiroyuki-nagata/items/735b8de27699d785c434)
 
 ##Nix
 * [Nix ±Cabal](http://begriffs.com/posts/2015-08-07-nix-plus-minus-cabal.html)
