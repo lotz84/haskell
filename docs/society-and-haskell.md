@@ -96,6 +96,10 @@
 * **facebook**
   * [Haxl](https://github.com/facebook/Haxl)
     * A Haskell library that simplifies access to remote data, such as databases or web-based services. 
+* **Livesense**
+  * [Haskell で楽しい Web スクレイピング](http://qiita.com/na-o-ys/items/30a4950d5391911493c2)
+* **Wantedly**
+  * [難しいのは見た目だけ！？Haskellのモナドの「たった2つのルール」を簡単に理解する！](http://qiita.com/south37/items/06cfa95aa9c8f2ecb2e9)
 * **IBM**
 * **heroku**
 * **GNOME**
