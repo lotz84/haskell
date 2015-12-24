@@ -95,6 +95,7 @@ circum (Circle _ _ r) = …
 * [Announcing the refinement types library](http://nikita-volkov.github.io/refined/)
 * [Program Synthesis from Polymorphic Refinement Types](http://arxiv.org/abs/1510.08419)
 * [Programming with Refinement Types](https://ucsd-progsys.github.io/liquidhaskell-tutorial/)
+* [24 days of Hackage, 2015: day 23: Liquid Haskell: refinement types for the real world](http://conscientiousprogrammer.com/blog/2015/12/23/24-days-of-hackage-2015-day-23-liquid-haskell-refinement-types-for-the-real-world/)
 
 ##Dependent Types
 * [Dependent Types](https://cubeoflambda.wordpress.com/2011/12/03/dependent-types/)
