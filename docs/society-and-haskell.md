@@ -33,6 +33,9 @@
 ###Galois
 * [Galois](http://galois.com/)
 
+###NTTデータ
+* [「Haskellは企業でも十分実用になる」、NTTデータがソースコード解析サービスの舞台裏を披露](http://itpro.nikkeibp.co.jp/article/NEWS/20131126/520642/?rt=nocnt)
+
 ###Gree
 * [社内Haskellチュートリアルのススメ](http://labs.gree.jp/blog/2013/12/9201/)
 * [Haskell使ってみた](http://labs.gree.jp/blog/2013/12/9882/)
