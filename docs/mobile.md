@@ -32,6 +32,8 @@
 * [TomMD/mellow](https://github.com/TomMD/mellow)
 
 #Mobile
+* [The push-notify package](https://hackage.haskell.org/package/push-notify)
+
 ##React Native
 * [React Native](https://facebook.github.io/react-native/)
 * <https://twitter.com/paf31/status/617568437020135424>
