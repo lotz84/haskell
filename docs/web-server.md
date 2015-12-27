@@ -20,6 +20,7 @@
 * [In the Age of Web: Typed Functional-First Programming Revisited](http://arxiv.org/abs/1512.01896)
 * [FRPNowをサーバで使ってみた](http://qiita.com/asukamirai/items/d23c34a71d72d077e39d)
 * [A Servlet-based Web application with the Frege programming language](http://earldouglas.com/articles/frege-web.html)
+* [Haskell Game Server - Part 1](http://mojobojo.com/posts/2015-12-26-haskell-game-server-part-1.html)
 
 ##Logger
 * [wdanilo/haskell-logger](https://github.com/wdanilo/haskell-logger)
