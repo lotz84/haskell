@@ -21,6 +21,15 @@
 * [gasche/popl2016-papers](https://github.com/gasche/popl2016-papers)
 * [yallop/haskell2014-papers](https://github.com/yallop/haskell2014-papers)
 
+##Advent Calendar
+* [Haskell Advent Calendar 2015](http://qiita.com/advent-calendar/2015/haskell)
+* [Haskellスペースリーク Advent Calendar 2015](http://qiita.com/advent-calendar/2015/haskell-space-leaks)
+* [Haskell Advent Calendar 2014](http://qiita.com/advent-calendar/2014/haskell)
+* [Haskell Advent Calendar 2013](http://qiita.com/advent-calendar/2013/haskell)
+* [Haskell Advent Calendar 2012](http://partake.in/events/45a01d39-af5e-42f1-91c7-e8fcc91db244)
+* [Haskell Advent Calendar 2011](http://partake.in/events/eaea52c2-61ef-46d5-a855-3a2dde459e3a)
+* [Haskell Advent Calendar jp 2010](http://cielquis.net/advent-calendar/haskell-jp-2010.html)
+
 ##企業
 ###FPComplete
 * [FPComplete](https://www.fpcomplete.com/)
