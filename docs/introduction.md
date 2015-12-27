@@ -8,11 +8,11 @@ $ stack setup
 $ alias ghc='stack ghc'
 $ alias ghci='stack ghci'
 ```
-##Example
+##Examples
 * [Basic Haskell Examples](http://www.haskellforall.com/2015/10/basic-haskell-examples.html)
 * [Haskell by Example](http://lotz84.github.io/haskellbyexample/)
 
-**エラトステネスの篩**
+###エラトステネスの篩
 
 ```haskell
 primes = sieve [2..]
@@ -26,6 +26,16 @@ sieve (p:xs) = p : sieve [x | x <- xs, x `mod` p /= 0]
 * [The Genuine Sieve of Eratosthenes](http://vicarie.in/posts/sieve-of-eratos.html)
 * [Haskell programmers are liars](http://www.garrisonjensen.com/2015/05/13/haskell-programs-are-lies.html)
 * [An Optimal Haskell Quicksort](https://gautamcgoel.wordpress.com/2015/08/27/an-optimal-haskell-quicksort/)
+
+###FizzBuzz
+
+```hs
+let (m ~> str) x = str <$ guard (x `mod` m == 0)
+in map (fromMaybe . show <*> 3 ~> "fizz" <> 5 ~> "buzz")
+```
+
+* <https://www.reddit.com/r/haskell/comments/2cum9p>
+* [Haskellで書かれたおもしろいFizzBuzz ― Haskellで読めないコードに遭遇した時に解読する方法を徹底解説！](http://itchyny.hatenablog.com/entry/2015/12/27/150000)
 
 ##Haskell入門
 
