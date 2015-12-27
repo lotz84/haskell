@@ -256,13 +256,17 @@ instance Eval' Hole where
 * [カリー・ハワード同型対応入門](http://ocw.kyoto-u.ac.jp/ja/faculty-of-lettersja/002-006/pdf/curryhoward.pdf)
 * [Lectures on the Curry-Howard Isomorphism (1998)](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.17.7385)
 
-##論理学と証明
+##集合と論理
+* [Axiomatic Set Theory](http://link.springer.com/book/10.1007/978-1-4684-8751-0)
+* [Set Theory](http://link.springer.com/book/10.1007/3-540-44761-X)
+* [Introduction to Axiomatic Set Theory](http://link.springer.com/book/10.1007%2F978-1-4613-8168-6)
 * [直観主義論理への招待](http://www.kurims.kyoto-u.ac.jp/~terui/summer2013.pdf)
 * [The Incredible Proof Machine](http://incredible.nomeata.de/)
 * [Programs and Proofs](http://ilyasergey.net/pnp/)
 * [Notes on Proof Theory: Part 1](http://jozefg.bitbucket.org/posts/2015-02-11-proof-theory1.html)
 * [Programs as proofs](http://arxiv.org/abs/1509.04040)
 * Proof Theory Foundations, Lecture [1](https://www.youtube.com/watch?v=YRu7Xi-mNK8), [2](https://www.youtube.com/watch?v=JzIAEv8fN88), [3](https://www.youtube.com/watch?v=nw0JAF79gYI), [4](https://www.youtube.com/watch?v=_XtflAEN6aA)
+* [Computability](http://link.springer.com/book/10.1007/978-1-4612-0863-1)
 
 ###線形論理
 
@@ -302,6 +306,11 @@ instance Eval' Hole where
 * [Interactive Theorem Proving with Lean](https://www.youtube.com/watch?v=tU5HfVc2nR8)
 * ["Propositions as Types" by Philip Wadler](https://www.youtube.com/watch?v=IOiZatlZtGU)
 * [Interactive Theorem Proving with Lean](https://www.youtube.com/watch?v=tU5HfVc2nR8)
+* [Extensional Constructs in Intensional Type Theory](http://link.springer.com/book/10.1007/978-1-4471-0963-1)
+* [Semantics of Type Theory](http://link.springer.com/book/10.1007/978-1-4612-0433-6)
+* [An Introduction to Mathematical Logic and Type Theory: To Truth Through Proof](http://link.springer.com/book/10.1007/978-94-015-9934-4)
+* [History and Philosophy of Constructive Type Theory](http://link.springer.com/book/10.1007/978-94-015-9393-9)
+* [Types for Proofs and Programs](http://link.springer.com/book/10.1007/3-540-39185-1)
 
 ##Lambda Calculus
 * [An informal introduction to Lambda Calculus.](https://medium.com/@Sudhagar/an-informal-introduction-to-lambda-calculus-51c637f35f7d#.vsy3u1aex)
@@ -385,6 +394,9 @@ instance Eval' Hole where
 * Allen Hatcher - [Algebraic Topology](http://www.math.cornell.edu/~hatcher/AT/AT.pdf)
 * [Homotopy theory for digraphs](https://www.math.uni-bielefeld.de/~grigor/hom.pdf)
 * [π-Base](http://topology.jdabbs.com/)
+* [A Course in Simple-Homotopy Theory](http://link.springer.com/book/10.1007/978-1-4684-9372-6)
+* [Elements of Homotopy Theory](http://link.springer.com/book/10.1007/978-1-4612-6318-0)
+* 
 
 ##HoTT
 * [ホモトピー変形と自然変換](http://d.hatena.ne.jp/m-hiyama/comment?date=20111208&section=1323315799#c)
