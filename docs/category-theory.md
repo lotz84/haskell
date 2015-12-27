@@ -334,6 +334,11 @@ Reader + Writer + State
 * [String diagram](http://mbps.hatenablog.com/entry/2015/02/07/175148)
 * [Category Theory Using String Diagrams](http://jp.arxiv.org/abs/1401.7220)
 * [String diagram のすすめ](http://mbps.hatenablog.com/entry/2015/12/20/070000)
+* [Categorical Topology](http://link.springer.com/book/10.1007%2FBFb0065251)
+* [Functors and Categories of Banach Spaces](http://link.springer.com/book/10.1007/BFb0067828)
+* [Kan extensions in Enriched Category Theory](http://link.springer.com/book/10.1007/BFb0060485)
+* [Category Seminar](http://link.springer.com/book/10.1007/BFb0063096)
+* [Formal Category Theory: Adjointness for 2-Categories](http://link.springer.com/book/10.1007%2FBFb0061280)
 
 ###CPL
 * [圏論プログラミング言語 CPL](http://mandel59.hateblo.jp/entry/2015/02/02/110621)
