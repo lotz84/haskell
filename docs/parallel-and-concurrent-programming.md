@@ -14,6 +14,8 @@
     * [sile/AMP-CH10.md](https://gist.github.com/sile/2d50fc54fa25e55da139)
     * [sile/AMP-CH13.md](https://gist.github.com/sile/83593f59c7f3e205fb8b)
     * [sile/AMP-CH18-SUMMARY.md](https://gist.github.com/sile/1dc1a595e2c4c998b6b6)
+* [Multithreaded Computer Architecture: A Summary of the State of the ART](http://link.springer.com/book/10.1007/978-1-4615-2698-8)
+* [Parallel Computing Technologies](http://link.springer.com/book/10.1007/978-3-540-45145-7)
 * [agocorona/transient](https://github.com/agocorona/transient)
 * [並列処理の理論とホモトピー](http://pantodon.shinshu-u.ac.jp/topology/literature/concurrency.html)
 * [高速WebサーバMighttpdのアーキテクチャ](http://www.iij.ad.jp/company/development/tech/activities/mighttpd/)
