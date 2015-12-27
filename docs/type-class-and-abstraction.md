@@ -45,7 +45,6 @@ instance Show Bool where
 * [10章:型とクラスの定義](http://www.slideshare.net/RuiccRail/programming-haskell-chapter10)
 * [Scrap your type classes](http://www.haskellforall.com/2012/05/scrap-your-type-classes.html)
 * [Counterexamples of Type Classes](http://blog.functorial.com/posts/2015-12-06-Counterexamples.html)
-* [Haskellで書かれたおもしろいFizzBuzz ― Haskellで読めないコードに遭遇した時に解読する方法を徹底解説！](http://itchyny.hatenablog.com/entry/2015/12/27/150000)
 
 ##Monoid
 * [Haskell Monoids and their Uses](http://blog.sigfpe.com/2009/01/haskell-monoids-and-their-uses.html)
