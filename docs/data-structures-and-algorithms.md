@@ -48,6 +48,7 @@
 * [巡回冗長検査(CRC-32)のHaskellでの実装](http://qiita.com/YoshikuniJujo/items/687ad7cb6f6e97725121)
 * [Encoding arbitrary precision integers in binary](http://kenta.blogspot.jp/2015/12/igptrdec-encoding-arbitrary-precision.html)
 * [Solving the GCHQ puzzle "by hand"](http://neilmitchell.blogspot.jp/2015/12/solving-gchq-puzzle-by-hand.html)
+* [The magma package](http://hackage.haskell.org/package/magma)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
