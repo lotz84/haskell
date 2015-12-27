@@ -53,6 +53,7 @@ sieve (p:xs) = p : sieve [x | x <- xs, x `mod` p /= 0]
 * [安定結婚問題を解きながらHaskellプログラミングを紹介しつつ恋愛について学ぶ](http://qiita.com/cutsea110/items/27d9f6db834b70e52dd9)
 * [Haskell for Mac でちょっと Haskell をさわってみる](http://qiita.com/usamik26/items/d99bf694150a549b5078)
 * [Ask-Elle: an adaptable programming tutor for Haskell giving automated feedback](http://www.cs.uu.nl/research/techreps/repo/CS-2015/2015-019.pdf)
+* [What Code Does vs What Code Means](http://begriffs.com/posts/2015-12-26-what-code-means.html)
 
 ##Editor
 * [Leksah](http://leksah.org/)
