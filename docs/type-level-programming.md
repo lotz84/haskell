@@ -25,6 +25,7 @@
 * [型クラスを含んだ型推論を概観する 〜Typing Haskell in Haskell より〜](http://yu-i9.hatenablog.com/entry/thih)
 * [System F をHaskellとPythonで実装した](http://yu-i9.hatenablog.com/entry/2015/08/10/154353)
 * [Decidable Propositional Equality in Haskell](https://typesandkinds.wordpress.com/2012/12/01/decidable-propositional-equality-in-haskell/)
+* [型レベル自然数(つよい)](http://qiita.com/philopon/items/2eeb442e48cc45e5e9aa)
 
 ```haskell
 data Bottom
