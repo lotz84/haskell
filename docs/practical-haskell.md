@@ -115,6 +115,7 @@
 * [HaskellのCインターフェースと選定基準](http://qiita.com/masatoko/items/06665400b2ef10a7e2b0)
 * [erlang-ffi](https://twitter.com/puffnfresh/status/676608880714121220)
 * [Using withPtr From inline-c in Haskell](http://two-wrongs.com/using-withptr-from-inline-c-in-haskell)
+* [calling Haskell from Swift / Linux](http://bitlife.me/archives/383)
 
 ##データ分析基盤
 * [Soostone/hadron](https://github.com/Soostone/hadron)
