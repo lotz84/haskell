@@ -267,6 +267,7 @@ instance Eval' Hole where
 * [Programs as proofs](http://arxiv.org/abs/1509.04040)
 * Proof Theory Foundations, Lecture [1](https://www.youtube.com/watch?v=YRu7Xi-mNK8), [2](https://www.youtube.com/watch?v=JzIAEv8fN88), [3](https://www.youtube.com/watch?v=nw0JAF79gYI), [4](https://www.youtube.com/watch?v=_XtflAEN6aA)
 * [Computability](http://link.springer.com/book/10.1007/978-1-4612-0863-1)
+* [Relational Methods in Computer Science](http://link.springer.com/book/10.1007/3-540-36280-0)
 
 ###線形論理
 
@@ -322,10 +323,12 @@ instance Eval' Hole where
 * [Equality in Lambda Calculus, Weak Universality in Category Theory and Reversible Computations](http://www.irit.fr/~Sergei.Soloviev/guitard_wu1.pdf)
 * [Call-by-Value is Dual to Call-by-Name](http://homepages.inf.ed.ac.uk/wadler/papers/dual/dual.pdf)
 * [Call-by-Value is Dual to Call-by-Name, Reloaded](http://homepages.inf.ed.ac.uk/wadler/papers/dual-reloaded/dual-reloaded.pdf)
+* [Call-By-Push-Value](http://link.springer.com/book/10.1007/978-94-007-0954-6)
 * [Alternative to the Church, Scott and Parigot encodings of data on the Lambda Calculus.](http://maiavictor.github.io/2015/11/18/church-scott-perigot-encodings/)
 * [The Y Combinator (no, not that one)](https://medium.com/@ayanonagon/the-y-combinator-no-not-that-one-7268d8d9c46#.plyiyxsq1)
 * [λ-Calculus and Computer Science Theory](http://link.springer.com/book/10.1007/BFb0029515)
 * [Typed Lambda Calculi and Applications](http://link.springer.com/book/10.1007/3-540-44904-3)
+* [The Parametric Lambda Calculus](http://link.springer.com/book/10.1007/978-3-662-10394-4)
 
 ###SLC
 * [Declarative Continuations and Categorical Duality](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.43.8729&rep=rep1&type=pdf)
