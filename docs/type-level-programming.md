@@ -399,7 +399,8 @@ instance Eval' Hole where
 * [π-Base](http://topology.jdabbs.com/)
 * [A Course in Simple-Homotopy Theory](http://link.springer.com/book/10.1007/978-1-4684-9372-6)
 * [Elements of Homotopy Theory](http://link.springer.com/book/10.1007/978-1-4612-6318-0)
-* 
+* [Čech and Steenrod Homotopy Theories with Applications to Geometric Topology](http://link.springer.com/book/10.1007/BFb0081083)
+* [Theory of Topological Structures](http://link.springer.com/book/10.1007/978-94-009-2859-6)
 
 ##HoTT
 * [ホモトピー変形と自然変換](http://d.hatena.ne.jp/m-hiyama/comment?date=20111208&section=1323315799#c)
@@ -440,3 +441,4 @@ instance Eval' Hole where
 * [The equivalence of the torus and the product of two circles in homotopy type theory](http://arxiv.org/abs/1510.03918)
 * [Categorical homotopy theory](http://www.math.harvard.edu/~eriehl/cathtpy.pdf)
 * [Constructing the Propositional Truncation using Non-recursive HITs](http://arxiv.org/abs/1512.02274)
+* [Categories, Bundles and Spacetime Topology](http://link.springer.com/book/10.1007/978-94-015-7776-2)
