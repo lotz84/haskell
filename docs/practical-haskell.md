@@ -148,3 +148,4 @@
 * [DDCSF/ddc](https://github.com/DDCSF/ddc)
 * [Nikita Churaev/dialog](https://gitlab.com/lamefun/dialog)
 * [関数型言語Haskellを用いた役割指向エージェントベースシミュレーションシステムのプロトタイプ開発](http://repo.lib.hosei.ac.jp/handle/10114/11016)
+* [Trading Analytics](http://logicalgraphs.blogspot.jp/p/trading-analytics.html)
