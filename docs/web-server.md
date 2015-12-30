@@ -21,6 +21,8 @@
 * [FRPNowをサーバで使ってみた](http://qiita.com/asukamirai/items/d23c34a71d72d077e39d)
 * [A Servlet-based Web application with the Frege programming language](http://earldouglas.com/articles/frege-web.html)
 * [Haskell Game Server - Part 1](http://mojobojo.com/posts/2015-12-26-haskell-game-server-part-1.html)
+* [caneroj1/clarifai-hs](https://github.com/caneroj1/clarifai-hs)
+* [nginx module to enable haskell binding to nginx configuration files](http://lin-techdet.blogspot.jp/2015/12/nginx-module-to-enable-haskell-binding.html)
 
 ##Logger
 * [wdanilo/haskell-logger](https://github.com/wdanilo/haskell-logger)
@@ -79,6 +81,7 @@
 * [Dependently typed servers in Servant](http://www.well-typed.com/blog/2015/12/dependently-typed-servers/)
 * [【型レベルWeb DSL】 Servantの紹介](http://qiita.com/lotz/items/883b41fa79f060e59efa)
 * [tel/serv](https://github.com/tel/serv)
+* [Typed up CRUD SPA with Haskell and Elm - Part 1: Spike time](http://rundis.github.io/blog/2015/haskell_elm_spa_part1.html)
 
 ####Microservices
 * [k-bx/owlcloud](https://github.com/k-bx/owlcloud)
