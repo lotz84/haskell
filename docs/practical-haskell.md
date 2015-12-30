@@ -149,3 +149,5 @@
 * [Nikita Churaev/dialog](https://gitlab.com/lamefun/dialog)
 * [関数型言語Haskellを用いた役割指向エージェントベースシミュレーションシステムのプロトタイプ開発](http://repo.lib.hosei.ac.jp/handle/10114/11016)
 * [Trading Analytics](http://logicalgraphs.blogspot.jp/p/trading-analytics.html)
+* [Ling - High level system programming [32c3]](https://www.youtube.com/watch?v=dagxIy4ZNSQ)
+* [np/ling](https://github.com/np/ling)
