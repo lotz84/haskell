@@ -260,6 +260,7 @@ instance Monad (State s) where
 * [逆Stateモナド](http://qiita.com/hiyakashi_/items/afee12104237e0ae2161)
 * [Haskell has no state monad](http://www.cse.chalmers.se/)
 * [Stateモナドが便利に使えた！](http://qiita.com/lotz/items/503ef04b03433d29f77c)
+* [How does the State monad work?](http://yawar.blogspot.ca/2015/12/how-does-state-monad-work.html)
 
 ###RWS Monad
 Reader + Writer + State
