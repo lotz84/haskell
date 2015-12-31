@@ -56,6 +56,7 @@
 * [Better, faster binary serialization](https://github.com/meiersi/HaskellerZ/blob/master/meetups/20150529-ZuriHac2015_Duncan_Coutts-Better_Faster_Binary_Serialization/binary.pdf)
 * [Fast way to serialize Haskell objects](https://www.reddit.com/r/haskell/comments/3u5ryh/fast_way_to_serialize_haskell_objects/cxcijmn)
 * [jberthold/packman](https://github.com/jberthold/packman)
+* [デシリアライザとスキーマ](http://fumieval.hatenablog.com/entry/2015/12/30/220159)
 
 ###数値
 * [Lazy unary numbers](http://www.edofic.com/posts/2015-05-03-unary-numbers.html)
