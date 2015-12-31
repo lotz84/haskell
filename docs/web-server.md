@@ -82,6 +82,7 @@
 * [【型レベルWeb DSL】 Servantの紹介](http://qiita.com/lotz/items/883b41fa79f060e59efa)
 * [tel/serv](https://github.com/tel/serv)
 * [Typed up CRUD SPA with Haskell and Elm - Part 1: Spike time](http://rundis.github.io/blog/2015/haskell_elm_spa_part1.html)
+* [algas/haskell-servant-codegen](https://github.com/algas/haskell-servant-codegen)
 
 ####Microservices
 * [k-bx/owlcloud](https://github.com/k-bx/owlcloud)
@@ -186,6 +187,7 @@ $ heroku config:set HALCYON_NO_BUILD_DEPENDENCIES=0
 * [Paxos](http://www.slideshare.net/pfi/paxos-13615514?ref=http://open-groove.net/all-things-technology/paxos/)
 * [agentm/project-m36](https://github.com/agentm/project-m36)
 * [Etienne Laurin: A RethinkDB driver for Haskell (Heavybit meetup)](https://www.youtube.com/watch?v=Qvn8EQfgUCA)
+* [jtdaugherty/dbmigrations](https://github.com/jtdaugherty/dbmigrations)
 
 ###Simples
 * [The mysql-simple package](https://hackage.haskell.org/package/mysql-simple)
