@@ -20,6 +20,7 @@
 * [International Conference on Functional Programming](http://www.icfpconference.org/)
 * [gasche/popl2016-papers](https://github.com/gasche/popl2016-papers)
 * [yallop/haskell2014-papers](https://github.com/yallop/haskell2014-papers)
+* [LambdaConf 2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcybh21_zOg8_y4f2oMKDHpUS)
 
 ##Advent Calendar
 * [Haskell Advent Calendar 2015](http://qiita.com/advent-calendar/2015/haskell)
