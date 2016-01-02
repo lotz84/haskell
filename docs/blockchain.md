@@ -16,8 +16,6 @@
 * [BLOCKCHAIN2.0概況 2015.08.14 by SATO](http://www.digitalmoney.or.jp/wp-content/uploads/2015/08/20150814_BlockChain2.0.pdf)
 * [Bitcoinを技術的に理解する](http://www.slideshare.net/kenjiurushima/20140602-bitcoin1-201406031222)
 * [ビットコインと税務](https://www.nta.go.jp/ntc/kenkyu/journal/saisin/260430_tsuchiya.pdf)
-* [coincheck payment](https://coincheck.jp/payment)
-* [Counterparty](http://counterparty.io/)
 * [金融審議会「決済業務等の高度化に関するワーキング・グループ」（第４回）議事次第](http://www.fsa.go.jp/singi/singi_kinyu/kessai_wg/siryou/20151116.html)
 * [Bitcoin@Wiki - 手数料](http://www58.atwiki.jp/coinwiki/pages/27.html)
 
@@ -33,6 +31,10 @@
 * [ビットコインが使えるお店(ビットコイン決済対応店舗)](http://jpbitcoin.com/shops)
 * [LocalBitcoins Volume Charts](http://coin.dance/charts/)
 * <http://www.bitcoinblockhalf.com/>
+
+###Wallet
+* [WalletGenerator.net](https://walletgenerator.net/)
+* [Bitcoin Paper Wallet Generator](https://bitcoinpaperwallet.com/)
 
 ##Ethereum
 > Blockchain上に任意のスクリプトとその実行結果を保存する
