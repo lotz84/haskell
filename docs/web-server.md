@@ -21,6 +21,8 @@
 * [FRPNowをサーバで使ってみた](http://qiita.com/asukamirai/items/d23c34a71d72d077e39d)
 * [A Servlet-based Web application with the Frege programming language](http://earldouglas.com/articles/frege-web.html)
 * [Haskell Game Server - Part 1](http://mojobojo.com/posts/2015-12-26-haskell-game-server-part-1.html)
+* [Haskell Game Server - Part 1 Followup](http://mojobojo.com/posts/2015-12-28-haskell-game-server-part-1-followup.html)
+* [Haskell Game Server - Part 2](http://mojobojo.com/posts/2016-01-01-haskell-game-server-part-2.html)
 * [caneroj1/clarifai-hs](https://github.com/caneroj1/clarifai-hs)
 * [nginx module to enable haskell binding to nginx configuration files](http://lin-techdet.blogspot.jp/2015/12/nginx-module-to-enable-haskell-binding.html)
 
@@ -83,6 +85,7 @@
 * [tel/serv](https://github.com/tel/serv)
 * [Typed up CRUD SPA with Haskell and Elm - Part 1: Spike time](http://rundis.github.io/blog/2015/haskell_elm_spa_part1.html)
 * [algas/haskell-servant-codegen](https://github.com/algas/haskell-servant-codegen)
+* [Deriving a servant schema from your data](http://purelyfunctional.org/posts/2016-01-01-servant-from-data.html)
 
 ####Microservices
 * [k-bx/owlcloud](https://github.com/k-bx/owlcloud)
@@ -111,6 +114,7 @@
 * [Haskell and Type-Safe Routing](http://andrewthad.blogspot.jp/2015/11/allr-detailsr-buyr-frompiece-str1-buyr.html)
 * [Yesod hosting with Docker and Kubernetes](http://www.yesodweb.com/blog/2015/12/yesod-hosting-docker-kubernetes)
 * [Servant style handlers for Yesod](http://tech.frontrowed.com/post/135666421041/servant-style-handlers-for-yesod)
+* [Haskell stack, Yesod and Docker](http://mdjnewman.me/2016/01/haskell-stack-yesod-docker/)
 
 ##Heroku
 * [Deploying Haskell to Heroku using Docker](http://www.reddit.com/r/haskell/comments/35he88/deploying_haskell_to_heroku_using_docker/)
