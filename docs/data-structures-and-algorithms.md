@@ -50,6 +50,7 @@
 * [Encoding arbitrary precision integers in binary](http://kenta.blogspot.jp/2015/12/igptrdec-encoding-arbitrary-precision.html)
 * [Solving the GCHQ puzzle "by hand"](http://neilmitchell.blogspot.jp/2015/12/solving-gchq-puzzle-by-hand.html)
 * [The magma package](http://hackage.haskell.org/package/magma)
+* [A SAMPLE IMPLEMENTATION OF L-SYSTEMS IN HASKELL](http://www.filipallberg.se/l-system.html)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
