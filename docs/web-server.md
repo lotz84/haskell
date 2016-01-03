@@ -25,6 +25,7 @@
 * [Haskell Game Server - Part 2](http://mojobojo.com/posts/2016-01-01-haskell-game-server-part-2.html)
 * [caneroj1/clarifai-hs](https://github.com/caneroj1/clarifai-hs)
 * [nginx module to enable haskell binding to nginx configuration files](http://lin-techdet.blogspot.jp/2015/12/nginx-module-to-enable-haskell-binding.html)
+* [Announcing serversession](http://blog.felipe.lessa.nom.br/?p=153)
 
 ##Logger
 * [wdanilo/haskell-logger](https://github.com/wdanilo/haskell-logger)
