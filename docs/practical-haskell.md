@@ -117,13 +117,6 @@
 * [Using withPtr From inline-c in Haskell](http://two-wrongs.com/using-withptr-from-inline-c-in-haskell)
 * [calling Haskell from Swift / Linux](http://bitlife.me/archives/383)
 
-##データ分析基盤
-* [Soostone/hadron](https://github.com/Soostone/hadron)
-* [Executable specification of MapReduce](http://kenta.blogspot.jp/2015/09/ajoyvtsr-type-signature-of-mapreduce.html)
-* [The riak package](https://hackage.haskell.org/package/riak)
-* [Google’s MapReduce Programming Model — Revisited](http://userpages.uni-koblenz.de/~laemmel/MapReduce/paper.pdf)
-* [ianoc/jt](https://github.com/ianoc/jt)
-
 ----
 
 * [dcfl is a parallelized constraint solving library for Haskell.](http://poincare.github.io/DCFL/)
