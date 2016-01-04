@@ -51,6 +51,7 @@
 * [Solving the GCHQ puzzle "by hand"](http://neilmitchell.blogspot.jp/2015/12/solving-gchq-puzzle-by-hand.html)
 * [The magma package](http://hackage.haskell.org/package/magma)
 * [A SAMPLE IMPLEMENTATION OF L-SYSTEMS IN HASKELL](http://www.filipallberg.se/l-system.html)
+* [Efficient Linear Algebra with Plover](http://begriffs.com/posts/2016-01-03-plover-linear-algebra.html)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
