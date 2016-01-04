@@ -39,6 +39,8 @@ instance Functor f => Monad (Free f) where
 * [A Tour Of Some Useful Recursive Types](https://medium.com/@jaredtobin/a-tour-of-some-useful-recursive-types-8fa8e423b5b9)
 * [コルーチンと状態](http://qiita.com/hiyakashi_/items/eb5f5ea76d84d191c538)
 * [A Modern Architecture for FP](http://degoes.net/articles/modern-fp/)
+* [van Laarhoven Free Monad](http://r6.ca/blog/20140210T181244Z.html)
+* [Extensible Effects in the van Laarhoven Free Monad](http://aaronlevin.ca/post/136494428283/extensible-effects-in-the-van-laarhoven-free-monad)
 
 ###Coyoneda
 * [Loop School - Coyoneda](http://school.looprecur.com/?video=122708005)
