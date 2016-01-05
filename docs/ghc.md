@@ -34,6 +34,8 @@
 * [[翻訳]Space leak zoo](http://qiita.com/tsukimizake774/items/b3ce44b7208523c6c046)
 * [GHC とスペースとリーク](http://d.hatena.ne.jp/kazu-yamamoto/20151217)
 * [takenobu-hs/haskell-ghc-illustrated](https://github.com/takenobu-hs/haskell-ghc-illustrated)
+* [The GHC reading list](https://ghc.haskell.org/trac/ghc/wiki/ReadingList)
+* [The GHC Commentary](https://ghc.haskell.org/trac/ghc/wiki/Commentary)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
