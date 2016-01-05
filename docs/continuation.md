@@ -60,6 +60,7 @@ reset e = return $ e `runCont` id
 * [Compiling With CPS](http://jozefg.bitbucket.org/posts/2015-04-30-cps.html)
 * [Haskell で継続渡しスタイル (CPS)](http://jutememo.blogspot.jp/2011/05/haskell-cps.html)
 * [The mtl-c package](https://hackage.haskell.org/package/mtl-c)
+* [Resource Management in Haskell](http://aherrmann.github.io/programming/2016/01/04/resource-management-in-haskell/)
 
 ```haskell
 -- Another junior Haskell programmer
