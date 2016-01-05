@@ -24,6 +24,7 @@
 * [faylang/fay](https://github.com/faylang/fay)
 * [Haskell + Haste で Fourier 級数の可視化](http://qiita.com/lesguillemets/items/dbd928237be3e6a1221d)
 * [Haste + Parsec でブラウザ上で動く電卓をつくる](http://qiita.com/lesguillemets/items/b58e684a773fb4b5e4aa)
+* [Zero config, no server Haste.App](http://haste-lang.org/blog/haste-standalone/)
 
 ###Pure Script
 * <http://www.purescript.org/>
