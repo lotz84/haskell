@@ -52,6 +52,7 @@
 * [The magma package](http://hackage.haskell.org/package/magma)
 * [A SAMPLE IMPLEMENTATION OF L-SYSTEMS IN HASKELL](http://www.filipallberg.se/l-system.html)
 * [Efficient Linear Algebra with Plover](http://begriffs.com/posts/2016-01-03-plover-linear-algebra.html)
+* [状態変化なしに効率的な辞書を実装する重み平衡木](http://qiita.com/YoshikuniJujo/items/a852c0d3af70debd2d24)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
