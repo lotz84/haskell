@@ -360,7 +360,7 @@ Reader + Writer + State
 * [Category Theory, Homology Theory and Their Applications III](http://link.springer.com/book/10.1007/BFb0081959)
 * [Category Theory](http://link.springer.com/book/10.1007/BFb0066878)
 * [Category Theory](http://link.springer.com/book/10.1007/BFb0084207)
-
+* [What is the Category for Haskell?](http://www.cs.gunma-u.ac.jp/~hamana/Papers/cpo.pdf)
 
 ###CPL
 * [圏論プログラミング言語 CPL](http://mandel59.hateblo.jp/entry/2015/02/02/110621)
