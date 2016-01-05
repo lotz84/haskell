@@ -111,6 +111,7 @@ class Monad m where
 * [24 days of Hackage, 2015: day 11: monad-loops: avoiding writing recursive functions by refactoring](http://conscientiousprogrammer.com/blog/2015/12/11/24-days-of-hackage-2015-day-11-monad-loops-avoiding-writing-recursive-functions-by-refactoring/)
 * [モナドのすべて](http://www.sampou.org/haskell/a-a-monads/html/index.html)
 * [難しいのは見た目だけ！？Haskellのモナドの「たった2つのルール」を簡単に理解する！](http://qiita.com/south37/items/06cfa95aa9c8f2ecb2e9)
+* [Monads to Machine Code (Part 1)](http://www.stephendiehl.com/posts/monads_machine_code.html)
 
 ```haskell
 do x <- mx
