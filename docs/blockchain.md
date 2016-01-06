@@ -7,8 +7,7 @@
 ##Bitcoin
 > Blockchain 上に実現された最初の通貨であり最も普及している
 
-* [BLOCKCHAIN2.0概況 2015.08.14 by SATO](http://www.digitalmoney.or.jp/wp-content/uploads/2015/08/20150814_BlockChain2.0.pdf)
-* [金融審議会「決済業務等の高度化に関するワーキング・グループ」（第４回）議事次第](http://www.fsa.go.jp/singi/singi_kinyu/kessai_wg/siryou/20151116.html)
+* [bitcoinwiki](https://en.bitcoin.it/wiki/Main_Page)
 
 ###入門
 * [誰も教えてくれないけれど、これを読めば分かるビットコインの仕組みと可能性](http://jp.techcrunch.com/2015/03/31/bitcoin-essay/)
@@ -29,6 +28,8 @@
 
 ###Info
 * [Blockchain.info](https://blockchain.info/ja/)
+* [Toshi](https://toshi.io/)
+* [blockr](http://blockr.io/)
 * [Bitnodes](https://bitnodes.21.co/)
 * [Coin Map](https://coinmap.org/)
 * [LocalBitcoins Volume Charts](http://coin.dance/charts/)
@@ -37,7 +38,7 @@
 ###実装
 * [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)
 * [haskoin/haskoin](https://github.com/haskoin/haskoin)
-* [haskoin/haskoin-wallet](https://github.com/haskoin/haskoin-wallet)
+* [lian/bitcoin-ruby](https://github.com/lian/bitcoin-ruby)
 * [vwwv/easy-bitcoin](https://github.com/vwwv/easy-bitcoin)
 * [Bitcoinウォレットを実装する](http://bitcoin.peryaudo.org/implement.html)
 * [Bitcoin@Wiki - 手数料](http://www58.atwiki.jp/coinwiki/pages/27.html)
