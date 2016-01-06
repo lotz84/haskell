@@ -23,7 +23,7 @@
     14. [Generic Programming](docs/generic-programming.md)
     15. [型レベルプログラミング](docs/type-level-programming.md)
     16. [Template Haskell](docs/template-haskell.md)
-    17. [テストとデバッグ](docs/test-and-debug.md)
+    17. [例外処理・デバッグ・テスト](docs/test-and-debug.md)
 2. [実践Haskell](docs/practical-haskell.md)
     1. [社会とHaskell](docs/society-and-haskell.md)
     2. [GHCと最適化](docs/ghc.md)
