@@ -27,11 +27,11 @@
 2. [実践Haskell](docs/practical-haskell.md)
     1. [社会とHaskell](docs/society-and-haskell.md)
     2. [GHCと最適化](docs/ghc.md)
-    3. [Graphics/Game](docs/graphics.md)
-    5. [Web](docs/web.md)
-    6. [IoT/Mobile](docs/mobile.md)
-    7. [Blockchain](docs/blockchain.md)
-    8. [機械学習](https://github.com/lotz84/machine-learning)
+    3. [Web](docs/web.md)
+    4. [Graphics/Game](docs/graphics.md)
+    5. [IoT/Mobile](docs/mobile.md)
+    6. [Blockchain](docs/blockchain.md)
+    7. [機械学習](https://github.com/lotz84/machine-learning)
 3. [目的別ライブラリ一覧](docs/libraries.md)
 
 ##Related works
