@@ -16,6 +16,7 @@
 * [Hackage Dependency Monitor](http://packdeps.haskellers.com/)
 * [Cabalでビルド時にProtocol Buffersファイルをコンパイルする](http://qiita.com/yunomu/items/a8ef65dccc1c085b7c0d)
 * [stepcut/hackage-whatsnew](https://github.com/stepcut/hackage-whatsnew)
+* [The packunused package](http://hackage.haskell.org/package/packunused)
 
 ##Stack
 * [The Haskell Tool Stack](http://docs.haskellstack.org/en/stable/README.html)
