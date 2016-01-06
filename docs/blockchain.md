@@ -1,8 +1,4 @@
-* [haskoin/haskoin](https://github.com/haskoin/haskoin)
-* [haskoin/haskoin-wallet](https://github.com/haskoin/haskoin-wallet)
-* [vwwv/easy-bitcoin](https://github.com/vwwv/easy-bitcoin)
-
-##Block Chain
+#Block Chain
 > 特定の中央機関を必要とせずにP2Pネットワーク上で合意形成をする技術
 
 * [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)[[日本語](http://picks.coincheck.jp/entry/2014/09/15/190000)]
@@ -40,6 +36,9 @@
 
 ###実装
 * [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)
+* [haskoin/haskoin](https://github.com/haskoin/haskoin)
+* [haskoin/haskoin-wallet](https://github.com/haskoin/haskoin-wallet)
+* [vwwv/easy-bitcoin](https://github.com/vwwv/easy-bitcoin)
 * [Bitcoinウォレットを実装する](http://bitcoin.peryaudo.org/implement.html)
 * [Bitcoin@Wiki - 手数料](http://www58.atwiki.jp/coinwiki/pages/27.html)
 * [Bitcoinを技術的に理解する](http://www.slideshare.net/kenjiurushima/20140602-bitcoin1-201406031222)
