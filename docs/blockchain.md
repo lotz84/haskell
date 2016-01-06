@@ -1,4 +1,4 @@
-#Block Chain
+#Blockchain
 > 特定の中央機関を必要とせずにP2Pネットワーク上で合意形成をする技術
 
 * [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)[[日本語](http://picks.coincheck.jp/entry/2014/09/15/190000)]
