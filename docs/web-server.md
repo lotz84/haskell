@@ -25,6 +25,7 @@
 * [caneroj1/clarifai-hs](https://github.com/caneroj1/clarifai-hs)
 * [nginx module to enable haskell binding to nginx configuration files](http://lin-techdet.blogspot.jp/2015/12/nginx-module-to-enable-haskell-binding.html)
 * [Announcing serversession](http://blog.felipe.lessa.nom.br/?p=153)
+* [ANN: QuickLift](http://www.parsonsmatt.org/2016/01/03/ann_quicklift.html)
 
 ##Logger
 * [wdanilo/haskell-logger](https://github.com/wdanilo/haskell-logger)
