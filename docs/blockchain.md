@@ -11,30 +11,41 @@
 ##Bitcoin
 > Blockchain 上に実現された最初の通貨であり最も普及している
 
-* [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)
-* <https://minergate.com/>
 * [BLOCKCHAIN2.0概況 2015.08.14 by SATO](http://www.digitalmoney.or.jp/wp-content/uploads/2015/08/20150814_BlockChain2.0.pdf)
-* [Bitcoinを技術的に理解する](http://www.slideshare.net/kenjiurushima/20140602-bitcoin1-201406031222)
-* [ビットコインと税務](https://www.nta.go.jp/ntc/kenkyu/journal/saisin/260430_tsuchiya.pdf)
 * [金融審議会「決済業務等の高度化に関するワーキング・グループ」（第４回）議事次第](http://www.fsa.go.jp/singi/singi_kinyu/kessai_wg/siryou/20151116.html)
-* [Bitcoin@Wiki - 手数料](http://www58.atwiki.jp/coinwiki/pages/27.html)
 
 ###入門
 * [誰も教えてくれないけれど、これを読めば分かるビットコインの仕組みと可能性](http://jp.techcrunch.com/2015/03/31/bitcoin-essay/)
 * [bitcoinのしくみ](http://bitcoin.peryaudo.org/)
-* [CryptAd](https://cryptad.com/)
-* [ビットコインの仕組み](http://www.slideshare.net/GOTO_A/ss-36650203)
+
+###Wallet
+* **Web** - [Blockchain.info](https://blockchain.info/ja/wallet)
+* **iOS** - [breadwallet](http://breadwallet.com/)
+* **Android** - [Mycelium](https://mycelium.com/mycelium-wallet.html)
+* **Paper** - [WalletGenerator.net](https://walletgenerator.net/)
+* **Paper** - [Bitcoin Paper Wallet Generator](https://bitcoinpaperwallet.com/)
+
+###取引所・販売所
+* [bitFlyer](https://bitflyer.jp/)
+* [coincheck](https://coincheck.jp/)
+* [BTCBOX](https://www.btcbox.co.jp/)
+* [Zaif](https://zaif.jp/)
 
 ###Info
-* [Blockchain Info](https://blockchain.info/ja/)
+* [Blockchain.info](https://blockchain.info/ja/)
+* [Bitnodes](https://bitnodes.21.co/)
 * [Coin Map](https://coinmap.org/)
-* [ビットコインが使えるお店(ビットコイン決済対応店舗)](http://jpbitcoin.com/shops)
 * [LocalBitcoins Volume Charts](http://coin.dance/charts/)
 * <http://www.bitcoinblockhalf.com/>
 
-###Wallet
-* [WalletGenerator.net](https://walletgenerator.net/)
-* [Bitcoin Paper Wallet Generator](https://bitcoinpaperwallet.com/)
+###実装
+* [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)
+* [Bitcoinウォレットを実装する](http://bitcoin.peryaudo.org/implement.html)
+* [Bitcoin@Wiki - 手数料](http://www58.atwiki.jp/coinwiki/pages/27.html)
+* [Bitcoinを技術的に理解する](http://www.slideshare.net/kenjiurushima/20140602-bitcoin1-201406031222)
+
+###法律
+* [ビットコインと税務](https://www.nta.go.jp/ntc/kenkyu/journal/saisin/260430_tsuchiya.pdf)
 
 ##Ethereum
 > Blockchain上に任意のスクリプトとその実行結果を保存する
