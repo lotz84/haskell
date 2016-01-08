@@ -127,32 +127,6 @@ z ))
 
 出典: [How to desugar Haskell code ](http://www.haskellforall.com/2014/10/how-to-desugar-haskell-code.html)
 
-###Maybe Monad
-
-```haskell
-instance Monad Maybe where
-  return = Just
-  Nothing >>= _ = Nothing
-  Just x >>= f  = f x
-```
-
-####Example
-
-```haskell
-import Data.List (lookup)
-
-env :: [(String, Int)]
-env = [("x", 3), ("y", 4), ("z", 5)]
-
-calc :: Maybe Int
-calc = do
-    x <- lookup "x" env
-    y <- lookup "y" env
-    return $ x + y
--- ghci> calc
--- Just 7
-```
-
 ###List Monad
 
 ```haskell
@@ -173,37 +147,6 @@ instance Monad [] where
 * [The logict package](http://hackage.haskell.org/package/logict)
 * [BACKTRACKING, INTERLEAVING, AND TERMINATING MONAD TRANSFORMERS](http://halcat.org/oleg.html#/)
 
-###Either Monad
-
-```haskell
-instance Monad (Either e) where
-    return = Right
-    Left  l >>= _ = Left l
-    Right r >>= k = k r
-```
-
-* [Error monad](http://mbps.hatenablog.com/entry/2014/12/13/123751)
-
-###Stream Monad
-
-```haskell
-data Stream a = Cons a (Stream a)
-
-head (Cons x _)  = x
-tail (Cons _ xs) = xs
-
-instance Functor Stream where
-  fmap f (Cons x xs) = Cons (f x) (fmap f xs)
-
-diag (Cons xs xss) = Cons (head xs) (diag (fmap tail xss))
-
-instance Monad Stream where
-  return x = Cons x (return x)
-  xs >>= f = diag (fmap f xs)
-```
-
-* [The stream monad](http://patternsinfp.wordpress.com/2010/12/31/stream-monad/)
-
 ###Reader Monad
 
 ```haskell
@@ -218,19 +161,6 @@ instance Monad (Reader e) where
 * [Dependency InjectionとDSL](http://qiita.com/yyu/items/a2debfcde8f1915d5083)
 * [Quick interpreters with the Reader monad](https://donsbot.wordpress.com/2006/12/11/quick-interpreters-with-the-reader-monad/)
 * [Haskellで大域変数が欲しい時はReaderモナドを使いましょう](http://yu-i9.hatenablog.com/entry/2014/11/19/235007)
-
-###Writer Monad
-
-```haskell
-newtype Writer w a = Writer { runWriter :: (a,w) } 
- 
-instance (Monoid w) => Monad (Writer w) where 
-    return a             = Writer (a,mempty) 
-    (Writer (a,w)) >>= f = let (a',w') = runWriter $ f a in Writer (a',w `mappend` w')
-```
-
-* [Writer monad](http://mbps.hatenablog.com/entry/2014/11/06/055458)
-
 
 ###随伴
 * [Adjunctions](https://www.youtube.com/playlist?list=PL54B49729E5102248)
@@ -288,18 +218,18 @@ Reader + Writer + State
 * [Making sequence/mapM for IO take O(1) stack](http://neilmitchell.blogspot.jp/2015/09/making-sequencemapm-for-io-take-o1-stack.html)
 * [Extra unsafe sequencing of IO actions](http://twanvl.nl/blog/haskell/unsafe-sequence)
 
-###Indexed Monad
-* [What is indexed monad?](http://stackoverflow.com/questions/28690448/what-is-indexed-monad)
-* [Indexed Monadの世界](http://fumieval.hatenablog.com/entry/2013/05/04/144840)
-
-##MonadPlus
+###MonadPlus
 * [MonadPlus and Monoid serve different purposes.](http://stackoverflow.com/questions/10167879/distinction-between-typeclasses-monadplus-alternative-and-monoid#10168111)
 * [MonadPlus and Alternative are just near-semirings in the category of endofunctors, what's the problem?](http://tomschrijvers.blogspot.jp/2015/07/monadplus-and-alternative-are-just-near.html)
     * [MonadPlusとNearSemiringで反例探し](http://myuon-myon.hatenablog.com/entry/2015/07/21/225358)
 * [`returnWhen` for MonadPlus](http://athanclark.github.io/posts/2015-08-26-returnWhen-for-MonadPlus.html)
 
-##MonadFix
+###MonadFix
 * [MonadFix example: compiling regular expressions](https://ro-che.info/articles/2015-09-02-monadfix)
+
+###Indexed Monad
+* [What is indexed monad?](http://stackoverflow.com/questions/28690448/what-is-indexed-monad)
+* [Indexed Monadの世界](http://fumieval.hatenablog.com/entry/2013/05/04/144840)
 
 ##圏論
 * [圏論とは何か](https://infinitytopos.wordpress.com/2015/01/25/%E5%9C%8F%E8%AB%96%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B/)
