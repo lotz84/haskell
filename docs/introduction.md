@@ -64,6 +64,7 @@ in map (fromMaybe . show <*> 3 ~> "fizz" <> 5 ~> "buzz")
 * [Haskell for Mac でちょっと Haskell をさわってみる](http://qiita.com/usamik26/items/d99bf694150a549b5078)
 * [Ask-Elle: an adaptable programming tutor for Haskell giving automated feedback](http://www.cs.uu.nl/research/techreps/repo/CS-2015/2015-019.pdf)
 * [What Code Does vs What Code Means](http://begriffs.com/posts/2015-12-26-what-code-means.html)
+* [fptudelft/FP101x-Content-2015](https://github.com/fptudelft/FP101x-Content-2015)
 
 ##Editor
 * [Leksah](http://leksah.org/)
@@ -84,16 +85,7 @@ in map (fromMaybe . show <*> 3 ~> "fizz" <> 5 ~> "buzz")
 * [The base-prelude package](https://hackage.haskell.org/package/base-prelude)
 * [順列列挙関数（素朴な実装）](http://qiita.com/nobsun/items/babd28fe81ba3b9f304f)
 
-###型と関数
-```haskell
--- 型の宣言
-fac :: Int -> Int
--- 関数の実装
-fac 0 = 1
-fac n = n * fac (n-1)
-```
-
-* [Partial Function Considered Harmful](http://tanakh.jp/posts/2011-12-25-partial-function-considered-harmful.html)
+##関数
 
 ###パターンマッチ
 * [Pattern matching](http://mbps.hatenablog.com/entry/2014/10/04/010000)
@@ -103,6 +95,7 @@ fac n = n * fac (n-1)
 ###多変数関数とカリー化
 * [Curry](https://ro-che.info/ccc/10)
 * [Loop School - Curring](http://school.looprecur.com/?video=122330958)
+* [Haskell Functions Take One Argument](http://tonymorris.github.io/blog/posts/haskell-functions-take-one-argument/)
 
 ```haskell
 curry :: ((a, b) -> c) -> a -> b -> c
@@ -121,7 +114,7 @@ uncurry :: (a -> b -> c) -> (a, b) -> c
 * [Blunt](https://blunt.herokuapp.com/)
   * [pointfree](https://hackage.haskell.org/package/pointfree)
 
-##遅延評価
+###遅延評価
 * [Schrödinger's cat](https://ro-che.info/ccc/4)
 * [Résumé](https://ro-che.info/ccc/11)
 * [正格評価と遅延評価（基本編）](http://qiita.com/ruicc/items/07143c9e78c697227706)
@@ -151,17 +144,18 @@ fib n = fibs !! (n-1) + fibs !! (n-2)
 * [How Laziness Works](http://two-wrongs.com/how-laziness-works)
 * [Haskell memoization](http://lukahorvat.github.io/programming/2014/11/18/haskell-memoization/)
 
-###Others
+###部分関数
+* [Partial Function Considered Harmful](http://tanakh.jp/posts/2011-12-25-partial-function-considered-harmful.html)
+* <https://twitter.com/GabrielG439/status/671803691591077888>
+* [24 days of Hackage, 2015: day 16: safe; what is safety anyway?](http://conscientiousprogrammer.com/blog/2015/12/16/24-days-of-hackage-2015-day-16-safe-what-is-safety-anyway/)
+* [部分関数をどう扱うか(spoonの紹介)](http://qiita.com/techno-tanoC/items/1b725713cd01bdf83b40)
+* [The spoon package](https://hackage.haskell.org/package/spoon)
+
+---
+
 * [Generalizing function composition](http://jaspervdj.be/posts/2014-10-17-generalizing-function-composition.html)
 * [Haskell Symposium 2012. Koen Claessen: Shrinking and showing functions](https://www.youtube.com/watch?v=CH8UQJiv9Q4)
 * [Making a fast curry Push/enter vs eval/apply for higher-order languages](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.134.9317&rep=rep1&type=pdf)
 * [A Pragmatic Case for Static Typing with Brian Hurt](https://vimeo.com/72870631)
-* [Haskell Functions Take One Argument](http://tonymorris.github.io/blog/posts/haskell-functions-take-one-argument/)
-* [The base-prelude package](https://hackage.haskell.org/package/base-prelude)
-* [fptudelft/FP101x-Content-2015](https://github.com/fptudelft/FP101x-Content-2015)
-* <https://twitter.com/GabrielG439/status/671803691591077888>
 * [On stateless software design: what is state ?](http://www.leonmergen.com/code/2015/12/04/on-stateless-software-design-what-is-state.html)
-* [部分関数をどう扱うか(spoonの紹介)](http://qiita.com/techno-tanoC/items/1b725713cd01bdf83b40)
-* [The spoon package](https://hackage.haskell.org/package/spoon)
 * [Does Haskell make promises it can't keep? or The big problem with wrapping numeric types](https://gist.github.com/tdoris/de36d2306edc5d6e9e7d#file-promises-md)
-* [24 days of Hackage, 2015: day 16: safe; what is safety anyway?](http://conscientiousprogrammer.com/blog/2015/12/16/24-days-of-hackage-2015-day-16-safe-what-is-safety-anyway/)
