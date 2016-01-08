@@ -8,6 +8,7 @@
 * [ARMing Haskell](http://haskellembedded.github.io/posts/2015-12-15-arm.html)
 * [CλaSH FPGA Starter](http://christiaanb.github.io/posts/clash-fpga-starter/)
 * [FFT With Circat](http://begriffs.com/posts/2015-12-14-fft-with-circat.html)
+* [ImplicitCAD](http://www.implicitcad.org/)
 
 ##ATS
 * [Japan ATS User Group](http://jats-ug.metasepi.org/)
@@ -56,3 +57,4 @@
 
 ##Android
 * [Android](https://wiki.haskell.org/Android)
+* [passy/android-lint-summary](https://github.com/passy/android-lint-summary)
