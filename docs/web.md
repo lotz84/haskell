@@ -31,6 +31,7 @@
 * [LambdaCms](http://lambdacms.org/)
 * [Animating Web UI with React and Haskell](http://joelburget.com/react-haskell/)
 * [A Distributed Haskell for the Modern Web](http://ekblad.cc/lic.pdf)
+* [CQRS in Haskell](http://www.corecursion.net/post/CQRS_in_Haskell)
 
 ##Elm
 * [elm](http://elm-lang.org/)
