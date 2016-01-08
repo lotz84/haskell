@@ -91,6 +91,7 @@ class Monad m where
 * [Why Do Monads Matter?](https://cdsmith.wordpress.com/2012/04/18/why-do-monads-matter/)
 * [All About Monads](https://wiki.haskell.org/All_About_Monads)
 * [Monad tutorials timeline](https://wiki.haskell.org/Monad_tutorials_timeline)
+* [Loop School - Monads](http://school.looprecur.com/?video=124363397)
 * [Loop School - F-Algebras Part1](http://school.looprecur.com/?video=122715366)
 * [Loop School - F-Algebras Part2](http://school.looprecur.com/?video=122716014)
 * [Loop School - F-Algebras Part3](http://school.looprecur.com/?video=122716071)
