@@ -7,6 +7,10 @@
 * [elm+electronで気楽に始めるFRP](http://qiita.com/yasuyuky/items/e28106e3dd7fed17d50f)
 * [Electron, React, and Haskell—Oh My! by Mike Craig](https://speakerdeck.com/mkscrg/electron-react-and-haskell-oh-my)
 * [connors/photon](https://github.com/connors/photon)
+* [Haskell-native spreadsheets](http://www.haskellforall.com/2015/11/haskell-native-spreadsheets.html)
+* [The Haskell Spreadsheet](https://docs.google.com/presentation/d/1lh9_QlLKtW4L5WsFkgRggyIFORXAkTUu6Y470VkM4uI/edit#slide=id.p)
+* [haskell-pkg-janitors/X11](https://github.com/haskell-pkg-janitors/X11)
+* [Nikita Churaev/dialog](https://gitlab.com/lamefun/dialog)
 
 ##数値計算・可視化
 * [linear](http://hackage.haskell.org/package/linear)
