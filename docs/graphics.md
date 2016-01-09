@@ -35,6 +35,7 @@
 * [Haskell で振動子](http://d.hatena.ne.jp/webapp/20110508)
 * [24 days of Hackage, 2015: day 20: dimensional: type-checked computation on physical quantities with units](http://conscientiousprogrammer.com/blog/2015/12/20/24-days-of-hackage-2015-day-20-dimensional-type-checked-computation-on-physical-quantities-with-units/)
 * [Haphviz: Graphviz code generation with Haskell](http://cs-syd.eu/posts/2015-12-20-haphviz-graphviz-code-generation-with-haskell.html)
+* [swift-nav/plover](https://github.com/swift-nav/plover)
 
 ##Gloss
 * [gloss](http://hackage.haskell.org/package/gloss)
