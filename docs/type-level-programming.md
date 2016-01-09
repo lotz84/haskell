@@ -394,6 +394,7 @@ instance Eval' Hole where
 * [Designing Dependently-Typed Programming Languages - Lecture 1 - Stephanie Weirich](https://www.youtube.com/watch?v=AT4JJm_ujRg)
 * [Dependent Types for Low-Level Programming](http://www.cs.berkeley.edu/~necula/Papers/deputy-esop07.pdf)
 * [Unified Interpreters For Dependent Languages](http://gallabytes.com/2015/10/Unified-Interpreters-For-Dependent-Languages.html)
+* [Guarded Dependent Type Theory with Coinductive Types](http://arxiv.org/abs/1601.01586)
 
 ##Homotopy Theory
 * Allen Hatcher - [Algebraic Topology](http://www.math.cornell.edu/~hatcher/AT/AT.pdf)
@@ -444,3 +445,4 @@ instance Eval' Hole where
 * [Categorical homotopy theory](http://www.math.harvard.edu/~eriehl/cathtpy.pdf)
 * [Constructing the Propositional Truncation using Non-recursive HITs](http://arxiv.org/abs/1512.02274)
 * [Categories, Bundles and Spacetime Topology](http://link.springer.com/book/10.1007/978-94-015-7776-2)
+* [Colimits in HoTT](http://homotopytypetheory.org/2016/01/08/colimits-in-hott/)
