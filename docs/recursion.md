@@ -113,6 +113,7 @@ fact = fix $ \fact n -> if n == 0 then 1 else n * fact (n-1)
 ```
 
 ##Catamorphism, Anamorphism
+* [Catamorphisms in 15 Minutes!](http://chrislambda.github.io/blog/2014/01/30/catamorphisms-in-15-minutes/)
 * [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire](http://eprints.eemcs.utwente.nl/7281/01/db-utwente-40501F46.pdf)
 * [再帰のパターン](http://maoe.hatenadiary.jp/entry/20090820/1250782646)
 * [関西関数型道場 - 第参回 S2 「再帰について」](https://www.youtube.com/watch?v=mPH95hS3P1c)
