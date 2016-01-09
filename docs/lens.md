@@ -4,11 +4,11 @@
 
 出典: [Lens](http://mbps.hatenablog.com/entry/2014/10/28/152931)
 
+* [microlens](http://hackage.haskell.org/package/microlens)
 * [lens](https://hackage.haskell.org/package/lens)
 * [Control.Lens.Tutorial](https://hackage.haskell.org/package/lens-tutorial/docs/Control-Lens-Tutorial.html)
 * [Kinokkory/lens-japanese](https://github.com/Kinokkory/lens-japanese/wiki)
 * [lensパッケージのオプティクス(弱い順)](http://fumieval.hatenablog.com/entry/2015/07/14/223329)
-* [aelve/microlens](https://github.com/aelve/microlens#readme)
 * [A Clear Intro to Lenses](http://begriffs.com/posts/2016-01-07-clear-intro-to-lenses.html)
 * [Lensで行こう！](http://myuon-myon.hatenablog.com/entry/20121228/1356708483)
 * [Lensで行こう！(2):Isoへの拡張](http://myuon-myon.hatenablog.com/entry/2013/01/06/232142)
@@ -27,7 +27,6 @@
 * [total-1.0.0: Exhaustive pattern matching using traversals, prisms, and lenses](http://www.haskellforall.com/2015/01/total-100-exhaustive-pattern-matching.html)
 * [himura/lens-regex](https://github.com/himura/lens-regex)
 * [Lens from Scratch](http://myuon-myon.hatenablog.com/entry/2015/07/14/203521)
-* [tables](https://hackage.haskell.org/package/tables)
 * [Haskell/Lenses and functional references](https://en.wikibooks.org/wiki/Haskell/Lenses_and_functional_references)
 * [Lenses from the ground up](http://taylor.fausak.me/2014/08/03/lenses-from-the-ground-up/)
 * [Explicit is better than implicit](http://www.haskellforall.com/2015/10/explicit-is-better-than-implicit.html)
