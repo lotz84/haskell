@@ -32,6 +32,8 @@
 * [Haskell Advent Calendar jp 2010](http://cielquis.net/advent-calendar/haskell-jp-2010.html)
 
 ##企業
+* [YOW! 2015 - Reid Draper - Production Haskell](https://www.youtube.com/watch?v=T2wi0ZUOHfM)
+
 ###FPComplete
 * [FPComplete](https://www.fpcomplete.com/)
 * [HASKELL IN ENTERPRISE](https://snoyberg.github.io/2015-08-30-tel-aviv-haskell-in-enterprise.html#/)
