@@ -9,6 +9,7 @@
 * [Kinokkory/lens-japanese](https://github.com/Kinokkory/lens-japanese/wiki)
 * [lensパッケージのオプティクス(弱い順)](http://fumieval.hatenablog.com/entry/2015/07/14/223329)
 * [aelve/microlens](https://github.com/aelve/microlens#readme)
+* [A Clear Intro to Lenses](http://begriffs.com/posts/2016-01-07-clear-intro-to-lenses.html)
 * [Lensで行こう！](http://myuon-myon.hatenablog.com/entry/20121228/1356708483)
 * [Lensで行こう！(2):Isoへの拡張](http://myuon-myon.hatenablog.com/entry/2013/01/06/232142)
 * [lens over tea](http://artyom.me/#lens-over-tea)
