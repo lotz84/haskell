@@ -217,6 +217,7 @@ Reader + Writer + State
 * [純粋関数型JavaScriptのつくりかた](http://qiita.com/hiruberuto/items/810ecdff0c1674d1a74e)
 * [Making sequence/mapM for IO take O(1) stack](http://neilmitchell.blogspot.jp/2015/09/making-sequencemapm-for-io-take-o1-stack.html)
 * [Extra unsafe sequencing of IO actions](http://twanvl.nl/blog/haskell/unsafe-sequence)
+* [The unexceptionalio package](http://hackage.haskell.org/package/unexceptionalio)
 
 ###MonadPlus
 * [MonadPlus and Monoid serve different purposes.](http://stackoverflow.com/questions/10167879/distinction-between-typeclasses-monadplus-alternative-and-monoid#10168111)
@@ -268,6 +269,7 @@ Reader + Writer + State
 * [Category Theory Using String Diagrams](http://jp.arxiv.org/abs/1401.7220)
 * [String diagram のすすめ](http://mbps.hatenablog.com/entry/2015/12/20/070000)
 * [What is the Category for Haskell?](http://www.cs.gunma-u.ac.jp/~hamana/Papers/cpo.pdf)
+* [Haskellで学ぶ圏論・ウォームアップ編　モノイドと二項演算子](http://bitterharvest.hatenablog.com/entry/2015/02/15/104722)
 
 ###CPL
 * [圏論プログラミング言語 CPL](http://mandel59.hateblo.jp/entry/2015/02/02/110621)
