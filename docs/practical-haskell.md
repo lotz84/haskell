@@ -77,6 +77,7 @@
 * [How I deploy Haskell Code](http://www.alfredodinapoli.com/posts/2015-11-03-how-i-deploy-haskell-code.html)
 * [Using Stack on Travis CI](https://www.fpcomplete.com/blog/2015/12/stack-travis)
 * [ghc-shake: Reimplementing ghc -​-make](http://blog.ezyang.com/2016/01/ghc-shake-reimplementing-ghc-make/)
+* [snowleopard/shaking-up-ghc](https://github.com/snowleopard/shaking-up-ghc)
 
 ##CLI
 * [zalora/getopt-generics](https://github.com/zalora/getopt-generics)
