@@ -113,6 +113,8 @@ class Monad m where
 * [モナドのすべて](http://www.sampou.org/haskell/a-a-monads/html/index.html)
 * [難しいのは見た目だけ！？Haskellのモナドの「たった2つのルール」を簡単に理解する！](http://qiita.com/south37/items/06cfa95aa9c8f2ecb2e9)
 * [Monads to Machine Code (Part 1)](http://www.stephendiehl.com/posts/monads_machine_code.html)
+* [Maybeモナドの使い道 部分的な失敗を全体的な失敗とする計算(1)](http://mitsuji.org/?p=152)
+* [Eitherモナドの使い道 部分的な失敗を全体的な失敗とする計算(2)](http://mitsuji.org/?p=160)
 
 ```haskell
 do x <- mx
