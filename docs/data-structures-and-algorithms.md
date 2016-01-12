@@ -43,6 +43,7 @@
 * [Torsors, midpoints, and homogeneous coordinates](https://ro-che.info/articles/2015-12-16-torsors-midpoints-homogeneous-coordinates)
 * [lotz84/transducer-survey.md](https://gist.github.com/lotz84/0cbe22416319b6caf2e1)
 * [Transducers: Why and How?](http://beerendlauwers.be/posts/2015-12-09-transducers.html)
+* [The reducers package](https://hackage.haskell.org/package/reducers)
 * [Haskell Tutorial: Implementing highly efficient data structures with Monoids and Fingertrees](https://www.codementor.io/haskell/tutorial/monoids-fingertrees-implement-abstract-data)
 * [24 days of Hackage, 2015: day 18: vector, vector-algorithms: unleash your inner C programmer!](http://conscientiousprogrammer.com/blog/2015/12/18/24-days-of-hackage-2015-day-18-vector-vector-algorithms-unleash-your-inner-c-programmer/)
 * [Tag, don't type](https://github.com/quchen/articles/blob/master/tag-dont-type.md)
@@ -54,7 +55,6 @@
 * [Efficient Linear Algebra with Plover](http://begriffs.com/posts/2016-01-03-plover-linear-algebra.html)
 * [状態変化なしに効率的な辞書を実装する重み平衡木](http://qiita.com/YoshikuniJujo/items/a852c0d3af70debd2d24)
 * [Symbolic expressions can be Automatically differentiated too](http://h2.jaguarpaw.co.uk/posts/symbolic-expressions-can-be-automatically-differentiated/)
-* [The reducers package](https://hackage.haskell.org/package/reducers)
 * [Haskellでわかる群論の代数的構造](https://www.gitbook.com/book/aiya000/haskell_de_groupstructure/details)
 
 ###Serialization
@@ -87,6 +87,7 @@
 * [The array package](https://hackage.haskell.org/package/array)
 * [すごい配列楽しく学ぼう](http://www.slideshare.net/xenophobia__/ss-14558187)
 * [Open Data Types and Open Functions](https://www.cs.ox.ac.uk/people/ralf.hinze/publications/PPDP06.pdf)
+* [leventov/yarr](https://github.com/leventov/yarr)
 
 ###Graph
 * [FP Graph Algorithms](http://begriffs.com/posts/2015-09-04-pure-functional-graphs.html)
