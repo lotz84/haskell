@@ -9,6 +9,7 @@
 * [CλaSH FPGA Starter](http://christiaanb.github.io/posts/clash-fpga-starter/)
 * [FFT With Circat](http://begriffs.com/posts/2015-12-14-fft-with-circat.html)
 * [ImplicitCAD](http://www.implicitcad.org/)
+* [HaSKI](http://yager.io/HaSKI/HaSKI.html)
 
 ##ATS
 * [Japan ATS User Group](http://jats-ug.metasepi.org/)
