@@ -64,6 +64,7 @@
 * [Flare](http://david-peter.de/articles/flare/)
 * [Pursuit](http://pursuit.purescript.org/)
 * [PureScript for the Haskeller](http://www.arow.info/blog/posts/2015-12-17-purescript-intro.html)
+* [kRITZCREEK/psc-ide](https://github.com/kRITZCREEK/psc-ide)
 
 ##HTML Template/DSL
 * [shakespeare](https://hackage.haskell.org/package/shakespeare)
