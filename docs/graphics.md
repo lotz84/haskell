@@ -17,6 +17,7 @@
 * [linear](http://hackage.haskell.org/package/linear)
 * [repa](https://hackage.haskell.org/package/repa)
 * [hmatrix](https://hackage.haskell.org/package/hmatrix)
+  * [introduction to hmatrix](http://dis.um.es/~alberto/material/hmatrix.pdf)
 * [ad](https://hackage.haskell.org/package/ad)
   * <https://twitter.com/GabrielG439/status/647601518871359489>
   * [Beautiful differentiation](http://conal.net/blog/posts/beautiful-differentiation)
