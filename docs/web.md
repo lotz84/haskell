@@ -23,6 +23,7 @@
 * webfont generator - [ananthakumaran/webify](https://github.com/ananthakumaran/webify)
 * [A Distributed Haskell for the Modern Web](http://ekblad.cc/lic.pdf)
 * [CQRS in Haskell](http://www.corecursion.net/post/CQRS_in_Haskell)
+* [liqd/thentos](https://github.com/liqd/thentos)
 
 ##Socket
 * [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)
