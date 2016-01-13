@@ -54,6 +54,7 @@
 * [Stack + Nix = portable reproducible builds](http://www.tweag.io/blog/stack-nix-portable-reproducible-builds)
 
 ##Docker
+* [Dockerfile Linter](http://hadolint.lukasmartinelli.ch/)
 * [How I deploy Haskell Code](http://www.alfredodinapoli.com/posts/2015-11-03-how-i-deploy-haskell-code.html)
 * [Docker Hosting – Run Docker Containers in any Cloud - Tutum](https://www.tutum.co/)
 * [Kubernetes for Haskell Services](https://www.fpcomplete.com/blog/2015/11/kubernetes)
