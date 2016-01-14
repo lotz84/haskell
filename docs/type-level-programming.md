@@ -27,6 +27,8 @@
 * [Decidable Propositional Equality in Haskell](https://typesandkinds.wordpress.com/2012/12/01/decidable-propositional-equality-in-haskell/)
 * [型レベル自然数(つよい)](http://qiita.com/philopon/items/2eeb442e48cc45e5e9aa)
 * [型レベルで平衡が保証される探索木](http://qiita.com/YoshikuniJujo/items/a7b9f53516d4fd52e1b4)
+* [Filling Haskell's Type Holes Like It's Agda](http://begriffs.com/posts/2015-02-07-haskell-type-holes.html)
+* [Phantheck, the Type-Level QuickCheck](http://begriffs.com/posts/2015-12-06-quickcheck-for-types.html)
 
 ```haskell
 data Bottom
