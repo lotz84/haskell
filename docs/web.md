@@ -24,6 +24,9 @@
 * [A Distributed Haskell for the Modern Web](http://ekblad.cc/lic.pdf)
 * [CQRS in Haskell](http://www.corecursion.net/post/CQRS_in_Haskell)
 * [liqd/thentos](https://github.com/liqd/thentos)
+* [Network.Mail.Mime でのメール送信方法](http://qiita.com/satosystems/items/43ad35db2a289c15c998)
+* [stackbuilders/hapistrano](https://github.com/stackbuilders/hapistrano)
+* [The resource-pool package](https://hackage.haskell.org/package/resource-pool)
 
 ##Socket
 * [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)
