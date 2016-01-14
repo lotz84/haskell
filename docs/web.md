@@ -56,6 +56,8 @@
 * [Haskell + Haste で Fourier 級数の可視化](http://qiita.com/lesguillemets/items/dbd928237be3e6a1221d)
 * [Haste + Parsec でブラウザ上で動く電卓をつくる](http://qiita.com/lesguillemets/items/b58e684a773fb4b5e4aa)
 * [Zero config, no server Haste.App](http://haste-lang.org/blog/haste-standalone/)
+* [Writing a React JS front-end in Haskell](http://begriffs.com/posts/2015-01-12-reactjs-in-haskell.html)
+* [Functional Front-End Coding](http://begriffs.com/posts/2015-11-30-functional-front-end-coding.html)
 
 ###Pure Script
 * <http://www.purescript.org/>
@@ -112,6 +114,7 @@ indexHtml = do
 * [Hakyllを使ってGitHub Pagesを作成して、そのソースも管理して、Travis CIで自動デプロイする。](http://imokuri123.com/blog/2015/04/create-github-pages-with-hakyll.html)
 * [Hakyllでページング](http://qiita.com/hiratara/items/714d890e1b363f06c2d3)
 * [Hakyllでブログを作る(実践編)](https://imokuri123.com/blog/2015/12/how-to-create-blog-with-hakyll-part1.html)
+* [Create a static site with Hakyll, Github and Travis CI](http://begriffs.com/posts/2014-08-12-create-static-site-with-hakyll-github.html)
 
 ##Web Socket
 * [Haskell から見た node.js](http://d.hatena.ne.jp/kazu-yamamoto/20110825/1314254885)
@@ -131,6 +134,7 @@ indexHtml = do
 * [Intro to Nested-Routes](http://athanclark.github.io/posts/2015-10-27-nested-routes-tut-1.html)
 * [Simple](http://simple.cx/)
 * [WebApi](http://byteally.github.io/webapi/)
+* [Writing controller specs for a Warp server](http://begriffs.com/posts/2014-10-19-warp-server-controller-test.html)
 
 ##Web Application Framework
 * [The scotty package](http://hackage.haskell.org/package/scotty)
@@ -195,11 +199,16 @@ indexHtml = do
 * [Yesod hosting with Docker and Kubernetes](http://www.yesodweb.com/blog/2015/12/yesod-hosting-docker-kubernetes)
 * [Servant style handlers for Yesod](http://tech.frontrowed.com/post/135666421041/servant-style-handlers-for-yesod)
 * [Haskell stack, Yesod and Docker](http://mdjnewman.me/2016/01/haskell-stack-yesod-docker/)
+* [Deploying Yesod to Heroku with Postgres support](http://begriffs.com/posts/2013-08-24-deploying-yesod-to-heroku-with-postgres.html)
+* [Some extra safety with Yesod routing](http://begriffs.com/posts/2013-08-26-some-extra-safety-with-yesod-routing.html)
 
 ##Heroku
 * [Deploying Haskell to Heroku using Docker](http://www.reddit.com/r/haskell/comments/35he88/deploying_haskell_to_heroku_using_docker/)
 * [Herokuで、Gititを起動する](http://qiita.com/rouge_pawn/items/4a5d5ee68590a002ce8d)
 * [Haskell + Yesodで作ったアプリをHerokuにデプロイする](http://qiita.com/etmnk/items/79f022cd6cb5fd2e8794)
+* [How to compile Haskell libraries for Heroku](http://begriffs.com/posts/2013-10-14-how-to-compile-haskell-libraries-for.html)
+* [Popularizing Haskell through easy web deployment](http://begriffs.com/posts/2013-12-06-popularizing-haskell-through-easy-web.html)
+* [Pair programming with Haskell and Digital Ocean](http://begriffs.com/posts/2014-06-09-pair-programming-with-haskell-and.html)
 
 ###Haskell on Heroku
 * [Haskell on Heroku](https://haskellonheroku.com/)
@@ -274,10 +283,16 @@ $ heroku config:set HALCYON_NO_BUILD_DEPENDENCIES=0
 * [agentm/project-m36](https://github.com/agentm/project-m36)
 * [Etienne Laurin: A RethinkDB driver for Haskell (Heavybit meetup)](https://www.youtube.com/watch?v=Qvn8EQfgUCA)
 * [jtdaugherty/dbmigrations](https://github.com/jtdaugherty/dbmigrations)
+* [The groundhog package](http://hackage.haskell.org/package/groundhog)
+* [Creating sqlite tables with Groundhog's default settings](http://begriffs.com/posts/2013-08-31-creating-sqlite-tables-with-groundhogs.html)
+* [PostgREST Workshop](http://begriffs.com/posts/2015-10-02-postgrest-workshop.html)
+* [Declaring RESTful APIs with PostgREST](http://begriffs.com/posts/2014-12-30-intro-to-postgrest.html)
 
 ###Simples
 * [The mysql-simple package](https://hackage.haskell.org/package/mysql-simple)
 * [The postgresql-simple package](https://hackage.haskell.org/package/postgresql-simple)
+  * [Haskell postgresql-simple examples, part 1](http://begriffs.com/posts/2013-09-10-haskell-postgresql-simple-examples-part.html)
+  * [Haskell postgresql-simple examples, part 2](http://begriffs.com/posts/2013-09-14-haskell-postgresql-simple-examples-part_13.html)
 * [The sqlite-simple package](https://hackage.haskell.org/package/sqlite-simple)
 * [The hedis package](https://hackage.haskell.org/package/hedis)
 * [The couch-simple package](https://hackage.haskell.org/package/couch-simple)
