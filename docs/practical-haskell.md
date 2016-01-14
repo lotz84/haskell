@@ -18,6 +18,7 @@
 * [Cabalでビルド時にProtocol Buffersファイルをコンパイルする](http://qiita.com/yunomu/items/a8ef65dccc1c085b7c0d)
 * [stepcut/hackage-whatsnew](https://github.com/stepcut/hackage-whatsnew)
 * [The packunused package](http://hackage.haskell.org/package/packunused)
+* [Creating a package on Hackage](http://begriffs.com/posts/2014-10-25-creating-package-hackage.html)
 
 ##Stack
 * [The Haskell Tool Stack](http://docs.haskellstack.org/en/stable/README.html)
@@ -47,6 +48,7 @@
 * [stack 1.0.0が出たので私が初めて使った時からの更新をピックアップ](http://qiita.com/igrep/items/5562a9d4703c29f8c0f5)
 * [stackとghc-modを一緒に使う時の手順](http://qiita.com/siphilia_rn/items/bba4519710bb0513d6f9)
 * [reiddraper/ordeal](https://github.com/reiddraper/ordeal)
+* [Stack, the Haskell Build Tool](http://begriffs.com/posts/2015-06-22-haskell-stack-build-tool.html)
 
 ##Nix
 * [Nix ±Cabal](http://begriffs.com/posts/2015-08-07-nix-plus-minus-cabal.html)
@@ -61,6 +63,7 @@
 * [Dev and Deploy Haskell on Docker](http://begriffs.com/posts/2015-08-11-dev-deploy-haskell-docker.html)
 * [Docker container with ip address on local network](http://therning.org/magnus/posts/2015-10-22-000-docker-container-with-ip-address-on-local-network.html)
 * [The split-image approach to building minimal runtime Docker images](https://www.fpcomplete.com/blog/2015/12/docker-split-images)
+* [Dev and Deploy Haskell on Docker](http://begriffs.com/posts/2015-08-11-dev-deploy-haskell-docker.html)
 
 ##CI
 * [Shake](http://shakebuild.com/)
