@@ -158,7 +158,9 @@ indexHtml = do
 * [Dependently typed servers in Servant](http://www.well-typed.com/blog/2015/12/dependently-typed-servers/)
 * [【型レベルWeb DSL】 Servantの紹介](http://qiita.com/lotz/items/883b41fa79f060e59efa)
 * [tel/serv](https://github.com/tel/serv)
-* [Typed up CRUD SPA with Haskell and Elm - Part 1: Spike time](http://rundis.github.io/blog/2015/haskell_elm_spa_part1.html)
+* Typed up CRUD SPA with Haskell and Elm
+  * [Part 1: Spike time](http://rundis.github.io/blog/2015/haskell_elm_spa_part1.html)
+  * [Part 2: Persistence up and running](http://rundis.github.io/blog/2016/haskel_elm_spa_part2.html)
 * [algas/haskell-servant-codegen](https://github.com/algas/haskell-servant-codegen)
 * [Deriving a servant schema from your data](http://purelyfunctional.org/posts/2016-01-01-servant-from-data.html)
 
