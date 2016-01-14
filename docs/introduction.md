@@ -65,6 +65,7 @@ in map (fromMaybe . show <*> 3 ~> "fizz" <> 5 ~> "buzz")
 * [Ask-Elle: an adaptable programming tutor for Haskell giving automated feedback](http://www.cs.uu.nl/research/techreps/repo/CS-2015/2015-019.pdf)
 * [What Code Does vs What Code Means](http://begriffs.com/posts/2015-12-26-what-code-means.html)
 * [fptudelft/FP101x-Content-2015](https://github.com/fptudelft/FP101x-Content-2015)
+* [Learning Real Haskell Incrementally](http://begriffs.com/posts/2015-10-24-learning-haskell-incrementally.html)
 
 ##Editor
 * [Leksah](http://leksah.org/)
