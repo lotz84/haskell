@@ -272,6 +272,8 @@ Reader + Writer + State
 * [String diagram のすすめ](http://mbps.hatenablog.com/entry/2015/12/20/070000)
 * [What is the Category for Haskell?](http://www.cs.gunma-u.ac.jp/~hamana/Papers/cpo.pdf)
 * [Haskellで学ぶ圏論・ウォームアップ編　モノイドと二項演算子](http://bitterharvest.hatenablog.com/entry/2015/02/15/104722)
+* [How we used Category Theory to solve a problem in Java](http://techblog.realestate.com.au/how-we-used-category-theory-to-solve-a-problem-in-java/)
+* [Adjoint Triples](http://comonad.com/reader/2016/adjoint-triples/)
 
 ###CPL
 * [圏論プログラミング言語 CPL](http://mandel59.hateblo.jp/entry/2015/02/02/110621)
