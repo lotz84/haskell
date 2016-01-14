@@ -49,7 +49,8 @@ class Functor f => Applicative f where
 * [Free Applicative Functors in Haskell](http://www.eyrie.org/~zednenem/2013/05/27/freeapp)
 * [More on Free Applicative Functors](http://www.eyrie.org/~zednenem/2013/06/freeapp-2)
 * [closed functor](http://ncatlab.org/nlab/show/closed+functor)
-* 
+* [Haskell Applicative Functors Explained Without Words](http://begriffs.com/posts/2013-08-28-weird-symbols-in-their-native-tongue_27.html)
+* [Applicatives in Math vs Code](http://begriffs.com/posts/2015-08-30-applicative-functors.html)
 
 ###Discrimination
 * [discrimination](http://hackage.haskell.org/package/discrimination)
@@ -115,6 +116,7 @@ class Monad m where
 * [Monads to Machine Code (Part 1)](http://www.stephendiehl.com/posts/monads_machine_code.html)
 * [Maybeモナドの使い道 部分的な失敗を全体的な失敗とする計算(1)](http://mitsuji.org/?p=152)
 * [Eitherモナドの使い道 部分的な失敗を全体的な失敗とする計算(2)](http://mitsuji.org/?p=160)
+* [Haskell Monads Explained Without Words](http://begriffs.com/posts/2013-08-29-haskell-monads-explained-without-words.html)
 
 ```haskell
 do x <- mx
