@@ -99,9 +99,10 @@
 * [A Haskell Time Library Tutorial](http://two-wrongs.com/haskell-time-library-tutorial)
 * [The unix-time package](https://hackage.haskell.org/package/unix-time)
 
-###FFI
+###FFT
 * [Simple FFT in Haskell](https://ro-che.info/articles/2015-12-04-fft)
 * [Testing FFT with R](https://ro-che.info/articles/2015-12-05-testing-fft)
+* [FFT With Circat](http://begriffs.com/posts/2015-12-14-fft-with-circat.html)
 
 ###S式
 * [The s-cargot package](https://hackage.haskell.org/package/s-cargot)
