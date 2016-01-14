@@ -128,6 +128,7 @@ p = Circle {center = (1.0, 2.0), radius = 3.0}
   * [Anonymous records in Haskell](http://www.techcast.com/events/bigtechday8/maffei-1005/?q=maffei-1005)
 * [OverloadedRecordFields revived](http://www.well-typed.com/blog/2015/03/overloadedrecordfields-revived/)
 * [odr/pers](https://github.com/odr/pers)
+* [重複したフィールドラベル](http://d.hatena.ne.jp/kazu-yamamoto/20160114)
 
 ###Vinyl
 * [vinyl](https://hackage.haskell.org/package/vinyl)
