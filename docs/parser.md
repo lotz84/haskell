@@ -26,7 +26,8 @@ parse = evalStateT
 ```
 
 * [The parsec package](https://hackage.haskell.org/package/parsec)
-* [The megaparsec package](https://hackage.haskell.org/package/megaparsec)
+* [Megaparsec](https://mrkkrp.github.io/megaparsec/)
+  * [Tutorials](https://mrkkrp.github.io/megaparsec/tutorials.html)
 * [The attoparsec package](http://hackage.haskell.org/package/attoparsec)
 * [The trifecta package](https://hackage.haskell.org/package/trifecta)
 * [The parsers package](http://hackage.haskell.org/package/parsers)
@@ -64,6 +65,9 @@ parse = evalStateT
 
 ###PDF
 * [詳細PDF入門 ー 実装して学ぼう！PDFファイルの構造とその書き方読み方](http://itchyny.hatenablog.com/entry/2015/09/16/100000)
+
+###YAML
+* [yamadapc/haskell-frontmatter](https://github.com/yamadapc/haskell-frontmatter)
 
 ###JSON
 * [aeson](http://hackage.haskell.org/package/aeson)
