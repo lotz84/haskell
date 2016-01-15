@@ -141,3 +141,4 @@
 * [Trading Analytics](http://logicalgraphs.blogspot.jp/p/trading-analytics.html)
 * [Ling - High level system programming [32c3]](https://www.youtube.com/watch?v=dagxIy4ZNSQ)
 * [np/ling](https://github.com/np/ling)
+* [Music Suite](http://music-suite.github.io/docs/ref/)
