@@ -57,6 +57,7 @@ data HList (as :: [*]) where
 * [The Constraint kind](https://jeltsch.wordpress.com/2013/02/14/the-constraint-kind/)
 * [The constraint trick for instances](http://chrisdone.com/posts/haskell-constraint-trick)
 * [mikeizbicki/ifcxt](https://github.com/mikeizbicki/ifcxt)
+* [The Constraint kind](https://jeltsch.wordpress.com/2013/02/14/the-constraint-kind/)
 
 ##Phantom Type
 * [Phantom Types and Subtyping](http://www.cs.rit.edu/~mtf/research/phantom-subtyping/jfp06/jfp06.pdf)
@@ -273,6 +274,8 @@ instance Eval' Hole where
 * Proof Theory Foundations, Lecture [1](https://www.youtube.com/watch?v=YRu7Xi-mNK8), [2](https://www.youtube.com/watch?v=JzIAEv8fN88), [3](https://www.youtube.com/watch?v=nw0JAF79gYI), [4](https://www.youtube.com/watch?v=_XtflAEN6aA)
 * [Computability](http://link.springer.com/book/10.1007/978-1-4612-0863-1)
 * [Relational Methods in Computer Science](http://link.springer.com/book/10.1007/3-540-36280-0)
+* [Second-order theories should not be taken lightly](https://theorylunch.wordpress.com/2016/01/14/second-order-theories-should-not-be-taken-lightly/)
+* [Some reasons to teach lattice theory to undergraduates](https://theorylunch.wordpress.com/2013/03/14/some-reasons-to-teach-lattice-theory-to-undergraduates/)
 
 ###線形論理
 
@@ -398,6 +401,7 @@ instance Eval' Hole where
 * [Dependent Types for Low-Level Programming](http://www.cs.berkeley.edu/~necula/Papers/deputy-esop07.pdf)
 * [Unified Interpreters For Dependent Languages](http://gallabytes.com/2015/10/Unified-Interpreters-For-Dependent-Languages.html)
 * [Guarded Dependent Type Theory with Coinductive Types](http://arxiv.org/abs/1601.01586)
+* [Type Soundness for Path Polymorphism](http://arxiv.org/abs/1601.03271)
 
 ##Homotopy Theory
 * Allen Hatcher - [Algebraic Topology](http://www.math.cornell.edu/~hatcher/AT/AT.pdf)
@@ -407,6 +411,7 @@ instance Eval' Hole where
 * [Elements of Homotopy Theory](http://link.springer.com/book/10.1007/978-1-4612-6318-0)
 * [Čech and Steenrod Homotopy Theories with Applications to Geometric Topology](http://link.springer.com/book/10.1007/BFb0081083)
 * [Theory of Topological Structures](http://link.springer.com/book/10.1007/978-94-009-2859-6)
+* [Homotopy before type theory](https://theorylunch.wordpress.com/2013/10/21/homotopy-before-type-theory/)
 
 ##HoTT
 * [ホモトピー変形と自然変換](http://d.hatena.ne.jp/m-hiyama/comment?date=20111208&section=1323315799#c)
