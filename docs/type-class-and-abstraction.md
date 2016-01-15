@@ -46,6 +46,8 @@ instance Show Bool where
 * [Scrap your type classes](http://www.haskellforall.com/2012/05/scrap-your-type-classes.html)
 * [Counterexamples of Type Classes](http://blog.functorial.com/posts/2015-12-06-Counterexamples.html)
 * [Interactively discovering the best type classes for Haskell functions](http://begriffs.com/posts/2013-08-25-interactively-discovering-best-type.html)
+* [Some interesting features of Haskell’s type system](https://jeltsch.wordpress.com/2013/02/09/some-interesting-features-of-haskells-type-system/)
+* [Natural numbers with addition form a monoid](https://theorylunch.wordpress.com/2013/12/03/natural-numbers-with-addition-form-a-monoid/)
 
 ##Monoid
 * [Haskell Monoids and their Uses](http://blog.sigfpe.com/2009/01/haskell-monoids-and-their-uses.html)
