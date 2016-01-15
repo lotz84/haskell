@@ -105,6 +105,7 @@ yoneda f = Natural $ \ax -> fmap ax f
 * [Examining Hackage: operational](http://jozefg.bitbucket.org/posts/2014-12-27-folds.html)
 
 ###Ideal Monad
+* [An introduction to ideal monads](https://theorylunch.wordpress.com/2012/11/08/an-introduction-to-ideal-monads/)
 * [究極のモナド「Idealモナド」を垣間見る](http://fumieval.hatenablog.com/entry/2013/01/04/110339)
 * [究極のモナド「Idealモナド」を垣間見る(続/その0)](http://fumieval.hatenablog.com/entry/2013/01/07/113221)
 * [What is the correct definition of ideal monads?](http://theorylunch.wordpress.com/2012/11/22/what-is-the-correct-definition-of-ideal-monads/)
