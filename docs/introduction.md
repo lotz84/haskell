@@ -89,6 +89,7 @@ in map (fromMaybe . show <*> 3 ~> "fizz" <> 5 ~> "buzz")
 * [順列列挙関数（素朴な実装）](http://qiita.com/nobsun/items/babd28fe81ba3b9f304f)
 
 ##関数
+* [A simple Haskell function](http://neilmitchell.blogspot.jp/2016/01/a-simple-haskell-function.html)
 
 ###パターンマッチ
 * [Pattern matching](http://mbps.hatenablog.com/entry/2014/10/04/010000)
@@ -99,6 +100,7 @@ in map (fromMaybe . show <*> 3 ~> "fizz" <> 5 ~> "buzz")
 * [Curry](https://ro-che.info/ccc/10)
 * [Loop School - Curring](http://school.looprecur.com/?video=122330958)
 * [Haskell Functions Take One Argument](http://tonymorris.github.io/blog/posts/haskell-functions-take-one-argument/)
+* [A taste of Curry](https://jeltsch.wordpress.com/2013/04/27/a-taste-of-curry/)
 
 ```haskell
 curry :: ((a, b) -> c) -> a -> b -> c
