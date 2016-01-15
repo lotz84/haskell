@@ -117,6 +117,9 @@ class Monad m where
 * [Maybeモナドの使い道 部分的な失敗を全体的な失敗とする計算(1)](http://mitsuji.org/?p=152)
 * [Eitherモナドの使い道 部分的な失敗を全体的な失敗とする計算(2)](http://mitsuji.org/?p=160)
 * [Haskell Monads Explained Without Words](http://begriffs.com/posts/2013-08-29-haskell-monads-explained-without-words.html)
+* [A short recap of monads](https://theorylunch.wordpress.com/2012/11/01/a-short-recap-of-monads/)
+* [If monads are about syntax then algebras are about semantics](https://theorylunch.wordpress.com/2012/12/13/if-monads-are-about-syntax-then-algebras-are-about-semantics/)
+* [An initial solution to the monad problem, and then some more](https://theorylunch.wordpress.com/2013/06/06/an-initial-solution-to-the-monad-problem-and-then-some-more/)
 
 ```haskell
 do x <- mx
@@ -176,6 +179,7 @@ instance Monad (Reader e) where
 * [Haskellと随伴](http://qiita.com/myuon_myon/items/d598480e4edd7a780ea7)
 * [From Adjunctions to Monads](http://www.stephendiehl.com/posts/adjunctions.html)
 * [Adjunctions with parameters](http://mbps.hatenablog.com/entry/2014/12/08/033230)
+* [When does an endofunctor derive from an adjunction?](https://theorylunch.wordpress.com/2013/05/30/when-does-an-endofunctor-derive-from-an-adjunction/)
 
 ###State Monad
 
