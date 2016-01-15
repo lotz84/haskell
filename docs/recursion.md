@@ -131,6 +131,7 @@ fact = fix $ \fact n -> if n == 0 then 1 else n * fact (n-1)
 * [Theory and Practice of Fusion](http://www.cs.ox.ac.uk/ralf.hinze/publications/IFL10.pdf)
 * [Dynamorphism 〜 Haskellでも動的計画法がしたい！ 〜](http://titech-ssr.blog.jp/archives/1047835805.html)
 * [The recursion-schemes package](https://hackage.haskell.org/package/recursion-schemes)
+* [Finite trees as initial algebra](https://theorylunch.wordpress.com/2013/02/28/finite-trees-as-initial-algebra/)
 
 ----
 
