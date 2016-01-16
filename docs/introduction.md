@@ -125,6 +125,7 @@ uncurry :: (a -> b -> c) -> (a, b) -> c
 * [正格評価と遅延評価（基本編）](http://qiita.com/ruicc/items/07143c9e78c697227706)
 * [正格評価と遅延評価（詳細編）](http://qiita.com/ruicc/items/31a269f93404268d80d7)
 * [takenobu-hs/lazy_evaluation](https://github.com/takenobu-hs/lazy_evaluation)
+* [なぜHaskellでタライ回しが速いのか、あるいは遅延評価とSTG](http://qiita.com/ruicc/items/b8b3c61a12baa1af3c69)
 
 > One very interesting comparison is that lazy evaluation is to the CPU what garbage collection is to memory.
 
