@@ -25,6 +25,7 @@
 * [CQRS in Haskell](http://www.corecursion.net/post/CQRS_in_Haskell)
 * [liqd/thentos](https://github.com/liqd/thentos)
 * [Network.Mail.Mime でのメール送信方法](http://qiita.com/satosystems/items/43ad35db2a289c15c998)
+* [Network.Mail.Client.Gmail でのメール送信方法](http://qiita.com/satosystems/items/c6c57d6d3b813d3dcb23)
 * [stackbuilders/hapistrano](https://github.com/stackbuilders/hapistrano)
 * [The resource-pool package](https://hackage.haskell.org/package/resource-pool)
 
