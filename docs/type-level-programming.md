@@ -276,6 +276,7 @@ instance Eval' Hole where
 * [Relational Methods in Computer Science](http://link.springer.com/book/10.1007/3-540-36280-0)
 * [Second-order theories should not be taken lightly](https://theorylunch.wordpress.com/2016/01/14/second-order-theories-should-not-be-taken-lightly/)
 * [Some reasons to teach lattice theory to undergraduates](https://theorylunch.wordpress.com/2013/03/14/some-reasons-to-teach-lattice-theory-to-undergraduates/)
+* [Second-order theories should not be taken lightly](https://theorylunch.wordpress.com/2016/01/14/second-order-theories-should-not-be-taken-lightly/)
 
 ###線形論理
 
