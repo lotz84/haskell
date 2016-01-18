@@ -43,6 +43,7 @@ instance Functor f => Monad (Free f) where
 * [Extensible Effects in the van Laarhoven Free Monad](http://aaronlevin.ca/post/136494428283/extensible-effects-in-the-van-laarhoven-free-monad)
 * [Free play, part one](http://therning.org/magnus/posts/2016-01-13-000-free-play--part-one.html)
 * [Free play, part two](http://therning.org/magnus/posts/2016-01-15-000-free-play--part-two.html)
+* [Free play, part three](http://therning.org/magnus/posts/2016-01-17-000-free-play--part-three.html)
 * [Yield for Effects](https://awelonblue.wordpress.com/2016/01/04/yield-for-effects/)
 
 ###Coyoneda
