@@ -169,6 +169,7 @@ indexHtml = do
 * Typed up CRUD SPA with Haskell and Elm
   * [Part 1: Spike time](http://rundis.github.io/blog/2015/haskell_elm_spa_part1.html)
   * [Part 2: Persistence up and running](http://rundis.github.io/blog/2016/haskel_elm_spa_part2.html)
+  * [Part 3: Routing](http://rundis.github.io/blog/2016/haskel_elm_spa_part3.html)
 * [algas/haskell-servant-codegen](https://github.com/algas/haskell-servant-codegen)
 * [Deriving a servant schema from your data](http://purelyfunctional.org/posts/2016-01-01-servant-from-data.html)
 
