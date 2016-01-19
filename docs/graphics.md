@@ -2,6 +2,7 @@
 * [badamson/2048.hs](https://github.com/badamson/2048.hs)
 * [elisehuard/game-in-haskell](https://github.com/elisehuard/game-in-haskell)
 * [Haskellプログラミング講座（上級編：ゲーム）](http://bitterharvest.hatenablog.com/entry/2014/10/22/064526)
+* [hauxir/haskell-tetris](https://github.com/hauxir/haskell-tetris)
 
 ##GUI
 * [fltkhs](http://hackage.haskell.org/package/fltkhs)
