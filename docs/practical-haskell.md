@@ -143,3 +143,4 @@
 * [Ling - High level system programming [32c3]](https://www.youtube.com/watch?v=dagxIy4ZNSQ)
 * [np/ling](https://github.com/np/ling)
 * [Music Suite](http://music-suite.github.io/docs/ref/)
+* [Haskell Meets the Central Dogma](http://savinaroja.github.io/2016/01/11/haskell-meets-the-central-dogma/)
