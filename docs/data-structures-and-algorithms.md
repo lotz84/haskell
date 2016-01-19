@@ -133,6 +133,7 @@ p = Circle {center = (1.0, 2.0), radius = 3.0}
 * [OverloadedRecordFields revived](http://www.well-typed.com/blog/2015/03/overloadedrecordfields-revived/)
 * [odr/pers](https://github.com/odr/pers)
 * [重複したフィールドラベル](http://d.hatena.ne.jp/kazu-yamamoto/20160114)
+* [sebastiaanvisser/fclabels](https://github.com/sebastiaanvisser/fclabels)
 
 ###Vinyl
 * [vinyl](https://hackage.haskell.org/package/vinyl)
