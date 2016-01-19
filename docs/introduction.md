@@ -157,6 +157,9 @@ fib n = fibs !! (n-1) + fibs !! (n-2)
 * [部分関数をどう扱うか(spoonの紹介)](http://qiita.com/techno-tanoC/items/1b725713cd01bdf83b40)
 * [The spoon package](https://hackage.haskell.org/package/spoon)
 
+##型
+* [Types Don't Lie, But They Won't Reveal Everything](http://www.cli-nerd.com/2016/01/18/types-dont-lie-but-they-dont-reveal-everything.html)
+
 ---
 
 * [Generalizing function composition](http://jaspervdj.be/posts/2014-10-17-generalizing-function-composition.html)
