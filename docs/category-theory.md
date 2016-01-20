@@ -120,6 +120,7 @@ class Monad m where
 * [A short recap of monads](https://theorylunch.wordpress.com/2012/11/01/a-short-recap-of-monads/)
 * [If monads are about syntax then algebras are about semantics](https://theorylunch.wordpress.com/2012/12/13/if-monads-are-about-syntax-then-algebras-are-about-semantics/)
 * [An initial solution to the monad problem, and then some more](https://theorylunch.wordpress.com/2013/06/06/an-initial-solution-to-the-monad-problem-and-then-some-more/)
+* [The Monad Challenges](http://mightybyte.github.io/monad-challenges/)
 
 ```haskell
 do x <- mx
