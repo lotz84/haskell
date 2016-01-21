@@ -111,6 +111,7 @@
 * [HaskellのSystem.Console.ParseArgs](http://yu-i9.hatenablog.com/entry/2014/08/29/135253)
 * [24 days of Hackage, 2015: day 17: ansi-wl-pprint: avoiding string hacking](http://conscientiousprogrammer.com/blog/2015/12/17/24-days-of-hackage-2015-day-17-ansi-wl-pprint-avoiding-string-hacking/)
 * [lukasmartinelli/hwk](https://github.com/lukasmartinelli/hwk)
+* [lettier/gifcurry](https://github.com/lettier/gifcurry)
 
 ##FFI
 * [inline-c](https://hackage.haskell.org/package/inline-c)
