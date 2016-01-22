@@ -142,6 +142,7 @@ indexHtml = do
 * [The scotty package](http://hackage.haskell.org/package/scotty)
   * [bendyworks/api-server](https://github.com/bendyworks/api-server)
 * [Spock Web Framework](https://www.spock.li/)
+  * [«Spock – Powerful Elegant Web Applications using Haskell» by Alexander Thiemann](https://www.youtube.com/watch?v=kNqsOBrCbLo)
 * [Rest for Haskell](http://silkapp.github.io/rest/)
 * [apiary](https://hackage.haskell.org/package/apiary)
 
