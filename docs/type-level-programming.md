@@ -29,6 +29,7 @@
 * [型レベルで平衡が保証される探索木](http://qiita.com/YoshikuniJujo/items/a7b9f53516d4fd52e1b4)
 * [Filling Haskell's Type Holes Like It's Agda](http://begriffs.com/posts/2015-02-07-haskell-type-holes.html)
 * [Phantheck, the Type-Level QuickCheck](http://begriffs.com/posts/2015-12-06-quickcheck-for-types.html)
+* [Sound and Complete Bidirectional Typechecking for Higher-Rank Polymorphism with Existentials and Indexed Types](http://arxiv.org/abs/1601.05106)
 
 ```haskell
 data Bottom
