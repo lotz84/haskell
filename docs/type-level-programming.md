@@ -30,6 +30,7 @@
 * [Filling Haskell's Type Holes Like It's Agda](http://begriffs.com/posts/2015-02-07-haskell-type-holes.html)
 * [Phantheck, the Type-Level QuickCheck](http://begriffs.com/posts/2015-12-06-quickcheck-for-types.html)
 * [Sound and Complete Bidirectional Typechecking for Higher-Rank Polymorphism with Existentials and Indexed Types](http://arxiv.org/abs/1601.05106)
+* [Dimensional - Douglas McClean - Boston Haskell](https://www.youtube.com/watch?v=-Kz7SYZNoUU&feature=youtu.be)
 
 ```haskell
 data Bottom
