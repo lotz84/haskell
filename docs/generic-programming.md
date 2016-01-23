@@ -5,6 +5,7 @@
 * [True Sums of Products](http://www.andres-loeh.de/TrueSumsOfProducts/)
 * [generics-sop](https://hackage.haskell.org/package/generics-sop)
 * [Generic Programming with Indexed Functors](http://dreixel.net/research/pdf/gpif.pdf)
+* [generics-eot](http://generics-eot.readthedocs.org/en/latest/)
 
 ##Uniplate
 * [uniplate](https://hackage.haskell.org/package/uniplate)
