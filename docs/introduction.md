@@ -69,20 +69,27 @@ in map (fromMaybe . show <*> 3 ~> "fizz" <> 5 ~> "buzz")
 * [Free Programming Books#Haskell](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#haskell)
 
 ##Editor
+###Vim
+* [begriffs/haskell-vim-now](https://github.com/begriffs/haskell-vim-now?hr=2)
+* [VimでHaskellしよう](http://qiita.com/yukiasai/items/92a2b343b6519b38f402)
+* [Vim用のHaskellインデントプラグインvim-haskell-indentを作りました](http://itchyny.hatenablog.com/entry/2015/10/30/000000)
+* [Haskellでimport文をソートするプラグイン vim-haskell-sort-import を作りました](http://itchyny.hatenablog.com/entry/2016/01/23/190000)
+* [Connecting Vim with your Haskell repl](http://begriffs.com/posts/2013-08-19-connecting-vim-with-your-haskell-repl.html)
+
+###Atom
+* [Switching from Vim to Atom (A Haskeller's Perspective)](http://edsko.net/2015/03/07/vim-to-atom/)
+* [haskell-pointfree package](https://atom.io/packages/haskell-pointfree)
+
+###Others
 * [Leksah](http://leksah.org/)
 * [Haskell for Mac](http://haskellformac.com/)
 * [EclipseFP](http://eclipsefp.github.io/)
-* [Switching from Vim to Atom (A Haskeller's Perspective)](http://edsko.net/2015/03/07/vim-to-atom/)
-* [begriffs/haskell-vim-now](https://github.com/begriffs/haskell-vim-now?hr=2)
-* [VimでHaskellしよう](http://qiita.com/yukiasai/items/92a2b343b6519b38f402)
 * [[Haskell-cafe] [ANN] haskell-ide project](https://mail.haskell.org/pipermail/haskell-cafe/2015-October/121875.html)
 * [The new haskell-ide repo](https://www.fpcomplete.com/blog/2015/10/new-haskell-ide-repo)
-* [Vim用のHaskellインデントプラグインvim-haskell-indentを作りました](http://itchyny.hatenablog.com/entry/2015/10/30/000000)
 * [Haskell IDE Engine progress report November 2015](https://github.com/haskell/haskell-ide-engine/blob/master/docs/Report-2015-11.md)
 * [Haskell IDE Engine progress report for December 2015.](https://github.com/haskell/haskell-ide-engine/blob/master/docs/Report-2015-12.md)
 * [VS CodeでHaskellの簡単な環境を作る](http://azaika.hateblo.jp/entry/2015/12/19/151554)
 * [wandernauta/viskell](https://github.com/wandernauta/viskell)
-* [Connecting Vim with your Haskell repl](http://begriffs.com/posts/2013-08-19-connecting-vim-with-your-haskell-repl.html)
 
 ##基本
 * [Base で定義されている演算子の一覧](http://hackage.haskell.org/package/acme-operators/docs/Acme-Operators-Base.html)
