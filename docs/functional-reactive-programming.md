@@ -40,6 +40,7 @@
   * [part2](https://www.youtube.com/watch?v=3qfc9XFVo2c)
 * [関西関数型道場 - 第参回 S1 「Reflexの紹介」](https://www.youtube.com/watch?v=G24P2kR8O_w)
 * [reinh/reflex-dom-stack-demo](https://github.com/reinh/reflex-dom-stack-demo)
+* [On Reflex - Boston Haskell - Greg Hale](https://www.youtube.com/watch?v=MfXxuy_CJSk)
 
 ##Reactive Banana
 * **Deprecated** - [The sodium package](http://hackage.haskell.org/package/sodium)
