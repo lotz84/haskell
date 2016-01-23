@@ -90,6 +90,7 @@ in map (fromMaybe . show <*> 3 ~> "fizz" <> 5 ~> "buzz")
 * [Haskell IDE Engine progress report for December 2015.](https://github.com/haskell/haskell-ide-engine/blob/master/docs/Report-2015-12.md)
 * [VS CodeでHaskellの簡単な環境を作る](http://azaika.hateblo.jp/entry/2015/12/19/151554)
 * [wandernauta/viskell](https://github.com/wandernauta/viskell)
+* [haskell/haskell-mode](https://github.com/haskell/haskell-mode)
 
 ##基本
 * [Base で定義されている演算子の一覧](http://hackage.haskell.org/package/acme-operators/docs/Acme-Operators-Base.html)
