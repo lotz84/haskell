@@ -79,3 +79,4 @@ Passed:
 * [Erin Swenson-Healey: A Beginner's Guide to Exceptions in Haskell](https://www.youtube.com/watch?v=PWS0Whf6-wc)
 * [Exceptions Best Practices](https://www.schoolofhaskell.com/user/commercial/content/exceptions-best-practices)
 * [The errors package](http://hackage.haskell.org/package/errors)
+* [Haskell Cat: Maybe/Either vs exceptions](https://www.youtube.com/watch?v=8xkG660D6bI)
