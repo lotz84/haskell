@@ -59,6 +59,8 @@
 * [Efficient Amortised and Real-Time Queues in Haskell](http://www.well-typed.com/blog/2016/01/efficient-queues/)
 * [What does this list permutations implementation in Haskell exactly do?](http://stackoverflow.com/questions/24484348/what-does-this-list-permutations-implementation-in-haskell-exactly-do)
 * [Haskellで無限個の無限リストをソートされた形で結合する](http://itchyny.hatenablog.com/entry/2016/01/17/120000)
+* [Church-encoded datatypes in Haskell](http://www.cbdumas.com/posts/church_encoding.html)
+* [Church-encoded datatypes in Haskell, part 2](http://www.cbdumas.com/posts/church_encoding2.html)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
