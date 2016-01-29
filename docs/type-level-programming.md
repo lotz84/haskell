@@ -31,6 +31,7 @@
 * [Phantheck, the Type-Level QuickCheck](http://begriffs.com/posts/2015-12-06-quickcheck-for-types.html)
 * [Sound and Complete Bidirectional Typechecking for Higher-Rank Polymorphism with Existentials and Indexed Types](http://arxiv.org/abs/1601.05106)
 * [Dimensional - Douglas McClean - Boston Haskell](https://www.youtube.com/watch?v=-Kz7SYZNoUU&feature=youtu.be)
+* [Promoting the arrow type](https://alexvieth.wordpress.com/2016/01/28/promoting-the-arrow-type/)
 
 ```haskell
 data Bottom
@@ -105,6 +106,7 @@ circum (Circle _ _ r) = …
 * [24 days of Hackage, 2015: day 23: Liquid Haskell: refinement types for the real world](http://conscientiousprogrammer.com/blog/2015/12/23/24-days-of-hackage-2015-day-23-liquid-haskell-refinement-types-for-the-real-world/)
 * [Liquid Types For Haskell](http://goto.ucsd.edu/~rjhala/flops14/lhs/00_Index.lhs.slides.html#/)
 * [Compile-time memory safety using Liquid Haskell](http://www.haskellforall.com/2015/12/compile-time-memory-safety-using-liquid.html)
+* [Program Synthesis from Refinement Types](http://research.microsoft.com/apps/video/default.aspx?id=255528&r=1)
 
 ##Dependent Types
 * [Dependent Types](https://cubeoflambda.wordpress.com/2011/12/03/dependent-types/)
@@ -323,6 +325,7 @@ instance Eval' Hole where
 * [An Introduction to Mathematical Logic and Type Theory: To Truth Through Proof](http://link.springer.com/book/10.1007/978-94-015-9934-4)
 * [History and Philosophy of Constructive Type Theory](http://link.springer.com/book/10.1007/978-94-015-9393-9)
 * [Types for Proofs and Programs](http://link.springer.com/book/10.1007/3-540-39185-1)
+* [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
 
 ##Lambda Calculus
 * [An informal introduction to Lambda Calculus.](https://medium.com/@Sudhagar/an-informal-introduction-to-lambda-calculus-51c637f35f7d#.vsy3u1aex)
