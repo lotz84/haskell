@@ -121,6 +121,7 @@ class Monad m where
 * [If monads are about syntax then algebras are about semantics](https://theorylunch.wordpress.com/2012/12/13/if-monads-are-about-syntax-then-algebras-are-about-semantics/)
 * [An initial solution to the monad problem, and then some more](https://theorylunch.wordpress.com/2013/06/06/an-initial-solution-to-the-monad-problem-and-then-some-more/)
 * [The Monad Challenges](http://mightybyte.github.io/monad-challenges/)
+* [CSE230 Wi13 - Programming With Effects II](https://cseweb.ucsd.edu/classes/wi13/cse230-a/lectures/monads2.html)
 
 ```haskell
 do x <- mx
@@ -283,6 +284,7 @@ Reader + Writer + State
 * [Haskellで学ぶ圏論・ウォームアップ編　モノイドと二項演算子](http://bitterharvest.hatenablog.com/entry/2015/02/15/104722)
 * [How we used Category Theory to solve a problem in Java](http://techblog.realestate.com.au/how-we-used-category-theory-to-solve-a-problem-in-java/)
 * [Adjoint Triples](http://comonad.com/reader/2016/adjoint-triples/)
+* [Category Theory for Scientists (Old Version)](http://ocw.mit.edu/courses/mathematics/18-s996-category-theory-for-scientists-spring-2013/textbook/MIT18_S996S13_textbook.pdf)
 
 ###CPL
 * [圏論プログラミング言語 CPL](http://mandel59.hateblo.jp/entry/2015/02/02/110621)
