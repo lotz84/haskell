@@ -8,6 +8,40 @@ $ stack setup
 $ alias ghc='stack ghc'
 $ alias ghci='stack ghci'
 ```
+
+##Haskell入門
+
+> 関数プログラミングを習得するには，これまで命令プログラミングで培った技術はいったん忘れ，真っ白な気持ちで臨む必要があります。関数型の山を登るためには，命令型の山を降りなければなりません。
+
+出典: [第1章　関数プログラミングは難しくない！](http://gihyo.jp/dev/feature/01/functional-prog/0001)
+
+* [Try Haskell](https://tryhaskell.org/) - ５分あれば出来る
+* [Learning Haskell](http://learn.hfm.io/)
+* [Introduction to functional programming with Haskell](https://ocramz.github.io/haskell/tutorials/2015/08/21/haskell-tut-v1.html)
+* [ウォークスルー Haskell](http://walk.wgag.net/haskell/)
+* [Haskell 超入門](http://qiita.com/7shi/items/145f1234f8ec2af923ef)
+* [99 Haskell](http://www.99haskell.org/)
+* [Haskellチートシート(翻訳)](http://qiita.com/techno-tanoC/items/1fa1c65db08da2440fc4)
+* [PLEAC-Haskell](http://pleac.sourceforge.net/pleac_haskell/index.html)
+* [Real World Haskell](http://book.realworldhaskell.org/read/)
+* [What I Wish I Knew When Learning Haskell](http://www.stephendiehl.com/what/) [[ja](https://github.com/Kinokkory/wiwinwlh-jp/wiki)]
+* [参照透過性とは何だったのか](http://www.slideshare.net/RuiccRail/haskell-day2012)
+* [A community maintained course for learning Haskell](http://openhaskell.com/)
+* [Learning Real Haskell Incrementally](http://begriffs.com/posts/2015-10-24-learning-haskell-incrementally.html)
+* [Haskell Basics](http://www.sonarlearning.co.uk/coursepage.php?topic=desktop&course=haskell-basics)
+* [Design Patterns in Haskell](http://blog.ezyang.com/2010/05/design-patterns-in-haskel/)
+* [Haskell Design Patterns](https://www.packtpub.com/application-development/haskell-design-patterns)
+* [The category design pattern](http://www.haskellforall.com/2012/08/the-category-design-pattern.html)
+* [安定結婚問題を解きながらHaskellプログラミングを紹介しつつ恋愛について学ぶ](http://qiita.com/cutsea110/items/27d9f6db834b70e52dd9)
+* [Haskell for Mac でちょっと Haskell をさわってみる](http://qiita.com/usamik26/items/d99bf694150a549b5078)
+* [Ask-Elle: an adaptable programming tutor for Haskell giving automated feedback](http://www.cs.uu.nl/research/techreps/repo/CS-2015/2015-019.pdf)
+* [What Code Does vs What Code Means](http://begriffs.com/posts/2015-12-26-what-code-means.html)
+* [fptudelft/FP101x-Content-2015](https://github.com/fptudelft/FP101x-Content-2015)
+* [Learning Real Haskell Incrementally](http://begriffs.com/posts/2015-10-24-learning-haskell-incrementally.html)
+* [Free Programming Books#Haskell](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#haskell)
+* [Haskell入門記事備忘録](http://qiita.com/F_cy/items/9c49e351196943e38ad9)
+* [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/)
+
 ##Examples
 * [Basic Haskell Examples](http://www.haskellforall.com/2015/10/basic-haskell-examples.html)
 * [Haskell by Example](http://lotz84.github.io/haskellbyexample/)
@@ -36,39 +70,6 @@ in map (fromMaybe . show <*> 3 ~> "fizz" <> 5 ~> "buzz")
 
 * <https://www.reddit.com/r/haskell/comments/2cum9p>
 * [Haskellで書かれたおもしろいFizzBuzz ― Haskellで読めないコードに遭遇した時に解読する方法を徹底解説！](http://itchyny.hatenablog.com/entry/2015/12/27/150000)
-
-##Haskell入門
-
-> 関数プログラミングを習得するには，これまで命令プログラミングで培った技術はいったん忘れ，真っ白な気持ちで臨む必要があります。関数型の山を登るためには，命令型の山を降りなければなりません。
-
-出典: [第1章　関数プログラミングは難しくない！](http://gihyo.jp/dev/feature/01/functional-prog/0001)
-
-* [Try Haskell](https://tryhaskell.org/)
-* [Learning Haskell](http://learn.hfm.io/)
-* [Introduction to functional programming with Haskell](https://ocramz.github.io/haskell/tutorials/2015/08/21/haskell-tut-v1.html)
-* [ウォークスルー Haskell](http://walk.wgag.net/haskell/)
-* [Haskell 超入門](http://qiita.com/7shi/items/145f1234f8ec2af923ef)
-* [99 Haskell](http://www.99haskell.org/)
-* [Haskellチートシート(翻訳)](http://qiita.com/techno-tanoC/items/1fa1c65db08da2440fc4)
-* [PLEAC-Haskell](http://pleac.sourceforge.net/pleac_haskell/index.html)
-* [Real World Haskell](http://book.realworldhaskell.org/read/)
-* [What I Wish I Knew When Learning Haskell](http://www.stephendiehl.com/what/) [[ja](https://github.com/Kinokkory/wiwinwlh-jp/wiki)]
-* [参照透過性とは何だったのか](http://www.slideshare.net/RuiccRail/haskell-day2012)
-* [A community maintained course for learning Haskell](http://openhaskell.com/)
-* [Learning Real Haskell Incrementally](http://begriffs.com/posts/2015-10-24-learning-haskell-incrementally.html)
-* [Haskell Basics](http://www.sonarlearning.co.uk/coursepage.php?topic=desktop&course=haskell-basics)
-* [Design Patterns in Haskell](http://blog.ezyang.com/2010/05/design-patterns-in-haskel/)
-* [Haskell Design Patterns](https://www.packtpub.com/application-development/haskell-design-patterns)
-* [The category design pattern](http://www.haskellforall.com/2012/08/the-category-design-pattern.html)
-* [安定結婚問題を解きながらHaskellプログラミングを紹介しつつ恋愛について学ぶ](http://qiita.com/cutsea110/items/27d9f6db834b70e52dd9)
-* [Haskell for Mac でちょっと Haskell をさわってみる](http://qiita.com/usamik26/items/d99bf694150a549b5078)
-* [Ask-Elle: an adaptable programming tutor for Haskell giving automated feedback](http://www.cs.uu.nl/research/techreps/repo/CS-2015/2015-019.pdf)
-* [What Code Does vs What Code Means](http://begriffs.com/posts/2015-12-26-what-code-means.html)
-* [fptudelft/FP101x-Content-2015](https://github.com/fptudelft/FP101x-Content-2015)
-* [Learning Real Haskell Incrementally](http://begriffs.com/posts/2015-10-24-learning-haskell-incrementally.html)
-* [Free Programming Books#Haskell](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#haskell)
-* [Haskell入門記事備忘録](http://qiita.com/F_cy/items/9c49e351196943e38ad9)
-* [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/)
 
 ##Editor
 ###Vim
