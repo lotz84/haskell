@@ -39,6 +39,7 @@
 * [Safe Haskell](http://begriffs.com/posts/2015-05-24-safe-haskell.html)
 * [Fun with RULES Pragma](http://www.christian-fania.de/blog/FunWithRULES.html)
 * [GHC type checker plugins: adding new type-level operations](http://christiaanb.github.io/posts/type-checker-plugin/)
+* [Memory profiling in Haskell](http://blog.pusher.com/memory-profiling-in-haskell/)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
