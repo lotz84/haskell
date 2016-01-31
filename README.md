@@ -7,8 +7,8 @@
 
 ##Index
 1. [Haskell: 純粋関数型プログラミング言語](docs/introduction.md)
-    1.  [再帰](docs/recursion.md)
-    2.  [代数的データ型](docs/algebraic-data-type.md)
+    1.  [型と関数](docs/type-and-function.md)
+    2.  [再帰](docs/recursion.md)
     3.  [データ構造とアルゴリズム](docs/data-structures-and-algorithms.md)
     4.  [型クラス](docs/type-class-and-abstraction.md)
     5.  [圏論](docs/category-theory.md)
