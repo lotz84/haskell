@@ -7,6 +7,7 @@
 * [What is the difference between an Algebraic Data Type and an Abstract Data Type?](http://www.reddit.com/r/haskell/comments/38grqx/what_is_the_difference_between_an_algebraic_data/)
 * [Either and (,) in Haskell are not arbitrary](http://bitemyapp.com/posts/2015-10-19-either-is-not-arbitrary.html)
 * [Why sum and product types?](http://charlieharvey.org.uk/page/sum_and_product_types)
+* [Types Don't Lie, But They Won't Reveal Everything](http://www.cli-nerd.com/2016/01/18/types-dont-lie-but-they-dont-reveal-everything.html)
 
 ###代数的データ型
 代数的データ型とは"足し算"と"掛け算"が出来るような型のこと。"足し算"と"掛け算"はそれぞれ**直和**, **直積**と呼ばれる。
@@ -105,9 +106,6 @@ fib n = fibs !! (n-1) + fibs !! (n-2)
 * [24 days of Hackage, 2015: day 16: safe; what is safety anyway?](http://conscientiousprogrammer.com/blog/2015/12/16/24-days-of-hackage-2015-day-16-safe-what-is-safety-anyway/)
 * [部分関数をどう扱うか(spoonの紹介)](http://qiita.com/techno-tanoC/items/1b725713cd01bdf83b40)
 * [The spoon package](https://hackage.haskell.org/package/spoon)
-
-##型
-* [Types Don't Lie, But They Won't Reveal Everything](http://www.cli-nerd.com/2016/01/18/types-dont-lie-but-they-dont-reveal-everything.html)
 
 ---
 
