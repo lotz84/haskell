@@ -33,6 +33,7 @@
 
 ##企業
 * [YOW! 2015 - Reid Draper - Production Haskell](https://www.youtube.com/watch?v=T2wi0ZUOHfM)
+* [2016 02 28 - Simon Meier - A primer to commercial Haskell programming](https://www.youtube.com/watch?v=ywOvfjpbYR4)
 
 ###FPComplete
 * [FPComplete](https://www.fpcomplete.com/)
