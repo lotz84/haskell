@@ -320,7 +320,6 @@ $ heroku config:set HALCYON_NO_BUILD_DEPENDENCIES=0
 * [The presto-hdbc package](https://hackage.haskell.org/package/presto-hdbc)
 
 ###DSL for SQL
-* [Haskell Relational Record](https://khibino.github.io/haskell-relational-record/)
 * [Composable, Typesafe Query Building](https://htmlpreview.github.io/?https://github.com/khibino/haskell-relational-record/blob/master/doc/slide/PostgreSQL-Unconference-201512/Query.html)
 * [tomjaguarpaw/haskell-opaleye](https://github.com/tomjaguarpaw/haskell-opaleye)
 * [Opaleye’s sugar on top](http://ren.zone/articles/opaleye-sot)
@@ -328,3 +327,12 @@ $ heroku config:set HALCYON_NO_BUILD_DEPENDENCIES=0
 * [esqueleto](http://hackage.haskell.org/package/esqueleto)
 * [Extending Esqueleto for Type-Safe Postgresql Queries](http://blog.jenkster.com/2015/07/extending-esqueleto-for-type-safe-postgresql-queries.html)
 * [tathougies/beam](https://github.com/tathougies/beam)
+
+###Haskell Relational Record
+* [Haskell Relational Record](https://khibino.github.io/haskell-relational-record/)
+* [Haskell Relational Record をリリースしました](http://d.hatena.ne.jp/kazu-yamamoto/20141225/1419490692)
+* [Haskell Relational Record, 機能と構成](https://htmlpreview.github.io/?https://github.com/khibino/haskell-relational-record/blob/master/doc/slide/code-reading-201601/SourceTreeJ.html)
+* [Extending Query, Relational, Typeful, Composable](http://khibino.hatenadiary.jp/entry/20131219/1387423818)
+* [haskell-relational-record-の調査.md](https://github.com/worksap-ate/demo/blob/master/haskell-relational-record-%E3%81%AE%E8%AA%BF%E6%9F%BB.md)
+* [Haskell-rerational-recordでDB操作するのが楽しすぎる件〜その１〜](http://tune.hateblo.jp/entry/2014/06/21/161745)
+* [relational-record を MySQL で使ってみた](http://qiita.com/lotz/items/3aa65852bf75f3538d11)
