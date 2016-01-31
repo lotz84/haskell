@@ -32,6 +32,7 @@
 * [Sound and Complete Bidirectional Typechecking for Higher-Rank Polymorphism with Existentials and Indexed Types](http://arxiv.org/abs/1601.05106)
 * [Dimensional - Douglas McClean - Boston Haskell](https://www.youtube.com/watch?v=-Kz7SYZNoUU&feature=youtu.be)
 * [Promoting the arrow type](https://alexvieth.wordpress.com/2016/01/28/promoting-the-arrow-type/)
+* [100 Days of Fibonacci - Day 9, Haskell Types](http://buchi.dk/blog/100-days-of-fibonacci-day-9-haskell-types/)
 
 ```haskell
 data Bottom
