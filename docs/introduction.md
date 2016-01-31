@@ -10,37 +10,50 @@ $ alias ghci='stack ghci'
 ```
 
 ##Haskell入門
+* [Metaチュートリアル](https://wiki.haskell.org/Meta%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB)
 
 > 関数プログラミングを習得するには，これまで命令プログラミングで培った技術はいったん忘れ，真っ白な気持ちで臨む必要があります。関数型の山を登るためには，命令型の山を降りなければなりません。
 
 出典: [第1章　関数プログラミングは難しくない！](http://gihyo.jp/dev/feature/01/functional-prog/0001)
 
-* [Try Haskell](https://tryhaskell.org/) - ５分あれば出来る
-* [Learning Haskell](http://learn.hfm.io/)
-* [Introduction to functional programming with Haskell](https://ocramz.github.io/haskell/tutorials/2015/08/21/haskell-tut-v1.html)
+* [Try Haskell](https://tryhaskell.org/) - ５分あれば出来る！
+* [10分で学ぶHaskell](https://wiki.haskell.org/10%E5%88%86%E3%81%A7%E5%AD%A6%E3%81%B6Haskell)
 * [ウォークスルー Haskell](http://walk.wgag.net/haskell/)
+* こわくないHaskell入門
+  * [初級](http://qiita.com/arowM/items/9ebfb7cafecd99290663)
+  * [初級その2](http://qiita.com/arowM/items/33245802f9305a73082e)
 * [Haskell 超入門](http://qiita.com/7shi/items/145f1234f8ec2af923ef)
-* [99 Haskell](http://www.99haskell.org/)
-* [Haskellチートシート(翻訳)](http://qiita.com/techno-tanoC/items/1fa1c65db08da2440fc4)
-* [PLEAC-Haskell](http://pleac.sourceforge.net/pleac_haskell/index.html)
-* [Real World Haskell](http://book.realworldhaskell.org/read/)
-* [What I Wish I Knew When Learning Haskell](http://www.stephendiehl.com/what/) [[ja](https://github.com/Kinokkory/wiwinwlh-jp/wiki)]
 * [参照透過性とは何だったのか](http://www.slideshare.net/RuiccRail/haskell-day2012)
-* [A community maintained course for learning Haskell](http://openhaskell.com/)
+* [Rubyistに贈るHaskell入門](http://qiita.com/techno-tanoC/items/1549d0efc044faf16c36)
+* [お気楽 Haskell プログラミング入門](http://www.geocities.jp/m_hiroi/func/haskell.html)
+* [安定結婚問題を解きながらHaskellプログラミングを紹介しつつ恋愛について学ぶ](http://qiita.com/cutsea110/items/27d9f6db834b70e52dd9)
+* [Haskellでポーカーを作ろう〜第一回 リストのシャッフルとカードの定義〜](http://tune.hateblo.jp/entry/2015/05/12/023112)
+* [Haskellプログラミングのコツのようなもの](http://qiita.com/nobsun/items/ed33c22203734e706e9b)
+* [やさしい Haskell 入門 (バージョン98)](http://www.sampou.org/haskell/tutorial-j/index.html)
+* [Haskellの世界](https://skami.iocikun.jp/computer/haskell)
+* [Haskell for Mac でちょっと Haskell をさわってみる](http://qiita.com/usamik26/items/d99bf694150a549b5078)
 * [Learning Real Haskell Incrementally](http://begriffs.com/posts/2015-10-24-learning-haskell-incrementally.html)
-* [Haskell Basics](http://www.sonarlearning.co.uk/coursepage.php?topic=desktop&course=haskell-basics)
 * [Design Patterns in Haskell](http://blog.ezyang.com/2010/05/design-patterns-in-haskel/)
 * [Haskell Design Patterns](https://www.packtpub.com/application-development/haskell-design-patterns)
 * [The category design pattern](http://www.haskellforall.com/2012/08/the-category-design-pattern.html)
-* [安定結婚問題を解きながらHaskellプログラミングを紹介しつつ恋愛について学ぶ](http://qiita.com/cutsea110/items/27d9f6db834b70e52dd9)
-* [Haskell for Mac でちょっと Haskell をさわってみる](http://qiita.com/usamik26/items/d99bf694150a549b5078)
 * [Ask-Elle: an adaptable programming tutor for Haskell giving automated feedback](http://www.cs.uu.nl/research/techreps/repo/CS-2015/2015-019.pdf)
 * [What Code Does vs What Code Means](http://begriffs.com/posts/2015-12-26-what-code-means.html)
 * [fptudelft/FP101x-Content-2015](https://github.com/fptudelft/FP101x-Content-2015)
 * [Learning Real Haskell Incrementally](http://begriffs.com/posts/2015-10-24-learning-haskell-incrementally.html)
 * [Free Programming Books#Haskell](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#haskell)
-* [Haskell入門記事備忘録](http://qiita.com/F_cy/items/9c49e351196943e38ad9)
 * [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/)
+* [Yet Another Haskell Tutorial](http://www.umiacs.umd.edu/~hal/docs/daume02yaht.pdf)
+* [Learning Haskell](http://learn.hfm.io/) -- 図が豊富でわかりやすい
+* 🎥 [Haskell Basics](http://www.sonarlearning.co.uk/coursepage.php?topic=desktop&course=haskell-basics)
+* [Real World Haskell](http://book.realworldhaskell.org/read/)
+* [Introduction to functional programming with Haskell](https://ocramz.github.io/haskell/tutorials/2015/08/21/haskell-tut-v1.html)
+* [PLEAC-Haskell](http://pleac.sourceforge.net/pleac_haskell/index.html)
+* [A community maintained course for learning Haskell](http://openhaskell.com/)
+* [99 Haskell](http://www.99haskell.org/)
+
+##チートシート
+* [What I Wish I Knew When Learning Haskell](http://www.stephendiehl.com/what/) [[ja](https://github.com/Kinokkory/wiwinwlh-jp/wiki)]
+* [Haskellチートシート(翻訳)](http://qiita.com/techno-tanoC/items/1fa1c65db08da2440fc4)
 
 ##Examples
 * [Basic Haskell Examples](http://www.haskellforall.com/2015/10/basic-haskell-examples.html)
@@ -96,6 +109,7 @@ in map (fromMaybe . show <*> 3 ~> "fizz" <> 5 ~> "buzz")
 * [haskell/haskell-mode](https://github.com/haskell/haskell-mode)
 
 ##基本
+* [The rebase package](http://hackage.haskell.org/package/rebase)
 * [Base で定義されている演算子の一覧](http://hackage.haskell.org/package/acme-operators/docs/Acme-Operators-Base.html)
 * [The base-prelude package](https://hackage.haskell.org/package/base-prelude)
 * [順列列挙関数（素朴な実装）](http://qiita.com/nobsun/items/babd28fe81ba3b9f304f)
