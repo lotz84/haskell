@@ -1,6 +1,6 @@
 [Haskell 2010 言語報告書](http://www.sampou.org/haskell/haskell2010-report-htja/)
 
-* [Hoogle](https://www.haskell.org/hoogle/)
+* [Hoogle](https://www.haskell.org/hoogle/) - [README](https://github.com/ndmitchell/hoogle/blob/master/README.md)
 * [Hayoo!](http://hayoo.fh-wedel.de/)
 * [Anatomy of a Haskell-based Application](http://abailly.github.io/posts/cm-arch-design.html)
 * [Equational reasoning](http://www.haskellforall.com/2013/12/equational-reasoning.html)
