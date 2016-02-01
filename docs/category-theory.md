@@ -122,6 +122,7 @@ class Monad m where
 * [An initial solution to the monad problem, and then some more](https://theorylunch.wordpress.com/2013/06/06/an-initial-solution-to-the-monad-problem-and-then-some-more/)
 * [The Monad Challenges](http://mightybyte.github.io/monad-challenges/)
 * [CSE230 Wi13 - Programming With Effects II](https://cseweb.ucsd.edu/classes/wi13/cse230-a/lectures/monads2.html)
+* [モナモナ言わないモナド入門](http://www.mew.org/~kazu/material/2011-monad.pdf)
 
 ```haskell
 do x <- mx
