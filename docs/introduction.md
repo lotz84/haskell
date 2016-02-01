@@ -11,6 +11,7 @@ $ alias ghci='stack ghci'
 
 ##Haskell入門
 * [Metaチュートリアル](https://wiki.haskell.org/Meta%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB)
+* [なぜ関数プログラミングは重要か](http://www.sampou.org/haskell/article/whyfp.html)
 
 > 関数プログラミングを習得するには，これまで命令プログラミングで培った技術はいったん忘れ，真っ白な気持ちで臨む必要があります。関数型の山を登るためには，命令型の山を降りなければなりません。
 
