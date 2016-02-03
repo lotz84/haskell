@@ -29,6 +29,7 @@
 * [stackbuilders/hapistrano](https://github.com/stackbuilders/hapistrano)
 * [The resource-pool package](https://hackage.haskell.org/package/resource-pool)
 * [Basilica - Haskell製のモダンなフォーラム](http://www.moongift.jp/2016/01/basilica-haskell%E8%A3%BD%E3%81%AE%E3%83%A2%E3%83%80%E3%83%B3%E3%81%AA%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0/)
+* [Deploying A Haskell Web Service With Nix](http://jezenthomas.com/deploying-a-haskell-web-service-with-nix/)
 
 ##Socket
 * [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)
@@ -328,6 +329,7 @@ $ heroku config:set HALCYON_NO_BUILD_DEPENDENCIES=0
 * [esqueleto](http://hackage.haskell.org/package/esqueleto)
 * [Extending Esqueleto for Type-Safe Postgresql Queries](http://blog.jenkster.com/2015/07/extending-esqueleto-for-type-safe-postgresql-queries.html)
 * [tathougies/beam](https://github.com/tathougies/beam)
+* [Finally, Safely-Extensible and Efficient Language-Integrated Query](http://okmij.org/ftp/meta-programming/quel.pdf)
 
 ###Haskell Relational Record
 * [Haskell Relational Record](https://khibino.github.io/haskell-relational-record/)
