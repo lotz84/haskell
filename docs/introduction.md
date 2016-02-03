@@ -33,6 +33,7 @@ $ alias ghci='stack ghci'
 * [やさしい Haskell 入門 (バージョン98)](http://www.sampou.org/haskell/tutorial-j/index.html)
 * [Haskellの世界](https://skami.iocikun.jp/computer/haskell)
 * [Haskell for Mac でちょっと Haskell をさわってみる](http://qiita.com/usamik26/items/d99bf694150a549b5078)
+* [1から学ぶHaskell: プログラマ向けのHaskell入門](https://skami.iocikun.jp/computer/haskell/web_lecture/for_programmer/)
 * [Learning Real Haskell Incrementally](http://begriffs.com/posts/2015-10-24-learning-haskell-incrementally.html)
 * [Design Patterns in Haskell](http://blog.ezyang.com/2010/05/design-patterns-in-haskel/)
 * [Haskell Design Patterns](https://www.packtpub.com/application-development/haskell-design-patterns)
@@ -47,6 +48,7 @@ $ alias ghci='stack ghci'
 * [Learning Haskell](http://learn.hfm.io/) -- 図が豊富でわかりやすい
 * 🎥 [Haskell Basics](http://www.sonarlearning.co.uk/coursepage.php?topic=desktop&course=haskell-basics)
 * [Real World Haskell](http://book.realworldhaskell.org/read/)
+* [すごいHaskell つくばで学ぼう！](https://github.com/nushio3/learn-haskell)
 * [Introduction to functional programming with Haskell](https://ocramz.github.io/haskell/tutorials/2015/08/21/haskell-tut-v1.html)
 * [PLEAC-Haskell](http://pleac.sourceforge.net/pleac_haskell/index.html)
 * [A community maintained course for learning Haskell](http://openhaskell.com/)
