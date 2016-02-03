@@ -33,6 +33,7 @@
 * [eamsden/dom-gnats](https://github.com/eamsden/dom-gnats)
 * [Yampy Cube by Konstantin Zudov at Helsinki FRP Meetup May 6, 2015](https://www.youtube.com/watch?v=T7XwTolu9YI)
 * [FRP for free](http://haskellexists.blogspot.de/2016/01/frp-for-free.html)
+* [Edward Kmett - Propagators - Boston Haskell](https://www.youtube.com/watch?v=DyPzPeOPgUE)
 
 ##Reflex
 * [Ryan Trinkle - Reflex: Practical Functional Reactive Programming](https://www.youtube.com/watch?v=dOy7zIk3IUI)
