@@ -30,6 +30,7 @@
 * [The resource-pool package](https://hackage.haskell.org/package/resource-pool)
 * [Basilica - Haskell製のモダンなフォーラム](http://www.moongift.jp/2016/01/basilica-haskell%E8%A3%BD%E3%81%AE%E3%83%A2%E3%83%80%E3%83%B3%E3%81%AA%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0/)
 * [Deploying A Haskell Web Service With Nix](http://jezenthomas.com/deploying-a-haskell-web-service-with-nix/)
+* [Dropbox Hack Week: GraphQL Server in Haskell](https://chadaustin.me/2016/02/dropbox-hack-week-graphql-server-in-haskell/)
 
 ##Socket
 * [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)
