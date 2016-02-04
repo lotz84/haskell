@@ -90,7 +90,7 @@ circum (Circle _ _ r) = …
 
 <https://www.reddit.com/r/haskell/comments/2jsz4t/function_on_a_single_member_of_a_sum_type/clevra9>
 
-##Free Theorem
+##Parametricity
 * [Theorems for free!](http://www.cs.sfu.ca/CourseCentral/831/burton/Notes/July14/free.pdf)
 * [Parametricity](https://cubeoflambda.wordpress.com/2011/11/16/parametricity/) 
 * [Parametricity Tutorial (Part 1)](http://www.well-typed.com/blog/2015/05/parametricity/)
@@ -99,6 +99,8 @@ circum (Circle _ _ r) = …
 * [Are Functor instances unique?](http://stackoverflow.com/questions/19774904/are-functor-instances-unique#19775139)
   * [fmapの一意性](http://mbps.hatenablog.com/entry/2014/07/17/132835)
 * [Notes on Parametricity](http://jozefg.bitbucket.org/posts/2014-12-22-parametricity.html)
+* [Parametricity in an Impredicative Sort](http://arxiv.org/abs/1209.6336)
+* [Parametricity: Money for Nothing and Theorems for Free](http://bartoszmilewski.com/2014/09/22/parametricity-money-for-nothing-and-theorems-for-free/)
 
 ##Refinement Type
 * [Announcing the refinement types library](http://nikita-volkov.github.io/refined/)
