@@ -129,3 +129,4 @@ yoneda f = Natural $ \ax -> fmap ax f
 * [Typed Tagless Final Interpreters](http://okmij.org/ftp/tagless-final/course/lecture.pdf)
 * [Typed tagless-final interpretations: Lecture notes](http://okmij.org/ftp/tagless-final/course/)
 * [Typed Tagless-Final Linear Lambda Calculus](https://www.fpcomplete.com/user/mutjida/typed-tagless-final-linear-lambda-calculus)
+* [Reducing boilerplate in finally tagless style](https://ro-che.info/articles/2016-02-03-finally-tagless-boilerplate)
