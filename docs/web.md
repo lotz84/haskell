@@ -179,6 +179,7 @@ indexHtml = do
 * [algas/haskell-servant-codegen](https://github.com/algas/haskell-servant-codegen)
 * [Deriving a servant schema from your data](http://purelyfunctional.org/posts/2016-01-01-servant-from-data.html)
 * [«Making web services better with Servant» by Denis Redozubov](https://www.youtube.com/watch?v=kpipbkrJwkg)
+* [swagger ドキュメントからコマンド一発でモックサーバを自動生成する (haskell-servant)](http://qiita.com/algas/items/6e066b6c164beb711733)
 
 ####Microservices
 * [k-bx/owlcloud](https://github.com/k-bx/owlcloud)
