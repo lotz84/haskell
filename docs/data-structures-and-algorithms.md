@@ -109,6 +109,10 @@
 * [Testing FFT with R](https://ro-che.info/articles/2015-12-05-testing-fft)
 * [FFT With Circat](http://begriffs.com/posts/2015-12-14-fft-with-circat.html)
 
+###属性文法
+* [なぜ属性文法は重要か](https://sites.google.com/site/paclearner/why_attribute_grammars_matter)
+* [Attribute Grammars Fly First-Class](http://www.staff.science.uu.nl/~swier004/Publications/AttributeGrammarsFly.pdf)
+
 ###S式
 * [The s-cargot package](https://hackage.haskell.org/package/s-cargot)
 * [24 days of Hackage, 2015: day 10: s-cargot: using S-expression syntax](http://conscientiousprogrammer.com/blog/2015/12/10/24-days-of-hackage-2015-day-10-s-cargot-using-s-expression-syntax/)
