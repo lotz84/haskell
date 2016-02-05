@@ -183,6 +183,7 @@ instance Monad (Reader e) where
 * [From Adjunctions to Monads](http://www.stephendiehl.com/posts/adjunctions.html)
 * [Adjunctions with parameters](http://mbps.hatenablog.com/entry/2014/12/08/033230)
 * [When does an endofunctor derive from an adjunction?](https://theorylunch.wordpress.com/2013/05/30/when-does-an-endofunctor-derive-from-an-adjunction/)
+* [From mathematics to map-reduce](http://www.haskellforall.com/2016/02/from-mathematics-to-map-reduce.html)
 
 ###State Monad
 
