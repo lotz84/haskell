@@ -30,6 +30,7 @@
 * [モナドとモナド変換子のイメージを描いてみた](http://d.hatena.ne.jp/melpon/20111028/1319782898)
 * [入門 StateTモナド](http://qiita.com/ak1t0/items/780f6722623ec126fcdf)
 * [OverlappingInstances回避法をMonadStateへ適用した](http://qiita.com/hiyakashi_/items/80c63e341aa5f543286c)
+* [Monad transformers, free monads, mtl, laws and a new approach](https://ocharles.org.uk/blog/posts/2016-01-26-transformers-free-monads-mtl-laws.html)
 
 mtlにはMonad Transformerを新しく定義する度に全ての組み合わせの実装を定義する必要があるという問題点がある。
 
