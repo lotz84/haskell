@@ -61,6 +61,7 @@
 * [Haskellで無限個の無限リストをソートされた形で結合する](http://itchyny.hatenablog.com/entry/2016/01/17/120000)
 * [Church-encoded datatypes in Haskell](http://www.cbdumas.com/posts/church_encoding.html)
 * [Church-encoded datatypes in Haskell, part 2](http://www.cbdumas.com/posts/church_encoding2.html)
+* [Difference Lists and the Codensity Monad](http://begriffs.com/posts/2016-02-04-difference-lists-and-codennsity.html)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
