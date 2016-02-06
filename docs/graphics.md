@@ -13,6 +13,7 @@
 * [The Haskell Spreadsheet](https://docs.google.com/presentation/d/1lh9_QlLKtW4L5WsFkgRggyIFORXAkTUu6Y470VkM4uI/edit#slide=id.p)
 * [haskell-pkg-janitors/X11](https://github.com/haskell-pkg-janitors/X11)
 * [Nikita Churaev/dialog](https://gitlab.com/lamefun/dialog)
+* [FLTKHS - Easy Native GUIs in Haskell, Today!](https://github.com/deech/fltkhs-compose-conference-2016-talk/blob/master/Talk.pdf)
 
 ##数値計算・可視化
 * [linear](http://hackage.haskell.org/package/linear)
