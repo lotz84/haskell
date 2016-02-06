@@ -61,7 +61,6 @@ data HList (as :: [*]) where
 * [The Constraint kind](https://jeltsch.wordpress.com/2013/02/14/the-constraint-kind/)
 * [The constraint trick for instances](http://chrisdone.com/posts/haskell-constraint-trick)
 * [mikeizbicki/ifcxt](https://github.com/mikeizbicki/ifcxt)
-* [The Constraint kind](https://jeltsch.wordpress.com/2013/02/14/the-constraint-kind/)
 
 ##Phantom Type
 * [Phantom Types and Subtyping](http://www.cs.rit.edu/~mtf/research/phantom-subtyping/jfp06/jfp06.pdf)
