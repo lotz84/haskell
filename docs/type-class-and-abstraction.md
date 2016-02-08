@@ -52,6 +52,7 @@ instance Show Bool where
 ##Monoid
 * [Haskell Monoids and their Uses](http://blog.sigfpe.com/2009/01/haskell-monoids-and-their-uses.html)
 * [Monoids and Finger Trees](http://apfelmus.nfshost.com/articles/monoid-fingertree.html)
+* [Monoids and their efficiency in practice](http://myhaskelljournal.com/monoids-and-their-efficiency-in-practice/)
 
 > lists are not free monoids in Haskell.
 
