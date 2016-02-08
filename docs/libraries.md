@@ -1,6 +1,8 @@
 #目的別ライブラリ一覧
 定番ライブラリを紹介するページ
 
+* [Haskell is easy - a list of recommended Haskell libraries](http://haskelliseasy.readthedocs.org/en/latest/)
+
 ##実用ライブラリ
 ###シェルスクリプト
 * [The turtle package](http://hackage.haskell.org/package/turtle)
