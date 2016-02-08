@@ -1,5 +1,6 @@
 ##環境構築
 * [The Haskell User Experience](http://rickdzekman.com/thoughts/the-haskell-user-experience/)
+* [Easy universal Haskell development environment](http://achernyak.me/universal-haskell-dev-enviornment)
 
 ```bash
 $ # on Mac OSX
@@ -52,6 +53,7 @@ $ alias ghci='stack ghci'
 * [Introduction to functional programming with Haskell](https://ocramz.github.io/haskell/tutorials/2015/08/21/haskell-tut-v1.html)
 * [PLEAC-Haskell](http://pleac.sourceforge.net/pleac_haskell/index.html)
 * [A community maintained course for learning Haskell](http://openhaskell.com/)
+* [teaching Haskell to a mathematician](http://cs-syd.eu/posts/2016-02-07-teaching-haskell-to-a-mathematician.html)
 * [1から学ぶHaskell: プログラマ向けのHaskell入門](https://skami.iocikun.jp/computer/haskell/web_lecture/for_programmer/)
 * [99 Haskell](http://www.99haskell.org/)
 
