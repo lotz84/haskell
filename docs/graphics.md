@@ -42,6 +42,7 @@
 * [Haphviz: Graphviz code generation with Haskell](http://cs-syd.eu/posts/2015-12-20-haphviz-graphviz-code-generation-with-haskell.html)
 * [swift-nav/plover](https://github.com/swift-nav/plover)
 * [Yo Dawg We Heard You Like Derivatives](http://jtobin.ca/ad-via-recursion-schemes/)
+* [tepf/QuickPlot](https://github.com/tepf/QuickPlot)
 
 ##Gloss
 * [gloss](http://hackage.haskell.org/package/gloss)
