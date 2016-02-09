@@ -109,6 +109,7 @@ circum (Circle _ _ r) = …
 * [Liquid Types For Haskell](http://goto.ucsd.edu/~rjhala/flops14/lhs/00_Index.lhs.slides.html#/)
 * [Compile-time memory safety using Liquid Haskell](http://www.haskellforall.com/2015/12/compile-time-memory-safety-using-liquid.html)
 * [Program Synthesis from Refinement Types](http://research.microsoft.com/apps/video/default.aspx?id=255528&r=1)
+* [Refinement Types For Haskell](http://research.microsoft.com/en-us/um/people/simonpj/papers/verify/LiquidHaskell_ICFP14.pdf)
 
 ##Dependent Types
 * [Dependent Types](https://cubeoflambda.wordpress.com/2011/12/03/dependent-types/)
