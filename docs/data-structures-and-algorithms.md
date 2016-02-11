@@ -62,6 +62,7 @@
 * [Church-encoded datatypes in Haskell](http://www.cbdumas.com/posts/church_encoding.html)
 * [Church-encoded datatypes in Haskell, part 2](http://www.cbdumas.com/posts/church_encoding2.html)
 * [Difference Lists and the Codensity Monad](http://begriffs.com/posts/2016-02-04-difference-lists-and-codennsity.html)
+* [The grid package](http://hackage.haskell.org/package/grid)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
