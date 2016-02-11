@@ -131,6 +131,12 @@ indexHtml = do
 * [The wuss package](https://hackage.haskell.org/package/wuss)
 * [A lot of websockets in Haskell](https://blog.wearewizards.io/a-lot-of-websockets-in-haskell)
 
+##RPC
+* [The Remote JSON library](http://ku-fpg.github.io/2016/02/09/remote-json/)
+* [The remote-json package](http://hackage.haskell.org/package/remote-json)
+* [The remote-json-client package](http://hackage.haskell.org/package/remote-json-client)
+* [The remote-json-server package](http://hackage.haskell.org/package/remote-json-server)
+
 ##WAI/Warp
 * [wai](https://hackage.haskell.org/package/wai)
 * [warp](https://hackage.haskell.org/package/warp)
