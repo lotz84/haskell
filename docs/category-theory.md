@@ -62,9 +62,10 @@ class Functor f => Applicative f where
 ##自然変換
 
 ```haskell
-nat :: forall a. F a -> G a
+type (~>) f g = forall x. f x -> g x
 ```
 
+* [The natural-transformation package](https://hackage.haskell.org/package/natural-transformation)
 * [3 06 Synthesis with String Diagrams in Haskell](https://www.youtube.com/watch?v=w6Is69Ri9Xs)
 * [length は リスト函手から定数函手への自然変換だよ on Coq.](https://gist.github.com/mathink/31376030e03b4bb254ac)
 
