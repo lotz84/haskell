@@ -123,6 +123,7 @@ class Monad m where
 * [The Monad Challenges](http://mightybyte.github.io/monad-challenges/)
 * [CSE230 Wi13 - Programming With Effects II](https://cseweb.ucsd.edu/classes/wi13/cse230-a/lectures/monads2.html)
 * [モナモナ言わないモナド入門](http://www.mew.org/~kazu/material/2011-monad.pdf)
+* [函数プログラミングの集い2011チュートリアル「モナドについて」](http://www.slideshare.net/tanakh/monad-tutorial)
 
 ```haskell
 do x <- mx
