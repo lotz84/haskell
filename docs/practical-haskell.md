@@ -85,6 +85,7 @@
 * [Using Stack on Travis CI](https://www.fpcomplete.com/blog/2015/12/stack-travis)
 * [ghc-shake: Reimplementing ghc -​-make](http://blog.ezyang.com/2016/01/ghc-shake-reimplementing-ghc-make/)
 * [snowleopard/shaking-up-ghc](https://github.com/snowleopard/shaking-up-ghc)
+* [haskellで周波数スペクトルを描画したはなし](http://cocu.hatenablog.com/entry/2016/02/11/190538)
 
 ##CLI
 * [zalora/getopt-generics](https://github.com/zalora/getopt-generics)
