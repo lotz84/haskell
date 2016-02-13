@@ -65,6 +65,7 @@ Passed:
 * [Control.Exception.Base (assert)](http://hackage.haskell.org/package/base-4.8.1.0/docs/Control-Exception-Base.html#v:assert)
 * [【Haskell】Debug.Traceとプロファイリングで幸せなデバッグ生活](http://yu-i9.hatenablog.com/entry/2014/09/04/000000)
 * [24 days of Hackage, 2015: day 21: hood, GHood, Hoed: observation oriented debugging in Haskell](http://conscientiousprogrammer.com/blog/2015/12/21/24-days-of-hackage-2015-day-21-hood-ghood-hoed-observation-oriented-debugging-in-haskell/)
+* [JohnReedLOL/HaskellPrintDebugger](https://github.com/JohnReedLOL/HaskellPrintDebugger)
 
 ##例外処理
 * <https://twitter.com/GabrielG439/status/656202814121574400>
