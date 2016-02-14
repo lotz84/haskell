@@ -54,6 +54,7 @@ evenElements xs = filter even xs
 出典: <http://d.hatena.ne.jp/kazu-yamamoto/20091122/1258899591>
 
 * [foldl](https://hackage.haskell.org/package/foldl)
+* [Type introduction illustrated for casual haskellers](http://takenobu-hs.github.io/downloads/type_introduction_illustrated.pdf)
 * [Examining Hackage: folds](http://jozefg.bitbucket.org/posts/2014-12-27-folds.html)
 * [A tutorial on the universality and expressiveness of fold](http://www.cs.nott.ac.uk/~gmh/fold.pdf)
 * [foldlをfoldrで実装する](http://qiita.com/arowM/items/91a9bd8ea83168d412ab)
