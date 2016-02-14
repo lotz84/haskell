@@ -7,6 +7,8 @@
 * [On sufficiently smart compilers](http://osa1.net/posts/2015-08-09-sufficiently-smart-compiler.html)
 
 ##GHC
+* [GHC](https://wiki.haskell.org/GHC)
+* [これから Haskell を書くにあたって](https://speakerdeck.com/func_hs/korekara-haskell-woshu-kuniatatute)
 * [GHC Speed](https://perf.haskell.org/ghc/#)
 * [Glasgow Haskell Compiler Users Guide](http://downloads.haskell.org/~ghc/master/users-guide/)
 * [GHCのこと](http://www.kotha.net/hperf/ghc.html)
