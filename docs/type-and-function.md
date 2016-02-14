@@ -93,6 +93,8 @@ fib 1 = 1
 fib n = fibs !! (n-1) + fibs !! (n-2)
 ```
 
+参考: [Can someone explain the concept behind Haskell's memoization?](http://programmers.stackexchange.com/questions/220746/can-someone-explain-the-concept-behind-haskells-memoization)
+
 * [The Incomplete Guide to Lazy Evaluation (in Haskell)](https://hackhands.com/guide-lazy-evaluation-haskell/)
 * [If Haskell were strict, what would the laziness be like?](http://nikita-volkov.github.io/if-haskell-were-strict/)
 * [How to force a list](https://ro-che.info/articles/2015-05-28-force-list)
