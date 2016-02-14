@@ -74,6 +74,7 @@
 * [Luminance – Vertex Arrays](http://phaazon.blogspot.jp/2015/08/luminance-vertex-arrays.html)
 * [Luminance – what was that alignment stuff already?](http://phaazon.blogspot.jp/2015/08/luminance-what-was-that-alignment-stuff.html)
 * [Announcing a new set of high-level SDL2 bindings](https://ocharles.org.uk/blog/posts/2015-09-07-announcing-sdl2.html)
+* [lucid-svg 0.7](http://jeffreyrosenbluth.github.io/2016/02/13/lucid.html)
 * [The luminance package](http://hackage.haskell.org/package/luminance)
 * [Zyghost / Renderable](http://zyghost.com/articles/Renderable.html)
 * [3D programming in Haskell: Extensive GPipe tutorial now availible](https://www.reddit.com/r/haskell/comments/3r3fcb/3d_programming_in_haskell_extensive_gpipe/)
