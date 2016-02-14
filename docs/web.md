@@ -339,6 +339,7 @@ $ heroku config:set HALCYON_NO_BUILD_DEPENDENCIES=0
 * [Extending Esqueleto for Type-Safe Postgresql Queries](http://blog.jenkster.com/2015/07/extending-esqueleto-for-type-safe-postgresql-queries.html)
 * [tathougies/beam](https://github.com/tathougies/beam)
 * [Finally, Safely-Extensible and Efficient Language-Integrated Query](http://okmij.org/ftp/meta-programming/quel.pdf)
+* [JakeWheat/hssqlppp](https://github.com/JakeWheat/hssqlppp)
 
 ###Haskell Relational Record
 * [Haskell Relational Record](https://khibino.github.io/haskell-relational-record/)
