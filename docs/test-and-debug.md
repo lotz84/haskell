@@ -24,6 +24,7 @@
 * [24 days of Hackage, 2015: day 15: IOSpec: testing IO; and some QuickCheck tricks](http://conscientiousprogrammer.com/blog/2015/12/15/24-days-of-hackage-2015-day-15-iospec-testing-io-and-some-quickcheck-tricks/)
 * [Hspecベストプラクティス](http://fujimura.hatenablog.com/entry/2015/12/15/214332)
 * [Using doctest-discover with Stack](http://blog.rcook.org/blog/2016/doctest-discover-stack/)
+* [Tests vs. Types](http://kevinmahoney.co.uk/articles/tests-vs-types/)
 
 ###QuickCheck
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
