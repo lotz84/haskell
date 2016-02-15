@@ -127,6 +127,7 @@ circum (Circle _ _ r) = …
 * [Dependently typed programming and theorem proving in Haskell](https://jeltsch.wordpress.com/2012/04/30/dependently-typed-programming-and-theorem-proving-in-haskell/)
 * [System FC with Explicit Kind Equality](http://www.cis.upenn.edu/~eir/papers/2013/fckinds/fckinds-slides.pdf)
 * [Part I: Dependent Types in Haskell](https://www.fpcomplete.com/user/konn/prove-your-haskell-for-great-safety/dependent-types-in-haskell)
+* [Stephanie Weirich on Dependent Typing, Extending Haskell, Type System Research](http://www.infoq.com/interviews/weirich-haskell-dependent-types)
 
 ```haskell
 {-# LANGUAGE GADTs, DataKinds, KindSignatures, TypeFamilies #-}
