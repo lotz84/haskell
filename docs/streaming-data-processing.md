@@ -81,3 +81,4 @@ main = do
 * [quiver](http://hackage.haskell.org/package/quiver)
   * [quiver-http](https://hackage.haskell.org/package/quiver-http)
 * [fumieval/boombox](https://github.com/fumieval/boombox)
+* [bch29/streaming-png](https://github.com/bch29/streaming-png)
