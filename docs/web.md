@@ -31,6 +31,7 @@
 * [Basilica - Haskell製のモダンなフォーラム](http://www.moongift.jp/2016/01/basilica-haskell%E8%A3%BD%E3%81%AE%E3%83%A2%E3%83%80%E3%83%B3%E3%81%AA%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0/)
 * [Deploying A Haskell Web Service With Nix](http://jezenthomas.com/deploying-a-haskell-web-service-with-nix/)
 * [Dropbox Hack Week: GraphQL Server in Haskell](https://chadaustin.me/2016/02/dropbox-hack-week-graphql-server-in-haskell/)
+* [tylerholien/milena](https://github.com/tylerholien/milena)
 
 ##Socket
 * [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)
@@ -318,6 +319,7 @@ $ heroku config:set HALCYON_NO_BUILD_DEPENDENCIES=0
 * [influxdb](https://hackage.haskell.org/package/influxdb)
 * [the-real-blackh/cassandra-cql](https://github.com/the-real-blackh/cassandra-cql)
 * [wereHamster/rethinkdb-client-driver](https://github.com/wereHamster/rethinkdb-client-driver)
+* [Simple Haskell: using a sqlite3 database](http://blog.markwatson.com/2016/01/simple-haskell-using-sqlite3-database.html)
 
 ###HDBC
 > HDBC provides an abstraction layer between Haskell programs and SQL relational databases.
