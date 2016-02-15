@@ -101,6 +101,7 @@ fib n = fibs !! (n-1) + fibs !! (n-2)
 * [Thinking with Laziness](http://begriffs.com/posts/2015-06-17-thinking-with-laziness.html)
 * [How Laziness Works](http://two-wrongs.com/how-laziness-works)
 * [Haskell memoization](http://lukahorvat.github.io/programming/2014/11/18/haskell-memoization/)
+* [Haskellでメモ化を行うもう一つの方法](http://d.hatena.ne.jp/tanakh/20100411)
 
 ###部分関数
 * [Partial Function Considered Harmful](http://tanakh.jp/posts/2011-12-25-partial-function-considered-harmful.html)
