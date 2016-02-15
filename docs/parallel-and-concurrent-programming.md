@@ -48,6 +48,7 @@
 * [joey/ blog/ entry/ concurrent output library](http://joeyh.name/blog/entry/concurrent_output_library/)
 * [joey/ blog/ entry/ a tiling region manager for the console](http://joeyh.name/blog/entry/a_tiling_region_manager_for_the_console/)
 * [The pipes-concurrency package](http://hackage.haskell.org/package/pipes-concurrency)
+* [Skynet 1M threads microbenchmark](https://github.com/atemerev/skynet)
 
 ###MVar
 * [Control.Concurrent.MVar](https://hackage.haskell.org/package/base/docs/Control-Concurrent-MVar.html)
