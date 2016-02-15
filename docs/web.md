@@ -142,6 +142,7 @@ indexHtml = do
 ##WAI/Warp
 * [wai](https://hackage.haskell.org/package/wai)
 * [warp](https://hackage.haskell.org/package/warp)
+* [The Performance of Open Source Applications - Warp](http://aosabook.org/en/posa/warp.html)
 * [stackを使ってhaskellで最小のWeb Applicationしてみる](http://qiita.com/eielh/items/09b9f1c21f7d16e09ede)
 * [Using WAI's vault for fun and profit](http://www.yesodweb.com/blog/2015/10/using-wais-vault)
 * [Resurrecting servius](http://www.yesodweb.com/blog/2015/10/resurrecting-servius)
@@ -220,6 +221,7 @@ indexHtml = do
 * [Haskell stack, Yesod and Docker](http://mdjnewman.me/2016/01/haskell-stack-yesod-docker/)
 * [Deploying Yesod to Heroku with Postgres support](http://begriffs.com/posts/2013-08-24-deploying-yesod-to-heroku-with-postgres.html)
 * [Some extra safety with Yesod routing](http://begriffs.com/posts/2013-08-26-some-extra-safety-with-yesod-routing.html)
+* [The Architecture of Open Source Applications - Yesod](http://www.aosabook.org/en/yesod.html)
 
 ##Heroku
 * [Deploying Haskell to Heroku using Docker](http://www.reddit.com/r/haskell/comments/35he88/deploying_haskell_to_heroku_using_docker/)
