@@ -44,6 +44,7 @@
 * [Memory profiling in Haskell](http://blog.pusher.com/memory-profiling-in-haskell/)
 * [Making Efficient use of memory in Haskell](http://blog.pusher.com/making-efficient-use-of-memory-in-haskell/)
 * [GHC performance over time](https://uqudy.serpens.uberspace.de/blog/2016/02/08/ghc-performance-over-time/)
+* [Bang Patternsについての訂正 @ 第一回 hs.hs 勉強会](http://qiita.com/func-hs/items/51b314a2323b83653bb9)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
