@@ -14,7 +14,7 @@
 * [GHCのこと](http://www.kotha.net/hperf/ghc.html)
 * [栄光のグラスゴーHaskellコンパイルシステム利用の手引き](http://www.kotha.net/ghcguide_ja/latest/)
 * [Haskell Hierarchical Libraries](https://downloads.haskell.org/~ghc/latest/docs/html/libraries/index.html)
-* [The Glasgow Haskell Compiler](http://www.aosabook.org/en/ghc.html)
+* [The Architecture of Open Source Applications - The Glasgow Haskell Compiler](http://www.aosabook.org/en/ghc.html)
 * [Naïve Haskell data representation](http://www.scs.stanford.edu/14sp-cs240h/slides/memory-slides.html#(11))
 * [Haskellのコンパイル中に現れるSTGと, GDBで見るC-backendなC--](http://d.hatena.ne.jp/suztomo/20111224/1324718354)
 * [Haskell Compiler (compiler)](http://www.scs.stanford.edu/14sp-cs240h/slides/ghc-compiler-slides.html)
