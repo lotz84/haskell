@@ -36,6 +36,7 @@
 * [Edward Kmett - Propagators - Boston Haskell](https://www.youtube.com/watch?v=DyPzPeOPgUE)
 * [Functional Reactive Programming from First Principles](http://haskell.cs.yale.edu/?post_type=publication&p=200)
 * [Part One - Infrastructure](http://zyghost.com/series/odin/part-one/)
+* [Fixing a space leak by copying thunks.](http://haskellexists.blogspot.de/2016/01/fixing-space-leak-by-copying-thunks.html)
 
 ##Reflex
 * [Ryan Trinkle - Reflex: Practical Functional Reactive Programming](https://www.youtube.com/watch?v=dOy7zIk3IUI)
