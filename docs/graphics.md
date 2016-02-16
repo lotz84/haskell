@@ -28,6 +28,7 @@
 * [diagrams](http://projects.haskell.org/diagrams/)
   * [Diagrams: Composition, Envelopes and Alignment Part 1](https://www.youtube.com/watch?v=5_fCUSOn7m0)
   * [Diagrams: Composition, Envelopes and Alignment Part 2](https://www.youtube.com/watch?v=nZCzsBOYdis)
+* [Recreating OTAS Stamps in Haskell](https://blog.otastech.com/2016/02/recreating-otas-stamps-in-haskell/)
 * [The units package](https://hackage.haskell.org/package/units)
 * [Interactive and composable charts](http://www.haskellforall.com/2015/11/interactive-and-composable-charts.html)
 * [smoothie](https://hackage.haskell.org/package/smoothie)
@@ -84,6 +85,7 @@
 * [Chase-C/Flocking-Simulation](https://github.com/Chase-C/Flocking-Simulation)
 * [Existential quantification and GADT in luminance-0.8](http://phaazon.blogspot.jp/2015/12/existential-quantification-and-gadt-in.html)
 * [I3ck/HGE2D](https://github.com/I3ck/HGE2D)
+* [CIFASIS/ttasm](https://github.com/CIFASIS/ttasm)
 
 ##WebGL
 * [wgld.org](http://wgld.org/)
