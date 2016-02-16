@@ -41,7 +41,7 @@
 * [Comonads are objects](http://www.haskellforall.com/2013/02/you-could-have-invented-comonads.html)
 * 🎥 [Kenneth Foner - Getting a Quick Fix on Comonads](https://www.youtube.com/watch?v=F7F-BzOB670)
 
-```
+```hs
 class Functor w => Comonad w where
   extract :: w a -> a
   duplicate :: w a -> w (w a)
