@@ -33,6 +33,7 @@
 * [Dropbox Hack Week: GraphQL Server in Haskell](https://chadaustin.me/2016/02/dropbox-hack-week-graphql-server-in-haskell/)
 * [tylerholien/milena](https://github.com/tylerholien/milena)
 * [uwitty/mosquitto](https://github.com/uwitty/mosquitto)
+* [The imap package](https://hackage.haskell.org/package/imap)
 
 ##Socket
 * [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)
