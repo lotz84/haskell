@@ -35,6 +35,8 @@
 * [YOW! 2015 - Reid Draper - Production Haskell](https://www.youtube.com/watch?v=T2wi0ZUOHfM)
 * [2016 02 28 - Simon Meier - A primer to commercial Haskell programming](https://www.youtube.com/watch?v=ywOvfjpbYR4)
 * [Haskell for commercial software development](https://www.wagonhq.com/blog/haskell-for-industry)
+* [Haskell is Not For Production and Other Tales](https://www.youtube.com/watch?v=mlTO510zO78)
+* [Production Haskell - Reid Draper](https://www.youtube.com/watch?v=AZQLkkDXy68&feature=youtu.be)
 
 ###FPComplete
 * [FPComplete](https://www.fpcomplete.com/)
