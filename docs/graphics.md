@@ -86,6 +86,7 @@
 * [Existential quantification and GADT in luminance-0.8](http://phaazon.blogspot.jp/2015/12/existential-quantification-and-gadt-in.html)
 * [I3ck/HGE2D](https://github.com/I3ck/HGE2D)
 * [CIFASIS/ttasm](https://github.com/CIFASIS/ttasm)
+* [Part One - Infrastructure with SDL2](http://zyghost.com/series/odin/part-one-sdl2/)
 
 ##WebGL
 * [wgld.org](http://wgld.org/)
