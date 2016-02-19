@@ -152,6 +152,7 @@ indexHtml = do
 * [Simple](http://simple.cx/)
 * [WebApi](http://byteally.github.io/webapi/)
 * [Writing controller specs for a Warp server](http://begriffs.com/posts/2014-10-19-warp-server-controller-test.html)
+* [helium/airship](https://github.com/helium/airship)
 
 ##Web Application Framework
 * [The scotty package](http://hackage.haskell.org/package/scotty)
