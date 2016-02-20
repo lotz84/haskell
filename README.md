@@ -11,7 +11,7 @@
     2.  [再帰](docs/recursion.md)
     3.  [データ構造とアルゴリズム](docs/data-structures-and-algorithms.md)
     4.  [型クラス](docs/type-class-and-abstraction.md)
-    5.  [圏論](docs/category-theory.md)
+    5.  [Functor, Applicative, Monad!](docs/category-theory.md)
     6.  [パーサー](docs/parser.md)
     7.  [モナド交換子](docs/monad-transformers.md)
     8.  [継続](docs/continuation.md)
