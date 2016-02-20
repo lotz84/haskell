@@ -86,7 +86,7 @@
 * [Using Stack on Travis CI](https://www.fpcomplete.com/blog/2015/12/stack-travis)
 * [ghc-shake: Reimplementing ghc -​-make](http://blog.ezyang.com/2016/01/ghc-shake-reimplementing-ghc-make/)
 * [snowleopard/shaking-up-ghc](https://github.com/snowleopard/shaking-up-ghc)
-* [haskellで周波数スペクトルを描画したはなし](http://cocu.hatenablog.com/entry/2016/02/11/190538)
+* [Updated Haskell Travis config](https://www.fpcomplete.com/blog/2016/02/updated-haskell-travis-config)
 
 ##CLI
 * [zalora/getopt-generics](https://github.com/zalora/getopt-generics)
@@ -117,6 +117,7 @@
 * [lukasmartinelli/hwk](https://github.com/lukasmartinelli/hwk)
 * [lettier/gifcurry](https://github.com/lettier/gifcurry)
 * [NorfairKing/super-user-spark](https://github.com/NorfairKing/super-user-spark)
+* [haskellで周波数スペクトルを描画したはなし](http://cocu.hatenablog.com/entry/2016/02/11/190538)
 
 ##FFI
 * [inline-c](https://hackage.haskell.org/package/inline-c)
@@ -151,3 +152,4 @@
 * [np/ling](https://github.com/np/ling)
 * [Music Suite](http://music-suite.github.io/docs/ref/)
 * [Haskell Meets the Central Dogma](http://savinaroja.github.io/2016/01/11/haskell-meets-the-central-dogma/)
+* [typed-wire/typed-wire](https://github.com/typed-wire/typed-wire)
