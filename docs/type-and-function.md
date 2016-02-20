@@ -8,6 +8,7 @@
 * [Either and (,) in Haskell are not arbitrary](http://bitemyapp.com/posts/2015-10-19-either-is-not-arbitrary.html)
 * [Why sum and product types?](http://charlieharvey.org.uk/page/sum_and_product_types)
 * [Types Don't Lie, But They Won't Reveal Everything](http://www.cli-nerd.com/2016/01/18/types-dont-lie-but-they-dont-reveal-everything.html)
+* [Unit型の何が偉大なのか説明してみる](http://qiita.com/alucky0707/items/a677e5c9850aa765dd55)
 
 ###代数的データ型
 代数的データ型とは"足し算"と"掛け算"が出来るような型のこと。"足し算"と"掛け算"はそれぞれ**直和**, **直積**と呼ばれる。
