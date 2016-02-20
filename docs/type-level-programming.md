@@ -102,6 +102,7 @@ circum (Circle _ _ r) = …
 * [Notes on Parametricity](http://jozefg.bitbucket.org/posts/2014-12-22-parametricity.html)
 * [Parametricity in an Impredicative Sort](http://arxiv.org/abs/1209.6336)
 * [Parametricity: Money for Nothing and Theorems for Free](http://bartoszmilewski.com/2014/09/22/parametricity-money-for-nothing-and-theorems-for-free/)
+* [The Essential Tools of Open-Source: Functional Programming, Parametricity, Types](https://www.youtube.com/watch?v=4hTtcUeqmfY)
 
 ##Refinement Type
 * [Announcing the refinement types library](http://nikita-volkov.github.io/refined/)
