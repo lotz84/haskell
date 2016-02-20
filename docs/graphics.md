@@ -45,6 +45,7 @@
 * [Yo Dawg We Heard You Like Derivatives](http://jtobin.ca/ad-via-recursion-schemes/)
 * [tepf/QuickPlot](https://github.com/tepf/QuickPlot)
 * [Haskell でサムネイル生成](http://qiita.com/satosystems/items/abdb9696185f647b65a2)
+* [Haskell でサムネイル #2](http://qiita.com/satosystems/items/669a8b3fdfa535582cb4)
 
 ##Gloss
 * [gloss](http://hackage.haskell.org/package/gloss)
