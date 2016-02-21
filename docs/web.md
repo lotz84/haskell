@@ -114,6 +114,7 @@ indexHtml = do
 * [kazu-yamamoto/logger](https://github.com/kazu-yamamoto/logger)
 * [jgoerzen/hslogger](https://github.com/jgoerzen/hslogger)
 * [The logging-effect package](https://hackage.haskell.org/package/logging-effect)
+* [The logging-facade package](https://hackage.haskell.org/package/logging-facade)
 
 ##Generator/Hakyll
 * [LambdaCms](http://lambdacms.org/)
