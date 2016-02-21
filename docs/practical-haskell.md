@@ -12,6 +12,7 @@
 * [GaloisInc/HaLVM](https://github.com/GaloisInc/HaLVM)
 * [dkubb/haskell-builder](https://github.com/dkubb/haskell-builder)
 * [How to contribute to the Haskell ecosystem](http://www.haskellforall.com/2015/12/how-to-contribute-to-haskell-ecosystem.html)
+* [sol/hpack](https://github.com/sol/hpack)
 
 ##Cabal
 * [Hackage](http://hackage.haskell.org/)
