@@ -37,6 +37,7 @@
 * [Haskell for commercial software development](https://www.wagonhq.com/blog/haskell-for-industry)
 * [Haskell is Not For Production and Other Tales](https://www.youtube.com/watch?v=mlTO510zO78)
 * [Production Haskell - Reid Draper](https://www.youtube.com/watch?v=AZQLkkDXy68&feature=youtu.be)
+* [The Joy and Agony of Haskell in Production](http://www.stephendiehl.com/posts/production.html)
 
 ###FPComplete
 * [FPComplete](https://www.fpcomplete.com/)
