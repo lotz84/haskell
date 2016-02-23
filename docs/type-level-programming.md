@@ -333,6 +333,8 @@ instance Eval' Hole where
 * [History and Philosophy of Constructive Type Theory](http://link.springer.com/book/10.1007/978-94-015-9393-9)
 * [Types for Proofs and Programs](http://link.springer.com/book/10.1007/3-540-39185-1)
 * [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
+* [Proving With Types](http://www.parsonsmatt.org/2016/02/23/proving_with_types.html)
+* [Monadic regions](https://wiki.haskell.org/Monadic_regions)
 
 ##Lambda Calculus
 * [An informal introduction to Lambda Calculus.](https://medium.com/@Sudhagar/an-informal-introduction-to-lambda-calculus-51c637f35f7d#.vsy3u1aex)
