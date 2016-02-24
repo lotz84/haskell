@@ -84,6 +84,7 @@
 * [Pattern Synonyms in GHC 8.0](http://mpickering.github.io/posts/2015-12-12-pattern-synonyms-8.html)
 * [Visible Type Application (Extended version)](http://www.seas.upenn.edu/~sweirich/papers/type-app-extended.pdf)
 * [Stack traces in GHCi, coming in GHC 8.0.1](http://simonmar.github.io/posts/2016-02-12-Stack-traces-in-GHCi.html)
+* [New type of ($) operator in GHC 8.0 is problematic](https://mail.haskell.org/pipermail/ghc-devs/2016-February/011268.html)
 
 ###LLVM
 * [LLVM フレームワークで実用的なコンパイラーを作成する: 第 1 回](http://www.ibm.com/developerworks/jp/opensource/library/os-createcompilerllvm1/index.html)
