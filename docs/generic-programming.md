@@ -6,6 +6,7 @@
 * [generics-sop](https://hackage.haskell.org/package/generics-sop)
 * [Generic Programming with Indexed Functors](http://dreixel.net/research/pdf/gpif.pdf)
 * [generics-eot](http://generics-eot.readthedocs.org/en/latest/)
+* [Generic programming in Haskell](https://jeltsch.wordpress.com/2016/02/22/generic-programming-in-haskell/)
 
 ##Uniplate
 * [uniplate](https://hackage.haskell.org/package/uniplate)
