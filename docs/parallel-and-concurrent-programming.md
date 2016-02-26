@@ -87,3 +87,4 @@ main = do
 * [Estimation of π using distributed computing. Streaming. Transient effects VI](https://www.fpcomplete.com/user/agocorona/estimation-of-using-distributed-computing-streaming-transient-effects-vi-1)
 * [Moving Haskell processes between nodes (Transient effects IV)](https://www.fpcomplete.com/user/agocorona/moving-haskell-processes-between-nodes-transient-effects-iv)
   * [agocorona/transient](https://github.com/agocorona/transient)
+* [Haskell meets large scale distributed analytics](http://www.tweag.io/blog/haskell-meets-large-scale-distributed-analytics)
