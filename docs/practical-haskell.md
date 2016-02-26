@@ -6,6 +6,7 @@
 * [Anatomy of a Haskell-based Application](http://abailly.github.io/posts/cm-arch-design.html)
 * [Equational reasoning](http://www.haskellforall.com/2013/12/equational-reasoning.html)
 * [Equational reasoning at scale](http://www.haskellforall.com/2014/07/equational-reasoning-at-scale.html)
+* [Heuristic guidance from equational reasoning](http://myhaskelljournal.com/heuristic-guidance-from-equational-reasoning/)
 * [Just do it: Simple monadic equational reasoning](http://www.cs.ox.ac.uk/publications/publication4877-abstract.html)
 * [How to prove large software projects correct](http://www.techcast.com/events/bigtechday8/maffei-1450/?q=maffei-1450)
 * [An exercise in equational reasoning](http://myhaskelljournal.com/an-exercise-in-equational-reasoning/)
