@@ -67,6 +67,7 @@
 * [The Road to Running Haskell at Facebook Scale - Jon Coens](https://www.youtube.com/watch?v=sl2zo7tzrO8)
 * [Facebook’s New Spam-Killer Hints at the Future of Coding](http://www.wired.com/2015/09/facebooks-new-anti-spam-system-hints-future-coding/)
 * [Research Intern (Functional Programming)](https://www.facebook.com/careers/jobs/a0I1200000I9saG/)
+* [FP @ FB](http://www.scs.stanford.edu/16wi-cs240h/slides/fb-slides.html)
 
 ###Twitter
 * [FUNctional Programming with Haskell - Twitter Tech Talk](https://www.wagonhq.com/blog/twitter-tech-talk)
