@@ -119,6 +119,7 @@
 * [lettier/gifcurry](https://github.com/lettier/gifcurry)
 * [NorfairKing/super-user-spark](https://github.com/NorfairKing/super-user-spark)
 * [haskellで周波数スペクトルを描画したはなし](http://cocu.hatenablog.com/entry/2016/02/11/190538)
+* [vimus/vimus](https://github.com/vimus/vimus)
 
 ##FFI
 * [inline-c](https://hackage.haskell.org/package/inline-c)
