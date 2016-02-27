@@ -336,6 +336,7 @@ instance Eval' Hole where
 * [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
 * [Proving With Types](http://www.parsonsmatt.org/2016/02/23/proving_with_types.html)
 * [Monadic regions](https://wiki.haskell.org/Monadic_regions)
+* [Bidirectional Typing Rules: A Tutorial](https://www.itu.dk/people/drc/tutorials/bidirectional.pdf)
 
 ##Lambda Calculus
 * [An informal introduction to Lambda Calculus.](https://medium.com/@Sudhagar/an-informal-introduction-to-lambda-calculus-51c637f35f7d#.vsy3u1aex)
