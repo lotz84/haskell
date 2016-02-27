@@ -35,6 +35,7 @@
 * [uwitty/mosquitto](https://github.com/uwitty/mosquitto)
 * [The imap package](https://hackage.haskell.org/package/imap)
 * [soundcloud/haskell-kubernetes](https://github.com/soundcloud/haskell-kubernetes)
+* [chrisdone/haskellnews](https://github.com/chrisdone/haskellnews)
 
 ##Socket
 * [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)
@@ -117,7 +118,7 @@ indexHtml = do
 * [The logging-effect package](https://hackage.haskell.org/package/logging-effect)
 * [The logging-facade package](https://hackage.haskell.org/package/logging-facade)
 
-##Generator/Hakyll
+##Hakyll
 * [LambdaCms](http://lambdacms.org/)
 * [Static Generation with Haskell](http://two-wrongs.com/static-generation-with-haskell)
 * [Hakyll](http://jaspervdj.be/hakyll/)
@@ -127,6 +128,7 @@ indexHtml = do
 * [Create a static site with Hakyll, Github and Travis CI](http://begriffs.com/posts/2014-08-12-create-static-site-with-hakyll-github.html)
 * [Jekyll Style URLs with Hakyll](http://aherrmann.github.io/programming/2016/01/31/jekyll-style-urls-with-hakyll/)
 * [Serving a Hakyll site with Warp/Wai](https://chromabits.com/posts/2016/02/15/serving-hakyll-site-with-warp/)
+* [Hakyll で日本語文中の余分な空白を削除する](http://qiita.com/pecorarista/items/2abad96e21857d43a04c)
 
 ##Web Socket
 * [Haskell から見た node.js](http://d.hatena.ne.jp/kazu-yamamoto/20110825/1314254885)
