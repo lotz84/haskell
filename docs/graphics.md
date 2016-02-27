@@ -15,6 +15,7 @@
 * [haskell-pkg-janitors/X11](https://github.com/haskell-pkg-janitors/X11)
 * [Nikita Churaev/dialog](https://gitlab.com/lamefun/dialog)
 * [FLTKHS - Easy Native GUIs in Haskell, Today!](https://github.com/deech/fltkhs-compose-conference-2016-talk/blob/master/Talk.pdf)
+* [HsQML 0.3.4.0 released: Belated Automatic List Models](http://blog.gekkou.co.uk/2016/02/hsqml-0340-released.html)
 
 ##数値計算・可視化
 * [linear](http://hackage.haskell.org/package/linear)
