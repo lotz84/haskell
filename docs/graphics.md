@@ -4,6 +4,7 @@
 * [Haskellプログラミング講座（上級編：ゲーム）](http://bitterharvest.hatenablog.com/entry/2014/10/22/064526)
 * [hauxir/haskell-tetris](https://github.com/hauxir/haskell-tetris)
 * [The vulkan package](http://hackage.haskell.org/package/vulkan)
+* [HOgg](http://www.kfish.org/software/hogg/)
 
 ##GUI
 * [fltkhs](http://hackage.haskell.org/package/fltkhs)
