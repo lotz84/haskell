@@ -65,6 +65,7 @@
 * [The grid package](http://hackage.haskell.org/package/grid)
 * [Haskell で動的計画法を書くための3つの方針](http://d.hatena.ne.jp/toslunar/20100408/1270719176)
 * [Safe Zero-cost Coercions for Haskell - Richard Eisenberg](http://ezyang.tumblr.com/post/96448232652/safe-zero-cost-coercions-for-haskell-richard)
+* [acowley/Frames](https://github.com/acowley/Frames)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
