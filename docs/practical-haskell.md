@@ -121,6 +121,7 @@
 * [NorfairKing/super-user-spark](https://github.com/NorfairKing/super-user-spark)
 * [haskellで周波数スペクトルを描画したはなし](http://cocu.hatenablog.com/entry/2016/02/11/190538)
 * [vimus/vimus](https://github.com/vimus/vimus)
+* [Auto-generate a command line interface from a data type](http://www.haskellforall.com/2016/02/auto-generate-command-line-interface.html)
 
 ##FFI
 * [inline-c](https://hackage.haskell.org/package/inline-c)
