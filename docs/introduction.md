@@ -60,6 +60,7 @@ $ alias ghci='stack ghci'
 
 ##チートシート
 * [What I Wish I Knew When Learning Haskell](http://www.stephendiehl.com/what/) [[ja](https://github.com/Kinokkory/wiwinwlh-jp/wiki)]
+* [The Haskell Cheatsheet](http://cheatsheet.codeslower.com/)
 * [Haskellチートシート(翻訳)](http://qiita.com/techno-tanoC/items/1fa1c65db08da2440fc4)
 
 ##Examples
