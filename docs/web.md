@@ -229,6 +229,7 @@ indexHtml = do
 * [Deploying Yesod to Heroku with Postgres support](http://begriffs.com/posts/2013-08-24-deploying-yesod-to-heroku-with-postgres.html)
 * [Some extra safety with Yesod routing](http://begriffs.com/posts/2013-08-26-some-extra-safety-with-yesod-routing.html)
 * [The Architecture of Open Source Applications - Yesod](http://www.aosabook.org/en/yesod.html)
+* [Adding Redis to Yesod](http://maxgabriel.github.io/redis-yesod/)
 
 ##Heroku
 * [Deploying Haskell to Heroku using Docker](http://www.reddit.com/r/haskell/comments/35he88/deploying_haskell_to_heroku_using_docker/)
