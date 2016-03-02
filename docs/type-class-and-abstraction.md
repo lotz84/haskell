@@ -48,6 +48,7 @@ instance Show Bool where
 * [Interactively discovering the best type classes for Haskell functions](http://begriffs.com/posts/2013-08-25-interactively-discovering-best-type.html)
 * [Some interesting features of Haskell’s type system](https://jeltsch.wordpress.com/2013/02/09/some-interesting-features-of-haskells-type-system/)
 * [Natural numbers with addition form a monoid](https://theorylunch.wordpress.com/2013/12/03/natural-numbers-with-addition-form-a-monoid/)
+* [Edward Kmett - Undecidable Superclasses](https://www.youtube.com/watch?v=ZL9ehIJhk98)
 
 ##Monoid
 * [Haskell Monoids and their Uses](http://blog.sigfpe.com/2009/01/haskell-monoids-and-their-uses.html)
