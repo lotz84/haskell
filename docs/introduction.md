@@ -32,6 +32,7 @@ $ alias ghci='stack ghci'
 * [Haskellでポーカーを作ろう〜第一回 リストのシャッフルとカードの定義〜](http://tune.hateblo.jp/entry/2015/05/12/023112)
 * [Haskellプログラミングのコツのようなもの](http://qiita.com/nobsun/items/ed33c22203734e706e9b)
 * [やさしい Haskell 入門 (バージョン98)](http://www.sampou.org/haskell/tutorial-j/index.html)
+* [【関数型言語Haskellの基本】高階関数map,reduceを使って遊んでみた](https://codeiq.jp/magazine/2016/02/31747/)
 * [Haskellの世界](https://skami.iocikun.jp/computer/haskell)
 * [Haskell for Mac でちょっと Haskell をさわってみる](http://qiita.com/usamik26/items/d99bf694150a549b5078)
 * [1から学ぶHaskell: プログラマ向けのHaskell入門](https://skami.iocikun.jp/computer/haskell/web_lecture/for_programmer/)
