@@ -7,6 +7,7 @@
 * [Generic Programming with Indexed Functors](http://dreixel.net/research/pdf/gpif.pdf)
 * [generics-eot](http://generics-eot.readthedocs.org/en/latest/)
 * [Generic programming in Haskell](https://jeltsch.wordpress.com/2016/02/22/generic-programming-in-haskell/)
+* [Cooking Classes with Datatype Generic Programming](http://www.stephendiehl.com/posts/generics.html)
 
 ##Uniplate
 * [uniplate](https://hackage.haskell.org/package/uniplate)
