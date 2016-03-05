@@ -32,6 +32,7 @@
 * [OverlappingInstances回避法をMonadStateへ適用した](http://qiita.com/hiyakashi_/items/80c63e341aa5f543286c)
 * [Monad transformers, free monads, mtl, laws and a new approach](https://ocharles.org.uk/blog/posts/2016-01-26-transformers-free-monads-mtl-laws.html)
 * [Haskellモナドトランスフォーマー(1)](http://delihiros.hatenablog.jp/entry/2012/04/19/140557)
+* [The ObserverT monad transformer [check for interest]](https://gist.github.com/rampion/015fa65ac654a2947045)
 
 mtlにはMonad Transformerを新しく定義する度に全ての組み合わせの実装を定義する必要があるという問題点がある。
 
