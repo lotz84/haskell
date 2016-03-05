@@ -92,6 +92,7 @@
 * [lzma-streams](https://hackage.haskell.org/package/lzma-streams)
 * [buffer-builder](https://hackage.haskell.org/package/buffer-builder)
 * [The bytestring-tree-builder package](http://hackage.haskell.org/package/bytestring-tree-builder)
+* [Haskell 文字列変換入門](http://qiita.com/satosystems/items/e07e9907e4da9ab853fc)
 
 ###配列
 * [The vector package](https://hackage.haskell.org/package/vector)
