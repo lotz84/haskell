@@ -30,7 +30,7 @@
     3. [Web](docs/web.md)
     4. [Graphics/Game](docs/graphics.md)
     5. [IoT/Mobile](docs/mobile.md)
-    6. [Blockchain](docs/blockchain.md)
+    6. [ファイナンス](docs/finance.md)
     7. [機械学習](https://github.com/lotz84/machine-learning)
 3. [目的別ライブラリ一覧](docs/libraries.md)
 
