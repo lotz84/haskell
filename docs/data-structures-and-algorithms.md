@@ -67,6 +67,7 @@
 * [Safe Zero-cost Coercions for Haskell - Richard Eisenberg](http://ezyang.tumblr.com/post/96448232652/safe-zero-cost-coercions-for-haskell-richard)
 * [acowley/Frames](https://github.com/acowley/Frames)
 * [bollu/cellularAutomata](https://github.com/bollu/cellularAutomata)
+* [Realtime collaborative editor. Algebraic properties of the problem.](http://blog.haskell-exists.com/yuras/posts/realtime-collaborative-editor.html)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
