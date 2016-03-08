@@ -90,6 +90,7 @@
 * [ghc-shake: Reimplementing ghc -​-make](http://blog.ezyang.com/2016/01/ghc-shake-reimplementing-ghc-make/)
 * [snowleopard/shaking-up-ghc](https://github.com/snowleopard/shaking-up-ghc)
 * [Updated Haskell Travis config](https://www.fpcomplete.com/blog/2016/02/updated-haskell-travis-config)
+* [Circle CI configuration with yesod (haskell) backend and javascript frontend](http://swistak35.com/2016/03/07/Circle-ci-configuration-with-yesod-haskell-and-javascript-frontend/)
 
 ##CLI
 * [zalora/getopt-generics](https://github.com/zalora/getopt-generics)
@@ -159,3 +160,4 @@
 * [Music Suite](http://music-suite.github.io/docs/ref/)
 * [Haskell Meets the Central Dogma](http://savinaroja.github.io/2016/01/11/haskell-meets-the-central-dogma/)
 * [typed-wire/typed-wire](https://github.com/typed-wire/typed-wire)
+* [MUSIC FROM NOISE](http://blog.prakashvenkat.com/)
