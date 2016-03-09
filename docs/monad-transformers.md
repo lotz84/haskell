@@ -50,6 +50,7 @@ mtlにはMonad Transformerを新しく定義する度に全ての組み合わせ
 ##Extensible Effects
 * [extensible-effects](https://hackage.haskell.org/package/extensible-effects)
 * [Extensible Effects: an alternative to Monad Transformers](http://okmij.org/ftp/Haskell/extensible/)
+* [Eff vs mtl](https://www.reddit.com/r/haskell/comments/1j9n5y/extensible_effects_an_alternative_to_monad/cbcwbsa)
 * [suhailshergill/extensible-effects](https://github.com/suhailshergill/extensible-effects)
 * [Extensible Effects](http://www.cs.indiana.edu/~sabry/papers/exteff.pdf)
 * [Are extensible effects a complete replacement for mtl?](http://www.reddit.com/r/haskell/comments/387ex0/are_extensible_effects_a_complete_replacement_for/crt1pzm)
@@ -58,3 +59,4 @@ mtlにはMonad Transformerを新しく定義する度に全ての組み合わせ
 * [The effect-handlers package](https://hackage.haskell.org/package/effect-handlers)
 * [Freer Monads, More Extensible Effects](http://okmij.org/ftp/Haskell/extensible/more.pdf) [[slide](http://okmij.org/ftp/Haskell/extensible/more-talk.pdf)]
 * [Programming with Algebraic Effects and Handlers](http://math.andrej.com/2012/03/08/programming-with-algebraic-effects-and-handlers/)
+* [Extensible Effects in Scala](http://halcat.org/scala/extensible/)
