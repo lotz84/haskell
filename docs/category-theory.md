@@ -125,6 +125,7 @@ class Monad m where
 * [CSE230 Wi13 - Programming With Effects II](https://cseweb.ucsd.edu/classes/wi13/cse230-a/lectures/monads2.html)
 * [モナモナ言わないモナド入門](http://www.mew.org/~kazu/material/2011-monad.pdf)
 * [函数プログラミングの集い2011チュートリアル「モナドについて」](http://www.slideshare.net/tanakh/monad-tutorial)
+* [3 Approaches to Monadic API Design in Haskell](https://blog.pusher.com/3-approaches-to-monadic-api-design-in-haskell/)
 
 ```haskell
 do x <- mx
