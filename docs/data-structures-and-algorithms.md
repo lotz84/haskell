@@ -68,6 +68,7 @@
 * [acowley/Frames](https://github.com/acowley/Frames)
 * [bollu/cellularAutomata](https://github.com/bollu/cellularAutomata)
 * [Realtime collaborative editor. Algebraic properties of the problem.](http://blog.haskell-exists.com/yuras/posts/realtime-collaborative-editor.html)
+* 
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
@@ -94,6 +95,7 @@
 * [buffer-builder](https://hackage.haskell.org/package/buffer-builder)
 * [The bytestring-tree-builder package](http://hackage.haskell.org/package/bytestring-tree-builder)
 * [Haskell 文字列変換入門](http://qiita.com/satosystems/items/e07e9907e4da9ab853fc)
+* [The securemem package](http://hackage.haskell.org/package/securemem)
 
 ###配列
 * [The vector package](https://hackage.haskell.org/package/vector)
