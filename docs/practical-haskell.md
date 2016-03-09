@@ -161,3 +161,4 @@
 * [Haskell Meets the Central Dogma](http://savinaroja.github.io/2016/01/11/haskell-meets-the-central-dogma/)
 * [typed-wire/typed-wire](https://github.com/typed-wire/typed-wire)
 * [MUSIC FROM NOISE](http://blog.prakashvenkat.com/)
+* [justinethier/husk-scheme](https://github.com/justinethier/husk-scheme)
