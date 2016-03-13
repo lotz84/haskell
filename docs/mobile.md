@@ -11,6 +11,7 @@
 * [ImplicitCAD](http://www.implicitcad.org/)
 * [HaSKI](http://yager.io/HaSKI/HaSKI.html)
 * [From Haskell to Hardware](http://begriffs.com/posts/2015-06-28-haskell-to-hardware.html)
+* [Translating Haskell to Hardware](https://www.youtube.com/watch?v=k02mEtPfdaQ)
 
 ##ATS
 * [Japan ATS User Group](http://jats-ug.metasepi.org/)
