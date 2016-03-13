@@ -126,6 +126,7 @@ class Monad m where
 * [モナモナ言わないモナド入門](http://www.mew.org/~kazu/material/2011-monad.pdf)
 * [函数プログラミングの集い2011チュートリアル「モナドについて」](http://www.slideshare.net/tanakh/monad-tutorial)
 * [3 Approaches to Monadic API Design in Haskell](https://blog.pusher.com/3-approaches-to-monadic-api-design-in-haskell/)
+* [モナドはポケモン。数学が出てこないモナド入門](http://qiita.com/hiruberuto/items/8bbc0343bf794c368287)
 
 ```haskell
 do x <- mx
@@ -237,6 +238,7 @@ Reader + Writer + State
 * [C#/Javaで読む、HaskellがIOモナドで実現したいこと](http://cs.hatenablog.jp/entry/2013/08/23/075647)
 * [ノンブロッキングI/Oと非同期I/Oの違いを理解する](http://blog.takanabe.tokyo/2015/03/26/240/)
 * [Pure API vs. IO-bound API for graphics frameworks](http://phaazon.blogspot.jp/2016/02/pure-api-vs-io-bound-api-for-graphics.html)
+* [A newcomer's run-in with lazy I/O](https://ianthehenry.com/2016/3/9/lazy-io/)
 
 ###MonadPlus
 * [MonadPlus and Monoid serve different purposes.](http://stackoverflow.com/questions/10167879/distinction-between-typeclasses-monadplus-alternative-and-monoid#10168111)
