@@ -212,6 +212,7 @@ p_ :: Term arg result => arg -> result
 * [Injective type families](https://ghc.haskell.org/trac/ghc/wiki/InjectiveTypeFamilies)
 * [Injective type families for Haskell](http://lambda.jstolarek.com/2015/05/injective-type-families-for-haskell/)
 * [Type Families with Class, Type Classes with Family](http://www.diku.dk/~paba/pubs/entries/serrano15haskell.html)
+* [Type Families and Pokemon.](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/type-families-and-pokemon)
 
 ```haskell
 -- https://www.youtube.com/watch?v=snOBI8PcbMQ
