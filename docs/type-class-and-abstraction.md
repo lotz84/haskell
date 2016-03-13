@@ -50,6 +50,7 @@ instance Show Bool where
 * [Natural numbers with addition form a monoid](https://theorylunch.wordpress.com/2013/12/03/natural-numbers-with-addition-form-a-monoid/)
 * [Edward Kmett - Undecidable Superclasses](https://www.youtube.com/watch?v=ZL9ehIJhk98)
 * [Haskell's Type Classes: We Can Do Better](http://degoes.net/articles/principled-typeclasses)
+* [Haskellで関数のオーバーロード](http://qiita.com/7shi/items/17a1567a635af17fc83f)
 
 ##Monoid
 * [Haskell Monoids and their Uses](http://blog.sigfpe.com/2009/01/haskell-monoids-and-their-uses.html)
