@@ -162,3 +162,4 @@
 * [typed-wire/typed-wire](https://github.com/typed-wire/typed-wire)
 * [MUSIC FROM NOISE](http://blog.prakashvenkat.com/)
 * [justinethier/husk-scheme](https://github.com/justinethier/husk-scheme)
+* [wireapp/cryptobox-haskell](https://github.com/wireapp/cryptobox-haskell)
