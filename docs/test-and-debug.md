@@ -83,3 +83,4 @@ Passed:
 * [Exceptions Best Practices](https://www.schoolofhaskell.com/user/commercial/content/exceptions-best-practices)
 * [The errors package](http://hackage.haskell.org/package/errors)
 * [Haskell Cat: Maybe/Either vs exceptions](https://www.youtube.com/watch?v=8xkG660D6bI)
+* [Error handling is code too!](http://cs-syd.eu/posts/2016-03-13-error-handling-is-code-too.html)
