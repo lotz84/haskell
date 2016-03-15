@@ -13,6 +13,10 @@
 * [From Haskell to Hardware](http://begriffs.com/posts/2015-06-28-haskell-to-hardware.html)
 * [Translating Haskell to Hardware](https://www.youtube.com/watch?v=k02mEtPfdaQ)
 
+##高位合成
+* [Domain-specific Languages and Code Synthesis Using Haskell](http://queue.acm.org/detail.cfm?id=2617811)
+* [High-level Synthesis from Functional Languages](http://www.cs.columbia.edu/~sedwards/presentations/2010-synchronics-functional.pdf)
+
 ##ATS
 * [Japan ATS User Group](http://jats-ug.metasepi.org/)
 * [Introduction to Programming in ATS](http://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/INT2PROGINATS-BOOK.html)
