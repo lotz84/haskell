@@ -47,6 +47,7 @@
 * [GHC performance over time](https://uqudy.serpens.uberspace.de/blog/2016/02/08/ghc-performance-over-time/)
 * [Bang Patternsについての訂正 @ 第一回 hs.hs 勉強会](http://qiita.com/func-hs/items/51b314a2323b83653bb9)
 * [Cost of Proxy](https://www.reddit.com/r/haskell/comments/47uquu/cost_of_proxy/)
+* [Turn GHC into a frontend for miniSTG](http://blog.haskell-exists.com/yuras/posts/turn-ghc-into-frontend-for-ministg.html)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
