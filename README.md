@@ -11,7 +11,7 @@
     2.  [再帰](docs/recursion.md)
     3.  [データ構造とアルゴリズム](docs/data-structures-and-algorithms.md)
     4.  [型クラス](docs/type-class-and-abstraction.md)
-    5.  [Functor, Applicative, Monad!](docs/category-theory.md)
+    5.  [Functor, Applicative, Monad!](docs/functor-applicative-monad.md)
     6.  [パーサー](docs/parser.md)
     7.  [モナド交換子](docs/monad-transformers.md)
     8.  [継続](docs/continuation.md)
@@ -32,7 +32,6 @@
     5. [IoT/Mobile](docs/mobile.md)
     6. [ファイナンス](docs/finance.md)
     7. [機械学習](https://github.com/lotz84/machine-learning)
-3. [目的別ライブラリ一覧](docs/libraries.md)
 
 
 ##Related works
