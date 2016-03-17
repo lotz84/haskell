@@ -36,6 +36,7 @@
 * [The imap package](https://hackage.haskell.org/package/imap)
 * [soundcloud/haskell-kubernetes](https://github.com/soundcloud/haskell-kubernetes)
 * [chrisdone/haskellnews](https://github.com/chrisdone/haskellnews)
+* [Tor in Haskell & Other Unikernel Tricks](http://www.infoq.com/presentations/tor-haskell)
 
 ##Socket
 * [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)
