@@ -2,6 +2,7 @@
 
 * [Hoogle](https://www.haskell.org/hoogle/) - [README](https://github.com/ndmitchell/hoogle/blob/master/README.md)
   * [Easy Hoogle usage from bash](http://przybyszd.blogspot.jp/2016/01/easy-hoogle-usage-from-bash.html)
+  * [Hoogle検索をラクにするChrome拡張を作りました！](http://yu-i9.hatenablog.com/entry/hoogleswitcher)
 * [Hayoo!](http://hayoo.fh-wedel.de/)
 * [Anatomy of a Haskell-based Application](http://abailly.github.io/posts/cm-arch-design.html)
 * [Equational reasoning](http://www.haskellforall.com/2013/12/equational-reasoning.html)
