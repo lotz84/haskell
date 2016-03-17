@@ -73,6 +73,7 @@
 * [Foldable Traversable In Prelude](https://wiki.haskell.org/Foldable_Traversable_In_Prelude)
 * [Foldable for non-Haskellers: Haskell's controversial FTP proposal](http://tojans.me/blog/2015/10/13/foldable-for-non-haskellers-haskells-controversial-ftp-proposal/)
 * [Using Stack with GHC 7.10.3](https://www.fpcomplete.com/blog/2015/12/stack-with-ghc-7-10-3)
+* [Why does multiplication only short circuit on one side](http://stackoverflow.com/questions/36049689/why-does-multiplication-only-short-circuit-on-one-side)
 
 ###8.0
 * [GHC plans for 8.0.1](https://ghc.haskell.org/trac/ghc/wiki/Status/GHC-8.0.1)
