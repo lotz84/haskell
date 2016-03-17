@@ -1,22 +1,3 @@
-* [Asset management in a real time 3D engine in Haskell](http://phaazon.blogspot.fr/2015/06/asset-management-in-real-time-3d-engine.html)
-* [badamson/2048.hs](https://github.com/badamson/2048.hs)
-* [elisehuard/game-in-haskell](https://github.com/elisehuard/game-in-haskell)
-* [Haskellプログラミング講座（上級編：ゲーム）](http://bitterharvest.hatenablog.com/entry/2014/10/22/064526)
-* [hauxir/haskell-tetris](https://github.com/hauxir/haskell-tetris)
-* [The vulkan package](http://hackage.haskell.org/package/vulkan)
-* [HOgg](http://www.kfish.org/software/hogg/)
-
-##GUI
-* [fltkhs](http://hackage.haskell.org/package/fltkhs)
-* [elm+electronで気楽に始めるFRP](http://qiita.com/yasuyuky/items/e28106e3dd7fed17d50f)
-* [Electron, React, and Haskell—Oh My! by Mike Craig](https://speakerdeck.com/mkscrg/electron-react-and-haskell-oh-my)
-* [connors/photon](https://github.com/connors/photon)
-* [Haskell-native spreadsheets](http://www.haskellforall.com/2015/11/haskell-native-spreadsheets.html)
-* [The Haskell Spreadsheet](https://docs.google.com/presentation/d/1lh9_QlLKtW4L5WsFkgRggyIFORXAkTUu6Y470VkM4uI/edit#slide=id.p)
-* [haskell-pkg-janitors/X11](https://github.com/haskell-pkg-janitors/X11)
-* [Nikita Churaev/dialog](https://gitlab.com/lamefun/dialog)
-* [FLTKHS - Easy Native GUIs in Haskell, Today!](https://github.com/deech/fltkhs-compose-conference-2016-talk/blob/master/Talk.pdf)
-* [HsQML 0.3.4.0 released: Belated Automatic List Models](http://blog.gekkou.co.uk/2016/02/hsqml-0340-released.html)
 
 ##数値計算・可視化
 * [linear](http://hackage.haskell.org/package/linear)
@@ -50,6 +31,28 @@
 * [Haskell でサムネイル生成](http://qiita.com/satosystems/items/abdb9696185f647b65a2)
 * [Haskell でサムネイル #2](http://qiita.com/satosystems/items/669a8b3fdfa535582cb4)
 * [Blackstar  |  Raytracing black holes with Haskell](https://flannelhead.github.io/projects/blackstar.html)
+
+##GUI
+* [fltkhs](http://hackage.haskell.org/package/fltkhs)
+* [elm+electronで気楽に始めるFRP](http://qiita.com/yasuyuky/items/e28106e3dd7fed17d50f)
+* [Electron, React, and Haskell—Oh My! by Mike Craig](https://speakerdeck.com/mkscrg/electron-react-and-haskell-oh-my)
+* [connors/photon](https://github.com/connors/photon)
+* [Haskell-native spreadsheets](http://www.haskellforall.com/2015/11/haskell-native-spreadsheets.html)
+* [The Haskell Spreadsheet](https://docs.google.com/presentation/d/1lh9_QlLKtW4L5WsFkgRggyIFORXAkTUu6Y470VkM4uI/edit#slide=id.p)
+* [haskell-pkg-janitors/X11](https://github.com/haskell-pkg-janitors/X11)
+* [Nikita Churaev/dialog](https://gitlab.com/lamefun/dialog)
+* [FLTKHS - Easy Native GUIs in Haskell, Today!](https://github.com/deech/fltkhs-compose-conference-2016-talk/blob/master/Talk.pdf)
+* [HsQML 0.3.4.0 released: Belated Automatic List Models](http://blog.gekkou.co.uk/2016/02/hsqml-0340-released.html)
+
+##Game
+* [Asset management in a real time 3D engine in Haskell](http://phaazon.blogspot.fr/2015/06/asset-management-in-real-time-3d-engine.html)
+* [badamson/2048.hs](https://github.com/badamson/2048.hs)
+* [elisehuard/game-in-haskell](https://github.com/elisehuard/game-in-haskell)
+* [Haskellプログラミング講座（上級編：ゲーム）](http://bitterharvest.hatenablog.com/entry/2014/10/22/064526)
+* [hauxir/haskell-tetris](https://github.com/hauxir/haskell-tetris)
+* [The vulkan package](http://hackage.haskell.org/package/vulkan)
+* [HOgg](http://www.kfish.org/software/hogg/)
+* [Creating board games in Haskell in 100 lines of code](http://keera.co.uk/blog/2013/03/19/creating-board-games-in-haskell/)
 
 ##Gloss
 * [gloss](http://hackage.haskell.org/package/gloss)
