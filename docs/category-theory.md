@@ -16,6 +16,7 @@ class Functor f where
 * [Loop School - Natural Transformations](http://school.looprecur.com/?video=122707678)
 * [ファンクタであそぼう](http://kinokkory.hatenablog.com/entry/20131203/p1)
 * [Monads and more](http://www.scs.stanford.edu/14sp-cs240h/slides/functors-monads-slides.html)
+* [なぜ初心者にHaskellのファンクターは怖いと言われるのか(翻訳)](http://techno-tanoc.hatenablog.com/entry/2016/03/17/212032)
 
 ###Bifunctor
 * [bifunctor](https://hackage.haskell.org/package/bifunctors)
