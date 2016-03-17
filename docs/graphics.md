@@ -7,6 +7,7 @@
 * [ad](https://hackage.haskell.org/package/ad)
   * <https://twitter.com/GabrielG439/status/647601518871359489>
   * [Beautiful differentiation](http://conal.net/blog/posts/beautiful-differentiation)
+* [Resources/dx.hs](https://github.com/SamuelSchlesinger/Resources/blob/master/dx.hs)
 * [scientific](https://hackage.haskell.org/package/scientific)
 * [timbod7/haskell-chart](https://github.com/timbod7/haskell-chart)
 * [diagrams](http://projects.haskell.org/diagrams/)
