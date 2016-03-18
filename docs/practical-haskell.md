@@ -16,6 +16,7 @@
 * [How to contribute to the Haskell ecosystem](http://www.haskellforall.com/2015/12/how-to-contribute-to-haskell-ecosystem.html)
 * [sol/hpack](https://github.com/sol/hpack)
 * [Secure Password Storage in Go, Python, Ruby, Java, Haskell, and NodeJS](https://www.praetorian.com/blog/secure-password-storage-in-go-python-ruby-java-haskell-and-nodejs)
+* [Tarrasch/antigen-hs](https://github.com/Tarrasch/antigen-hs)
 
 ##Cabal
 * [Hackage](http://hackage.haskell.org/)
