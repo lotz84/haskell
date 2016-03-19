@@ -102,7 +102,6 @@ class Monad m where
 * [Three Useful Monads](http://adit.io/posts/2013-06-10-three-useful-monads.html)
 * [Comprehending Monad](http://www.diku.dk/hjemmesider/ansatte/henglein/papers/wadler1992.pdf)
 * [Value recursion in monadic computations](http://digitalcommons.ohsu.edu/cgi/viewcontent.cgi?article=1163&context=etd)
-* [モナドへの近道・Haskell からの寄道](http://kurt.scitec.kobe-u.ac.jp/~shg/SFCArchives/docs/shortcut_monad.pdf)
 * [Monads from Comonads, Comonads from Monads](http://www.cs.ox.ac.uk/ralf.hinze/WG2.8/28/slides/Comonad.pdf)
 * [Codensity Monad](http://myuon-myon.hatenablog.com/entry/2014/11/03/183032)
 * [Constrained monads](https://jeltsch.wordpress.com/2015/09/03/constrained-monads/)
