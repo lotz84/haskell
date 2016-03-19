@@ -68,6 +68,7 @@
 * [acowley/Frames](https://github.com/acowley/Frames)
 * [bollu/cellularAutomata](https://github.com/bollu/cellularAutomata)
 * [Realtime collaborative editor. Algebraic properties of the problem.](http://blog.haskell-exists.com/yuras/posts/realtime-collaborative-editor.html)
+* [パズル「カードの三角形」を内包表記で解く](http://bitterharvest.hatenablog.com/entry/2014/12/01/084440)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
