@@ -1,4 +1,3 @@
-
 ##数値計算・可視化
 * [linear](http://hackage.haskell.org/package/linear)
 * [repa](https://hackage.haskell.org/package/repa)
@@ -74,6 +73,7 @@
 
 * [OpenGL Tutorial 1](https://wiki.haskell.org/OpenGLTutorial1)
 * [OpenGL Tutorial 2](https://wiki.haskell.org/OpenGLTutorial2)
+* [プログラミング / Haskell / GLUT](http://www.f13g.com/%a5%d7%a5%ed%a5%b0%a5%e9%a5%df%a5%f3%a5%b0/Haskell/GLUT/)
 * [Modern OpenGL with Haskell](http://www.arcadianvisions.com/blog/?p=224)
 * [jaredloomis/Haskell-GLSL-eDSL](https://github.com/jaredloomis/Haskell-GLSL-eDSL)
 * [[Haskell]でシューティングを読む(1)](http://d.hatena.ne.jp/h_sakurai/20050727)
