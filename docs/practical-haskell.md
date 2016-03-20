@@ -167,3 +167,4 @@
 * [justinethier/husk-scheme](https://github.com/justinethier/husk-scheme)
 * [wireapp/cryptobox-haskell](https://github.com/wireapp/cryptobox-haskell)
 * [Controlling Fusion In Haskell](http://jyp.github.io/posts/controlled-fusion.html)
+* [すごい Frege たのしく学ぼう！](http://www.slideshare.net/y_taka_23/frege)
