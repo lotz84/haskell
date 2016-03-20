@@ -25,6 +25,7 @@ $ alias ghci='stack ghci'
   * [初級](http://qiita.com/arowM/items/9ebfb7cafecd99290663)
   * [初級その2](http://qiita.com/arowM/items/33245802f9305a73082e)
 * [Haskell 超入門](http://qiita.com/7shi/items/145f1234f8ec2af923ef)
+* [Learn You a Haskell for Great Good! 日本語版](https://moutend.github.io/jlyhgg/)
 * [参照透過性とは何だったのか](http://www.slideshare.net/RuiccRail/haskell-day2012)
 * [Rubyistに贈るHaskell入門](http://qiita.com/techno-tanoC/items/1549d0efc044faf16c36)
 * [お気楽 Haskell プログラミング入門](http://www.geocities.jp/m_hiroi/func/haskell.html)
