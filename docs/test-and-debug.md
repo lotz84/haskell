@@ -26,6 +26,7 @@
 * [Using doctest-discover with Stack](http://blog.rcook.org/blog/2016/doctest-discover-stack/)
 * [Tests vs. Types](http://kevinmahoney.co.uk/articles/tests-vs-types/)
 * [Testing GHC with Stackage](https://www.fpcomplete.com/blog/2016/02/testing-ghc-with-stackage)
+* [Go言語でファジング](http://deeeet.com/writing/2015/12/21/go-fuzz/)
 
 ###QuickCheck
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
