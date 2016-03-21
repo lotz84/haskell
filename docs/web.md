@@ -320,6 +320,7 @@ $ heroku config:set HALCYON_NO_BUILD_DEPENDENCIES=0
 * [Creating sqlite tables with Groundhog's default settings](http://begriffs.com/posts/2013-08-31-creating-sqlite-tables-with-groundhogs.html)
 * [PostgREST Workshop](http://begriffs.com/posts/2015-10-02-postgrest-workshop.html)
 * [Declaring RESTful APIs with PostgREST](http://begriffs.com/posts/2014-12-30-intro-to-postgrest.html)
+* [A Tour of PostgREST](http://begriffs.com/posts/2016-03-20-postgrest-tour.html)
 
 ###Simples
 * [The mysql-simple package](https://hackage.haskell.org/package/mysql-simple)
