@@ -70,6 +70,7 @@ Passed:
 * [JohnReedLOL/HaskellPrintDebugger](https://github.com/JohnReedLOL/HaskellPrintDebugger)
 
 ##例外処理
+* [エラー処理を書いてはいけない](http://tanakh.jp/pub/pfi-seminar-2011-12-08.html)
 * <https://twitter.com/GabrielG439/status/656202814121574400>
 * [Haskell での例外処理](http://d.hatena.ne.jp/kazu-yamamoto/20120604/1338802792)
 * [Haskellでの例外処理(その2)](http://d.hatena.ne.jp/kazu-yamamoto/20120605/1338871044)
