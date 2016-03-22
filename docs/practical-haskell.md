@@ -94,6 +94,7 @@
 * [snowleopard/shaking-up-ghc](https://github.com/snowleopard/shaking-up-ghc)
 * [Updated Haskell Travis config](https://www.fpcomplete.com/blog/2016/02/updated-haskell-travis-config)
 * [Circle CI configuration with yesod (haskell) backend and javascript frontend](http://swistak35.com/2016/03/07/Circle-ci-configuration-with-yesod-haskell-and-javascript-frontend/)
+* [guillaume-nargeot/hpc-coveralls](https://github.com/guillaume-nargeot/hpc-coveralls)
 
 ##CLI
 * [zalora/getopt-generics](https://github.com/zalora/getopt-generics)
@@ -128,6 +129,7 @@
 * [vimus/vimus](https://github.com/vimus/vimus)
 * [Auto-generate a command line interface from a data type](http://www.haskellforall.com/2016/02/auto-generate-command-line-interface.html)
 * [hopper-lang/hopper](https://github.com/hopper-lang/hopper)
+* [Gabriel439/bench](https://github.com/Gabriel439/bench)
 
 ##FFI
 * [inline-c](https://hackage.haskell.org/package/inline-c)
