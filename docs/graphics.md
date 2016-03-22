@@ -53,6 +53,7 @@
 * [The vulkan package](http://hackage.haskell.org/package/vulkan)
 * [HOgg](http://www.kfish.org/software/hogg/)
 * [Creating board games in Haskell in 100 lines of code](http://keera.co.uk/blog/2013/03/19/creating-board-games-in-haskell/)
+* [LambdaHack/LambdaHack](https://github.com/LambdaHack/LambdaHack)
 
 ##Gloss
 * [gloss](http://hackage.haskell.org/package/gloss)
