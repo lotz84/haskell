@@ -159,6 +159,7 @@ p = Circle {center = (1.0, 2.0), radius = 3.0}
 
 ##動的型付けのエミュレート
 * [Data.Dynamic](https://hackage.haskell.org/package/base/docs/Data-Dynamic.html)
+* [Dynamic Typing in GHC](https://www.youtube.com/watch?v=asdABzBUoGM)
 
 ```haskell
 import Data.Dynamic
