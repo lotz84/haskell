@@ -51,6 +51,7 @@ instance Show Bool where
 * [Edward Kmett - Undecidable Superclasses](https://www.youtube.com/watch?v=ZL9ehIJhk98)
 * [Haskell's Type Classes: We Can Do Better](http://degoes.net/articles/principled-typeclasses)
 * [Haskellで関数のオーバーロード](http://qiita.com/7shi/items/17a1567a635af17fc83f)
+* [Why I prefer typeclass-based libraries](http://www.yesodweb.com/blog/2016/03/why-i-prefer-typeclass-based-libraries)
 
 ##Monoid
 * [Haskell Monoids and their Uses](http://blog.sigfpe.com/2009/01/haskell-monoids-and-their-uses.html)
