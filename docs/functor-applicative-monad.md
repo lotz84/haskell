@@ -128,6 +128,7 @@ class Monad m where
 * [3 Approaches to Monadic API Design in Haskell](https://blog.pusher.com/3-approaches-to-monadic-api-design-in-haskell/)
 * [モナドはポケモン。数学が出てこないモナド入門](http://qiita.com/hiruberuto/items/8bbc0343bf794c368287)
 * [What a Monad is not](https://wiki.haskell.org/What_a_Monad_is_not)
+* [モナドはなぜHaskellでしか積極的に使われていないのか?](http://uehaj.hatenablog.com/entry/2013/11/06/125250)
 
 ```haskell
 do x <- mx
