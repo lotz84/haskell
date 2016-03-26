@@ -69,6 +69,7 @@
 * [bollu/cellularAutomata](https://github.com/bollu/cellularAutomata)
 * [Realtime collaborative editor. Algebraic properties of the problem.](http://blog.haskell-exists.com/yuras/posts/realtime-collaborative-editor.html)
 * [パズル「カードの三角形」を内包表記で解く](http://bitterharvest.hatenablog.com/entry/2014/12/01/084440)
+* [Haskellの乱数事情](http://qiita.com/philopon/items/8f647fc8dafe66b7381b)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
