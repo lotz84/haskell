@@ -62,6 +62,7 @@ $ alias ghci='stack ghci'
 * [99 Haskell](http://www.99haskell.org/)
 * [HaskVan/HaskellKoans](https://github.com/HaskVan/HaskellKoans)
 * [Haskell is easy](http://haskelliseasy.readthedocs.org/en/latest/)
+* [#198: Haskell Programming with Chris Allen and Julie Moronuki](https://changelog.com/198/)
 
 ##チートシート
 * [What I Wish I Knew When Learning Haskell](http://www.stephendiehl.com/what/) [[ja](https://github.com/Kinokkory/wiwinwlh-jp/wiki)]
