@@ -73,6 +73,7 @@
 * [Docker container with ip address on local network](http://therning.org/magnus/posts/2015-10-22-000-docker-container-with-ip-address-on-local-network.html)
 * [The split-image approach to building minimal runtime Docker images](https://www.fpcomplete.com/blog/2015/12/docker-split-images)
 * [Dev and Deploy Haskell on Docker](http://begriffs.com/posts/2015-08-11-dev-deploy-haskell-docker.html)
+* [denibertovic/docker-hs](https://github.com/denibertovic/docker-hs)
 
 ##CI
 * [Shake](http://shakebuild.com/)
