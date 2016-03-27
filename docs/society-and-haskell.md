@@ -1,3 +1,5 @@
+* [Sharing Haskell Builds Across a Team](http://begriffs.com/posts/2016-03-26-consistent-haskell-builds.html)
+
 ##コミュニティ
 * [New York Haskell Users Group](http://www.meetup.com/NY-Haskell/)
 * [Google+](https://plus.google.com/communities/104818126031270146189)
