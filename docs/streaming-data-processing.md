@@ -45,6 +45,7 @@ main = do
 * <https://twitter.com/argumatronic/status/626168311957434368>
 * [The pipes-safe package](https://hackage.haskell.org/package/pipes-safe)
 * [The pipes-concurrency package](https://hackage.haskell.org/package/pipes-concurrency)
+* [Shortcut fusion for pipes](http://www.haskellforall.com/2014/01/stream-fusion-for-pipes.html)
 
 ###Conduit
 * <https://hackage.haskell.org/package/conduit>
