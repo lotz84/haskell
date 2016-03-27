@@ -170,3 +170,4 @@
 * [wireapp/cryptobox-haskell](https://github.com/wireapp/cryptobox-haskell)
 * [Controlling Fusion In Haskell](http://jyp.github.io/posts/controlled-fusion.html)
 * [すごい Frege たのしく学ぼう！](http://www.slideshare.net/y_taka_23/frege)
+* [Frege Goodness (日本語版)](https://www.gitbook.com/book/y-taka-23/frege-goodness-jp/details)
