@@ -70,6 +70,7 @@
 * [Realtime collaborative editor. Algebraic properties of the problem.](http://blog.haskell-exists.com/yuras/posts/realtime-collaborative-editor.html)
 * [パズル「カードの三角形」を内包表記で解く](http://bitterharvest.hatenablog.com/entry/2014/12/01/084440)
 * [Haskellの乱数事情](http://qiita.com/philopon/items/8f647fc8dafe66b7381b)
+* [Typeable and Data in Haskell](http://chrisdone.com/posts/data-typeable)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
@@ -115,6 +116,7 @@
 ###Time
 * [A Haskell Time Library Tutorial](http://two-wrongs.com/haskell-time-library-tutorial)
 * [The unix-time package](https://hackage.haskell.org/package/unix-time)
+* [Haskellで処理時間を測るために、](https://plus.google.com/+MasahiroSakai/posts/AY7uqu6S9X7)
 
 ###FFT
 * [Simple FFT in Haskell](https://ro-che.info/articles/2015-12-04-fft)
