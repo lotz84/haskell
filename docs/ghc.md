@@ -49,6 +49,7 @@
 * [Cost of Proxy](https://www.reddit.com/r/haskell/comments/47uquu/cost_of_proxy/)
 * [Turn GHC into a frontend for miniSTG](http://blog.haskell-exists.com/yuras/posts/turn-ghc-into-frontend-for-ministg.html)
 * [mvdan/hint](https://github.com/mvdan/hint)
+* [How to reduce compilation times of Haskell projects](http://rybczak.net/2016/03/26/how-to-reduce-compilation-times-of-haskell-projects/)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
