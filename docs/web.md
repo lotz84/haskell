@@ -324,6 +324,7 @@ $ heroku config:set HALCYON_NO_BUILD_DEPENDENCIES=0
 * [PostgREST Workshop](http://begriffs.com/posts/2015-10-02-postgrest-workshop.html)
 * [Declaring RESTful APIs with PostgREST](http://begriffs.com/posts/2014-12-30-intro-to-postgrest.html)
 * [A Tour of PostgREST](http://begriffs.com/posts/2016-03-20-postgrest-tour.html)
+* [Haskellからmysqlを実行する](http://tsubaki.hatenablog.com/entry/20121020/1350734844)
 
 ###Simples
 * [The mysql-simple package](https://hackage.haskell.org/package/mysql-simple)
