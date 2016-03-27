@@ -58,6 +58,7 @@ evenElements xs = filter even xs
 * [Examining Hackage: folds](http://jozefg.bitbucket.org/posts/2014-12-27-folds.html)
 * [A tutorial on the universality and expressiveness of fold](http://www.cs.nott.ac.uk/~gmh/fold.pdf)
 * [foldlをfoldrで実装する](http://qiita.com/arowM/items/91a9bd8ea83168d412ab)
+* [The Magic of Folds](http://www.parsonsmatt.org/2016/03/24/the_magic_of_folds.html)
 
 ##リスト
 * [(cons cat (cons cat nil))](https://twitter.com/lvsn/status/533685461957349376)
