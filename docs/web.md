@@ -236,6 +236,10 @@ indexHtml = do
 * [The Architecture of Open Source Applications - Yesod](http://www.aosabook.org/en/yesod.html)
 * [Adding Redis to Yesod](http://maxgabriel.github.io/redis-yesod/)
 
+##認証/認可
+* [hoauth2](http://hackage.haskell.org/package/hoauth2)
+* [tekul/broch](https://github.com/tekul/broch)
+
 ##Heroku
 * [Deploying Haskell to Heroku using Docker](http://www.reddit.com/r/haskell/comments/35he88/deploying_haskell_to_heroku_using_docker/)
 * [Herokuで、Gititを起動する](http://qiita.com/rouge_pawn/items/4a5d5ee68590a002ce8d)
@@ -271,8 +275,6 @@ $ heroku config:set HALCYON_NO_BUILD_DEPENDENCIES=0
   * [http-conduit](http://hackage.haskell.org/package/http-conduit)
   * [pipes-http](https://hackage.haskell.org/package/pipes-http)
   * [http-streams](https://hackage.haskell.org/package/http-streams)
-* **OAuth**
-  * [hoauth2](http://hackage.haskell.org/package/hoauth2)
 * **Twitter**
   * [twitter-conduit](http://hackage.haskell.org/package/twitter-conduit)
 * **Facebook**
