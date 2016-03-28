@@ -131,6 +131,7 @@
 * [Auto-generate a command line interface from a data type](http://www.haskellforall.com/2016/02/auto-generate-command-line-interface.html)
 * [hopper-lang/hopper](https://github.com/hopper-lang/hopper)
 * [Gabriel439/bench](https://github.com/Gabriel439/bench)
+* [Haskell でシグナルで中断された時にクリーンナップ処理をしてから終了する](http://qiita.com/shuhei/items/d0113e5c2ae592f1181e)
 
 ##FFI
 * [inline-c](https://hackage.haskell.org/package/inline-c)
