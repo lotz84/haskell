@@ -298,6 +298,7 @@ Reader + Writer + State
 * [Category Theory for Scientists (Old Version)](http://ocw.mit.edu/courses/mathematics/18-s996-category-theory-for-scientists-spring-2013/textbook/MIT18_S996S13_textbook.pdf)
 * [How to Bake 'How to Bake Pi': Reflections on Making Abstract Math Palatable](https://www.youtube.com/watch?v=h2p68JjSUH0)
 * [String diagram による圏論まとめ](http://mbps.hatenablog.com/entry/2016/03/26/020000)
+* [ekmett/categories](https://github.com/ekmett/categories)
 
 ###CPL
 * [圏論プログラミング言語 CPL](http://mandel59.hateblo.jp/entry/2015/02/02/110621)
