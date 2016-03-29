@@ -132,6 +132,7 @@
 * [hopper-lang/hopper](https://github.com/hopper-lang/hopper)
 * [Gabriel439/bench](https://github.com/Gabriel439/bench)
 * [Haskell でシグナルで中断された時にクリーンナップ処理をしてから終了する](http://qiita.com/shuhei/items/d0113e5c2ae592f1181e)
+* [bitc/lushtags](https://github.com/bitc/lushtags)
 
 ##FFI
 * [inline-c](https://hackage.haskell.org/package/inline-c)
@@ -173,3 +174,4 @@
 * [Controlling Fusion In Haskell](http://jyp.github.io/posts/controlled-fusion.html)
 * [すごい Frege たのしく学ぼう！](http://www.slideshare.net/y_taka_23/frege)
 * [Frege Goodness (日本語版)](https://www.gitbook.com/book/y-taka-23/frege-goodness-jp/details)
+* [Composing (Music) in Haskell - Stuart Popejoy](https://www.youtube.com/watch?v=Jmw6LLNQQfs)
