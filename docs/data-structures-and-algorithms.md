@@ -71,6 +71,8 @@
 * [パズル「カードの三角形」を内包表記で解く](http://bitterharvest.hatenablog.com/entry/2014/12/01/084440)
 * [Haskellの乱数事情](http://qiita.com/philopon/items/8f647fc8dafe66b7381b)
 * [Typeable and Data in Haskell](http://chrisdone.com/posts/data-typeable)
+* [Löb and möb: strange loops in Haskell](https://github.com/quchen/articles/blob/master/loeb-moeb.md)
+* [Löb with error handling](https://gist.github.com/PkmX/182c6c5444b695d9a794)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
