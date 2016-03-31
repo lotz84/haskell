@@ -55,6 +55,7 @@
 * [HOgg](http://www.kfish.org/software/hogg/)
 * [Creating board games in Haskell in 100 lines of code](http://keera.co.uk/blog/2013/03/19/creating-board-games-in-haskell/)
 * [LambdaHack/LambdaHack](https://github.com/LambdaHack/LambdaHack)
+* physics engine and other tools for 2D shapes - [ublubu/shapes](https://github.com/ublubu/shapes)
 
 ##Gloss
 * [gloss](http://hackage.haskell.org/package/gloss)
