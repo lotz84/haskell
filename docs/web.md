@@ -235,6 +235,7 @@ indexHtml = do
 * [Some extra safety with Yesod routing](http://begriffs.com/posts/2013-08-26-some-extra-safety-with-yesod-routing.html)
 * [The Architecture of Open Source Applications - Yesod](http://www.aosabook.org/en/yesod.html)
 * [Adding Redis to Yesod](http://maxgabriel.github.io/redis-yesod/)
+* [Yesodでセッション情報をDBに格納するようにする](http://qiita.com/jabaraster/items/758b190457f408075fc4)
 
 ##認証/認可
 * [hoauth2](http://hackage.haskell.org/package/hoauth2)
