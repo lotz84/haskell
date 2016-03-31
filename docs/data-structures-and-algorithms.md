@@ -73,6 +73,7 @@
 * [Typeable and Data in Haskell](http://chrisdone.com/posts/data-typeable)
 * [Löb and möb: strange loops in Haskell](https://github.com/quchen/articles/blob/master/loeb-moeb.md)
 * [Löb with error handling](https://gist.github.com/PkmX/182c6c5444b695d9a794)
+* [ekmett/ersatz](https://github.com/ekmett/ersatz)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
