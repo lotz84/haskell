@@ -27,6 +27,7 @@
 * [Tests vs. Types](http://kevinmahoney.co.uk/articles/tests-vs-types/)
 * [Testing GHC with Stackage](https://www.fpcomplete.com/blog/2016/02/testing-ghc-with-stackage)
 * [Go言語でファジング](http://deeeet.com/writing/2015/12/21/go-fuzz/)
+* [Speeding up the automated building and testing of our Haskell projects](http://bitemyapp.com/posts/2016-03-28-speeding-up-builds.html)
 
 ###QuickCheck
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
