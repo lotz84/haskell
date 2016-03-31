@@ -2,6 +2,7 @@
 * [Jurriaan Hage - Making Embedded Domain Specific Languages a Practical Reality](https://www.youtube.com/watch?v=bPrM1gONdII)
 * [UoY CS - Folding Domain-Specific Languages - Prof. Jeremy Gibbons](https://www.youtube.com/watch?v=crMTryrqkog)
 * [Writing a Search DSL, Part 1](https://blog.cppcabrera.com/posts/56-writing-a-search-dsl-1.html)
+* [Haskell, Startups, and Domain Specific Languages](https://www.youtube.com/watch?v=R4nLSxCKkNw)
 
 ##Free Monad
 * [The free package](http://hackage.haskell.org/package/free)
