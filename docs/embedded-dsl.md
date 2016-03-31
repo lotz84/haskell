@@ -3,6 +3,7 @@
 * [UoY CS - Folding Domain-Specific Languages - Prof. Jeremy Gibbons](https://www.youtube.com/watch?v=crMTryrqkog)
 * [Writing a Search DSL, Part 1](https://blog.cppcabrera.com/posts/56-writing-a-search-dsl-1.html)
 * [Haskell, Startups, and Domain Specific Languages](https://www.youtube.com/watch?v=R4nLSxCKkNw)
+* [Compilation as a Typed EDSL-to-EDSL Transformation](http://fun-discoveries.blogspot.jp/2016/03/compilation-as-typed-edsl-to-edsl.html)
 
 ##Free Monad
 * [The free package](http://hackage.haskell.org/package/free)
