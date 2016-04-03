@@ -25,6 +25,7 @@ main = print $ sum [1..10]
 * [Spirals, Snowflakes & Trees: Recursion in Pictures](http://learn.hfm.io/fractals.html)
 * [Haskell Basics: How to Loop](http://andyfriesen.com/2015/12/18/haskell-basics-how-to-loop.html)
 * [Haskell Diary - #1 Recursion](http://akashagrawal.me/haskell-diary-1-recursion/)
+* [Some simple derivations of recursive functions](http://myhaskelljournal.com/some-simple-derivations-of-recursive-functions/)
 
 ##map, filter, foldr
 
