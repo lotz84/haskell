@@ -15,7 +15,7 @@ sum :: [Int] -> Int
 sum []     = 0
 sum (x:xs) = x + sum xs
 
-main = print $ sum [1..10]
+main = print (sum [1..10])
 ```
 
 再帰を使って書くことになる
