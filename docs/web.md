@@ -71,7 +71,7 @@
 * [Writing a React JS front-end in Haskell](http://begriffs.com/posts/2015-01-12-reactjs-in-haskell.html)
 * [Functional Front-End Coding](http://begriffs.com/posts/2015-11-30-functional-front-end-coding.html)
 
-###Pure Script
+###PureScript
 * <http://www.purescript.org/>
 * [andyarvanitis/pure11](https://github.com/andyarvanitis/pure11)
 * [Stack Safety for Free](http://functorial.com/stack-safety-for-free/index.pdf)
@@ -82,6 +82,7 @@
 * [Pursuit](http://pursuit.purescript.org/)
 * [PureScript for the Haskeller](http://www.arow.info/blog/posts/2015-12-17-purescript-intro.html)
 * [kRITZCREEK/psc-ide](https://github.com/kRITZCREEK/psc-ide)
+* [Type-safe client-server communication with PureScript](http://frigoeu.github.io/phantomtypes.html)
 
 ##HTML Template/DSL
 * [shakespeare](https://hackage.haskell.org/package/shakespeare)
@@ -133,6 +134,7 @@ indexHtml = do
 * [Jekyll Style URLs with Hakyll](http://aherrmann.github.io/programming/2016/01/31/jekyll-style-urls-with-hakyll/)
 * [Serving a Hakyll site with Warp/Wai](https://chromabits.com/posts/2016/02/15/serving-hakyll-site-with-warp/)
 * [Hakyll で日本語文中の余分な空白を削除する](http://qiita.com/pecorarista/items/2abad96e21857d43a04c)
+* [Blog Rewrite with Hakyll and Purescript](https://blog.jle.im/entry/blog-rewrite-with-hakyll-and-purescript.html)
 
 ##Web Socket
 * [Haskell から見た node.js](http://d.hatena.ne.jp/kazu-yamamoto/20110825/1314254885)
