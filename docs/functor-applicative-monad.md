@@ -129,6 +129,7 @@ class Monad m where
 * [モナドはポケモン。数学が出てこないモナド入門](http://qiita.com/hiruberuto/items/8bbc0343bf794c368287)
 * [What a Monad is not](https://wiki.haskell.org/What_a_Monad_is_not)
 * [モナドはなぜHaskellでしか積極的に使われていないのか?](http://uehaj.hatenablog.com/entry/2013/11/06/125250)
+* [Fixing the Monad instance for Either](http://www.yesodweb.com/blog/2016/04/fixing-monad-either)
 
 ```haskell
 do x <- mx
