@@ -74,6 +74,7 @@
 * [Löb and möb: strange loops in Haskell](https://github.com/quchen/articles/blob/master/loeb-moeb.md)
 * [Löb with error handling](https://gist.github.com/PkmX/182c6c5444b695d9a794)
 * [ekmett/ersatz](https://github.com/ekmett/ersatz)
+* [Descending sort in Haskell](https://ro-che.info/articles/2016-04-02-descending-sort-haskell)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
