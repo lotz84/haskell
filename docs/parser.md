@@ -8,6 +8,7 @@
 * [Tries and elegant Scope Checking](http://jaspervdj.be/posts/2015-10-30-tries-scope-checking.html)
 * [24 days of Hackage, 2015: day 13: hint: runtime eval for Haskell](http://conscientiousprogrammer.com/blog/2015/12/13/24-days-of-hackage-2015-day-13-hint-runtime-eval-for-haskell/)
 * [24 days of Hackage, 2015: day 14: Earley: a promising newer parser library for Haskell](http://conscientiousprogrammer.com/blog/2015/12/14/24-days-of-hackage-2015-day-14-earley-a-promising-newer-parser-library-for-haskell/)
+* [Yuras/scanner](https://github.com/Yuras/scanner)
 
 ##正規表現
 * [24 days of Hackage, 2015: day 2: Regexes with pcre-heavy; standalone Haskell scripts using Stack](http://conscientiousprogrammer.com/blog/2015/12/02/24-days-of-hackage-2015-day-2-regexes-with-pcre-heavy-standalone-haskell-scripts-using-stack/)
@@ -73,6 +74,7 @@ parse = evalStateT
 
 ###YAML
 * [yamadapc/haskell-frontmatter](https://github.com/yamadapc/haskell-frontmatter)
+* [YAML + Aeson Lenses](http://mojobojo.com/posts/2016-03-31-yaml-aeson-lenses.html)
 
 ###JSON
 * [aeson](http://hackage.haskell.org/package/aeson)
