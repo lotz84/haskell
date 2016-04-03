@@ -134,6 +134,7 @@
 * [Haskell でシグナルで中断された時にクリーンナップ処理をしてから終了する](http://qiita.com/shuhei/items/d0113e5c2ae592f1181e)
 * [bitc/lushtags](https://github.com/bitc/lushtags)
 * [kinoru/chips](https://github.com/kinoru/chips)
+* [nomeata/gipeda](https://github.com/nomeata/gipeda)
 
 ##FFI
 * [inline-c](https://hackage.haskell.org/package/inline-c)
