@@ -51,6 +51,7 @@
 * [mvdan/hint](https://github.com/mvdan/hint)
 * [How to reduce compilation times of Haskell projects](http://rybczak.net/2016/03/26/how-to-reduce-compilation-times-of-haskell-projects/)
 * [2016 - Jasper Van der Jeugt - Haskell: mistakes I made (and how to fix them)](https://www.youtube.com/watch?v=S3WGPuqfBLg)
+* [GHC on m68k](https://trofi.github.io/posts/191-ghc-on-m68k.html)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
