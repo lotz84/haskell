@@ -133,6 +133,7 @@
 * [Gabriel439/bench](https://github.com/Gabriel439/bench)
 * [Haskell でシグナルで中断された時にクリーンナップ処理をしてから終了する](http://qiita.com/shuhei/items/d0113e5c2ae592f1181e)
 * [bitc/lushtags](https://github.com/bitc/lushtags)
+* [kinoru/chips](https://github.com/kinoru/chips)
 
 ##FFI
 * [inline-c](https://hackage.haskell.org/package/inline-c)
