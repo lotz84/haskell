@@ -151,6 +151,7 @@
 * [Using withPtr From inline-c in Haskell](http://two-wrongs.com/using-withptr-from-inline-c-in-haskell)
 * [calling Haskell from Swift / Linux](http://bitlife.me/archives/383)
 * [nh2/call-haskell-from-anything](https://github.com/nh2/call-haskell-from-anything)
+* [dg.](https://pyos.github.io/dg/)
 
 ----
 
