@@ -78,6 +78,7 @@ main = do
 * [Programming in the Age of Concurrency: Software Transactional Memory](http://channel9.msdn.com/Shows/Going+Deep/Programming-in-the-Age-of-Concurrency-Software-Transactional-Memory)
 * [joey/ blog/ entry/ STM Region contents](http://joeyh.name/blog/entry/STM_Region_contents/)
 * [An example of software transactional memory](http://begriffs.com/posts/2013-09-04-an-example-of-software-transactional.html)
+* [Software Transactional Memory](http://begriffs.com/posts/2016-04-02-software-transactional-memory.html)
 
 ##分散
 * [分散システム処理モデルに関する動向について（MapReduceからBorgまで）](http://techblog.yahoo.co.jp/architecture/2015_06_ditributed_system/)
