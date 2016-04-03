@@ -50,6 +50,7 @@
 * [Turn GHC into a frontend for miniSTG](http://blog.haskell-exists.com/yuras/posts/turn-ghc-into-frontend-for-ministg.html)
 * [mvdan/hint](https://github.com/mvdan/hint)
 * [How to reduce compilation times of Haskell projects](http://rybczak.net/2016/03/26/how-to-reduce-compilation-times-of-haskell-projects/)
+* [2016 - Jasper Van der Jeugt - Haskell: mistakes I made (and how to fix them)](https://www.youtube.com/watch?v=S3WGPuqfBLg)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
