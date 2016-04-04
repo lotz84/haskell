@@ -76,6 +76,9 @@ parse = evalStateT
 * [yamadapc/haskell-frontmatter](https://github.com/yamadapc/haskell-frontmatter)
 * [YAML + Aeson Lenses](http://mojobojo.com/posts/2016-03-31-yaml-aeson-lenses.html)
 
+###Markdown
+* [snoyberg/markdown](https://github.com/snoyberg/markdown)
+
 ###JSON
 * [aeson](http://hackage.haskell.org/package/aeson)
   * [Aeson: the tutorial](http://artyom.me/aeson)
