@@ -63,6 +63,7 @@
 * [Haskell & Nix](https://www.youtube.com/playlist?list=PLErve0z4I-unD_Kz9LuK7fm_0xaZPyKA4)
 * [Stack + Nix = portable reproducible builds](http://www.tweag.io/blog/stack-nix-portable-reproducible-builds)
 * [stackとNixを使って安定したビルド環境を作る](http://qiita.com/ilyaletre/items/5cf1e7807e0cdc3ef1cd)
+* [NixOS/cabal2nix](https://github.com/NixOS/cabal2nix)
 
 ##Docker
 * [Dockerfile Linter](http://hadolint.lukasmartinelli.ch/)
