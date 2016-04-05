@@ -29,6 +29,7 @@
 * [Go言語でファジング](http://deeeet.com/writing/2015/12/21/go-fuzz/)
 * [Speeding up the automated building and testing of our Haskell projects](http://bitemyapp.com/posts/2016-03-28-speeding-up-builds.html)
 * [Fuzz testing distributed systems with QuickCheck](https://blog.pusher.com/fuzz-testing-distributed-systems-with-quickcheck/)
+* [Property-based Testing with QuickCheck in Playgrounds](http://blog.haskellformac.com/blog/property-based-testing-with-quickcheck-in-playgrounds)
 
 ###QuickCheck
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
