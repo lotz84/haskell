@@ -57,6 +57,7 @@
 * [stackとghc-modを一緒に使う時の手順](http://qiita.com/siphilia_rn/items/bba4519710bb0513d6f9)
 * [reiddraper/ordeal](https://github.com/reiddraper/ordeal)
 * [Stack, the Haskell Build Tool](http://begriffs.com/posts/2015-06-22-haskell-stack-build-tool.html)
+* [Deploying Haskell for Mac projects on OS X and Linux](http://blog.haskellformac.com/blog/deploying-haskell-for-mac-projects-on-os-x-and-linux)
 
 ##Nix
 * [Nix ±Cabal](http://begriffs.com/posts/2015-08-07-nix-plus-minus-cabal.html)
