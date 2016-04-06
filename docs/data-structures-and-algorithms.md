@@ -75,6 +75,7 @@
 * [Löb with error handling](https://gist.github.com/PkmX/182c6c5444b695d9a794)
 * [ekmett/ersatz](https://github.com/ekmett/ersatz)
 * [Descending sort in Haskell](https://ro-che.info/articles/2016-04-02-descending-sort-haskell)
+* [rrnewton/haskell-lockfree](https://github.com/rrnewton/haskell-lockfree)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
