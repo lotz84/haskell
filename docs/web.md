@@ -39,6 +39,7 @@
 * [Tor in Haskell & Other Unikernel Tricks](http://www.infoq.com/presentations/tor-haskell)
 * [ptcpd](https://gitgud.io/hae/ptcpd)
 * [Representing an RPC API](http://petterbergman.se/api.html)
+* [cosbynator/haskakafka](https://github.com/cosbynator/haskakafka)
 
 ##Socket
 * [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)
