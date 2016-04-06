@@ -257,6 +257,7 @@ Reader + Writer + State
 * [Indexed Monadの世界](http://fumieval.hatenablog.com/entry/2013/05/04/144840)
 
 ##圏論
+* [圏論とHaskellは仲良し](https://www.youtube.com/watch?v=hbaNIIDPf24)
 * [圏論とは何か](https://infinitytopos.wordpress.com/2015/01/25/%E5%9C%8F%E8%AB%96%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B/)
 * [Category Theory, The essence of interface-based design - Erik Meijer](https://www.youtube.com/watch?v=JMP6gI5mLHc)
 * [Category theory for beginners](http://www.slideshare.net/kenbot/category-theory-for-beginners)
