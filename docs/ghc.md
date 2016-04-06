@@ -70,6 +70,7 @@
 * [にせ末尾再帰](http://d.hatena.ne.jp/kazu-yamamoto/20151208)
 * [24 days of Hackage, 2015: day 19: ghc-core-html, list-fusion-probe; checking GHC's fusion rewrite rules for erasing intermediate data from existence](http://conscientiousprogrammer.com/blog/2015/12/19/24-days-of-hackage-2015-day-19-ghc-core-html-list-fusion-probe-checking-ghcs-fusion-rewrite-rules-for-erasing-intermediate-data-from-existence/)
 * [GHC optimisations](https://wiki.haskell.org/GHC_optimisations)
+* [Desugaring Haskell’s do-notation Into Applicative Operations](http://research.microsoft.com/en-us/um/people/simonpj/papers/list-comp/applicativedo.pdf)
 
 ###7.10
 * [Functor-Applicative-Monad Proposal](https://wiki.haskell.org/Functor-Applicative-Monad_Proposal)
