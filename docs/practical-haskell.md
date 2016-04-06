@@ -98,6 +98,7 @@
 * [Updated Haskell Travis config](https://www.fpcomplete.com/blog/2016/02/updated-haskell-travis-config)
 * [Circle CI configuration with yesod (haskell) backend and javascript frontend](http://swistak35.com/2016/03/07/Circle-ci-configuration-with-yesod-haskell-and-javascript-frontend/)
 * [guillaume-nargeot/hpc-coveralls](https://github.com/guillaume-nargeot/hpc-coveralls)
+* [Non-recursive Make Considered Harmful](http://research.microsoft.com/en-us/um/people/simonpj/papers/ghc-shake/ghc-shake.pdf)
 
 ##CLI
 * [zalora/getopt-generics](https://github.com/zalora/getopt-generics)
