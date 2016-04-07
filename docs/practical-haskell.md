@@ -138,6 +138,7 @@
 * [bitc/lushtags](https://github.com/bitc/lushtags)
 * [kinoru/chips](https://github.com/kinoru/chips)
 * [nomeata/gipeda](https://github.com/nomeata/gipeda)
+* [sgillis/hidenticon](https://github.com/sgillis/hidenticon)
 
 ##FFI
 * [inline-c](https://hackage.haskell.org/package/inline-c)
