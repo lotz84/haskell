@@ -38,6 +38,7 @@ parse = evalStateT
 * [構文解析器結合子](https://www.ipsj.or.jp/07editj/promenade/4702.pdf)
 * [Monadic Parsing in Haskell](http://www.cs.nott.ac.uk/~gmh/pearl.pdf)
 * [Pandoc - a universal document converter](http://pandoc.org/)
+  * [Try pandoc!](http://pandoc.org/try/)
   * [markup.rocks](http://markup.rocks/)
 * [Erasing "expected" messages in Parsec](http://jaspervdj.be/posts/2015-09-02-erasing-parsec-expected-messages.html)
 * [bound](http://hackage.haskell.org/package/bound)
