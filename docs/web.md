@@ -41,6 +41,7 @@
 * [Representing an RPC API](http://petterbergman.se/api.html)
 * [cosbynator/haskakafka](https://github.com/cosbynator/haskakafka)
 * [jdreaver/stratosphere](https://github.com/jdreaver/stratosphere)
+* [k-bx/protocol-buffers](https://github.com/k-bx/protocol-buffers)
 
 ##Socket
 * [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)
