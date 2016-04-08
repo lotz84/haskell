@@ -48,6 +48,7 @@ instance Functor f => Monad (Free f) where
 * [Yield for Effects](https://awelonblue.wordpress.com/2016/01/04/yield-for-effects/)
 * [Freer play with effects](http://therning.org/magnus/posts/2016-01-24-000-freer-play-with-effects.html)
 * [Decision Trees Are Free Monads Over the Reader Functor](http://clathomasprime.github.io/hask/freeDecision)
+* [Free, take 2](http://therning.org/magnus/posts/2016-03-16-000-free--take-2.html)
 
 ###Coyoneda
 * [Loop School - Coyoneda](http://school.looprecur.com/?video=122708005)
@@ -110,6 +111,7 @@ yoneda f = Natural $ \ax -> fmap ax f
 * [Yoneda lemmaとOperational Monad](http://myuon-myon.hatenablog.com/entry/2013/06/09/135407)
 * Operationalモナドは任意のモナドを実装できる [StateT s IO a](https://gist.github.com/lotz84/ec6b7cb737f12211ebd3)
 * [Examining Hackage: operational](http://jozefg.bitbucket.org/posts/2014-12-27-folds.html)
+* [今のところ比較的簡単なモナドの作り方](http://fumieval.hatenablog.com/entry/2016/04/08/215045)
 
 ###Ideal Monad
 * [An introduction to ideal monads](https://theorylunch.wordpress.com/2012/11/08/an-introduction-to-ideal-monads/)
