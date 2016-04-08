@@ -242,6 +242,7 @@ Reader + Writer + State
 * [ノンブロッキングI/Oと非同期I/Oの違いを理解する](http://blog.takanabe.tokyo/2015/03/26/240/)
 * [Pure API vs. IO-bound API for graphics frameworks](http://phaazon.blogspot.jp/2016/02/pure-api-vs-io-bound-api-for-graphics.html)
 * [A newcomer's run-in with lazy I/O](https://ianthehenry.com/2016/3/9/lazy-io/)
+* [IO Monad Considered Harmful](https://blog.jle.im/entry/io-monad-considered-harmful.html)
 
 ###MonadPlus
 * [MonadPlus and Monoid serve different purposes.](http://stackoverflow.com/questions/10167879/distinction-between-typeclasses-monadplus-alternative-and-monoid#10168111)
