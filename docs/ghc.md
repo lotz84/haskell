@@ -52,6 +52,7 @@
 * [How to reduce compilation times of Haskell projects](http://rybczak.net/2016/03/26/how-to-reduce-compilation-times-of-haskell-projects/)
 * [2016 - Jasper Van der Jeugt - Haskell: mistakes I made (and how to fix them)](https://www.youtube.com/watch?v=S3WGPuqfBLg)
 * [GHC on m68k](https://trofi.github.io/posts/191-ghc-on-m68k.html)
+* [Thoughts on an InlineDoBind extension](https://gist.github.com/evincarofautumn/9cb3fb0197d2cfc1bc6fe88f7827216a)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
