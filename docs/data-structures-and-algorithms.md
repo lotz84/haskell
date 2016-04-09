@@ -76,6 +76,7 @@
 * [ekmett/ersatz](https://github.com/ekmett/ersatz)
 * [Descending sort in Haskell](https://ro-che.info/articles/2016-04-02-descending-sort-haskell)
 * [rrnewton/haskell-lockfree](https://github.com/rrnewton/haskell-lockfree)
+* [bttr/psqueues](https://github.com/bttr/psqueues)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
