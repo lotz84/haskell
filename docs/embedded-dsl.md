@@ -49,6 +49,7 @@ instance Functor f => Monad (Free f) where
 * [Freer play with effects](http://therning.org/magnus/posts/2016-01-24-000-freer-play-with-effects.html)
 * [Decision Trees Are Free Monads Over the Reader Functor](http://clathomasprime.github.io/hask/freeDecision)
 * [Free, take 2](http://therning.org/magnus/posts/2016-03-16-000-free--take-2.html)
+* [Applicative Effects in Free Monads](http://elvishjerricco.github.io/2016/04/08/applicative-effects-in-free-monads.html)
 
 ###Coyoneda
 * [Loop School - Coyoneda](http://school.looprecur.com/?video=122708005)
