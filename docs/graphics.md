@@ -100,6 +100,7 @@
 * [CIFASIS/ttasm](https://github.com/CIFASIS/ttasm)
 * [Part One - Infrastructure with SDL2](http://zyghost.com/series/odin/part-one-sdl2/)
 * [Mokosha/Lambency](https://github.com/Mokosha/Lambency)
+* [Part Two - Joystick Control](http://zyghost.com/series/odin/part-two/)
 
 ##WebGL
 * [wgld.org](http://wgld.org/)
