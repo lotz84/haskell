@@ -139,6 +139,8 @@
 * [kinoru/chips](https://github.com/kinoru/chips)
 * [nomeata/gipeda](https://github.com/nomeata/gipeda)
 * [sgillis/hidenticon](https://github.com/sgillis/hidenticon)
+* [passy/givegif](https://github.com/passy/givegif)
+* [fokot/howerpoint](https://github.com/fokot/howerpoint)
 
 ##FFI
 * [inline-c](https://hackage.haskell.org/package/inline-c)
