@@ -17,10 +17,10 @@
 
 ```hs
 -- 直和
-type a :+: b = Either a b
+type a + b = Either a b
 
 -- 直積
-type a :*: b = (a, b)
+type a * b = (a, b)
 ```
 
 * [The algebra (and calculus!) of algebraic data types](https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types)
@@ -28,6 +28,7 @@ type a :*: b = (a, b)
 * [The Algebra of Algebraic Data Types, Part 1](http://chris-taylor.github.io/blog/2013/02/10/the-algebra-of-algebraic-data-types/)
 * [Why are ADTs necessary?](http://www.reddit.com/r/haskell/comments/2z1n16/why_are_adts_necessary/)
 * [Algebraic Data Types Demystified](http://blog.haskellformac.com/blog/algebraic-data-types-demystified)
+* [Haskell Diary #2 - Algebra of Data Types](http://akashagrawal.me/haskell-diary-2-algebraic-data-types/)
 
 ###Codata
 * [Codata](http://types2004.lri.fr/SLIDES/altenkirch.pdf)
