@@ -1,7 +1,7 @@
 ##Haskell製のツール
 
 ### bench
-* ベンチマークをとれるツール。繰り返し実行や結果のHTMLへの出力などができる。
+* ベンチマークをとれるコマンド。繰り返し実行や結果のHTMLへの出力などができる。
 * <https://github.com/Gabriel439/bench>
 
 ```bash
@@ -31,12 +31,12 @@ $ gifcurry_cli ./in.mp4 ./out.gif start_second duration quality 'Optional top te
 ```
 
 ### github-backup
-* Githubのレポジトリのバックアップを取ってくれるツール
+* Githubのレポジトリのバックアップを取ってくれるコマンド
 * `including branches, tags, other forks, issues, comments, wikis, milestones, pull requests, watchers, and stars.`
 * [joeyh/github-backup](https://github.com/joeyh/github-backup)
 
 ### hawk
-* Haskellの文法が使えるawkのようなツール
+* Haskellの文法が使えるawkのようなコマンド
 * <https://github.com/gelisam/hawk>
 * [手軽にHaskell できる hawk が楽しい](http://blog.eiel.info/blog/2014/02/14/hawk/)
 * Related tool: [lukasmartinelli/hwk](https://github.com/lukasmartinelli/hwk)
@@ -62,7 +62,7 @@ forall a. GHC.Num.Num a => a
 ```
 
 ### hobbes
-* ファイルの変更を検知してくれるツール。Lunux, OS X, Windows対応
+* ファイルの変更を検知してくれるコマンド。Lunux, OS X, Windows対応
 * [jhickner/hobbes](https://github.com/jhickner/hobbes)
 
 ```bash
