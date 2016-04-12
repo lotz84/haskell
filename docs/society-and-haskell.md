@@ -43,32 +43,32 @@
 * [The Joy and Agony of Haskell in Production](http://www.stephendiehl.com/posts/production.html)
 * [Porting the Pusher integration tests to Haskell](http://blog.pusher.com/porting-the-pusher-integration-tests-to-haskell/)
 
-###FPComplete
+### FPComplete
 * [FPComplete](https://www.fpcomplete.com/)
 * [HASKELL IN ENTERPRISE](https://snoyberg.github.io/2015-08-30-tel-aviv-haskell-in-enterprise.html#/)
 * [HASKELL FOR FAST, CONCURRENT, ROBUST SERVICES](http://snoyberg.github.io/generated/2015-11-10-twitter-haskell-fast-concurrent-robust-services.html#/) [[video](https://www.youtube.com/watch?v=6bkWvfI7QDQ)]
 
-###Well-Typed
+### Well-Typed
 * [Well-Typed](http://www.well-typed.com/)
 
-###Galois
+### Galois
 * [Galois](http://galois.com/)
 
-###NTTデータ
+### NTTデータ
 * [「Haskellは企業でも十分実用になる」、NTTデータがソースコード解析サービスの舞台裏を披露](http://itpro.nikkeibp.co.jp/article/NEWS/20131126/520642/?rt=nocnt)
 
-###新日鉄住金ソリューションズ
+### 新日鉄住金ソリューションズ
 * [［Haskell］関数型の特徴を満載した王道の言語](http://itpro.nikkeibp.co.jp/article/COLUMN/20130112/449224/?ST=system&P=1)
 
-###Gree
+### Gree
 * [社内Haskellチュートリアルのススメ](http://labs.gree.jp/blog/2013/12/9201/)
 * [Haskell使ってみた](http://labs.gree.jp/blog/2013/12/9882/)
 * [画像配信：SwiftからS3への引越について](http://labs.gree.jp/blog/2015/12/14786/)
 
-###Google
+### Google
 * [Haskell Amuse-Bouche](https://www.youtube.com/watch?v=b9FagOVqxmI)
 
-###Facebook
+### Facebook
 * [Descent into Haskell (Part I)](https://www.facebook.com/notes/10153092264418543/)
 * [Fighting spam with Haskell](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/)
 * [The Road to Running Haskell at Facebook Scale - Jon Coens](https://www.youtube.com/watch?v=sl2zo7tzrO8)
@@ -76,21 +76,27 @@
 * [Research Intern (Functional Programming)](https://www.facebook.com/careers/jobs/a0I1200000I9saG/)
 * [FP @ FB](http://www.scs.stanford.edu/16wi-cs240h/slides/fb-slides.html)
 
-###Twitter
+### Twitter
 * [FUNctional Programming with Haskell - Twitter Tech Talk](https://www.wagonhq.com/blog/twitter-tech-talk)
 
-###Microsoft
+### Microsoft
 * [Simon Peyton Jones - Microsoft Research](http://research.microsoft.com/en-us/people/simonpj/)
 * [BlockApps Strato](http://blockapps.net/pdfs/blockapps-strato-microsoft-partnership.pdf)
 
-###Prezi
+### Prezi
 * [Case Study - Haskell at Prezi](https://www.fpcomplete.com/page/case-study-prezi)
 
-###Tsuru Capital
+### Tsuru Capital
 * [Tsuru Capital](http://www.tsurucapital.com/en/)
 
-###Square
+### Square
 * [Haskell in Production - Square Tech Talk](https://www.wagonhq.com/blog/square-tech-talk)
+
+### Livesense
+* [Haskell で楽しい Web スクレイピング](http://qiita.com/na-o-ys/items/30a4950d5391911493c2)
+
+### Wantedly
+* [難しいのは見た目だけ！？Haskellのモナドの「たった2つのルール」を簡単に理解する！](http://qiita.com/south37/items/06cfa95aa9c8f2ecb2e9)
 
 ##主な企業のHaskellレポジトリ
 * **2015/09/22 調べ**
@@ -124,10 +130,8 @@
 * **facebook**
   * [Haxl](https://github.com/facebook/Haxl)
     * A Haskell library that simplifies access to remote data, such as databases or web-based services. 
-* **Livesense**
-  * [Haskell で楽しい Web スクレイピング](http://qiita.com/na-o-ys/items/30a4950d5391911493c2)
-* **Wantedly**
-  * [難しいのは見た目だけ！？Haskellのモナドの「たった2つのルール」を簡単に理解する！](http://qiita.com/south37/items/06cfa95aa9c8f2ecb2e9)
+* **soundcloud**
+  * [haskell-kubernetes](https://github.com/soundcloud/haskell-kubernetes)
 * **IBM**
 * **heroku**
 * **GNOME**
