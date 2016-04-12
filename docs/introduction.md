@@ -68,6 +68,7 @@ $ alias ghci='stack ghci'
 * [byorgey/haskell-course](https://github.com/byorgey/haskell-course)
 * [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/)
 * [Building a Better Custom Haskell Prelude](http://www.stephendiehl.com/posts/protolude.html)
+* [注目ワード“高階プログラミング”って何だ？](http://ascii.jp/elem/000/000/157/157495/)
 
 ##チートシート
 * [What I Wish I Knew When Learning Haskell](http://www.stephendiehl.com/what/) [[ja](https://github.com/Kinokkory/wiwinwlh-jp/wiki)]
@@ -128,4 +129,4 @@ in map (fromMaybe . show <*> 3 ~> "fizz" <> 5 ~> "buzz")
 * [wandernauta/viskell](https://github.com/wandernauta/viskell)
 * [haskell/haskell-mode](https://github.com/haskell/haskell-mode)
 * [SublimeText3 で Haskell (Stack) を書くための環境構築 (Mac OS X)](http://qiita.com/algas/items/77c7f6455f8106c1a9e8)
-* [注目ワード“高階プログラミング”って何だ？](http://ascii.jp/elem/000/000/157/157495/)
+* [ndmitchell/ghcid](https://github.com/ndmitchell/ghcid)
