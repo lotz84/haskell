@@ -1,3 +1,7 @@
+### antigen-hs
+* zsh のプラグインマネージャー
+* <https://github.com/Tarrasch/antigen-hs>
+
 ### bench
 * ベンチマークをとれるコマンド。繰り返し実行や結果のHTMLへの出力などができる。
 * <https://github.com/Gabriel439/bench>
@@ -20,6 +24,14 @@ std dev              47.69 μs   (40.09 μs .. 57.91 μs)
 variance introduced by outliers: 81% (severely inflated)
 ```
 
+### cgrep
+* プログラムの構造を意識したgrepが出来るコマンド
+* <https://github.com/awgn/cgrep>
+
+### chips
+* fish shell のプラグインマネージャー
+* <https://github.com/kinoru/chips>
+
 ### gifcurry
 * 動画からテキスト入りのgifを生成するGUIツール。CLIもある
 * <https://github.com/lettier/gifcurry>
@@ -28,10 +40,18 @@ variance introduced by outliers: 81% (severely inflated)
 $ gifcurry_cli ./in.mp4 ./out.gif start_second duration quality 'Optional top text.' 'Optional bottom text.'
 ```
 
+### gipeda
+* Git Performance Dashboard
+* <https://github.com/nomeata/gipeda>
+
 ### github-backup
 * Githubのレポジトリのバックアップを取ってくれるコマンド
 * `including branches, tags, other forks, issues, comments, wikis, milestones, pull requests, watchers, and stars.`
 * [joeyh/github-backup](https://github.com/joeyh/github-backup)
+
+### givegif
+* コマンドライン上でgifを探して表示できるコマンド
+* <https://github.com/passy/givegif>
 
 ### hawk
 * Haskellの文法が使えるawkのようなコマンド
@@ -59,6 +79,16 @@ forall a. GHC.Num.Num a => a
 6
 ```
 
+### hidenticon
+* Githubのようなidenticonを作成するコマンド
+* <https://github.com/sgillis/hidenticon>
+
+```bash
+$ hidenticon --hash 3238947aafb9293801decf1230329 --size 128 -o 3238947aafb9293801decf1230329.png
+```
+
+![](https://i.gyazo.com/2d6a9761a6697609bc4c26e348b54ae9.png)
+
 ### hobbes
 * ファイルの変更を検知してくれるコマンド。Lunux, OS X, Windows対応
 * [jhickner/hobbes](https://github.com/jhickner/hobbes)
@@ -67,6 +97,10 @@ forall a. GHC.Num.Num a => a
 # automatic GHC recompile when your source files change
 $ hobbes "*.hs" | xargs -n1 ghc --make
 ```
+
+### howerpoint
+* ghciベースのプレゼンテーションツール
+* <https://github.com/fokot/howerpoint>
 
 ### par
 * Linuxのコマンドを簡単に並列実行させられるコマンド
@@ -112,16 +146,8 @@ Line 6:
                ^-- SC2016: Expressions don't expand in single quotes, use double quotes for that.
 ```
 
-### 未分類
-* [bitc/lushtags](https://github.com/bitc/lushtags)
-* [kinoru/chips](https://github.com/kinoru/chips)
-* [nomeata/gipeda](https://github.com/nomeata/gipeda)
-* [sgillis/hidenticon](https://github.com/sgillis/hidenticon)
-* [passy/givegif](https://github.com/passy/givegif)
-* [fokot/howerpoint](https://github.com/fokot/howerpoint)
-* [awgn/cgrep](https://github.com/awgn/cgrep)
+### Super User Spark
 * [NorfairKing/super-user-spark](https://github.com/NorfairKing/super-user-spark)
-* [Tarrasch/antigen-hs](https://github.com/Tarrasch/antigen-hs)
 
 ## ライブラリなど
 * [turtle](http://hackage.haskell.org/package/turtle)
@@ -138,6 +164,7 @@ Line 6:
 * [fuse でオレオレファイルシステムを作ってみた (Haskell で)](http://www.techscore.com/blog/2015/12/08/fuse-%E3%81%A7%E3%82%AA%E3%83%AC%E3%82%AA%E3%83%AC%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F-haskell-%E3%81%A7/)
 * [24 days of Hackage, 2015: day 17: ansi-wl-pprint: avoiding string hacking](http://conscientiousprogrammer.com/blog/2015/12/17/24-days-of-hackage-2015-day-17-ansi-wl-pprint-avoiding-string-hacking/)
 * [haskellで周波数スペクトルを描画したはなし](http://cocu.hatenablog.com/entry/2016/02/11/190538)
+* Create ctags compatible tags files for Haskell programs - [bitc/lushtags](https://github.com/bitc/lushtags)
 
 ###オプションパーサー
 * [HaskellのSystem.Console.ParseArgs](http://yu-i9.hatenablog.com/entry/2014/08/29/135253)
