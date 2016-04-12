@@ -124,9 +124,7 @@ Line 6:
 * [awgn/cgrep](https://github.com/awgn/cgrep)
 * [NorfairKing/super-user-spark](https://github.com/NorfairKing/super-user-spark)
 
-----
-
-## ツールを作るのに使えるライブラリなど
+## ライブラリなど
 * [turtle](http://hackage.haskell.org/package/turtle)
 * [The haskeline package](https://hackage.haskell.org/package/haskeline)
 * [The vty package](https://hackage.haskell.org/package/vty)
