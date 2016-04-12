@@ -18,6 +18,7 @@
 * [Secure Password Storage in Go, Python, Ruby, Java, Haskell, and NodeJS](https://www.praetorian.com/blog/secure-password-storage-in-go-python-ruby-java-haskell-and-nodejs)
 * [Tarrasch/antigen-hs](https://github.com/Tarrasch/antigen-hs)
 * [Worst practices should be hard](http://www.haskellforall.com/2016/04/worst-practices-should-be-hard.html)
+* [Simple Unique IP System Script](http://www.latermuse.com/static/ron-simpleuniqueipsystemscript.html)
 
 ##Cabal
 * [Hackage](http://hackage.haskell.org/)
