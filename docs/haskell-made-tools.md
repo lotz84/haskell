@@ -102,6 +102,11 @@ $ hobbes "*.hs" | xargs -n1 ghc --make
 * ghciベースのプレゼンテーションツール
 * <https://github.com/fokot/howerpoint>
 
+### Pandoc
+* ドキュメントを別の形式のドキュメントに変換できるコマンド
+* とにかくサポートしている形式が多い
+* <http://pandoc.org/>
+
 ### par
 * Linuxのコマンドを簡単に並列実行させられるコマンド
 * [k-bx/par](https://github.com/k-bx/par)
