@@ -17,6 +17,7 @@
 * [sol/hpack](https://github.com/sol/hpack)
 * [Secure Password Storage in Go, Python, Ruby, Java, Haskell, and NodeJS](https://www.praetorian.com/blog/secure-password-storage-in-go-python-ruby-java-haskell-and-nodejs)
 * [Tarrasch/antigen-hs](https://github.com/Tarrasch/antigen-hs)
+* [Worst practices should be hard](http://www.haskellforall.com/2016/04/worst-practices-should-be-hard.html)
 
 ##Cabal
 * [Hackage](http://hackage.haskell.org/)
@@ -141,6 +142,8 @@
 * [sgillis/hidenticon](https://github.com/sgillis/hidenticon)
 * [passy/givegif](https://github.com/passy/givegif)
 * [fokot/howerpoint](https://github.com/fokot/howerpoint)
+* [GHCid 0.6 Released](http://neilmitchell.blogspot.jp/2016/04/ghcid-06-released.html)
+* [awgn/cgrep](https://github.com/awgn/cgrep)
 
 ##FFI
 * [inline-c](https://hackage.haskell.org/package/inline-c)
