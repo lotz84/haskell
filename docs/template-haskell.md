@@ -1,5 +1,9 @@
 ##Template Haskell
+Template Haskell はHaskellの言語仕様には無くGHCの独自拡張なのでGHCのバージョンが変わる毎に仕様も変わる可能性があるので注意
+
+* [7.17. Template Haskell](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/template-haskell.html)
 * [Template Haskell Is Not Scary](http://www.parsonsmatt.org/programming/2015/11/15/template_haskell.html)
+* [Template Haskell](https://wiki.haskell.org/Template_Haskell)
 * [Language.Haskell.TH](http://hackage.haskell.org/package/template-haskell-2.5.0.0/docs/Language-Haskell-TH.html)
 * [できる！Template Haskell (完)](http://haskell.g.hatena.ne.jp/mr_konn/20111218/1324220725)
 * [TemplateHaskellでコンパイル時に計算しておく方法](http://qiita.com/hiyakashi_/items/452549b8766c341cd3c8)
