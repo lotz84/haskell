@@ -241,6 +241,7 @@ indexHtml = do
 * [The Architecture of Open Source Applications - Yesod](http://www.aosabook.org/en/yesod.html)
 * [Adding Redis to Yesod](http://maxgabriel.github.io/redis-yesod/)
 * [Yesodでセッション情報をDBに格納するようにする](http://qiita.com/jabaraster/items/758b190457f408075fc4)
+* [Monitoring a Yesod App with EKG](http://maxgabriel.github.io/ekg-yesod/)
 
 ##認証/認可
 * [hoauth2](http://hackage.haskell.org/package/hoauth2)
