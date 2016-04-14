@@ -89,3 +89,4 @@ main = do
 * [Moving Haskell processes between nodes (Transient effects IV)](https://www.fpcomplete.com/user/agocorona/moving-haskell-processes-between-nodes-transient-effects-iv)
   * [agocorona/transient](https://github.com/agocorona/transient)
 * [Haskell meets large scale distributed analytics](http://www.tweag.io/blog/haskell-meets-large-scale-distributed-analytics)
+* [agocorona/transient-universe](https://github.com/agocorona/transient-universe)
