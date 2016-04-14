@@ -145,3 +145,4 @@
 * [Composing (Music) in Haskell - Stuart Popejoy](https://www.youtube.com/watch?v=Jmw6LLNQQfs)
 * [Composing Network Operating Systems](https://www.youtube.com/watch?v=uXt4a_46qZ0)
 * [hopper-lang/hopper](https://github.com/hopper-lang/hopper)
+* [Haskell: mistakes I made](https://jaspervdj.be/posts/2016-04-11-haskell-mistakes-i-made.html)
