@@ -38,6 +38,10 @@
 * [Tuples as heterogeneous lists](https://lambdacube3d.wordpress.com/2016/03/03/tuples-as-heterogeneous-lists/)
 * [Type safe Polyvariadic functions in Haskell](http://cs-syd.eu/posts/2016-04-09-typesafe-polyvariadic-functions-in-haskell.html)
 * ['There and Back Again' and What Happened After](https://www.youtube.com/watch?v=u_OsUlwkmBQ)
+* [Coinductiveのintro rule](http://myuon-myon.hatenablog.com/entry/2016/04/12/210816)
+* [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
+* [Understanding typing judgments](https://derekelkins.github.io/posts/understanding-typing-judgments.html)
+* [Frobenius property of weak factorisation systems and Pi-types](https://parenz.wordpress.com/2016/04/13/frobenius-property-of-weak-factorisation-systems-and-pi-types/)
 
 ```haskell
 data Bottom
