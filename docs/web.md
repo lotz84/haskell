@@ -170,6 +170,7 @@ indexHtml = do
 ##Web Application Framework
 * [The scotty package](http://hackage.haskell.org/package/scotty)
   * [bendyworks/api-server](https://github.com/bendyworks/api-server)
+  * [Basic HTTP auth with Scotty](https://ro-che.info/articles/2016-04-14-scotty-http-basic-auth)
 * [Spock Web Framework](https://www.spock.li/)
   * [«Spock – Powerful Elegant Web Applications using Haskell» by Alexander Thiemann](https://www.youtube.com/watch?v=kNqsOBrCbLo)
 * [Rest for Haskell](http://silkapp.github.io/rest/)
@@ -347,6 +348,7 @@ $ heroku config:set HALCYON_NO_BUILD_DEPENDENCIES=0
 * [the-real-blackh/cassandra-cql](https://github.com/the-real-blackh/cassandra-cql)
 * [wereHamster/rethinkdb-client-driver](https://github.com/wereHamster/rethinkdb-client-driver)
 * [Simple Haskell: using a sqlite3 database](http://blog.markwatson.com/2016/01/simple-haskell-using-sqlite3-database.html)
+* [Supporting separate read and write databases in persistent](http://www.yesodweb.com/blog/2016/04/split-db)
 
 ###HDBC
 > HDBC provides an abstraction layer between Haskell programs and SQL relational databases.
