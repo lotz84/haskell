@@ -59,6 +59,7 @@
 * [reiddraper/ordeal](https://github.com/reiddraper/ordeal)
 * [Stack, the Haskell Build Tool](http://begriffs.com/posts/2015-06-22-haskell-stack-build-tool.html)
 * [Deploying Haskell for Mac projects on OS X and Linux](http://blog.haskellformac.com/blog/deploying-haskell-for-mac-projects-on-os-x-and-linux)
+* [The Stackage data flow](https://www.fpcomplete.com/blog/2016/04/stackage-data-flow)
 
 ##Nix
 * [Nix ±Cabal](http://begriffs.com/posts/2015-08-07-nix-plus-minus-cabal.html)
@@ -146,3 +147,4 @@
 * [Composing Network Operating Systems](https://www.youtube.com/watch?v=uXt4a_46qZ0)
 * [hopper-lang/hopper](https://github.com/hopper-lang/hopper)
 * [Haskell: mistakes I made](https://jaspervdj.be/posts/2016-04-11-haskell-mistakes-i-made.html)
+* [SAW - The Software Analysis Workbench](http://saw.galois.com/index.html)
