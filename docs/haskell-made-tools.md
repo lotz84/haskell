@@ -102,6 +102,10 @@ $ hobbes "*.hs" | xargs -n1 ghc --make
 * ghciベースのプレゼンテーションツール
 * <https://github.com/fokot/howerpoint>
 
+### import-bikeshedder
+* Haskellのimport文を並べ替えるコマンド
+* <https://github.com/fumieval/import-bikeshedder>
+
 ### Pandoc
 * ドキュメントを別の形式のドキュメントに変換できるコマンド
 * とにかくサポートしている形式が多い
