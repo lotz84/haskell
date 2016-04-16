@@ -44,6 +44,7 @@ type a * b = (a, b)
 
 ##関数
 * [A simple Haskell function](http://neilmitchell.blogspot.jp/2016/01/a-simple-haskell-function.html)
+* [Composing bijections, surjections, and injections](https://gist.github.com/rampion/f20ffd6386269e6f7e41fae15d208e12)
 
 ###パターンマッチ
 * [Pattern matching](http://mbps.hatenablog.com/entry/2014/10/04/010000)
