@@ -77,6 +77,7 @@
 * [Descending sort in Haskell](https://ro-che.info/articles/2016-04-02-descending-sort-haskell)
 * [rrnewton/haskell-lockfree](https://github.com/rrnewton/haskell-lockfree)
 * [bttr/psqueues](https://github.com/bttr/psqueues)
+* [FuctioNaL with OOP ～objectiveが諍いを終演に導く～](http://tokiwoousaka.github.io/takahashi/contents/day20160416NLNagoya.html)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
