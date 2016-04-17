@@ -86,6 +86,7 @@ parse = evalStateT
   * [AesonでJSONをパース・生成する方法まとめ](http://qiita.com/alpha22jp/items/4cc65f128962e11811fb)
 * [aeson-schema](https://hackage.haskell.org/package/aeson-schema)
   * [timjb/aeson-schema](https://github.com/timjb/aeson-schema)
+* [informatikr/aeson-pretty](https://github.com/informatikr/aeson-pretty)
 * [hdgarrood/aeson-better-errors](https://github.com/hdgarrood/aeson-better-errors)
 * [The aeson-yak package](http://hackage.haskell.org/package/aeson-yak)
 * [lens-aeson](https://hackage.haskell.org/package/lens-aeson)
