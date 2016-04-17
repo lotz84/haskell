@@ -20,6 +20,7 @@
 * [並列処理の理論とホモトピー](http://pantodon.shinshu-u.ac.jp/topology/literature/concurrency.html)
 * [高速WebサーバMighttpdのアーキテクチャ](http://www.iij.ad.jp/company/development/tech/activities/mighttpd/)
 * [Edward Kmett - Propagators - Boston Haskell](https://www.youtube.com/watch?v=DyPzPeOPgUE)
+* [マルチプロセッサ用リアルタイムOSの解説](http://www.nces.is.nagoya-u.ac.jp/NEXCESS/blog/index.php?catid=44&blogid=5)
 
 ##並列
 * [monad-par](https://hackage.haskell.org/package/monad-par)
