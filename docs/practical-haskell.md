@@ -60,6 +60,7 @@
 * [Stack, the Haskell Build Tool](http://begriffs.com/posts/2015-06-22-haskell-stack-build-tool.html)
 * [Deploying Haskell for Mac projects on OS X and Linux](http://blog.haskellformac.com/blog/deploying-haskell-for-mac-projects-on-os-x-and-linux)
 * [The Stackage data flow](https://www.fpcomplete.com/blog/2016/04/stackage-data-flow)
+* [stackのオレオレテンプレートを作って楽をする](http://qiita.com/techno-tanoC/items/72d188cd19d8e3ac890d)
 
 ##Nix
 * [Nix ±Cabal](http://begriffs.com/posts/2015-08-07-nix-plus-minus-cabal.html)
@@ -143,6 +144,7 @@
 * [Controlling Fusion In Haskell](http://jyp.github.io/posts/controlled-fusion.html)
 * [すごい Frege たのしく学ぼう！](http://www.slideshare.net/y_taka_23/frege)
 * [Frege Goodness (日本語版)](https://www.gitbook.com/book/y-taka-23/frege-goodness-jp/details)
+* [NL 名古屋で Frege の評価戦略について話してきました](http://ccvanishing.hateblo.jp/entry/2016/04/17/201842)
 * [Composing (Music) in Haskell - Stuart Popejoy](https://www.youtube.com/watch?v=Jmw6LLNQQfs)
 * [Composing Network Operating Systems](https://www.youtube.com/watch?v=uXt4a_46qZ0)
 * [hopper-lang/hopper](https://github.com/hopper-lang/hopper)
