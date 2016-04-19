@@ -150,3 +150,5 @@
 * [hopper-lang/hopper](https://github.com/hopper-lang/hopper)
 * [Haskell: mistakes I made](https://jaspervdj.be/posts/2016-04-11-haskell-mistakes-i-made.html)
 * [SAW - The Software Analysis Workbench](http://saw.galois.com/index.html)
+* [HIPERFIT/futhark](HIPERFIT/futhark)
+* [J for Haskell Programmers](http://crypto.stanford.edu/~blynn/haskell/jfh.html)
