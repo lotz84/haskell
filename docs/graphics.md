@@ -15,6 +15,7 @@
 * [Recreating OTAS Stamps in Haskell](https://blog.otastech.com/2016/02/recreating-otas-stamps-in-haskell/)
 * [The units package](https://hackage.haskell.org/package/units)
 * [Haskellで物理を殴ってレベルが上がった話](http://qiita.com/nushio/items/7d534a08e5c30bae32d0)
+* [Scientific Computation and Functional Programming](https://karczmarczuk.users.greyc.fr/arpap/quantfun.pdf)
 * [Interactive and composable charts](http://www.haskellforall.com/2015/11/interactive-and-composable-charts.html)
 * [smoothie](https://hackage.haskell.org/package/smoothie)
 * [Symbolic Calculus in Haskell](http://5outh.blogspot.in/2013/05/symbolic-calculus-in-haskell.html)
