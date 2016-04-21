@@ -304,6 +304,7 @@ Reader + Writer + State
 * [String diagram による圏論まとめ](http://mbps.hatenablog.com/entry/2016/03/26/020000)
 * [ekmett/categories](https://github.com/ekmett/categories)
 * [Applicative Functors with Strings](https://github.com/okomok/strcat/blob/master/out/strapp.pdf)
+* [Adjunctions](https://bartoszmilewski.com/2016/04/18/adjunctions/)
 
 ###CPL
 * [圏論プログラミング言語 CPL](http://mandel59.hateblo.jp/entry/2015/02/02/110621)
