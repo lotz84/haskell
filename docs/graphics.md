@@ -58,6 +58,7 @@
 * [LambdaHack/LambdaHack](https://github.com/LambdaHack/LambdaHack)
 * physics engine and other tools for 2D shapes - [ublubu/shapes](https://github.com/ublubu/shapes)
 * [trin-cz/glxgears-haskell](https://github.com/trin-cz/glxgears-haskell)
+* [Implementing the game 2048 in less than 90 lines of Haskell](http://gregorulm.com/2048-in-90-lines-haskell/)
 
 ##Gloss
 * [gloss](http://hackage.haskell.org/package/gloss)
