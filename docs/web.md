@@ -42,6 +42,7 @@
 * [cosbynator/haskakafka](https://github.com/cosbynator/haskakafka)
 * [jdreaver/stratosphere](https://github.com/jdreaver/stratosphere)
 * [k-bx/protocol-buffers](https://github.com/k-bx/protocol-buffers)
+* [sol/reserve](https://github.com/sol/reserve)
 
 ##Socket
 * [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)
