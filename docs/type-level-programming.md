@@ -42,6 +42,7 @@
 * [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
 * [Understanding typing judgments](https://derekelkins.github.io/posts/understanding-typing-judgments.html)
 * [Frobenius property of weak factorisation systems and Pi-types](https://parenz.wordpress.com/2016/04/13/frobenius-property-of-weak-factorisation-systems-and-pi-types/)
+* [Vorlesung 1: Typen und Typtheorie - FFPiHaskell (16.04.2016)](https://www.youtube.com/watch?v=T3gSCeumtgQ)
 
 ```haskell
 data Bottom
