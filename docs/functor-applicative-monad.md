@@ -131,6 +131,7 @@ class Monad m where
 * [モナドはなぜHaskellでしか積極的に使われていないのか?](http://uehaj.hatenablog.com/entry/2013/11/06/125250)
 * [Fixing the Monad instance for Either](http://www.yesodweb.com/blog/2016/04/fixing-monad-either)
 * [Finally Understand Monads with this One Weird Trick](https://speakerdeck.com/jqsilver/finally-understand-monads-with-this-one-weird-trick)
+* [Railway Oriented Programming](http://www.slideshare.net/ScottWlaschin/railway-oriented-programming)
 
 ```haskell
 do x <- mx
