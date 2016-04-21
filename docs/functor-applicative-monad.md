@@ -132,6 +132,7 @@ class Monad m where
 * [Fixing the Monad instance for Either](http://www.yesodweb.com/blog/2016/04/fixing-monad-either)
 * [Finally Understand Monads with this One Weird Trick](https://speakerdeck.com/jqsilver/finally-understand-monads-with-this-one-weird-trick)
 * [Railway Oriented Programming](http://www.slideshare.net/ScottWlaschin/railway-oriented-programming)
+* [モナドの六つの系統[Functor x Functor]](http://fumieval.hatenablog.com/entry/2013/06/05/182316)
 
 ```haskell
 do x <- mx
