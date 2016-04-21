@@ -21,6 +21,10 @@
 * [高速WebサーバMighttpdのアーキテクチャ](http://www.iij.ad.jp/company/development/tech/activities/mighttpd/)
 * [Edward Kmett - Propagators - Boston Haskell](https://www.youtube.com/watch?v=DyPzPeOPgUE)
 * [マルチプロセッサ用リアルタイムOSの解説](http://www.nces.is.nagoya-u.ac.jp/NEXCESS/blog/index.php?catid=44&blogid=5)
+* [Parallel-Haskell-1-1](https://www.youtube.com/watch?v=N6sOMGYsvFA)
+  * [Haskell-1-2](https://www.youtube.com/watch?v=ybba5tcOeEY)
+  * [Haskell-2-1](https://www.youtube.com/watch?v=oQ4fvA1OEcY)
+  * [Haskell-2-2](https://www.youtube.com/watch?v=a6IkhX1zgXI)
 
 ##並列
 * [monad-par](https://hackage.haskell.org/package/monad-par)
