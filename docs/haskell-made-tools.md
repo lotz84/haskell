@@ -32,6 +32,10 @@ variance introduced by outliers: 81% (severely inflated)
 * fish shell のプラグインマネージャー
 * <https://github.com/kinoru/chips>
 
+### git-annex
+* gitでバイナリファイル等を効率的に扱うツール
+* <https://git-annex.branchable.com/>
+
 ### gifcurry
 * 動画からテキスト入りのgifを生成するGUIツール。CLIもある
 * <https://github.com/lettier/gifcurry>
@@ -52,6 +56,10 @@ $ gifcurry_cli ./in.mp4 ./out.gif start_second duration quality 'Optional top te
 ### givegif
 * コマンドライン上でgifを探して表示できるコマンド
 * <https://github.com/passy/givegif>
+
+### Hakyll
+* 静的サイトジェネレータ
+* <https://jaspervdj.be/hakyll/>
 
 ### hawk
 * Haskellの文法が使えるawkのようなコマンド
@@ -157,6 +165,10 @@ Line 6:
 
 ### Super User Spark
 * [NorfairKing/super-user-spark](https://github.com/NorfairKing/super-user-spark)
+
+### xmonad
+* X11のウィンドウマネージャ
+* <http://xmonad.org/>
 
 ## ライブラリなど
 * [turtle](http://hackage.haskell.org/package/turtle)
