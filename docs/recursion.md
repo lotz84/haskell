@@ -111,6 +111,7 @@ class Functor g => Distributive g where
 * [Solving Recursive Equations](http://jozefg.bitbucket.org/posts/2015-08-14-solve-domains.html)
 * [Haskell/Denotational semantics](https://ja.wikibooks.org/wiki/Haskell/Denotational_semantics)
 * [Domain Theory](http://www.cs.bham.ac.uk/~axj/pub/papers/handy1.pdf)
+* [再帰的関数論](http://www.kurims.kyoto-u.ac.jp/~cs/cs2011_terui.pdf)
 * [再帰プログラムの意味論について](http://www.kurims.kyoto-u.ac.jp/~hassei/papers/sugaku07.pdf)
 
 ```haskell
