@@ -300,6 +300,8 @@ instance Eval' Hole where
 * [Second-order theories should not be taken lightly](https://theorylunch.wordpress.com/2016/01/14/second-order-theories-should-not-be-taken-lightly/)
 * [Some reasons to teach lattice theory to undergraduates](https://theorylunch.wordpress.com/2013/03/14/some-reasons-to-teach-lattice-theory-to-undergraduates/)
 * [Second-order theories should not be taken lightly](https://theorylunch.wordpress.com/2016/01/14/second-order-theories-should-not-be-taken-lightly/)
+* [代数的視点からの論理へのアプローチ](http://www.jaist.ac.jp/~mizuhito/ppl_ss07/OHP/msj07.pdf)
+* [東京大学数理科学研究科「数学基礎論・数理科学続論D」の講義資料](http://researchmap.jp/mur789p4c-121/)
 
 ###線形論理
 
