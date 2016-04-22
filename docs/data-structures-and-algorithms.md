@@ -78,6 +78,7 @@
 * [rrnewton/haskell-lockfree](https://github.com/rrnewton/haskell-lockfree)
 * [bttr/psqueues](https://github.com/bttr/psqueues)
 * [FuctioNaL with OOP ～objectiveが諍いを終演に導く～](http://tokiwoousaka.github.io/takahashi/contents/day20160416NLNagoya.html)
+* [List and Comprehension Extensions](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/guide-to-ghc-extensions/list-and-comprehension-extensions)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
