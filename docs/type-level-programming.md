@@ -350,6 +350,10 @@ instance Eval' Hole where
 * [Proving With Types](http://www.parsonsmatt.org/2016/02/23/proving_with_types.html)
 * [Monadic regions](https://wiki.haskell.org/Monadic_regions)
 * [Bidirectional Typing Rules: A Tutorial](https://www.itu.dk/people/drc/tutorials/bidirectional.pdf)
+* [型理論I (<特集>関数型プログラミングと計算の基礎)](http://ci.nii.ac.jp/naid/110003743606/)
+* [型理論II](http://ci.nii.ac.jp/naid/110003743618/)
+* [型理論III](http://ci.nii.ac.jp/naid/110003743626/)
+* [型理論IV](http://ci.nii.ac.jp/naid/110003743641/)
 
 ##Lambda Calculus
 * [An informal introduction to Lambda Calculus.](https://medium.com/@Sudhagar/an-informal-introduction-to-lambda-calculus-51c637f35f7d#.vsy3u1aex)
