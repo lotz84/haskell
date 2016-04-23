@@ -59,6 +59,8 @@
 * physics engine and other tools for 2D shapes - [ublubu/shapes](https://github.com/ublubu/shapes)
 * [trin-cz/glxgears-haskell](https://github.com/trin-cz/glxgears-haskell)
 * [Implementing the game 2048 in less than 90 lines of Haskell](http://gregorulm.com/2048-in-90-lines-haskell/)
+* [[Haskell] ANN: shine and shine-varying: Lightweight declarative 2D graphics à la gloss using GHCJS (and a FRP interface)](https://mail.haskell.org/pipermail/haskell/2016-April/024851.html)
+* [fgaz/shine](https://github.com/fgaz/shine)
 
 ##Gloss
 * [gloss](http://hackage.haskell.org/package/gloss)
