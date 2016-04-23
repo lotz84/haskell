@@ -43,6 +43,7 @@
 * [jdreaver/stratosphere](https://github.com/jdreaver/stratosphere)
 * [k-bx/protocol-buffers](https://github.com/k-bx/protocol-buffers)
 * [sol/reserve](https://github.com/sol/reserve)
+* [Writing a haskell client for a third party API](http://blog.byteally.com/posts/2016-04-21-Writing-a-haskell-client-for-a-third-party-API.html)
 
 ##Socket
 * [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)
