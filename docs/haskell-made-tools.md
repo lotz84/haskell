@@ -166,6 +166,10 @@ Line 6:
 ### Super User Spark
 * [NorfairKing/super-user-spark](https://github.com/NorfairKing/super-user-spark)
 
+### typebot
+* 関数の型を答えてくれるSlack bot
+* <https://github.com/thoughtbot/typebot>
+
 ### xmonad
 * X11のウィンドウマネージャ
 * <http://xmonad.org/>
