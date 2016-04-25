@@ -386,6 +386,7 @@ instance Eval' Hole where
 ##Coq
 * [プログラミング Coq 〜 絶対にバグのないプログラムの書き方 〜](http://www.iij-ii.co.jp/lab/techdoc/coqt/)
 * [ソフトウェアの基礎](http://proofcafe.org/sf/)
+* [Formalized algebraic numbers: construction and first-order theory](https://pastel.archives-ouvertes.fr/pastel-00780446/file/main.pdf)
 
 ##Agda
 * [Learn you an agda and achive enlightenment](http://learnyouanagda.liamoc.net/)
