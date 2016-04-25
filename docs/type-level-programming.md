@@ -44,6 +44,9 @@
 * [Frobenius property of weak factorisation systems and Pi-types](https://parenz.wordpress.com/2016/04/13/frobenius-property-of-weak-factorisation-systems-and-pi-types/)
 * [Vorlesung 1: Typen und Typtheorie - FFPiHaskell (16.04.2016)](https://www.youtube.com/watch?v=T3gSCeumtgQ)
 * [Hindley-Milner with top-level existentials](http://blog.ezyang.com/2016/04/hindley-milner-with-top-level-existentials/)
+* [Beyond Church encoding: Boehm-Berarducci isomorphism of algebraic data types and polymorphic lambda-terms](http://okmij.org/ftp/tagless-final/course/Boehm-Berarducci.html)
+* [Induction is Not Derivable in Second Order Dependent Type Theory](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.26.957)
+* [A Logic for Parametric Polymorphism](https://www.era.lib.ed.ac.uk/bitstream/handle/1842/205/Par_Poly.pdf;jsessionid=5D5750A7453594A8BDAAFB12E612211D?sequence=1)
 
 ```haskell
 data Bottom
