@@ -61,3 +61,4 @@ mtlにはMonad Transformerを新しく定義する度に全ての組み合わせ
 * [Programming with Algebraic Effects and Handlers](http://math.andrej.com/2012/03/08/programming-with-algebraic-effects-and-handlers/)
 * [Extensible Effects in Scala](http://halcat.org/scala/extensible/)
 * [Lazy state](http://okmij.org/ftp/Haskell/extensible/index.html#lazy-state)
+* [Announcing transformers-eff](https://ocharles.org.uk/blog/posts/2016-04-23-transformers-eff.html)
