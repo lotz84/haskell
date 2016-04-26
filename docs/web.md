@@ -44,6 +44,7 @@
 * [k-bx/protocol-buffers](https://github.com/k-bx/protocol-buffers)
 * [sol/reserve](https://github.com/sol/reserve)
 * [Writing a haskell client for a third party API](http://blog.byteally.com/posts/2016-04-21-Writing-a-haskell-client-for-a-third-party-API.html)
+* [agrafix/users](https://github.com/agrafix/users)
 
 ##Socket
 * [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)
@@ -127,6 +128,7 @@ indexHtml = do
 * [The logging-effect package](https://hackage.haskell.org/package/logging-effect)
 * [The logging-facade package](https://hackage.haskell.org/package/logging-facade)
 * [The katip package](http://hackage.haskell.org/package/katip)
+* [The monad-log package](http://hackage.haskell.org/package/monad-log)
 
 ##Hakyll
 * [LambdaCms](http://lambdacms.org/)
