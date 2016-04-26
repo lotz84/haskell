@@ -11,6 +11,7 @@
 * [Unit型の何が偉大なのか説明してみる](http://qiita.com/alucky0707/items/a677e5c9850aa765dd55)
 * [Add a type parameter! One 'simple' design change, a panoply of outcomes](https://www.youtube.com/watch?v=BHjIl81HgfE)
 * [The 6 types of Haskell users](http://rickdzekman.com/thoughts/the-6-types-of-haskell-users/)
+* [Learning Haskell by Type (Signatures)](http://holger-peters.de/haskell-by-types.html)
 
 ###代数的データ型
 代数的データ型とは"足し算"と"掛け算"が出来るような型のこと。"足し算"と"掛け算"はそれぞれ**直和**, **直積**と呼ばれる。
