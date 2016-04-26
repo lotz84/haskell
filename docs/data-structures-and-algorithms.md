@@ -81,6 +81,7 @@
 * [List and Comprehension Extensions](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/guide-to-ghc-extensions/list-and-comprehension-extensions)
 * [HASKELL AND DOMAIN DRIVEN DESIGN (DDD)](http://zenhackers.net/blog/?p=106)
 * [Data is Code](http://www.haskellforall.com/2016/04/data-is-code.html)
+* [Rubik's cube combinations](http://kenta.blogspot.jp/2016/04/vcppbmdn-rubiks-cube-combinations.html)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
