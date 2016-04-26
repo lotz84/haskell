@@ -8,6 +8,7 @@
 * [generics-eot](http://generics-eot.readthedocs.org/en/latest/)
 * [Generic programming in Haskell](https://jeltsch.wordpress.com/2016/02/22/generic-programming-in-haskell/)
 * [Cooking Classes with Datatype Generic Programming](http://www.stephendiehl.com/posts/generics.html)
+* [nh2/GenericsTypeName.hs](https://gist.github.com/nh2/1a03b7873dbed348ef64fe536028776d)
 
 ##Uniplate
 * [uniplate](https://hackage.haskell.org/package/uniplate)
