@@ -29,6 +29,7 @@
 * [Creating a package on Hackage](http://begriffs.com/posts/2014-10-25-creating-package-hackage.html)
 * [cabal-info: get information from cabal files.](https://www.barrucadu.co.uk/posts/2016-02-02-cabal-info.html)
 * [kazu-yamamoto/cab](https://github.com/kazu-yamamoto/cab)
+* [hvr/packunused](https://github.com/hvr/packunused)
 
 ##Stack
 * [The Haskell Tool Stack](http://docs.haskellstack.org/en/stable/README.html)
