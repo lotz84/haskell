@@ -43,6 +43,7 @@
 * [Production Haskell - Reid Draper](https://www.youtube.com/watch?v=AZQLkkDXy68&feature=youtu.be)
 * [The Joy and Agony of Haskell in Production](http://www.stephendiehl.com/posts/production.html)
 * [Porting the Pusher integration tests to Haskell](http://blog.pusher.com/porting-the-pusher-integration-tests-to-haskell/)
+* [Tweag I/O](http://www.tweag.io/)
 
 ### FPComplete
 * [FPComplete](https://www.fpcomplete.com/)
