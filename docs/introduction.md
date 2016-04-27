@@ -71,6 +71,7 @@ $ alias ghci='stack ghci'
 * [Building a Better Custom Haskell Prelude](http://www.stephendiehl.com/posts/protolude.html)
 * [注目ワード“高階プログラミング”って何だ？](http://ascii.jp/elem/000/000/157/157495/)
 * [Haskell Programming from first principles](http://haskellbook.com/)
+* [Bubble Pop!](http://chrisuehlinger.com/LambdaBubblePop/)
 
 ##チートシート
 * [What I Wish I Knew When Learning Haskell](http://www.stephendiehl.com/what/) [[ja](https://github.com/Kinokkory/wiwinwlh-jp/wiki)]
