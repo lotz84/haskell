@@ -6,6 +6,7 @@
 * [ad](https://hackage.haskell.org/package/ad)
   * <https://twitter.com/GabrielG439/status/647601518871359489>
   * [Beautiful differentiation](http://conal.net/blog/posts/beautiful-differentiation)
+* [Computing symbolic gradient vectors with plain Haskell](http://blog.aloni.org/posts/symbolic-gradients-with-plain-haskell/)
 * [Resources/dx.hs](https://github.com/SamuelSchlesinger/Resources/blob/master/dx.hs)
 * [scientific](https://hackage.haskell.org/package/scientific)
 * [timbod7/haskell-chart](https://github.com/timbod7/haskell-chart)
