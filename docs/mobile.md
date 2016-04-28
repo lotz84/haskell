@@ -46,6 +46,7 @@
 * [React Native](https://facebook.github.io/react-native/)
 * <https://twitter.com/paf31/status/617568437020135424>
 * [purescript-contrib/purescript-react](https://github.com/purescript-contrib/purescript-react)
+* [elm-native-ui/elm-native-ui](https://github.com/elm-native-ui/elm-native-ui)
 
 ##iOS
 * [HaskellがiOSをサポート、性能を改善](http://www.infoq.com/jp/news/2014/04/ghc-7-8-1)
