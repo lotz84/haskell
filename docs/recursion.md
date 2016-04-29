@@ -139,6 +139,7 @@ fact = fix $ \fact n -> if n == 0 then 1 else n * fact (n-1)
 * [The recursion-schemes package](https://hackage.haskell.org/package/recursion-schemes)
 * [Finite trees as initial algebra](https://theorylunch.wordpress.com/2013/02/28/finite-trees-as-initial-algebra/)
 * [融合変換による最適化の理論的基盤と正当性](http://www.slideshare.net/sakai/20060627)
+* [Zygomorphisms and Futumorphisms specialised to lists](http://stackoverflow.com/questions/36851766/zygomorphisms-and-futumorphisms-specialised-to-lists)
 
 ----
 
