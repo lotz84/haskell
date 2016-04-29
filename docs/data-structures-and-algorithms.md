@@ -90,6 +90,7 @@
 * [jberthold/packman](https://github.com/jberthold/packman)
 * [デシリアライザとスキーマ](http://fumieval.hatenablog.com/entry/2015/12/30/220159)
 * [Efficient binary serialization](https://www.fpcomplete.com/blog/2016/03/efficient-binary-serialization)
+* [Austin Seipp - binary-serialize-cbor](https://www.youtube.com/watch?v=Mj2cXQXgyWE)
 
 ###数値
 * [Lazy unary numbers](http://www.edofic.com/posts/2015-05-03-unary-numbers.html)
