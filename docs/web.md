@@ -212,6 +212,7 @@ indexHtml = do
 * [swagger ドキュメントからコマンド一発でモックサーバを自動生成する (haskell-servant)](http://qiita.com/algas/items/6e066b6c164beb711733)
 * [swagger2 and servant-swagger](http://haskell-servant.github.io/posts/2016-02-06-servant-swagger.html)
 * [servant 0.5 released](http://haskell-servant.github.io/posts/2016-03-19-servant-0.5-release.html)
+* [themoritz/diener](https://github.com/themoritz/diener)
 
 ####Microservices
 * [k-bx/owlcloud](https://github.com/k-bx/owlcloud)
