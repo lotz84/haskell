@@ -48,6 +48,7 @@
 * [Induction is Not Derivable in Second Order Dependent Type Theory](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.26.957)
 * [A Logic for Parametric Polymorphism](https://www.era.lib.ed.ac.uk/bitstream/handle/1842/205/Par_Poly.pdf;jsessionid=5D5750A7453594A8BDAAFB12E612211D?sequence=1)
 * [Quantifiers in type theory](http://winterkoninkje.dreamwidth.org/108092.html)
+* [Typed Routing with Continuations](https://www.youtube.com/watch?v=tQI2JJwD_ZY)
 
 ```haskell
 data Bottom
