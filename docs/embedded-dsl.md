@@ -135,3 +135,9 @@ yoneda f = Natural $ \ax -> fmap ax f
 * [Typed tagless-final interpretations: Lecture notes](http://okmij.org/ftp/tagless-final/course/)
 * [Typed Tagless-Final Linear Lambda Calculus](https://www.fpcomplete.com/user/mutjida/typed-tagless-final-linear-lambda-calculus)
 * [Reducing boilerplate in finally tagless style](https://ro-che.info/articles/2016-02-03-finally-tagless-boilerplate)
+
+## QDSL
+* [Wadler: QDSL](http://homepages.inf.ed.ac.uk/wadler/topics/qdsl.html)
+* [Philip Wadler - Everything old is new again: Quoted domain specific languages - Curry On](https://www.youtube.com/watch?v=FiflFiZ6pPI)
+* ["Everything Old is New Again: Quoted Domain Specific Languages" by Philip Wadler](https://www.youtube.com/watch?v=DlBwJ4rvz5c)
+* [Quill - Compile-time Language Integrated Query for Scala](http://getquill.io/)
