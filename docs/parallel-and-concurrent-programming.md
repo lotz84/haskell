@@ -38,6 +38,7 @@
 * [2 04 Imprving Implicit Parallelism](https://www.youtube.com/watch?v=UsU8h0WYemo)
 * [AutoPar: automating the parallelization of functional programs](http://doras.dcu.ie/20805/)
 * [Encapsulating unsafe IORefs](http://tech.kariusdx.com/post/hiding-unsafe-IORefs/)
+* [wyager/Neks](https://github.com/wyager/Neks)
 
 ##並行
 * [RAM footprint per unit of concurrency (approx)](http://bob.ippoli.to/haskell-for-erlangers-2014/#/cost-of-concurrency)
