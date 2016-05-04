@@ -82,6 +82,7 @@
 * [HASKELL AND DOMAIN DRIVEN DESIGN (DDD)](http://zenhackers.net/blog/?p=106)
 * [Data is Code](http://www.haskellforall.com/2016/04/data-is-code.html)
 * [Rubik's cube combinations](http://kenta.blogspot.jp/2016/04/vcppbmdn-rubiks-cube-combinations.html)
+* [Haskellでいかに多態を表すか](http://fumieval.hatenablog.com/entry/2015/04/06/173848)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
@@ -111,6 +112,7 @@
 * [The bytestring-tree-builder package](http://hackage.haskell.org/package/bytestring-tree-builder)
 * [Haskell 文字列変換入門](http://qiita.com/satosystems/items/e07e9907e4da9ab853fc)
 * [The securemem package](http://hackage.haskell.org/package/securemem)
+* [Abusing -XOverloadedStrings to Implement Type Directed Parsing](https://lambdasandcaches.blogspot.jp/2016/05/abusing-xoverloadedstrings-to-implement.html)
 
 ###配列
 * [The vector package](https://hackage.haskell.org/package/vector)
