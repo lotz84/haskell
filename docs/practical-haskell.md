@@ -30,6 +30,7 @@
 * [cabal-info: get information from cabal files.](https://www.barrucadu.co.uk/posts/2016-02-02-cabal-info.html)
 * [kazu-yamamoto/cab](https://github.com/kazu-yamamoto/cab)
 * [hvr/packunused](https://github.com/hvr/packunused)
+* [Announcing cabal new-build: Nix-style local builds](http://blog.ezyang.com/2016/05/announcing-cabal-new-build-nix-style-local-builds/)
 
 ##Stack
 * [The Haskell Tool Stack](http://docs.haskellstack.org/en/stable/README.html)
@@ -156,3 +157,4 @@
 * [SAW - The Software Analysis Workbench](http://saw.galois.com/index.html)
 * [HIPERFIT/futhark](HIPERFIT/futhark)
 * [J for Haskell Programmers](http://crypto.stanford.edu/~blynn/haskell/jfh.html)
+* [Euterpea - A Haskell library for music creation](http://www.euterpea.com/)
