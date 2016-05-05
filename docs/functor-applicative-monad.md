@@ -134,6 +134,7 @@ class Monad m where
 * [Finally Understand Monads with this One Weird Trick](https://speakerdeck.com/jqsilver/finally-understand-monads-with-this-one-weird-trick)
 * [Railway Oriented Programming](http://www.slideshare.net/ScottWlaschin/railway-oriented-programming)
 * [モナドの六つの系統[Functor x Functor]](http://fumieval.hatenablog.com/entry/2013/06/05/182316)
+* [The five arguments on why people struggle with monads](http://chrisdone.com/posts/monads)
 
 ```haskell
 do x <- mx
