@@ -47,6 +47,7 @@
 * [agrafix/users](https://github.com/agrafix/users)
 * [HaskellでTwitterにpostする](http://yunomu.hatenablog.jp/entry/2012/05/13/210629)
 * [Web Dev with Fn](https://www.youtube.com/watch?v=tuBeA1wn4js)
+* [Haskell版フォルダを指定してhttpで公開する簡易Webサーバー](http://qiita.com/saturday06/items/fad44a9bc49b2f387bde)
 
 ##Socket
 * [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)
