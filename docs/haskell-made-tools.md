@@ -174,6 +174,11 @@ Line 6:
 * X11のウィンドウマネージャ
 * <http://xmonad.org/>
 
+### Yi
+
+- Haskellでカスタマイズできるエディタ
+- <https://github.com/yi-editor/yi>
+
 ## ライブラリなど
 * [turtle](http://hackage.haskell.org/package/turtle)
 * [The haskeline package](https://hackage.haskell.org/package/haskeline)
