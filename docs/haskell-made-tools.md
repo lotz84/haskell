@@ -65,7 +65,9 @@ $ gifcurry_cli ./in.mp4 ./out.gif start_second duration quality 'Optional top te
 * Haskellの文法が使えるawkのようなコマンド
 * <https://github.com/gelisam/hawk>
 * [手軽にHaskell できる hawk が楽しい](http://blog.eiel.info/blog/2014/02/14/hawk/)
-* Related tool: [lukasmartinelli/hwk](https://github.com/lukasmartinelli/hwk)
+* Related tools
+  * [lukasmartinelli/hwk](https://github.com/lukasmartinelli/hwk)
+  * [tanakh/hoe](https://github.com/tanakh/hoe)
 
 
 ```bash
@@ -99,7 +101,7 @@ $ hidenticon --hash 3238947aafb9293801decf1230329 --size 128 -o 3238947aafb92938
 
 ### hobbes
 * ファイルの変更を検知してくれるコマンド。Lunux, OS X, Windows対応
-* [jhickner/hobbes](https://github.com/jhickner/hobbes)
+* <https://github.com/jhickner/hobbes>
 
 ```bash
 # automatic GHC recompile when your source files change
