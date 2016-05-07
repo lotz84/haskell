@@ -1,3 +1,5 @@
+* [Trading Analytics](http://logicalgraphs.blogspot.jp/p/trading-analytics.html)
+
 ##Blockchain
 > 特定の中央機関を必要とせずにP2Pネットワーク上で合意形成をする技術
 
