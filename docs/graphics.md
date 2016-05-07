@@ -48,6 +48,7 @@
 * [HsQML 0.3.4.0 released: Belated Automatic List Models](http://blog.gekkou.co.uk/2016/02/hsqml-0340-released.html)
 
 ##Game
+* [CodinGame](https://www.codingame.com/)
 * [Asset management in a real time 3D engine in Haskell](http://phaazon.blogspot.fr/2015/06/asset-management-in-real-time-3d-engine.html)
 * [badamson/2048.hs](https://github.com/badamson/2048.hs)
 * [elisehuard/game-in-haskell](https://github.com/elisehuard/game-in-haskell)
