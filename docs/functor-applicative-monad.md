@@ -312,6 +312,7 @@ Reader + Writer + State
 * [Adjunctions](https://bartoszmilewski.com/2016/04/18/adjunctions/)
 * [Basic Category Theory](http://www.staff.science.uu.nl/~ooste110/syllabi/catsmoeder.pdf)
 * [An Introduction CATEGORY THEORY in for easy movements](http://www.cs.man.ac.uk/~hsimmons/BOOKS/CatTheory.pdf)
+* [Introduction to Categories and Categorical Logic](http://www.cs.ox.ac.uk/people/bob.coecke/AbrNikos.pdf)
 
 ###CPL
 * [圏論プログラミング言語 CPL](http://mandel59.hateblo.jp/entry/2015/02/02/110621)
