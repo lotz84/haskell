@@ -168,6 +168,10 @@ Line 6:
 ### Super User Spark
 * [NorfairKing/super-user-spark](https://github.com/NorfairKing/super-user-spark)
 
+### ttask
+* スクラムに則ったCLIのタスク管理ツール
+* <https://github.com/tokiwoousaka/ttask>
+
 ### typebot
 * 関数の型を答えてくれるSlack bot
 * <https://github.com/thoughtbot/typebot>
