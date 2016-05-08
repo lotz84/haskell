@@ -160,3 +160,5 @@
 * [SAW - The Software Analysis Workbench](http://saw.galois.com/index.html)
 * [HIPERFIT/futhark](HIPERFIT/futhark)
 * [J for Haskell Programmers](http://crypto.stanford.edu/~blynn/haskell/jfh.html)
+* [The Disciplined Disciple Compiler (DDC)](http://disciple.ouroborus.net/)
+* [FOMObot Will Help With Your Slack FOMO](https://robots.thoughtbot.com/fomobot-will-help-with-your-slack-fomo)
