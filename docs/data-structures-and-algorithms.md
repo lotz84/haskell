@@ -83,6 +83,7 @@
 * [Data is Code](http://www.haskellforall.com/2016/04/data-is-code.html)
 * [Rubik's cube combinations](http://kenta.blogspot.jp/2016/04/vcppbmdn-rubiks-cube-combinations.html)
 * [Haskellでいかに多態を表すか](http://fumieval.hatenablog.com/entry/2015/04/06/173848)
+* [Haskellで平衡化する方法: 6秒かかる処理を3秒にしよう](http://qiita.com/eielh/items/64ba5f0164b89c6c284e)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
