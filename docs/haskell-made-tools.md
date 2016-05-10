@@ -116,6 +116,10 @@ $ hobbes "*.hs" | xargs -n1 ghc --make
 * Haskellのimport文を並べ替えるコマンド
 * <https://github.com/fumieval/import-bikeshedder>
 
+### markov-bot
+* 過去のツイートを学習してボットを作ってくれるツール
+* <https://github.com/ryota-ka/markov-bot>
+
 ### Pandoc
 * ドキュメントを別の形式のドキュメントに変換できるコマンド
 * とにかくサポートしている形式が多い
