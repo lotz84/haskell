@@ -48,6 +48,7 @@
 * [HaskellでTwitterにpostする](http://yunomu.hatenablog.jp/entry/2012/05/13/210629)
 * [Web Dev with Fn](https://www.youtube.com/watch?v=tuBeA1wn4js)
 * [Haskell版フォルダを指定してhttpで公開する簡易Webサーバー](http://qiita.com/saturday06/items/fad44a9bc49b2f387bde)
+* [HaskellからSlackにさくっとPOSTする](http://blog.euphonictech.com/entry/2016/05/08/225740)
 
 ##Socket
 * [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)
@@ -216,6 +217,7 @@ indexHtml = do
 * [swagger2 and servant-swagger](http://haskell-servant.github.io/posts/2016-02-06-servant-swagger.html)
 * [servant 0.5 released](http://haskell-servant.github.io/posts/2016-03-19-servant-0.5-release.html)
 * [themoritz/diener](https://github.com/themoritz/diener)
+* [Haskell servant 0.4 のドキュメントを和訳した](http://qiita.com/algas/items/7a67417498c5126b6ab6)
 
 ####Microservices
 * [k-bx/owlcloud](https://github.com/k-bx/owlcloud)
