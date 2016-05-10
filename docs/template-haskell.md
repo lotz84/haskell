@@ -9,6 +9,7 @@ Template Haskell はHaskellの言語仕様には無くGHCの独自拡張なの�
 * [TemplateHaskellでコンパイル時に計算しておく方法](http://qiita.com/hiyakashi_/items/452549b8766c341cd3c8)
 * [Typed holes support in Template Haskell](http://lambda.jstolarek.com/2015/10/typed-holes-support-in-template-haskell/)
 * [24 days of Hackage, 2015: day 9: Template Haskell goodies: here, interpolate, file-embed](http://conscientiousprogrammer.com/blog/2015/12/09/24-days-of-hackage-2015-day-9-template-haskell-goodies-here-interpolate-file-embed/)
+* [User-defined literals in Haskell via QuasiQuotes](http://harry.garrood.me/blog/qq-literals/)
 
 ```haskell
 {-# LANGUAGE QuasiQuotes #-}
