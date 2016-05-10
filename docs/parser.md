@@ -16,6 +16,7 @@
 * [Haskellで簡単な正規表現を実装した【KMCアドベントカレンダー8日目】](http://yu-i9.hatenablog.com/entry/2014/12/08/000104)
 * [Partial Derivatives of Regular Expressions](https://www.youtube.com/watch?v=QVdBPvOOjBA)
 * [A Play on Regular Expressions](http://sebfisch.github.io/haskell-regexp/regexp-play.pdf)
+* [Differentiating Regular Expressions](http://languagengine.co/blog/differentiating-regular-expressions/)
 
 ##パーサーコンビネータ
 * [JavaScriptでパーサコンビネータのコンセプトを理解する](http://blog.anatoo.jp/entry/2015/04/26/220026)
