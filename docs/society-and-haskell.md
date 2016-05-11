@@ -44,6 +44,7 @@
 * [The Joy and Agony of Haskell in Production](http://www.stephendiehl.com/posts/production.html)
 * [Porting the Pusher integration tests to Haskell](http://blog.pusher.com/porting-the-pusher-integration-tests-to-haskell/)
 * [Tweag I/O](http://www.tweag.io/)
+* [Jane Street](https://www.janestreet.com/)
 
 ### FPComplete
 * [FPComplete](https://www.fpcomplete.com/)
