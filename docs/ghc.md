@@ -59,6 +59,7 @@
 * [Improving Type Error Localization for Languages with Type Inference](https://www.youtube.com/watch?v=BMT6MZ5zuvw)
 * [GHC Development: OutsideIn](http://www.arcadianvisions.com/blog/2016/ghc-contributing.html)
 * [Low latency, large working set, and GHC’s garbage collector: pick two of three](https://blog.pusher.com/latency-working-set-ghc-gc-pick-two/)
+* [Anders Hejlsberg on Modern Compiler Construction](https://channel9.msdn.com/Blogs/Seth-Juarez/Anders-Hejlsberg-on-Modern-Compiler-Construction)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
