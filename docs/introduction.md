@@ -81,6 +81,7 @@ $ alias ghci='stack ghci'
 * [Happy Learn Haskell Tutorial (Setup)](https://www.youtube.com/watch?v=8dPTG_bxvSI)
 * [Happy Learn Haskell Tutorial Chapter 1: How to Learn Haskell](https://www.youtube.com/watch?v=S8I7aKCjpJ8)
 * [Happy Learn Haskell Tutorial Chapter 2: Your First Step](https://www.youtube.com/watch?v=4Tfkx6iJK7s)
+* [Pragmatic Haskell for Beginners, Lecture 1](https://begriffs.com/posts/2016-05-14-pragmatic-haskell-1.html)
 
 ##チートシート
 * [What I Wish I Knew When Learning Haskell](http://www.stephendiehl.com/what/) [[ja](https://github.com/Kinokkory/wiwinwlh-jp/wiki)]
