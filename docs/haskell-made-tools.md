@@ -1,3 +1,5 @@
+* [Complete interactive development program for Haskell - chrisdone/intero](https://github.com/chrisdone/intero)
+
 ### antigen-hs
 * zsh のプラグインマネージャー
 * <https://github.com/Tarrasch/antigen-hs>
