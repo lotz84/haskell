@@ -82,6 +82,7 @@ $ alias ghci='stack ghci'
 * [Happy Learn Haskell Tutorial Chapter 1: How to Learn Haskell](https://www.youtube.com/watch?v=S8I7aKCjpJ8)
 * [Happy Learn Haskell Tutorial Chapter 2: Your First Step](https://www.youtube.com/watch?v=4Tfkx6iJK7s)
 * [Pragmatic Haskell for Beginners, Lecture 1](https://begriffs.com/posts/2016-05-14-pragmatic-haskell-1.html)
+* [Haskell 初心者が ライフゲーム 書いた](http://qiita.com/DUxCA/items/9facbd4fe4937650e1f4)
 
 ##チートシート
 * [What I Wish I Knew When Learning Haskell](http://www.stephendiehl.com/what/) [[ja](https://github.com/Kinokkory/wiwinwlh-jp/wiki)]
@@ -139,6 +140,7 @@ in map (fromMaybe . show <*> 3 ~> "fizz" <> 5 ~> "buzz")
 * [Haskell IDE Engine progress report November 2015](https://github.com/haskell/haskell-ide-engine/blob/master/docs/Report-2015-11.md)
 * [Haskell IDE Engine progress report for December 2015.](https://github.com/haskell/haskell-ide-engine/blob/master/docs/Report-2015-12.md)
 * [VS CodeでHaskellの簡単な環境を作る](http://azaika.hateblo.jp/entry/2015/12/19/151554)
+* [VisualStduioCodeでHaskell開発環境を整える](http://qiita.com/DUxCA/items/8e7a68ffee522bdd8918)
 * [wandernauta/viskell](https://github.com/wandernauta/viskell)
 * [haskell/haskell-mode](https://github.com/haskell/haskell-mode)
 * [SublimeText3 で Haskell (Stack) を書くための環境構築 (Mac OS X)](http://qiita.com/algas/items/77c7f6455f8106c1a9e8)
