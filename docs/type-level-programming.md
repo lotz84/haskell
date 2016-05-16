@@ -50,6 +50,7 @@
 * [Quantifiers in type theory](http://winterkoninkje.dreamwidth.org/108092.html)
 * [Typed Routing with Continuations](https://www.youtube.com/watch?v=tQI2JJwD_ZY)
 * [型レベル数値リテラル](http://qiita.com/eielh/items/275a4cc3de033904897a)
+* [型を表示する関数](http://qiita.com/ruicc/items/d04a9f61a5fa702f10d5)
 
 ```haskell
 data Bottom
