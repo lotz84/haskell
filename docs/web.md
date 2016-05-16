@@ -1,3 +1,5 @@
+TODO: 目次を作る
+
 * [HaskellでWebAppの開発に必要なN個のこと](http://maoe.hatenadiary.jp/entry/2013/09/10/182914)
 * [mighttpd](https://hackage.haskell.org/package/mighttpd)
 * [Tutorial] Haskell Game Server
@@ -49,6 +51,7 @@
 * [Web Dev with Fn](https://www.youtube.com/watch?v=tuBeA1wn4js)
 * [Haskell版フォルダを指定してhttpで公開する簡易Webサーバー](http://qiita.com/saturday06/items/fad44a9bc49b2f387bde)
 * [HaskellからSlackにさくっとPOSTする](http://blog.euphonictech.com/entry/2016/05/08/225740)
+* [ghcjs/ghcjs-dom](https://github.com/ghcjs/ghcjs-dom)
 
 ##Socket
 * [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)
