@@ -32,6 +32,7 @@
 * [Property-based Testing with QuickCheck in Playgrounds](http://blog.haskellformac.com/blog/property-based-testing-with-quickcheck-in-playgrounds)
 * [Lysxia/generic-random](https://github.com/Lysxia/generic-random)
 * [Quickfix all the things with Sarsi](http://aloiscochard.blogspot.jp/2016/04/quickfix-all-things-with-sarsi.html)
+* [karun012/arion](https://github.com/karun012/arion)
 
 ###QuickCheck
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
