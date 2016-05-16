@@ -52,6 +52,7 @@ parse = evalStateT
 * [Parser Combinators: Parsing for Haskell Beginners](http://two-wrongs.com/parser-combinators-parsing-for-haskell-beginners)
 * [What's in a parser combinator?](http://remusao.github.io/whats-in-a-parser-combinator.html)
 * [Megaparsec 4 and 5](https://mrkkrp.github.io/posts/megaparsec-4-and-5.html)
+* [OpenFlowの可変長フィールドをAttoparsecで解析する](http://qiita.com/ilyaletre/items/b0e77aeb67914aec60be)
 
 ###Language
 * [Hackage Search: language](https://hackage.haskell.org/packages/search?terms=language)
