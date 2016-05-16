@@ -102,6 +102,7 @@
 * [Stack traces in GHCi, coming in GHC 8.0.1](http://simonmar.github.io/posts/2016-02-12-Stack-traces-in-GHCi.html)
 * [New type of ($) operator in GHC 8.0 is problematic](https://mail.haskell.org/pipermail/ghc-devs/2016-February/011268.html)
 * [GHC 8.0.1/base-4.9.0.0の新機能まとめ](http://fumieval.hatenablog.com/entry/2016/02/29/191740)
+* [2016 04 28 - Alexander Bernauer - A Tour of GHC 8 0](https://www.youtube.com/watch?v=aDcp7OmCwBM&feature=em-upload_owner)
 
 ###LLVM
 * [LLVM フレームワークで実用的なコンパイラーを作成する: 第 1 回](http://www.ibm.com/developerworks/jp/opensource/library/os-createcompilerllvm1/index.html)
