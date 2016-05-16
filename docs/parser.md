@@ -32,6 +32,7 @@ parse = evalStateT
 * [The parsec package](https://hackage.haskell.org/package/parsec)
 * [Megaparsec](https://mrkkrp.github.io/megaparsec/)
   * [Tutorials](https://mrkkrp.github.io/megaparsec/tutorials.html)
+  * [Announcing Megaparsec 5](https://mrkkrp.github.io/posts/announcing-megaparsec-5.html)
 * [The attoparsec package](http://hackage.haskell.org/package/attoparsec)
 * [The trifecta package](https://hackage.haskell.org/package/trifecta)
 * [The parsers package](http://hackage.haskell.org/package/parsers)
