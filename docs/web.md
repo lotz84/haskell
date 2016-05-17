@@ -52,6 +52,7 @@ TODO: 目次を作る
 * [Haskell版フォルダを指定してhttpで公開する簡易Webサーバー](http://qiita.com/saturday06/items/fad44a9bc49b2f387bde)
 * [HaskellからSlackにさくっとPOSTする](http://blog.euphonictech.com/entry/2016/05/08/225740)
 * [ghcjs/ghcjs-dom](https://github.com/ghcjs/ghcjs-dom)
+* [Fun with GHCJSi](https://www.youtube.com/watch?v=x7dQVZiWjvA)
 
 ##Socket
 * [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)
