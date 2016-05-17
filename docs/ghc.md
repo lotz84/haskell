@@ -60,6 +60,8 @@
 * [GHC Development: OutsideIn](http://www.arcadianvisions.com/blog/2016/ghc-contributing.html)
 * [Low latency, large working set, and GHC’s garbage collector: pick two of three](https://blog.pusher.com/latency-working-set-ghc-gc-pick-two/)
 * [Anders Hejlsberg on Modern Compiler Construction](https://channel9.msdn.com/Blogs/Seth-Juarez/Anders-Hejlsberg-on-Modern-Compiler-Construction)
+* [Debugging tcIfaceGlobal errors in GHC: a study in interpreting trace output](http://blog.ezyang.com/2016/05/debugging-tcifaceglobal-errors-in-ghc-a-study-in-interpreting-trace-output/)
+* [What is the Difference Between GHC and the HaLVM?](https://github.com/GaloisInc/HaLVM/wiki/What-is-the-Difference-Between-GHC-and-the-HaLVM%3F)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
