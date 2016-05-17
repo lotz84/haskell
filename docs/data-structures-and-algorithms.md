@@ -86,6 +86,7 @@
 * [Haskellで平衡化する方法: 6秒かかる処理を3秒にしよう](http://qiita.com/eielh/items/64ba5f0164b89c6c284e)
 * [データ型のCPS変換について](http://myuon-myon.hatenablog.com/entry/2016/05/11/215734)
 * [On Ad-hoc Datatypes](https://jaspervdj.be/posts/2016-05-11-ad-hoc-datatypes.html)
+* [The validation package](http://hackage.haskell.org/package/validation)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
