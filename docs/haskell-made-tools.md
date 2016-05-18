@@ -210,6 +210,7 @@ Line 6:
 * [haskellで周波数スペクトルを描画したはなし](http://cocu.hatenablog.com/entry/2016/02/11/190538)
 * Create ctags compatible tags files for Haskell programs - [bitc/lushtags](https://github.com/bitc/lushtags)
 * [SamuelSchlesinger/Quickterm](https://github.com/SamuelSchlesinger/Quickterm)
+* [Haskellでインタプリタみたいなのを実装する時のBufferModeの事](http://yunomu.hatenablog.jp/entry/2012/02/13/215657)
 
 ###オプションパーサー
 * [HaskellのSystem.Console.ParseArgs](http://yu-i9.hatenablog.com/entry/2014/08/29/135253)
