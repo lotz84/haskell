@@ -43,7 +43,6 @@ $ alias ghci='stack ghci'
 * [やさしい Haskell 入門 (バージョン98)](http://www.sampou.org/haskell/tutorial-j/index.html)
 * [【関数型言語Haskellの基本】高階関数map,reduceを使って遊んでみた](https://codeiq.jp/magazine/2016/02/31747/)
 * [Haskellの世界](https://skami.iocikun.jp/computer/haskell)
-* [Haskell for Mac でちょっと Haskell をさわってみる](http://qiita.com/usamik26/items/d99bf694150a549b5078)
 * [1から学ぶHaskell: プログラマ向けのHaskell入門](https://skami.iocikun.jp/computer/haskell/web_lecture/for_programmer/)
 * [Learning Real Haskell Incrementally](http://begriffs.com/posts/2015-10-24-learning-haskell-incrementally.html)
 * [Design Patterns in Haskell](http://blog.ezyang.com/2010/05/design-patterns-in-haskel/)
@@ -134,9 +133,13 @@ in map (fromMaybe . show <*> 3 ~> "fizz" <> 5 ~> "buzz")
 * [haskell-pointfree package](https://atom.io/packages/haskell-pointfree)
 * [Atom + Stack = no globally installed GHC/packages](http://blog.nikosbaxevanis.com/2016/05/19/atom-and-stack-no-globally-installed-ghc-and-packages/)
 
+### Haskell for Mac
+* [Haskell for Mac](http://haskellformac.com/)
+* [Haskell for Mac でちょっと Haskell をさわってみる](http://qiita.com/usamik26/items/d99bf694150a549b5078)
+* [Inspecting HTML documents in Haskell playgrounds](http://blog.haskellformac.com/blog/inspecting-html-documents-in-haskell-playgrounds)
+
 ###Others
 * [Leksah](http://leksah.org/)
-* [Haskell for Mac](http://haskellformac.com/)
 * [EclipseFP](http://eclipsefp.github.io/)
 * [[Haskell-cafe] [ANN] haskell-ide project](https://mail.haskell.org/pipermail/haskell-cafe/2015-October/121875.html)
 * [The new haskell-ide repo](https://www.fpcomplete.com/blog/2015/10/new-haskell-ide-repo)
