@@ -53,6 +53,7 @@ type a * b = (a, b)
 * [PATTERN MATCHING: WOT'S... UH THE DEAL?](http://www.stackbuilders.com/news/pattern-matching-wot-s-uh-the-deal)
 * [Pattern and Guard Extensions](https://www.fpcomplete.com/school/to-infinity-and-beyond/pick-of-the-week/guide-to-ghc-extensions/pattern-and-guard-extensions)
 * [Haskell で条件分岐](http://qiita.com/rooooomania/items/1623e5b981a30fbc8427)
+* [コピペしてすぐ確認できるHaskellの条件分岐](http://qiita.com/nejimakidori/items/f6aedce6308ce5e32914)
 
 ###多変数関数とカリー化
 * [Curry](https://ro-che.info/ccc/10)
