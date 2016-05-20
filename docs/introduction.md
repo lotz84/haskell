@@ -130,6 +130,7 @@ in map (fromMaybe . show <*> 3 ~> "fizz" <> 5 ~> "buzz")
 ###Atom
 * [Switching from Vim to Atom (A Haskeller's Perspective)](http://edsko.net/2015/03/07/vim-to-atom/)
 * [haskell-pointfree package](https://atom.io/packages/haskell-pointfree)
+* [Atom + Stack = no globally installed GHC/packages](http://blog.nikosbaxevanis.com/2016/05/19/atom-and-stack-no-globally-installed-ghc-and-packages/)
 
 ###Others
 * [Leksah](http://leksah.org/)
