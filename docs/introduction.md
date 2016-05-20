@@ -58,7 +58,6 @@ $ alias ghci='stack ghci'
 * [Yet Another Haskell Tutorial](http://www.umiacs.umd.edu/~hal/docs/daume02yaht.pdf)
 * [Learning Haskell](http://learn.hfm.io/) -- 図が豊富でわかりやすい
 * 🎥 [Haskell Basics](http://www.sonarlearning.co.uk/coursepage.php?topic=desktop&course=haskell-basics)
-* [Real World Haskell](http://book.realworldhaskell.org/read/)
 * [すごいHaskell つくばで学ぼう！](https://github.com/nushio3/learn-haskell)
 * [Introduction to functional programming with Haskell](https://ocramz.github.io/haskell/tutorials/2015/08/21/haskell-tut-v1.html)
 * [PLEAC-Haskell](http://pleac.sourceforge.net/pleac_haskell/index.html)
@@ -83,7 +82,10 @@ $ alias ghci='stack ghci'
 * [Happy Learn Haskell Tutorial Chapter 2: Your First Step](https://www.youtube.com/watch?v=4Tfkx6iJK7s)
 * [Pragmatic Haskell for Beginners, Lecture 1](https://begriffs.com/posts/2016-05-14-pragmatic-haskell-1.html)
 * [Haskell 初心者が ライフゲーム 書いた](http://qiita.com/DUxCA/items/9facbd4fe4937650e1f4)
-
+* [Real World Haskell](http://book.realworldhaskell.org/read/)
+  * [Real World Haskell の古いところ](http://d.hatena.ne.jp/kazu-yamamoto/20140206/1391666962)
+  * [Re: Real World Haskellの古いところ](http://maoe.hatenadiary.jp/entry/2014/02/06/195156)
+  
 ##チートシート
 * [What I Wish I Knew When Learning Haskell](http://www.stephendiehl.com/what/) [[ja](https://github.com/Kinokkory/wiwinwlh-jp/wiki)]
 * [The Haskell Cheatsheet](http://cheatsheet.codeslower.com/)
