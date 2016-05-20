@@ -103,6 +103,11 @@ $ hidenticon --hash 3238947aafb9293801decf1230329 --size 128 -o 3238947aafb92938
 
 ![](https://i.gyazo.com/2d6a9761a6697609bc4c26e348b54ae9.png)
 
+### hledger
+* 会計管理ツール
+* <http://hledger.org/>
+* [ledger/ledger4](https://github.com/ledger/ledger4) - A rewrite of Ledger's core mathematical concepts in Haskell
+
 ### hobbes
 * ファイルの変更を検知してくれるコマンド。Lunux, OS X, Windows対応
 * <https://github.com/jhickner/hobbes>
