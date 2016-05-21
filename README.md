@@ -50,3 +50,4 @@
 * [A Haskell Reading List](http://www.stephendiehl.com/posts/essential_haskell.html)
 * [chemouna/HaskellResources](https://github.com/chemouna/HaskellResources)
 * [Haskell Communities and Activities Report](https://wiki.haskell.org/Haskell_Communities_and_Activities_Report)
+
