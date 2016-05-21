@@ -1,4 +1,4 @@
-##継続
+## 継続
 
 > 文献を紐解くと、 継続とは「これから行われるであろう計算をパッケージ化したもの」とある。
 
@@ -8,51 +8,7 @@
 
 継続は一般的な概念であるがここではHaskellの継続渡しスタイルとCont Monadについて説明する
 
-```haskell
-newtype Cont r a = Cont { runCont :: (a -> r) -> r }
-```
-
-###call/cc
-
-```haskell
-callCC :: ((a -> Cont r b) -> Cont r a) -> ContT r a
-callCC f = Cont $ \c -> runCont (f (\a -> Cont $ \_ -> c a)) c
-```
-
-####例) 無限ループからの脱出
-
-```haskell
-import Control.Monad.Cont
-
-main :: IO ()
-main = do
-  putStrLn "Start"
-  withBreak $ \break ->
-    forM_ [1..] $ \i -> do
-      liftIO . putStrLn $ "Loop: " ++ show i
-      when (i == 5) $ break ()
-  putStrLn "End"
-  where
-    withBreak = flip runContT pure . callCC
-```
-
-* [無限ループから抜け出すプログラム](http://qiita.com/lotz/items/a1ff5725e918e216940e)
-
-###shift/reset
-* [shift/reset プログラミング入門](http://pllab.is.ocha.ac.jp/~asai/cw2011tutorial/main-j.pdf)
-
-```haskell
--- shift/reset for the Cont monad
-shift :: ((a -> Cont s r) -> Cont r r) -> Cont r a
-shift e = Cont $ \k -> e (return . k) `runCont` id
- 
-reset :: Cont a a -> Cont r a 
-reset e = return $ e `runCont` id
-```
-
-出典: [MonadCont done right](https://www.haskell.org/haskellwiki/MonadCont_done_right)
-
-###継続渡しスタイル
+### 継続渡しスタイル
 * [CPS というプログラミングスタイルの導入の話](http://yuzumikan15.hatenablog.com/entry/2015/04/24/094610)
 * [The Mother of all Monads](http://blog.sigfpe.com/2008/12/mother-of-all-monads.html)
 * [Control.Monad.Cont](https://hackage.haskell.org/package/mtl/docs/Control-Monad-Cont.html)
@@ -61,6 +17,7 @@ reset e = return $ e `runCont` id
 * [Haskell で継続渡しスタイル (CPS)](http://jutememo.blogspot.jp/2011/05/haskell-cps.html)
 * [The mtl-c package](https://hackage.haskell.org/package/mtl-c)
 * [Resource Management in Haskell](http://aherrmann.github.io/programming/2016/01/04/resource-management-in-haskell/)
+
 
 ```haskell
 -- Another junior Haskell programmer
@@ -76,63 +33,18 @@ fac = facCps id
 
 出典: [The Evolution of a Haskell Programmer](http://www.willamette.edu/~fruehr/haskell/evolution.html)
 
-###CPSからContモナドへ
+### Contモナド
+
+```haskell
+newtype Cont r a = Cont { runCont :: (a -> r) -> r }
+```
+
 * [継続モナドによるリソース管理](http://qiita.com/tanakh/items/81fc1a0d9ae0af3865cb)
+* [Continuation Passing Style in Haskell](http://begriffs.com/posts/2015-06-03-haskell-continuations.html)
+* [無限ループから抜け出すプログラム](http://qiita.com/lotz/items/a1ff5725e918e216940e)
 
-```haskell
-type Radius = Double
-type Area   = Double
-
-suspendArea :: Radius -> (Area -> r) -> r
-suspendArea r = \k -> k (pi * r * r)
-
-type Height = Double
-type Volume = Double
-suspendExtrude :: Area -> Height -> (Volume -> r) -> r
-suspendExtrued a h = \k -> k (a * h)
-
-suspendVolume :: Radius -> Height -> (Volume -> r) -> r
-suspendVolume r h = \k ->
-                        suspendArea r $ \area ->
-                            (suspendExtrude area h) k
-```
-
-ここに2つのCPSを組み合わせるパターンを見いだせる
-
-```haskell
-chain :: ((a -> r) -> r) -> (a -> ((b -> r) -> r)) -> ((b -> r) -> r)
-chain f g = \k ->
-                f $ \a ->
-                    (g a) k
-```
-
-これは`(a -> r) -> r`をモナドとした見た時`(>>=)`になる
-
-```haskell
-newtype Cont r a = Cont {runCont :: (a -> r) -> r}
-
-instance Functor (Cont r) where
-    fmap f c = Cont $ \k -> runCont c (k . f)
-
-instance Applicative (Cont r) where
-    pure x = Cont $ \k -> k x
-    m <*> k = Cont $ \c ->
-                  runCont m $ \f ->
-                      runCont k $ \a ->
-                          c (f a)
-
-instance Monad (Cont r) where
-    return = pure
-    m >>= k = Cont $ \c ->
-                  runCont m $ \a ->
-                      runCont (k a) $ \b ->
-                          c b
-```
-参考: [Continuation Passing Style in Haskell](http://begriffs.com/posts/2015-06-03-haskell-continuations.html)
-
-###継続による計算の効率化
+### 継続による計算の効率化
 継続を使って短絡評価が実装できる  
-参考: [Continuation Passing Style in Haskell](http://begriffs.com/posts/2015-06-03-haskell-continuations.html)
 
 ```haskell
 prod :: (Eq a, Num a) => [a] -> a
@@ -145,19 +57,22 @@ prod l = (`runCont` id) $ callCC (\k -> loop k l)
         return (n * xs)
 ```
 
-末尾再帰
+### shift/reset
+* [shift/reset プログラミング入門](http://pllab.is.ocha.ac.jp/~asai/cw2011tutorial/main-j.pdf)
+* [Introduction to Programming with Shift and Reset](http://www.is.ocha.ac.jp/~asai/cw2011tutorial/main-e.pdf)
+* [Shift to control](http://homes.soic.indiana.edu/ccshan/recur/recur.pdf)
+* [shift/reset と control/prompt の違い](http://d.hatena.ne.jp/ku-ma-me/20080417/p2)
 
 ```haskell
-fact :: Int -> (Int -> r) -> r
-fact 0 f = f 1
-fact n f = fact (n-1) (f . (n*))
-
--- 一般に
-toc :: a -> (b -> r) -> r
-toc 基底部
-toc a f = let g b = 処理
-          in toc a (f . g)
+-- shift/reset for the Cont monad
+shift :: ((a -> Cont s r) -> Cont r r) -> Cont r a
+shift e = Cont $ \k -> e (return . k) `runCont` id
+ 
+reset :: Cont a a -> Cont r a 
+reset e = return $ e `runCont` id
 ```
+
+出典: [MonadCont done right](https://www.haskell.org/haskellwiki/MonadCont_done_right)
 
 ###米田埋め込み
 
@@ -182,3 +97,4 @@ cps = flip (.)
 出典: [継続渡しスタイル - Wikipedia](http://ja.wikipedia.org/wiki/%E7%B6%99%E7%B6%9A%E6%B8%A1%E3%81%97%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB)
 
 * [Curry-Howard Isomorphism](http://www.kmonos.net/wlog/61.html#_0538060508)
+* [カリー＝ハワード 同型対応 と 継続](https://www.duxca.com/slide/?curry_howard_isomorphism/index.md#/)
