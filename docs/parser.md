@@ -17,6 +17,7 @@
 * [Partial Derivatives of Regular Expressions](https://www.youtube.com/watch?v=QVdBPvOOjBA)
 * [A Play on Regular Expressions](http://sebfisch.github.io/haskell-regexp/regexp-play.pdf)
 * [Differentiating Regular Expressions](http://languagengine.co/blog/differentiating-regular-expressions/)
+* [Regex Edit Distance](http://languagengine.co/blog/regex-edit-distance/)
 
 ##パーサーコンビネータ
 * [JavaScriptでパーサコンビネータのコンセプトを理解する](http://blog.anatoo.jp/entry/2015/04/26/220026)

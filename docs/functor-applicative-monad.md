@@ -135,6 +135,7 @@ class Monad m where
 * [Railway Oriented Programming](http://www.slideshare.net/ScottWlaschin/railway-oriented-programming)
 * [モナドの六つの系統[Functor x Functor]](http://fumieval.hatenablog.com/entry/2013/06/05/182316)
 * [The five arguments on why people struggle with monads](http://chrisdone.com/posts/monads)
+* [だんだんわかる モナド入門 (Haskell)](http://qiita.com/Fujiee/items/6388cade8bf4797fb1d4)
 
 ```haskell
 do x <- mx
@@ -250,13 +251,28 @@ Reader + Writer + State
 * [A newcomer's run-in with lazy I/O](https://ianthehenry.com/2016/3/9/lazy-io/)
 * [IO Monad Considered Harmful](https://blog.jle.im/entry/io-monad-considered-harmful.html)
 
-###MonadPlus
+### Monad*
+#### MonadFail
+* [MonadFail Proposal](https://wiki.haskell.org/MonadFail_Proposal)
+
+#### MonadPlus
 * [MonadPlus and Monoid serve different purposes.](http://stackoverflow.com/questions/10167879/distinction-between-typeclasses-monadplus-alternative-and-monoid#10168111)
 * [MonadPlus and Alternative are just near-semirings in the category of endofunctors, what's the problem?](http://tomschrijvers.blogspot.jp/2015/07/monadplus-and-alternative-are-just-near.html)
     * [MonadPlusとNearSemiringで反例探し](http://myuon-myon.hatenablog.com/entry/2015/07/21/225358)
 * [`returnWhen` for MonadPlus](http://athanclark.github.io/posts/2015-08-26-returnWhen-for-MonadPlus.html)
 
-###MonadFix
+#### MonadBase
+* [transformars-base](https://hackage.haskell.org/package/transformers-base)
+
+#### MonadIO
+* [Control.Monad.IO.Class](https://hackage.haskell.org/package/transformers/docs/Control-Monad-IO-Class.html)
+
+#### MonadThrow
+#### MonadCatch
+#### MonadMask
+* [Control.Monad.Catch](https://hackage.haskell.org/package/exceptions/docs/Control-Monad-Catch.html)
+
+####MonadFix
 * [MonadFix example: compiling regular expressions](https://ro-che.info/articles/2015-09-02-monadfix)
 
 ###Indexed Monad
@@ -313,6 +329,7 @@ Reader + Writer + State
 * [Basic Category Theory](http://www.staff.science.uu.nl/~ooste110/syllabi/catsmoeder.pdf)
 * [An Introduction CATEGORY THEORY in for easy movements](http://www.cs.man.ac.uk/~hsimmons/BOOKS/CatTheory.pdf)
 * [Introduction to Categories and Categorical Logic](http://www.cs.ox.ac.uk/people/bob.coecke/AbrNikos.pdf)
+* [Categorification of Fourier Theory](https://www.youtube.com/watch?v=w3f8KEcv4RE&feature=youtu.be)
 
 ###CPL
 * [圏論プログラミング言語 CPL](http://mandel59.hateblo.jp/entry/2015/02/02/110621)

@@ -223,6 +223,7 @@ indexHtml = do
 * [servant 0.5 released](http://haskell-servant.github.io/posts/2016-03-19-servant-0.5-release.html)
 * [themoritz/diener](https://github.com/themoritz/diener)
 * [Haskell servant 0.4 のドキュメントを和訳した](http://qiita.com/algas/items/7a67417498c5126b6ab6)
+* [ElvishJerricco/servant-router](https://github.com/ElvishJerricco/servant-router)
 
 ####Microservices
 * [k-bx/owlcloud](https://github.com/k-bx/owlcloud)
@@ -348,6 +349,7 @@ $ heroku config:set HALCYON_NO_BUILD_DEPENDENCIES=0
 * [Declaring RESTful APIs with PostgREST](http://begriffs.com/posts/2014-12-30-intro-to-postgrest.html)
 * [A Tour of PostgREST](http://begriffs.com/posts/2016-03-20-postgrest-tour.html)
 * [Haskellからmysqlを実行する](http://tsubaki.hatenablog.com/entry/20121020/1350734844)
+* [AtnNn/haskell-rethinkdb](https://github.com/AtnNn/haskell-rethinkdb)
 
 ###Simples
 * [The mysql-simple package](https://hackage.haskell.org/package/mysql-simple)

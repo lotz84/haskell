@@ -63,6 +63,10 @@
 * [Debugging tcIfaceGlobal errors in GHC: a study in interpreting trace output](http://blog.ezyang.com/2016/05/debugging-tcifaceglobal-errors-in-ghc-a-study-in-interpreting-trace-output/)
 * [What is the Difference Between GHC and the HaLVM?](https://github.com/GaloisInc/HaLVM/wiki/What-is-the-Difference-Between-GHC-and-the-HaLVM%3F)
 * [Roles: a new feature of GHC](https://typesandkinds.wordpress.com/2013/08/15/roles-a-new-feature-of-ghc/)
+* [Another space leak: QuickCheck edition](http://neilmitchell.blogspot.jp/2016/05/another-space-leak-quickcheck-edition.html)
+* [Dynamic loading of Haskell modules](http://purelyfunctional.org/posts/2016-05-20-dynamic-loading-haskell-module.html)
+* [A Debugging Horror Story: Fixing a Tricky GHC Bug](http://www.echonolan.net/posts/2016-05-10-a-debugging-horror-story.html)
+* [Why TAB cycle indentation for Haskell is a hard problem](https://github.com/haskell/haskell-mode/wiki/Why-TAB-cycle-indentation-for-Haskell-is-a-hard-problem)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)

@@ -113,6 +113,7 @@ class Functor g => Distributive g where
 * [Domain Theory](http://www.cs.bham.ac.uk/~axj/pub/papers/handy1.pdf)
 * [再帰的関数論](http://www.kurims.kyoto-u.ac.jp/~cs/cs2011_terui.pdf)
 * [再帰プログラムの意味論について](http://www.kurims.kyoto-u.ac.jp/~hassei/papers/sugaku07.pdf)
+* [Domain Theory: An Introduction](https://arxiv.org/abs/1605.05858v1)
 
 ```haskell
 fact = fix $ \fact n -> if n == 0 then 1 else n * fact (n-1)
