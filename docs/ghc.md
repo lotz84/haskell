@@ -111,6 +111,7 @@
 * [GHC 8.0.1/base-4.9.0.0の新機能まとめ](http://fumieval.hatenablog.com/entry/2016/02/29/191740)
 * [2016 04 28 - Alexander Bernauer - A Tour of GHC 8 0](https://www.youtube.com/watch?v=aDcp7OmCwBM&feature=em-upload_owner)
 * [[ANNOUNCE] GHC 8.0.1 is available!](https://mail.haskell.org/pipermail/ghc-devs/2016-May/012098.html)
+* [GHC 8.0.1 is available!](https://ghc.haskell.org/trac/ghc/blog/ghc-8.0.1-released)
 
 ###LLVM
 * [LLVM フレームワークで実用的なコンパイラーを作成する: 第 1 回](http://www.ibm.com/developerworks/jp/opensource/library/os-createcompilerllvm1/index.html)
