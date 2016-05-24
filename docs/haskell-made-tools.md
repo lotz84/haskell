@@ -61,6 +61,10 @@ $ gifcurry_cli ./in.mp4 ./out.gif start_second duration quality 'Optional top te
 * コマンドライン上でgifを探して表示できるコマンド
 * <https://github.com/passy/givegif>
 
+### grammar-inference
+* Learning rigid grammars in Haskell.
+* <https://github.com/ayberkt/grammar-inference>
+
 ### Hakyll
 * 静的サイトジェネレータ
 * <https://jaspervdj.be/hakyll/>
