@@ -64,6 +64,7 @@
 * [Deploying Haskell for Mac projects on OS X and Linux](http://blog.haskellformac.com/blog/deploying-haskell-for-mac-projects-on-os-x-and-linux)
 * [The Stackage data flow](https://www.fpcomplete.com/blog/2016/04/stackage-data-flow)
 * [stackのオレオレテンプレートを作って楽をする](http://qiita.com/techno-tanoC/items/72d188cd19d8e3ac890d)
+* [LTS Haskell: Version your Ecosystem](https://github.com/fpco/lts-haskell#readme)
 
 ##Nix
 * [Nix ±Cabal](http://begriffs.com/posts/2015-08-07-nix-plus-minus-cabal.html)
