@@ -121,6 +121,8 @@ $ hobbes "*.hs" | xargs -n1 ghc --make
 * ghciベースのプレゼンテーションツール
 * <https://github.com/fokot/howerpoint>
 
+### hpack
+
 ### import-bikeshedder
 * Haskellのimport文を並べ替えるコマンド
 * <https://github.com/fumieval/import-bikeshedder>
@@ -216,6 +218,7 @@ Line 6:
 * Create ctags compatible tags files for Haskell programs - [bitc/lushtags](https://github.com/bitc/lushtags)
 * [SamuelSchlesinger/Quickterm](https://github.com/SamuelSchlesinger/Quickterm)
 * [Haskellでインタプリタみたいなのを実装する時のBufferModeの事](http://yunomu.hatenablog.jp/entry/2012/02/13/215657)
+* [A command-line benchmark tool](http://www.haskellforall.com/2016/05/a-command-line-benchmark-tool.html)
 
 ###オプションパーサー
 * [HaskellのSystem.Console.ParseArgs](http://yu-i9.hatenablog.com/entry/2014/08/29/135253)
