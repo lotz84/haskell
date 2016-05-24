@@ -127,6 +127,10 @@ $ hobbes "*.hs" | xargs -n1 ghc --make
 
 ### hpack
 
+### hsdev
+* Haskell development tool
+* <https://github.com/mvoidex/hsdev>
+
 ### import-bikeshedder
 * Haskellのimport文を並べ替えるコマンド
 * <https://github.com/fumieval/import-bikeshedder>
