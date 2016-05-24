@@ -264,6 +264,7 @@ indexHtml = do
 ##認証/認可
 * [hoauth2](http://hackage.haskell.org/package/hoauth2)
 * [tekul/broch](https://github.com/tekul/broch)
+* [HaskellでOAuth](http://qiita.com/_Ghostrick_/items/ce8d89e0d511cfd56ce9)
 
 ##Heroku
 * [Deploying Haskell to Heroku using Docker](http://www.reddit.com/r/haskell/comments/35he88/deploying_haskell_to_heroku_using_docker/)
