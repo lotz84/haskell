@@ -60,6 +60,7 @@ TODO: 目次を作る
 * [socket](https://hackage.haskell.org/package/socket)
 * [HaNS](https://hackage.haskell.org/package/hans)
 * TLS/SSL implementation in haskell - [vincenthz/hs-tls](https://github.com/vincenthz/hs-tls)
+* [vincenthz/hs-connection](https://github.com/vincenthz/hs-connection)
 
 ##Elm
 * [elm](http://elm-lang.org/)
