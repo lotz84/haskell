@@ -132,6 +132,7 @@ in map (fromMaybe . show <*> 3 ~> "fizz" <> 5 ~> "buzz")
 * [Switching from Vim to Atom (A Haskeller's Perspective)](http://edsko.net/2015/03/07/vim-to-atom/)
 * [haskell-pointfree package](https://atom.io/packages/haskell-pointfree)
 * [Atom + Stack = no globally installed GHC/packages](http://blog.nikosbaxevanis.com/2016/05/19/atom-and-stack-no-globally-installed-ghc-and-packages/)
+* [Atom EditorでHaskell](http://qiita.com/eielh/items/b2e85f8ea4c6cdb8012d)
 
 ### Haskell for Mac
 * [Haskell for Mac](http://haskellformac.com/)
@@ -151,3 +152,4 @@ in map (fromMaybe . show <*> 3 ~> "fizz" <> 5 ~> "buzz")
 * [haskell/haskell-mode](https://github.com/haskell/haskell-mode)
 * [SublimeText3 で Haskell (Stack) を書くための環境構築 (Mac OS X)](http://qiita.com/algas/items/77c7f6455f8106c1a9e8)
 * [ndmitchell/ghcid](https://github.com/ndmitchell/ghcid)
+* [IntelliJでHaskell](http://qiita.com/eielh/items/f121fbd2def8c887405f)
