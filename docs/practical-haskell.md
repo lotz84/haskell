@@ -107,6 +107,7 @@
 * [Circle CI configuration with yesod (haskell) backend and javascript frontend](http://swistak35.com/2016/03/07/Circle-ci-configuration-with-yesod-haskell-and-javascript-frontend/)
 * [guillaume-nargeot/hpc-coveralls](https://github.com/guillaume-nargeot/hpc-coveralls)
 * [Non-recursive Make Considered Harmful](http://research.microsoft.com/en-us/um/people/simonpj/papers/ghc-shake/ghc-shake.pdf)
+* [yesodweb/Shelly.hs](https://github.com/yesodweb/Shelly.hs)
 
 ##FFI
 * [inline-c](https://hackage.haskell.org/package/inline-c)
