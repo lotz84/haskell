@@ -101,6 +101,14 @@
 * [Lazy unary numbers](http://www.edofic.com/posts/2015-05-03-unary-numbers.html)
 * [Exact Real Arithmetic in Haskell](https://www.youtube.com/watch?v=LJQgYBQFtSE)
 
+### Automatic Differentiation
+* [ad](https://hackage.haskell.org/package/ad)
+  * <https://twitter.com/GabrielG439/status/647601518871359489>
+  * [Beautiful differentiation](http://conal.net/blog/posts/beautiful-differentiation)
+* [Computing symbolic gradient vectors with plain Haskell](http://blog.aloni.org/posts/symbolic-gradients-with-plain-haskell/)
+* [Reverse mode Automatic Differentiation](http://h2.jaguarpaw.co.uk/posts/reverse-mode-automatic-differentiation/)
+* [Resources/dx.hs](https://github.com/SamuelSchlesinger/Resources/blob/master/dx.hs)
+
 ###文字列
 * [Haskell String Types](http://www.alexeyshmalko.com/2015/haskell-string-types/)
 * [bytestring](https://hackage.haskell.org/package/bytestring)
