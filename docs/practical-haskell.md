@@ -108,6 +108,7 @@
 * [guillaume-nargeot/hpc-coveralls](https://github.com/guillaume-nargeot/hpc-coveralls)
 * [Non-recursive Make Considered Harmful](http://research.microsoft.com/en-us/um/people/simonpj/papers/ghc-shake/ghc-shake.pdf)
 * [yesodweb/Shelly.hs](https://github.com/yesodweb/Shelly.hs)
+* [lpsmith/configurator-ng](https://github.com/lpsmith/configurator-ng/blob/5a0722ffc2667e0605efb7c3e722a3e8ea8c39c6/README.markdown)
 
 ##FFI
 * [inline-c](https://hackage.haskell.org/package/inline-c)
