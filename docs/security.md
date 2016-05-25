@@ -4,3 +4,4 @@
 * [GaloisInc/cryptol](https://github.com/GaloisInc/cryptol)
 * [GaloisInc/haskell-tor](https://github.com/GaloisInc/haskell-tor)
 * [Cryptography and Verification with Cryptol](https://www.youtube.com/watch?v=sC2_5WaavFc)
+* [Computing Cryptographic Hashes for Cyclic Dependencies](https://blog.fugue.co/2016-05-18-cryptographic-hashes-and-dependency-cycles.html)
