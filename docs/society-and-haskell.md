@@ -1,6 +1,7 @@
 * [Sharing Haskell Builds Across a Team](http://begriffs.com/posts/2016-03-26-consistent-haskell-builds.html)
 * [Haskellプロダクトのススメ](https://www.mma.club.uec.ac.jp/~mizunashi_mana/slides/slides/lighttechtalk-1/)
 * [エンジニアとしてやっていくために必要だったものは「音楽」が教えてくれました －Proper 藤村大介氏](http://press.forkwell.com/post/142270577639/interview-ffu)
+* [Haskell gets a job helping everyone get a job!](https://cdn.rawgit.com/screamish/haskell-gets-a-job/master/Haskell-gets-a-job.pdf)
 
 ##コミュニティ
 * [New York Haskell Users Group](http://www.meetup.com/NY-Haskell/)
