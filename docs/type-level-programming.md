@@ -52,6 +52,7 @@
 * [型レベル数値リテラル](http://qiita.com/eielh/items/275a4cc3de033904897a)
 * [型を表示する関数](http://qiita.com/ruicc/items/d04a9f61a5fa702f10d5)
 * [No value restriction is needed for algebraic effects and handlers](https://arxiv.org/abs/1605.06938)
+* [Practical Dependent Types in Haskell: Type-Safe Neural Networks (Part 1)](https://blog.jle.im/entry/practical-dependent-types-in-haskell-1.html)
 
 ```haskell
 data Bottom
