@@ -12,6 +12,7 @@
 * [HaSKI](http://yager.io/HaSKI/HaSKI.html)
 * [From Haskell to Hardware](http://begriffs.com/posts/2015-06-28-haskell-to-hardware.html)
 * [Translating Haskell to Hardware](https://www.youtube.com/watch?v=k02mEtPfdaQ)
+* [The hpio package](https://hackage.haskell.org/package/hpio)
 
 ##高位合成
 * [Domain-specific Languages and Code Synthesis Using Haskell](http://queue.acm.org/detail.cfm?id=2617811)
