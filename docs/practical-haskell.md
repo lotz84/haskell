@@ -19,6 +19,7 @@
 * [Worst practices should be hard](http://www.haskellforall.com/2016/04/worst-practices-should-be-hard.html)
 * [Simple Unique IP System Script](http://www.latermuse.com/static/ron-simpleuniqueipsystemscript.html)
 * [最近のHaskell製パッケージのドキュメント事情について簡単に](http://qiita.com/igrep/items/e7926ef2d015ca85c18e)
+* [How do you find a function that…](http://myhaskelljournal.com/how-do-you-find-a-function-that/)
 
 ##Cabal
 * [Hackage](http://hackage.haskell.org/)
