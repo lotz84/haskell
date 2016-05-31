@@ -27,6 +27,7 @@ main = print (sum [1..10])
 * [Haskell Diary - #1 Recursion](http://akashagrawal.me/haskell-diary-1-recursion/)
 * [Some simple derivations of recursive functions](http://myhaskelljournal.com/some-simple-derivations-of-recursive-functions/)
 * [Polymorphic recursion combinator in Haskell](http://h2.jaguarpaw.co.uk/posts/polymorphic-recursion-combinator/)
+* [Mutual Recursion in Final Encoding](http://aherrmann.github.io/programming/2016/05/28/mutual-recursion-in-final-encoding/)
 
 ##map, filter, foldr
 
