@@ -53,6 +53,7 @@ TODO: 目次を作る
 * [HaskellからSlackにさくっとPOSTする](http://blog.euphonictech.com/entry/2016/05/08/225740)
 * [ghcjs/ghcjs-dom](https://github.com/ghcjs/ghcjs-dom)
 * [Fun with GHCJSi](https://www.youtube.com/watch?v=x7dQVZiWjvA)
+* [Composing distributed Web applications](https://github.com/agocorona/transient/wiki/Composing--distributed-Web-applications)
 
 ##Socket
 * [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)
