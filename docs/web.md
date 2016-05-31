@@ -225,6 +225,10 @@ indexHtml = do
 * [themoritz/diener](https://github.com/themoritz/diener)
 * [Haskell servant 0.4 のドキュメントを和訳した](http://qiita.com/algas/items/7a67417498c5126b6ab6)
 * [ElvishJerricco/servant-router](https://github.com/ElvishJerricco/servant-router)
+* [Haskell Servant 入門 (Hello world)](http://qiita.com/algas/items/c76df85292e4e3fb83fd)
+* [Haskell Servant 入門 (Loggerの導入)](http://qiita.com/algas/items/9f409ec0c43033c1e52c)
+* [Haskell Servant 入門 (HTTPS対応)](http://qiita.com/algas/items/a9d1527e4a3f318dc09d)
+* [Haskell Servant 入門 (Testing)](http://qiita.com/algas/items/3f7029c92824392a0b11)
 
 ####Microservices
 * [k-bx/owlcloud](https://github.com/k-bx/owlcloud)
