@@ -25,6 +25,7 @@
   * [Haskell-1-2](https://www.youtube.com/watch?v=ybba5tcOeEY)
   * [Haskell-2-1](https://www.youtube.com/watch?v=oQ4fvA1OEcY)
   * [Haskell-2-2](https://www.youtube.com/watch?v=a6IkhX1zgXI)
+* [pi calclusを学ぶにあたって参照したドキュメントとその紹介その一](http://keizobookman.hatenablog.com/entry/2016/05/25/012815)
 
 ##並列
 * [monad-par](https://hackage.haskell.org/package/monad-par)
