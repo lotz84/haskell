@@ -131,6 +131,11 @@ $ hobbes "*.hs" | xargs -n1 ghc --make
 * Haskell development tool
 * <https://github.com/mvoidex/hsdev>
 
+### identicon
+* Flexible generation of identicons in Haskell
+* <https://github.com/mrkkrp/identicon>
+* [The Identicon package](https://mrkkrp.github.io/posts/the-identicon-package.html)
+
 ### import-bikeshedder
 * Haskellのimport文を並べ替えるコマンド
 * <https://github.com/fumieval/import-bikeshedder>
