@@ -133,6 +133,7 @@ circum (Circle _ _ r) = …
 * [Program Synthesis from Refinement Types](http://research.microsoft.com/apps/video/default.aspx?id=255528&r=1)
 * [Refinement Types For Haskell](http://research.microsoft.com/en-us/um/people/simonpj/papers/verify/LiquidHaskell_ICFP14.pdf)
 * <https://github.com/Gabriel439/slides/blob/master/liquidhaskell/slides.md>
+* [Liquid Types for Haskell](https://www.youtube.com/watch?v=LEsEME7JwEE)
 
 ##Dependent Types
 * [Dependent Types](https://cubeoflambda.wordpress.com/2011/12/03/dependent-types/)
