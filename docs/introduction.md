@@ -80,6 +80,7 @@ $ alias ghci='stack ghci'
 * [Happy Learn Haskell Tutorial Chapter 1: How to Learn Haskell](https://www.youtube.com/watch?v=S8I7aKCjpJ8)
 * [Happy Learn Haskell Tutorial Chapter 2: Your First Step](https://www.youtube.com/watch?v=4Tfkx6iJK7s)
 * [Pragmatic Haskell for Beginners, Lecture 1](https://begriffs.com/posts/2016-05-14-pragmatic-haskell-1.html)
+* [Pragmatic Haskell for Beginners, Lecture 2](https://begriffs.com/posts/2016-06-01-pragmatic-haskell-2.html)
 * [Haskell 初心者が ライフゲーム 書いた](http://qiita.com/DUxCA/items/9facbd4fe4937650e1f4)
 * [Real World Haskell](http://book.realworldhaskell.org/read/)
   * [Real World Haskell の古いところ](http://d.hatena.ne.jp/kazu-yamamoto/20140206/1391666962)
