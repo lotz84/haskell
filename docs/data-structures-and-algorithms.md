@@ -89,6 +89,7 @@
 * [The validation package](http://hackage.haskell.org/package/validation)
 * [SamuelSchlesinger/AutomataTheory](https://github.com/SamuelSchlesinger/AutomataTheory/blob/master/turing.hs)
 * [The hetero-dict package](http://hackage.haskell.org/package/hetero-dict)
+* [Weigh your Haskell code](http://bokesan.blogspot.jp/2016/05/weigh-your-haskell-code.html)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
