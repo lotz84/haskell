@@ -69,6 +69,10 @@ $ gifcurry_cli ./in.mp4 ./out.gif start_second duration quality 'Optional top te
 * 静的サイトジェネレータ
 * <https://jaspervdj.be/hakyll/>
 
+### haskell-player
+* A terminal music player based on afplay
+* <https://github.com/potomak/haskell-player>
+
 ### hawk
 * Haskellの文法が使えるawkのようなコマンド
 * <https://github.com/gelisam/hawk>
@@ -82,6 +86,10 @@ $ gifcurry_cli ./in.mp4 ./out.gif start_second duration quality 'Optional top te
 $ cat /etc/passwd | hawk -d: -m 'head'
 root
 ```
+
+### hdevtools
+* Persistent GHC-powered background server for FAST haskell development tools
+* <https://github.com/hdevtools/hdevtools>
 
 ### hell
 * Haskellの式を直接評価することができるShell
