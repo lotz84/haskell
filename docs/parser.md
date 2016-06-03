@@ -67,6 +67,7 @@ parse = evalStateT
 ##データ構造
 ###CSV
 * [cassava](https://hackage.haskell.org/package/cassava)
+* [CSV encoding and decoding in Haskell with Cassava](https://www.stackbuilders.com/tutorials/haskell/csv-encoding-decoding/)
 
 ###XML
 * [xml-conduit](https://hackage.haskell.org/package/xml-conduit)
