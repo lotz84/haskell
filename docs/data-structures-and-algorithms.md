@@ -88,6 +88,7 @@
 * [On Ad-hoc Datatypes](https://jaspervdj.be/posts/2016-05-11-ad-hoc-datatypes.html)
 * [The validation package](http://hackage.haskell.org/package/validation)
 * [SamuelSchlesinger/AutomataTheory](https://github.com/SamuelSchlesinger/AutomataTheory/blob/master/turing.hs)
+* [The hetero-dict package](http://hackage.haskell.org/package/hetero-dict)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
