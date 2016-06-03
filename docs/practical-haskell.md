@@ -32,6 +32,7 @@
 * [Announcing cabal new-build: Nix-style local builds](http://blog.ezyang.com/2016/05/announcing-cabal-new-build-nix-style-local-builds/)
 * [The cab package](http://hackage.haskell.org/package/cab)
 * [sol/hpack](https://github.com/sol/hpack)
+* [cabalでドキュメントをhackageにアップロードする](http://qiita.com/debug-ito/items/272d798b7787509cc6ae)
 
 ##Stack
 * [The Haskell Tool Stack](http://docs.haskellstack.org/en/stable/README.html)
@@ -122,6 +123,7 @@
 * [Combining Rust and Haskell](http://tab.snarc.org/posts/haskell/2015-09-29-rust-with-haskell.html)
 * [language-c-quote](https://hackage.haskell.org/package/language-c-quote)
 * [Calling Python libraries from Haskell](https://john-millikin.com/articles/ride-the-snake/)
+* [Russell91/pyfi](https://github.com/Russell91/pyfi)
 * [HaskellのCインターフェースと選定基準](http://qiita.com/masatoko/items/06665400b2ef10a7e2b0)
 * [erlang-ffi](https://twitter.com/puffnfresh/status/676608880714121220)
 * [Using withPtr From inline-c in Haskell](http://two-wrongs.com/using-withptr-from-inline-c-in-haskell)
@@ -167,3 +169,6 @@
 * [J for Haskell Programmers](http://crypto.stanford.edu/~blynn/haskell/jfh.html)
 * [The Disciplined Disciple Compiler (DDC)](http://disciple.ouroborus.net/)
 * [FOMObot Will Help With Your Slack FOMO](https://robots.thoughtbot.com/fomobot-will-help-with-your-slack-fomo)
+* [egison/egison](https://github.com/egison/egison)
+* video data sharing library - [databrary/databrary](https://github.com/databrary/databrary)
+* [HaLVM v3: The Vision, The Plan](http://uhsure.com/halvm3.html)
