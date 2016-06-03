@@ -68,6 +68,7 @@
 * [A Debugging Horror Story: Fixing a Tricky GHC Bug](http://www.echonolan.net/posts/2016-05-10-a-debugging-horror-story.html)
 * [Why TAB cycle indentation for Haskell is a hard problem](https://github.com/haskell/haskell-mode/wiki/Why-TAB-cycle-indentation-for-Haskell-is-a-hard-problem)
 * [Measuring GC latencies in Haskell, OCaml, Racket](http://prl.ccs.neu.edu/blog/2016/05/24/measuring-gc-latencies-in-haskell-ocaml-racket/)
+* [alanz/ghc-exactprint](https://github.com/alanz/ghc-exactprint)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
