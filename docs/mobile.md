@@ -13,6 +13,7 @@
 * [From Haskell to Hardware](http://begriffs.com/posts/2015-06-28-haskell-to-hardware.html)
 * [Translating Haskell to Hardware](https://www.youtube.com/watch?v=k02mEtPfdaQ)
 * [The hpio package](https://hackage.haskell.org/package/hpio)
+* [Haskellでarduino(主にfrp-arduino)](http://qiita.com/eielh/items/f375e314faf87a59864c)
 
 ##高位合成
 * [Domain-specific Languages and Code Synthesis Using Haskell](http://queue.acm.org/detail.cfm?id=2617811)
