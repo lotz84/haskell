@@ -6,7 +6,7 @@
 $ # on Mac OSX
 $ brew install haskell-stack
 $ stack setup
-$ alias ghc='stack ghc'
+$ alias ghc='stack ghc --'
 $ alias ghci='stack ghci'
 ```
 
