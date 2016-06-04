@@ -6,7 +6,6 @@ TODO: 目次を作る
   * [Part 1](http://mojobojo.com/posts/2015-12-26-haskell-game-server-part-1.html)
   * [Part 1 Followup](http://mojobojo.com/posts/2015-12-28-haskell-game-server-part-1-followup.html)
   * [Part 2](http://mojobojo.com/posts/2016-01-01-haskell-game-server-part-2.html)
-* [Your Server as a Function](http://monkey.org/~marius/funsrv.pdf)
 * [Taking Authentication to the next Level](https://www.spock.li/2015/08/23/taking_authentication_to_the_next_level.html)
 * [The Ur Programming Language Family](http://www.impredicative.com/ur/)
   * [04 An Optimizing Compiler for a Purely Functional Web Application Language](https://www.youtube.com/watch?v=McYhbIubeTc)
@@ -54,6 +53,7 @@ TODO: 目次を作る
 * [ghcjs/ghcjs-dom](https://github.com/ghcjs/ghcjs-dom)
 * [Fun with GHCJSi](https://www.youtube.com/watch?v=x7dQVZiWjvA)
 * [Composing distributed Web applications](https://github.com/agocorona/transient/wiki/Composing--distributed-Web-applications)
+* [google/proto-lens](https://github.com/google/proto-lens)
 
 ##Socket
 * [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)
