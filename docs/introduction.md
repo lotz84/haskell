@@ -121,7 +121,7 @@ in map (fromMaybe . show <*> 3 ~> "fizz" <> 5 ~> "buzz")
 * [Haskellで書かれたおもしろいFizzBuzz ― Haskellで読めないコードに遭遇した時に解読する方法を徹底解説！](http://itchyny.hatenablog.com/entry/2015/12/27/150000)
 
 ##Editor
-###Vim
+### Vim
 * [begriffs/haskell-vim-now](https://github.com/begriffs/haskell-vim-now?hr=2)
 * [VimでHaskellしよう](http://qiita.com/yukiasai/items/92a2b343b6519b38f402)
 * [Vim用のHaskellインデントプラグインvim-haskell-indentを作りました](http://itchyny.hatenablog.com/entry/2015/10/30/000000)
@@ -129,16 +129,24 @@ in map (fromMaybe . show <*> 3 ~> "fizz" <> 5 ~> "buzz")
 * [Vim and Haskell in 2016](http://www.stephendiehl.com/posts/vim_2016.html)
 * [Connecting Vim with your Haskell repl](http://begriffs.com/posts/2013-08-19-connecting-vim-with-your-haskell-repl.html)
 
-###Atom
+### Atom
 * [Switching from Vim to Atom (A Haskeller's Perspective)](http://edsko.net/2015/03/07/vim-to-atom/)
 * [haskell-pointfree package](https://atom.io/packages/haskell-pointfree)
 * [Atom + Stack = no globally installed GHC/packages](http://blog.nikosbaxevanis.com/2016/05/19/atom-and-stack-no-globally-installed-ghc-and-packages/)
 * [Atom EditorでHaskell](http://qiita.com/eielh/items/b2e85f8ea4c6cdb8012d)
 
+### Sublime Text
+* [SublimeText3 で Haskell (Stack) を書くための環境構築 (Mac OS X)](http://qiita.com/algas/items/77c7f6455f8106c1a9e8)
+* [SublimeText 3 & Haskell in 9 steps](https://atcol.wordpress.com/2016/06/03/sublimetext-3-haskell-in-9-steps/)
+
 ### Haskell for Mac
 * [Haskell for Mac](http://haskellformac.com/)
 * [Haskell for Mac でちょっと Haskell をさわってみる](http://qiita.com/usamik26/items/d99bf694150a549b5078)
 * [Inspecting HTML documents in Haskell playgrounds](http://blog.haskellformac.com/blog/inspecting-html-documents-in-haskell-playgrounds)
+
+### Visual Studio Code
+* [VS CodeでHaskellの簡単な環境を作る](http://azaika.hateblo.jp/entry/2015/12/19/151554)
+* [VisualStduioCodeでHaskell開発環境を整える](http://qiita.com/DUxCA/items/8e7a68ffee522bdd8918)
 
 ###Others
 * [Leksah](http://leksah.org/)
@@ -147,11 +155,8 @@ in map (fromMaybe . show <*> 3 ~> "fizz" <> 5 ~> "buzz")
 * [The new haskell-ide repo](https://www.fpcomplete.com/blog/2015/10/new-haskell-ide-repo)
 * [Haskell IDE Engine progress report November 2015](https://github.com/haskell/haskell-ide-engine/blob/master/docs/Report-2015-11.md)
 * [Haskell IDE Engine progress report for December 2015.](https://github.com/haskell/haskell-ide-engine/blob/master/docs/Report-2015-12.md)
-* [VS CodeでHaskellの簡単な環境を作る](http://azaika.hateblo.jp/entry/2015/12/19/151554)
-* [VisualStduioCodeでHaskell開発環境を整える](http://qiita.com/DUxCA/items/8e7a68ffee522bdd8918)
 * [wandernauta/viskell](https://github.com/wandernauta/viskell)
 * [haskell/haskell-mode](https://github.com/haskell/haskell-mode)
-* [SublimeText3 で Haskell (Stack) を書くための環境構築 (Mac OS X)](http://qiita.com/algas/items/77c7f6455f8106c1a9e8)
 * [ndmitchell/ghcid](https://github.com/ndmitchell/ghcid)
 * [IntelliJでHaskell](http://qiita.com/eielh/items/f121fbd2def8c887405f)
 * [Project Proposal](http://stefanj.me/funblocks/2016/05/23/project-proposal/)
