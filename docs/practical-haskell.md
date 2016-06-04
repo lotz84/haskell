@@ -67,6 +67,7 @@
 * [The Stackage data flow](https://www.fpcomplete.com/blog/2016/04/stackage-data-flow)
 * [stackのオレオレテンプレートを作って楽をする](http://qiita.com/techno-tanoC/items/72d188cd19d8e3ac890d)
 * [LTS Haskell: Version your Ecosystem](https://github.com/fpco/lts-haskell#readme)
+* [stackを使う](http://d.hatena.ne.jp/hiroki_f/20160603)
 
 ##Nix
 * [Nix ±Cabal](http://begriffs.com/posts/2015-08-07-nix-plus-minus-cabal.html)
