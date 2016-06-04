@@ -14,6 +14,7 @@
 * [Translating Haskell to Hardware](https://www.youtube.com/watch?v=k02mEtPfdaQ)
 * [The hpio package](https://hackage.haskell.org/package/hpio)
 * [Haskellでarduino(主にfrp-arduino)](http://qiita.com/eielh/items/f375e314faf87a59864c)
+* [Creating a Stack Machine with Haskell](http://www.andrevdm.com/posts/2016-05-28-haskellStackVm.html)
 
 ##高位合成
 * [Domain-specific Languages and Code Synthesis Using Haskell](http://queue.acm.org/detail.cfm?id=2617811)
