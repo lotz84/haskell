@@ -346,7 +346,6 @@ $ heroku config:set HALCYON_NO_BUILD_DEPENDENCIES=0
 * [Safe concurrent MySQL access in Haskell](https://ro-che.info/articles/2015-04-17-safe-concurrent-mysql-haskell)
 * [PostgREST Workshop](http://begriffs.com/posts/2015-10-02-postgrest-workshop.html)
 * [Working with databases using Groundhog](https://www.fpcomplete.com/user/lykahb/groundhog)
-* [Paxos](http://www.slideshare.net/pfi/paxos-13615514?ref=http://open-groove.net/all-things-technology/paxos/)
 * [agentm/project-m36](https://github.com/agentm/project-m36)
 * [Etienne Laurin: A RethinkDB driver for Haskell (Heavybit meetup)](https://www.youtube.com/watch?v=Qvn8EQfgUCA)
 * [jtdaugherty/dbmigrations](https://github.com/jtdaugherty/dbmigrations)
