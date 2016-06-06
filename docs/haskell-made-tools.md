@@ -240,6 +240,7 @@ Line 6:
 * [SamuelSchlesinger/Quickterm](https://github.com/SamuelSchlesinger/Quickterm)
 * [Haskellでインタプリタみたいなのを実装する時のBufferModeの事](http://yunomu.hatenablog.jp/entry/2012/02/13/215657)
 * [A command-line benchmark tool](http://www.haskellforall.com/2016/05/a-command-line-benchmark-tool.html)
+* [Haskeline](http://trac.haskell.org/haskeline)
 
 ###オプションパーサー
 * [HaskellのSystem.Console.ParseArgs](http://yu-i9.hatenablog.com/entry/2014/08/29/135253)
