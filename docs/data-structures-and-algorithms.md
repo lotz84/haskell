@@ -101,6 +101,7 @@
 * [Austin Seipp - binary-serialize-cbor](https://www.youtube.com/watch?v=Mj2cXQXgyWE)
 * [store: a new and efficient binary serialization library](https://www.fpcomplete.com/blog/2016/05/store-package)
 * [weigh: Measuring allocations in Haskell](https://www.fpcomplete.com/blog/2016/05/weigh-package)
+* [The arithmoi package](https://hackage.haskell.org/package/arithmoi)
 
 ###数値
 * [Lazy unary numbers](http://www.edofic.com/posts/2015-05-03-unary-numbers.html)
