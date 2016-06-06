@@ -97,3 +97,6 @@ main = do
   * [agocorona/transient](https://github.com/agocorona/transient)
 * [Haskell meets large scale distributed analytics](http://www.tweag.io/blog/haskell-meets-large-scale-distributed-analytics)
 * [agocorona/transient-universe](https://github.com/agocorona/transient-universe)
+* [chrisnc/tangaroa](https://github.com/chrisnc/tangaroa)
+  * [Paxos](http://www.slideshare.net/pfi/paxos-13615514?ref=http://open-groove.net/all-things-technology/paxos/)
+  * [Raft](http://www.slideshare.net/pfi/raft-36155398)
