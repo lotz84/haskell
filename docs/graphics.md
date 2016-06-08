@@ -31,6 +31,7 @@
 * [Haskell でサムネイル #2](http://qiita.com/satosystems/items/669a8b3fdfa535582cb4)
 * [Blackstar | Raytracing black holes with Haskell](https://flannelhead.github.io/projects/blackstar.html)
 * [An Image Processing Language: External and Shallow/Deep Embeddings](http://www.macs.hw.ac.uk/~rs46/papers/rwdsl2016/rwdsl-2016.pdf)
+* [Image processing with Juicy Pixels and Repa](https://www.stackbuilders.com/tutorials/haskell/image-processing/)
 
 ##GUI
 * [fltkhs](http://hackage.haskell.org/package/fltkhs)
