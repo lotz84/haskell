@@ -174,3 +174,4 @@
 * video data sharing library - [databrary/databrary](https://github.com/databrary/databrary)
 * [HaLVM v3: The Vision, The Plan](http://uhsure.com/halvm3.html)
 * [Hierarchy of documentation dysfunction](http://blog.fightingtanukis.com/posts/2016-05-23-documentation-hierarchy.html)
+* [kaizhang/SciFlow](https://github.com/kaizhang/SciFlow)
