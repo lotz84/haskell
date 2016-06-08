@@ -146,3 +146,4 @@
 * [Applicative do-notation](https://ghc.haskell.org/trac/ghc/wiki/ApplicativeDo)
 * [MonadFail proposal (MFP)](https://github.com/quchen/articles/blob/master/monad_fail.md)
 * [Monad of no return Proposal (MRP)](https://www.reddit.com/r/haskell/comments/3mb8lb/monad_of_no_return_proposal_mrp/)
+* [Left-Associative Semigroup Operator Alias](https://ghc.haskell.org/trac/ghc/wiki/Proposal/LeftAssocSemigroupOp)
