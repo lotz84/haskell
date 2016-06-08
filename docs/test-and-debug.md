@@ -34,6 +34,7 @@
 * [Quickfix all the things with Sarsi](http://aloiscochard.blogspot.jp/2016/04/quickfix-all-things-with-sarsi.html)
 * [karun012/arion](https://github.com/karun012/arion)
 * [Test your benchmarks!](https://ivanmiljenovic.wordpress.com/2016/05/23/test-your-benchmarks/)
+* [Haskell Tutorials, a tutorial](http://yannesposito.com/Scratch/en/blog/Haskell-Tutorials--a-tutorial/)
 
 ###QuickCheck
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
