@@ -84,3 +84,4 @@ main = do
 * [fumieval/boombox](https://github.com/fumieval/boombox)
 * [bch29/streaming-png](https://github.com/bch29/streaming-png)
 * [First class stream fusion](http://www.yesodweb.com/blog/2016/02/first-class-stream-fusion)
+* [Stream fusion for streaming, without writing any code](http://twanvl.nl/blog/haskell/streaming-vector)
