@@ -172,6 +172,10 @@ foo
 success
 ```
 
+### reserve
+* Universal and robust reloading for Haskell web applications
+* <https://github.com/sol/reserve>
+
 ### vimus
 * Music Player Daemon のクライアント
 * <https://github.com/vimus/vimus>
