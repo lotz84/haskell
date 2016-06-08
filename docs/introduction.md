@@ -129,6 +129,11 @@ in map (fromMaybe . show <*> 3 ~> "fizz" <> 5 ~> "buzz")
 * [Haskellでimport文をソートするプラグイン vim-haskell-sort-import を作りました](http://itchyny.hatenablog.com/entry/2016/01/23/190000)
 * [Vim and Haskell in 2016](http://www.stephendiehl.com/posts/vim_2016.html)
 * [Connecting Vim with your Haskell repl](http://begriffs.com/posts/2013-08-19-connecting-vim-with-your-haskell-repl.html)
+* [myfreeweb/intero.nvim](https://github.com/myfreeweb/intero.nvim)
+
+### Emacs
+* [haskell/haskell-mode](https://github.com/haskell/haskell-mode)
+* [Intero for Emacs](http://commercialhaskell.github.io/intero/)
 
 ### Atom
 * [Switching from Vim to Atom (A Haskeller's Perspective)](http://edsko.net/2015/03/07/vim-to-atom/)
@@ -157,7 +162,6 @@ in map (fromMaybe . show <*> 3 ~> "fizz" <> 5 ~> "buzz")
 * [Haskell IDE Engine progress report November 2015](https://github.com/haskell/haskell-ide-engine/blob/master/docs/Report-2015-11.md)
 * [Haskell IDE Engine progress report for December 2015.](https://github.com/haskell/haskell-ide-engine/blob/master/docs/Report-2015-12.md)
 * [wandernauta/viskell](https://github.com/wandernauta/viskell)
-* [haskell/haskell-mode](https://github.com/haskell/haskell-mode)
 * [ndmitchell/ghcid](https://github.com/ndmitchell/ghcid)
 * [IntelliJでHaskell](http://qiita.com/eielh/items/f121fbd2def8c887405f)
 * [Project Proposal](http://stefanj.me/funblocks/2016/05/23/project-proposal/)
