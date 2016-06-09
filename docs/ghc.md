@@ -70,6 +70,8 @@
 * [Measuring GC latencies in Haskell, OCaml, Racket](http://prl.ccs.neu.edu/blog/2016/05/24/measuring-gc-latencies-in-haskell-ocaml-racket/)
 * [alanz/ghc-exactprint](https://github.com/alanz/ghc-exactprint)
 * [nomeata/ghc-heap-view](https://github.com/nomeata/ghc-heap-view)
+* [The rapid package](http://hackage.haskell.org/package/rapid)
+* [hexena](https://bitbucket.org/rpkrawczyk/hexena)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
