@@ -121,6 +121,7 @@
 * [Stackage LTS and GHC 8.0](https://unknownparallel.wordpress.com/2016/05/22/stackage-lts-and-ghc-8-0/)
 * [[Haskell-cafe] Announce: Haskell Platform 8.0.1](https://mail.haskell.org/pipermail/haskell-cafe/2016-May/124024.html)
 * [Moving Stackage Nightly to GHC 8.0](https://www.fpcomplete.com/blog/2016/05/moving-stackage-nightly-ghc-8)
+* [What's new with GHC generics in 8.0](https://ryanglscott.github.io/2016/05/12/whats-new-with-ghc-generics-in-80/)
 
 ###LLVM
 * [LLVM フレームワークで実用的なコンパイラーを作成する: 第 1 回](http://www.ibm.com/developerworks/jp/opensource/library/os-createcompilerllvm1/index.html)
