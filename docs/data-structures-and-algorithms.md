@@ -132,6 +132,7 @@
 * [The securemem package](http://hackage.haskell.org/package/securemem)
 * [Abusing -XOverloadedStrings to Implement Type Directed Parsing](https://lambdasandcaches.blogspot.jp/2016/05/abusing-xoverloadedstrings-to-implement.html)
 * [Why is the F# version of this program 6x faster than the Haskell one?](http://stackoverflow.com/questions/37526740/why-is-the-f-version-of-this-program-6x-faster-than-the-haskell-one)
+* [A Sticky Stringy Quandary](http://www.stephendiehl.com/posts/strings.html)
 
 ###配列
 * [The vector package](https://hackage.haskell.org/package/vector)
