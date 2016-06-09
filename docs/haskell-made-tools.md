@@ -148,6 +148,10 @@ $ hobbes "*.hs" | xargs -n1 ghc --make
 * Haskellのimport文を並べ替えるコマンド
 * <https://github.com/fumieval/import-bikeshedder>
 
+### lamdu
+* lamdu - towards the next generation IDE
+* <https://github.com/lamdu/lamdu>
+
 ### markov-bot
 * 過去のツイートを学習してボットを作ってくれるツール
 * <https://github.com/ryota-ka/markov-bot>
@@ -207,6 +211,10 @@ Line 6:
 
 ### Super User Spark
 * [NorfairKing/super-user-spark](https://github.com/NorfairKing/super-user-spark)
+
+### ThreadScope
+* A graphical tool for profiling parallel Haskell programs
+* <https://github.com/haskell/ThreadScope>
 
 ### ttask
 * スクラムに則ったCLIのタスク管理ツール
