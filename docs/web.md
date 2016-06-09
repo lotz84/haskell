@@ -230,6 +230,7 @@ indexHtml = do
 * [Haskell Servant 入門 (Loggerの導入)](http://qiita.com/algas/items/9f409ec0c43033c1e52c)
 * [Haskell Servant 入門 (HTTPS対応)](http://qiita.com/algas/items/a9d1527e4a3f318dc09d)
 * [Haskell Servant 入門 (Testing)](http://qiita.com/algas/items/3f7029c92824392a0b11)
+* [haskell-servant/example-servant-persistent](https://github.com/haskell-servant/example-servant-persistent)
 
 ####Microservices
 * [k-bx/owlcloud](https://github.com/k-bx/owlcloud)
