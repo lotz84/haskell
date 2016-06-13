@@ -86,6 +86,7 @@
 * [The split-image approach to building minimal runtime Docker images](https://www.fpcomplete.com/blog/2015/12/docker-split-images)
 * [Dev and Deploy Haskell on Docker](http://begriffs.com/posts/2015-08-11-dev-deploy-haskell-docker.html)
 * [denibertovic/docker-hs](https://github.com/denibertovic/docker-hs)
+* [例によって stack と ghc-mod](http://qiita.com/lesguillemets/items/f80a25a8fb466f77a311)
 
 ##CI
 * [Shake](http://shakebuild.com/)
