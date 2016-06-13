@@ -10,6 +10,7 @@
 * [Reddit](http://www.reddit.com/r/haskell/)
 * [IRC channel](https://wiki.haskell.org/IRC_channel)
 * [Hackage Matrix Builder](http://matrix.hackage.haskell.org/)
+* [YOW! Australia](https://www.youtube.com/channel/UCAvGvvEemkeX8hurdPXr7hA)
 
 ###日本
 * [Tokyo Haskell Meetup](http://www.meetup.com/Tokyo-Haskell-Meetup/)
