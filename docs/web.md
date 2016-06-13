@@ -54,6 +54,7 @@ TODO: 目次を作る
 * [Fun with GHCJSi](https://www.youtube.com/watch?v=x7dQVZiWjvA)
 * [Composing distributed Web applications](https://github.com/agocorona/transient/wiki/Composing--distributed-Web-applications)
 * [google/proto-lens](https://github.com/google/proto-lens)
+* [owainlewis/http-dispatch](https://github.com/owainlewis/http-dispatch)
 
 ##Socket
 * [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)
@@ -231,6 +232,7 @@ indexHtml = do
 * [Haskell Servant 入門 (HTTPS対応)](http://qiita.com/algas/items/a9d1527e4a3f318dc09d)
 * [Haskell Servant 入門 (Testing)](http://qiita.com/algas/items/3f7029c92824392a0b11)
 * [haskell-servant/example-servant-persistent](https://github.com/haskell-servant/example-servant-persistent)
+* [Haskell Servant 入門 (Database)](http://qiita.com/algas/items/5a6e570028d95b5dac1b)
 
 ####Microservices
 * [k-bx/owlcloud](https://github.com/k-bx/owlcloud)
