@@ -72,6 +72,7 @@
 * [nomeata/ghc-heap-view](https://github.com/nomeata/ghc-heap-view)
 * [The rapid package](http://hackage.haskell.org/package/rapid)
 * [hexena](https://bitbucket.org/rpkrawczyk/hexena)
+* [A non-trivial term-constraint oracle, and a new Haskell teaching tool](http://cs-syd.eu/posts/2016-06-11-a-non-trivial-term-constraint-oracle-and-a-new-haskell-teaching-tool.html)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
