@@ -136,6 +136,7 @@ class Monad m where
 * [モナドの六つの系統[Functor x Functor]](http://fumieval.hatenablog.com/entry/2013/06/05/182316)
 * [The five arguments on why people struggle with monads](http://chrisdone.com/posts/monads)
 * [だんだんわかる モナド入門 (Haskell)](http://qiita.com/Fujiee/items/6388cade8bf4797fb1d4)
+* [Why do we need Monad to encapsulate side effects in Haskell?](https://www.quora.com/Why-do-we-need-Monad-to-encapsulate-side-effects-in-Haskell/answer/Tikhon-Jelvis)
 
 ```haskell
 do x <- mx
