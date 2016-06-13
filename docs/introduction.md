@@ -86,6 +86,7 @@ $ alias ghci='stack ghci'
   * [Real World Haskell の古いところ](http://d.hatena.ne.jp/kazu-yamamoto/20140206/1391666962)
   * [Re: Real World Haskellの古いところ](http://maoe.hatenadiary.jp/entry/2014/02/06/195156)
 * [Happy Learn Haskell Tutorial Volume 1](https://leanpub.com/happylearnhaskelltutorialvol1)
+* [In Haskell, less is more](https://www.youtube.com/watch?v=NHRIV7UNiPU)
   
 ##チートシート
 * [What I Wish I Knew When Learning Haskell](http://www.stephendiehl.com/what/) [[ja](https://github.com/Kinokkory/wiwinwlh-jp/wiki)]
