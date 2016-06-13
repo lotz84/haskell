@@ -212,6 +212,10 @@ Line 6:
 ### Super User Spark
 * [NorfairKing/super-user-spark](https://github.com/NorfairKing/super-user-spark)
 
+### tamarin-prover
+* Main repository of the Tamarin prover for security protocol verification.
+* <https://github.com/tamarin-prover/tamarin-prover>
+
 ### ThreadScope
 * A graphical tool for profiling parallel Haskell programs
 * <https://github.com/haskell/ThreadScope>
