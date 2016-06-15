@@ -28,6 +28,7 @@
 * [yallop/haskell2014-papers](https://github.com/yallop/haskell2014-papers)
 * [LambdaConf 2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcybh21_zOg8_y4f2oMKDHpUS)
 * [The Haskell Symposium](https://www.haskell.org/haskell-symposium/)
+* [gasche/icfp2016-papers](https://github.com/gasche/icfp2016-papers)
 
 ##Advent Calendar
 * [Haskell Advent Calendar 2015](http://qiita.com/advent-calendar/2015/haskell)
