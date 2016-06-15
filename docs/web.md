@@ -55,6 +55,7 @@ TODO: 目次を作る
 * [Composing distributed Web applications](https://github.com/agocorona/transient/wiki/Composing--distributed-Web-applications)
 * [google/proto-lens](https://github.com/google/proto-lens)
 * [owainlewis/http-dispatch](https://github.com/owainlewis/http-dispatch)
+* [kazu-yamamoto/http2](https://github.com/kazu-yamamoto/http2)
 
 ##Socket
 * [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)
