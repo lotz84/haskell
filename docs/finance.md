@@ -1,6 +1,6 @@
 * [Trading Analytics](http://logicalgraphs.blogspot.jp/p/trading-analytics.html)
 
-##Blockchain
+## Blockchain
 > 特定の中央機関を必要とせずにP2Pネットワーク上で合意形成をする技術
 
 * [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)[[日本語](http://picks.coincheck.jp/entry/2014/09/15/190000)]
@@ -9,24 +9,25 @@
 * [stratumn](http://stratumn.com/)
 * [chainscript](http://chainscript.io/)
 
-###Bitcoin
+## Bitcoin
 > Blockchain 上に実現された最初の通貨であり最も普及している
 
 * [bitcoinwiki](https://en.bitcoin.it/wiki/Main_Page)
+* [Vanitygen](https://en.bitcoin.it/wiki/Vanitygen)
 
-####入門
+### 入門
 * [誰も教えてくれないけれど、これを読めば分かるビットコインの仕組みと可能性](http://jp.techcrunch.com/2015/03/31/bitcoin-essay/)
 * [bitcoinのしくみ](http://bitcoin.peryaudo.org/)
 * [初心者でもビットコインの世界がわかる便利ツール10選](http://btcnews.jp/bitcoin-tools-2016/)
 
-####Wallet
+### Wallet
 * **Web** - [Blockchain.info](https://blockchain.info/ja/wallet)
 * **iOS** - [breadwallet](http://breadwallet.com/)
 * **Android** - [Mycelium](https://mycelium.com/mycelium-wallet.html)
 * **Paper** - [WalletGenerator.net](https://walletgenerator.net/)
 * **Paper** - [Bitcoin Paper Wallet Generator](https://bitcoinpaperwallet.com/)
 
-####Info
+### Info
 * [Blockchain.info](https://blockchain.info/ja/)
 * [Toshi](https://toshi.io/)
 * [blockr](http://blockr.io/)
@@ -35,7 +36,7 @@
 * [LocalBitcoins Volume Charts](http://coin.dance/charts/)
 * <http://www.bitcoinblockhalf.com/>
 
-####実装
+### 実装
 * [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)
 * [haskoin/haskoin](https://github.com/haskoin/haskoin)
 * [lian/bitcoin-ruby](https://github.com/lian/bitcoin-ruby)
@@ -44,10 +45,7 @@
 * [Bitcoin@Wiki - 手数料](http://www58.atwiki.jp/coinwiki/pages/27.html)
 * [Bitcoinを技術的に理解する](http://www.slideshare.net/kenjiurushima/20140602-bitcoin1-201406031222)
 
-####法律
-* [ビットコインと税務](https://www.nta.go.jp/ntc/kenkyu/journal/saisin/260430_tsuchiya.pdf)
-
-###Ethereum
+## Ethereum
 > Blockchain上に任意のスクリプトとその実行結果を保存する
 
 * [Ethereum](https://www.ethereum.org/)
@@ -60,7 +58,7 @@
 * [Ethereum Frontier Guide](https://ethereum.gitbooks.io/frontier-guide/content/index.html)
 * [ethereum/wiki](https://github.com/ethereum/wiki/wiki)
 
-####BlockApps
+### BlockApps
 * [BlockApps](http://blockapps.net/)
 * <https://github.com/blockapps>
 * [blockapps/blockapps-js](https://github.com/blockapps/blockapps-js)
