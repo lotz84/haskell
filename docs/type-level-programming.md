@@ -197,6 +197,7 @@ shorten xs = case vecNull' xs of
 * [GADTs and exhaustiveness: looking for the impossible](http://www.math.nagoya-u.ac.jp/~garrigue/papers/gadtspm.pdf)
 * [GADTsとかPhantom typesとかExistential typesとか](http://maoe.hatenadiary.jp/entry/20110330/1301496958)
 * [DataKindsとGADTの使い方について](http://myuon-myon.hatenablog.com/entry/2015/06/14/222142)
+* [Ghostbuster: A Tool for Simplifying and Converting GADTs](http://www.cs.ox.ac.uk/people/timothy.zakian/ghostbuster.pdf)
 
 ###Multi-parameter type class
 * [Multi-parameter type class](https://wiki.haskell.org/Multi-parameter_type_class)
