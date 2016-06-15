@@ -35,6 +35,7 @@
 * [karun012/arion](https://github.com/karun012/arion)
 * [Test your benchmarks!](https://ivanmiljenovic.wordpress.com/2016/05/23/test-your-benchmarks/)
 * [Haskell Tutorials, a tutorial](http://yannesposito.com/Scratch/en/blog/Haskell-Tutorials--a-tutorial/)
+* [Behavior-driven development (BDD) in Haskell with Hspec](https://www.stackbuilders.com/tutorials/haskell/bdd-in-haskell-with-hspec/)
 
 ###QuickCheck
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
