@@ -65,6 +65,10 @@ $ gifcurry_cli ./in.mp4 ./out.gif start_second duration quality 'Optional top te
 * Learning rigid grammars in Haskell.
 * <https://github.com/ayberkt/grammar-inference>
 
+### haddocset
+* Generate docset of Dash by Haddock haskell documentation tool
+* <https://github.com/philopon/haddocset>
+
 ### Hakyll
 * 静的サイトジェネレータ
 * <https://jaspervdj.be/hakyll/>
