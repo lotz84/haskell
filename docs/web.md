@@ -57,15 +57,22 @@ TODO: 目次を作る
 * [owainlewis/http-dispatch](https://github.com/owainlewis/http-dispatch)
 * [kazu-yamamoto/http2](https://github.com/kazu-yamamoto/http2)
 
-##Socket
-* [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)
-* [Haskell でソケット通信をやってみる](http://yasutech.blogspot.jp/2012/01/haskell.html)
-* [socket](https://hackage.haskell.org/package/socket)
-* [HaNS](https://hackage.haskell.org/package/hans)
-* TLS/SSL implementation in haskell - [vincenthz/hs-tls](https://github.com/vincenthz/hs-tls)
-* [vincenthz/hs-connection](https://github.com/vincenthz/hs-connection)
+## Hakyll
+* [LambdaCms](http://lambdacms.org/)
+* [Static Generation with Haskell](http://two-wrongs.com/static-generation-with-haskell)
+* [Hakyll](http://jaspervdj.be/hakyll/)
+* [Hakyllを使ってGitHub Pagesを作成して、そのソースも管理して、Travis CIで自動デプロイする。](http://imokuri123.com/blog/2015/04/create-github-pages-with-hakyll.html)
+* [Hakyllでページング](http://qiita.com/hiratara/items/714d890e1b363f06c2d3)
+* [Hakyllでブログを作る(実践編)](https://imokuri123.com/blog/2015/12/how-to-create-blog-with-hakyll-part1.html)
+* [Create a static site with Hakyll, Github and Travis CI](http://begriffs.com/posts/2014-08-12-create-static-site-with-hakyll-github.html)
+* [Jekyll Style URLs with Hakyll](http://aherrmann.github.io/programming/2016/01/31/jekyll-style-urls-with-hakyll/)
+* [Serving a Hakyll site with Warp/Wai](https://chromabits.com/posts/2016/02/15/serving-hakyll-site-with-warp/)
+* [Hakyll で日本語文中の余分な空白を削除する](http://qiita.com/pecorarista/items/2abad96e21857d43a04c)
+* [Blog Rewrite with Hakyll and Purescript](https://blog.jle.im/entry/blog-rewrite-with-hakyll-and-purescript.html)
+* [Compiling SCSS and JavaScript in Hakyll](https://codetalk.io/posts/2016-05-10-compiling-scss-and-js-in-hakyll.html)
 
-##Elm
+## Front end
+### Elm
 * [elm](http://elm-lang.org/)
 * [Evan Czaplicki - Let's be mainstream! User focused design in Elm - Curry On](https://www.youtube.com/watch?v=oYk8CKH7OhE)
 * [elm-bridge](http://hackage.haskell.org/package/elm-bridge)
@@ -74,7 +81,7 @@ TODO: 目次を作る
 * [関数型リアクティブプログラミング言語Elmに学ぶ フロントエンド開発の新しい形](http://codezine.jp/article/detail/8873)
 * [Building elm with stack](http://therning.org/magnus/posts/2015-10-13-000-building-elm-with-stack.html)
 
-##AltJS
+### AltJS
 * [Haskell風AltJSのベンチマーク](http://qiita.com/philopon/items/1451f6b8c5ccec41479d)
 * [Haste](http://haste-lang.org/)
   * [Client-side haskell](http://ifeanyi.co/posts/client-side-haskell/)
@@ -89,7 +96,7 @@ TODO: 目次を作る
 * [Writing a React JS front-end in Haskell](http://begriffs.com/posts/2015-01-12-reactjs-in-haskell.html)
 * [Functional Front-End Coding](http://begriffs.com/posts/2015-11-30-functional-front-end-coding.html)
 
-###PureScript
+#### PureScript
 * <http://www.purescript.org/>
 * [andyarvanitis/pure11](https://github.com/andyarvanitis/pure11)
 * [Stack Safety for Free](http://functorial.com/stack-safety-for-free/index.pdf)
@@ -102,18 +109,18 @@ TODO: 目次を作る
 * [kRITZCREEK/psc-ide](https://github.com/kRITZCREEK/psc-ide)
 * [Type-safe client-server communication with PureScript](http://frigoeu.github.io/phantomtypes.html)
 
-##HTML Template/DSL
+### HTML Template/DSL
 * [shakespeare](https://hackage.haskell.org/package/shakespeare)
 * [ede](https://hackage.haskell.org/package/ede)
 * [mustache](https://hackage.haskell.org/package/mustache)
 * [The react-haskell package](https://hackage.haskell.org/package/react-haskell)
   * [Animating Web UI with React and Haskell](http://joelburget.com/react-haskell/)
 
-###Blaze
+#### Blaze
 * [blaze-html](http://hackage.haskell.org/package/blaze-html)
 * [meiersi/blaze-react](https://github.com/meiersi/blaze-react)
 
-###Lucid
+#### Lucid
 * [chrisdone/lucid](https://github.com/chrisdone/lucid)
 * [Lucid: templating DSL for HTML](http://chrisdone.com/posts/lucid)
 * [lucid-svg](http://hackage.haskell.org/package/lucid-svg)
@@ -133,7 +140,17 @@ indexHtml = do
             script_ [src_ "/js/main.js"] ("" :: Text)
 ```
 
-##Logger
+## Back end
+### Socket
+* [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)
+* [Haskell でソケット通信をやってみる](http://yasutech.blogspot.jp/2012/01/haskell.html)
+* [socket](https://hackage.haskell.org/package/socket)
+* [HaNS](https://hackage.haskell.org/package/hans)
+* TLS/SSL implementation in haskell - [vincenthz/hs-tls](https://github.com/vincenthz/hs-tls)
+* [vincenthz/hs-connection](https://github.com/vincenthz/hs-connection)
+
+
+### Logger
 * [wdanilo/haskell-logger](https://github.com/wdanilo/haskell-logger)
 * [kazu-yamamoto/logger](https://github.com/kazu-yamamoto/logger)
 * [jgoerzen/hslogger](https://github.com/jgoerzen/hslogger)
@@ -142,21 +159,7 @@ indexHtml = do
 * [The katip package](http://hackage.haskell.org/package/katip)
 * [The monad-log package](http://hackage.haskell.org/package/monad-log)
 
-##Hakyll
-* [LambdaCms](http://lambdacms.org/)
-* [Static Generation with Haskell](http://two-wrongs.com/static-generation-with-haskell)
-* [Hakyll](http://jaspervdj.be/hakyll/)
-* [Hakyllを使ってGitHub Pagesを作成して、そのソースも管理して、Travis CIで自動デプロイする。](http://imokuri123.com/blog/2015/04/create-github-pages-with-hakyll.html)
-* [Hakyllでページング](http://qiita.com/hiratara/items/714d890e1b363f06c2d3)
-* [Hakyllでブログを作る(実践編)](https://imokuri123.com/blog/2015/12/how-to-create-blog-with-hakyll-part1.html)
-* [Create a static site with Hakyll, Github and Travis CI](http://begriffs.com/posts/2014-08-12-create-static-site-with-hakyll-github.html)
-* [Jekyll Style URLs with Hakyll](http://aherrmann.github.io/programming/2016/01/31/jekyll-style-urls-with-hakyll/)
-* [Serving a Hakyll site with Warp/Wai](https://chromabits.com/posts/2016/02/15/serving-hakyll-site-with-warp/)
-* [Hakyll で日本語文中の余分な空白を削除する](http://qiita.com/pecorarista/items/2abad96e21857d43a04c)
-* [Blog Rewrite with Hakyll and Purescript](https://blog.jle.im/entry/blog-rewrite-with-hakyll-and-purescript.html)
-* [Compiling SCSS and JavaScript in Hakyll](https://codetalk.io/posts/2016-05-10-compiling-scss-and-js-in-hakyll.html)
-
-##Web Socket
+### Web Socket
 * [Haskell から見た node.js](http://d.hatena.ne.jp/kazu-yamamoto/20110825/1314254885)
 * [websockets](http://jaspervdj.be/websockets/)
 * [リアルタイム通信で利用されるプロトコルと手法](http://tech.guitarrapc.com/entry/2015/08/17/044937)
@@ -165,13 +168,13 @@ indexHtml = do
 * [The wuss package](https://hackage.haskell.org/package/wuss)
 * [A lot of websockets in Haskell](https://blog.wearewizards.io/a-lot-of-websockets-in-haskell)
 
-##RPC
+### RPC
 * [The Remote JSON library](http://ku-fpg.github.io/2016/02/09/remote-json/)
 * [The remote-json package](http://hackage.haskell.org/package/remote-json)
 * [The remote-json-client package](http://hackage.haskell.org/package/remote-json-client)
 * [The remote-json-server package](http://hackage.haskell.org/package/remote-json-server)
 
-##WAI/Warp
+### WAI/Warp
 * [wai](https://hackage.haskell.org/package/wai)
 * [warp](https://hackage.haskell.org/package/warp)
 * [The Performance of Open Source Applications - Warp](http://aosabook.org/en/posa/warp.html)
