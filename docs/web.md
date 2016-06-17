@@ -361,6 +361,7 @@ $ heroku config:set HALCYON_NO_BUILD_DEPENDENCIES=0
 * [A Tour of PostgREST](http://begriffs.com/posts/2016-03-20-postgrest-tour.html)
 * [Haskellからmysqlを実行する](http://tsubaki.hatenablog.com/entry/20121020/1350734844)
 * [AtnNn/haskell-rethinkdb](https://github.com/AtnNn/haskell-rethinkdb)
+* [Introducing postgresql-transactional](https://blog.helium.com/introducing-postgresql-transactional-6f19afdf1b9d#.nf4wl0nxu)
 
 ###Simples
 * [The mysql-simple package](https://hackage.haskell.org/package/mysql-simple)
