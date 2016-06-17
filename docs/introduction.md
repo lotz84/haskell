@@ -145,6 +145,7 @@ in map (fromMaybe . show <*> 3 ~> "fizz" <> 5 ~> "buzz")
 ### Sublime Text
 * [SublimeText3 で Haskell (Stack) を書くための環境構築 (Mac OS X)](http://qiita.com/algas/items/77c7f6455f8106c1a9e8)
 * [SublimeText 3 & Haskell in 9 steps](https://atcol.wordpress.com/2016/06/03/sublimetext-3-haskell-in-9-steps/)
+* [Sublime Text 3 にHaskellの開発環境を構築する](http://qiita.com/t-yng/items/a5c79e7f497674cabc51)
 
 ### Haskell for Mac
 * [Haskell for Mac](http://haskellformac.com/)
