@@ -20,6 +20,7 @@
 * [Simple Unique IP System Script](http://www.latermuse.com/static/ron-simpleuniqueipsystemscript.html)
 * [最近のHaskell製パッケージのドキュメント事情について簡単に](http://qiita.com/igrep/items/e7926ef2d015ca85c18e)
 * [How do you find a function that…](http://myhaskelljournal.com/how-do-you-find-a-function-that/)
+* [Haddock at your fingertips](http://hao.codes/docsets.html)
 
 ##Cabal
 * [Hackage](http://hackage.haskell.org/)
