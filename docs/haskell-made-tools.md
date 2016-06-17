@@ -61,14 +61,6 @@ $ gifcurry_cli ./in.mp4 ./out.gif start_second duration quality 'Optional top te
 * コマンドライン上でgifを探して表示できるコマンド
 * <https://github.com/passy/givegif>
 
-### grammar-inference
-* Learning rigid grammars in Haskell.
-* <https://github.com/ayberkt/grammar-inference>
-
-### haddocset
-* Generate docset of Dash by Haddock haskell documentation tool
-* <https://github.com/philopon/haddocset>
-
 ### Hakyll
 * 静的サイトジェネレータ
 * <https://jaspervdj.be/hakyll/>
@@ -85,15 +77,10 @@ $ gifcurry_cli ./in.mp4 ./out.gif start_second duration quality 'Optional top te
   * [lukasmartinelli/hwk](https://github.com/lukasmartinelli/hwk)
   * [tanakh/hoe](https://github.com/tanakh/hoe)
 
-
 ```bash
 $ cat /etc/passwd | hawk -d: -m 'head'
 root
 ```
-
-### hdevtools
-* Persistent GHC-powered background server for FAST haskell development tools
-* <https://github.com/hdevtools/hdevtools>
 
 ### hell
 * Haskellの式を直接評価することができるShell
@@ -137,20 +124,10 @@ $ hobbes "*.hs" | xargs -n1 ghc --make
 * ghciベースのプレゼンテーションツール
 * <https://github.com/fokot/howerpoint>
 
-### hpack
-
-### hsdev
-* Haskell development tool
-* <https://github.com/mvoidex/hsdev>
-
 ### identicon
 * Flexible generation of identicons in Haskell
 * <https://github.com/mrkkrp/identicon>
 * [The Identicon package](https://mrkkrp.github.io/posts/the-identicon-package.html)
-
-### import-bikeshedder
-* Haskellのimport文を並べ替えるコマンド
-* <https://github.com/fumieval/import-bikeshedder>
 
 ### lamdu
 * lamdu - towards the next generation IDE
@@ -179,10 +156,6 @@ bar
 foo
 success
 ```
-
-### reserve
-* Universal and robust reloading for Haskell web applications
-* <https://github.com/sol/reserve>
 
 ### vimus
 * Music Player Daemon のクライアント
@@ -228,18 +201,50 @@ Line 6:
 * スクラムに則ったCLIのタスク管理ツール
 * <https://github.com/tokiwoousaka/ttask>
 
-### typebot
-* 関数の型を答えてくれるSlack bot
-* <https://github.com/thoughtbot/typebot>
-
 ### xmonad
 * X11のウィンドウマネージャ
 * <http://xmonad.org/>
 
 ### Yi
-
 - Haskellでカスタマイズできるエディタ
 - <https://github.com/yi-editor/yi>
+
+## Tools for Haskell
+### argon
+* Monitor cyclomatic complexity in Haskell programs
+* <https://github.com/rubik/argon>
+
+### grammar-inference
+* Learning rigid grammars in Haskell.
+* <https://github.com/ayberkt/grammar-inference>
+
+### haddocset
+* Generate docset of Dash by Haddock haskell documentation tool
+* <https://github.com/philopon/haddocset>
+
+### hdevtools
+* Persistent GHC-powered background server for FAST haskell development tools
+* <https://github.com/hdevtools/hdevtools>
+
+### hpack
+* hpack: An alternative format for Haskell packages
+* <https://github.com/sol/hpack>
+
+### hsdev
+* Haskell development tool
+* <https://github.com/mvoidex/hsdev>
+
+### import-bikeshedder
+* Haskellのimport文を並べ替えるコマンド
+* <https://github.com/fumieval/import-bikeshedder>
+
+### typebot
+* 関数の型を答えてくれるSlack bot
+* <https://github.com/thoughtbot/typebot>
+
+### reserve
+* Universal and robust reloading for Haskell web applications
+* <https://github.com/sol/reserve>
 
 ## ライブラリなど
 * [turtle](http://hackage.haskell.org/package/turtle)
