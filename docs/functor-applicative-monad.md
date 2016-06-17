@@ -331,6 +331,7 @@ Reader + Writer + State
 * [An Introduction CATEGORY THEORY in for easy movements](http://www.cs.man.ac.uk/~hsimmons/BOOKS/CatTheory.pdf)
 * [Introduction to Categories and Categorical Logic](http://www.cs.ox.ac.uk/people/bob.coecke/AbrNikos.pdf)
 * [Categorification of Fourier Theory](https://www.youtube.com/watch?v=w3f8KEcv4RE&feature=youtu.be)
+* [Free Monoid from Adjunction](https://bartoszmilewski.com/2016/06/15/freeforgetful-adjunctions/)
 
 ###CPL
 * [圏論プログラミング言語 CPL](http://mandel59.hateblo.jp/entry/2015/02/02/110621)
