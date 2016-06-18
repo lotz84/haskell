@@ -366,6 +366,8 @@ $ heroku config:set HALCYON_NO_BUILD_DEPENDENCIES=0
 * [AtnNn/haskell-rethinkdb](https://github.com/AtnNn/haskell-rethinkdb)
 * [Introducing postgresql-transactional](https://blog.helium.com/introducing-postgresql-transactional-6f19afdf1b9d#.nf4wl0nxu)
 * [Fraxl - Better Concurrency and Caching for Free](https://www.youtube.com/watch?v=Fe3-N9mKuPA)
+* [ElvishJerricco/fraxl](https://github.com/ElvishJerricco/fraxl)
+* [tweag/sparkle](https://github.com/tweag/sparkle)
 
 ###Simples
 * [The mysql-simple package](https://hackage.haskell.org/package/mysql-simple)
