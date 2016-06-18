@@ -5,6 +5,9 @@
 * [CλaSH - From Haskell to Hardware](http://www.clash-lang.org/) [[pdf](http://essay.utwente.nl/59482/1/scriptie_C_Baaij.pdf)]
 * [frp-arduino/frp-arduino](https://github.com/frp-arduino/frp-arduino)
 * [CPUの創りかた(1): 基本論理回路の定義など](http://eijian.hatenablog.com/entry/2015/12/13/140226)
+* [CPUの創りかた(1): 基本論理回路の定義など](http://qiita.com/eijian/items/d721a146fa46e5877225)
+* [CPUの創りかた(2): decorderとmultiplexer](http://qiita.com/eijian/items/6191feebae21ad10a5b1)
+* [CPUの創りかた(3): ROMをつくる](http://qiita.com/eijian/items/1c5cbc1aa302ea7f0312)
 * [ARMing Haskell](http://haskellembedded.github.io/posts/2015-12-15-arm.html)
 * [CλaSH FPGA Starter](http://christiaanb.github.io/posts/clash-fpga-starter/)
 * [FFT With Circat](http://begriffs.com/posts/2015-12-14-fft-with-circat.html)
