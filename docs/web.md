@@ -237,6 +237,7 @@ indexHtml = do
 * [Haskell Servant 入門 (Testing)](http://qiita.com/algas/items/3f7029c92824392a0b11)
 * [haskell-servant/example-servant-persistent](https://github.com/haskell-servant/example-servant-persistent)
 * [Haskell Servant 入門 (Database)](http://qiita.com/algas/items/5a6e570028d95b5dac1b)
+* [Token authentication with Servant](http://jerrington.me/posts/2016-06-18-token-authentication-with-servant.html)
 
 ####Microservices
 * [k-bx/owlcloud](https://github.com/k-bx/owlcloud)
