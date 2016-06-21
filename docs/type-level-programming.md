@@ -430,6 +430,7 @@ instance Eval' Hole where
 * [Idris: General Purpose Programming with Dependent Types](https://www.youtube.com/watch?v=vkIlW797JN8)
 * [Coding for Types: The Universe Patern in Idris](https://www.youtube.com/watch?v=AWeT_G04a0A)
 * [REVERSE, REVERSE: THEOREM PROVING WITH IDRIS](http://www.stackbuilders.com/news/reverse-reverse-theorem-proving-with-idris)
+* [bamboo/idris-cil](https://github.com/bamboo/idris-cil)
 
 ##Alms
 * [Practical Affine Types](http://www.ccs.neu.edu/home/tov/pubs/alms/)
