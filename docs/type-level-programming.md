@@ -136,6 +136,7 @@ circum (Circle _ _ r) = …
 * [Refinement Types For Haskell](http://research.microsoft.com/en-us/um/people/simonpj/papers/verify/LiquidHaskell_ICFP14.pdf)
 * <https://github.com/Gabriel439/slides/blob/master/liquidhaskell/slides.md>
 * [Liquid Types for Haskell](https://www.youtube.com/watch?v=LEsEME7JwEE)
+* [Why do pattern synonyms not cause type refinement?](https://mpickering.github.io/posts/2016-06-18-why-no-refinement.html)
 
 ##Dependent Types
 * [Dependent Types](https://cubeoflambda.wordpress.com/2011/12/03/dependent-types/)
