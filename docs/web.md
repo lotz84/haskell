@@ -56,6 +56,7 @@ TODO: 目次を作る
 * [google/proto-lens](https://github.com/google/proto-lens)
 * [owainlewis/http-dispatch](https://github.com/owainlewis/http-dispatch)
 * [kazu-yamamoto/http2](https://github.com/kazu-yamamoto/http2)
+* [Haskell compute PaaS with sparkle](http://blog.tweag.io/posts/2016-06-20-haskell-compute-paas-with-sparkle.html)
 
 ## Hakyll
 * [LambdaCms](http://lambdacms.org/)
