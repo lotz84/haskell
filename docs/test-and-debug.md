@@ -70,6 +70,13 @@ Passed:
 +++ OK, passed 100 tests.
 ```
 
+### HipSpec
+* [danr/hipspec](https://github.com/danr/hipspec)
+* [Proving Type Class Laws for Haskell](http://tfp2016.org/papers/TFP_2016_paper_20.pdf)
+* [HipSpec: Automating Inductive Proofs of Program Properties](http://www.cse.chalmers.se/~jomoa/papers/hipspec-atx.pdf)
+* [Automating Inductive Proofs using Theory Exploration](http://www.cse.chalmers.se/~nicsma/papers/hipspec-cade.pdf)
+* [HipSpec - Automating Inductive Proofs using Theory Exploration](http://www.cse.chalmers.se/~danr/hipspec-london-talk.pdf)
+
 ##デバッグ
 * [Debug.Trace](http://hackage.haskell.org/package/base/docs/Debug-Trace.html)
 * [2.5. GHCiデバッガ](http://www.kotha.net/ghcguide_ja/latest/ghci-debugger.html)
