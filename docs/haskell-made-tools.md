@@ -201,6 +201,10 @@ Line 6:
 * スクラムに則ったCLIのタスク管理ツール
 * <https://github.com/tokiwoousaka/ttask>
 
+### unused
+* A command line tool to identify unused code.
+* <https://github.com/joshuaclayton/unused>
+
 ### xmonad
 * X11のウィンドウマネージャ
 * <http://xmonad.org/>
