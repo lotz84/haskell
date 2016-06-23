@@ -222,6 +222,10 @@ Line 6:
 * Generate docset of Dash by Haddock haskell documentation tool
 * <https://github.com/philopon/haddocset>
 
+### haskell-tools
+* Developer tools for Haskell
+* <https://github.com/nboldi/haskell-tools>
+
 ### hdevtools
 * Persistent GHC-powered background server for FAST haskell development tools
 * <https://github.com/hdevtools/hdevtools>
