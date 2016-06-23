@@ -46,6 +46,7 @@
 * [HsQML 0.3.4.0 released: Belated Automatic List Models](http://blog.gekkou.co.uk/2016/02/hsqml-0340-released.html)
 * [Easy Native GUIs in Haskell, Today!](https://www.youtube.com/watch?v=5hoQLovZBxQ)
 * [Using Electron with Haskell](https://codetalk.io/posts/2016-05-11-using-electron-with-haskell.html)
+* [Creating a GUI application in Haskell](https://www.stackbuilders.com/tutorials/haskell/gui-application/)
 
 ##Game
 * [CodinGame](https://www.codingame.com/)
