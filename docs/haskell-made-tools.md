@@ -218,6 +218,10 @@ Line 6:
 * Monitor cyclomatic complexity in Haskell programs
 * <https://github.com/rubik/argon>
 
+### ekg
+* Remote monitoring of running processes over HTTP
+* <https://github.com/tibbe/ekg>
+
 ### grammar-inference
 * Learning rigid grammars in Haskell.
 * <https://github.com/ayberkt/grammar-inference>
