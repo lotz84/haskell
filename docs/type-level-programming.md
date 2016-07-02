@@ -53,6 +53,7 @@
 * [型を表示する関数](http://qiita.com/ruicc/items/d04a9f61a5fa702f10d5)
 * [No value restriction is needed for algebraic effects and handlers](https://arxiv.org/abs/1605.06938)
 * [Practical Dependent Types in Haskell: Type-Safe Neural Networks (Part 1)](https://blog.jle.im/entry/practical-dependent-types-in-haskell-1.html)
+* [Practical Dependent Types in Haskell 2: Existential Neural Networks and Types at Runtime](https://blog.jle.im/entry/practical-dependent-types-in-haskell-2.html)
 * [Indexed Codata Types](http://www.cs.mcgill.ca/~bpientka/papers/indexed_codata.pdf)
 * [Church’s Thesis and Functional Programming](https://www.cs.kent.ac.uk/people/staff/dat/miranda/ctfp.pdf)
 
