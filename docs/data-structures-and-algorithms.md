@@ -153,6 +153,7 @@
 * [A Haskell Time Library Tutorial](http://two-wrongs.com/haskell-time-library-tutorial)
 * [The unix-time package](https://hackage.haskell.org/package/unix-time)
 * [Haskellで処理時間を測るために、](https://plus.google.com/+MasahiroSakai/posts/AY7uqu6S9X7)
+* [hellerve/Data.DDate](https://github.com/hellerve/Data.DDate)
 
 ###FFT
 * [Simple FFT in Haskell](https://ro-che.info/articles/2015-12-04-fft)
