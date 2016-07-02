@@ -195,6 +195,7 @@ indexHtml = do
 * [Spock Web Framework](https://www.spock.li/)
   * [«Spock – Powerful Elegant Web Applications using Haskell» by Alexander Thiemann](https://www.youtube.com/watch?v=kNqsOBrCbLo)
 * [Rest for Haskell](http://silkapp.github.io/rest/)
+* [Haskell rest フレームワークでREST API設計をサボる](http://qiita.com/arowM/items/ff800ce4136966a6ce8e)
 * [apiary](https://hackage.haskell.org/package/apiary)
 
 ###Servant
@@ -239,6 +240,7 @@ indexHtml = do
 * [haskell-servant/example-servant-persistent](https://github.com/haskell-servant/example-servant-persistent)
 * [Haskell Servant 入門 (Database)](http://qiita.com/algas/items/5a6e570028d95b5dac1b)
 * [Token authentication with Servant](http://jerrington.me/posts/2016-06-18-token-authentication-with-servant.html)
+* [Servant, Type Families, and Type-level Everything](http://www.arow.info/blog/posts/2015-07-10-servant-intro.html)
 
 ####Microservices
 * [k-bx/owlcloud](https://github.com/k-bx/owlcloud)
