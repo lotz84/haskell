@@ -36,6 +36,10 @@ variance introduced by outliers: 81% (severely inflated)
 * fish shell のプラグインマネージャー
 * <https://github.com/kinoru/chips>
 
+### Ec2-unikernel
+* Tool for uploading unikernels into EC2
+* [Ec2-unikernel: One step unikernel -> Amazon EC2 AMI](https://devel.unikernel.org/t/ec2-unikernel-one-step-unikernel-amazon-ec2-ami/167)
+
 ### git-annex
 * gitでバイナリファイル等を効率的に扱うツール
 * <https://git-annex.branchable.com/>
