@@ -95,6 +95,7 @@
 * [GHC optimisations](https://wiki.haskell.org/GHC_optimisations)
 * [Desugaring Haskell’s do-notation Into Applicative Operations](http://research.microsoft.com/en-us/um/people/simonpj/papers/list-comp/applicativedo.pdf)
 * [haskell-suite/haskell-names](https://github.com/haskell-suite/haskell-names)
+* [Averaging unsigned numbers in Haskell](http://bokesan.blogspot.jp/2016/06/averaging-unsigned-numbers-in-haskell.html)
 
 ###7.10
 * [Functor-Applicative-Monad Proposal](https://wiki.haskell.org/Functor-Applicative-Monad_Proposal)
