@@ -124,6 +124,10 @@ $ hidenticon --hash 3238947aafb9293801decf1230329 --size 128 -o 3238947aafb92938
 $ hobbes "*.hs" | xargs -n1 ghc --make
 ```
 
+### hoodle
+* Hoodle is a pen notetaking program developed in Haskell using gtk2hs
+* [hoodle - free pen note taking program](http://ianwookim.org/hoodle/)
+
 ### howerpoint
 * ghciベースのプレゼンテーションツール
 * <https://github.com/fokot/howerpoint>
