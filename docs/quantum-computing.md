@@ -2,3 +2,5 @@
 * [The QIO package](https://hackage.haskell.org/package/QIO)
 * [The Quantum IO Monad](http://www.cs.nott.ac.uk/~psztxa/g5xnsc/chapter.pdf)
 * [IBM Quantum Computing](http://www.research.ibm.com/quantum/index.html)
+* [The Quipper Language](http://www.mathstat.dal.ca/~selinger/quipper/)
+* [Peter Sellinger: "Introduction to Quipper"](https://www.youtube.com/watch?v=59frzb__Eqo)
