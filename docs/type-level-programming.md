@@ -433,6 +433,7 @@ instance Eval' Hole where
 * [Coding for Types: The Universe Patern in Idris](https://www.youtube.com/watch?v=AWeT_G04a0A)
 * [REVERSE, REVERSE: THEOREM PROVING WITH IDRIS](http://www.stackbuilders.com/news/reverse-reverse-theorem-proving-with-idris)
 * [bamboo/idris-cil](https://github.com/bamboo/idris-cil)
+* [stedolan/idris-malfunction](https://github.com/stedolan/idris-malfunction)
 
 ##Alms
 * [Practical Affine Types](http://www.ccs.neu.edu/home/tov/pubs/alms/)
