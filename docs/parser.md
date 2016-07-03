@@ -19,6 +19,7 @@
 * [Differentiating Regular Expressions](http://languagengine.co/blog/differentiating-regular-expressions/)
 * [Partial Derivatives of Regular Expressions](https://www.youtube.com/watch?v=QVdBPvOOjBA)
 * [Regex Edit Distance](http://languagengine.co/blog/regex-edit-distance/)
+* [Fast, Elegant Regexes in Haskell](https://begriffs.com/posts/2016-06-27-fast-haskell-regexes.html)
 
 ##パーサーコンビネータ
 * [JavaScriptでパーサコンビネータのコンセプトを理解する](http://blog.anatoo.jp/entry/2015/04/26/220026)
@@ -69,10 +70,12 @@ parse = evalStateT
 ###CSV
 * [cassava](https://hackage.haskell.org/package/cassava)
 * [CSV encoding and decoding in Haskell with Cassava](https://www.stackbuilders.com/tutorials/haskell/csv-encoding-decoding/)
+* [CASSAVA MEGAPARSEC LIBRARY RELEASED](https://www.stackbuilders.com/news/cassava-megaparsec-library-released)
 
 ###XML
 * [xml-conduit](https://hackage.haskell.org/package/xml-conduit)
   * [xml-lens](https://hackage.haskell.org/package/xml-lens)
+* [The hxt package](https://hackage.haskell.org/package/hxt)
 
 ###Excel
 * [xlsx](https://hackage.haskell.org/package/xlsx)
