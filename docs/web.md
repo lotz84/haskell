@@ -279,6 +279,7 @@ indexHtml = do
 * [Monitoring a Yesod App with EKG](http://maxgabriel.github.io/ekg-yesod/)
 * [Using UUIDs in Yesod](https://jezenthomas.com/using-uuids-in-yesod/)
 * [How to use UUID values with Persistent and Yesod](http://bitemyapp.com//posts/2016-06-15-uuids-with-persistent-yesod.html)
+* [.keterファイルの解凍でエラーになる時は](http://qiita.com/jabaraster/items/1e713911625258c6f2e1)
 
 ##認証/認可
 * [hoauth2](http://hackage.haskell.org/package/hoauth2)
