@@ -333,6 +333,7 @@ Reader + Writer + State
 * [Categorification of Fourier Theory](https://www.youtube.com/watch?v=w3f8KEcv4RE&feature=youtu.be)
 * [Free Monoid from Adjunction](https://bartoszmilewski.com/2016/06/15/freeforgetful-adjunctions/)
 * [圏論の入門書籍・入門資料まとめ](http://www.orecoli.com/entry/2016/06/30/194159)
+* [圏とHaskellの型](http://www.slideshare.net/KinebuchiTomo/haskell-63665717)
 
 ###CPL
 * [圏論プログラミング言語 CPL](http://mandel59.hateblo.jp/entry/2015/02/02/110621)
