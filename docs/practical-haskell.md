@@ -68,6 +68,8 @@
 * [stackのオレオレテンプレートを作って楽をする](http://qiita.com/techno-tanoC/items/72d188cd19d8e3ac890d)
 * [LTS Haskell: Version your Ecosystem](https://github.com/fpco/lts-haskell#readme)
 * [stackを使う](http://d.hatena.ne.jp/hiroki_f/20160603)
+* [Stackを使ったHaskellのインストール](http://qiita.com/KNaito/items/98debf322e08c706fc90)
+* [Haskell(Stack)でGitHubにあるライブラリを使う方法](http://qiita.com/aiya000/items/4e90aead41e3711a1e54)
 
 ##Nix
 * [Nix ±Cabal](http://begriffs.com/posts/2015-08-07-nix-plus-minus-cabal.html)
