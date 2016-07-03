@@ -165,6 +165,12 @@ foo
 success
 ```
 
+### PostgREST
+* PostgreSQLの機能をREST APIに変換してくれるツール
+* [PostgREST Workshop](http://begriffs.com/posts/2015-10-02-postgrest-workshop.html)
+* [Declaring RESTful APIs with PostgREST](http://begriffs.com/posts/2014-12-30-intro-to-postgrest.html)
+* [A Tour of PostgREST](http://begriffs.com/posts/2016-03-20-postgrest-tour.html)
+
 ### vimus
 * Music Player Daemon のクライアント
 * <https://github.com/vimus/vimus>
