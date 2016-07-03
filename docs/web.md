@@ -42,24 +42,24 @@ Index
 
 Client
 ======
-* [owainlewis/http-dispatch](https://github.com/owainlewis/http-dispatch)
+* [Tutorial] Creating a BitTorrent client in Haskell
+  * [#1](https://blog.chaps.io/2015/10/05/torrent-client-in-haskell-1.html)
+  * [#2](http://blog.chaps.io/2015/10/13/torrent-client-in-haskell-2.html)
+  * [#3](http://blog.chaps.io/2015/11/24/torrent-client-in-haskell-3)
 * [HaskellでTwitterにpostする](http://yunomu.hatenablog.jp/entry/2012/05/13/210629)
 * [HaskellからSlackにさくっとPOSTする](http://blog.euphonictech.com/entry/2016/05/08/225740)
 * [Writing a haskell client for a third party API](http://blog.byteally.com/posts/2016-04-21-Writing-a-haskell-client-for-a-third-party-API.html)
 * A minimal web-browser written and configured in Haskell - [k0ral/hbro](https://github.com/k0ral/hbro)
 * [The dns package](https://hackage.haskell.org/package/dns)
-* [Tutorial] Creating a BitTorrent client in Haskell
-  * [#1](https://blog.chaps.io/2015/10/05/torrent-client-in-haskell-1.html)
-  * [#2](http://blog.chaps.io/2015/10/13/torrent-client-in-haskell-2.html)
-  * [#3](http://blog.chaps.io/2015/11/24/torrent-client-in-haskell-3)
 * [basvandijk/rss](https://github.com/basvandijk/rss)
 * [pontarius/pontarius-xmpp](https://github.com/pontarius/pontarius-xmpp)
-* [owainlewis/http-dispatch](https://github.com/owainlewis/http-dispatch)
-* [http-client](https://hackage.haskell.org/package/http-client)
-* [http-client-tls](https://hackage.haskell.org/package/http-client-tls)
-* [http-conduit](http://hackage.haskell.org/package/http-conduit)
-* [pipes-http](https://hackage.haskell.org/package/pipes-http)
-* [http-streams](https://hackage.haskell.org/package/http-streams)
+* HTTP Client
+  * [owainlewis/http-dispatch](https://github.com/owainlewis/http-dispatch)
+  * [http-client](https://hackage.haskell.org/package/http-client)
+  * [http-client-tls](https://hackage.haskell.org/package/http-client-tls)
+  * [http-conduit](http://hackage.haskell.org/package/http-conduit)
+  * [pipes-http](https://hackage.haskell.org/package/pipes-http)
+  * [http-streams](https://hackage.haskell.org/package/http-streams)
 * Twitter - [twitter-conduit](http://hackage.haskell.org/package/twitter-conduit)
 * Facebook - [fb](https://hackage.haskell.org/package/fb)
 * Instagram - [The ig package](http://hackage.haskell.org/package/ig)
