@@ -6,7 +6,7 @@
 * zsh のプラグインマネージャー
 * <https://github.com/Tarrasch/antigen-hs>
 
-#### Basilica
+### Basilica
 * [Basilica - Haskell製のモダンなフォーラム](http://www.moongift.jp/2016/01/basilica-haskell%E8%A3%BD%E3%81%AE%E3%83%A2%E3%83%80%E3%83%B3%E3%81%AA%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0/)
 * <https://github.com/ianthehenry/basilica>
 
@@ -43,6 +43,11 @@ variance introduced by outliers: 81% (severely inflated)
 ### Ec2-unikernel
 * Tool for uploading unikernels into EC2
 * [Ec2-unikernel: One step unikernel -> Amazon EC2 AMI](https://devel.unikernel.org/t/ec2-unikernel-one-step-unikernel-amazon-ec2-ami/167)
+
+### Elm
+* [elm](http://elm-lang.org/)
+* [elm+electronで気楽に始めるFRP](http://qiita.com/yasuyuky/items/e28106e3dd7fed17d50f)
+* [Building elm with stack](http://therning.org/magnus/posts/2015-10-13-000-building-elm-with-stack.html)
 
 ### git-annex
 * gitでバイナリファイル等を効率的に扱うツール
