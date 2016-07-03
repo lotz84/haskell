@@ -131,6 +131,7 @@ in map (fromMaybe . show <*> 3 ~> "fizz" <> 5 ~> "buzz")
 * [Vim and Haskell in 2016](http://www.stephendiehl.com/posts/vim_2016.html)
 * [Connecting Vim with your Haskell repl](http://begriffs.com/posts/2013-08-19-connecting-vim-with-your-haskell-repl.html)
 * [myfreeweb/intero.nvim](https://github.com/myfreeweb/intero.nvim)
+* [Haskell で +channel 使って Vim とおはなしする](http://qiita.com/lesguillemets/items/a1a7c70709660985eead)
 
 ### Emacs
 * [haskell/haskell-mode](https://github.com/haskell/haskell-mode)
