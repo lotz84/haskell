@@ -1,3 +1,5 @@
+Index
+=====
 * [Client](https://github.com/lotz84/haskell/blob/master/docs/web.md#client)
   * [Scraping](https://github.com/lotz84/haskell/blob/master/docs/web.md#scraping)
   * [Email](https://github.com/lotz84/haskell/blob/master/docs/web.md#email)
@@ -37,8 +39,6 @@
 * [Others](https://github.com/lotz84/haskell/blob/master/docs/web.md#others)
 
 ----
-
-* [HaskellでWebAppの開発に必要なN個のこと](http://maoe.hatenadiary.jp/entry/2013/09/10/182914)
 
 Client
 ======
@@ -180,6 +180,7 @@ Web Server
 
 Web Application Framework
 -------------------------
+* [HaskellでWebAppの開発に必要なN個のこと](http://maoe.hatenadiary.jp/entry/2013/09/10/182914)
 * [CQRS in Haskell](http://www.corecursion.net/post/CQRS_in_Haskell)
 * [Announcing serversession](http://blog.felipe.lessa.nom.br/?p=153)
 * [agrafix/users](https://github.com/agrafix/users)
