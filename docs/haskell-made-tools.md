@@ -141,6 +141,10 @@ $ hobbes "*.hs" | xargs -n1 ghc --make
 * lamdu - towards the next generation IDE
 * <https://github.com/lamdu/lamdu>
 
+### link
+* A simple multithreded chat server in haskell
+* <https://github.com/abhin4v/link>
+
 ### markov-bot
 * 過去のツイートを学習してボットを作ってくれるツール
 * <https://github.com/ryota-ka/markov-bot>
