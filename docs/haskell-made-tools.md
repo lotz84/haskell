@@ -199,6 +199,19 @@ success
 * [Declaring RESTful APIs with PostgREST](http://begriffs.com/posts/2014-12-30-intro-to-postgrest.html)
 * [A Tour of PostgREST](http://begriffs.com/posts/2016-03-20-postgrest-tour.html)
 
+### PureScript
+* <http://www.purescript.org/>
+* [andyarvanitis/pure11](https://github.com/andyarvanitis/pure11)
+* [Stack Safety for Free](http://functorial.com/stack-safety-for-free/index.pdf)
+* [slamdata/purescript-halogen](https://github.com/slamdata/purescript-halogen)
+* [実例によるPureScript](http://hiruberuto.bitbucket.org/purescript/)
+* [purescript/purescript-free](https://github.com/purescript/purescript-free)
+* [Flare](http://david-peter.de/articles/flare/)
+* [Pursuit](http://pursuit.purescript.org/)
+* [PureScript for the Haskeller](http://www.arow.info/blog/posts/2015-12-17-purescript-intro.html)
+* [kRITZCREEK/psc-ide](https://github.com/kRITZCREEK/psc-ide)
+* [Type-safe client-server communication with PureScript](http://frigoeu.github.io/phantomtypes.html)
+
 ### vimus
 * Music Player Daemon のクライアント
 * <https://github.com/vimus/vimus>
