@@ -102,3 +102,5 @@ main = do
   * [Paxos](http://www.slideshare.net/pfi/paxos-13615514?ref=http://open-groove.net/all-things-technology/paxos/)
   * [Raft](http://www.slideshare.net/pfi/raft-36155398)
 * [Distributed Systems in Haskell](http://yager.io/Distributed/Distributed.html)
+* [Composing distributed Web applications](https://github.com/agocorona/transient/wiki/Composing--distributed-Web-applications)
+
