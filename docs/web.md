@@ -241,6 +241,7 @@ indexHtml = do
 * [Haskell Servant 入門 (Database)](http://qiita.com/algas/items/5a6e570028d95b5dac1b)
 * [Token authentication with Servant](http://jerrington.me/posts/2016-06-18-token-authentication-with-servant.html)
 * [Servant, Type Families, and Type-level Everything](http://www.arow.info/blog/posts/2015-07-10-servant-intro.html)
+* [Incremental API Takeover with Haskell Servant](http://www.parsonsmatt.org/2016/06/24/take_over_an_api_with_servant.html)
 
 ####Microservices
 * [k-bx/owlcloud](https://github.com/k-bx/owlcloud)
