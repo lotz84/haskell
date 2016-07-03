@@ -52,6 +52,7 @@ TODO: 目次を作る
 * [HaskellからSlackにさくっとPOSTする](http://blog.euphonictech.com/entry/2016/05/08/225740)
 * [ghcjs/ghcjs-dom](https://github.com/ghcjs/ghcjs-dom)
 * [Fun with GHCJSi](https://www.youtube.com/watch?v=x7dQVZiWjvA)
+* [GETTING STARTED WITH GHCJS DEV](http://hangman-profile-56437.bitballoon.com/)
 * [Composing distributed Web applications](https://github.com/agocorona/transient/wiki/Composing--distributed-Web-applications)
 * [google/proto-lens](https://github.com/google/proto-lens)
 * [owainlewis/http-dispatch](https://github.com/owainlewis/http-dispatch)
@@ -315,6 +316,7 @@ $ heroku config:set HALCYON_NO_BUILD_DEPENDENCIES=0
 * [basvandijk/rss](https://github.com/basvandijk/rss)
 * [pontarius/pontarius-xmpp](https://github.com/pontarius/pontarius-xmpp)
 * [The telegram-api package](https://hackage.haskell.org/package/telegram-api)
+* [owainlewis/http-dispatch](https://github.com/owainlewis/http-dispatch)
 * **HTTP/HTTPS**
   * [http-client](https://hackage.haskell.org/package/http-client)
   * [http-client-tls](https://hackage.haskell.org/package/http-client-tls)
