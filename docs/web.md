@@ -166,6 +166,7 @@ Web Server
 ----------
 * [mighttpd](https://hackage.haskell.org/package/mighttpd)
 * [Haskell から見た node.js](http://d.hatena.ne.jp/kazu-yamamoto/20110825/1314254885)
+* [Web/Comparison of Happstack, Snap and Yesod](https://wiki.haskell.org/Web/Comparison_of_Happstack,_Snap_and_Yesod)
 
 ### WAI/Warp
 * [Haskell版フォルダを指定してhttpで公開する簡易Webサーバー](http://qiita.com/saturday06/items/fad44a9bc49b2f387bde)
