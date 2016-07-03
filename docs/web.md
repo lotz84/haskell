@@ -1,128 +1,142 @@
-TODO: 目次を作る
+* Client
+  * Scraping
+  * Email
+* Front end
+  * Haskell to JavaScript compiler
+    * GHC JS
+    * Haste
+    * fay
+  * HTML Template
+    * Lucid
+* Back end
+  * Web Server
+  * Web Application Framework
+    * 比較
+    * 認証/認可
+    * Logger
+    * デプロイ
+    * Fn
+    * Scotty
+    * Spock
+    * Rest
+    * Apiry
+    * Servant
+    * Yesod
+    * Snap
+  * Protocol
+    * MQTT
+    * Protocol Buffers
+    * JSON-RPC
+    * Web Socket
+  * Database
+    * Simple Clients
+    * HDBC
+    * SQL DSL
+      * Haskell Relational Record
+  * Heroku
+    * Haskell on Heroku
+* Others
+
+----
 
 * [HaskellでWebAppの開発に必要なN個のこと](http://maoe.hatenadiary.jp/entry/2013/09/10/182914)
-* [mighttpd](https://hackage.haskell.org/package/mighttpd)
-* [Tutorial] Haskell Game Server
-  * [Part 1](http://mojobojo.com/posts/2015-12-26-haskell-game-server-part-1.html)
-  * [Part 1 Followup](http://mojobojo.com/posts/2015-12-28-haskell-game-server-part-1-followup.html)
-  * [Part 2](http://mojobojo.com/posts/2016-01-01-haskell-game-server-part-2.html)
-* [Taking Authentication to the next Level](https://www.spock.li/2015/08/23/taking_authentication_to_the_next_level.html)
-* [The Ur Programming Language Family](http://www.impredicative.com/ur/)
-  * [04 An Optimizing Compiler for a Purely Functional Web Application Language](https://www.youtube.com/watch?v=McYhbIubeTc)
-* [snoyberg/keter](https://github.com/snoyberg/keter)
-* [The HaskellNet package](http://hackage.haskell.org/package/HaskellNet)
-* [The smtp-mail package](https://hackage.haskell.org/package/smtp-mail)
-* [(解説) はてなブックマークにおけるアクセス制御 - 半環構造に基づくモデル化](http://developer.hatenastaff.com/entry/bookmark-semiring-ac)
-* [In the Age of Web: Typed Functional-First Programming Revisited](http://arxiv.org/abs/1512.01896)
-* [FRPNowをサーバで使ってみた](http://qiita.com/asukamirai/items/d23c34a71d72d077e39d)
-* [A Servlet-based Web application with the Frege programming language](http://earldouglas.com/articles/frege-web.html)
-* [caneroj1/clarifai-hs](https://github.com/caneroj1/clarifai-hs)
-* [nginx module to enable haskell binding to nginx configuration files](http://lin-techdet.blogspot.jp/2015/12/nginx-module-to-enable-haskell-binding.html)
-* [Announcing serversession](http://blog.felipe.lessa.nom.br/?p=153)
-* [ANN: QuickLift](http://www.parsonsmatt.org/2016/01/03/ann_quicklift.html)
-* [シンプルでかつ最高のJavaScriptプロファイラ sjsp を作りました！](http://itchyny.hatenablog.com/entry/2015/07/01/120000)
-* webfont generator - [ananthakumaran/webify](https://github.com/ananthakumaran/webify)
-* [A Distributed Haskell for the Modern Web](http://ekblad.cc/lic.pdf)
-* [CQRS in Haskell](http://www.corecursion.net/post/CQRS_in_Haskell)
-* [liqd/thentos](https://github.com/liqd/thentos)
+
+Client
+======
+* [owainlewis/http-dispatch](https://github.com/owainlewis/http-dispatch)
+* [HaskellでTwitterにpostする](http://yunomu.hatenablog.jp/entry/2012/05/13/210629)
+* [HaskellからSlackにさくっとPOSTする](http://blog.euphonictech.com/entry/2016/05/08/225740)
+* [Writing a haskell client for a third party API](http://blog.byteally.com/posts/2016-04-21-Writing-a-haskell-client-for-a-third-party-API.html)
+* A minimal web-browser written and configured in Haskell - [k0ral/hbro](https://github.com/k0ral/hbro)
+* [The dns package](https://hackage.haskell.org/package/dns)
+* [Tutorial] Creating a BitTorrent client in Haskell
+  * [#1](https://blog.chaps.io/2015/10/05/torrent-client-in-haskell-1.html)
+  * [#2](http://blog.chaps.io/2015/10/13/torrent-client-in-haskell-2.html)
+  * [#3](http://blog.chaps.io/2015/11/24/torrent-client-in-haskell-3)
+* [basvandijk/rss](https://github.com/basvandijk/rss)
+* [pontarius/pontarius-xmpp](https://github.com/pontarius/pontarius-xmpp)
+* [owainlewis/http-dispatch](https://github.com/owainlewis/http-dispatch)
+* [http-client](https://hackage.haskell.org/package/http-client)
+* [http-client-tls](https://hackage.haskell.org/package/http-client-tls)
+* [http-conduit](http://hackage.haskell.org/package/http-conduit)
+* [pipes-http](https://hackage.haskell.org/package/pipes-http)
+* [http-streams](https://hackage.haskell.org/package/http-streams)
+* Twitter - [twitter-conduit](http://hackage.haskell.org/package/twitter-conduit)
+* Facebook - [fb](https://hackage.haskell.org/package/fb)
+* Instagram - [The ig package](http://hackage.haskell.org/package/ig)
+* Github
+  * [github package](https://hackage.haskell.org/package/github)
+  * [github-types](https://hackage.haskell.org/package/github-types)
+  * [github-webhook-handler](https://hackage.haskell.org/package/github-webhook-handler)
+* AWS
+  * [aristidb/aws](https://github.com/aristidb/aws)
+  * [brendanhay/amazonka](https://github.com/brendanhay/amazonka)
+* Reddit - [reddit](https://hackage.haskell.org/package/reddit)
+* IRC - [glguy/irc-core](https://github.com/glguy/irc-core)
+* Twilio - [steven777400/TwilioIVR](https://github.com/steven777400/TwilioIVR/)
+* Stripe - [The stripe-haskell package](http://hackage.haskell.org/package/stripe-haskell)
+* Kafka
+  * [cosbynator/haskakafka](https://github.com/cosbynator/haskakafka)
+  * [tylerholien/milena](https://github.com/tylerholien/milena)
+* kubernetes - [soundcloud/haskell-kubernetes](https://github.com/soundcloud/haskell-kubernetes)
+* Telegram Bot API - [The telegram-api package](https://hackage.haskell.org/package/telegram-api)
+
+Scraping
+--------
+* [wreq](http://www.serpentine.com/wreq/)
+  * [Web Scraping with Lenses](http://two-wrongs.com/web-scraping-with-lenses)
+  * [24 days of Hackage, 2015: day 4: wreq: Web client programming; with notes on lens and operator syntax](http://conscientiousprogrammer.com/blog/2015/12/04/24-days-of-hackage-2015-day-4-wreq-web-client-programming-with-notes-on-lens-and-operator-syntax/)
+* [fimad/scalpel](https://github.com/fimad/scalpel)
+  * [Haskell で楽しい Web スクレイピング](http://qiita.com/na-o-ys/items/30a4950d5391911493c2)
+* [egonSchiele/HandsomeSoup](https://github.com/egonSchiele/HandsomeSoup)
+
+Email
+-----
 * [Network.Mail.Mime でのメール送信方法](http://qiita.com/satosystems/items/43ad35db2a289c15c998)
 * [Network.Mail.Client.Gmail でのメール送信方法](http://qiita.com/satosystems/items/c6c57d6d3b813d3dcb23)
-* [stackbuilders/hapistrano](https://github.com/stackbuilders/hapistrano)
-* [The resource-pool package](https://hackage.haskell.org/package/resource-pool)
-* [Basilica - Haskell製のモダンなフォーラム](http://www.moongift.jp/2016/01/basilica-haskell%E8%A3%BD%E3%81%AE%E3%83%A2%E3%83%80%E3%83%B3%E3%81%AA%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0/)
-* [Deploying A Haskell Web Service With Nix](http://jezenthomas.com/deploying-a-haskell-web-service-with-nix/)
-* [Dropbox Hack Week: GraphQL Server in Haskell](https://chadaustin.me/2016/02/dropbox-hack-week-graphql-server-in-haskell/)
-* [tylerholien/milena](https://github.com/tylerholien/milena)
-* [uwitty/mosquitto](https://github.com/uwitty/mosquitto)
+* [The smtp-mail package](https://hackage.haskell.org/package/smtp-mail)
 * [The imap package](https://hackage.haskell.org/package/imap)
-* [soundcloud/haskell-kubernetes](https://github.com/soundcloud/haskell-kubernetes)
-* [chrisdone/haskellnews](https://github.com/chrisdone/haskellnews)
-* [Tor in Haskell & Other Unikernel Tricks](http://www.infoq.com/presentations/tor-haskell)
-* [ptcpd](https://gitgud.io/hae/ptcpd)
-* [Representing an RPC API](http://petterbergman.se/api.html)
-* [cosbynator/haskakafka](https://github.com/cosbynator/haskakafka)
-* [jdreaver/stratosphere](https://github.com/jdreaver/stratosphere)
-* [k-bx/protocol-buffers](https://github.com/k-bx/protocol-buffers)
-* [sol/reserve](https://github.com/sol/reserve)
-* [Writing a haskell client for a third party API](http://blog.byteally.com/posts/2016-04-21-Writing-a-haskell-client-for-a-third-party-API.html)
-* [agrafix/users](https://github.com/agrafix/users)
-* [HaskellでTwitterにpostする](http://yunomu.hatenablog.jp/entry/2012/05/13/210629)
-* [Web Dev with Fn](https://www.youtube.com/watch?v=tuBeA1wn4js)
-* [Haskell版フォルダを指定してhttpで公開する簡易Webサーバー](http://qiita.com/saturday06/items/fad44a9bc49b2f387bde)
-* [HaskellからSlackにさくっとPOSTする](http://blog.euphonictech.com/entry/2016/05/08/225740)
+* [The HaskellNet package](http://hackage.haskell.org/package/HaskellNet)
+
+Front end
+=========
+* [Hakyll](https://github.com/lotz84/haskell/blob/master/docs/haskell-made-tools.md#hakyll) - 静的サイトジェネレータ
+* [シンプルでかつ最高のJavaScriptプロファイラ sjsp を作りました！](http://itchyny.hatenablog.com/entry/2015/07/01/120000)
+* [A Distributed Haskell for the Modern Web](http://ekblad.cc/lic.pdf)
+
+Haskell to JavaScript compiler
+------------------------------
+### GHC JS
+* [ghcjs/ghcjs](https://github.com/ghcjs/ghcjs)
 * [ghcjs/ghcjs-dom](https://github.com/ghcjs/ghcjs-dom)
 * [Fun with GHCJSi](https://www.youtube.com/watch?v=x7dQVZiWjvA)
 * [GETTING STARTED WITH GHCJS DEV](http://hangman-profile-56437.bitballoon.com/)
-* [Composing distributed Web applications](https://github.com/agocorona/transient/wiki/Composing--distributed-Web-applications)
-* [google/proto-lens](https://github.com/google/proto-lens)
-* [owainlewis/http-dispatch](https://github.com/owainlewis/http-dispatch)
-* [kazu-yamamoto/http2](https://github.com/kazu-yamamoto/http2)
-* [Haskell compute PaaS with sparkle](http://blog.tweag.io/posts/2016-06-20-haskell-compute-paas-with-sparkle.html)
 
-## Hakyll
-* [LambdaCms](http://lambdacms.org/)
-* [Static Generation with Haskell](http://two-wrongs.com/static-generation-with-haskell)
-* [Hakyll](http://jaspervdj.be/hakyll/)
-* [Hakyllを使ってGitHub Pagesを作成して、そのソースも管理して、Travis CIで自動デプロイする。](http://imokuri123.com/blog/2015/04/create-github-pages-with-hakyll.html)
-* [Hakyllでページング](http://qiita.com/hiratara/items/714d890e1b363f06c2d3)
-* [Hakyllでブログを作る(実践編)](https://imokuri123.com/blog/2015/12/how-to-create-blog-with-hakyll-part1.html)
-* [Create a static site with Hakyll, Github and Travis CI](http://begriffs.com/posts/2014-08-12-create-static-site-with-hakyll-github.html)
-* [Jekyll Style URLs with Hakyll](http://aherrmann.github.io/programming/2016/01/31/jekyll-style-urls-with-hakyll/)
-* [Serving a Hakyll site with Warp/Wai](https://chromabits.com/posts/2016/02/15/serving-hakyll-site-with-warp/)
-* [Hakyll で日本語文中の余分な空白を削除する](http://qiita.com/pecorarista/items/2abad96e21857d43a04c)
-* [Blog Rewrite with Hakyll and Purescript](https://blog.jle.im/entry/blog-rewrite-with-hakyll-and-purescript.html)
-* [Compiling SCSS and JavaScript in Hakyll](https://codetalk.io/posts/2016-05-10-compiling-scss-and-js-in-hakyll.html)
-
-## Front end
-### Elm
-* [elm](http://elm-lang.org/)
-* [Evan Czaplicki - Let's be mainstream! User focused design in Elm - Curry On](https://www.youtube.com/watch?v=oYk8CKH7OhE)
-* [elm-bridge](http://hackage.haskell.org/package/elm-bridge)
-* [elm-lang/elm-make](https://github.com/elm-lang/elm-make)
-* [elm+electronで気楽に始めるFRP](http://qiita.com/yasuyuky/items/e28106e3dd7fed17d50f)
-* [関数型リアクティブプログラミング言語Elmに学ぶ フロントエンド開発の新しい形](http://codezine.jp/article/detail/8873)
-* [Building elm with stack](http://therning.org/magnus/posts/2015-10-13-000-building-elm-with-stack.html)
-
-### AltJS
+### Haste
+* [Haskell + Haste で Fourier 級数の可視化](http://qiita.com/lesguillemets/items/dbd928237be3e6a1221d)
+* [Haste + Parsec でブラウザ上で動く電卓をつくる](http://qiita.com/lesguillemets/items/b58e684a773fb4b5e4aa)
 * [Haskell風AltJSのベンチマーク](http://qiita.com/philopon/items/1451f6b8c5ccec41479d)
 * [Haste](http://haste-lang.org/)
   * [Client-side haskell](http://ifeanyi.co/posts/client-side-haskell/)
+* [Zero config, no server Haste.App](http://haste-lang.org/blog/haste-standalone/)
 * <http://lesguillemets.github.io/fouricle/>
 * [オートマトンで遊ぶやつを作った](http://myuon-myon.hatenablog.com/entry/2015/12/18/193654)
 * [Automatoy](http://myuon.github.io/automatoy/)
-* [ghcjs/ghcjs](https://github.com/ghcjs/ghcjs)
+
+### fay
 * [faylang/fay](https://github.com/faylang/fay)
-* [Haskell + Haste で Fourier 級数の可視化](http://qiita.com/lesguillemets/items/dbd928237be3e6a1221d)
-* [Haste + Parsec でブラウザ上で動く電卓をつくる](http://qiita.com/lesguillemets/items/b58e684a773fb4b5e4aa)
-* [Zero config, no server Haste.App](http://haste-lang.org/blog/haste-standalone/)
-* [Writing a React JS front-end in Haskell](http://begriffs.com/posts/2015-01-12-reactjs-in-haskell.html)
-* [Functional Front-End Coding](http://begriffs.com/posts/2015-11-30-functional-front-end-coding.html)
 
-#### PureScript
-* <http://www.purescript.org/>
-* [andyarvanitis/pure11](https://github.com/andyarvanitis/pure11)
-* [Stack Safety for Free](http://functorial.com/stack-safety-for-free/index.pdf)
-* [slamdata/purescript-halogen](https://github.com/slamdata/purescript-halogen)
-* [実例によるPureScript](http://hiruberuto.bitbucket.org/purescript/)
-* [purescript/purescript-free](https://github.com/purescript/purescript-free)
-* [Flare](http://david-peter.de/articles/flare/)
-* [Pursuit](http://pursuit.purescript.org/)
-* [PureScript for the Haskeller](http://www.arow.info/blog/posts/2015-12-17-purescript-intro.html)
-* [kRITZCREEK/psc-ide](https://github.com/kRITZCREEK/psc-ide)
-* [Type-safe client-server communication with PureScript](http://frigoeu.github.io/phantomtypes.html)
-
-### HTML Template/DSL
+HTML Template
+-------------
 * [shakespeare](https://hackage.haskell.org/package/shakespeare)
-* [ede](https://hackage.haskell.org/package/ede)
+* [ede](https://hackage.haskell.org/package/ede) - オススメ
 * [mustache](https://hackage.haskell.org/package/mustache)
 * [The react-haskell package](https://hackage.haskell.org/package/react-haskell)
   * [Animating Web UI with React and Haskell](http://joelburget.com/react-haskell/)
-
-#### Blaze
 * [blaze-html](http://hackage.haskell.org/package/blaze-html)
 * [meiersi/blaze-react](https://github.com/meiersi/blaze-react)
 
-#### Lucid
+### Lucid
 * [chrisdone/lucid](https://github.com/chrisdone/lucid)
 * [Lucid: templating DSL for HTML](http://chrisdone.com/posts/lucid)
 * [lucid-svg](http://hackage.haskell.org/package/lucid-svg)
@@ -142,15 +156,41 @@ indexHtml = do
             script_ [src_ "/js/main.js"] ("" :: Text)
 ```
 
-## Back end
-### Socket
-* [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)
-* [Haskell でソケット通信をやってみる](http://yasutech.blogspot.jp/2012/01/haskell.html)
-* [socket](https://hackage.haskell.org/package/socket)
-* [HaNS](https://hackage.haskell.org/package/hans)
-* TLS/SSL implementation in haskell - [vincenthz/hs-tls](https://github.com/vincenthz/hs-tls)
-* [vincenthz/hs-connection](https://github.com/vincenthz/hs-connection)
+Back end
+========
+* [Tutorial] Haskell Game Server
+  * [Part 1](http://mojobojo.com/posts/2015-12-26-haskell-game-server-part-1.html)
+  * [Part 1 Followup](http://mojobojo.com/posts/2015-12-28-haskell-game-server-part-1-followup.html)
+  * [Part 2](http://mojobojo.com/posts/2016-01-01-haskell-game-server-part-2.html)
 
+Web Server
+----------
+* [mighttpd](https://hackage.haskell.org/package/mighttpd)
+* [Haskell から見た node.js](http://d.hatena.ne.jp/kazu-yamamoto/20110825/1314254885)
+
+### WAI/Warp
+* [Haskell版フォルダを指定してhttpで公開する簡易Webサーバー](http://qiita.com/saturday06/items/fad44a9bc49b2f387bde)
+* [wai](https://hackage.haskell.org/package/wai)
+* [warp](https://hackage.haskell.org/package/warp)
+* [The Performance of Open Source Applications - Warp](http://aosabook.org/en/posa/warp.html)
+* [stackを使ってhaskellで最小のWeb Applicationしてみる](http://qiita.com/eielh/items/09b9f1c21f7d16e09ede)
+* [Using WAI's vault for fun and profit](http://www.yesodweb.com/blog/2015/10/using-wais-vault)
+* [Resurrecting servius](http://www.yesodweb.com/blog/2015/10/resurrecting-servius)
+* [Nested-Routes - WAI Routing Library](https://nestedroutes.com/)
+* [Writing controller specs for a Warp server](http://begriffs.com/posts/2014-10-19-warp-server-controller-test.html)
+
+Web Application Framework
+-------------------------
+* [CQRS in Haskell](http://www.corecursion.net/post/CQRS_in_Haskell)
+* [Announcing serversession](http://blog.felipe.lessa.nom.br/?p=153)
+* [agrafix/users](https://github.com/agrafix/users)
+
+### 比較
+### 認証/認可
+* [Taking Authentication to the next Level](https://www.spock.li/2015/08/23/taking_authentication_to_the_next_level.html)
+* [(解説) はてなブックマークにおけるアクセス制御 - 半環構造に基づくモデル化](http://developer.hatenastaff.com/entry/bookmark-semiring-ac)
+* [hoauth2](http://hackage.haskell.org/package/hoauth2)
+* [HaskellでOAuth](http://qiita.com/_Ghostrick_/items/ce8d89e0d511cfd56ce9)
 
 ### Logger
 * [wdanilo/haskell-logger](https://github.com/wdanilo/haskell-logger)
@@ -161,45 +201,43 @@ indexHtml = do
 * [The katip package](http://hackage.haskell.org/package/katip)
 * [The monad-log package](http://hackage.haskell.org/package/monad-log)
 
-### Web Socket
-* [Haskell から見た node.js](http://d.hatena.ne.jp/kazu-yamamoto/20110825/1314254885)
-* [websockets](http://jaspervdj.be/websockets/)
-* [リアルタイム通信で利用されるプロトコルと手法](http://tech.guitarrapc.com/entry/2015/08/17/044937)
-* [rnons/shadowsocks-haskell](https://github.com/rnons/shadowsocks-haskell)
-* [Run secure WebSocket clients with Wuss](http://taylor.fausak.me/2015/06/04/run-secure-websocket-clients-with-wuss/)
-* [The wuss package](https://hackage.haskell.org/package/wuss)
-* [A lot of websockets in Haskell](https://blog.wearewizards.io/a-lot-of-websockets-in-haskell)
+### デプロイ
+* [snoyberg/keter](https://github.com/snoyberg/keter)
+* [stackbuilders/hapistrano](https://github.com/stackbuilders/hapistrano)
+* [Deploying A Haskell Web Service With Nix](http://jezenthomas.com/deploying-a-haskell-web-service-with-nix/)
+* [.keterファイルの解凍でエラーになる時は](http://qiita.com/jabaraster/items/1e713911625258c6f2e1)
 
-### RPC
-* [The Remote JSON library](http://ku-fpg.github.io/2016/02/09/remote-json/)
-* [The remote-json package](http://hackage.haskell.org/package/remote-json)
-* [The remote-json-client package](http://hackage.haskell.org/package/remote-json-client)
-* [The remote-json-server package](http://hackage.haskell.org/package/remote-json-server)
-
-### WAI/Warp
-* [wai](https://hackage.haskell.org/package/wai)
-* [warp](https://hackage.haskell.org/package/warp)
-* [The Performance of Open Source Applications - Warp](http://aosabook.org/en/posa/warp.html)
-* [stackを使ってhaskellで最小のWeb Applicationしてみる](http://qiita.com/eielh/items/09b9f1c21f7d16e09ede)
-* [Using WAI's vault for fun and profit](http://www.yesodweb.com/blog/2015/10/using-wais-vault)
-* [Resurrecting servius](http://www.yesodweb.com/blog/2015/10/resurrecting-servius)
-* [Intro to Nested-Routes](http://athanclark.github.io/posts/2015-10-27-nested-routes-tut-1.html)
+### Simple
 * [Simple](http://simple.cx/)
+
+### WebApi
 * [WebApi](http://byteally.github.io/webapi/)
-* [Writing controller specs for a Warp server](http://begriffs.com/posts/2014-10-19-warp-server-controller-test.html)
+
+### Airship
 * [helium/airship](https://github.com/helium/airship)
 
-##Web Application Framework
+### Fn
+* [fn - a functional web framework](http://fnhaskell.com/tutorial/)
+* <https://github.com/positiondev/fn>
+* [Web Dev with Fn](https://www.youtube.com/watch?v=tuBeA1wn4js) [[slide]](http://slides.com/emhoracek/web-dev-with-fn#/)
+
+### Scotty
 * [The scotty package](http://hackage.haskell.org/package/scotty)
-  * [bendyworks/api-server](https://github.com/bendyworks/api-server)
-  * [Basic HTTP auth with Scotty](https://ro-che.info/articles/2016-04-14-scotty-http-basic-auth)
+* [Basic HTTP auth with Scotty](https://ro-che.info/articles/2016-04-14-scotty-http-basic-auth)
+* [bendyworks/api-server](https://github.com/bendyworks/api-server)
+
+### Spock
 * [Spock Web Framework](https://www.spock.li/)
-  * [«Spock – Powerful Elegant Web Applications using Haskell» by Alexander Thiemann](https://www.youtube.com/watch?v=kNqsOBrCbLo)
+* [«Spock – Powerful Elegant Web Applications using Haskell» by Alexander Thiemann](https://www.youtube.com/watch?v=kNqsOBrCbLo)
+
+### Rest
 * [Rest for Haskell](http://silkapp.github.io/rest/)
 * [Haskell rest フレームワークでREST API設計をサボる](http://qiita.com/arowM/items/ff800ce4136966a6ce8e)
+
+### Apiary
 * [apiary](https://hackage.haskell.org/package/apiary)
 
-###Servant
+### Servant
 * [servant](http://haskell-servant.github.io/)
 * [parsonsmatt/servant-persistent](https://github.com/parsonsmatt/servant-persistent)
 * [haskell-servant の利用例とちょっとだけ仕組みの調査](http://krdlab.hatenablog.com/entry/2014/12/31/170158)
@@ -243,20 +281,9 @@ indexHtml = do
 * [Token authentication with Servant](http://jerrington.me/posts/2016-06-18-token-authentication-with-servant.html)
 * [Servant, Type Families, and Type-level Everything](http://www.arow.info/blog/posts/2015-07-10-servant-intro.html)
 * [Incremental API Takeover with Haskell Servant](http://www.parsonsmatt.org/2016/06/24/take_over_an_api_with_servant.html)
-
-####Microservices
 * [k-bx/owlcloud](https://github.com/k-bx/owlcloud)
-* [マイクロサービスが Scala を選ぶ３つの理由](http://okapies.hateblo.jp/entry/2014/11/25/010416)
-  1. JVM 言語である
-  2. 非同期 RPC フレームワーク "Finagle" の存在
-  3. 静的型付き言語である
-* [マイクロサービスのデザインパターン](https://uramoto.wordpress.com/2015/09/21/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3/)
 
-###Snap
-* [Snap](http://snapframework.com/)
-* [snaplet-postgresql-simple](https://hackage.haskell.org/package/snaplet-postgresql-simple)
-
-###Yesod
+### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
 * [quick start guide](http://www.yesodweb.com/page/quickstart)
 * [tutorial](http://yannesposito.com/Scratch/en/blog/Yesod-tutorial-for-newbies/)
@@ -280,80 +307,40 @@ indexHtml = do
 * [Monitoring a Yesod App with EKG](http://maxgabriel.github.io/ekg-yesod/)
 * [Using UUIDs in Yesod](https://jezenthomas.com/using-uuids-in-yesod/)
 * [How to use UUID values with Persistent and Yesod](http://bitemyapp.com//posts/2016-06-15-uuids-with-persistent-yesod.html)
-* [.keterファイルの解凍でエラーになる時は](http://qiita.com/jabaraster/items/1e713911625258c6f2e1)
 
-##認証/認可
-* [hoauth2](http://hackage.haskell.org/package/hoauth2)
-* [tekul/broch](https://github.com/tekul/broch)
-* [HaskellでOAuth](http://qiita.com/_Ghostrick_/items/ce8d89e0d511cfd56ce9)
+### Snap
+* [Snap](http://snapframework.com/)
+* [snaplet-postgresql-simple](https://hackage.haskell.org/package/snaplet-postgresql-simple)
 
-##Heroku
-* [Deploying Haskell to Heroku using Docker](http://www.reddit.com/r/haskell/comments/35he88/deploying_haskell_to_heroku_using_docker/)
-* [Herokuで、Gititを起動する](http://qiita.com/rouge_pawn/items/4a5d5ee68590a002ce8d)
-* [Haskell + Yesodで作ったアプリをHerokuにデプロイする](http://qiita.com/etmnk/items/79f022cd6cb5fd2e8794)
-* [How to compile Haskell libraries for Heroku](http://begriffs.com/posts/2013-10-14-how-to-compile-haskell-libraries-for.html)
-* [Popularizing Haskell through easy web deployment](http://begriffs.com/posts/2013-12-06-popularizing-haskell-through-easy-web.html)
-* [Pair programming with Haskell and Digital Ocean](http://begriffs.com/posts/2014-06-09-pair-programming-with-haskell-and.html)
-
-###Haskell on Heroku
-* [Haskell on Heroku](https://haskellonheroku.com/)
-* [Halcyon](https://halcyon.sh/)
-
-```bash
-$ heroku config:set HALCYON_GHC_VERSION=7.10.1
-$ heroku config:set HALCYON_CABAL_VERSION=1.22.6.0
-$ heroku config:set HALCYON_NO_BUILD_DEPENDENCIES=0
-```
-
-#Client
-* A minimal web-browser written and configured in Haskell - [k0ral/hbro](https://github.com/k0ral/hbro)
-* [The dns package](https://hackage.haskell.org/package/dns)
+Protocol
+--------
+* [Representing an RPC API](http://petterbergman.se/api.html)
+* [Dropbox Hack Week: GraphQL Server in Haskell](https://chadaustin.me/2016/02/dropbox-hack-week-graphql-server-in-haskell/)
 * [msgpack/msgpack-haskell](https://github.com/msgpack/msgpack-haskell)
-* [Tutorial] Creating a BitTorrent client in Haskell
-  * [#1](https://blog.chaps.io/2015/10/05/torrent-client-in-haskell-1.html)
-  * [#2](http://blog.chaps.io/2015/10/13/torrent-client-in-haskell-2.html)
-  * [#3](http://blog.chaps.io/2015/11/24/torrent-client-in-haskell-3)
-* [basvandijk/rss](https://github.com/basvandijk/rss)
-* [pontarius/pontarius-xmpp](https://github.com/pontarius/pontarius-xmpp)
-* [The telegram-api package](https://hackage.haskell.org/package/telegram-api)
-* [owainlewis/http-dispatch](https://github.com/owainlewis/http-dispatch)
-* **HTTP/HTTPS**
-  * [http-client](https://hackage.haskell.org/package/http-client)
-  * [http-client-tls](https://hackage.haskell.org/package/http-client-tls)
-  * [http-conduit](http://hackage.haskell.org/package/http-conduit)
-  * [pipes-http](https://hackage.haskell.org/package/pipes-http)
-  * [http-streams](https://hackage.haskell.org/package/http-streams)
-* **Twitter**
-  * [twitter-conduit](http://hackage.haskell.org/package/twitter-conduit)
-* **Facebook**
-  * [fb](https://hackage.haskell.org/package/fb)
-* **Instagram**
-  * [The ig package](http://hackage.haskell.org/package/ig)
-* **Github**
-  * [github package](https://hackage.haskell.org/package/github)
-  * [github-types](https://hackage.haskell.org/package/github-types)
-  * [github-webhook-handler](https://hackage.haskell.org/package/github-webhook-handler)
-* **AWS**
-  * [aristidb/aws](https://github.com/aristidb/aws)
-  * [brendanhay/amazonka](https://github.com/brendanhay/amazonka)
-* **Reddit**
-  * [reddit](https://hackage.haskell.org/package/reddit)
-* **IRC**
-  * [glguy/irc-core](https://github.com/glguy/irc-core)
-* **Twilio**
-  * [steven777400/TwilioIVR](https://github.com/steven777400/TwilioIVR/)
-* **stripe**
-  * [The stripe-haskell package](http://hackage.haskell.org/package/stripe-haskell)
 
-##Scraping
-* [wreq](http://www.serpentine.com/wreq/)
-  * [Web Scraping with Lenses](http://two-wrongs.com/web-scraping-with-lenses)
-  * [24 days of Hackage, 2015: day 4: wreq: Web client programming; with notes on lens and operator syntax](http://conscientiousprogrammer.com/blog/2015/12/04/24-days-of-hackage-2015-day-4-wreq-web-client-programming-with-notes-on-lens-and-operator-syntax/)
-* [fimad/scalpel](https://github.com/fimad/scalpel)
-  * [Haskell で楽しい Web スクレイピング](http://qiita.com/na-o-ys/items/30a4950d5391911493c2)
-* [egonSchiele/HandsomeSoup](https://github.com/egonSchiele/HandsomeSoup)
+### MQTT
+* [uwitty/mosquitto](https://github.com/uwitty/mosquitto)
 
-#Database
+### Protocol Buffers
+* [google/proto-lens](https://github.com/google/proto-lens)
+* [k-bx/protocol-buffers](https://github.com/k-bx/protocol-buffers)
+
+### JSON-RPC
+* [The Remote JSON library](http://ku-fpg.github.io/2016/02/09/remote-json/)
+* [The remote-json package](http://hackage.haskell.org/package/remote-json)
+* [The remote-json-client package](http://hackage.haskell.org/package/remote-json-client)
+* [The remote-json-server package](http://hackage.haskell.org/package/remote-json-server)
+
+### Web Socket
+* [websockets](http://jaspervdj.be/websockets/)
+* [リアルタイム通信で利用されるプロトコルと手法](http://tech.guitarrapc.com/entry/2015/08/17/044937)
+* [rnons/shadowsocks-haskell](https://github.com/rnons/shadowsocks-haskell)
+* [Run secure WebSocket clients with Wuss](http://taylor.fausak.me/2015/06/04/run-secure-websocket-clients-with-wuss/)
+* [The wuss package](https://hackage.haskell.org/package/wuss)
+* [A lot of websockets in Haskell](https://blog.wearewizards.io/a-lot-of-websockets-in-haskell)
+
+Database
+--------
 * [Tutorial] [Building a Redis clone in Haskell](https://honza.ca/2015/09/building-a-redis-clone-in-haskell)
 * [Haxl - Haskellを使った暗黙的な並列データアクセス](http://www.infoq.com/jp/news/2014/06/haxl)
 * [Fun With Haxl (Part 1)](http://simonmar.github.io/posts/2015-10-20-Fun-With-Haxl-1.html)
@@ -375,7 +362,8 @@ $ heroku config:set HALCYON_NO_BUILD_DEPENDENCIES=0
 * [tweag/sparkle](https://github.com/tweag/sparkle)
 * [PostgREST](https://github.com/lotz84/haskell/blob/master/docs/haskell-made-tools.md#postgrest)
 
-###Simples
+Simple Clients
+--------------
 * [The mysql-simple package](https://hackage.haskell.org/package/mysql-simple)
 * [The postgresql-simple package](https://hackage.haskell.org/package/postgresql-simple)
   * [Haskell postgresql-simple examples, part 1](http://begriffs.com/posts/2013-09-10-haskell-postgresql-simple-examples-part.html)
@@ -392,7 +380,8 @@ $ heroku config:set HALCYON_NO_BUILD_DEPENDENCIES=0
 * [Simple Haskell: using a sqlite3 database](http://blog.markwatson.com/2016/01/simple-haskell-using-sqlite3-database.html)
 * [Supporting separate read and write databases in persistent](http://www.yesodweb.com/blog/2016/04/split-db)
 
-###HDBC
+HDBC
+----
 > HDBC provides an abstraction layer between Haskell programs and SQL relational databases.
 
 * [The HDBC package](https://hackage.haskell.org/package/HDBC)
@@ -403,7 +392,8 @@ $ heroku config:set HALCYON_NO_BUILD_DEPENDENCIES=0
 * [The hdbc-aeson package](https://hackage.haskell.org/package/hdbc-aeson)
 * [The presto-hdbc package](https://hackage.haskell.org/package/presto-hdbc)
 
-###DSL for SQL
+SQL DSL
+-----------
 * [Composable, Typesafe Query Building](https://htmlpreview.github.io/?https://github.com/khibino/haskell-relational-record/blob/master/doc/slide/PostgreSQL-Unconference-201512/Query.html)
 * [tomjaguarpaw/haskell-opaleye](https://github.com/tomjaguarpaw/haskell-opaleye)
 * [Opaleye’s sugar on top](http://ren.zone/articles/opaleye-sot)
@@ -414,7 +404,7 @@ $ heroku config:set HALCYON_NO_BUILD_DEPENDENCIES=0
 * [Finally, Safely-Extensible and Efficient Language-Integrated Query](http://okmij.org/ftp/meta-programming/quel.pdf)
 * [JakeWheat/hssqlppp](https://github.com/JakeWheat/hssqlppp)
 
-###Haskell Relational Record
+### Haskell Relational Record
 * [Haskell Relational Record](https://khibino.github.io/haskell-relational-record/)
 * [Haskell Relational Record をリリースしました](http://d.hatena.ne.jp/kazu-yamamoto/20141225/1419490692)
 * [Haskell Relational Record, 機能と構成](https://htmlpreview.github.io/?https://github.com/khibino/haskell-relational-record/blob/master/doc/slide/code-reading-201601/SourceTreeJ.html)
@@ -422,3 +412,39 @@ $ heroku config:set HALCYON_NO_BUILD_DEPENDENCIES=0
 * [haskell-relational-record-の調査.md](https://github.com/worksap-ate/demo/blob/master/haskell-relational-record-%E3%81%AE%E8%AA%BF%E6%9F%BB.md)
 * [Haskell-rerational-recordでDB操作するのが楽しすぎる件〜その１〜](http://tune.hateblo.jp/entry/2014/06/21/161745)
 * [relational-record を MySQL で使ってみた](http://qiita.com/lotz/items/3aa65852bf75f3538d11)
+
+Heroku
+------
+* [Deploying Haskell to Heroku using Docker](http://www.reddit.com/r/haskell/comments/35he88/deploying_haskell_to_heroku_using_docker/)
+* [Herokuで、Gititを起動する](http://qiita.com/rouge_pawn/items/4a5d5ee68590a002ce8d)
+* [Haskell + Yesodで作ったアプリをHerokuにデプロイする](http://qiita.com/etmnk/items/79f022cd6cb5fd2e8794)
+* [How to compile Haskell libraries for Heroku](http://begriffs.com/posts/2013-10-14-how-to-compile-haskell-libraries-for.html)
+* [Popularizing Haskell through easy web deployment](http://begriffs.com/posts/2013-12-06-popularizing-haskell-through-easy-web.html)
+* [Pair programming with Haskell and Digital Ocean](http://begriffs.com/posts/2014-06-09-pair-programming-with-haskell-and.html)
+
+### Haskell on Heroku
+* [Haskell on Heroku](https://haskellonheroku.com/)
+* [Halcyon](https://halcyon.sh/)
+
+```bash
+$ heroku config:set HALCYON_GHC_VERSION=7.10.1
+$ heroku config:set HALCYON_CABAL_VERSION=1.22.6.0
+$ heroku config:set HALCYON_NO_BUILD_DEPENDENCIES=0
+```
+
+Others
+======
+* [The resource-pool package](https://hackage.haskell.org/package/resource-pool)
+* [nginx module to enable haskell binding to nginx configuration files](http://lin-techdet.blogspot.jp/2015/12/nginx-module-to-enable-haskell-binding.html)
+* [ANN: QuickLift](http://www.parsonsmatt.org/2016/01/03/ann_quicklift.html)
+* [liqd/thentos](https://github.com/liqd/thentos)
+* [Tor in Haskell & Other Unikernel Tricks](http://www.infoq.com/presentations/tor-haskell)
+* [jdreaver/stratosphere](https://github.com/jdreaver/stratosphere)
+* [kazu-yamamoto/http2](https://github.com/kazu-yamamoto/http2)
+* [Haskell compute PaaS with sparkle](http://blog.tweag.io/posts/2016-06-20-haskell-compute-paas-with-sparkle.html)
+* [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)
+* [Haskell でソケット通信をやってみる](http://yasutech.blogspot.jp/2012/01/haskell.html)
+* [socket](https://hackage.haskell.org/package/socket)
+* [HaNS](https://hackage.haskell.org/package/hans)
+* TLS/SSL implementation in haskell - [vincenthz/hs-tls](https://github.com/vincenthz/hs-tls)
+* [vincenthz/hs-connection](https://github.com/vincenthz/hs-connection)
