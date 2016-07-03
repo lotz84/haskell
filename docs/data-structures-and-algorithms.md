@@ -91,6 +91,7 @@
 * [The hetero-dict package](http://hackage.haskell.org/package/hetero-dict)
 * [Weigh your Haskell code](http://bokesan.blogspot.jp/2016/05/weigh-your-haskell-code.html)
 * [Queueing and Glueing for Optimal Partitioning](http://www.iis.sinica.edu.tw/~scm/pub/queueing-glueing.pdf)
+* [ナップザック問題をHaskellで解いてみる](http://qiita.com/ttatsf/items/40da0ca54f257926e733)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
