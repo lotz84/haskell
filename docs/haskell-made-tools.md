@@ -6,6 +6,10 @@
 * zsh のプラグインマネージャー
 * <https://github.com/Tarrasch/antigen-hs>
 
+#### Basilica
+* [Basilica - Haskell製のモダンなフォーラム](http://www.moongift.jp/2016/01/basilica-haskell%E8%A3%BD%E3%81%AE%E3%83%A2%E3%83%80%E3%83%B3%E3%81%AA%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0/)
+* <https://github.com/ianthehenry/basilica>
+
 ### bench
 * ベンチマークをとれるコマンド。繰り返し実行や結果のHTMLへの出力などができる。
 * <https://github.com/Gabriel439/bench>
