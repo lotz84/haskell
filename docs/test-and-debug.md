@@ -103,3 +103,6 @@ Passed:
 * [The errors package](http://hackage.haskell.org/package/errors)
 * [Haskell Cat: Maybe/Either vs exceptions](https://www.youtube.com/watch?v=8xkG660D6bI)
 * [Error handling is code too!](http://cs-syd.eu/posts/2016-03-13-error-handling-is-code-too.html)
+* [Announce: safe-exceptions, for async exception safety](https://www.fpcomplete.com/blog/2016/06/announce-safe-exceptions)
+* [fpco/safe-exceptions](https://github.com/fpco/safe-exceptions)
+* [Haskellの最近の例外ハンドリング](http://syocy.hatenablog.com/entry/2016/07/02/174426)
