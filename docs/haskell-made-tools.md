@@ -203,6 +203,10 @@ success
 * [Declaring RESTful APIs with PostgREST](http://begriffs.com/posts/2014-12-30-intro-to-postgrest.html)
 * [A Tour of PostgREST](http://begriffs.com/posts/2016-03-20-postgrest-tour.html)
 
+### ptcpd
+* Plain Text Chat Protocol daemon
+* <https://gitgud.io/hae/ptcpd>
+
 ### PureScript
 * <http://www.purescript.org/>
 * [andyarvanitis/pure11](https://github.com/andyarvanitis/pure11)
