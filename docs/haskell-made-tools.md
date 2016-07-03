@@ -32,6 +32,10 @@ std dev              47.69 μs   (40.09 μs .. 57.91 μs)
 variance introduced by outliers: 81% (severely inflated)
 ```
 
+### broch
+* A Haskell implementation of OpenID Connect.
+* <https://github.com/tekul/broch>
+
 ### cgrep
 * プログラムの構造を意識したgrepが出来るコマンド
 * <https://github.com/awgn/cgrep>
