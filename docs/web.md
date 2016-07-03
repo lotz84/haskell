@@ -1,41 +1,45 @@
-* Client
-  * Scraping
-  * Email
-* Front end
-  * Haskell to JavaScript compiler
-    * GHC JS
-    * Haste
-    * fay
-  * HTML Template
-    * Lucid
-* Back end
-  * Web Server
-  * Web Application Framework
-    * 比較
-    * 認証/認可
-    * Logger
-    * デプロイ
-    * Fn
-    * Scotty
-    * Spock
-    * Rest
-    * Apiry
-    * Servant
-    * Yesod
-    * Snap
-  * Protocol
-    * MQTT
-    * Protocol Buffers
-    * JSON-RPC
-    * Web Socket
-  * Database
-    * Simple Clients
-    * HDBC
-    * SQL DSL
-      * Haskell Relational Record
-  * Heroku
-    * Haskell on Heroku
-* Others
+* [Client](https://github.com/lotz84/haskell/blob/master/docs/web.md#client)
+  * [Scraping](https://github.com/lotz84/haskell/blob/master/docs/web.md#scraping)
+  * [Email](https://github.com/lotz84/haskell/blob/master/docs/web.md#email)
+* [Front end](https://github.com/lotz84/haskell/blob/master/docs/web.md#front-end)
+  * [Haskell to JavaScript compiler](https://github.com/lotz84/haskell/blob/master/docs/web.md#haskell-to-javascript-compiler)
+    * [GHC JS](https://github.com/lotz84/haskell/blob/master/docs/web.md#ghc-js)
+    * [Haste](https://github.com/lotz84/haskell/blob/master/docs/web.md#haste)
+    * [fay](https://github.com/lotz84/haskell/blob/master/docs/web.md#fay)
+  * [HTML Template](https://github.com/lotz84/haskell/blob/master/docs/web.md#html-template)
+    * [Lucid](https://github.com/lotz84/haskell/blob/master/docs/web.md#lucid)
+* [Back end](https://github.com/lotz84/haskell/blob/master/docs/web.md#back-end)
+  * [Web Server](https://github.com/lotz84/haskell/blob/master/docs/web.md#web-server)
+    * [WAI/Warp](https://github.com/lotz84/haskell/blob/master/docs/web.md#waiwarp)
+  * [Web Application Framework](https://github.com/lotz84/haskell/blob/master/docs/web.md#web-application-framework)
+    * [比較](https://github.com/lotz84/haskell/blob/master/docs/web.md#比較)
+    * [認証/認可](https://github.com/lotz84/haskell/blob/master/docs/web.md#認証認可)
+    * [Logger](https://github.com/lotz84/haskell/blob/master/docs/web.md#logger)
+    * [デプロイ](https://github.com/lotz84/haskell/blob/master/docs/web.md#デプロイ)
+    * [Simple](https://github.com/lotz84/haskell/blob/master/docs/web.md#simple)
+    * [WebApi](https://github.com/lotz84/haskell/blob/master/docs/web.md#webapi)
+    * [Airship](https://github.com/lotz84/haskell/blob/master/docs/web.md#airship)
+    * [Fn](https://github.com/lotz84/haskell/blob/master/docs/web.md#fn)
+    * [Scotty](https://github.com/lotz84/haskell/blob/master/docs/web.md#scotty)
+    * [Spock](https://github.com/lotz84/haskell/blob/master/docs/web.md#spock)
+    * [Rest](https://github.com/lotz84/haskell/blob/master/docs/web.md#rest)
+    * [Apiry](https://github.com/lotz84/haskell/blob/master/docs/web.md#apiary)
+    * [Servant](https://github.com/lotz84/haskell/blob/master/docs/web.md#servant)
+    * [Yesod](https://github.com/lotz84/haskell/blob/master/docs/web.md#yesod)
+    * [Snap](https://github.com/lotz84/haskell/blob/master/docs/web.md#snap)
+  * [Protocol](https://github.com/lotz84/haskell/blob/master/docs/web.md#protocol)
+    * [MQTT](https://github.com/lotz84/haskell/blob/master/docs/web.md#mqtt)
+    * [Protocol Buffers](https://github.com/lotz84/haskell/blob/master/docs/web.md#protocol-buffers)
+    * [JSON-RPC](https://github.com/lotz84/haskell/blob/master/docs/web.md#json-rpc)
+    * [Web Socket](https://github.com/lotz84/haskell/blob/master/docs/web.md#web-socket)
+  * [Database](https://github.com/lotz84/haskell/blob/master/docs/web.md#database)
+    * [Simple Clients](https://github.com/lotz84/haskell/blob/master/docs/web.md#simple-clients)
+    * [HDBC](https://github.com/lotz84/haskell/blob/master/docs/web.md#hdbc)
+    * [SQL DSL](https://github.com/lotz84/haskell/blob/master/docs/web.md#sql-dsl)
+      * [Haskell Relational Record](https://github.com/lotz84/haskell/blob/master/docs/web.md#haskell-relational-record)
+  * [Heroku](https://github.com/lotz84/haskell/blob/master/docs/web.md#heroku)
+    * [Haskell on Heroku](https://github.com/lotz84/haskell/blob/master/docs/web.md#haskell-on-heroku)
+* [Others](https://github.com/lotz84/haskell/blob/master/docs/web.md#others)
 
 ----
 
