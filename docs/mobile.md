@@ -10,6 +10,7 @@
 * [CPUの創りかた(3): ROMをつくる](http://qiita.com/eijian/items/1c5cbc1aa302ea7f0312)
 * [CPUの創りかた(4): Flip Flop](http://qiita.com/eijian/items/1b092a05e73fc372271f)
 * [CPUの創りかた(5): 4 bitレジスタ](http://qiita.com/eijian/items/7150182c420d98650e72)
+* [CPUの創りかた(6): プログラムカウンタ](http://qiita.com/eijian/items/a2d255bbf0fc2dee08cc)
 * [ARMing Haskell](http://haskellembedded.github.io/posts/2015-12-15-arm.html)
 * [CλaSH FPGA Starter](http://christiaanb.github.io/posts/clash-fpga-starter/)
 * [FFT With Circat](http://begriffs.com/posts/2015-12-14-fft-with-circat.html)
