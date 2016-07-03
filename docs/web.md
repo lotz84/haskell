@@ -372,6 +372,7 @@ $ heroku config:set HALCYON_NO_BUILD_DEPENDENCIES=0
 * [Fraxl - Better Concurrency and Caching for Free](https://www.youtube.com/watch?v=Fe3-N9mKuPA)
 * [ElvishJerricco/fraxl](https://github.com/ElvishJerricco/fraxl)
 * [tweag/sparkle](https://github.com/tweag/sparkle)
+* [A Tour of PostgREST](https://begriffs.com/posts/2016-03-20-postgrest-tour.html)
 
 ###Simples
 * [The mysql-simple package](https://hackage.haskell.org/package/mysql-simple)
