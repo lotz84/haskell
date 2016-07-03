@@ -190,6 +190,40 @@ Web Application Framework
 * [agrafix/users](https://github.com/agrafix/users)
 
 ### 比較
+| Framework        | Latest Release | Version   | Star | Contributors |
+| :--------------- | :------------- | :-------- | :--- | :----------- |
+| [Yesod][1]       | 2016/6/23      | 1.4.22    | 1496 | 158          |
+| [Scotty][2]      | 2015/7/14      | 0.10.2    | 910  | 43           |
+| [Servant][3]     | 2016/5/11      | 0.7.1     | 546  | 62           |
+| [Rest][4]        | 2016/4/21      | 0.38      | 343  | 20           | 
+| [Snap][5]        | 2016/3/16      | 0.14.0.7  | 330  | 44           |
+| [Spock][6]       | 2015/11/11     | 0.10.0.1  | 309  | 15           |
+| [Airship][7]     | 2016/5/28      | 0.6.0     | 177  | 11           |
+| [MFlow][8]       | 2015/9/21      | 0.4.6.0   | 87   | 1            |
+| [miku][9]        | 2016/3/17      | 2016.3.17 | 76   | 2            |
+| [Apiry][10]      | 2016/3/28      | 2.0.1     | 54   | 2            |
+| [Happstack][11]  | 2016/6/5       | 7.4.6.2   | 30   | 30           |
+| [Simple][12]     | 2016/1/12      | 0.11.1    | 27   | 7            |
+| [Fn][13]         | 2016/3/12      | 0.3.0.1   | 13   | 2            |
+| [WebApi][14]     | 2016/4/20      | 0.2.2.0   | 10   | 3            |
+
+2016/7/3 調べ
+
+[1]: https://github.com/yesodweb/yesod
+[2]: https://github.com/scotty-web/scotty
+[3]: https://github.com/haskell-servant/servant
+[4]: https://github.com/silkapp/rest
+[5]: https://github.com/snapframework/snap
+[6]: https://github.com/agrafix/Spock
+[7]: https://github.com/helium/airship
+[8]: https://github.com/agocorona/MFlow
+[9]: https://github.com/nfjinjing/miku
+[10]: https://github.com/philopon/apiary
+[11]: https://github.com/Happstack/happstack-server
+[12]: https://github.com/alevy/simple
+[13]: https://github.com/positiondev/fn
+[14]: https://github.com/byteally/webapi
+
 ### 認証/認可
 * [Taking Authentication to the next Level](https://www.spock.li/2015/08/23/taking_authentication_to_the_next_level.html)
 * [(解説) はてなブックマークにおけるアクセス制御 - 半環構造に基づくモデル化](http://developer.hatenastaff.com/entry/bookmark-semiring-ac)
@@ -211,20 +245,6 @@ Web Application Framework
 * [Deploying A Haskell Web Service With Nix](http://jezenthomas.com/deploying-a-haskell-web-service-with-nix/)
 * [.keterファイルの解凍でエラーになる時は](http://qiita.com/jabaraster/items/1e713911625258c6f2e1)
 
-### Simple
-* [Simple](http://simple.cx/)
-
-### WebApi
-* [WebApi](http://byteally.github.io/webapi/)
-
-### Airship
-* [helium/airship](https://github.com/helium/airship)
-
-### Fn
-* [fn - a functional web framework](http://fnhaskell.com/tutorial/)
-* <https://github.com/positiondev/fn>
-* [Web Dev with Fn](https://www.youtube.com/watch?v=tuBeA1wn4js) [[slide]](http://slides.com/emhoracek/web-dev-with-fn#/)
-
 ### Scotty
 * [The scotty package](http://hackage.haskell.org/package/scotty)
 * [Basic HTTP auth with Scotty](https://ro-che.info/articles/2016-04-14-scotty-http-basic-auth)
@@ -238,8 +258,9 @@ Web Application Framework
 * [Rest for Haskell](http://silkapp.github.io/rest/)
 * [Haskell rest フレームワークでREST API設計をサボる](http://qiita.com/arowM/items/ff800ce4136966a6ce8e)
 
-### Apiary
-* [apiary](https://hackage.haskell.org/package/apiary)
+### Snap
+* [Snap](http://snapframework.com/)
+* [snaplet-postgresql-simple](https://hackage.haskell.org/package/snaplet-postgresql-simple)
 
 ### Servant
 * [servant](http://haskell-servant.github.io/)
@@ -311,10 +332,6 @@ Web Application Framework
 * [Monitoring a Yesod App with EKG](http://maxgabriel.github.io/ekg-yesod/)
 * [Using UUIDs in Yesod](https://jezenthomas.com/using-uuids-in-yesod/)
 * [How to use UUID values with Persistent and Yesod](http://bitemyapp.com//posts/2016-06-15-uuids-with-persistent-yesod.html)
-
-### Snap
-* [Snap](http://snapframework.com/)
-* [snaplet-postgresql-simple](https://hackage.haskell.org/package/snaplet-postgresql-simple)
 
 Protocol
 --------
