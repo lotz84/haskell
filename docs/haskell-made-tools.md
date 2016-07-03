@@ -68,6 +68,17 @@ $ gifcurry_cli ./in.mp4 ./out.gif start_second duration quality 'Optional top te
 ### Hakyll
 * 静的サイトジェネレータ
 * <https://jaspervdj.be/hakyll/>
+* [Static Generation with Haskell](http://two-wrongs.com/static-generation-with-haskell)
+* [Hakyll](http://jaspervdj.be/hakyll/)
+* [Hakyllを使ってGitHub Pagesを作成して、そのソースも管理して、Travis CIで自動デプロイする。](http://imokuri123.com/blog/2015/04/create-github-pages-with-hakyll.html)
+* [Hakyllでページング](http://qiita.com/hiratara/items/714d890e1b363f06c2d3)
+* [Hakyllでブログを作る(実践編)](https://imokuri123.com/blog/2015/12/how-to-create-blog-with-hakyll-part1.html)
+* [Create a static site with Hakyll, Github and Travis CI](http://begriffs.com/posts/2014-08-12-create-static-site-with-hakyll-github.html)
+* [Jekyll Style URLs with Hakyll](http://aherrmann.github.io/programming/2016/01/31/jekyll-style-urls-with-hakyll/)
+* [Serving a Hakyll site with Warp/Wai](https://chromabits.com/posts/2016/02/15/serving-hakyll-site-with-warp/)
+* [Hakyll で日本語文中の余分な空白を削除する](http://qiita.com/pecorarista/items/2abad96e21857d43a04c)
+* [Blog Rewrite with Hakyll and Purescript](https://blog.jle.im/entry/blog-rewrite-with-hakyll-and-purescript.html)
+* [Compiling SCSS and JavaScript in Hakyll](https://codetalk.io/posts/2016-05-10-compiling-scss-and-js-in-hakyll.html)
 
 ### haskell-player
 * A terminal music player based on afplay
@@ -136,6 +147,10 @@ $ hobbes "*.hs" | xargs -n1 ghc --make
 * Flexible generation of identicons in Haskell
 * <https://github.com/mrkkrp/identicon>
 * [The Identicon package](https://mrkkrp.github.io/posts/the-identicon-package.html)
+
+### LambdaCms
+* Haskell製のCMS
+* [LambdaCms](http://lambdacms.org/)
 
 ### lamdu
 * lamdu - towards the next generation IDE
