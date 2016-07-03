@@ -38,6 +38,7 @@
 * [Part One - Infrastructure](http://zyghost.com/series/odin/part-one/)
 * [Fixing a space leak by copying thunks.](http://haskellexists.blogspot.de/2016/01/fixing-space-leak-by-copying-thunks.html)
 * [Functional Reactive Programming](http://bobkonf.de/2016/apfelmus.html)
+* [FRPNowをサーバで使ってみた](http://qiita.com/asukamirai/items/d23c34a71d72d077e39d)
 
 ##Reflex
 * [Ryan Trinkle - Reflex: Practical Functional Reactive Programming](https://www.youtube.com/watch?v=dOy7zIk3IUI)
