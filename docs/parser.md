@@ -65,6 +65,7 @@ parse = evalStateT
 * [language-javascript](https://hackage.haskell.org/package/language-javascript)
 * [language-python](https://hackage.haskell.org/package/language-python)
 * [mchakravarty/language-swift-quote](https://github.com/mchakravarty/language-swift-quote)
+* [vincenthz/language-java](https://github.com/vincenthz/language-java)
 
 ##データ構造
 ###CSV
