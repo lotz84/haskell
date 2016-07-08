@@ -76,6 +76,7 @@
 * [A non-trivial term-constraint oracle, and a new Haskell teaching tool](http://cs-syd.eu/posts/2016-06-11-a-non-trivial-term-constraint-oracle-and-a-new-haskell-teaching-tool.html)
 * [Haskell で高速なプログラムを書くときに注意すること](http://d-poppo.nazo.cc/blog/2016/06/writing-efficient-program-with-haskell/)
 * [phadej/overlap.hs](https://gist.github.com/phadej/cae76444548b9cffa10d9675e013847b)
+* [Working with GHC Core](http://aesadde.xyz/posts/ghc_core.html)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
