@@ -89,6 +89,7 @@
 * [Dev and Deploy Haskell on Docker](http://begriffs.com/posts/2015-08-11-dev-deploy-haskell-docker.html)
 * [denibertovic/docker-hs](https://github.com/denibertovic/docker-hs)
 * [例によって stack と ghc-mod](http://qiita.com/lesguillemets/items/f80a25a8fb466f77a311)
+* [DockerfileをLintするにはhadolintが良さそう](http://blog.stormcat.io/entry/docker-hadolint)
 
 ##CI
 * [Shake](http://shakebuild.com/)
