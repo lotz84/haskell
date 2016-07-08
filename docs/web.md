@@ -134,6 +134,7 @@ HTML Template
   * [Animating Web UI with React and Haskell](http://joelburget.com/react-haskell/)
 * [blaze-html](http://hackage.haskell.org/package/blaze-html)
 * [meiersi/blaze-react](https://github.com/meiersi/blaze-react)
+* [stackbuilders/stache](https://github.com/stackbuilders/stache) - Mustache templates for Haskell
 
 ### Lucid
 * [chrisdone/lucid](https://github.com/chrisdone/lucid)
