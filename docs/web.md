@@ -305,6 +305,7 @@ Web Application Framework
 * [Servant, Type Families, and Type-level Everything](http://www.arow.info/blog/posts/2015-07-10-servant-intro.html)
 * [Incremental API Takeover with Haskell Servant](http://www.parsonsmatt.org/2016/06/24/take_over_an_api_with_servant.html)
 * [k-bx/owlcloud](https://github.com/k-bx/owlcloud)
+* [servant-persistent updated](http://www.parsonsmatt.org/2016/07/08/servant-persistent_updated.html)
 
 ### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
