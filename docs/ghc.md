@@ -7,7 +7,7 @@
 * [On sufficiently smart compilers](http://osa1.net/posts/2015-08-09-sufficiently-smart-compiler.html)
 * [Linux で動く極小 ELF 実行ファイルをつくる怒涛のチュートリアル (あるいは "Size Is Everything")](http://www.hyuki.com/yukiwiki/wiki.cgi?WhirlwindTutorialOnCreatingReallyTeensyElfExecutablesForLinux)
 
-##GHC
+## GHC
 * [GHC](https://wiki.haskell.org/GHC)
 * [これから Haskell を書くにあたって](https://speakerdeck.com/func_hs/korekara-haskell-woshu-kuniatatute)
 * [Contributing to GHC](https://ghc.haskell.org/trac/ghc/blog/ContributingToGhc)
@@ -77,6 +77,7 @@
 * [Haskell で高速なプログラムを書くときに注意すること](http://d-poppo.nazo.cc/blog/2016/06/writing-efficient-program-with-haskell/)
 * [phadej/overlap.hs](https://gist.github.com/phadej/cae76444548b9cffa10d9675e013847b)
 * [Working with GHC Core](http://aesadde.xyz/posts/ghc_core.html)
+* [Mio: A High-Performance Multicore IO Manager for GHC](http://haskell.cs.yale.edu/wp-content/uploads/2013/08/hask035-voellmy.pdf)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
