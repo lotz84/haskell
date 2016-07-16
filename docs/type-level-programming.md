@@ -56,6 +56,7 @@
 * [Practical Dependent Types in Haskell 2: Existential Neural Networks and Types at Runtime](https://blog.jle.im/entry/practical-dependent-types-in-haskell-2.html)
 * [Indexed Codata Types](http://www.cs.mcgill.ca/~bpientka/papers/indexed_codata.pdf)
 * [Church’s Thesis and Functional Programming](https://www.cs.kent.ac.uk/people/staff/dat/miranda/ctfp.pdf)
+* [Linear resources in Haskell](http://axman6.com/posts/2016-07-10-Linear-resources-in-haskell.html)
 
 ```haskell
 data Bottom
