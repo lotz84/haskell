@@ -87,6 +87,12 @@ $ alias ghci='stack ghci'
   * [Re: Real World Haskellの古いところ](http://maoe.hatenadiary.jp/entry/2014/02/06/195156)
 * [Happy Learn Haskell Tutorial Volume 1](https://leanpub.com/happylearnhaskelltutorialvol1)
 * [In Haskell, less is more](https://www.youtube.com/watch?v=NHRIV7UNiPU)
+* [Anatomy of Programming Languages](http://www.cs.utexas.edu/~wcook/anatomy/anatomy.htm)
+* [BEAUTIFUL CODE , COMPELLING EVIDENCE](http://vis.renci.org/jeff/wp-content/uploads/2009/01/beautifulcode.pdf)
+* [For Most Programmers, Learning Haskell Haskell Will Be No Panic...(... Unless They Read This Tutorial First!)](http://lisperati.com/haskell/hasktut.pdf)
+* [CIS 194: Home](http://www.seas.upenn.edu/~cis194/lectures.html)
+* [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)
+* [The Haskell Road to Logic, Math and Programming](https://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf)
   
 ##チートシート
 * [What I Wish I Knew When Learning Haskell](http://www.stephendiehl.com/what/) [[ja](https://github.com/Kinokkory/wiwinwlh-jp/wiki)]
