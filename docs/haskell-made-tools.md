@@ -104,6 +104,7 @@ $ gifcurry_cli ./in.mp4 ./out.gif start_second duration quality 'Optional top te
 * Related tools
   * [lukasmartinelli/hwk](https://github.com/lukasmartinelli/hwk)
   * [tanakh/hoe](https://github.com/tanakh/hoe)
+  * [mitchellwrosen/h](https://github.com/mitchellwrosen/h)
 
 ```bash
 $ cat /etc/passwd | hawk -d: -m 'head'
