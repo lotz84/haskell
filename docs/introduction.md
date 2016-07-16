@@ -136,6 +136,7 @@ in map (fromMaybe . show <*> 3 ~> "fizz" <> 5 ~> "buzz")
 ### Emacs
 * [haskell/haskell-mode](https://github.com/haskell/haskell-mode)
 * [Intero for Emacs](http://commercialhaskell.github.io/intero/)
+* [Qiita - Intero for Emacs](http://qiita.com/hiratara/items/a963960f7593db4b43ab)
 
 ### Atom
 * [Switching from Vim to Atom (A Haskeller's Perspective)](http://edsko.net/2015/03/07/vim-to-atom/)
