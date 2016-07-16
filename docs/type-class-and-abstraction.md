@@ -54,6 +54,7 @@ instance Show Bool where
 * [Haskellで関数のオーバーロード](http://qiita.com/7shi/items/17a1567a635af17fc83f)
 * [Why I prefer typeclass-based libraries](http://www.yesodweb.com/blog/2016/03/why-i-prefer-typeclass-based-libraries)
 * [Typeclasses and Run-Time Dependency Management](https://turingjump.com/posts/smerdyakov.html)
+* [phadej/poly-nfdata.hs](https://gist.github.com/phadej/2fc066c00e33b9486e1a3e5f7767a8d7)
 
 ##Monoid
 * [Haskell Monoids and their Uses](http://blog.sigfpe.com/2009/01/haskell-monoids-and-their-uses.html)
