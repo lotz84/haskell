@@ -42,6 +42,7 @@ $ alias ghci='stack ghci'
 * [Haskellプログラミングのコツのようなもの](http://qiita.com/nobsun/items/ed33c22203734e706e9b)
 * [やさしい Haskell 入門 (バージョン98)](http://www.sampou.org/haskell/tutorial-j/index.html)
 * [【関数型言語Haskellの基本】高階関数map,reduceを使って遊んでみた](https://codeiq.jp/magazine/2016/02/31747/)
+* [Haskell の難しさを分割し、理解していく](http://qiita.com/t9md/items/529a4297e841f330ee98)
 * [Haskellの世界](https://skami.iocikun.jp/computer/haskell)
 * [1から学ぶHaskell: プログラマ向けのHaskell入門](https://skami.iocikun.jp/computer/haskell/web_lecture/for_programmer/)
 * [Learning Real Haskell Incrementally](http://begriffs.com/posts/2015-10-24-learning-haskell-incrementally.html)
