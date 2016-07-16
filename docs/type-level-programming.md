@@ -57,6 +57,8 @@
 * [Indexed Codata Types](http://www.cs.mcgill.ca/~bpientka/papers/indexed_codata.pdf)
 * [Church’s Thesis and Functional Programming](https://www.cs.kent.ac.uk/people/staff/dat/miranda/ctfp.pdf)
 * [Linear resources in Haskell](http://axman6.com/posts/2016-07-10-Linear-resources-in-haskell.html)
+* [The reflection package](https://hackage.haskell.org/package/reflection)
+* [Data.Reflection](http://qiita.com/hiratara/items/c5e32d5695c4e0682cf9)
 
 ```haskell
 data Bottom
