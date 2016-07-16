@@ -24,6 +24,7 @@ instance Show Bool where
 これで`Bool`型はShowのインスタンスになる。
 例えば`print :: Show a => a -> IO ()`の型`a`にはShowのインスタンスであれば何でも使うことが出来る。
 
+* [How to make ad-hoc polymorphism less ad-hoc](http://www.cse.iitk.ac.in/users/karkare/courses/2010/cs653/Papers/ad-hoc-polymorphism.pdf)
 * [Haskell/Classes and types](https://en.wikibooks.org/wiki/Haskell/Classes_and_types)
 * [The Typeclassopediaを訳しました](http://snak.tdiary.net/20091020.html)
 * [When to use a type class, when to use a type](http://stackoverflow.com/questions/12286315/when-to-use-a-type-class-when-to-use-a-type)
@@ -52,6 +53,7 @@ instance Show Bool where
 * [Haskell's Type Classes: We Can Do Better](http://degoes.net/articles/principled-typeclasses)
 * [Haskellで関数のオーバーロード](http://qiita.com/7shi/items/17a1567a635af17fc83f)
 * [Why I prefer typeclass-based libraries](http://www.yesodweb.com/blog/2016/03/why-i-prefer-typeclass-based-libraries)
+* [Typeclasses and Run-Time Dependency Management](https://turingjump.com/posts/smerdyakov.html)
 
 ##Monoid
 * [Haskell Monoids and their Uses](http://blog.sigfpe.com/2009/01/haskell-monoids-and-their-uses.html)
