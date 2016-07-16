@@ -64,3 +64,5 @@ mtlにはMonad Transformerを新しく定義する度に全ての組み合わせ
 * [Extensible Effects in Scala](http://halcat.org/scala/extensible/)
 * [Lazy state](http://okmij.org/ftp/Haskell/extensible/index.html#lazy-state)
 * [Announcing transformers-eff](https://ocharles.org.uk/blog/posts/2016-04-23-transformers-eff.html)
+* [Rank 'n Classy Limited Effects](http://www.parsonsmatt.org/2016/07/14/rank_n_classy_limited_effects.html)
+* [Liberating Effects with Rows and Handlers](http://homepages.inf.ed.ac.uk/slindley/papers/links-effect-draft-march2016.pdf)
