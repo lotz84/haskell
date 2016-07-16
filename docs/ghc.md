@@ -78,6 +78,7 @@
 * [phadej/overlap.hs](https://gist.github.com/phadej/cae76444548b9cffa10d9675e013847b)
 * [Working with GHC Core](http://aesadde.xyz/posts/ghc_core.html)
 * [Mio: A High-Performance Multicore IO Manager for GHC](http://haskell.cs.yale.edu/wp-content/uploads/2013/08/hask035-voellmy.pdf)
+* [GHCでプロファイルが取れない - Could not find module ...](http://qiita.com/nwtgck/items/c68c3808b324987e1610)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
