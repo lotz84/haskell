@@ -306,6 +306,7 @@ Web Application Framework
 * [Incremental API Takeover with Haskell Servant](http://www.parsonsmatt.org/2016/06/24/take_over_an_api_with_servant.html)
 * [k-bx/owlcloud](https://github.com/k-bx/owlcloud)
 * [servant-persistent updated](http://www.parsonsmatt.org/2016/07/08/servant-persistent_updated.html)
+* [Auto-generate service API endpoints from records](http://www.haskellforall.com/2016/07/auto-generate-service-api-endpoints.html)
 
 ### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
