@@ -82,6 +82,7 @@
 * [Dive into GHC: Intermediate Forms](http://www.stephendiehl.com/posts/ghc_02.html)
 * [Dive into GHC: Pipeline](http://www.stephendiehl.com/posts/ghc_01.html)
 * [More space leaks: Alex/Happy edition](http://neilmitchell.blogspot.jp/2016/07/more-space-leaks-alexhappy-edition.html)
+* [quchen/stgi](https://github.com/quchen/stgi)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
