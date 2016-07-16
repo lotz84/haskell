@@ -18,7 +18,6 @@
 * [OBVERSE AND REVERSE](http://www.stackbuilders.com/news/obverse-and-reverse)
 * [Moore for Less](https://www.fpcomplete.com/user/edwardk/moore)
 * [HANGMAN: IMPERATIVE FUNCTIONAL PROGRAMMING](http://www.stackbuilders.com/news/hangman-imperative-functional-programming)
-* [reflection](http://hackage.haskell.org/package/reflection)
 * [24 Days of Hackage: acid-state](https://ocharles.org.uk/blog/posts/2013-12-14-24-days-of-hackage-acid-state.html)
 * [関数型的正規表現マッチ](https://research.preferred.jp/2010/11/regexp-play/)
 * [Convex Hull(凸包)を求める(Jarvis's March, Quickhull, Clojure)](http://uid0130.blogspot.jp/2015/08/convex-hulljarviss-march-quickhull.html)
