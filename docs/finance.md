@@ -1,4 +1,5 @@
 * [Trading Analytics](http://logicalgraphs.blogspot.jp/p/trading-analytics.html)
+* [Yahoo Finance API Wrapper in Haskell](http://functor.tokyo/blog/2016-07-10-yahoo-finance-api)
 
 ## Blockchain
 > 特定の中央機関を必要とせずにP2Pネットワーク上で合意形成をする技術
