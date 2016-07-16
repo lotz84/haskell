@@ -80,6 +80,8 @@
 * [Mio: A High-Performance Multicore IO Manager for GHC](http://haskell.cs.yale.edu/wp-content/uploads/2013/08/hask035-voellmy.pdf)
 * [GHCでプロファイルが取れない - Could not find module ...](http://qiita.com/nwtgck/items/c68c3808b324987e1610)
 * [Dive into GHC: Intermediate Forms](http://www.stephendiehl.com/posts/ghc_02.html)
+* [Dive into GHC: Pipeline](http://www.stephendiehl.com/posts/ghc_01.html)
+* [More space leaks: Alex/Happy edition](http://neilmitchell.blogspot.jp/2016/07/more-space-leaks-alexhappy-edition.html)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
