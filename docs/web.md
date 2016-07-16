@@ -170,6 +170,7 @@ Web Server
 * [mighttpd](https://hackage.haskell.org/package/mighttpd)
 * [Haskell から見た node.js](http://d.hatena.ne.jp/kazu-yamamoto/20110825/1314254885)
 * [Web/Comparison of Happstack, Snap and Yesod](https://wiki.haskell.org/Web/Comparison_of_Happstack,_Snap_and_Yesod)
+* [サーバサイドの並行プログラミング〜かんたんマルチスレッドプログラミング〜](http://www.slideshare.net/greetech/gree-techtalk5serverside)
 
 ### WAI/Warp
 * [Haskell版フォルダを指定してhttpで公開する簡易Webサーバー](http://qiita.com/saturday06/items/fad44a9bc49b2f387bde)
@@ -335,6 +336,8 @@ Web Application Framework
 * [Monitoring a Yesod App with EKG](http://maxgabriel.github.io/ekg-yesod/)
 * [Using UUIDs in Yesod](https://jezenthomas.com/using-uuids-in-yesod/)
 * [How to use UUID values with Persistent and Yesod](http://bitemyapp.com//posts/2016-06-15-uuids-with-persistent-yesod.html)
+* [Yesod Web Framework Book](http://www.yesodweb.com/book-1.4)
+* [Haskell web programming - A Yesod tutorial](http://yannesposito.com/Scratch/fr/blog/Yesod-tutorial-for-newbies/)
 
 Protocol
 --------
