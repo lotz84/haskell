@@ -79,6 +79,7 @@ Client
   * [tylerholien/milena](https://github.com/tylerholien/milena)
 * kubernetes - [soundcloud/haskell-kubernetes](https://github.com/soundcloud/haskell-kubernetes)
 * Telegram Bot API - [The telegram-api package](https://hackage.haskell.org/package/telegram-api)
+* Clarifai - [caneroj1/clarifai-hs](https://github.com/caneroj1/clarifai-hs)
 
 Scraping
 --------
@@ -252,6 +253,7 @@ Web Application Framework
 ### Spock
 * [Spock Web Framework](https://www.spock.li/)
 * [«Spock – Powerful Elegant Web Applications using Haskell» by Alexander Thiemann](https://www.youtube.com/watch?v=kNqsOBrCbLo)
+* [ZuriHac 2015 - Beginning Web Programming in Haskell](https://www.youtube.com/watch?v=GobPiGL9jJ4)
 
 ### Rest
 * [Rest for Haskell](http://silkapp.github.io/rest/)
