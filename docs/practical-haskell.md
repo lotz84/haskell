@@ -20,6 +20,7 @@
 * [最近のHaskell製パッケージのドキュメント事情について簡単に](http://qiita.com/igrep/items/e7926ef2d015ca85c18e)
 * [How do you find a function that…](http://myhaskelljournal.com/how-do-you-find-a-function-that/)
 * [Haddock at your fingertips](http://hao.codes/docsets.html)
+* [Continuous Haddocks](https://chromabits.com/posts/2016/07/04/haddock-travis/)
 
 ##Cabal
 * [Hackage](http://hackage.haskell.org/)
