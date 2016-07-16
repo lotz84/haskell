@@ -441,6 +441,7 @@ Heroku
 * [How to compile Haskell libraries for Heroku](http://begriffs.com/posts/2013-10-14-how-to-compile-haskell-libraries-for.html)
 * [Popularizing Haskell through easy web deployment](http://begriffs.com/posts/2013-12-06-popularizing-haskell-through-easy-web.html)
 * [Pair programming with Haskell and Digital Ocean](http://begriffs.com/posts/2014-06-09-pair-programming-with-haskell-and.html)
+* [Making a Haskell (Scotty) web app and putting it on Heroku](http://qiita.com/kimagure/items/5947e2db40b9ec2226bf)
 
 ### Haskell on Heroku
 * [Haskell on Heroku](https://haskellonheroku.com/)
