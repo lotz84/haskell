@@ -181,6 +181,7 @@ Web Server
 * [Using WAI's vault for fun and profit](http://www.yesodweb.com/blog/2015/10/using-wais-vault)
 * [Resurrecting servius](http://www.yesodweb.com/blog/2015/10/resurrecting-servius)
 * [Nested-Routes - WAI Routing Library](https://nestedroutes.com/)
+* [chpatrick/solga](https://github.com/chpatrick/solga)
 * [Writing controller specs for a Warp server](http://begriffs.com/posts/2014-10-19-warp-server-controller-test.html)
 
 Web Application Framework
