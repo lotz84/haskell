@@ -36,6 +36,9 @@
 * [Enterprise Haskell Pattern: Lensed Reader](http://michaelxavier.net/posts/2016-04-03-Enterprise-Haskell-Pattern-Lensed-Reader.html)
 * [STACKING YOUR MONADS](http://stackingyourmonads.benkolera.com/#/)
 * [Refactoring to a Monad Transformer Stack](https://robots.thoughtbot.com/refactoring-to-a-monad-transformer-stack)
+* [list-transformer - A beginner-friendly ListT](http://www.haskellforall.com/2016/07/list-transformer-beginner-friendly-listt.html)
+* [IO (Maybe a)というタイトルでモナド変換子について学んだことを話した - #LT駆動](http://blog.eiel.info/blog/2016/07/03/ltdd-27-io-maybe/)
+* [IO (Maybe String)を触ってみる](http://qiita.com/eielh/items/2f0f774914431990ec37)
 
 mtlにはMonad Transformerを新しく定義する度に全ての組み合わせの実装を定義する必要があるという問題点がある。
 
