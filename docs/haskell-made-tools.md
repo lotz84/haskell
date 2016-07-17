@@ -336,7 +336,6 @@ Line 6:
 * [Haskell でシグナルで中断された時にクリーンナップ処理をしてから終了する](http://qiita.com/shuhei/items/d0113e5c2ae592f1181e)
 * Terminal-based graphing via ANSI and Unicode - [BlackBrane/ansigraph](https://github.com/BlackBrane/ansigraph)
 * A reliable at-least-once job queue built on top of redis. - [The hworker package](http://hackage.haskell.org/package/hworker)
-* EKG: Remote monitoring of running processes over HTTP - [tibbe/ekg](https://github.com/tibbe/ekg)
 * [Record X11 window using ffmpeg](http://lpaste.net/145533)
 * [fuse でオレオレファイルシステムを作ってみた (Haskell で)](http://www.techscore.com/blog/2015/12/08/fuse-%E3%81%A7%E3%82%AA%E3%83%AC%E3%82%AA%E3%83%AC%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F-haskell-%E3%81%A7/)
 * [24 days of Hackage, 2015: day 17: ansi-wl-pprint: avoiding string hacking](http://conscientiousprogrammer.com/blog/2015/12/17/24-days-of-hackage-2015-day-17-ansi-wl-pprint-avoiding-string-hacking/)
