@@ -198,7 +198,6 @@ shorten xs = case vecNull' xs of
 * [Haskell/GADT](http://en.wikibooks.org/wiki/Haskell/GADT)
 * [GADTs](http://mbps.hatenablog.com/entry/2014/10/03/010000)
 * [Question: Type System and N-Dimensional Vectors](http://www.reddit.com/r/haskell/comments/2z5l9y/question_type_system_and_ndimensional_vectors/)
-* [GADTs meet their match](http://research.microsoft.com/en-us/um/people/simonpj/papers/pattern-matching/gadtpm.pdf)
 * [GADTs and exhaustiveness: looking for the impossible](http://www.math.nagoya-u.ac.jp/~garrigue/papers/gadtspm.pdf)
 * [GADTsとかPhantom typesとかExistential typesとか](http://maoe.hatenadiary.jp/entry/20110330/1301496958)
 * [DataKindsとGADTの使い方について](http://myuon-myon.hatenablog.com/entry/2015/06/14/222142)
