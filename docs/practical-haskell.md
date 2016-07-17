@@ -32,7 +32,6 @@
 * [cabal-info: get information from cabal files.](https://www.barrucadu.co.uk/posts/2016-02-02-cabal-info.html)
 * [Announcing cabal new-build: Nix-style local builds](http://blog.ezyang.com/2016/05/announcing-cabal-new-build-nix-style-local-builds/)
 * [The cab package](http://hackage.haskell.org/package/cab)
-* [sol/hpack](https://github.com/sol/hpack)
 * [cabalでドキュメントをhackageにアップロードする](http://qiita.com/debug-ito/items/272d798b7787509cc6ae)
 
 ##Stack
