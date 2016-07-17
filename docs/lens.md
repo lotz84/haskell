@@ -23,7 +23,6 @@
 * [LensでHaskellをもっと格好良く！ 2013/5/30](http://tokiwoousaka.github.io/takahashi/contents/20150530LensPrism.html)
 * [Lens : Smart setter for immutable data](https://speakerdeck.com/hiratara/lens-smart-setter-for-immutable-data)
 * [Beyond Scala Lens](http://www.slideshare.net/JulienTruffaut/beyond-scala-lens)
-* [lensのmakeClassyで型を合成する](http://tune.hateblo.jp/entry/2014/09/27/191008)
 * [total-1.0.0: Exhaustive pattern matching using traversals, prisms, and lenses](http://www.haskellforall.com/2015/01/total-100-exhaustive-pattern-matching.html)
 * [himura/lens-regex](https://github.com/himura/lens-regex)
 * [Lens from Scratch](http://myuon-myon.hatenablog.com/entry/2015/07/14/203521)
