@@ -304,8 +304,8 @@ Web Application Framework
 * [Haskell Servant 入門 (Loggerの導入)](http://qiita.com/algas/items/9f409ec0c43033c1e52c)
 * [Haskell Servant 入門 (HTTPS対応)](http://qiita.com/algas/items/a9d1527e4a3f318dc09d)
 * [Haskell Servant 入門 (Testing)](http://qiita.com/algas/items/3f7029c92824392a0b11)
-* [haskell-servant/example-servant-persistent](https://github.com/haskell-servant/example-servant-persistent)
 * [Haskell Servant 入門 (Database)](http://qiita.com/algas/items/5a6e570028d95b5dac1b)
+* [haskell-servant/example-servant-persistent](https://github.com/haskell-servant/example-servant-persistent)
 * [Token authentication with Servant](http://jerrington.me/posts/2016-06-18-token-authentication-with-servant.html)
 * [Incremental API Takeover with Haskell Servant](http://www.parsonsmatt.org/2016/06/24/take_over_an_api_with_servant.html)
 * [k-bx/owlcloud](https://github.com/k-bx/owlcloud)
@@ -338,6 +338,7 @@ Web Application Framework
 * [How to use UUID values with Persistent and Yesod](http://bitemyapp.com//posts/2016-06-15-uuids-with-persistent-yesod.html)
 * [Yesod Web Framework Book](http://www.yesodweb.com/book-1.4)
 * [Haskell web programming - A Yesod tutorial](http://yannesposito.com/Scratch/fr/blog/Yesod-tutorial-for-newbies/)
+* [[haskell][yesod] stack対応版Yesod tutorial](http://kurokawh.blogspot.jp/2016/07/haskellyesod-stackyesod-tutorial.html)
 
 Protocol
 --------
