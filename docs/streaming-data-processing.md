@@ -34,7 +34,6 @@ main = do
 ###io-streams
 * [io-streams](http://hackage.haskell.org/package/io-streams)
 * [io-streams - yunomuのブログ](http://yunomu.hatenablog.jp/entry/2013/09/22/160859)
-* [http-streams](https://hackage.haskell.org/package/http-streams)
 
 ###Pipes
 * [Pipes.Tutorial](https://hackage.haskell.org/package/pipes/docs/Pipes-Tutorial.html)
