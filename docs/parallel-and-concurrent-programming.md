@@ -16,7 +16,6 @@
     * [sile/AMP-CH18-SUMMARY.md](https://gist.github.com/sile/1dc1a595e2c4c998b6b6)
 * [Multithreaded Computer Architecture: A Summary of the State of the ART](http://link.springer.com/book/10.1007/978-1-4615-2698-8)
 * [Parallel Computing Technologies](http://link.springer.com/book/10.1007/978-3-540-45145-7)
-* [agocorona/transient](https://github.com/agocorona/transient)
 * [並列処理の理論とホモトピー](http://pantodon.shinshu-u.ac.jp/topology/literature/concurrency.html)
 * [高速WebサーバMighttpdのアーキテクチャ](http://www.iij.ad.jp/company/development/tech/activities/mighttpd/)
 * [Edward Kmett - Propagators - Boston Haskell](https://www.youtube.com/watch?v=DyPzPeOPgUE)
