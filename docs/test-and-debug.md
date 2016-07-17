@@ -95,7 +95,6 @@ Passed:
 * [Exceptions Best Practices](https://www.fpcomplete.com/user/commercial/content/exceptions-best-practices)
 * [Lightweight Checked Exceptions in Haskell](http://www.well-typed.com/blog/2015/07/checked-exceptions/)
 * [ERRORS AND EXCEPTIONS IN HASKELL](http://www.stackbuilders.com/news/errors-and-exceptions-in-haskell)
-* [errors](http://hackage.haskell.org/package/errors)
 * [The exceptions package](http://hackage.haskell.org/package/exceptions)
 * [The retry package](https://hackage.haskell.org/package/retry)
 * [Erin Swenson-Healey: A Beginner's Guide to Exceptions in Haskell](https://www.youtube.com/watch?v=PWS0Whf6-wc)
