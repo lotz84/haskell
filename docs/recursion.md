@@ -66,7 +66,6 @@ evenElements xs = filter even xs
 ##リスト
 * [(cons cat (cons cat nil))](https://twitter.com/lvsn/status/533685461957349376)
 * [split](https://hackage.haskell.org/package/split)
-* [An Introduction to Recursion Schemes](http://patrickthomson.ghost.io/an-introduction-to-recursion-schemes/)
 * [dlist](http://hackage.haskell.org/package/dlist)
 * [代数的データ型を使わないリスト](http://maoe.hatenadiary.jp/entry/20110402/1301677925)
 
