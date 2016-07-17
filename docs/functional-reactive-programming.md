@@ -33,7 +33,6 @@
 * [eamsden/dom-gnats](https://github.com/eamsden/dom-gnats)
 * [Yampy Cube by Konstantin Zudov at Helsinki FRP Meetup May 6, 2015](https://www.youtube.com/watch?v=T7XwTolu9YI)
 * [FRP for free](http://haskellexists.blogspot.de/2016/01/frp-for-free.html)
-* [Edward Kmett - Propagators - Boston Haskell](https://www.youtube.com/watch?v=DyPzPeOPgUE)
 * [Functional Reactive Programming from First Principles](http://haskell.cs.yale.edu/?post_type=publication&p=200)
 * [Part One - Infrastructure](http://zyghost.com/series/odin/part-one/)
 * [Fixing a space leak by copying thunks.](http://haskellexists.blogspot.de/2016/01/fixing-space-leak-by-copying-thunks.html)
