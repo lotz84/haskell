@@ -1,6 +1,5 @@
 * [The Basic, Practical Benefits of the Haskell Type System](http://mechanical-elephant.com/thoughts/2015-08-10-the-pratical-benefits-of-haskell-typesystem/)
 * [Types & Kinds](http://slpopejoy.github.io/2015/04/10/Types/)
-* [Adventure with Types in Haskell](https://www.youtube.com/watch?v=6COvD8oynmI)
 * [Another Approach to Default Function Parameters](https://ocharles.org.uk/blog/posts/2015-07-23-another-approach-to-default-variables.html)
 * [avieth/Algebraic](https://github.com/avieth/Algebraic)
 * [The vacuum-cairo package](https://hackage.haskell.org/package/vacuum-cairo)
