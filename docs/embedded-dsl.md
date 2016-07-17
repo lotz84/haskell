@@ -113,7 +113,7 @@ yoneda f = Natural $ \ax -> fmap ax f
 * [09. Operationalモナド](https://sites.google.com/site/toriaezuzakki/haskell/operational)
 * [Yoneda lemmaとOperational Monad](http://myuon-myon.hatenablog.com/entry/2013/06/09/135407)
 * Operationalモナドは任意のモナドを実装できる [StateT s IO a](https://gist.github.com/lotz84/ec6b7cb737f12211ebd3)
-* [Examining Hackage: operational](http://jozefg.bitbucket.org/posts/2014-12-27-folds.html)
+* [Examining Hackage: operational](http://jozefg.bitbucket.org/posts/2014-12-25-operational.html)
 * [今のところ比較的簡単なモナドの作り方](http://fumieval.hatenablog.com/entry/2016/04/08/215045)
 
 ###Ideal Monad
