@@ -63,7 +63,6 @@ mtlにはMonad Transformerを新しく定義する度に全ての組み合わせ
 * [24 Days of Hackage: extensible-effects](https://ocharles.org.uk/blog/posts/2013-12-04-24-days-of-hackage-extensible-effects.html)
 * [effin](https://hackage.haskell.org/package/effin)
 * [The effect-handlers package](https://hackage.haskell.org/package/effect-handlers)
-* [Freer Monads, More Extensible Effects](http://okmij.org/ftp/Haskell/extensible/more.pdf) [[slide](http://okmij.org/ftp/Haskell/extensible/more-talk.pdf)]
 * [Programming with Algebraic Effects and Handlers](http://math.andrej.com/2012/03/08/programming-with-algebraic-effects-and-handlers/)
 * [Extensible Effects in Scala](http://halcat.org/scala/extensible/)
 * [Lazy state](http://okmij.org/ftp/Haskell/extensible/index.html#lazy-state)
