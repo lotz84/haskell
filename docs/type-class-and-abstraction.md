@@ -56,7 +56,11 @@ instance Show Bool where
 * [Typeclasses and Run-Time Dependency Management](https://turingjump.com/posts/smerdyakov.html)
 * [phadej/poly-nfdata.hs](https://gist.github.com/phadej/2fc066c00e33b9486e1a3e5f7767a8d7)
 
-##Monoid
+## 代数的な型クラス
+### Semigroup
+* [Algebraic patterns - Semigroup](http://philipnilsson.github.io/Badness10k/posts/2016-07-14-functional-patterns-semigroup.html)
+
+### Monoid
 * [Haskell Monoids and their Uses](http://blog.sigfpe.com/2009/01/haskell-monoids-and-their-uses.html)
 * [Monoids and Finger Trees](http://apfelmus.nfshost.com/articles/monoid-fingertree.html)
 * [Monoids and their efficiency in practice](http://myhaskelljournal.com/monoids-and-their-efficiency-in-practice/)
@@ -66,7 +70,7 @@ instance Show Bool where
 
 出典: [Free Monoids in Haskell](http://comonad.com/reader/2015/free-monoids-in-haskell/)
 
-###Formatting
+#### Formatting
 
 ```haskell
 format ("Person's name is " % text % ", age is " % hex) "Dave" 54
