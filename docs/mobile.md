@@ -11,6 +11,8 @@
 * [CPUの創りかた(4): Flip Flop](http://qiita.com/eijian/items/1b092a05e73fc372271f)
 * [CPUの創りかた(5): 4 bitレジスタ](http://qiita.com/eijian/items/7150182c420d98650e72)
 * [CPUの創りかた(6): プログラムカウンタ](http://qiita.com/eijian/items/a2d255bbf0fc2dee08cc)
+* [CPUの創りかた(7): 加算器を作る](http://qiita.com/eijian/items/306f42c5c1e4d3c37ec8)
+* [CPUの創りかた(8): すべては足し算だった](http://qiita.com/eijian/items/0e53963365166dd3720b)
 * [ARMing Haskell](http://haskellembedded.github.io/posts/2015-12-15-arm.html)
 * [CλaSH FPGA Starter](http://christiaanb.github.io/posts/clash-fpga-starter/)
 * [FFT With Circat](http://begriffs.com/posts/2015-12-14-fft-with-circat.html)
