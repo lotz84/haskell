@@ -80,6 +80,7 @@
 * [GHCでプロファイルが取れない - Could not find module ...](http://qiita.com/nwtgck/items/c68c3808b324987e1610)
 * [Dive into GHC: Intermediate Forms](http://www.stephendiehl.com/posts/ghc_02.html)
 * [Dive into GHC: Pipeline](http://www.stephendiehl.com/posts/ghc_01.html)
+* [Dive into GHC: Targeting Core](http://www.stephendiehl.com/posts/ghc_03.html)
 * [More space leaks: Alex/Happy edition](http://neilmitchell.blogspot.jp/2016/07/more-space-leaks-alexhappy-edition.html)
 * [quchen/stgi](https://github.com/quchen/stgi)
 
