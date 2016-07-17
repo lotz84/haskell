@@ -9,7 +9,7 @@
 * [24 days of Hackage, 2015: day 14: Earley: a promising newer parser library for Haskell](http://conscientiousprogrammer.com/blog/2015/12/14/24-days-of-hackage-2015-day-14-earley-a-promising-newer-parser-library-for-haskell/)
 * [Yuras/scanner](https://github.com/Yuras/scanner)
 
-##正規表現
+## 正規表現
 * [24 days of Hackage, 2015: day 2: Regexes with pcre-heavy; standalone Haskell scripts using Stack](http://conscientiousprogrammer.com/blog/2015/12/02/24-days-of-hackage-2015-day-2-regexes-with-pcre-heavy-standalone-haskell-scripts-using-stack/)
 * [lens-regex で正規表現を便利に](http://qiita.com/thimura/items/887db74cdf8bde9c1902)
 * [Haskellで簡単な正規表現を実装した【KMCアドベントカレンダー8日目】](http://yu-i9.hatenablog.com/entry/2014/12/08/000104)
@@ -19,7 +19,7 @@
 * [Regex Edit Distance](http://languagengine.co/blog/regex-edit-distance/)
 * [Fast, Elegant Regexes in Haskell](https://begriffs.com/posts/2016-06-27-fast-haskell-regexes.html)
 
-##パーサーコンビネータ
+## パーサーコンビネータ
 * [JavaScriptでパーサコンビネータのコンセプトを理解する](http://blog.anatoo.jp/entry/2015/04/26/220026)
 
 ```haskell
@@ -57,7 +57,7 @@ parse = evalStateT
 * [OpenFlowの可変長フィールドをAttoparsecで解析する](http://qiita.com/ilyaletre/items/b0e77aeb67914aec60be)
 * [Parser Combinators](http://athiemann.net/2016/05/27/parser-combinators.html)
 
-###Language
+### Language
 * [Hackage Search: language](https://hackage.haskell.org/packages/search?terms=language)
 * [haskell-src-exts](https://hackage.haskell.org/package/haskell-src-exts)
 * [language-javascript](https://hackage.haskell.org/package/language-javascript)
@@ -65,31 +65,35 @@ parse = evalStateT
 * [mchakravarty/language-swift-quote](https://github.com/mchakravarty/language-swift-quote)
 * [vincenthz/language-java](https://github.com/vincenthz/language-java)
 
-##データ構造
-###CSV
+## データ構造
+### バイナリ
+* [Haskellでバイナリをパースする その１(たぶん続かない)](http://qiita.com/AyachiGin/items/4f9a0afea548288bfc87)
+
+### CSV
 * [cassava](https://hackage.haskell.org/package/cassava)
 * [CSV encoding and decoding in Haskell with Cassava](https://www.stackbuilders.com/tutorials/haskell/csv-encoding-decoding/)
 * [CASSAVA MEGAPARSEC LIBRARY RELEASED](https://www.stackbuilders.com/news/cassava-megaparsec-library-released)
 
-###XML
+### XML
 * [xml-conduit](https://hackage.haskell.org/package/xml-conduit)
   * [xml-lens](https://hackage.haskell.org/package/xml-lens)
 * [The hxt package](https://hackage.haskell.org/package/hxt)
 
-###Excel
+### Excel
 * [xlsx](https://hackage.haskell.org/package/xlsx)
 
-###PDF
+### PDF
 * [詳細PDF入門 ー 実装して学ぼう！PDFファイルの構造とその書き方読み方](http://itchyny.hatenablog.com/entry/2015/09/16/100000)
 
-###YAML
+### YAML
 * [yamadapc/haskell-frontmatter](https://github.com/yamadapc/haskell-frontmatter)
 * [YAML + Aeson Lenses](http://mojobojo.com/posts/2016-03-31-yaml-aeson-lenses.html)
 
-###Markdown
+### Markdown
 * [snoyberg/markdown](https://github.com/snoyberg/markdown)
+* [cmark: Fast, accurate CommonMark (Markdown) parser and renderer](https://hackage.haskell.org/package/cmark)
 
-###JSON
+### JSON
 * [aeson](http://hackage.haskell.org/package/aeson)
   * [Aeson: the tutorial](http://artyom.me/aeson)
   * [AesonでJSONをパース・生成する方法まとめ](http://qiita.com/alpha22jp/items/4cc65f128962e11811fb)
