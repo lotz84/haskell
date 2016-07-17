@@ -35,7 +35,6 @@
 
 ##GUI
 * [fltkhs](http://hackage.haskell.org/package/fltkhs)
-* [elm+electronで気楽に始めるFRP](http://qiita.com/yasuyuky/items/e28106e3dd7fed17d50f)
 * [Electron, React, and Haskell—Oh My! by Mike Craig](https://speakerdeck.com/mkscrg/electron-react-and-haskell-oh-my)
 * [connors/photon](https://github.com/connors/photon)
 * [Haskell-native spreadsheets](http://www.haskellforall.com/2015/11/haskell-native-spreadsheets.html)
