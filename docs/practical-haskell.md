@@ -181,3 +181,4 @@
 * [phadej/existential-constraint.hs](https://gist.github.com/phadej/29335981507d81b4b2f219961772de25)
 * [sdiehl/protolude](https://github.com/sdiehl/protolude)
 * [The Haskell School of Music](http://haskell.cs.yale.edu/wp-content/uploads/2015/03/HSoM.pdf)
+* [Destroy All Ifs — A Perspective from Functional Programming](http://degoes.net/articles/destroy-all-ifs)
