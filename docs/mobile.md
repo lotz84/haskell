@@ -13,6 +13,8 @@
 * [CPUの創りかた(6): プログラムカウンタ](http://qiita.com/eijian/items/a2d255bbf0fc2dee08cc)
 * [CPUの創りかた(7): 加算器を作る](http://qiita.com/eijian/items/306f42c5c1e4d3c37ec8)
 * [CPUの創りかた(8): すべては足し算だった](http://qiita.com/eijian/items/0e53963365166dd3720b)
+* [CPUの創りかた(9): CPUはじめました](http://qiita.com/eijian/items/2b9d2ef9adac09e13382)
+* [CPUの創りかた(10): おまけ、アセンブラ](http://qiita.com/eijian/items/8fb1a0c98e9715a6f5a8)
 * [ARMing Haskell](http://haskellembedded.github.io/posts/2015-12-15-arm.html)
 * [CλaSH FPGA Starter](http://christiaanb.github.io/posts/clash-fpga-starter/)
 * [FFT With Circat](http://begriffs.com/posts/2015-12-14-fft-with-circat.html)
