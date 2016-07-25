@@ -32,6 +32,7 @@ type a * b = (a, b)
 * [Why are ADTs necessary?](http://www.reddit.com/r/haskell/comments/2z1n16/why_are_adts_necessary/)
 * [Algebraic Data Types Demystified](http://blog.haskellformac.com/blog/algebraic-data-types-demystified)
 * [Haskell Diary #2 - Algebra of Data Types](http://akashagrawal.me/haskell-diary-2-algebraic-data-types/)
+* [Overcoming Boolean blindness with Evidence](http://cs-syd.eu/posts/2016-07-24-overcoming-boolean-blindness-evidence.html)
 
 ###Codata
 * [Codata](http://types2004.lri.fr/SLIDES/altenkirch.pdf)
