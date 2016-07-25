@@ -148,6 +148,7 @@ in map (fromMaybe . show <*> 3 ~> "fizz" <> 5 ~> "buzz")
 * [haskell-pointfree package](https://atom.io/packages/haskell-pointfree)
 * [Atom + Stack = no globally installed GHC/packages](http://blog.nikosbaxevanis.com/2016/05/19/atom-and-stack-no-globally-installed-ghc-and-packages/)
 * [Atom EditorでHaskell](http://qiita.com/eielh/items/b2e85f8ea4c6cdb8012d)
+* [Windows上のAtomで Haskell開発環境を整える。](http://qiita.com/new_spaghet/items/10e387161298a276d9d7)
 
 ### Sublime Text
 * [SublimeText3 で Haskell (Stack) を書くための環境構築 (Mac OS X)](http://qiita.com/algas/items/77c7f6455f8106c1a9e8)
