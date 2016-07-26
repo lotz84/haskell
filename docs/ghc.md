@@ -83,6 +83,7 @@
 * [Dive into GHC: Targeting Core](http://www.stephendiehl.com/posts/ghc_03.html)
 * [More space leaks: Alex/Happy edition](http://neilmitchell.blogspot.jp/2016/07/more-space-leaks-alexhappy-edition.html)
 * [quchen/stgi](https://github.com/quchen/stgi)
+* [Dependent types in Haskell: Progress Report](https://typesandkinds.wordpress.com/2016/07/24/dependent-types-in-haskell-progress-report/)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
