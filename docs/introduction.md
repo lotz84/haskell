@@ -93,6 +93,7 @@ $ alias ghci='stack ghci'
 * [The Haskell Road to Logic, Math and Programming](https://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf)
 * [Functional Programming in Haskell: Supercharge Your Coding](https://www.futurelearn.com/courses/functional-programming-haskell)
 * [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon)
+* [Haskell Data Analysis Cookbook](http://haskelldata.com/)
   
 ##チートシート
 * [What I Wish I Knew When Learning Haskell](http://www.stephendiehl.com/what/) [[ja](https://github.com/Kinokkory/wiwinwlh-jp/wiki)]
