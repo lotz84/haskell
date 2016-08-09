@@ -57,6 +57,7 @@
 * [The pipes-concurrency package](http://hackage.haskell.org/package/pipes-concurrency)
 * [Skynet 1M threads microbenchmark](https://github.com/atemerev/skynet)
 * [Singular Persistent Homology with Effective Concurrent Computation](https://arxiv.org/pdf/1607.01257v1.pdf)
+* [CONCURRENT HASKELL IN THE REAL WORLD](https://www.stackbuilders.com/news/concurrent-haskell-in-the-real-world)
 
 ###MVar
 * [Control.Concurrent.MVar](https://hackage.haskell.org/package/base/docs/Control-Concurrent-MVar.html)
