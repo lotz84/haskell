@@ -221,6 +221,9 @@ success
 * [kRITZCREEK/psc-ide](https://github.com/kRITZCREEK/psc-ide)
 * [Type-safe client-server communication with PureScript](http://frigoeu.github.io/phantomtypes.html)
 
+### qhs
+* [CSVファイルをSQLのクエリで集計できるqコマンドをHaskellで実装してみました！](http://itchyny.hatenablog.com/entry/2016/08/08/100000)
+
 ### vimus
 * Music Player Daemon のクライアント
 * <https://github.com/vimus/vimus>
