@@ -2,6 +2,7 @@
 * [Haskellプロダクトのススメ](https://www.mma.club.uec.ac.jp/~mizunashi_mana/slides/slides/lighttechtalk-1/)
 * [エンジニアとしてやっていくために必要だったものは「音楽」が教えてくれました －Proper 藤村大介氏](http://press.forkwell.com/post/142270577639/interview-ffu)
 * [Haskell gets a job helping everyone get a job!](https://cdn.rawgit.com/screamish/haskell-gets-a-job/master/Haskell-gets-a-job.pdf)
+* [翻訳：Haskellと過ごした4年間〜ファウンダーの観点から〜](http://qiita.com/fujimura/items/c9c68922673a7801a722)
 
 ##コミュニティ
 * [New York Haskell Users Group](http://www.meetup.com/NY-Haskell/)
