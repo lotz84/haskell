@@ -52,6 +52,7 @@ instance Functor f => Monad (Free f) where
 * [Applicative Effects in Free Monads](http://elvishjerricco.github.io/2016/04/08/applicative-effects-in-free-monads.html)
 * [More on Applicative Effects in Free Monads](http://elvishjerricco.github.io/2016/04/13/more-on-applicative-effects-in-free-monads.html)
 * [Free, take 2](http://therning.org/magnus/posts/2016-06-18-free--take-2.html)
+* [FreerモナドとCoyonedaについて](http://qiita.com/masaki_mori/items/afb9696cac2476f0981c)
 
 ###Coyoneda
 * [Loop School - Coyoneda](http://school.looprecur.com/?video=122708005)
