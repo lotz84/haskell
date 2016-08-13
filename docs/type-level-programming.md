@@ -57,6 +57,7 @@
 * [Linear resources in Haskell](http://axman6.com/posts/2016-07-10-Linear-resources-in-haskell.html)
 * [The reflection package](https://hackage.haskell.org/package/reflection)
 * [Data.Reflection](http://qiita.com/hiratara/items/c5e32d5695c4e0682cf9)
+* [sheyll/pretty-types](https://github.com/sheyll/pretty-types)
 
 ```haskell
 data Bottom
