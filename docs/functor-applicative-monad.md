@@ -338,6 +338,8 @@ Reader + Writer + State
 * [Category Theory for the Working Hacker](https://www.infoq.com/presentations/category-theory-propositions-principle)
 * [Does it matter if Hask is (not) a category?](https://ro-che.info/articles/2016-08-07-hask-category)
 * [Hask is not a category](http://math.andrej.com/2016/08/06/hask-is-not-a-category/)
+* [コンピュータ科学や組み合わせ論を“微分幾何”とみなす：CADGの夢](http://d.hatena.ne.jp/m-hiyama/20160805/1470358519)
+* [New Haskell Symposium paper on “twisted functors”](https://byorgey.wordpress.com/2016/08/04/new-haskell-symposium-paper-on-twisted-functors/)
 
 ###CPL
 * [圏論プログラミング言語 CPL](http://mandel59.hateblo.jp/entry/2015/02/02/110621)
