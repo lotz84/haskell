@@ -340,6 +340,7 @@ Web Application Framework
 * [Yesod Web Framework Book](http://www.yesodweb.com/book-1.4)
 * [Haskell web programming - A Yesod tutorial](http://yannesposito.com/Scratch/fr/blog/Yesod-tutorial-for-newbies/)
 * [[haskell][yesod] stack対応版Yesod tutorial](http://kurokawh.blogspot.jp/2016/07/haskellyesod-stackyesod-tutorial.html)
+* [Getting (re)started with Yesod and Docker](https://ilikewhenit.works/blog/2)
 
 Protocol
 --------
