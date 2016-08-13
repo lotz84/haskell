@@ -183,6 +183,7 @@ Web Server
 * [Nested-Routes - WAI Routing Library](https://nestedroutes.com/)
 * [chpatrick/solga](https://github.com/chpatrick/solga)
 * [Writing controller specs for a Warp server](http://begriffs.com/posts/2014-10-19-warp-server-controller-test.html)
+* [What is HTTP/2 server push?](http://www.yesodweb.com/blog/2016/07/http2-server-push)
 
 Web Application Framework
 -------------------------
@@ -392,6 +393,7 @@ Database
 * [tweag/sparkle](https://github.com/tweag/sparkle)
 * [PostgREST](https://github.com/lotz84/haskell/blob/master/docs/haskell-made-tools.md#postgrest)
 * [Real World Haskell - Cassandra Part 1 - Connecting to Cassandra](http://codygman.github.io/posts/2016-07-30-real-world-haskell-cassandra-pt-1-connecting.html)
+* [Arnaud Bailly-Life Beyond relational Database, Event sourcing in Haskell](https://vimeo.com/168197756)
 
 Simple Clients
 --------------
