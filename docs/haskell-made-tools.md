@@ -312,6 +312,7 @@ Line 6:
 ### hpack
 * hpack: An alternative format for Haskell packages
 * <https://github.com/sol/hpack>
+* <https://github.com/yamadapc/hpack-convert>
 
 ### hsdev
 * Haskell development tool
