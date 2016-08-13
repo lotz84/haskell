@@ -390,6 +390,7 @@ Database
 * [ElvishJerricco/fraxl](https://github.com/ElvishJerricco/fraxl)
 * [tweag/sparkle](https://github.com/tweag/sparkle)
 * [PostgREST](https://github.com/lotz84/haskell/blob/master/docs/haskell-made-tools.md#postgrest)
+* [Real World Haskell - Cassandra Part 1 - Connecting to Cassandra](http://codygman.github.io/posts/2016-07-30-real-world-haskell-cassandra-pt-1-connecting.html)
 
 Simple Clients
 --------------
