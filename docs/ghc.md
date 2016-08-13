@@ -85,6 +85,7 @@
 * [quchen/stgi](https://github.com/quchen/stgi)
 * [Dependent types in Haskell: Progress Report](https://typesandkinds.wordpress.com/2016/07/24/dependent-types-in-haskell-progress-report/)
 * [Adding documentation to the GHC API](http://cs-syd.eu/posts/2016-07-31-adding-documentation-to-the-ghc-api.html)
+* [Solving GHCs KnownNat constraints](http://qbaylogic.com/blog/2016/08/10/solving-knownnat-constraints-plugin.html)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
