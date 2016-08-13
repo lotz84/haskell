@@ -368,6 +368,7 @@ instance Eval' Hole where
 * [型理論III](http://ci.nii.ac.jp/naid/110003743626/)
 * [型理論IV](http://ci.nii.ac.jp/naid/110003743641/)
 * [variable-free type theoryの圏論的な解釈について](http://myuon-myon.hatenablog.com/entry/2016/05/15/195755)
+* [Cubical Higher Type Theory as a Programming Language](https://existentialtype.wordpress.com/2016/07/31/cubical-higher-type-theory-as-a-programming-language/)
 
 ##Lambda Calculus
 * [An informal introduction to Lambda Calculus.](https://medium.com/@Sudhagar/an-informal-introduction-to-lambda-calculus-51c637f35f7d#.vsy3u1aex)
