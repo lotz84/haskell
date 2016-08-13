@@ -96,7 +96,9 @@ $ alias ghci='stack ghci --'
 * [Functional Programming in Haskell: Supercharge Your Coding](https://www.futurelearn.com/courses/functional-programming-haskell)
 * [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon)
 * [Haskell Data Analysis Cookbook](http://haskelldata.com/)
-  
+* [CS240h lecture notes](http://www.scs.stanford.edu/11au-cs240h/notes/)
+* [Using JavaScript to Learn Haskell](https://medium.com/@sjsyrek/using-javascript-to-learn-haskell-f57509015842#.qb5lc4gx8)
+
 ##チートシート
 * [What I Wish I Knew When Learning Haskell](http://www.stephendiehl.com/what/) [[ja](https://github.com/Kinokkory/wiwinwlh-jp/wiki)]
 * [The Haskell Cheatsheet](http://cheatsheet.codeslower.com/)
@@ -146,6 +148,7 @@ in map (fromMaybe . show <*> 3 ~> "fizz" <> 5 ~> "buzz")
 * [haskell/haskell-mode](https://github.com/haskell/haskell-mode)
 * [Intero for Emacs](http://commercialhaskell.github.io/intero/)
 * [Qiita - Intero for Emacs](http://qiita.com/hiratara/items/a963960f7593db4b43ab)
+* [Intero for Emacs: Changes June–July](https://haskell-lang.org/announcements)
 
 ### Atom
 * [Switching from Vim to Atom (A Haskeller's Perspective)](http://edsko.net/2015/03/07/vim-to-atom/)

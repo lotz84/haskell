@@ -21,6 +21,8 @@
 * [How do you find a function that…](http://myhaskelljournal.com/how-do-you-find-a-function-that/)
 * [Haddock at your fingertips](http://hao.codes/docsets.html)
 * [Continuous Haddocks](https://chromabits.com/posts/2016/07/04/haddock-travis/)
+* [Let's Write Documentation for Haskell](http://lwm.github.io/posts/html/document-haskell.html)
+* [Measuring Software Fragility](http://softwaresimply.blogspot.jp/2016/08/measuring-software-fragility.html)
 
 ##Cabal
 * [Hackage](http://hackage.haskell.org/)
@@ -72,12 +74,13 @@
 * [Stack を使って Haskell をインストールする](http://qiita.com/usamik26/items/fa7c1f14c5ce2a0bd9fc)
 * [Why did Stack stop using Shake?](http://neilmitchell.blogspot.jp/2016/07/why-did-stack-stop-using-shake.html)
 
-##Nix
+## NixOS
 * [Nix ±Cabal](http://begriffs.com/posts/2015-08-07-nix-plus-minus-cabal.html)
 * [Haskell & Nix](https://www.youtube.com/playlist?list=PLErve0z4I-unD_Kz9LuK7fm_0xaZPyKA4)
 * [Stack + Nix = portable reproducible builds](http://www.tweag.io/blog/stack-nix-portable-reproducible-builds)
 * [stackとNixを使って安定したビルド環境を作る](http://qiita.com/ilyaletre/items/5cf1e7807e0cdc3ef1cd)
 * [NixOS/cabal2nix](https://github.com/NixOS/cabal2nix)
+* [Purely Functional Linux with NixOS](https://begriffs.com/posts/2016-08-08-intro-to-nixos.html)
 
 ##Docker
 * [Dockerfile Linter](http://hadolint.lukasmartinelli.ch/)

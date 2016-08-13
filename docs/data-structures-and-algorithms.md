@@ -91,6 +91,7 @@
 * [Queueing and Glueing for Optimal Partitioning](http://www.iis.sinica.edu.tw/~scm/pub/queueing-glueing.pdf)
 * [ナップザック問題をHaskellで解いてみる](http://qiita.com/ttatsf/items/40da0ca54f257926e733)
 * [The nested-sequence package](http://hackage.haskell.org/package/nested-sequence)
+* [Bound](https://www.schoolofhaskell.com/user/edwardk/bound)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)

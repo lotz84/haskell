@@ -40,6 +40,9 @@
 * [Comonads are objects](http://www.haskellforall.com/2013/02/you-could-have-invented-comonads.html)
 * [A whirlwind tour of comonads](http://dlaing.org/cofun/posts/comonads.html)
 * 🎥 [Kenneth Foner - Getting a Quick Fix on Comonads](https://www.youtube.com/watch?v=F7F-BzOB670)
+* [Comonads and Day Convolution](http://blog.functorial.com/posts/2016-08-08-Comonad-And-Day-Convolution.html)
+* [Comonads as Spaces](http://blog.functorial.com/posts/2016-08-07-Comonads-As-Spaces.html)
+* [What are some motivating examples for Cofree CoMonad in Haskell?](http://stackoverflow.com/questions/38816993/what-are-some-motivating-examples-for-cofree-comonad-in-haskell)
 
 ```hs
 class Functor w => Comonad w where

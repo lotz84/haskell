@@ -70,6 +70,7 @@ Client
 * AWS
   * [aristidb/aws](https://github.com/aristidb/aws)
   * [brendanhay/amazonka](https://github.com/brendanhay/amazonka)
+  * [Haskell で AWS を扱う amazonka ライブラリの紹介](http://qiita.com/algas/items/67effd61eac62595f50b)
 * Reddit - [reddit](https://hackage.haskell.org/package/reddit)
 * IRC - [glguy/irc-core](https://github.com/glguy/irc-core)
 * Twilio - [steven777400/TwilioIVR](https://github.com/steven777400/TwilioIVR/)
@@ -348,6 +349,7 @@ Protocol
 * [Representing an RPC API](http://petterbergman.se/api.html)
 * [Dropbox Hack Week: GraphQL Server in Haskell](https://chadaustin.me/2016/02/dropbox-hack-week-graphql-server-in-haskell/)
 * [msgpack/msgpack-haskell](https://github.com/msgpack/msgpack-haskell)
+* [GaloisInc/avro](https://github.com/GaloisInc/avro)
 
 ### MQTT
 * [uwitty/mosquitto](https://github.com/uwitty/mosquitto)
@@ -398,6 +400,7 @@ Database
 Simple Clients
 --------------
 * [The mysql-simple package](https://hackage.haskell.org/package/mysql-simple)
+* [winterland1989/mysql-haskell](https://github.com/winterland1989/mysql-haskell)
 * [The postgresql-simple package](https://hackage.haskell.org/package/postgresql-simple)
   * [Haskell postgresql-simple examples, part 1](http://begriffs.com/posts/2013-09-10-haskell-postgresql-simple-examples-part.html)
   * [Haskell postgresql-simple examples, part 2](http://begriffs.com/posts/2013-09-14-haskell-postgresql-simple-examples-part_13.html)
