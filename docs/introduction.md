@@ -1,13 +1,14 @@
 ##環境構築
 * [The Haskell User Experience](http://rickdzekman.com/thoughts/the-haskell-user-experience/)
 * [Easy universal Haskell development environment](http://achernyak.me/universal-haskell-dev-enviornment)
+* [The Haskell Development Environment](http://lambdaschool.com/lesson2)
 
 ```bash
 $ # on Mac OSX
 $ brew install haskell-stack
 $ stack setup
 $ alias ghc='stack ghc --'
-$ alias ghci='stack ghci'
+$ alias ghci='stack ghci --'
 ```
 
 * [commercialhaskell/jump](https://github.com/commercialhaskell/jump)
