@@ -92,6 +92,8 @@
 * [ナップザック問題をHaskellで解いてみる](http://qiita.com/ttatsf/items/40da0ca54f257926e733)
 * [The nested-sequence package](http://hackage.haskell.org/package/nested-sequence)
 * [Bound](https://www.schoolofhaskell.com/user/edwardk/bound)
+* [Safer paths, part 1 - valid and typed paths](http://cs-syd.eu/posts/2016-08-14-safer-paths-part-1-valid-and-typed-paths.html)
+* [「組合せ最適化でグループ分け」Haskellでやってみた](http://qiita.com/ttatsf/items/3789159bc4e880cc07bc)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
