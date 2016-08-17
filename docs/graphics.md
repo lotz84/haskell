@@ -46,6 +46,7 @@
 * [Easy Native GUIs in Haskell, Today!](https://www.youtube.com/watch?v=5hoQLovZBxQ)
 * [Using Electron with Haskell](https://codetalk.io/posts/2016-05-11-using-electron-with-haskell.html)
 * [Creating a GUI application in Haskell](https://www.stackbuilders.com/tutorials/haskell/gui-application/)
+* [deech/webkitfltkhs](https://github.com/deech/webkitfltkhs)
 
 ##Game
 * [CodinGame](https://www.codingame.com/)
