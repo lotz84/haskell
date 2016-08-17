@@ -93,6 +93,7 @@
 * [denibertovic/docker-hs](https://github.com/denibertovic/docker-hs)
 * [例によって stack と ghc-mod](http://qiita.com/lesguillemets/items/f80a25a8fb466f77a311)
 * [DockerfileをLintするにはhadolintが良さそう](http://blog.stormcat.io/entry/docker-hadolint)
+* [Stackでextra-depsを自動設定する方法の比較](http://qiita.com/watertight/items/0e09abe3fb9352502ccf)
 
 ##CI
 * [Shake](http://shakebuild.com/)
