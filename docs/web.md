@@ -172,6 +172,7 @@ Web Server
 * [Haskell から見た node.js](http://d.hatena.ne.jp/kazu-yamamoto/20110825/1314254885)
 * [Web/Comparison of Happstack, Snap and Yesod](https://wiki.haskell.org/Web/Comparison_of_Happstack,_Snap_and_Yesod)
 * [サーバサイドの並行プログラミング〜かんたんマルチスレッドプログラミング〜](http://www.slideshare.net/greetech/gree-techtalk5serverside)
+* [Bitrot-free Scripts](https://www.fpcomplete.com/blog/2016/08/bitrot-free-scripts)
 
 ### WAI/Warp
 * [Haskell版フォルダを指定してhttpで公開する簡易Webサーバー](http://qiita.com/saturday06/items/fad44a9bc49b2f387bde)
@@ -350,6 +351,7 @@ Protocol
 * [Dropbox Hack Week: GraphQL Server in Haskell](https://chadaustin.me/2016/02/dropbox-hack-week-graphql-server-in-haskell/)
 * [msgpack/msgpack-haskell](https://github.com/msgpack/msgpack-haskell)
 * [GaloisInc/avro](https://github.com/GaloisInc/avro)
+* [spoqa/nirum](https://github.com/spoqa/nirum)
 
 ### MQTT
 * [uwitty/mosquitto](https://github.com/uwitty/mosquitto)
