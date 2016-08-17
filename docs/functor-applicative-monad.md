@@ -25,6 +25,7 @@ class Functor f where
 ###Profunctor
 * [profunctor](https://hackage.haskell.org/package/profunctors)
 * [Phil Freeman - Fun with Profunctors](https://www.youtube.com/watch?v=OJtGECfksds)
+* [Profunctor Polymorphism](https://bartoszmilewski.com/2016/08/16/profunctor-polymorphism/)
 
 ###Contravariant
 * [contravariant](https://hackage.haskell.org/package/contravariant)
