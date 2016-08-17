@@ -253,6 +253,9 @@ Line 6:
                ^-- SC2016: Expressions don't expand in single quotes, use double quotes for that.
 ```
 
+### slacky
+* <https://github.com/mitchellwrosen/slacky/wiki>
+
 ### Super User Spark
 * [NorfairKing/super-user-spark](https://github.com/NorfairKing/super-user-spark)
 
