@@ -25,8 +25,8 @@
 * [The hpio package](https://hackage.haskell.org/package/hpio)
 * [Haskellでarduino(主にfrp-arduino)](http://qiita.com/eielh/items/f375e314faf87a59864c)
 * [Creating a Stack Machine with Haskell](http://www.andrevdm.com/posts/2016-05-28-haskellStackVm.html)
-* [Rasberry Pi3 (ARMv7)にhaskell-stackをインストールする(未完)](http://qiita.com/aiya000/items/fe45952da33ddc99d4be)
 * [divipp/x86-64](https://github.com/divipp/x86-64)
+* [Rasberry Pi3 (ARMv7)にhaskell-stackをインストールする](http://qiita.com/aiya000/items/fe45952da33ddc99d4be)
 
 ##高位合成
 * [Domain-specific Languages and Code Synthesis Using Haskell](http://queue.acm.org/detail.cfm?id=2617811)
