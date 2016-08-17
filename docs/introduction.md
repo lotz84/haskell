@@ -104,12 +104,13 @@ $ alias ghci='stack ghci --'
 * [The Haskell Cheatsheet](http://cheatsheet.codeslower.com/)
 * [Haskellチートシート(翻訳)](http://qiita.com/techno-tanoC/items/1fa1c65db08da2440fc4)
 
-##Examples
+## Examples
 * [Basic Haskell Examples](http://www.haskellforall.com/2015/10/basic-haskell-examples.html)
 * [Haskell by Example](http://lotz84.github.io/haskellbyexample/)
 
-###エラトステネスの篩
-
+<details>
+<summary>エラトステネスの篩</summary>
+ 
 ```haskell
 primes = sieve [2..]
 sieve (p:xs) = p : sieve [x | x <- xs, x `mod` p /= 0]
@@ -122,8 +123,10 @@ sieve (p:xs) = p : sieve [x | x <- xs, x `mod` p /= 0]
 * [The Genuine Sieve of Eratosthenes](http://vicarie.in/posts/sieve-of-eratos.html)
 * [Haskell programmers are liars](http://www.garrisonjensen.com/2015/05/13/haskell-programs-are-lies.html)
 * [An Optimal Haskell Quicksort](https://gautamcgoel.wordpress.com/2015/08/27/an-optimal-haskell-quicksort/)
+</details>
 
-###FizzBuzz
+<details>
+<summary>FizzBuzz</summary>
 
 ```hs
 let (m ~> str) x = str <$ guard (x `mod` m == 0)
@@ -132,6 +135,28 @@ in map (fromMaybe . show <*> 3 ~> "fizz" <> 5 ~> "buzz")
 
 * <https://www.reddit.com/r/haskell/comments/2cum9p>
 * [Haskellで書かれたおもしろいFizzBuzz ― Haskellで読めないコードに遭遇した時に解読する方法を徹底解説！](http://itchyny.hatenablog.com/entry/2015/12/27/150000)
+</details>
+
+<details>
+<summary>Web Application</summary>
+
+```hs
+{-# LANGUAGE OverloadedStrings #-}
+module Main where
+
+import Data.Monoid
+import Web.Spock.Safe
+
+main :: IO ()
+main = runSpock 8080 $ spockT id $ do
+  get root $ text "Hello World!"
+  get ("hello" <//> var) $ \name ->
+    text ("Hello " <> name <> "!")
+```
+
+[Spock](https://www.spock.li/)
+</details>
+
 
 ##Editor
 ### Vim
