@@ -23,6 +23,7 @@
 * [Continuous Haddocks](https://chromabits.com/posts/2016/07/04/haddock-travis/)
 * [Let's Write Documentation for Haskell](http://lwm.github.io/posts/html/document-haskell.html)
 * [Measuring Software Fragility](http://softwaresimply.blogspot.jp/2016/08/measuring-software-fragility.html)
+* [The Four Flaws of Haskell](http://neilmitchell.blogspot.jp/2016/08/the-four-flaws-of-haskell.html)
 
 ##Cabal
 * [Hackage](http://hackage.haskell.org/)
