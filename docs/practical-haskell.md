@@ -74,6 +74,7 @@
 * [Haskell(Stack)でGitHubにあるライブラリを使う方法](http://qiita.com/aiya000/items/4e90aead41e3711a1e54)
 * [Stack を使って Haskell をインストールする](http://qiita.com/usamik26/items/fa7c1f14c5ce2a0bd9fc)
 * [Why did Stack stop using Shake?](http://neilmitchell.blogspot.jp/2016/07/why-did-stack-stop-using-shake.html)
+* [Stackでextra-depsを自動設定する方法の比較](http://qiita.com/watertight/items/0e09abe3fb9352502ccf)
 
 ## NixOS
 * [Nix ±Cabal](http://begriffs.com/posts/2015-08-07-nix-plus-minus-cabal.html)
@@ -94,7 +95,7 @@
 * [denibertovic/docker-hs](https://github.com/denibertovic/docker-hs)
 * [例によって stack と ghc-mod](http://qiita.com/lesguillemets/items/f80a25a8fb466f77a311)
 * [DockerfileをLintするにはhadolintが良さそう](http://blog.stormcat.io/entry/docker-hadolint)
-* [Stackでextra-depsを自動設定する方法の比較](http://qiita.com/watertight/items/0e09abe3fb9352502ccf)
+* [Windows 上で、 Docker を使って Haskell を簡単に始める方法](http://qiita.com/Sohma/items/cc7567fce647442958fd)
 
 ##CI
 * [Shake](http://shakebuild.com/)
