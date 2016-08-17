@@ -25,16 +25,14 @@ $ alias ghci='stack ghci --'
 * [Try Haskell](https://tryhaskell.org/) - ５分あれば出来る！
 * [10分で学ぶHaskell](https://wiki.haskell.org/10%E5%88%86%E3%81%A7%E5%AD%A6%E3%81%B6Haskell)
 * [ウォークスルー Haskell](http://walk.wgag.net/haskell/)
-* こわくないHaskell入門
-  * [初級](http://qiita.com/arowM/items/9ebfb7cafecd99290663)
-  * [初級その2](http://qiita.com/arowM/items/33245802f9305a73082e)
-* [Haskell 超入門](http://qiita.com/7shi/items/145f1234f8ec2af923ef)
+* [Haskell 超入門](http://qiita.com/7shi/items/145f1234f8ec2af923ef) - 長編だが丁寧に書いてあってわかりやすい
+* [Learn You a Haskell for Great Good! 日本語版](https://moutend.github.io/jlyhgg/)
+* [こわくないHaskell入門 初級](http://qiita.com/arowM/items/9ebfb7cafecd99290663) [初級その2](http://qiita.com/arowM/items/33245802f9305a73082e)
 * Haskell個人メモ
   * [1.基本](http://qiita.com/YusukeHosonuma/items/41ad9346b6e3a4d3789c)
   * [2.型](http://qiita.com/YusukeHosonuma/items/b115de430aa0d3fc9205)
   * [3.関数の構文](http://qiita.com/YusukeHosonuma/items/5da9847db16d33f27a06)
   * [4.再帰](http://qiita.com/YusukeHosonuma/items/c22171dae82430aa9504)
-* [Learn You a Haskell for Great Good! 日本語版](https://moutend.github.io/jlyhgg/)
 * [参照透過性とは何だったのか](http://www.slideshare.net/RuiccRail/haskell-day2012)
 * [Rubyistに贈るHaskell入門](http://qiita.com/techno-tanoC/items/1549d0efc044faf16c36)
 * [お気楽 Haskell プログラミング入門](http://www.geocities.jp/m_hiroi/func/haskell.html)
