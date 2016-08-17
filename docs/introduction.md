@@ -47,6 +47,15 @@ $ alias ghci='stack ghci --'
 * [Haskell入門](http://qiita.com/airtoxin/items/e231ad70d5be3650e424)
 * [Haskellの世界](https://skami.iocikun.jp/computer/haskell)
 * [1から学ぶHaskell: プログラマ向けのHaskell入門](https://skami.iocikun.jp/computer/haskell/web_lecture/for_programmer/)
+* [すごいHaskell つくばで学ぼう！](https://github.com/nushio3/learn-haskell)
+* [What I Wish I Knew When Learning Haskell](https://github.com/Kinokkory/wiwinwlh-jp/wiki)
+* [Haskellチートシート(翻訳)](http://qiita.com/techno-tanoC/items/1fa1c65db08da2440fc4)
+* [注目ワード“高階プログラミング”って何だ？](http://ascii.jp/elem/000/000/157/157495/)
+* [プログラム・プロムナード／Haskellプログラミング](https://www.ipsj.or.jp/magazine/promenade.html)
+* [Haskell 初心者が ライフゲーム 書いた](http://qiita.com/DUxCA/items/9facbd4fe4937650e1f4)
+
+<details>
+<summary>英語チュートリアル</summary>
 * [Learning Real Haskell Incrementally](http://begriffs.com/posts/2015-10-24-learning-haskell-incrementally.html)
 * [Design Patterns in Haskell](http://blog.ezyang.com/2010/05/design-patterns-in-haskel/)
 * [Haskell Design Patterns](https://www.packtpub.com/application-development/haskell-design-patterns)
@@ -59,7 +68,6 @@ $ alias ghci='stack ghci --'
 * [Yet Another Haskell Tutorial](http://www.umiacs.umd.edu/~hal/docs/daume02yaht.pdf)
 * [Learning Haskell](http://learn.hfm.io/) -- 図が豊富でわかりやすい
 * 🎥 [Haskell Basics](http://www.sonarlearning.co.uk/coursepage.php?topic=desktop&course=haskell-basics)
-* [すごいHaskell つくばで学ぼう！](https://github.com/nushio3/learn-haskell)
 * [Introduction to functional programming with Haskell](https://ocramz.github.io/haskell/tutorials/2015/08/21/haskell-tut-v1.html)
 * [PLEAC-Haskell](http://pleac.sourceforge.net/pleac_haskell/index.html)
 * [A community maintained course for learning Haskell](http://openhaskell.com/)
@@ -68,20 +76,16 @@ $ alias ghci='stack ghci --'
 * [HaskVan/HaskellKoans](https://github.com/HaskVan/HaskellKoans)
 * [Haskell is easy](http://haskelliseasy.readthedocs.org/en/latest/)
 * [#198: Haskell Programming with Chris Allen and Julie Moronuki](https://changelog.com/198/)
-* [Tidalでライブコーディング! - セットアップ編](http://qiita.com/yoppa/items/41805cc6af62b1047a34)
 * [Yaxu (audio) + Rituals (visual) live @ babble after party, islington mill (future everything)](https://www.youtube.com/watch?v=fIuqDKzYBzc)
 * [byorgey/haskell-course](https://github.com/byorgey/haskell-course)
 * [Building a Better Custom Haskell Prelude](http://www.stephendiehl.com/posts/protolude.html)
-* [注目ワード“高階プログラミング”って何だ？](http://ascii.jp/elem/000/000/157/157495/)
 * [Haskell Programming from first principles](http://haskellbook.com/)
 * [Bubble Pop!](http://chrisuehlinger.com/LambdaBubblePop/)
-* [プログラム・プロムナード／Haskellプログラミング](https://www.ipsj.or.jp/magazine/promenade.html)
 * [Happy Learn Haskell Tutorial (Setup)](https://www.youtube.com/watch?v=8dPTG_bxvSI)
 * [Happy Learn Haskell Tutorial Chapter 1: How to Learn Haskell](https://www.youtube.com/watch?v=S8I7aKCjpJ8)
 * [Happy Learn Haskell Tutorial Chapter 2: Your First Step](https://www.youtube.com/watch?v=4Tfkx6iJK7s)
 * [Pragmatic Haskell for Beginners, Lecture 1](https://begriffs.com/posts/2016-05-14-pragmatic-haskell-1.html)
 * [Pragmatic Haskell for Beginners, Lecture 2](https://begriffs.com/posts/2016-06-01-pragmatic-haskell-2.html)
-* [Haskell 初心者が ライフゲーム 書いた](http://qiita.com/DUxCA/items/9facbd4fe4937650e1f4)
 * [Real World Haskell](http://book.realworldhaskell.org/read/)
   * [Real World Haskell の古いところ](http://d.hatena.ne.jp/kazu-yamamoto/20140206/1391666962)
   * [Re: Real World Haskellの古いところ](http://maoe.hatenadiary.jp/entry/2014/02/06/195156)
@@ -98,11 +102,7 @@ $ alias ghci='stack ghci --'
 * [Haskell Data Analysis Cookbook](http://haskelldata.com/)
 * [CS240h lecture notes](http://www.scs.stanford.edu/11au-cs240h/notes/)
 * [Using JavaScript to Learn Haskell](https://medium.com/@sjsyrek/using-javascript-to-learn-haskell-f57509015842#.qb5lc4gx8)
-
-##チートシート
-* [What I Wish I Knew When Learning Haskell](http://www.stephendiehl.com/what/) [[ja](https://github.com/Kinokkory/wiwinwlh-jp/wiki)]
-* [The Haskell Cheatsheet](http://cheatsheet.codeslower.com/)
-* [Haskellチートシート(翻訳)](http://qiita.com/techno-tanoC/items/1fa1c65db08da2440fc4)
+</details>
 
 ## Examples
 * [Basic Haskell Examples](http://www.haskellforall.com/2015/10/basic-haskell-examples.html)
@@ -157,7 +157,6 @@ main = runSpock 8080 $ spockT id $ do
 [Spock](https://www.spock.li/)
 </details>
 
-
 ##Editor
 ### Vim
 * [begriffs/haskell-vim-now](https://github.com/begriffs/haskell-vim-now?hr=2)
@@ -210,3 +209,4 @@ main = runSpock 8080 $ spockT id $ do
 * [Project Proposal](http://stefanj.me/funblocks/2016/05/23/project-proposal/)
 * [Hello World](http://stefanj.me/funblocks/2016/05/24/hello-world/)
 * [Another Web-based Haskell IDE](http://jpmoresmau.blogspot.jp/2016/07/another-web-based-haskell-ide.html)
+* [Tidalでライブコーディング! - セットアップ編](http://qiita.com/yoppa/items/41805cc6af62b1047a34)
