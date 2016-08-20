@@ -96,6 +96,7 @@
 * [例によって stack と ghc-mod](http://qiita.com/lesguillemets/items/f80a25a8fb466f77a311)
 * [DockerfileをLintするにはhadolintが良さそう](http://blog.stormcat.io/entry/docker-hadolint)
 * [Windows 上で、 Docker を使って Haskell を簡単に始める方法](http://qiita.com/Sohma/items/cc7567fce647442958fd)
+* [beijaflor-io/haskell-language-dockerfile](https://github.com/beijaflor-io/haskell-language-dockerfile)
 
 ##CI
 * [Shake](http://shakebuild.com/)
