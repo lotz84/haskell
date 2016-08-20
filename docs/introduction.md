@@ -70,7 +70,6 @@ $ alias ghci='stack ghci --'
 * [PLEAC-Haskell](http://pleac.sourceforge.net/pleac_haskell/index.html)
 * [A community maintained course for learning Haskell](http://openhaskell.com/)
 * [teaching Haskell to a mathematician](http://cs-syd.eu/posts/2016-02-07-teaching-haskell-to-a-mathematician.html)
-* [99 Haskell](http://www.99haskell.org/)
 * [HaskVan/HaskellKoans](https://github.com/HaskVan/HaskellKoans)
 * [Haskell is easy](http://haskelliseasy.readthedocs.org/en/latest/)
 * [#198: Haskell Programming with Chris Allen and Julie Moronuki](https://changelog.com/198/)
@@ -154,6 +153,18 @@ main = runSpock 8080 $ spockT id $ do
 
 [Spock](https://www.spock.li/)
 </details>
+
+## Exercise
+* [H-99: Ninety-Nine Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
+  * [99 Haskell Problems より、[1..10]](http://qiita.com/bra_cat_ket/items/211073bb1ce3b3176da9)
+  * [99 Haskell Problems より、[11..20]](http://qiita.com/bra_cat_ket/items/e06434454f25e833e7f6)
+  * [99 Haskell Problems より、[21..28]](http://qiita.com/bra_cat_ket/items/40caf8377a46734bf4a7)
+  * [99 Haskell Problems より、[31] でもその前に](http://qiita.com/bra_cat_ket/items/6a99a9b01682886607d0)
+  * [99 Haskell Problems より、[31..41]](http://qiita.com/bra_cat_ket/items/b5baf5e162f64b68f48a)
+  * [99 Haskell Problems より、[46..50]](http://qiita.com/bra_cat_ket/items/c0cd765348af7de8cf4e)
+  * [bramgg/99haskell](https://github.com/bramgg/99haskell)
+* [CodinGame](https://www.codingame.com/) - プログラミングでゲームを攻略していく。Haskellにも対応している
+* [Project Euler](https://projecteuler.net/) - 数学とプログラミングを駆使しないと解けない問題が豊富。
 
 ##Editor
 ### Vim
