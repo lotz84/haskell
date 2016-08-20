@@ -131,13 +131,14 @@ Haskell to JavaScript compiler
 HTML Template
 -------------
 * [shakespeare](https://hackage.haskell.org/package/shakespeare)
-* [ede](https://hackage.haskell.org/package/ede) - オススメ
+* [ede](https://hackage.haskell.org/package/ede)
 * [mustache](https://hackage.haskell.org/package/mustache)
 * [The react-haskell package](https://hackage.haskell.org/package/react-haskell)
   * [Animating Web UI with React and Haskell](http://joelburget.com/react-haskell/)
 * [blaze-html](http://hackage.haskell.org/package/blaze-html)
 * [meiersi/blaze-react](https://github.com/meiersi/blaze-react)
-* [stackbuilders/stache](https://github.com/stackbuilders/stache) - Mustache templates for Haskell
+* [stackbuilders/stache](https://github.com/stackbuilders/stache)
+* [Mustache templates in Haskell](https://www.stackbuilders.com/tutorials/haskell/mustache-templates/)
 
 ### Lucid
 * [chrisdone/lucid](https://github.com/chrisdone/lucid)
@@ -254,6 +255,7 @@ Web Application Framework
 * [The scotty package](http://hackage.haskell.org/package/scotty)
 * [Basic HTTP auth with Scotty](https://ro-che.info/articles/2016-04-14-scotty-http-basic-auth)
 * [bendyworks/api-server](https://github.com/bendyworks/api-server)
+* [Running a Scotty web-app in Openshift](http://narenma.net/2016/08/18/scotty-diy-openshift/)
 
 ### Spock
 * [Spock Web Framework](https://www.spock.li/)
