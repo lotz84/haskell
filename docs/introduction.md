@@ -156,13 +156,15 @@ main = runSpock 8080 $ spockT id $ do
 
 ## Exercise
 * [H-99: Ninety-Nine Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
-  * [99 Haskell Problems より、[1..10]](http://qiita.com/bra_cat_ket/items/211073bb1ce3b3176da9)
-  * [99 Haskell Problems より、[11..20]](http://qiita.com/bra_cat_ket/items/e06434454f25e833e7f6)
-  * [99 Haskell Problems より、[21..28]](http://qiita.com/bra_cat_ket/items/40caf8377a46734bf4a7)
-  * [99 Haskell Problems より、[31] でもその前に](http://qiita.com/bra_cat_ket/items/6a99a9b01682886607d0)
-  * [99 Haskell Problems より、[31..41]](http://qiita.com/bra_cat_ket/items/b5baf5e162f64b68f48a)
-  * [99 Haskell Problems より、[46..50]](http://qiita.com/bra_cat_ket/items/c0cd765348af7de8cf4e)
   * [bramgg/99haskell](https://github.com/bramgg/99haskell)
+  * <details><summary>解答</summary>
+    * [99 Haskell Problems より、[1..10]](http://qiita.com/bra_cat_ket/items/211073bb1ce3b3176da9)
+    * [99 Haskell Problems より、[11..20]](http://qiita.com/bra_cat_ket/items/e06434454f25e833e7f6)
+    * [99 Haskell Problems より、[21..28]](http://qiita.com/bra_cat_ket/items/40caf8377a46734bf4a7)
+    * [99 Haskell Problems より、[31] でもその前に](http://qiita.com/bra_cat_ket/items/6a99a9b01682886607d0)
+    * [99 Haskell Problems より、[31..41]](http://qiita.com/bra_cat_ket/items/b5baf5e162f64b68f48a)
+    * [99 Haskell Problems より、[46..50]](http://qiita.com/bra_cat_ket/items/c0cd765348af7de8cf4e)
+    </details>
 * [CodinGame](https://www.codingame.com/) - プログラミングでゲームを攻略していく。Haskellにも対応している
 * [Project Euler](https://projecteuler.net/) - 数学とプログラミングを駆使しないと解けない問題が豊富。
 
