@@ -52,6 +52,7 @@
 * [CodinGame](https://www.codingame.com/)
 * [Asset management in a real time 3D engine in Haskell](http://phaazon.blogspot.fr/2015/06/asset-management-in-real-time-3d-engine.html)
 * [badamson/2048.hs](https://github.com/badamson/2048.hs)
+* [Applied Traversals and isos: a 2048 clone](http://www.nmattia.com/posts/2016-08-19-lens-linear-2048.html)
 * [elisehuard/game-in-haskell](https://github.com/elisehuard/game-in-haskell)
 * [Haskellプログラミング講座（上級編：ゲーム）](http://bitterharvest.hatenablog.com/entry/2014/10/22/064526)
 * [hauxir/haskell-tetris](https://github.com/hauxir/haskell-tetris)
