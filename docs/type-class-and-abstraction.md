@@ -55,6 +55,7 @@ instance Show Bool where
 * [Why I prefer typeclass-based libraries](http://www.yesodweb.com/blog/2016/03/why-i-prefer-typeclass-based-libraries)
 * [Typeclasses and Run-Time Dependency Management](https://turingjump.com/posts/smerdyakov.html)
 * [phadej/poly-nfdata.hs](https://gist.github.com/phadej/2fc066c00e33b9486e1a3e5f7767a8d7)
+* [Type Classes and Constraints](https://gist.github.com/Icelandjack/5afdaa32f41adf3204ef9025d9da2a70)
 
 ## 代数的な型クラス
 ### Semigroup
