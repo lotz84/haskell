@@ -174,6 +174,7 @@ Web Server
 * [Web/Comparison of Happstack, Snap and Yesod](https://wiki.haskell.org/Web/Comparison_of_Happstack,_Snap_and_Yesod)
 * [サーバサイドの並行プログラミング〜かんたんマルチスレッドプログラミング〜](http://www.slideshare.net/greetech/gree-techtalk5serverside)
 * [Bitrot-free Scripts](https://www.fpcomplete.com/blog/2016/08/bitrot-free-scripts)
+* [Trying to make building webapps easier in Haskell](https://medium.com/@saurabhnanda/trying-to-make-building-webapps-easier-in-haskell-46130553ed1a#.702yw566i)
 
 ### WAI/Warp
 * [Haskell版フォルダを指定してhttpで公開する簡易Webサーバー](http://qiita.com/saturday06/items/fad44a9bc49b2f387bde)
@@ -317,6 +318,7 @@ Web Application Framework
 * [servant-persistent updated](http://www.parsonsmatt.org/2016/07/08/servant-persistent_updated.html)
 * [Auto-generate service API endpoints from records](http://www.haskellforall.com/2016/07/auto-generate-service-api-endpoints.html)
 * [Haskell Servant 入門 (Strongly Typing)](http://qiita.com/algas/items/343f138b9eef25168155)
+* [[ANN] servant-aeson-specs](https://www.reddit.com/r/haskell/comments/4yk421/ann_servantaesonspecs/)
 
 ### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
