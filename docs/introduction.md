@@ -99,6 +99,7 @@ $ alias ghci='stack ghci --'
 * [Haskell Data Analysis Cookbook](http://haskelldata.com/)
 * [CS240h lecture notes](http://www.scs.stanford.edu/11au-cs240h/notes/)
 * [Using JavaScript to Learn Haskell](https://medium.com/@sjsyrek/using-javascript-to-learn-haskell-f57509015842#.qb5lc4gx8)
+* [Pitfalls in Haskell](http://users.jyu.fi/~sapekiis/haskell-pitfalls/) - Haskellに潜む罠
 </details>
 
 ## Examples
