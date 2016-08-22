@@ -107,3 +107,4 @@ parse = evalStateT
 * [JSON Autotype 1.0 - Haskell SG](https://www.youtube.com/watch?v=8D2-m2ikydc)
 * [HaskellでのJSONパースがこんなに簡単だったとは](http://qiita.com/lotz/items/6305f8460db3419c22e3)
 * [24 days of Hackage, 2015: day 12: json-autotype: inferring types from data](http://conscientiousprogrammer.com/blog/2015/12/12/24-days-of-hackage-2015-day-12-json-autotype-inferring-types-from-data/)
+* [03 Parsing JSON and catching exceptions](https://github.com/mitchellwrosen/slacky/wiki/03-Parsing-JSON-and-catching-exceptions)
