@@ -35,8 +35,6 @@
     8.  [機械学習](docs/machine-learning.md)
     9.  [量子コンピュータ](docs/quantum-computing.md)
     10. [ファイナンス](docs/finance.md)
-    11. [機械学習](https://github.com/lotz84/machine-learning)
-
 
 ##Related works
 * [State of the Haskell ecosystem - August 2015](http://www.haskellforall.com/2015/08/state-of-haskell-ecosystem-august-2015.html)
