@@ -75,6 +75,7 @@
 * [Stack を使って Haskell をインストールする](http://qiita.com/usamik26/items/fa7c1f14c5ce2a0bd9fc)
 * [Why did Stack stop using Shake?](http://neilmitchell.blogspot.jp/2016/07/why-did-stack-stop-using-shake.html)
 * [Stackでextra-depsを自動設定する方法の比較](http://qiita.com/watertight/items/0e09abe3fb9352502ccf)
+* [Stack を使って Haskell したい！！](http://qiita.com/waddlaw/items/49874f4cf9b680e4b015)
 
 ## NixOS
 * [Nix ±Cabal](http://begriffs.com/posts/2015-08-07-nix-plus-minus-cabal.html)
