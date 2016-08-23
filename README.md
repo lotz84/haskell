@@ -32,9 +32,10 @@
     5.  [セキュリティ](docs/security.md)
     6.  [Graphics/Game](docs/graphics.md)
     7.  [IoT/Mobile](docs/mobile.md)
-    8.  [量子コンピュータ](docs/quantum-computing.md)
-    9.  [ファイナンス](docs/finance.md)
-    10. [機械学習](https://github.com/lotz84/machine-learning)
+    8.  [機械学習](docs/machine-learning.md)
+    9.  [量子コンピュータ](docs/quantum-computing.md)
+    10. [ファイナンス](docs/finance.md)
+    11. [機械学習](https://github.com/lotz84/machine-learning)
 
 
 ##Related works
