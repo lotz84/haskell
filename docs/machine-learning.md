@@ -16,7 +16,9 @@
 * [Install IHaskell on Ubuntu 14.04 with Stack](http://remusao.github.io/install-ihaskell-on-ubuntu-1404-with-stack.html)
 
 ## 確率論的プログラミング
-* [Probabilistic Models of Cognition](https://probmods.org/)
+* Church
+  * [Church: a language for generative models](https://cocolab.stanford.edu/papers/GoodmanEtAl2008-UncertaintyInArtificialIntelligence.pdf)
+  * [Probabilistic Models of Cognition](https://probmods.org/)
 * [Learning Probabilistic Programs](http://arxiv.org/abs/1407.2646)
 * [FUNCTIONAL PEARLS: Probabilistic Functional Programming in Haskell](https://web.engr.oregonstate.edu/~erwig/papers/PFP_JFP06.pdf)
 * [A Probabilistic Functional Programming Library for Haskell](https://web.engr.oregonstate.edu/~erwig/pfp/)
