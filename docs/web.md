@@ -402,6 +402,10 @@ Database
 * [PostgREST](https://github.com/lotz84/haskell/blob/master/docs/haskell-made-tools.md#postgrest)
 * [Real World Haskell - Cassandra Part 1 - Connecting to Cassandra](http://codygman.github.io/posts/2016-07-30-real-world-haskell-cassandra-pt-1-connecting.html)
 * [Arnaud Bailly-Life Beyond relational Database, Event sourcing in Haskell](https://vimeo.com/168197756)
+* [24 Days of Hackage: acid-state](https://ocharles.org.uk/blog/posts/2013-12-14-24-days-of-hackage-acid-state.html)
+* [The acid-state package](https://hackage.haskell.org/package/acid-state)
+* [The vault package](http://hackage.haskell.org/package/vault)
+
 
 Simple Clients
 --------------
