@@ -106,6 +106,7 @@
 * [store: a new and efficient binary serialization library](https://www.fpcomplete.com/blog/2016/05/store-package)
 * [weigh: Measuring allocations in Haskell](https://www.fpcomplete.com/blog/2016/05/weigh-package)
 * [The arithmoi package](https://hackage.haskell.org/package/arithmoi)
+* [The Random Access Zipper: Simple, Purely-Functional Sequences](https://arxiv.org/abs/1608.06009)
 
 ###数値
 * [Lazy unary numbers](http://www.edofic.com/posts/2015-05-03-unary-numbers.html)
