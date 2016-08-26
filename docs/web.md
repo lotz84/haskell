@@ -377,6 +377,7 @@ Protocol
 * [Run secure WebSocket clients with Wuss](http://taylor.fausak.me/2015/06/04/run-secure-websocket-clients-with-wuss/)
 * [The wuss package](https://hackage.haskell.org/package/wuss)
 * [A lot of websockets in Haskell](https://blog.wearewizards.io/a-lot-of-websockets-in-haskell)
+* [[ANN] wstunnel: a websocket tunneling tool](https://www.reddit.com/r/haskell/comments/4znmah/ann_wstunnel_a_websocket_tunneling_tool/)
 
 Database
 --------
