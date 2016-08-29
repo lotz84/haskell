@@ -105,4 +105,5 @@ Passed:
 * [Announce: safe-exceptions, for async exception safety](https://www.fpcomplete.com/blog/2016/06/announce-safe-exceptions)
 * [fpco/safe-exceptions](https://github.com/fpco/safe-exceptions)
 * [Haskellの最近の例外ハンドリング](http://syocy.hatenablog.com/entry/2016/07/02/174426)
+* [続・Haskellの最近の例外ハンドリング](http://syocy.hatenablog.com/entry/2016/08/28/175500)
 * [Haskellの例外、今はコレ！ Control.Monad.Catch](http://qiita.com/aiya000/items/6700753df2dfb9ae942e)
