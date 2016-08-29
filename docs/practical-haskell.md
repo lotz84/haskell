@@ -36,6 +36,7 @@
 * [Announcing cabal new-build: Nix-style local builds](http://blog.ezyang.com/2016/05/announcing-cabal-new-build-nix-style-local-builds/)
 * [The cab package](http://hackage.haskell.org/package/cab)
 * [cabalでドキュメントをhackageにアップロードする](http://qiita.com/debug-ito/items/272d798b7787509cc6ae)
+* [haskell.org and the Evil Cabal](http://www.snoyman.com/blog/2016/08/haskell-org-evil-cabal)
 
 ##Stack
 * [The Haskell Tool Stack](http://docs.haskellstack.org/en/stable/README.html)
