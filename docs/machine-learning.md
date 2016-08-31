@@ -46,6 +46,23 @@ instance Monad Dist where
 * [Practical Probabilistic Programming with Monads](http://mlg.eng.cam.ac.uk/pub/pdf/SciGhaGor15.pdf)
 * [A Categorical Basis for Conditional Probability](http://www.cs.ru.nl/B.Jacobs/PAPERS/cat-prob-th.pdf)
 
+## Hakaru
+* [hakaru-dev/hakaru](https://github.com/hakaru-dev/hakaru)
+* [hakaru: A probabilistic programming embedded DSL](https://hackage.haskell.org/package/hakaru)
+* [Hakaru: An embedded probabilistic programming language for Haskell.](http://indiana.edu/~ppaml/)
+
+```hs
+heads = Just (toDyn (Discrete True))
+
+prog :: Measure Double
+prog = do
+   bias <- unconditioned (beta 1 1)
+   replicateM 10 $ conditioned (bern bias)
+   return bias
+
+sample prog (replicate 10 heads)
+```
+
 ## Categorical Probability Theory
 * [Categorical Probability Theory](https://arxiv.org/abs/1406.6030)
 * [Giry monad](https://ncatlab.org/nlab/show/Giry+monad)
