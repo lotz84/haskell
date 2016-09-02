@@ -90,6 +90,7 @@ Scraping
 * [fimad/scalpel](https://github.com/fimad/scalpel)
   * [Haskell で楽しい Web スクレイピング](http://qiita.com/na-o-ys/items/30a4950d5391911493c2)
 * [egonSchiele/HandsomeSoup](https://github.com/egonSchiele/HandsomeSoup)
+* [Nishant9/hScraper](https://github.com/Nishant9/hScraper)
 
 Email
 -----
