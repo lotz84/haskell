@@ -45,6 +45,9 @@ instance Monad Dist where
 * [Bayesian Optimization for Probabilistic Programs](http://www.blackboxworkshop.org/pdf/rainforth2015BOPP.pdf)
 * [Practical Probabilistic Programming with Monads](http://mlg.eng.cam.ac.uk/pub/pdf/SciGhaGor15.pdf)
 * [A Categorical Basis for Conditional Probability](http://www.cs.ru.nl/B.Jacobs/PAPERS/cat-prob-th.pdf)
+* [BAli-Phy](http://www.bali-phy.org/)
+* [Stanで統計モデリングを学ぶ(1): まずはStanの使い方のおさらいから](http://tjo.hatenablog.com/entry/2014/01/27/235048)
+* [Anglican](http://www.robots.ox.ac.uk/~fwood/anglican/)
 
 ## Hakaru
 * [hakaru-dev/hakaru](https://github.com/hakaru-dev/hakaru)
