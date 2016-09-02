@@ -257,6 +257,7 @@ Web Application Framework
 * [Basic HTTP auth with Scotty](https://ro-che.info/articles/2016-04-14-scotty-http-basic-auth)
 * [bendyworks/api-server](https://github.com/bendyworks/api-server)
 * [Running a Scotty web-app in Openshift](http://narenma.net/2016/08/18/scotty-diy-openshift/)
+* [On demand image processing with Haskell](https://www.paramander.com/blog/on-demand-image-processing-with-haskell)
 
 ### Spock
 * [Spock Web Framework](https://www.spock.li/)
