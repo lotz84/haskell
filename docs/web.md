@@ -496,3 +496,4 @@ Others
 * [HaNS](https://hackage.haskell.org/package/hans)
 * TLS/SSL implementation in haskell - [vincenthz/hs-tls](https://github.com/vincenthz/hs-tls)
 * [vincenthz/hs-connection](https://github.com/vincenthz/hs-connection)
+* [fizruk/http-api-data](https://github.com/fizruk/http-api-data)
