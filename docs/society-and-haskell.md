@@ -5,6 +5,7 @@
 * [翻訳：Haskellと過ごした4年間〜ファウンダーの観点から〜](http://qiita.com/fujimura/items/c9c68922673a7801a722)
 * [Haskellと共に4年間を歩んだ起業家の視点](http://postd.cc/haskell-in-a-startup/)
 * [製品開発においてHaskellを使用した経験の振り返り](https://www.infoq.com/jp/news/2016/08/haskell-production-retrospective)
+* [Retrospective: Haskell in Production](https://www.infoq.com/news/2016/08/haskell-production-retrospective)
 
 ##コミュニティ
 * [New York Haskell Users Group](http://www.meetup.com/NY-Haskell/)
