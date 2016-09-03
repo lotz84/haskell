@@ -107,6 +107,7 @@
 * [weigh: Measuring allocations in Haskell](https://www.fpcomplete.com/blog/2016/05/weigh-package)
 * [The arithmoi package](https://hackage.haskell.org/package/arithmoi)
 * [The Random Access Zipper: Simple, Purely-Functional Sequences](https://arxiv.org/abs/1608.06009)
+* [Haskellで直角三角形のタプルをつくる](http://qiita.com/toshikin/items/e54142d828162e16a246)
 
 ###数値
 * [Lazy unary numbers](http://www.edofic.com/posts/2015-05-03-unary-numbers.html)
