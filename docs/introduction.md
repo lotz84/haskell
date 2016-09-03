@@ -171,6 +171,8 @@ main = runSpock 8080 $ spockT id $ do
 * [Project Euler](https://projecteuler.net/) - 数学とプログラミングを駆使しないと解けない問題が豊富。
 
 ##Editor
+* [Which tab width do you prefer for Haskell code?](http://doodle.com/poll/82xf854t9mmuv22h)
+
 ### Vim
 * [begriffs/haskell-vim-now](https://github.com/begriffs/haskell-vim-now?hr=2)
 * [VimでHaskellしよう](http://qiita.com/yukiasai/items/92a2b343b6519b38f402)
