@@ -17,6 +17,7 @@
 * [Install IHaskell on Ubuntu 14.04 with Stack](http://remusao.github.io/install-ihaskell-on-ubuntu-1404-with-stack.html)
 * [プログラミングのための確率統計 in Haskell](http://note.golden-lucky.net/2010/12/1-2-3-4-5-6-16-16-16-16-16-16-246-135.html)
 * [HuwCampbell/grenade](https://github.com/HuwCampbell/grenade)
+* [FRP & RNN](http://imgur.com/a/mWseu)
 
 ## 確率論的プログラミング
 * Church
