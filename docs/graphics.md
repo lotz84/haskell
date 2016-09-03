@@ -105,6 +105,7 @@
 * [OpenGL 3.2 support for luminance!](http://phaazon.blogspot.jp/2015/11/opengl-32-support-for-luminance.html)
 * [Chase-C/Flocking-Simulation](https://github.com/Chase-C/Flocking-Simulation)
 * [Existential quantification and GADT in luminance-0.8](http://phaazon.blogspot.jp/2015/12/existential-quantification-and-gadt-in.html)
+* [luminance designs](http://phaazon.blogspot.jp/2016/08/luminance-designs.html)
 * [I3ck/HGE2D](https://github.com/I3ck/HGE2D)
 * [CIFASIS/ttasm](https://github.com/CIFASIS/ttasm)
 * [Part One - Infrastructure with SDL2](http://zyghost.com/series/odin/part-one-sdl2/)
