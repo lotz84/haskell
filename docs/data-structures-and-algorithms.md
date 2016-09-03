@@ -163,6 +163,7 @@
 ###FFT
 * [Simple FFT in Haskell](https://ro-che.info/articles/2015-12-04-fft)
 * [Testing FFT with R](https://ro-che.info/articles/2015-12-05-testing-fft)
+* [conal/talk-2016-generic-fft](https://github.com/conal/talk-2016-generic-fft)
 
 ###属性文法
 * [なぜ属性文法は重要か](https://sites.google.com/site/paclearner/why_attribute_grammars_matter)
