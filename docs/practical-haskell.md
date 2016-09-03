@@ -79,6 +79,7 @@
 * [Stackでextra-depsを自動設定する方法の比較](http://qiita.com/watertight/items/0e09abe3fb9352502ccf)
 * [Stack を使って Haskell したい！！](http://qiita.com/waddlaw/items/49874f4cf9b680e4b015)
 * [さくっとHaskellの開発環境を整える(Stack)](http://qiita.com/Akira_Kido_N/items/93b9c7d332bbea07c8a2)
+* [yamadapc/stack-gh-pages](https://github.com/yamadapc/stack-gh-pages)
 
 ## NixOS
 * [Nix ±Cabal](http://begriffs.com/posts/2015-08-07-nix-plus-minus-cabal.html)
