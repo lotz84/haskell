@@ -1,4 +1,3 @@
-#モナド交換子
 * [Proper Treatment 正當作法/blog/posts/Monad transformers](http://conway.rutgers.edu/~ccshan/wiki/blog/posts/Monad_transformers/)
 * [Composing Monads Using Coproducts](http://www.informatik.uni-bremen.de/~cxl/papers/icfp02.pdf)
 * [monad-levels](http://hackage.haskell.org/package/monad-levels)
