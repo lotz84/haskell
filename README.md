@@ -13,7 +13,7 @@
     4.  [型クラス](docs/type-class-and-abstraction.md)
     5.  [Functor, Applicative, Monad](docs/functor-applicative-monad.md)
     6.  [パーサー](docs/parser.md)
-    7.  [モナド交換子](docs/monad-transformers.md)
+    7.  [Monad Transformer](docs/monad-transformers.md)
     8.  [継続](docs/continuation.md)
     9.  [EDSL(Free Monad)](docs/embedded-dsl.md)
     10. [Lens](docs/lens.md)
