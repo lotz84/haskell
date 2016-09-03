@@ -19,6 +19,7 @@
 * [HuwCampbell/grenade](https://github.com/HuwCampbell/grenade)
 * [FRP & RNN](http://imgur.com/a/mWseu)
 * [DeepLearning(1): まずは順伝播(上)](http://qiita.com/eijian/items/06b1ba1276d1bfd77b93)
+* [Get a Brain](http://www-cs-students.stanford.edu/~blynn//haskell/brain.html)
 
 ## 確率論的プログラミング
 * Church
