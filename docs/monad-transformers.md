@@ -24,7 +24,6 @@
 * [Monad からの monad transformer](http://mbps.hatenablog.com/entry/2014/12/11/112455)
 * [Wrangling Monad Transformer Stacks](https://www.youtube.com/watch?v=8t8fjkISjus)
 * [Monad transformers](http://taylor.fausak.me/2015/05/14/monad-transformers/)
-* [The mmorph package](https://hackage.haskell.org/package/mmorph)
 * [ContEitherT](https://iteratee.wordpress.com/2015/10/01/conteithert/)
 * [The monads-tf package](http://hackage.haskell.org/package/monads-tf)
 * [モナドとモナド変換子のイメージを描いてみた](http://d.hatena.ne.jp/melpon/20111028/1319782898)
@@ -46,13 +45,19 @@ mtlにはMonad Transformerを新しく定義する度に全ての組み合わせ
 * [Avoiding lift with Monad Transformers](http://stackoverflow.com/questions/9054731/avoiding-lift-with-monad-transformers)
 * [If you’re using lift, you’re doing it wrong (probably)](http://blog.ezyang.com/2013/09/if-youre-using-lift-youre-doing-it-wrong-probably/)
 
-###monad-control
+### monad-control
 * [モナドトランスフォーマーとmonad-control](http://maoe.hatenadiary.jp/entry/20111207/1323185162)
 * [monad-control](https://hackage.haskell.org/package/monad-control)
 * [lifted-base](https://hackage.haskell.org/package/lifted-base)
 
-###ResourceT
+### ResourceT
 * [resource-simple](https://hackage.haskell.org/package/resource-simple)
+
+### モナド準同型
+* [The mmorph package](https://hackage.haskell.org/package/mmorph)
+* [ZuriHac 2016: Monad Homomorphisms](https://www.youtube.com/watch?v=YTaNkWjd-ac)
+* [テンソル積の作り方](http://d.hatena.ne.jp/m-hiyama/20160829/1472445276)
+* [テンソル積の作り方 2： 双加群の場合、小さい圏の場合](http://d.hatena.ne.jp/m-hiyama/20160830/1472527717)
 
 ##Extensible Effects
 * [extensible-effects](https://hackage.haskell.org/package/extensible-effects)
