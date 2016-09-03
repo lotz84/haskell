@@ -88,6 +88,7 @@
 * [Solving GHCs KnownNat constraints](http://qbaylogic.com/blog/2016/08/10/solving-knownnat-constraints-plugin.html)
 * [weigh: Measuring allocations in Haskell](https://www.fpcomplete.com/blog/2016/05/weigh-package)
 * [The motivation and a design for integration of linear types in GHC](https://ghc.haskell.org/trac/ghc/wiki/LinearTypes)
+* [Optional Type Classes for Haskell](http://homepages.dcc.ufmg.br/~camarao/CT/optional-type-classes.pdf)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
