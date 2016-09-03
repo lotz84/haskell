@@ -89,6 +89,7 @@
 * [weigh: Measuring allocations in Haskell](https://www.fpcomplete.com/blog/2016/05/weigh-package)
 * [The motivation and a design for integration of linear types in GHC](https://ghc.haskell.org/trac/ghc/wiki/LinearTypes)
 * [Optional Type Classes for Haskell](http://homepages.dcc.ufmg.br/~camarao/CT/optional-type-classes.pdf)
+* [Backpack and separate compilation](http://blog.ezyang.com/2016/09/backpack-and-separate-compilation/)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
