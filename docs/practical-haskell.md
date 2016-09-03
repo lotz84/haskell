@@ -193,3 +193,4 @@
 * [sdiehl/protolude](https://github.com/sdiehl/protolude)
 * [The Haskell School of Music](http://haskell.cs.yale.edu/wp-content/uploads/2015/03/HSoM.pdf)
 * [Destroy All Ifs — A Perspective from Functional Programming](http://degoes.net/articles/destroy-all-ifs)
+* [Pointless Haskell](http://pointless-haskell.tumblr.com/)
