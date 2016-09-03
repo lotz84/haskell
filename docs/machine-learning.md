@@ -18,6 +18,7 @@
 * [プログラミングのための確率統計 in Haskell](http://note.golden-lucky.net/2010/12/1-2-3-4-5-6-16-16-16-16-16-16-246-135.html)
 * [HuwCampbell/grenade](https://github.com/HuwCampbell/grenade)
 * [FRP & RNN](http://imgur.com/a/mWseu)
+* [DeepLearning(1): まずは順伝播(上)](http://qiita.com/eijian/items/06b1ba1276d1bfd77b93)
 
 ## 確率論的プログラミング
 * Church
