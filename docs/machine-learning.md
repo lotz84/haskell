@@ -42,7 +42,8 @@ instance Monad Dist where
 * [Simplifying Probabilistic Programs Using Computer Algebra](http://www.cs.indiana.edu/ftp/techreports/TR719.pdf)
 * [Abstract Binding Trees in Hakaru](http://winterkoninkje.dreamwidth.org/103978.html)
 * [Encoding Statistical Independence, Statically](http://jtobin.ca/encoding-independence-statically)
-* [Bayesian Optimization for Probabilistic Programs](http://www.blackboxworkshop.org/pdf/rainforth2015BOPP.pdf)
+* Tom Rainforth, Jan-Willem van de Meent, Michael A. Osborne and Frank Wood - [Bayesian Optimization for Probabilistic Programs](http://www.blackboxworkshop.org/pdf/rainforth2015BOPP.pdf)
+  * Michael A. Osborne, Roman Garnett, and Stephen J. Roberts - [Gaussian Processes for Global Optimization](http://www.robots.ox.ac.uk/~parg/pubs/OsborneGarnettRobertsGPGO.pdf)
 
 ### Probabilistic Programming Language
 * Church
