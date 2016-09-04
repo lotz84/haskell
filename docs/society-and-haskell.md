@@ -61,6 +61,7 @@
 
 ### Well-Typed
 * [Well-Typed](http://www.well-typed.com/)
+* [Haskell eXchange, Hackathon, and Courses](http://www.well-typed.com/blog/2016/09/haskell-exchange-hackathon-and-courses/)
 
 ### Galois
 * [Galois](http://galois.com/)
