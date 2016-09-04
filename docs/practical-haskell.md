@@ -196,3 +196,4 @@
 * [The Haskell School of Music](http://haskell.cs.yale.edu/wp-content/uploads/2015/03/HSoM.pdf)
 * [Destroy All Ifs — A Perspective from Functional Programming](http://degoes.net/articles/destroy-all-ifs)
 * [Pointless Haskell](http://pointless-haskell.tumblr.com/)
+* [Overture: A Haskell Prelude](https://medium.com/@pthomson/overture-a-haskell-prelude-bc94a948febf#.q48h1mzes)
