@@ -77,3 +77,7 @@ sample prog (replicate 10 heads)
 * [Giry monad](https://ncatlab.org/nlab/show/Giry+monad)
 * [A CATEGORICAL FOUNDATION FOR BAYESIAN PROBABILITY](https://arxiv.org/pdf/1205.1488.pdf)
 * [A Type Theory for Probabilistic and Bayesian Reasoning](https://arxiv.org/pdf/1511.09230v1.pdf)
+
+----
+
+* [レコメンドアルゴリズム(BPR)の導出から実装まで](http://tech.vasily.jp/entry/2016/07/01/134825)
