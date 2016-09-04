@@ -49,6 +49,7 @@ instance Monad Dist where
   * [Church: a language for generative models](https://cocolab.stanford.edu/papers/GoodmanEtAl2008-UncertaintyInArtificialIntelligence.pdf)
   * [Probabilistic Models of Cognition](https://probmods.org/)
 * [Anglican](http://www.robots.ox.ac.uk/~fwood/anglican/)
+* WebPPL - [The Design and Implementation of Probabilistic Programming Languages](http://dippl.org/)
 * [Stanで統計モデリングを学ぶ(1): まずはStanの使い方のおさらいから](http://tjo.hatenablog.com/entry/2014/01/27/235048)
 * [BAli-Phy](http://www.bali-phy.org/)
 
