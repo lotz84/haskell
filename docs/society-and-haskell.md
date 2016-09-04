@@ -33,6 +33,7 @@
 * [LambdaConf 2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcybh21_zOg8_y4f2oMKDHpUS)
 * [The Haskell Symposium](https://www.haskell.org/haskell-symposium/)
 * [gasche/icfp2016-papers](https://github.com/gasche/icfp2016-papers)
+* [Haskell Day 2016のチュートリアルの準備](http://qiita.com/hiratara/items/7d5456eb5ae239de34a8)
 
 ##Advent Calendar
 * [Haskell Advent Calendar 2015](http://qiita.com/advent-calendar/2015/haskell)
