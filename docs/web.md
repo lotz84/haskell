@@ -381,6 +381,7 @@ Protocol
 * [The wuss package](https://hackage.haskell.org/package/wuss)
 * [A lot of websockets in Haskell](https://blog.wearewizards.io/a-lot-of-websockets-in-haskell)
 * [[ANN] wstunnel: a websocket tunneling tool](https://www.reddit.com/r/haskell/comments/4znmah/ann_wstunnel_a_websocket_tunneling_tool/)
+* [The Hashrocket websocket shootout in Haskell](http://bitemyapp.com/posts/2016-09-03-websocket-shootout-haskell.html)
 
 Database
 --------
