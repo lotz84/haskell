@@ -88,6 +88,7 @@ sample prog (replicate 10 heads)
 * [dnngraph](http://ajtulloch.github.io/dnngraph/) - A DSL for deep neural networks, supporting Caffe and Torch
 * [DeepLearning(1): まずは順伝播(上)](http://qiita.com/eijian/items/06b1ba1276d1bfd77b93)
 * [FRP & RNN](http://imgur.com/a/mWseu)
+* [autumnai/leaf](https://github.com/autumnai/leaf)
 
 ### Neural Network
 * [jbarrow/LambdaNet](https://github.com/jbarrow/LambdaNet)
