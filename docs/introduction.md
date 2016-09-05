@@ -170,7 +170,12 @@ main = runSpock 8080 $ spockT id $ do
 * [CodinGame](https://www.codingame.com/) - プログラミングでゲームを攻略していく。Haskellにも対応している
 * [Project Euler](https://projecteuler.net/) - 数学とプログラミングを駆使しないと解けない問題が豊富。
 
-##Editor
+## Formatter
+* [lspitzner/brittany](https://github.com/lspitzner/brittany)
+* [tibbe/haskell-style-guide](https://github.com/tibbe/haskell-style-guide/blob/master/haskell-style.md)
+* [インデントで悩まないための単純な指針](http://d.hatena.ne.jp/mkotha/20111226/1324909427)
+
+## Editor
 * [Which tab width do you prefer for Haskell code?](http://doodle.com/poll/82xf854t9mmuv22h)
 
 ### Vim
