@@ -80,7 +80,7 @@ sample prog (replicate 10 heads)
 * [Categorical Probability Theory](https://arxiv.org/abs/1406.6030)
 * [Giry monad](https://ncatlab.org/nlab/show/Giry+monad)
 * [A CATEGORICAL FOUNDATION FOR BAYESIAN PROBABILITY](https://arxiv.org/pdf/1205.1488.pdf)
-* [A Type Theory for Probabilistic and Bayesian Reasoning](https://arxiv.org/pdf/1511.09230v1.pdf)
+* [A Type Theory for Probabilistic and Bayesian Reasoning](https://arxiv.org/abs/1511.09230)
 * [A Categorical Basis for Conditional Probability](http://www.cs.ru.nl/B.Jacobs/PAPERS/cat-prob-th.pdf)
 
 ## Deep Learning
