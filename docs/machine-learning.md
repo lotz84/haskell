@@ -18,6 +18,7 @@
 * [プログラミングのための確率統計 in Haskell](http://note.golden-lucky.net/2010/12/1-2-3-4-5-6-16-16-16-16-16-16-246-135.html)
 * [HuwCampbell/grenade](https://github.com/HuwCampbell/grenade)
 * [Get a Brain](http://www-cs-students.stanford.edu/~blynn//haskell/brain.html)
+* [Kernel Bayes’ Rule](http://www.cc.gatech.edu/~lsong/papers/FukSonGre11.pdf)
 
 ## 確率論的プログラミング
 ```hs
@@ -71,6 +72,36 @@ prog = do
 
 sample prog (replicate 10 heads)
 ```
+
+### 量子論理
+* [quantum logic](https://ncatlab.org/nlab/show/quantum+logic)
+* [量子集合論と量子力学の解釈問題](http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1525-6.pdf)
+* [量子論理は論理か](https://www.jstage.jst.go.jp/article/jpssj1968/14/0/14_0_21/_pdf)
+* [古典論理・量子論理・実在 Ⅰ](http://repository.ris.ac.jp/dspace/bitstream/11266/4838/1/KJ00005613226.pdf)
+* [論理の中の量子](http://pssj.info/program/program_data/40/ws/watanabe.pdf)
+* [量子論理に基づくHilbert空間形式の量子力学の再構成とその応用](http://bayes.sigmath.es.osaka-u.ac.jp/ftanaka/workshop/r14s/koga.pdf)
+* [論理・集合・実数・物理・測定 : 量子集合論と量子力学の観測問題 (非可換解析とミクロ・マクロ双対性)](http://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/140895/1/1658-22.pdf)
+
+### Effectus Theory
+* [An Introduction to Effectus Theory](https://arxiv.org/abs/1512.05813)
+* [Effectus Theory, and Beyond](http://www.cs.ru.nl/B.Jacobs/TALKS/effectus.pdf)
+* [Total and Partial Computation in Categorical Quantum Foundations](https://arxiv.org/pdf/1511.01569.pdf)
+* [Quotient–Comprehension Chains](http://arxiv.org/pdf/1511.01570.pdf)
+* [NEW DIRECTIONS IN CATEGORICAL LOGIC, FOR CLASSICAL, PROBABILISTIC AND QUANTUM LOGIC](https://arxiv.org/pdf/1205.3940.pdf)
+* [States of Convex Sets](http://www.cs.ru.nl/B.Jacobs/PAPERS/convex-states.pdf)
+
+### Linear type theory
+* [linear type theory](https://ncatlab.org/nlab/show/linear+type+theory)
+
+> 線形型システムとは、プログラム実行中に作られた値が何度使われうるかによって型を区別するような型システムです
+
+出典: [課題４](http://web.yl.is.s.u-tokyo.ac.jp/kobalab/kadai99/kadai4.html)
+
+* [線形論理って何？](http://web.yl.is.s.u-tokyo.ac.jp/kobalab/kadai99/linear-logic.html)
+* [線形論理入門 ∼ What’s the USE? ∼](http://www.kurims.kyoto-u.ac.jp/~terui/summer1.pdf)
+* [線形論理の誕生](http://www.kurims.kyoto-u.ac.jp/~terui/birth.pdf)
+* [15-816 Linear Logic](http://www.cs.cmu.edu/~./fp/courses/15816-f01/index.html)
+* [Linear resources in Haskell](http://axman6.com/posts/2016-07-10-Linear-resources-in-haskell.html)
 
 ### Stochastic Lambda Calculus
 * [Scott's stochastic lambda calculi](http://cstheory.stackexchange.com/questions/25998/scotts-stochastic-lambda-calculi)
