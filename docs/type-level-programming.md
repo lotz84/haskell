@@ -54,7 +54,6 @@
 * [Practical Dependent Types in Haskell 2: Existential Neural Networks and Types at Runtime](https://blog.jle.im/entry/practical-dependent-types-in-haskell-2.html)
 * [Indexed Codata Types](http://www.cs.mcgill.ca/~bpientka/papers/indexed_codata.pdf)
 * [Church’s Thesis and Functional Programming](https://www.cs.kent.ac.uk/people/staff/dat/miranda/ctfp.pdf)
-* [Linear resources in Haskell](http://axman6.com/posts/2016-07-10-Linear-resources-in-haskell.html)
 * [The reflection package](https://hackage.haskell.org/package/reflection)
 * [Data.Reflection](http://qiita.com/hiratara/items/c5e32d5695c4e0682cf9)
 * [sheyll/pretty-types](https://github.com/sheyll/pretty-types)
@@ -318,17 +317,6 @@ instance Eval' Hole where
 * [Some reasons to teach lattice theory to undergraduates](https://theorylunch.wordpress.com/2013/03/14/some-reasons-to-teach-lattice-theory-to-undergraduates/)
 * [代数的視点からの論理へのアプローチ](http://www.jaist.ac.jp/~mizuhito/ppl_ss07/OHP/msj07.pdf)
 * [東京大学数理科学研究科「数学基礎論・数理科学続論D」の講義資料](http://researchmap.jp/mur789p4c-121/)
-
-###線形論理
-
-> 線形型システムとは、プログラム実行中に作られた値が何度使われうるかによって型を区別するような型システムです
-
-出典: [課題４](http://web.yl.is.s.u-tokyo.ac.jp/kobalab/kadai99/kadai4.html)
-
-* [線形論理って何？](http://web.yl.is.s.u-tokyo.ac.jp/kobalab/kadai99/linear-logic.html)
-* [線形論理入門 ∼ What’s the USE? ∼](http://www.kurims.kyoto-u.ac.jp/~terui/summer1.pdf)
-* [線形論理の誕生](http://www.kurims.kyoto-u.ac.jp/~terui/birth.pdf)
-* [15-816 Linear Logic](http://www.cs.cmu.edu/~./fp/courses/15816-f01/index.html)
 
 ##型理論
 * [型システム入門 −プログラミング言語と型の理論](http://www.amazon.co.jp/dp/4274069117)
