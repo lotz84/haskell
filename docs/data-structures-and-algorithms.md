@@ -140,6 +140,7 @@
 * [Why is the F# version of this program 6x faster than the Haskell one?](http://stackoverflow.com/questions/37526740/why-is-the-f-version-of-this-program-6x-faster-than-the-haskell-one)
 * [A Sticky Stringy Quandary](http://www.stephendiehl.com/posts/strings.html)
 * [chrisdone/path](https://github.com/chrisdone/path)
+* [Haskellで文字列っぽい型同士を結合する演算子が欲しい。その１(未解決)](http://qiita.com/saturday06/items/01d6ee082ca4cbbe0fd7)
 
 ###配列
 * [The vector package](https://hackage.haskell.org/package/vector)
@@ -209,6 +210,7 @@ p = Circle {center = (1.0, 2.0), radius = 3.0}
 ##動的型付けのエミュレート
 * [Data.Dynamic](https://hackage.haskell.org/package/base/docs/Data-Dynamic.html)
 * [Dynamic Typing in GHC](https://www.youtube.com/watch?v=asdABzBUoGM)
+* [Typed reflection in Haskell](https://www.microsoft.com/en-us/research/publication/typed-reflection-in-haskell/)
 
 ```haskell
 import Data.Dynamic
