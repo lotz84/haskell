@@ -45,6 +45,7 @@
 * [Bitcoinウォレットを実装する](http://bitcoin.peryaudo.org/implement.html)
 * [Bitcoin@Wiki - 手数料](http://www58.atwiki.jp/coinwiki/pages/27.html)
 * [Bitcoinを技術的に理解する](http://www.slideshare.net/kenjiurushima/20140602-bitcoin1-201406031222)
+* [bitcoin-payment-channel: Library for working with Bitcoin payment channels](https://hackage.haskell.org/package/bitcoin-payment-channel)
 
 ## Ethereum
 > Blockchain上に任意のスクリプトとその実行結果を保存する
