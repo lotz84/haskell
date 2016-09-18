@@ -1,4 +1,5 @@
 * [DataHaskell](https://datahaskell.github.io/)
+* [DataHaskell's knowledge base](http://wiki.datahaskell.org/index.php/Main_Page)
 * [mikeizbicki/HLearn](https://github.com/mikeizbicki/HLearn/)
   * [Haskellの機械学習ライブラリHLearn](http://qiita.com/nebutalab/items/680203ff3d84cde7c8db)
 * [random-fu](https://hackage.haskell.org/package/random-fu)
