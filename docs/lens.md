@@ -30,6 +30,8 @@
 * [Lenses from the ground up](http://taylor.fausak.me/2014/08/03/lenses-from-the-ground-up/)
 * [Explicit is better than implicit](http://www.haskellforall.com/2015/10/explicit-is-better-than-implicit.html)
 * [The lens-simple package](http://hackage.haskell.org/package/lens-simple)
+* [Profunctor Polymorphism](https://bartoszmilewski.com/2016/08/16/profunctor-polymorphism/)
+* [Lenses: Yoneda with Adjunctions](https://bartoszmilewski.com/2016/09/06/lenses-yoneda-with-adjunctions/)
 
 > Thus the Yoneda embedding of the functor category leads to the van Laarhoven representation of the lens
 
