@@ -197,3 +197,4 @@
 * [Destroy All Ifs — A Perspective from Functional Programming](http://degoes.net/articles/destroy-all-ifs)
 * [Pointless Haskell](http://pointless-haskell.tumblr.com/)
 * [Overture: A Haskell Prelude](https://medium.com/@pthomson/overture-a-haskell-prelude-bc94a948febf#.q48h1mzes)
+* [シェル芸とHaskellの対応を考える](https://blog.ueda.asia/?p=2644)
