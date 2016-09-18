@@ -57,6 +57,8 @@
 * [The reflection package](https://hackage.haskell.org/package/reflection)
 * [Data.Reflection](http://qiita.com/hiratara/items/c5e32d5695c4e0682cf9)
 * [sheyll/pretty-types](https://github.com/sheyll/pretty-types)
+* [This post shows how to use the Liar paradox to prove that that Haskell is inconsistent without using recursive terms.](http://cs.unm.edu/~stelleg/liar.html)
+* [たのしい型レベルプログラミング](http://philopon.github.io/kansaifp-3-3/#/1)
 
 ```haskell
 data Bottom
@@ -443,6 +445,7 @@ instance Eval' Hole where
 * [Unified Interpreters For Dependent Languages](http://gallabytes.com/2015/10/Unified-Interpreters-For-Dependent-Languages.html)
 * [Guarded Dependent Type Theory with Coinductive Types](http://arxiv.org/abs/1601.01586)
 * [Type Soundness for Path Polymorphism](http://arxiv.org/abs/1601.03271)
+* [Dependent Type in Haskell: Theory And Practice](https://github.com/goldfirere/thesis/blob/master/built/thesis.pdf)
 
 ##Homotopy Theory
 * Allen Hatcher - [Algebraic Topology](http://www.math.cornell.edu/~hatcher/AT/AT.pdf)
