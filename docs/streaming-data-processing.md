@@ -34,6 +34,7 @@ main = do
 ###io-streams
 * [io-streams](http://hackage.haskell.org/package/io-streams)
 * [io-streams - yunomuのブログ](http://yunomu.hatenablog.jp/entry/2013/09/22/160859)
+* [Stackでhttp-streamsのインストールに失敗したときの回避方法](http://qiita.com/kuy/items/f106c75a246a62503572)
 
 ###Pipes
 * [Pipes.Tutorial](https://hackage.haskell.org/package/pipes/docs/Pipes-Tutorial.html)
