@@ -80,6 +80,7 @@ uncurry :: (a -> b -> c) -> (a, b) -> c
 * [Haskellのフクロウ ((.)$(.))](http://uid0130.blogspot.jp/2014/11/haskell_17.html)
 * [Blunt](https://blunt.herokuapp.com/)
   * [pointfree](https://hackage.haskell.org/package/pointfree)
+* ["Point-Free or Die: Tacit Programming in Haskell and Beyond" by Amar Shah](https://www.youtube.com/watch?v=seVSlKazsNk)
 
 ###遅延評価
 * [Schrödinger's cat](https://ro-che.info/ccc/4)
