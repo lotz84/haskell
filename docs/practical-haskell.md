@@ -81,6 +81,7 @@
 * [さくっとHaskellの開発環境を整える(Stack)](http://qiita.com/Akira_Kido_N/items/93b9c7d332bbea07c8a2)
 * [yamadapc/stack-gh-pages](https://github.com/yamadapc/stack-gh-pages)
 * [stackとdockerでHaskellプログラムを静的リンクする](http://www.ishiy.xyz/posts/2016-02-28-haskell-docker.html)
+* [Stack (Haskell): `stack new`で自動的に生成されるLICENSEはBSDライセンスである](http://qiita.com/sky_y/items/c382020c690d15efc28f)
 
 ## NixOS
 * [Nix ±Cabal](http://begriffs.com/posts/2015-08-07-nix-plus-minus-cabal.html)
