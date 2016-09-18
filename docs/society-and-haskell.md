@@ -2,10 +2,9 @@
 * [Haskellプロダクトのススメ](https://www.mma.club.uec.ac.jp/~mizunashi_mana/slides/slides/lighttechtalk-1/)
 * [エンジニアとしてやっていくために必要だったものは「音楽」が教えてくれました －Proper 藤村大介氏](http://press.forkwell.com/post/142270577639/interview-ffu)
 * [Haskell gets a job helping everyone get a job!](https://cdn.rawgit.com/screamish/haskell-gets-a-job/master/Haskell-gets-a-job.pdf)
-* [翻訳：Haskellと過ごした4年間〜ファウンダーの観点から〜](http://qiita.com/fujimura/items/c9c68922673a7801a722)
-* [Haskellと共に4年間を歩んだ起業家の視点](http://postd.cc/haskell-in-a-startup/)
-* [製品開発においてHaskellを使用した経験の振り返り](https://www.infoq.com/jp/news/2016/08/haskell-production-retrospective)
-* [Retrospective: Haskell in Production](https://www.infoq.com/news/2016/08/haskell-production-retrospective)
+* [翻訳：Haskellと過ごした4年間〜ファウンダーの観点から〜](http://qiita.com/fujimura/items/c9c68922673a7801a722)[[別訳](http://postd.cc/haskell-in-a-startup/)]
+  * [製品開発においてHaskellを使用した経験の振り返り](https://www.infoq.com/jp/news/2016/08/haskell-production-retrospective)
+* [Haskell in Production with Carl Baatz](http://softwareengineeringdaily.com/2016/08/31/haskell-in-production-with-carl-baatz/)
 
 ##コミュニティ
 * [New York Haskell Users Group](http://www.meetup.com/NY-Haskell/)
