@@ -152,6 +152,7 @@
 * [Open Data Types and Open Functions](https://www.cs.ox.ac.uk/people/ralf.hinze/publications/PPDP06.pdf)
 * [leventov/yarr](https://github.com/leventov/yarr)
 * [Haskell, Vectors, and Implicit Knowledge](http://betsyhaibel.com/blog/2016-04-29-haskell-vectors-and-implicit-knowledge/)
+* [fhaust/vector-split](https://github.com/fhaust/vector-split)
 
 ###Graph
 * [FP Graph Algorithms](http://begriffs.com/posts/2015-09-04-pure-functional-graphs.html)
