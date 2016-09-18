@@ -183,6 +183,7 @@ main = runSpock 8080 $ spockT id $ do
 
 ## Editor
 * [Which tab width do you prefer for Haskell code?](http://doodle.com/poll/82xf854t9mmuv22h)
+* [Explicit vertical alignment in Haskell](http://www.joachim-breitner.de/blog/704-Explicit_vertical_alignment_in_Haskell)
 
 ### Vim
 * [begriffs/haskell-vim-now](https://github.com/begriffs/haskell-vim-now?hr=2)
