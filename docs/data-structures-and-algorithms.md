@@ -141,6 +141,8 @@
 * [A Sticky Stringy Quandary](http://www.stephendiehl.com/posts/strings.html)
 * [chrisdone/path](https://github.com/chrisdone/path)
 * [Haskellで文字列っぽい型同士を結合する演算子が欲しい。その１(未解決)](http://qiita.com/saturday06/items/01d6ee082ca4cbbe0fd7)
+* [Haskellで文字列っぽい型同士を結合する演算子が欲しい。その2(動作するところまでは行った)](http://qiita.com/saturday06/items/310721929cacf83fa648)
+* [Haskellで文字列っぽい型同士を結合する演算子が欲しい。その3(動作するが改善の余地結構有り)](http://qiita.com/saturday06/items/72c98df4e3d1481962b1)
 
 ###配列
 * [The vector package](https://hackage.haskell.org/package/vector)
