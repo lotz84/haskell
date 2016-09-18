@@ -21,6 +21,7 @@
 * [Get a Brain](http://www-cs-students.stanford.edu/~blynn//haskell/brain.html)
 * [Kernel Bayes’ Rule](http://www.cc.gatech.edu/~lsong/papers/FukSonGre11.pdf)
 * ["Haskell's stochastic gradient descent implementations comparison.](https://github.com/argent0/haskell-ml-benchmark/blob/master/result/main.md)
+* [Example: The K-Means Problem](http://chimera.labs.oreilly.com/books/1230000000929/ch03.html#sec_using-parlist)
 
 ## 確率論的プログラミング
 ```hs
