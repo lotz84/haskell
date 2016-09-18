@@ -1,0 +1,25 @@
+name:                haskell
+version:             0.1.0.0
+description:         Please see README.md
+homepage:            https://github.com/lotz84/haskell#readme
+license:             BSD3
+author:              Tatsuya Hirose
+maintainer:          tatsuya.hirose.0804@gmail.com
+copyright:           2016 Tatsuya Hirose
+build-type:          Simple
+cabal-version:       >=1.10
+
+executable maintenance
+  hs-source-dirs:      maintenance
+  main-is:             Main.hs
+  ghc-options:         -threaded -rtsopts -with-rtsopts=-N
+  build-depends:       base
+                     , directory
+                     , text
+                     , multiset
+                     , cmark
+  default-language:    Haskell2010
+
+source-repository head
+  type:     git
+  location: https://github.com/lotz84/haskell
