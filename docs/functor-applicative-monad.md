@@ -343,6 +343,9 @@ Reader + Writer + State
 * [コンピュータ科学や組み合わせ論を“微分幾何”とみなす：CADGの夢](http://d.hatena.ne.jp/m-hiyama/20160805/1470358519)
 * [New Haskell Symposium paper on “twisted functors”](https://byorgey.wordpress.com/2016/08/04/new-haskell-symposium-paper-on-twisted-functors/)
 * [Category Theory 1.1](https://www.youtube.com/watch?v=I8LbkfSSR58)
+* [一般化されたマイヒル／ネロードの定理 1：準備と事例](http://d.hatena.ne.jp/m-hiyama/20160908/1473309156)
+* [一般化されたマイヒル／ネロードの定理 2：文化的なギャップを乗り越えるための対訳表](http://d.hatena.ne.jp/m-hiyama/20160909/1473385326)
+* [一般化されたマイヒル／ネロードの定理 3：オートマトンの振る舞いと観測](http://d.hatena.ne.jp/m-hiyama/20160915/1473911123)
 
 ###CPL
 * [圏論プログラミング言語 CPL](http://mandel59.hateblo.jp/entry/2015/02/02/110621)
