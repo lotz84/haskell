@@ -82,6 +82,7 @@
 * [yamadapc/stack-gh-pages](https://github.com/yamadapc/stack-gh-pages)
 * [stackとdockerでHaskellプログラムを静的リンクする](http://www.ishiy.xyz/posts/2016-02-28-haskell-docker.html)
 * [Stack (Haskell): `stack new`で自動的に生成されるLICENSEはBSDライセンスである](http://qiita.com/sky_y/items/c382020c690d15efc28f)
+* [Stackage LTS 7 is released](http://juhp.blogspot.jp/2016/09/stackage-lts-7-is-released.html?m=1)
 
 ## NixOS
 * [Nix ±Cabal](http://begriffs.com/posts/2015-08-07-nix-plus-minus-cabal.html)
