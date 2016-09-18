@@ -37,6 +37,8 @@ $ alias ghci='stack ghci --'
   * [4.再帰](http://qiita.com/YusukeHosonuma/items/c22171dae82430aa9504)
 * [参照透過性とは何だったのか](http://www.slideshare.net/RuiccRail/haskell-day2012)
 * [Rubyistに贈るHaskell入門](http://qiita.com/techno-tanoC/items/1549d0efc044faf16c36)
+* ["Rubyistに贈るHaskell入門"がちょっと微妙だったので補足記事その1](http://qiita.com/nobkz/items/1ed1600bb2f0268070b3)
+* [「Rubyistに贈るHaskell入門」 again](http://qiita.com/geshi/items/5450343f93c9dbaec2b8)
 * [Haskell チュートリアル (Haskell Day 2016)](http://qiita.com/hiratara/items/169b5cb83b0adbfda764)([準備](http://qiita.com/hiratara/items/7d5456eb5ae239de34a8))
 * [お気楽 Haskell プログラミング入門](http://www.geocities.jp/m_hiroi/func/haskell.html)
 * [安定結婚問題を解きながらHaskellプログラミングを紹介しつつ恋愛について学ぶ](http://qiita.com/cutsea110/items/27d9f6db834b70e52dd9)
