@@ -321,6 +321,9 @@ Web Application Framework
 * [Auto-generate service API endpoints from records](http://www.haskellforall.com/2016/07/auto-generate-service-api-endpoints.html)
 * [Haskell Servant 入門 (Strongly Typing)](http://qiita.com/algas/items/343f138b9eef25168155)
 * [[ANN] servant-aeson-specs](https://www.reddit.com/r/haskell/comments/4yk421/ann_servantaesonspecs/)
+* [servantはじめの一歩 - API,Model編](http://www.ishiy.xyz/posts/2016-01-11-haskell-servant.html)
+* [servantはじめの一歩 - サーバー編](http://www.ishiy.xyz/posts/2016-01-12-haskell-servant.html)
+* [servantはじめの一歩 - CLIクライアント編](http://www.ishiy.xyz/posts/2016-01-13-haskell-servant.html)
 
 ### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
@@ -443,6 +446,7 @@ HDBC
 * [The HDBC-odbc package](https://hackage.haskell.org/package/HDBC-odbc)
 * [The hdbc-aeson package](https://hackage.haskell.org/package/hdbc-aeson)
 * [The presto-hdbc package](https://hackage.haskell.org/package/presto-hdbc)
+* [Concurrent HDBC with resource-pool](https://gist.github.com/paul-r-ml/1430734/0cc2bf4b6a5397dd97b5a97eac10ddcf2b6224ad)
 
 SQL DSL
 -----------
