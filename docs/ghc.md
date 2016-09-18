@@ -91,6 +91,7 @@
 * [Optional Type Classes for Haskell](http://homepages.dcc.ufmg.br/~camarao/CT/optional-type-classes.pdf)
 * [Backpack and separate compilation](http://blog.ezyang.com/2016/09/backpack-and-separate-compilation/)
 * [Into the Core - Squeezing Haskell into Nine Constructors by Simon Peyton Jones](https://www.youtube.com/watch?v=uR_VzYxvbxg)
+* [{-# OPTIONS_GHC -fno-warn-orphans #-}](http://functor.tokyo/blog/2016-09-16-options-ghc-fno-warn-orphans)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
