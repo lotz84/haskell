@@ -204,6 +204,7 @@ p = Circle {center = (1.0, 2.0), radius = 3.0}
 * [sebastiaanvisser/fclabels](https://github.com/sebastiaanvisser/fclabels)
 * [Frames Tutorial](http://acowley.github.io/Frames/)
 * [rawr: Anonymous extensible records](https://hackage.haskell.org/package/rawr)
+* [Bookkeeper](https://turingjump.com/blog/bookkeeper/)
 
 ###Vinyl
 * [vinyl](https://hackage.haskell.org/package/vinyl)
