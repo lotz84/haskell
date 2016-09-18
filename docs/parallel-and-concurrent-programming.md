@@ -58,6 +58,7 @@
 * [Skynet 1M threads microbenchmark](https://github.com/atemerev/skynet)
 * [Singular Persistent Homology with Effective Concurrent Computation](https://arxiv.org/pdf/1607.01257v1.pdf)
 * [CONCURRENT HASKELL IN THE REAL WORLD](https://www.stackbuilders.com/news/concurrent-haskell-in-the-real-world)
+* [Abstracting Async.Concurrently](http://elvishjerricco.github.io/2016/09/17/abstracting-async-concurrently.html)
 
 ###MVar
 * [Control.Concurrent.MVar](https://hackage.haskell.org/package/base/docs/Control-Concurrent-MVar.html)
