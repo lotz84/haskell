@@ -18,6 +18,7 @@ $ alias ghci='stack ghci --'
 * [Metaチュートリアル](https://wiki.haskell.org/Meta%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB)
 * [なぜ関数プログラミングは重要か](http://www.sampou.org/haskell/article/whyfp.html)
 * [Javaスクールの危険](http://local.joelonsoftware.com/wiki/Java%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%81%AE%E5%8D%B1%E9%99%BA)
+* [なぜHaskellを学ぶと良いか](http://qiita.com/arowM/items/0305d4f439752f285438)
 
 > 関数プログラミングを習得するには，これまで命令プログラミングで培った技術はいったん忘れ，真っ白な気持ちで臨む必要があります。関数型の山を登るためには，命令型の山を降りなければなりません。
 
