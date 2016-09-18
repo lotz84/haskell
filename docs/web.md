@@ -264,6 +264,7 @@ Web Application Framework
 * [Spock Web Framework](https://www.spock.li/)
 * [«Spock – Powerful Elegant Web Applications using Haskell» by Alexander Thiemann](https://www.youtube.com/watch?v=kNqsOBrCbLo)
 * [ZuriHac 2015 - Beginning Web Programming in Haskell](https://www.youtube.com/watch?v=GobPiGL9jJ4)
+* [ZuriHac 2016: Spock - Powerful Elegant Web Applications](https://www.youtube.com/watch?v=-b-Oz6y-n_Y)
 
 ### Rest
 * [Rest for Haskell](http://silkapp.github.io/rest/)
