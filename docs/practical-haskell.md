@@ -38,6 +38,8 @@
 * [cabalでドキュメントをhackageにアップロードする](http://qiita.com/debug-ito/items/272d798b7787509cc6ae)
 * [haskell.org and the Evil Cabal](http://www.snoyman.com/blog/2016/08/haskell-org-evil-cabal)
 * [cabal new-build is a package manager](http://blog.ezyang.com/2016/08/cabal-new-build-is-a-package-manager/)
+* [haskell.org and the Evil Cabal](http://www.snoyman.com/blog/2016/08/haskell-org-evil-cabal)
+* [Follow up: haskell.org and the Evil Cabal](http://www.snoyman.com/blog/2016/08/follow-up-haskell-org-evil-cabal)
 
 ##Stack
 * [The Haskell Tool Stack](http://docs.haskellstack.org/en/stable/README.html)
