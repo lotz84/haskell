@@ -47,6 +47,7 @@ instance Monad Dist where
 * [Encoding Statistical Independence, Statically](http://jtobin.ca/encoding-independence-statically)
 * Tom Rainforth, Jan-Willem van de Meent, Michael A. Osborne and Frank Wood - [Bayesian Optimization for Probabilistic Programs](http://www.blackboxworkshop.org/pdf/rainforth2015BOPP.pdf)
   * Michael A. Osborne, Roman Garnett, and Stephen J. Roberts - [Gaussian Processes for Global Optimization](http://www.robots.ox.ac.uk/~parg/pubs/OsborneGarnettRobertsGPGO.pdf)
+* [Deriving a Probability Density Calculator (Functional Pearl)](http://homes.soic.indiana.edu/ccshan/rational/pearl.pdf)
 
 ### Probabilistic Programming Language
 * Church
