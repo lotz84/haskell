@@ -12,6 +12,7 @@
 * [nh2/GenericsTypeName.hs](https://gist.github.com/nh2/1a03b7873dbed348ef64fe536028776d)
 * [What's new with GHC generics in 8.0](http://ryanglscott.github.io/2016/05/12/whats-new-with-ghc-generics-in-80/)
 * [Exploring Generic Haskell](https://www.andres-loeh.de/ExploringGH.pdf)
+* [Autobahn: using genetic algorithms to infer strictness annotations](http://dl.acm.org/citation.cfm?id=2976009)
 
 ##Uniplate
 * [uniplate](https://hackage.haskell.org/package/uniplate)
