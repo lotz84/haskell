@@ -161,6 +161,7 @@
 * [Euterpea - A Haskell library for music creation](http://www.euterpea.com/)
 * [The haskore package](https://hackage.haskell.org/package/haskore)
 * [Adding PortAudio Support to HfM (Haskell for Mac)](https://medium.com/@BusFactor1/adding-portaudio-support-to-hfm-haskell-for-mac-cd2f398492f8#.9iuzw3rl5)
+* [COMBINATORIAL MUSIC THEORY](http://andrewduncan.net/cmt/)
 
 ----
 
