@@ -59,6 +59,7 @@ $ alias ghci='stack ghci --'
 
 <details>
 <summary>英語チュートリアル</summary>
+* [Functional Programming in Haskell: Supercharge Your Coding](https://www.futurelearn.com/courses/functional-programming-haskell/1/)
 * [Learning Real Haskell Incrementally](http://begriffs.com/posts/2015-10-24-learning-haskell-incrementally.html)
 * [Design Patterns in Haskell](http://blog.ezyang.com/2010/05/design-patterns-in-haskel/)
 * [Haskell Design Patterns](https://www.packtpub.com/application-development/haskell-design-patterns)
