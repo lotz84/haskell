@@ -5,6 +5,7 @@
 * [A series about optimization](https://www.reddit.com/r/haskell/comments/3urjm3/a_series_about_optimization/)
 * [On sufficiently smart compilers](http://osa1.net/posts/2015-08-09-sufficiently-smart-compiler.html)
 * [Linux で動く極小 ELF 実行ファイルをつくる怒涛のチュートリアル (あるいは "Size Is Everything")](http://www.hyuki.com/yukiwiki/wiki.cgi?WhirlwindTutorialOnCreatingReallyTeensyElfExecutablesForLinux)
+* [Haskellの父Simon PJ氏、GHCの内部実装について日本のHaskellerと激論を交わす](http://itpro.nikkeibp.co.jp/atcl/news/16/092002726/)
 
 ## GHC
 * [GHC](https://wiki.haskell.org/GHC)
