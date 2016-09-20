@@ -356,6 +356,7 @@ Web Application Framework
 * [[haskell][yesod] stack対応版Yesod tutorial](http://kurokawh.blogspot.jp/2016/07/haskellyesod-stackyesod-tutorial.html)
 * [Getting (re)started with Yesod and Docker](https://ilikewhenit.works/blog/2)
 * [psibi/yesod-rest](https://github.com/psibi/yesod-rest)
+* [Better CI for the Yesod scaffoldings](http://www.yesodweb.com/blog/2016/09/better-ci-yesod-scaffoldings)
 
 Protocol
 --------
