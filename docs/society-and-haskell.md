@@ -25,13 +25,17 @@
 * [ICFP 2015](http://icfpconference.org/icfp2015/)
   * [mpickering/icfp2015-papers](https://github.com/mpickering/icfp2015-papers)
   * [ICFP Video](https://www.youtube.com/channel/UCwRL68qZFfub1Ep1EScfmBw)
+* ICFP 2016
+  * [gasche/icfp2016-papers](https://github.com/gasche/icfp2016-papers)
+  * [HOPE 2016](https://www.youtube.com/playlist?list=PLnqUlCo055hVLWbmrXyxqYXcJJWSgU6Z5)
+* Compose Conference
+  * [Compose Conference Melbourne, 2016](https://www.youtube.com/playlist?list=PLNoHgLVTxtaqo1c_V2I-8wkDrCGImb9v5)
 * [JSSST-SIGPPL](http://ppl.jssst.or.jp/)
 * [International Conference on Functional Programming](http://www.icfpconference.org/)
 * [gasche/popl2016-papers](https://github.com/gasche/popl2016-papers)
 * [yallop/haskell2014-papers](https://github.com/yallop/haskell2014-papers)
 * [LambdaConf 2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcybh21_zOg8_y4f2oMKDHpUS)
 * [The Haskell Symposium](https://www.haskell.org/haskell-symposium/)
-* [gasche/icfp2016-papers](https://github.com/gasche/icfp2016-papers)
 
 ##Advent Calendar
 * [Haskell Advent Calendar 2015](http://qiita.com/advent-calendar/2015/haskell)
