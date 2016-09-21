@@ -1,11 +1,4 @@
-* [Domain-specific Languages and Code Synthesis Using Haskell](http://dl.acm.org/citation.cfm?id=2617811)
-* [Jurriaan Hage - Making Embedded Domain Specific Languages a Practical Reality](https://www.youtube.com/watch?v=bPrM1gONdII)
-* [UoY CS - Folding Domain-Specific Languages - Prof. Jeremy Gibbons](https://www.youtube.com/watch?v=crMTryrqkog)
-* [Writing a Search DSL, Part 1](https://blog.cppcabrera.com/posts/56-writing-a-search-dsl-1.html)
-* [Haskell, Startups, and Domain Specific Languages](https://www.youtube.com/watch?v=R4nLSxCKkNw)
-* [Compilation as a Typed EDSL-to-EDSL Transformation](http://fun-discoveries.blogspot.jp/2016/03/compilation-as-typed-edsl-to-edsl.html)
-
-##Free Monad
+## Free Monad
 * [The free package](http://hackage.haskell.org/package/free)
 
 ```haskell
@@ -54,7 +47,7 @@ instance Functor f => Monad (Free f) where
 * [Free, take 2](http://therning.org/magnus/posts/2016-06-18-free--take-2.html)
 * [FreerモナドとCoyonedaについて](http://qiita.com/masaki_mori/items/afb9696cac2476f0981c)
 
-###Coyoneda
+### Coyoneda
 * [Loop School - Coyoneda](http://school.looprecur.com/?video=122708005)
 
 ```haskell
@@ -107,7 +100,7 @@ yoneda f = Natural $ \ax -> fmap ax f
 
 <https://twitter.com/fumieval/status/576349394724765697>
 
-###Operational Monad
+### Operational Monad
 * [operational](https://hackage.haskell.org/package/operational)
 * [Freeモナドを超えた！？operationalモナドを使ってみよう](http://fumieval.hatenablog.com/entry/2013/05/09/223604)
 * [Operational monad](http://mbps.hatenablog.com/entry/2014/07/10/010000)
@@ -117,30 +110,32 @@ yoneda f = Natural $ \ax -> fmap ax f
 * [Examining Hackage: operational](http://jozefg.bitbucket.org/posts/2014-12-25-operational.html)
 * [今のところ比較的簡単なモナドの作り方](http://fumieval.hatenablog.com/entry/2016/04/08/215045)
 
-###Ideal Monad
+### Ideal Monad
 * [An introduction to ideal monads](https://theorylunch.wordpress.com/2012/11/08/an-introduction-to-ideal-monads/)
 * [究極のモナド「Idealモナド」を垣間見る](http://fumieval.hatenablog.com/entry/2013/01/04/110339)
 * [究極のモナド「Idealモナド」を垣間見る(続/その0)](http://fumieval.hatenablog.com/entry/2013/01/07/113221)
 * [What is the correct definition of ideal monads?](http://theorylunch.wordpress.com/2012/11/22/what-is-the-correct-definition-of-ideal-monads/)
 
-###Cofree
+### Cofree
 * [Free for DSLs, cofree for interpreters](http://dlaing.org/cofun/posts/free_and_cofree.html)
 * [Cofun with Cofree Comonads](https://yow.eventer.com/yow-lambda-jam-2015-1305/cofun-with-cofree-comonads-by-david-laing-1891)
 
-##The Expression Problem
+## EDSL
+* [Domain-specific Languages and Code Synthesis Using Haskell](http://dl.acm.org/citation.cfm?id=2617811)
+* [Jurriaan Hage - Making Embedded Domain Specific Languages a Practical Reality](https://www.youtube.com/watch?v=bPrM1gONdII)
+* [UoY CS - Folding Domain-Specific Languages - Prof. Jeremy Gibbons](https://www.youtube.com/watch?v=crMTryrqkog)
+* [Writing a Search DSL, Part 1](https://blog.cppcabrera.com/posts/56-writing-a-search-dsl-1.html)
+* [Haskell, Startups, and Domain Specific Languages](https://www.youtube.com/watch?v=R4nLSxCKkNw)
+* [Compilation as a Typed EDSL-to-EDSL Transformation](http://fun-discoveries.blogspot.jp/2016/03/compilation-as-typed-edsl-to-edsl.html)
+
+### The Expression Problem
 * [The Expression Problem](http://maoe.hatenadiary.jp/entry/20101214/1292337923)
 * [Data types à la carte](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.101.4131)
 * [C9 Lectures: Dr. Ralf Lämmel - Advanced Functional Programming - The Expression Problem](https://channel9.msdn.com/Shows/Going+Deep/C9-Lectures-Dr-Ralf-Laemmel-Advanced-Functional-Programming-The-Expression-Problem)
 * [The Expression Problem](http://homepages.inf.ed.ac.uk/wadler/papers/expression/expression.txt)
 
-##Tagless Final
+### Tagless Final
 * [Typed Tagless Final Interpreters](http://okmij.org/ftp/tagless-final/course/lecture.pdf)
 * [Typed tagless-final interpretations: Lecture notes](http://okmij.org/ftp/tagless-final/course/)
 * [Typed Tagless-Final Linear Lambda Calculus](https://www.fpcomplete.com/user/mutjida/typed-tagless-final-linear-lambda-calculus)
 * [Reducing boilerplate in finally tagless style](https://ro-che.info/articles/2016-02-03-finally-tagless-boilerplate)
-
-## QDSL
-* [Wadler: QDSL](http://homepages.inf.ed.ac.uk/wadler/topics/qdsl.html)
-* [Philip Wadler - Everything old is new again: Quoted domain specific languages - Curry On](https://www.youtube.com/watch?v=FiflFiZ6pPI)
-* ["Everything Old is New Again: Quoted Domain Specific Languages" by Philip Wadler](https://www.youtube.com/watch?v=DlBwJ4rvz5c)
-* [Quill - Compile-time Language Integrated Query for Scala](http://getquill.io/)
