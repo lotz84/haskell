@@ -140,6 +140,7 @@ class Monad m where
 * [だんだんわかる モナド入門 (Haskell)](http://qiita.com/Fujiee/items/6388cade8bf4797fb1d4)
 * [Why do we need Monad to encapsulate side effects in Haskell?](https://www.quora.com/Why-do-we-need-Monad-to-encapsulate-side-effects-in-Haskell/answer/Tikhon-Jelvis)
 * [Haskellでmain(do)内での"<-"と"let"の違い](http://qiita.com/Sohma/items/1377bd7299f46e2fbd44)
+* [Monads are like Lannisters](http://www.snoyman.com/blog/2016/09/monads-are-like-lannisters)
 
 ```haskell
 do x <- mx
