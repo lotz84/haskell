@@ -14,6 +14,7 @@
 * [Learning Haskell by Type (Signatures)](http://holger-peters.de/haskell-by-types.html)
 * [ラムダ計算で代数的データ型を表現する方法](http://d.hatena.ne.jp/syamino/20120524/p1)
 * [Associated Types and Haskell](http://amixtureofmusings.com/2016/05/19/associated-types-and-haskell/)
+* [Better Data Types a la Carte](http://reasonablypolymorphic.com/blog/better-data-types-a-la-carte)
 
 ###代数的データ型
 代数的データ型とは"足し算"と"掛け算"が出来るような型のこと。"足し算"と"掛け算"はそれぞれ**直和**, **直積**と呼ばれる。
