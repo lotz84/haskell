@@ -326,6 +326,7 @@ Web Application Framework
 * [servantはじめの一歩 - API,Model編](http://www.ishiy.xyz/posts/2016-01-11-haskell-servant.html)
 * [servantはじめの一歩 - サーバー編](http://www.ishiy.xyz/posts/2016-01-12-haskell-servant.html)
 * [servantはじめの一歩 - CLIクライアント編](http://www.ishiy.xyz/posts/2016-01-13-haskell-servant.html)
+* [Servant authentication and sessions via cookies](https://www.stackbuilders.com/tutorials/haskell/servant-auth/)
 
 ### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
