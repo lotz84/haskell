@@ -67,6 +67,7 @@
 * [[Haskell] ANN: shine and shine-varying: Lightweight declarative 2D graphics à la gloss using GHCJS (and a FRP interface)](https://mail.haskell.org/pipermail/haskell/2016-April/024851.html)
 * [fgaz/shine](https://github.com/fgaz/shine)
 * [sleexyz/hylogen](https://github.com/sleexyz/hylogen)
+* [Writing Games in Haskell with SpriteKit](http://blog.haskellformac.com/blog/writing-games-in-haskell-with-spritekit)
 
 ##Gloss
 * [gloss](http://hackage.haskell.org/package/gloss)
