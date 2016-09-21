@@ -37,7 +37,6 @@
 * [list-transformer - A beginner-friendly ListT](http://www.haskellforall.com/2016/07/list-transformer-beginner-friendly-listt.html)
 * [IO (Maybe a)というタイトルでモナド変換子について学んだことを話した - #LT駆動](http://blog.eiel.info/blog/2016/07/03/ltdd-27-io-maybe/)
 * [IO (Maybe String)を触ってみる](http://qiita.com/eielh/items/2f0f774914431990ec37)
-* [Extensible Effects はモナド変換子に対する救世主になり得るか？](http://konn-san.com/prog/haskell/extensible-effects.html)
 
 mtlにはMonad Transformerを新しく定義する度に全ての組み合わせの実装を定義する必要があるという問題点がある。
 
@@ -57,21 +56,3 @@ mtlにはMonad Transformerを新しく定義する度に全ての組み合わせ
 * [ZuriHac 2016: Monad Homomorphisms](https://www.youtube.com/watch?v=YTaNkWjd-ac)
 * [テンソル積の作り方](http://d.hatena.ne.jp/m-hiyama/20160829/1472445276)
 * [テンソル積の作り方 2： 双加群の場合、小さい圏の場合](http://d.hatena.ne.jp/m-hiyama/20160830/1472527717)
-
-##Extensible Effects
-* [extensible-effects](https://hackage.haskell.org/package/extensible-effects)
-* [Extensible Effects: an alternative to Monad Transformers](http://okmij.org/ftp/Haskell/extensible/)
-* [Eff vs mtl](https://www.reddit.com/r/haskell/comments/1j9n5y/extensible_effects_an_alternative_to_monad/cbcwbsa)
-* [suhailshergill/extensible-effects](https://github.com/suhailshergill/extensible-effects)
-* [Extensible Effects](http://www.cs.indiana.edu/~sabry/papers/exteff.pdf)
-* [Are extensible effects a complete replacement for mtl?](http://www.reddit.com/r/haskell/comments/387ex0/are_extensible_effects_a_complete_replacement_for/crt1pzm)
-* [24 Days of Hackage: extensible-effects](https://ocharles.org.uk/blog/posts/2013-12-04-24-days-of-hackage-extensible-effects.html)
-* [effin](https://hackage.haskell.org/package/effin)
-* [The effect-handlers package](https://hackage.haskell.org/package/effect-handlers)
-* [Programming with Algebraic Effects and Handlers](http://math.andrej.com/2012/03/08/programming-with-algebraic-effects-and-handlers/)
-* [Extensible Effects in Scala](http://halcat.org/scala/extensible/)
-* [Lazy state](http://okmij.org/ftp/Haskell/extensible/index.html#lazy-state)
-* [Announcing transformers-eff](https://ocharles.org.uk/blog/posts/2016-04-23-transformers-eff.html)
-* [Rank 'n Classy Limited Effects](http://www.parsonsmatt.org/2016/07/14/rank_n_classy_limited_effects.html)
-* [Liberating Effects with Rows and Handlers](http://homepages.inf.ed.ac.uk/slindley/papers/links-effect-draft-march2016.pdf)
-* [mvv/data-elf](https://github.com/mvv/data-elf)
