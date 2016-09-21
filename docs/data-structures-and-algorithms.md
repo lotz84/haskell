@@ -94,6 +94,7 @@
 * [Safer paths, part 1 - valid and typed paths](http://cs-syd.eu/posts/2016-08-14-safer-paths-part-1-valid-and-typed-paths.html)
 * [Safer paths, part 2 - Stop, Reconsider, Contribute](http://cs-syd.eu/posts/2016-08-21-safer-paths-part-2---stop-reconsider-contribute.html)
 * [「組合せ最適化でグループ分け」Haskellでやってみた](http://qiita.com/ttatsf/items/3789159bc4e880cc07bc)
+* [拡張されたユークリッドの互除法](http://qiita.com/bra_cat_ket/items/205c19611e21f3d422b7)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
