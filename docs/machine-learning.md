@@ -3,6 +3,7 @@
 * [mikeizbicki/HLearn](https://github.com/mikeizbicki/HLearn/)
   * [Haskellの機械学習ライブラリHLearn](http://qiita.com/nebutalab/items/680203ff3d84cde7c8db)
 * [sarthakbagaria/has-sci](https://github.com/sarthakbagaria/has-sci)
+* [Working with data in Haskell](https://www.fpcomplete.com/blog/2016/09/data-haskell)
 * [random-fu](https://hackage.haskell.org/package/random-fu)
 * [The generic-random library, part 1: simple generic Arbitrary instances](https://byorgey.wordpress.com/2016/09/20/the-generic-random-library-part-1-simple-generic-arbitrary-instances/)
 * [bmsherman/haskell-matlab](https://github.com/bmsherman/haskell-matlab)
