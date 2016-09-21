@@ -24,6 +24,8 @@
 * [Let's Write Documentation for Haskell](http://lwm.github.io/posts/html/document-haskell.html)
 * [Measuring Software Fragility](http://softwaresimply.blogspot.jp/2016/08/measuring-software-fragility.html)
 * [The Four Flaws of Haskell](http://neilmitchell.blogspot.jp/2016/08/the-four-flaws-of-haskell.html)
+* [Practical Haskell: Simple File Mirror (Part 1)](https://www.fpcomplete.com/blog/2016/09/practical-haskell-simple-file-mirror-1)
+* [Practical Haskell: Simple File Mirror (Part 2)](https://www.fpcomplete.com/blog/2016/09/practical-haskell-simple-file-mirror-2)
 
 ##Cabal
 * [Hackage](http://hackage.haskell.org/)
