@@ -106,6 +106,7 @@ $ alias ghci='stack ghci --'
 * [CS240h lecture notes](http://www.scs.stanford.edu/11au-cs240h/notes/)
 * [Using JavaScript to Learn Haskell](https://medium.com/@sjsyrek/using-javascript-to-learn-haskell-f57509015842#.qb5lc4gx8)
 * [Pitfalls in Haskell](http://users.jyu.fi/~sapekiis/haskell-pitfalls/) - Haskellに潜む罠
+* [Study "Haskell Programming from First Principles" in NYC](https://byorgey.wordpress.com/2016/09/20/the-generic-random-library-part-1-simple-generic-arbitrary-instances/)
 </details>
 
 ## Examples
