@@ -28,6 +28,7 @@
 * [divipp/x86-64](https://github.com/divipp/x86-64)
 * [Rasberry Pi3 (ARMv7)にhaskell-stackをインストールする](http://qiita.com/aiya000/items/fe45952da33ddc99d4be)
 * [Categorical semantics of digital circuits](http://researchblogs.cs.bham.ac.uk/thelablunch/2016/09/categorical-semantics-of-digital-circuits/)
+* [Raspberry Pi 2にGHCとStackをインストールした時のメモ](http://qiita.com/watertight/items/88f151a84b2d25b49059)
 
 ##高位合成
 * [Domain-specific Languages and Code Synthesis Using Haskell](http://queue.acm.org/detail.cfm?id=2617811)
