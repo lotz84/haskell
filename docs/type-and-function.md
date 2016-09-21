@@ -1,6 +1,7 @@
 * [The rebase package](http://hackage.haskell.org/package/rebase)
 * [Base で定義されている演算子の一覧](http://hackage.haskell.org/package/acme-operators/docs/Acme-Operators-Base.html)
 * [The base-prelude package](https://hackage.haskell.org/package/base-prelude)
+* [Foundation](http://tab.snarc.org/posts/haskell/2016-09-09-foundation.html)
 * [順列列挙関数（素朴な実装）](http://qiita.com/nobsun/items/babd28fe81ba3b9f304f)
 
 ##型
