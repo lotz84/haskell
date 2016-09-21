@@ -4,6 +4,7 @@
   * [Haskellの機械学習ライブラリHLearn](http://qiita.com/nebutalab/items/680203ff3d84cde7c8db)
 * [sarthakbagaria/has-sci](https://github.com/sarthakbagaria/has-sci)
 * [random-fu](https://hackage.haskell.org/package/random-fu)
+* [The generic-random library, part 1: simple generic Arbitrary instances](https://byorgey.wordpress.com/2016/09/20/the-generic-random-library-part-1-simple-generic-arbitrary-instances/)
 * [bmsherman/haskell-matlab](https://github.com/bmsherman/haskell-matlab)
 * [HaskellR](http://tweag.github.io/HaskellR/)
   * [Programming R at native speed using Haskell](http://www.tweag.io/blog/programming-r-at-native-speed-using-haskell)
