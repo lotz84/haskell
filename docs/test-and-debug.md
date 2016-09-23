@@ -38,6 +38,7 @@
 * [Behavior-driven development (BDD) in Haskell with Hspec](https://www.stackbuilders.com/tutorials/haskell/bdd-in-haskell-with-hspec/)
 * [async exceptions, STM, and deadlocks](https://www.fpcomplete.com/blog/2016/06/async-exceptions-stm-deadlocks)
 * [Behavior-driven development (BDD) in Haskell with Hspec](https://www.stackbuilders.com/tutorials/haskell/bdd-in-haskell-with-hspec/)
+* [rudymatela/fitspec](https://github.com/rudymatela/fitspec)
 
 ###QuickCheck
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
