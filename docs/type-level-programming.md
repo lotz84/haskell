@@ -59,6 +59,9 @@
 * [sheyll/pretty-types](https://github.com/sheyll/pretty-types)
 * [This post shows how to use the Liar paradox to prove that that Haskell is inconsistent without using recursive terms.](http://cs.unm.edu/~stelleg/liar.html)
 * [たのしい型レベルプログラミング](http://philopon.github.io/kansaifp-3-3/#/1)
+* [Typed reflection in Haskell](https://www.microsoft.com/en-us/research/publication/typed-reflection-in-haskell/)
+* [Haskell/存在量化された型](https://ja.wikibooks.org/wiki/Haskell/%E5%AD%98%E5%9C%A8%E9%87%8F%E5%8C%96%E3%81%95%E3%82%8C%E3%81%9F%E5%9E%8B)
+* [Quotient Types for Programmers](http://www.hedonisticlearning.com/posts/quotient-types-for-programmers.html)
 
 ```haskell
 data Bottom
