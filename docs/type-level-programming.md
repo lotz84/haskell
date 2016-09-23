@@ -62,6 +62,7 @@
 * [Typed reflection in Haskell](https://www.microsoft.com/en-us/research/publication/typed-reflection-in-haskell/)
 * [Haskell/存在量化された型](https://ja.wikibooks.org/wiki/Haskell/%E5%AD%98%E5%9C%A8%E9%87%8F%E5%8C%96%E3%81%95%E3%82%8C%E3%81%9F%E5%9E%8B)
 * [Quotient Types for Programmers](http://www.hedonisticlearning.com/posts/quotient-types-for-programmers.html)
+* [Kris Jenkins - Types All The Way Down](https://www.youtube.com/watch?v=sh4H8yzXnvw&feature=youtu.be)
 
 ```haskell
 data Bottom
