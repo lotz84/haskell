@@ -8,43 +8,21 @@
 * [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)[[日本語](http://picks.coincheck.jp/entry/2014/09/15/190000)]
 * [Minimum Viable Block Chain](https://www.igvita.com/2014/05/05/minimum-viable-block-chain/)
 * [buckie/juno](https://github.com/buckie/juno)
+  * [JPMorgan Unveils 'Juno' Project at Hyperledger Blockchain Meeting](http://www.coindesk.com/jpmorgan-juno-hyperledger-blockchain/)
+  * [Raft - Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/)
 * [stratumn](http://stratumn.com/)
 * [chainscript](http://chainscript.io/)
 
 ## Bitcoin
-> Blockchain 上に実現された最初の通貨であり最も普及している
-
-* [bitcoinwiki](https://en.bitcoin.it/wiki/Main_Page)
-* [Vanitygen](https://en.bitcoin.it/wiki/Vanitygen)
-
-### 入門
-* [誰も教えてくれないけれど、これを読めば分かるビットコインの仕組みと可能性](http://jp.techcrunch.com/2015/03/31/bitcoin-essay/)
-* [bitcoinのしくみ](http://bitcoin.peryaudo.org/)
-* [初心者でもビットコインの世界がわかる便利ツール10選](http://btcnews.jp/bitcoin-tools-2016/)
-
-### Wallet
-* **Web** - [Blockchain.info](https://blockchain.info/ja/wallet)
-* **iOS** - [breadwallet](http://breadwallet.com/)
-* **Android** - [Mycelium](https://mycelium.com/mycelium-wallet.html)
-* **Paper** - [WalletGenerator.net](https://walletgenerator.net/)
-* **Paper** - [Bitcoin Paper Wallet Generator](https://bitcoinpaperwallet.com/)
-
-### Info
+* [What is Bitcoin? (v2)](https://www.youtube.com/watch?v=Gc2en3nHxA4)
 * [Blockchain.info](https://blockchain.info/ja/)
-* [Toshi](https://toshi.io/)
-* [blockr](http://blockr.io/)
-* [Bitnodes](https://bitnodes.21.co/)
-* [Coin Map](https://coinmap.org/)
-* [LocalBitcoins Volume Charts](http://coin.dance/charts/)
+* [bitcoinwiki](https://en.bitcoin.it/wiki/Main_Page)
 * <http://www.bitcoinblockhalf.com/>
-
-### 実装
+* [Vanitygen](https://en.bitcoin.it/wiki/Vanitygen)
 * [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)
 * [haskoin/haskoin](https://github.com/haskoin/haskoin)
-* [lian/bitcoin-ruby](https://github.com/lian/bitcoin-ruby)
 * [vwwv/easy-bitcoin](https://github.com/vwwv/easy-bitcoin)
 * [Bitcoinウォレットを実装する](http://bitcoin.peryaudo.org/implement.html)
-* [Bitcoin@Wiki - 手数料](http://www58.atwiki.jp/coinwiki/pages/27.html)
 * [Bitcoinを技術的に理解する](http://www.slideshare.net/kenjiurushima/20140602-bitcoin1-201406031222)
 * [bitcoin-payment-channel: Library for working with Bitcoin payment channels](https://hackage.haskell.org/package/bitcoin-payment-channel)
 
