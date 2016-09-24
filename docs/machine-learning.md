@@ -29,7 +29,6 @@
 ## 自然言語処理
 * [edit-distance: Levenshtein and restricted Damerau-Levenshtein edit distances](http://hackage.haskell.org/package/edit-distance)
 * [colada: Colada implements incremental word class class induction using online LDA](https://hackage.haskell.org/package/colada)
-* [swift-lda: Online sampler for Latent Dirichlet Allocation](https://hackage.haskell.org/package/swift-lda)
 * [chatter: A library of simple NLP algorithms.](https://hackage.haskell.org/package/chatter)
 * [The Functional Morphology Library](http://www.cse.chalmers.se/alumni/markus/FM_Tech_Report.pdf)
 
