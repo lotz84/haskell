@@ -125,6 +125,7 @@ Haskell to JavaScript compiler
 * <http://lesguillemets.github.io/fouricle/>
 * [オートマトンで遊ぶやつを作った](http://myuon-myon.hatenablog.com/entry/2015/12/18/193654)
 * [Automatoy](http://myuon.github.io/automatoy/)
+* [kaol/heist-tutorial](https://github.com/kaol/heist-tutorial)
 
 ### fay
 * [faylang/fay](https://github.com/faylang/fay)
