@@ -26,6 +26,13 @@
 * ["Haskell's stochastic gradient descent implementations comparison.](https://github.com/argent0/haskell-ml-benchmark/blob/master/result/main.md)
 * [Example: The K-Means Problem](http://chimera.labs.oreilly.com/books/1230000000929/ch03.html#sec_using-parlist)
 
+## 自然言語処理
+* [edit-distance: Levenshtein and restricted Damerau-Levenshtein edit distances](http://hackage.haskell.org/package/edit-distance)
+* [colada: Colada implements incremental word class class induction using online LDA](https://hackage.haskell.org/package/colada)
+* [swift-lda: Online sampler for Latent Dirichlet Allocation](https://hackage.haskell.org/package/swift-lda)
+* [chatter: A library of simple NLP algorithms.](https://hackage.haskell.org/package/chatter)
+* [The Functional Morphology Library](http://www.cse.chalmers.se/alumni/markus/FM_Tech_Report.pdf)
+
 ## 確率論的プログラミング
 ```hs
 type Probability = Double
@@ -135,6 +142,12 @@ sample prog (replicate 10 heads)
 * [Neural networks in Haskell (Lynn)](https://twitter.com/mcarberg/status/664750004742000640)
 * [Haskellでニューラルネットワーク](http://imokuri123.com/blog/2015/07/neural-network-in-haskell.html)
 * [ニューラルネットワーク、多様体、トポロジー](http://qiita.com/KojiOhki/items/af2241027b00f892d2bd)
+
+## クラウド
+* [Google Cloud Platform - CLOUD MACHINE LEARNING サービス](https://cloud.google.com/products/machine-learning/)
+* [Microsoft Azure - Machine Learning](https://azure.microsoft.com/ja-jp/services/machine-learning/)
+* [Amazon Machine Learning](https://www.sakura.ad.jp/koukaryoku/)
+* [さくらの高火力](https://www.sakura.ad.jp/koukaryoku/)
 
 ----
 
