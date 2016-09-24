@@ -10,6 +10,7 @@
 ## GHC
 * [GHC](https://wiki.haskell.org/GHC)
 * [これから Haskell を書くにあたって](https://speakerdeck.com/func_hs/korekara-haskell-woshu-kuniatatute)
+* [Haskell GHC開発に関する情報源いろいろ](http://qiita.com/takenobu-hs/items/0752931f2472c0705af0)
 * [Contributing to GHC](https://ghc.haskell.org/trac/ghc/blog/ContributingToGhc)
 * [GHC Speed](https://perf.haskell.org/ghc/#)
 * [Glasgow Haskell Compiler Users Guide](http://downloads.haskell.org/~ghc/master/users-guide/)
