@@ -26,6 +26,11 @@
 * ["Haskell's stochastic gradient descent implementations comparison.](https://github.com/argent0/haskell-ml-benchmark/blob/master/result/main.md)
 * [Example: The K-Means Problem](http://chimera.labs.oreilly.com/books/1230000000929/ch03.html#sec_using-parlist)
 * [Frames: Data frames For working with tabular data files](http://hackage.haskell.org/package/Frames)
+* [Fast Nearest Neighbor Queries in Haskell](https://izbicki.me/blog/fast-nearest-neighbor-queries-in-haskell.html)
+* [Exploratory Haskell](http://www.parsonsmatt.org/2015/12/09/exploratory_haskell.html)
+* [The Intersection of Machine Learning, Types and Testing](https://www.youtube.com/watch?v=czZ18YtZlaw)
+* [Boltzmann sampling for generic Arbitrary instances](https://byorgey.wordpress.com/2016/03/23/boltzmann-sampling-for-generic-arbitrary-instances/)
+* <https://indico.io/>
 
 ## 自然言語処理
 * [edit-distance: Levenshtein and restricted Damerau-Levenshtein edit distances](http://hackage.haskell.org/package/edit-distance)
