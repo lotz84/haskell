@@ -53,6 +53,7 @@ mtlにはMonad Transformerを新しく定義する度に全ての組み合わせ
 
 ### モナド準同型
 * [The mmorph package](https://hackage.haskell.org/package/mmorph)
+* [モナドモナド (LT没ネタ)](http://qiita.com/hiratara/items/65fcf38070def7e5a918)
 * [ZuriHac 2016: Monad Homomorphisms](https://www.youtube.com/watch?v=YTaNkWjd-ac)
 * [テンソル積の作り方](http://d.hatena.ne.jp/m-hiyama/20160829/1472445276)
 * [テンソル積の作り方 2： 双加群の場合、小さい圏の場合](http://d.hatena.ne.jp/m-hiyama/20160830/1472527717)
