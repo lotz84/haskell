@@ -419,6 +419,7 @@ Database
 * [24 Days of Hackage: acid-state](https://ocharles.org.uk/blog/posts/2013-12-14-24-days-of-hackage-acid-state.html)
 * [The acid-state package](https://hackage.haskell.org/package/acid-state)
 * [The vault package](http://hackage.haskell.org/package/vault)
+* [riak: A Haskell client for the Riak decentralized data store](https://hackage.haskell.org/package/riak)
 
 
 Simple Clients
