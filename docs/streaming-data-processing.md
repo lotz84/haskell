@@ -61,6 +61,7 @@ main = do
 * [Parallel/Pipelined Conduit](http://neilmitchell.blogspot.jp/2015/07/parallelpipelined-conduit.html)
 * [進捗を取りながらファイルをダウンロードする](http://qiita.com/techno-tanoC/items/39fdc32f3c8f79a26183)
 * [Summary of the Haskell Conduit package](http://haskell.zcourts.com/io/2013/12/27/introduction-to-conduit/)
+* [Proposed conduit reskin](http://www.snoyman.com/blog/2016/09/proposed-conduit-reskin)
 
 > Conduits were created for the Yesod web framework. My understanding is that they were designed to be blazingly fast. Early versions of the library were highly stateful.
 > 
