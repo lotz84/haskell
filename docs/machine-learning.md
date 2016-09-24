@@ -25,6 +25,7 @@
 * [Kernel Bayes’ Rule](http://www.cc.gatech.edu/~lsong/papers/FukSonGre11.pdf)
 * ["Haskell's stochastic gradient descent implementations comparison.](https://github.com/argent0/haskell-ml-benchmark/blob/master/result/main.md)
 * [Example: The K-Means Problem](http://chimera.labs.oreilly.com/books/1230000000929/ch03.html#sec_using-parlist)
+* [Frames: Data frames For working with tabular data files](http://hackage.haskell.org/package/Frames)
 
 ## 自然言語処理
 * [edit-distance: Levenshtein and restricted Damerau-Levenshtein edit distances](http://hackage.haskell.org/package/edit-distance)
