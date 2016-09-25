@@ -26,6 +26,7 @@
   * [Haskell-2-2](https://www.youtube.com/watch?v=a6IkhX1zgXI)
 * [pi calclusを学ぶにあたって参照したドキュメントとその紹介その一](http://keizobookman.hatenablog.com/entry/2016/05/25/012815)
 * [ekmett/propagators](https://github.com/ekmett/propagators)
+* [atemerev/skynet](https://github.com/atemerev/skynet) - Skynet 1M threads microbenchmark
 
 ##並列
 * [monad-par](https://hackage.haskell.org/package/monad-par)
