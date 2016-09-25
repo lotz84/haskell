@@ -302,6 +302,8 @@ instance Eval' Hole where
 * [計算機科学と代数学](http://www-mmm.is.s.u-tokyo.ac.jp/~ichiro/papers/algPLJapaneseJan2014.pdf)
 * [プログラミング言語の意味論](http://www.kurims.kyoto-u.ac.jp/~kenkyubu/kokai-koza/katsumata.pdf)
 * [おもしろいみろん](http://www.kmonos.net/wlog/86.html#_1755080603)
+* [SECDマシン](https://www.wikiwand.com/ja/SECD%E3%83%9E%E3%82%B7%E3%83%B3)
+* [Categorical abstract machine](https://www.wikiwand.com/en/Categorical_abstract_machine)
 
 ##カリー＝ハワード同型対応
 * [Haskell/カリー=ハワード同型](https://ja.wikibooks.org/wiki/Haskell/%E3%82%AB%E3%83%AA%E3%83%BC%3D%E3%83%8F%E3%83%AF%E3%83%BC%E3%83%89%E5%90%8C%E5%9E%8B)
@@ -384,53 +386,11 @@ instance Eval' Hole where
 * [The Parametric Lambda Calculus](http://link.springer.com/book/10.1007/978-3-662-10394-4)
 * [Understanding Plotkin's Call-By-Name, Call-By-Value and the λ-Calculus](http://languagengine.co/blog/plotkin-cbn-cbv/)
 
-###SLC
-* [Declarative Continuations and Categorical Duality](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.43.8729&rep=rep1&type=pdf)
-* [型付き対称ラムダ計算の基礎理論](http://www.is.ocha.ac.jp/~asai/jpapers/sakaue.pdf)
-* [Try SLC](http://koropicot.github.io/SLC-Implementation/Try-SLC/)
-
 ##Martin-L¨of ’s Type Theory
 * 1972 - [An intuitionistic theory of types](https://github.com/michaelt/martin-lof/blob/master/pdfs/An-Intuitionistic-Theory-of-Types-1972.pdf)
 * 1979 - [Constructive mathematics and computer programming](https://github.com/michaelt/martin-lof/blob/master/pdfs/Constructive-mathematics-and-computer-programming-1982.pdf)
 * 1984 - [Intuitionistic Type Theory](https://github.com/michaelt/martin-lof/blob/master/pdfs/Bibliopolis-Book-retypeset-1984.pdf)
 * [Programming in Martin-L¨of ’s Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf)
-
-##Coq
-* [プログラミング Coq 〜 絶対にバグのないプログラムの書き方 〜](http://www.iij-ii.co.jp/lab/techdoc/coqt/)
-* [ソフトウェアの基礎](http://proofcafe.org/sf/)
-* [Formalized algebraic numbers: construction and first-order theory](https://pastel.archives-ouvertes.fr/pastel-00780446/file/main.pdf)
-
-##Agda
-* [Learn you an agda and achive enlightenment](http://learnyouanagda.liamoc.net/)
-* [Introduction to Agda - Matthew Brecknell (two talks)](https://www.youtube.com/playlist?list=PLlq2kxxWa_fEm2am9j3-VuRonuade9W_0)
-* [みんなのAgda Wiki](http://agda.wiki.fc2.com/)
-##Idris
-<http://www.idris-lang.org/>
-
-* [Practical Erasure in Dependently Typed Languages](https://edwinb.wordpress.com/2015/02/28/practical-erasure-in-dependently-typed-languages/)
-* [Idris: Practical Dependent Types with Practical Examples](https://www.youtube.com/watch?v=4i7KrG1Afbk)
-* [Dependently Typed Functional Programming in Idris by David Christiansen 1 of 3](https://vimeo.com/117221082)
-* [Dependently typed functional programming in Idris, 2 of 3](https://vimeo.com/117973383)
-* [Dependently typed functional programming in Idris, 3 of 3](https://vimeo.com/117979741)
-* [こわくない Idris (1)](http://mandel59.hateblo.jp/entry/2013/09/02/184831)
-* [こわくない Idris (2)](http://mandel59.hateblo.jp/entry/2013/09/03/162145)
-* [こわくない Idris (3)](http://mandel59.hateblo.jp/entry/2013/09/06/104042)
-* [こわくない Idris (4)](http://mandel59.hateblo.jp/entry/2013/09/14/082342)
-* [こわくない Idris (5)](http://mandel59.hateblo.jp/entry/2013/09/14/115924)
-* [こわくない Idris (6)](http://mandel59.hateblo.jp/entry/2013/09/14/153041)
-  * [こわくない Idris (6) 補足](http://mandel59.hateblo.jp/entry/2014/10/05/233126)
-* [こわくない Idris (7)](http://mandel59.hateblo.jp/entry/2013/09/17/142709)
-* [codata](https://groups.google.com/forum/#!msg/idris-lang/bZmQpOVbHpY/4At62mxn-mcJ)
-* [IdrisでWebアプリを書く](http://www.slideshare.net/tanakh/idrisweb)
-* [Tell dependent function in conditional statement branch that condition is true](http://stackoverflow.com/questions/28914593/tell-dependent-function-in-conditional-statement-branch-that-condition-is-true)
-* [Idris: General Purpose Programming with Dependent Types](https://www.youtube.com/watch?v=vkIlW797JN8)
-* [Coding for Types: The Universe Patern in Idris](https://www.youtube.com/watch?v=AWeT_G04a0A)
-* [REVERSE, REVERSE: THEOREM PROVING WITH IDRIS](http://www.stackbuilders.com/news/reverse-reverse-theorem-proving-with-idris)
-* [bamboo/idris-cil](https://github.com/bamboo/idris-cil)
-* [stedolan/idris-malfunction](https://github.com/stedolan/idris-malfunction)
-
-##Alms
-* [Practical Affine Types](http://www.ccs.neu.edu/home/tov/pubs/alms/)
 
 ###Type Inference
 * [Introduction to Type Inference](https://www.youtube.com/watch?v=il3gD7XMdmA)
