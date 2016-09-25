@@ -96,6 +96,7 @@
 * [「組合せ最適化でグループ分け」Haskellでやってみた](http://qiita.com/ttatsf/items/3789159bc4e880cc07bc)
 * [拡張されたユークリッドの互除法](http://qiita.com/bra_cat_ket/items/205c19611e21f3d422b7)
 * [リストの中から重複する項目の数をカウントする](http://qiita.com/mather314/items/dbae21e2fcde2ea74669)
+* [[fltalwhq] integerLog2 and an introduction to unboxed types](http://kenta.blogspot.jp/2016/09/fltalwhq-integerlog2-and-introduction.html)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
