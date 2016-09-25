@@ -382,6 +382,7 @@ instance Eval' Hole where
 * [λ-Calculus and Computer Science Theory](http://link.springer.com/book/10.1007/BFb0029515)
 * [Typed Lambda Calculi and Applications](http://link.springer.com/book/10.1007/3-540-44904-3)
 * [The Parametric Lambda Calculus](http://link.springer.com/book/10.1007/978-3-662-10394-4)
+* [Understanding Plotkin's Call-By-Name, Call-By-Value and the λ-Calculus](http://languagengine.co/blog/plotkin-cbn-cbv/)
 
 ###SLC
 * [Declarative Continuations and Categorical Duality](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.43.8729&rep=rep1&type=pdf)
