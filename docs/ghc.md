@@ -96,6 +96,7 @@
 * [{-# OPTIONS_GHC -fno-warn-orphans #-}](http://functor.tokyo/blog/2016-09-16-options-ghc-fno-warn-orphans)
 * [Types are calling conventions](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/tacc-hs09.pdf)
 * [Haskell GHC開発に関する情報源いろいろ](http://qiita.com/takenobu-hs/items/0752931f2472c0705af0)
+* [Optimizing incremental compilation](http://blog.ezyang.com/2016/08/optimizing-incremental-compilation/)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
