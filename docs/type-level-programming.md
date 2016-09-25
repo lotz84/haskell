@@ -333,7 +333,7 @@ instance Eval' Hole where
 * [Making Sense of Subtypes](http://languagengine.co/blog/making-sense-of-subtypes/)
 * [Propositions as Types](http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf)
 * [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/)
-* [ＭＬ型推論の光と影](http://www.fos.kuis.kyoto-u.ac.jp/~t-sekiym/classes/isle4/OCaml-meeting0908-revised.pdf)
+* [ＭＬの光と影](http://www.fos.kuis.kyoto-u.ac.jp/~t-sekiym/classes/isle4/OCaml-meeting0908-revised.pdf)
 * [数学基礎論特論 (コンピュータ特別講義 I) 講師 龍田 真](http://www.yl.is.s.u-tokyo.ac.jp/~tatsuo/types/types20011101.pdf)
 * [PROOFS AND TYPES](http://www.paultaylor.eu/stable/prot.pdf)
 * [Types and Programming Languages](http://port70.net/~nsz/articles/book/pierce_types_and_programming_languages_2002.pdf)
@@ -367,6 +367,7 @@ instance Eval' Hole where
 * [型理論IV](http://ci.nii.ac.jp/naid/110003743641/)
 * [variable-free type theoryの圏論的な解釈について](http://myuon-myon.hatenablog.com/entry/2016/05/15/195755)
 * [Cubical Higher Type Theory as a Programming Language](https://existentialtype.wordpress.com/2016/07/31/cubical-higher-type-theory-as-a-programming-language/)
+* [Hindley-Milner Inference](http://dev.stephendiehl.com/fun/006_hindley_milner.html)
 
 ##Lambda Calculus
 * [An informal introduction to Lambda Calculus.](https://medium.com/@Sudhagar/an-informal-introduction-to-lambda-calculus-51c637f35f7d#.vsy3u1aex)
