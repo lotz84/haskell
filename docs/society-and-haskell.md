@@ -56,6 +56,7 @@
 * [Porting the Pusher integration tests to Haskell](http://blog.pusher.com/porting-the-pusher-integration-tests-to-haskell/)
 * [Tweag I/O](http://www.tweag.io/)
 * [Jane Street](https://www.janestreet.com/)
+* [ZuriHac 2016: Functional Programming at LumiGuide](https://www.youtube.com/watch?v=IKznN_TYjZk)
 
 ### FPComplete
 * [FPComplete](https://www.fpcomplete.com/)
