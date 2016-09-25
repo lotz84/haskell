@@ -207,3 +207,4 @@
 * [Pointless Haskell](http://pointless-haskell.tumblr.com/)
 * [Overture: A Haskell Prelude](https://medium.com/@pthomson/overture-a-haskell-prelude-bc94a948febf#.q48h1mzes)
 * [シェル芸とHaskellの対応を考える](https://blog.ueda.asia/?p=2644)
+* [willdonnelly/dyre](https://github.com/willdonnelly/dyre) - A Dynamic Reconfiguration Library for Haskell Programs
