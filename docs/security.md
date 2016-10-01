@@ -7,3 +7,4 @@
 * [Computing Cryptographic Hashes for Cyclic Dependencies](https://blog.fugue.co/2016-05-18-cryptographic-hashes-and-dependency-cycles.html)
 * [grkuntzmd/zxcvbn-Haskell](https://github.com/grkuntzmd/zxcvbn-Haskell/)
 * [Secure Shared Credentials](http://brendanhay.nz/credentials)
+* [cpeikert/Lol](https://github.com/cpeikert/Lol) - A library for ring-based lattice cryptography
