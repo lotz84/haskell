@@ -32,6 +32,7 @@
 * [Boltzmann sampling for generic Arbitrary instances](https://byorgey.wordpress.com/2016/03/23/boltzmann-sampling-for-generic-arbitrary-instances/)
 * <https://indico.io/>
 * [Composing inference algorithms as program transformations](https://arxiv.org/abs/1603.01882)
+* [Saulzar/Tensor.hs](https://gist.github.com/Saulzar/568665c16506cbe2068123350cee9904) - Attempts at static tensor dimensioning
 
 ## 自然言語処理
 * [edit-distance: Levenshtein and restricted Damerau-Levenshtein edit distances](http://hackage.haskell.org/package/edit-distance)
