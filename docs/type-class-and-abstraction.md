@@ -56,6 +56,8 @@ instance Show Bool where
 * [Typeclasses and Run-Time Dependency Management](https://turingjump.com/posts/smerdyakov.html)
 * [phadej/poly-nfdata.hs](https://gist.github.com/phadej/2fc066c00e33b9486e1a3e5f7767a8d7)
 * [Type Classes and Constraints](https://gist.github.com/Icelandjack/5afdaa32f41adf3204ef9025d9da2a70)
+* [入門的ではない型クラスの話：Haskellの型クラスがぁ (´^｀;)](http://d.hatena.ne.jp/m-hiyama/20160928/1475022255)
+* [オーバーロードは何故にかくも難しいのか：Haskellの成功と失敗](http://d.hatena.ne.jp/m-hiyama/20160930/1475198218)
 
 ## 代数的な型クラス
 ### Semigroup
