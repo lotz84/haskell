@@ -83,6 +83,7 @@
 
 ### Google
 * [Haskell Amuse-Bouche](https://www.youtube.com/watch?v=b9FagOVqxmI)
+* [Another year of Haskell Hacking in the Google Zurich Office](https://opensource.googleblog.com/2016/09/another-year-of-haskell-hacking-in.html)
 
 ### Facebook
 * [Descent into Haskell (Part I)](https://www.facebook.com/notes/10153092264418543/)
