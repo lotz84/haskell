@@ -46,7 +46,31 @@
 * [Haskell Advent Calendar 2011](http://partake.in/events/eaea52c2-61ef-46d5-a855-3a2dde459e3a)
 * [Haskell Advent Calendar jp 2010](http://cielquis.net/advent-calendar/haskell-jp-2010.html)
 
-##企業
+Haskellを利用している日本の企業
+----------------------------
+### [Tsuru Capital](http://www.tsurucapital.com/en/)
+* [Haskell使いの高頻度取引の会社にお邪魔した](http://itpro.nikkeibp.co.jp/article/Watcher/20131003/508622/?rt=nocnt)
+
+### [NTTデータ](http://www.nttdata.com/jp/ja/index.html)
+* [「Haskellは企業でも十分実用になる」、NTTデータがソースコード解析サービスの舞台裏を披露](http://itpro.nikkeibp.co.jp/article/NEWS/20131126/520642/?rt=nocnt)
+
+### [新日鉄住金ソリューションズ](http://www.nssol.nssmc.com/)
+* [［Haskell］関数型の特徴を満載した王道の言語](http://itpro.nikkeibp.co.jp/article/COLUMN/20130112/449224/?ST=system&P=1)
+
+### [GREE](http://gree.jp/)
+* [社内Haskellチュートリアルのススメ](http://labs.gree.jp/blog/2013/12/9201/)
+* [Haskell使ってみた](http://labs.gree.jp/blog/2013/12/9882/)
+* [画像配信：SwiftからS3への引越について](http://labs.gree.jp/blog/2015/12/14786/)
+
+#### OSS
+* [flare-tests](https://github.com/gree/flare-tests)
+  * Flare system test suite
+* [haskell-jobqueue](https://github.com/gree/haskell-jobqueue)
+* [haskell-prefork](https://github.com/gree/haskell-prefork)
+* [haskell-test-sandbox](https://github.com/gree/haskell-test-sandbox)
+* [memcache-haskell](https://github.com/gree/memcache-haskell)
+
+##Haskellを利用している海外の企業
 * [YOW! 2015 - Reid Draper - Production Haskell](https://www.youtube.com/watch?v=T2wi0ZUOHfM)
 * [2016 02 28 - Simon Meier - A primer to commercial Haskell programming](https://www.youtube.com/watch?v=ywOvfjpbYR4)
 * [Haskell for commercial software development](https://www.wagonhq.com/blog/haskell-for-industry)
@@ -69,17 +93,6 @@
 
 ### Galois
 * [Galois](http://galois.com/)
-
-### NTTデータ
-* [「Haskellは企業でも十分実用になる」、NTTデータがソースコード解析サービスの舞台裏を披露](http://itpro.nikkeibp.co.jp/article/NEWS/20131126/520642/?rt=nocnt)
-
-### 新日鉄住金ソリューションズ
-* [［Haskell］関数型の特徴を満載した王道の言語](http://itpro.nikkeibp.co.jp/article/COLUMN/20130112/449224/?ST=system&P=1)
-
-### Gree
-* [社内Haskellチュートリアルのススメ](http://labs.gree.jp/blog/2013/12/9201/)
-* [Haskell使ってみた](http://labs.gree.jp/blog/2013/12/9882/)
-* [画像配信：SwiftからS3への引越について](http://labs.gree.jp/blog/2015/12/14786/)
 
 ### Google
 * [Haskell Amuse-Bouche](https://www.youtube.com/watch?v=b9FagOVqxmI)
@@ -104,17 +117,9 @@
 ### Prezi
 * [Case Study - Haskell at Prezi](https://www.fpcomplete.com/page/case-study-prezi)
 
-### Tsuru Capital
-* [Tsuru Capital](http://www.tsurucapital.com/en/)
-
 ### Square
 * [Haskell in Production - Square Tech Talk](https://www.wagonhq.com/blog/square-tech-talk)
 
-### Livesense
-* [Haskell で楽しい Web スクレイピング](http://qiita.com/na-o-ys/items/30a4950d5391911493c2)
-
-### Wantedly
-* [難しいのは見た目だけ！？Haskellのモナドの「たった2つのルール」を簡単に理解する！](http://qiita.com/south37/items/06cfa95aa9c8f2ecb2e9)
 
 ##主な企業のHaskellレポジトリ
 * **2015/09/22 調べ**
@@ -150,35 +155,3 @@
     * A Haskell library that simplifies access to remote data, such as databases or web-based services. 
 * **soundcloud**
   * [haskell-kubernetes](https://github.com/soundcloud/haskell-kubernetes)
-* **IBM**
-* **heroku**
-* **GNOME**
-* **github**
-* **git**
-* **Flipboard**
-* **evernote**
-* **Automattic**
-* **aws**
-* **Microsoft**
-* **cookpad**
-* **CyberAgent**
-* **DeNADev**
-* **pepabo**
-* **hatena**
-* **kayac**
-* **mixi-inc**
-* **naver**
-* **niftycloud**
-* **pixiv**
-* **rakuten-ws**
-* **adobe-webplatform**
-* **Netflix**
-* **yahoo**
-* **WordPress**
-* **twitter**
-* **paypal**
-* **OculusVR**
-* **movabletype**
-* **mixpanel**
-* **linkedin**
-* **Instagram**
