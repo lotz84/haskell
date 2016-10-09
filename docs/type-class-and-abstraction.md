@@ -60,6 +60,8 @@ instance Show Bool where
 * [オーバーロードは何故にかくも難しいのか：Haskellの成功と失敗](http://d.hatena.ne.jp/m-hiyama/20160930/1475198218)
 
 ## 代数的な型クラス
+* [tower](https://tonyday567.github.io/tower/index.html)
+
 ### Semigroup
 * [Algebraic patterns - Semigroup](http://philipnilsson.github.io/Badness10k/posts/2016-07-14-functional-patterns-semigroup.html)
 
