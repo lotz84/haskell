@@ -114,6 +114,9 @@ Haskell to JavaScript compiler
 * [Fun with GHCJSi](https://www.youtube.com/watch?v=x7dQVZiWjvA)
 * [GETTING STARTED WITH GHCJS DEV](http://hangman-profile-56437.bitballoon.com/)
 * [Haskell to JavaScript](https://lettier.github.io/posts/2016-07-04-haskell-to-javascript.html)
+* [The State of the GHCJS](https://wiki.haskell.org/wikiupload/9/95/HIW15-Stegeman-The_State_of_the_GHCJS.pdf)
+* [Stackを使ってMacにGHCJSを導入する](http://qiita.com/sio-funmatsu/items/2a0ede61bddf389c5aec)
+* [[ny-haskell] GHCJS: Bringing Haskell to the Browser, by Luite Stegeman](https://vimeo.com/80895330)
 
 ### Haste
 * [Haskell + Haste で Fourier 級数の可視化](http://qiita.com/lesguillemets/items/dbd928237be3e6a1221d)
