@@ -89,6 +89,7 @@
 * [Stack (Haskell): `stack new`で自動的に生成されるLICENSEはBSDライセンスである](http://qiita.com/sky_y/items/c382020c690d15efc28f)
 * [Stackage LTS 7 is released](http://juhp.blogspot.jp/2016/09/stackage-lts-7-is-released.html?m=1)
 * [stackで~/.stackの場所を移動する](http://qiita.com/sanemat/items/722836dc71e5620d8db3)
+* [Static compilation with Stack](https://www.fpcomplete.com/blog/2016/10/static-compilation-with-stack)
 
 ## NixOS
 * [Nix ±Cabal](http://begriffs.com/posts/2015-08-07-nix-plus-minus-cabal.html)
@@ -209,3 +210,4 @@
 * [Overture: A Haskell Prelude](https://medium.com/@pthomson/overture-a-haskell-prelude-bc94a948febf#.q48h1mzes)
 * [シェル芸とHaskellの対応を考える](https://blog.ueda.asia/?p=2644)
 * [willdonnelly/dyre](https://github.com/willdonnelly/dyre) - A Dynamic Reconfiguration Library for Haskell Programs
+* [Thoughts on Haskell](http://get-finch.com/2016/09/26/thoughts_on_haskell.html)
