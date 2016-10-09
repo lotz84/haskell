@@ -7,6 +7,7 @@
 * [Haskell in Production with Carl Baatz](http://softwareengineeringdaily.com/2016/08/31/haskell-in-production-with-carl-baatz/)
 
 ##コミュニティ
+* [Haskell Communities and Activities Report](https://wiki.haskell.org/Haskell_Communities_and_Activities_Report)
 * [New York Haskell Users Group](http://www.meetup.com/NY-Haskell/)
 * [Google+](https://plus.google.com/communities/104818126031270146189)
 * [Facebook](https://www.facebook.com/groups/programming.haskell)
