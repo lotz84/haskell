@@ -434,6 +434,7 @@ Simple Clients
   * [Haskell postgresql-simple examples, part 2](http://begriffs.com/posts/2013-09-14-haskell-postgresql-simple-examples-part_13.html)
   * [ANN: SQL validator for queries embedded in postgresql-simple's quasiquoters](https://www.reddit.com/r/haskell/comments/4o9cuj/ann_sql_validator_for_queries_embedded_in/)
 * [The sqlite-simple package](https://hackage.haskell.org/package/sqlite-simple)
+  * [caneroj1/sqlite-simple-errors](https://github.com/caneroj1/sqlite-simple-errors)
 * [The hedis package](https://hackage.haskell.org/package/hedis)
 * [The couch-simple package](https://hackage.haskell.org/package/couch-simple)
 * [mongodb-haskell/mongodb](https://github.com/mongodb-haskell/mongodb)
