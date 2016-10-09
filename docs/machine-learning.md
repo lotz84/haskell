@@ -34,6 +34,7 @@
 * [Composing inference algorithms as program transformations](https://arxiv.org/abs/1603.01882)
 * [Saulzar/Tensor.hs](https://gist.github.com/Saulzar/568665c16506cbe2068123350cee9904) - Attempts at static tensor dimensioning
 * [iHaskellを試してみる](http://qiita.com/eielh/items/a35b3d51056c1031f4d0)
+* [Backpropogation is Just Steepest Descent with Automatic Differentiation](https://idontgetoutmuch.wordpress.com/2013/10/13/backpropogation-is-just-steepest-descent-with-automatic-differentiation-2/)
 
 ## 自然言語処理
 * [edit-distance: Levenshtein and restricted Damerau-Levenshtein edit distances](http://hackage.haskell.org/package/edit-distance)
