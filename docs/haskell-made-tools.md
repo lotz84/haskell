@@ -198,6 +198,10 @@ foo
 success
 ```
 
+### Pomohoro
+* A small pomodoro timer based on CLI usage and FreeDesktop.org notifications.
+* <https://github.com/kqr/Pomohoro>
+
 ### PostgREST
 * PostgreSQLの機能をREST APIに変換してくれるツール
 * [PostgREST Workshop](http://begriffs.com/posts/2015-10-02-postgrest-workshop.html)
