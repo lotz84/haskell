@@ -65,6 +65,7 @@
 * [Kris Jenkins - Types All The Way Down](https://www.youtube.com/watch?v=sh4H8yzXnvw&feature=youtu.be)
 * [Haskell (GHC) の型レベル自然数とリフレクションを試してみる](http://d-poppo.nazo.cc/blog/2016/10/haskell-type-level-naturals-and-reflection/)
 * [Proxies and Delegation vs. Existential Types](http://notes-on-haskell.blogspot.jp/2007/01/proxies-and-delegation-vs-existential.html)
+* [Refinement Reflection on ADTs: Lists Are Monoids](http://goto.ucsd.edu/~rjhala/liquid/haskell/blog/blog/2016/10/06/structural-induction.lhs/)
 
 ```haskell
 data Bottom
