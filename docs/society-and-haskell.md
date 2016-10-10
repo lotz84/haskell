@@ -26,6 +26,7 @@
 * [ICFP 2015](http://icfpconference.org/icfp2015/)
   * [mpickering/icfp2015-papers](https://github.com/mpickering/icfp2015-papers)
   * [ICFP Video](https://www.youtube.com/channel/UCwRL68qZFfub1Ep1EScfmBw)
+  * [Haskell Implementors' Workshop 2015](https://www.youtube.com/playlist?list=PLnqUlCo055hVfNkQHP7z43r10yNo-mc7B)
 * ICFP 2016
   * [gasche/icfp2016-papers](https://github.com/gasche/icfp2016-papers)
   * [HOPE 2016](https://www.youtube.com/playlist?list=PLnqUlCo055hVLWbmrXyxqYXcJJWSgU6Z5)
