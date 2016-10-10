@@ -63,6 +63,8 @@
 * [Haskell/存在量化された型](https://ja.wikibooks.org/wiki/Haskell/%E5%AD%98%E5%9C%A8%E9%87%8F%E5%8C%96%E3%81%95%E3%82%8C%E3%81%9F%E5%9E%8B)
 * [Quotient Types for Programmers](http://www.hedonisticlearning.com/posts/quotient-types-for-programmers.html)
 * [Kris Jenkins - Types All The Way Down](https://www.youtube.com/watch?v=sh4H8yzXnvw&feature=youtu.be)
+* [Haskell (GHC) の型レベル自然数とリフレクションを試してみる](http://d-poppo.nazo.cc/blog/2016/10/haskell-type-level-naturals-and-reflection/)
+* [Proxies and Delegation vs. Existential Types](http://notes-on-haskell.blogspot.jp/2007/01/proxies-and-delegation-vs-existential.html)
 
 ```haskell
 data Bottom
