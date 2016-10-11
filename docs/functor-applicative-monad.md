@@ -279,6 +279,7 @@ Reader + Writer + State
 
 ####MonadFix
 * [MonadFix example: compiling regular expressions](https://ro-che.info/articles/2015-09-02-monadfix)
+* [MonadFixを試す](http://qiita.com/eielh/items/3b793dbedcc6c9dc125c)
 
 ###Indexed Monad
 * [What is indexed monad?](http://stackoverflow.com/questions/28690448/what-is-indexed-monad)
