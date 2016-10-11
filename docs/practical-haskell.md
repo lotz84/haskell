@@ -26,6 +26,7 @@
 * [The Four Flaws of Haskell](http://neilmitchell.blogspot.jp/2016/08/the-four-flaws-of-haskell.html)
 * [Practical Haskell: Simple File Mirror (Part 1)](https://www.fpcomplete.com/blog/2016/09/practical-haskell-simple-file-mirror-1)
 * [Practical Haskell: Simple File Mirror (Part 2)](https://www.fpcomplete.com/blog/2016/09/practical-haskell-simple-file-mirror-2)
+* [N Haskell Tools & Packages I wish someone had told me about](http://get-finch.com/2016/10/10/haskell-tools.html)
 
 ##Cabal
 * [Hackage](http://hackage.haskell.org/)
