@@ -105,6 +105,7 @@ Front end
 * [Hakyll](https://github.com/lotz84/haskell/blob/master/docs/haskell-made-tools.md#hakyll) - 静的サイトジェネレータ
 * [シンプルでかつ最高のJavaScriptプロファイラ sjsp を作りました！](http://itchyny.hatenablog.com/entry/2015/07/01/120000)
 * [A Distributed Haskell for the Modern Web](http://ekblad.cc/lic.pdf)
+* [1 07 High Performance Client Side Web Applications through Haskell EDSLs](https://www.youtube.com/watch?v=gQmDeq9eyF8)
 
 Haskell to JavaScript compiler
 ------------------------------
