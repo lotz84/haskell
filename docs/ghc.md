@@ -98,6 +98,7 @@
 * [Haskell GHC開発に関する情報源いろいろ](http://qiita.com/takenobu-hs/items/0752931f2472c0705af0)
 * [Optimizing incremental compilation](http://blog.ezyang.com/2016/08/optimizing-incremental-compilation/)
 * [Try Backpack: ghc --backpack](http://blog.ezyang.com/2016/10/try-backpack-ghc-backpack/)
+* [1 10 Desugaring Haskell's do Notation into Applicative Operations](https://www.youtube.com/watch?v=6WM4gFP7rs4)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
