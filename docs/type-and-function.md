@@ -55,6 +55,7 @@ type a * b = (a, b)
 * [A simple Haskell function](http://neilmitchell.blogspot.jp/2016/01/a-simple-haskell-function.html)
 * [Composing bijections, surjections, and injections](https://gist.github.com/rampion/f20ffd6386269e6f7e41fae15d208e12)
 * [Eastman maximal comma-free codes in Haskell](https://byorgey.wordpress.com/2016/07/07/eastman-maximal-comma-free-codes-in-haskell/)
+* [Descriptive Variable Names: A Code Smell](http://degoes.net/articles/insufficiently-polymorphic)
 
 ###パターンマッチ
 * [Pattern matching](http://mbps.hatenablog.com/entry/2014/10/04/010000)
