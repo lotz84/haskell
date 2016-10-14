@@ -212,3 +212,4 @@
 * [シェル芸とHaskellの対応を考える](https://blog.ueda.asia/?p=2644)
 * [willdonnelly/dyre](https://github.com/willdonnelly/dyre) - A Dynamic Reconfiguration Library for Haskell Programs
 * [Thoughts on Haskell](http://get-finch.com/2016/09/26/thoughts_on_haskell.html)
+* [Getting audio from Youtube channels in the easiest way possible using Haskell](http://qiita.com/kimagure/items/0a2f3d60789c646e4426)
