@@ -1,41 +1,32 @@
 ##数値計算・可視化
-* [linear](http://hackage.haskell.org/package/linear)
-* [repa](https://hackage.haskell.org/package/repa)
-* [hmatrix](https://hackage.haskell.org/package/hmatrix)
-  * [introduction to hmatrix](http://dis.um.es/~alberto/material/hmatrix.pdf)
 * [scientific](https://hackage.haskell.org/package/scientific)
 * [timbod7/haskell-chart](https://github.com/timbod7/haskell-chart)
 * [diagrams](http://projects.haskell.org/diagrams/)
   * [Diagrams: Composition, Envelopes and Alignment Part 1](https://www.youtube.com/watch?v=5_fCUSOn7m0)
   * [Diagrams: Composition, Envelopes and Alignment Part 2](https://www.youtube.com/watch?v=nZCzsBOYdis)
+  * [prowdsponsor/diagrams-qrcode](https://github.com/prowdsponsor/diagrams-qrcode)
 * [Recreating OTAS Stamps in Haskell](https://blog.otastech.com/2016/02/recreating-otas-stamps-in-haskell/)
-* [The units package](https://hackage.haskell.org/package/units)
-* [Haskellで物理を殴ってレベルが上がった話](http://qiita.com/nushio/items/7d534a08e5c30bae32d0)
-* [Scientific Computation and Functional Programming](https://karczmarczuk.users.greyc.fr/arpap/quantfun.pdf)
 * [Interactive and composable charts](http://www.haskellforall.com/2015/11/interactive-and-composable-charts.html)
 * [smoothie](https://hackage.haskell.org/package/smoothie)
-* [Symbolic Calculus in Haskell](http://5outh.blogspot.in/2013/05/symbolic-calculus-in-haskell.html)
-* [prowdsponsor/diagrams-qrcode](https://github.com/prowdsponsor/diagrams-qrcode)
 * [Constraint Solver](http://www.mattkeeter.com/projects/constraints/)
-* [The dimensional package](http://hackage.haskell.org/package/dimensional)
 * [Floating Point: A Faustian Bargain?](https://idontgetoutmuch.wordpress.com/2015/11/12/floating-point-a-faustian-bargain/)
 * [Comonad and Sierpinski gasket](http://nbviewer.ipython.org/urls/gist.githubusercontent.com/miguel-negrao/571be4120ebecdbb3e26/raw/b740adc557fe097f9c6ff66ff7349bbf0a095091/gistfile1.txt)
-* [Haskell で振動子](http://d.hatena.ne.jp/webapp/20110508)
-* [24 days of Hackage, 2015: day 20: dimensional: type-checked computation on physical quantities with units](http://conscientiousprogrammer.com/blog/2015/12/20/24-days-of-hackage-2015-day-20-dimensional-type-checked-computation-on-physical-quantities-with-units/)
 * [Haphviz: Graphviz code generation with Haskell](http://cs-syd.eu/posts/2015-12-20-haphviz-graphviz-code-generation-with-haskell.html)
 * [The graphviz package](http://hackage.haskell.org/package/graphviz)
 * [swift-nav/plover](https://github.com/swift-nav/plover)
-* [Yo Dawg We Heard You Like Derivatives](http://jtobin.ca/ad-via-recursion-schemes/)
 * [tepf/QuickPlot](https://github.com/tepf/QuickPlot)
 * [Haskell でサムネイル生成](http://qiita.com/satosystems/items/abdb9696185f647b65a2)
 * [Haskell でサムネイル #2](http://qiita.com/satosystems/items/669a8b3fdfa535582cb4)
 * [Blackstar | Raytracing black holes with Haskell](https://flannelhead.github.io/projects/blackstar.html)
-* [An Image Processing Language: External and Shallow/Deep Embeddings](http://www.macs.hw.ac.uk/~rs46/papers/rwdsl2016/rwdsl-2016.pdf)
 * [Image processing with Juicy Pixels and Repa](https://www.stackbuilders.com/tutorials/haskell/image-processing/)
 * [M.M.T Chakravarty - Playing with Graphics and Animations in Haskell](https://www.youtube.com/watch?v=9dk7_GDNocQ)
-* [friday: A functional image processing library for Haskell.](https://hackage.haskell.org/package/friday)
 
-##GUI
+## 画像処理
+* [friday: A functional image processing library for Haskell.](https://hackage.haskell.org/package/friday)
+* [An Image Processing Language: External and Shallow/Deep Embeddings](http://www.macs.hw.ac.uk/~rs46/papers/rwdsl2016/rwdsl-2016.pdf)
+* [Twinside/Juicy.Pixels](https://github.com/Twinside/Juicy.Pixels)
+
+## GUI
 * [fltkhs](http://hackage.haskell.org/package/fltkhs)
 * [Electron, React, and Haskell—Oh My! by Mike Craig](https://speakerdeck.com/mkscrg/electron-react-and-haskell-oh-my)
 * [connors/photon](https://github.com/connors/photon)
@@ -50,8 +41,7 @@
 * [Creating a GUI application in Haskell](https://www.stackbuilders.com/tutorials/haskell/gui-application/)
 * [deech/webkitfltkhs](https://github.com/deech/webkitfltkhs)
 
-##Game
-* [CodinGame](https://www.codingame.com/)
+## Game
 * [Asset management in a real time 3D engine in Haskell](http://phaazon.blogspot.fr/2015/06/asset-management-in-real-time-3d-engine.html)
 * [badamson/2048.hs](https://github.com/badamson/2048.hs)
 * [Applied Traversals and isos: a 2048 clone](http://www.nmattia.com/posts/2016-08-19-lens-linear-2048.html)
@@ -70,11 +60,11 @@
 * [sleexyz/hylogen](https://github.com/sleexyz/hylogen)
 * [Writing Games in Haskell with SpriteKit](http://blog.haskellformac.com/blog/writing-games-in-haskell-with-spritekit)
 
-##Gloss
+## Gloss
 * [gloss](http://hackage.haskell.org/package/gloss)
 * [Mandelbrot shift](http://inf.ufrgs.br/~morprates/code/mandelbrot/)
 
-##OpenGL
+## OpenGL
 ※GLUTはもう古い
 * [OpenGL](https://hackage.haskell.org/package/OpenGL)
 * [GLFW3.0の使い方](http://marina.sys.wakayama-u.ac.jp/~tokoi/GLFW.pdf)
@@ -94,7 +84,6 @@
 * [jaredloomis/Haskell-GLSL-eDSL](https://github.com/jaredloomis/Haskell-GLSL-eDSL)
 * [[Haskell]でシューティングを読む(1)](http://d.hatena.ne.jp/h_sakurai/20050727)
 * [stackgl/glsl-lighting-walkthrough](https://github.com/stackgl/glsl-lighting-walkthrough)
-* [独学で 1 ヶ月間 OpenGL を学んで得た基礎知識のまとめ ~ 2D 編 ~](http://tkengo.github.io/blog/2014/12/20/opengl-es-2-2d-knowledge-0/)
 * [Introducing Luminance, a safer OpenGL API](http://phaazon.blogspot.fr/2015/07/introducing-luminance-safer-opengl-api.html)
 * [Luminance – framebuffers and textures](http://phaazon.blogspot.jp/2015/08/luminance-framebuffers-and-textures.html)
 * [Luminance – Vertex Arrays](http://phaazon.blogspot.jp/2015/08/luminance-vertex-arrays.html)
@@ -111,17 +100,10 @@
 * [luminance designs](http://phaazon.blogspot.jp/2016/08/luminance-designs.html)
 * [I3ck/HGE2D](https://github.com/I3ck/HGE2D)
 * [CIFASIS/ttasm](https://github.com/CIFASIS/ttasm)
-* [Part One - Infrastructure with SDL2](http://zyghost.com/series/odin/part-one-sdl2/)
 * [Mokosha/Lambency](https://github.com/Mokosha/Lambency)
+* [Part One - Infrastructure with SDL2](http://zyghost.com/series/odin/part-one-sdl2/)
 * [Part Two - Joystick Control](http://zyghost.com/series/odin/part-two/)
-
-##WebGL
-* [wgld.org](http://wgld.org/)
-* [明解 WebGL オンラインサンプルインデックス](http://book.wgld.org/rf/)
-* [WebGLStudio.js](http://webglstudio.org/)
 
 ###Game Engine
 * [Helm - A functionally reactive game engine](http://helm-engine.org/)
 * [lukexi/halive](https://github.com/lukexi/halive)
-* [Twinside/Juicy.Pixels](https://github.com/Twinside/Juicy.Pixels)
-* [ゲームエンジンとMVC](http://www.slideshare.net/AimingStudy/mvc-36317215)
