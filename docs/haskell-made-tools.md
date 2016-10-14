@@ -198,6 +198,10 @@ foo
 success
 ```
 
+### patat
+* Terminal-based presentations using Pandoc
+* <https://github.com/jaspervdj/patat>
+
 ### Pomohoro
 * A small pomodoro timer based on CLI usage and FreeDesktop.org notifications.
 * <https://github.com/kqr/Pomohoro>
