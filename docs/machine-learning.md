@@ -22,7 +22,6 @@
 * [プログラミングのための確率統計 in Haskell](http://note.golden-lucky.net/2010/12/1-2-3-4-5-6-16-16-16-16-16-16-246-135.html)
 * [HuwCampbell/grenade](https://github.com/HuwCampbell/grenade)
 * [Get a Brain](http://www-cs-students.stanford.edu/~blynn//haskell/brain.html)
-* [Kernel Bayes’ Rule](http://www.cc.gatech.edu/~lsong/papers/FukSonGre11.pdf)
 * ["Haskell's stochastic gradient descent implementations comparison.](https://github.com/argent0/haskell-ml-benchmark/blob/master/result/main.md)
 * [Example: The K-Means Problem](http://chimera.labs.oreilly.com/books/1230000000929/ch03.html#sec_using-parlist)
 * [Frames: Data frames For working with tabular data files](http://hackage.haskell.org/package/Frames)
