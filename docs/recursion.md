@@ -29,7 +29,7 @@ main = print (sum [1..10])
 * [Polymorphic recursion combinator in Haskell](http://h2.jaguarpaw.co.uk/posts/polymorphic-recursion-combinator/)
 * [Mutual Recursion in Final Encoding](http://aherrmann.github.io/programming/2016/05/28/mutual-recursion-in-final-encoding/)
 
-##map, filter, foldr
+## map, filter, foldr
 
 > 変な話なのですが、再帰をよく理解したら、なるべく再帰を使ってはいけません
 
@@ -49,7 +49,7 @@ evenElements :: [Int] -> [Int]
 evenElements xs = filter even xs
 ```
 
-###foldl, foldr
+### foldl, foldr
 
 > * 正格データ（数値）を生成するには末尾再帰
 > * 遅延データ（リスト）を生成するには普通の再帰
@@ -63,14 +63,14 @@ evenElements xs = filter even xs
 * [foldlをfoldrで実装する](http://qiita.com/arowM/items/91a9bd8ea83168d412ab)
 * [The Magic of Folds](http://www.parsonsmatt.org/2016/03/24/the_magic_of_folds.html)
 
-##リスト
+## リスト
 * [(cons cat (cons cat nil))](https://twitter.com/lvsn/status/533685461957349376)
 * [split](https://hackage.haskell.org/package/split)
 * [dlist](http://hackage.haskell.org/package/dlist)
 * [代数的データ型を使わないリスト](http://maoe.hatenadiary.jp/entry/20110402/1301677925)
 
-##Foldable/Traversable
-###Foldable
+## Foldable/Traversable
+### Foldable
 
 ```haskell
 class Foldable t where
@@ -80,7 +80,7 @@ class Foldable t where
 * [Data.Foldable](https://hackage.haskell.org/package/base/docs/Data-Foldable.html)
 * [Foldable with metadata](http://kenta.blogspot.jp/2015/08/clomduww-foldable-with-metadata.html)
 
-###Traversable
+### Traversable
 
 ```haskell
 class (Functor t, Foldable t) => Traversable t where
@@ -96,7 +96,7 @@ class (Functor t, Foldable t) => Traversable t where
 * [witherable](https://hackage.haskell.org/package/witherable)
 * [snoyberg/mono-traversable](https://github.com/snoyberg/mono-traversable)
 
-####Distributive
+#### Distributive
 Distributive is the categorical dual of Traversable.
 
 ```haskell
@@ -106,7 +106,7 @@ class Functor g => Distributive g where
 
 * [Data.Distributive](https://hackage.haskell.org/package/distributive/docs/Data-Distributive.html)
 
-##領域理論・不動点意味論
+## 領域理論・不動点意味論
 * [不動点の話](http://d.hatena.ne.jp/kazu-yamamoto/20110426/1303810333)
 * [Haskell/不動点と再帰](https://ja.wikibooks.org/wiki/Haskell/%E4%B8%8D%E5%8B%95%E7%82%B9%E3%81%A8%E5%86%8D%E5%B8%B0)
 * [Solving Recursive Equations](http://jozefg.bitbucket.org/posts/2015-08-14-solve-domains.html)
@@ -120,7 +120,7 @@ class Functor g => Distributive g where
 fact = fix $ \fact n -> if n == 0 then 1 else n * fact (n-1)
 ```
 
-##Catamorphism, Anamorphism
+## Catamorphism, Anamorphism
 * [Catamorphisms in 15 Minutes!](http://chrislambda.github.io/blog/2014/01/30/catamorphisms-in-15-minutes/)
 * [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire](http://eprints.eemcs.utwente.nl/7281/01/db-utwente-40501F46.pdf)
 * [再帰のパターン](http://maoe.hatenadiary.jp/entry/20090820/1250782646)
@@ -144,6 +144,10 @@ fact = fix $ \fact n -> if n == 0 then 1 else n * fact (n-1)
 * [融合変換による最適化の理論的基盤と正当性](http://www.slideshare.net/sakai/20060627)
 * [Zygomorphisms and Futumorphisms specialised to lists](http://stackoverflow.com/questions/36851766/zygomorphisms-and-futumorphisms-specialised-to-lists)
 * [Talking Bananas](http://homepages.inf.ed.ac.uk/slindley/papers/talking-bananas-draft-march2016.pdf)
+* [Practical Recursion Schemes](http://jtobin.ca/practical-recursion-schemes)
+* [A Tour of Some Useful Recursive Types](http://jtobin.ca/tour-of-some-recursive-types)
+* [Monadic Recursion Schemes](http://jtobin.ca/monadic-recursion-schemes)
+* [Time Traveling Recursion Schemes](http://jtobin.ca/time-traveling-recursion)
 
 ----
 
