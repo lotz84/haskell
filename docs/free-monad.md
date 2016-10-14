@@ -127,6 +127,7 @@ yoneda f = Natural $ \ax -> fmap ax f
 * [Writing a Search DSL, Part 1](https://blog.cppcabrera.com/posts/56-writing-a-search-dsl-1.html)
 * [Haskell, Startups, and Domain Specific Languages](https://www.youtube.com/watch?v=R4nLSxCKkNw)
 * [Compilation as a Typed EDSL-to-EDSL Transformation](http://fun-discoveries.blogspot.jp/2016/03/compilation-as-typed-edsl-to-edsl.html)
+* [Sharing in Haskell EDSLs](http://jtobin.ca/sharing-in-haskell-edsls)
 
 ### The Expression Problem
 * [The Expression Problem](http://maoe.hatenadiary.jp/entry/20101214/1292337923)
