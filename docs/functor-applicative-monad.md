@@ -141,6 +141,9 @@ class Monad m where
 * [Why do we need Monad to encapsulate side effects in Haskell?](https://www.quora.com/Why-do-we-need-Monad-to-encapsulate-side-effects-in-Haskell/answer/Tikhon-Jelvis)
 * [Haskellでmain(do)内での"<-"と"let"の違い](http://qiita.com/Sohma/items/1377bd7299f46e2fbd44)
 * [Monads are like Lannisters](http://www.snoyman.com/blog/2016/09/monads-are-like-lannisters)
+* [The Key Monad: Type Safe Unconstrained Dynamic Typing](https://www.youtube.com/watch?v=Q2t-IY-gtEo&index=16&list=PLnqUlCo055hX8RkgLEjBYnETx6NuiL756)
+* [Supermonads: One Notion to Bind them All](https://www.youtube.com/watch?v=HRofw58sySw)
+* [Kleisli Functors](http://elvishjerricco.github.io/2016/10/12/kleisli-functors.html)
 
 ```haskell
 do x <- mx
