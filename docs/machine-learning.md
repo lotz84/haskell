@@ -4,22 +4,12 @@
   * [Haskellの機械学習ライブラリHLearn](http://qiita.com/nebutalab/items/680203ff3d84cde7c8db)
 * [sarthakbagaria/has-sci](https://github.com/sarthakbagaria/has-sci)
 * [Working with data in Haskell](https://www.fpcomplete.com/blog/2016/09/data-haskell)
-* [random-fu](https://hackage.haskell.org/package/random-fu)
-* [The generic-random library, part 1: simple generic Arbitrary instances](https://byorgey.wordpress.com/2016/09/20/the-generic-random-library-part-1-simple-generic-arbitrary-instances/)
 * [bmsherman/haskell-matlab](https://github.com/bmsherman/haskell-matlab)
-* [HaskellR](http://tweag.github.io/HaskellR/)
-  * [Programming R at native speed using Haskell](http://www.tweag.io/blog/programming-r-at-native-speed-using-haskell)
-  * [How to include R plots and diagrams in blog posts](http://www.corentindupont.info/blog/posts/Programming/2015-09-14-diagrams.html)
 * [QLearn: A Haskell library for iterative Q-learning.](http://poincare.github.io/QLearn/)
-* [Automatic Propagation of Uncertainty with AD](https://blog.jle.im/entry/automatic-propagation-of-uncertainty-with-ad.html)
 * [Kalman filters and functional programming](http://www.johndcook.com/blog/2016/07/14/kalman-filters-and-functional-programming/)
 * [aneksteind/hext](https://github.com/aneksteind/hext)
-* [Demo of IHaskell Notebook](http://begriffs.com/posts/2016-01-20-ihaskell-notebook.html)
 * [bitemyapp/bloodhound](https://github.com/bitemyapp/bloodhound) - Haskell Elasticsearch client and query DSL
-* [IHaskell Online: Help Choose Demo Code Snippets!](http://www.reddit.com/r/haskell/comments/37uqqk/ihaskell_online_help_choose_demo_code_snippets/)
 * [関数型言語Haskellを用いた役割指向エージェントベースシミュレーションシステムのプロトタイプ開発](http://repo.lib.hosei.ac.jp/handle/10114/11016)
-* [Install IHaskell on Ubuntu 14.04 with Stack](http://remusao.github.io/install-ihaskell-on-ubuntu-1404-with-stack.html)
-* [プログラミングのための確率統計 in Haskell](http://note.golden-lucky.net/2010/12/1-2-3-4-5-6-16-16-16-16-16-16-246-135.html)
 * [HuwCampbell/grenade](https://github.com/HuwCampbell/grenade)
 * [Get a Brain](http://www-cs-students.stanford.edu/~blynn//haskell/brain.html)
 * ["Haskell's stochastic gradient descent implementations comparison.](https://github.com/argent0/haskell-ml-benchmark/blob/master/result/main.md)
@@ -28,18 +18,37 @@
 * [Fast Nearest Neighbor Queries in Haskell](https://izbicki.me/blog/fast-nearest-neighbor-queries-in-haskell.html)
 * [Exploratory Haskell](http://www.parsonsmatt.org/2015/12/09/exploratory_haskell.html)
 * [The Intersection of Machine Learning, Types and Testing](https://www.youtube.com/watch?v=czZ18YtZlaw)
-* [Boltzmann sampling for generic Arbitrary instances](https://byorgey.wordpress.com/2016/03/23/boltzmann-sampling-for-generic-arbitrary-instances/)
 * <https://indico.io/>
 * [Composing inference algorithms as program transformations](https://arxiv.org/abs/1603.01882)
 * [Saulzar/Tensor.hs](https://gist.github.com/Saulzar/568665c16506cbe2068123350cee9904) - Attempts at static tensor dimensioning
+
+## HaskellR
+* [HaskellR](http://tweag.github.io/HaskellR/)
+* [Programming R at native speed using Haskell](http://www.tweag.io/blog/programming-r-at-native-speed-using-haskell)
+* [How to include R plots and diagrams in blog posts](http://www.corentindupont.info/blog/posts/Programming/2015-09-14-diagrams.html)
+
+## IHaskell
 * [iHaskellを試してみる](http://qiita.com/eielh/items/a35b3d51056c1031f4d0)
-* [Backpropogation is Just Steepest Descent with Automatic Differentiation](https://idontgetoutmuch.wordpress.com/2013/10/13/backpropogation-is-just-steepest-descent-with-automatic-differentiation-2/)
+* [Install IHaskell on Ubuntu 14.04 with Stack](http://remusao.github.io/install-ihaskell-on-ubuntu-1404-with-stack.html)
+* [IHaskell Online: Help Choose Demo Code Snippets!](http://www.reddit.com/r/haskell/comments/37uqqk/ihaskell_online_help_choose_demo_code_snippets/)
+* [Demo of IHaskell Notebook](http://begriffs.com/posts/2016-01-20-ihaskell-notebook.html)
+
+## 確率
+* [プログラミングのための確率統計 in Haskell](http://note.golden-lucky.net/2010/12/1-2-3-4-5-6-16-16-16-16-16-16-246-135.html)
+* [random-fu](https://hackage.haskell.org/package/random-fu)
+* [The generic-random library, part 1: simple generic Arbitrary instances](https://byorgey.wordpress.com/2016/09/20/the-generic-random-library-part-1-simple-generic-arbitrary-instances/)
+* [Boltzmann sampling for generic Arbitrary instances](https://byorgey.wordpress.com/2016/03/23/boltzmann-sampling-for-generic-arbitrary-instances/)
 
 ## 自然言語処理
 * [edit-distance: Levenshtein and restricted Damerau-Levenshtein edit distances](http://hackage.haskell.org/package/edit-distance)
 * [colada: Colada implements incremental word class class induction using online LDA](https://hackage.haskell.org/package/colada)
 * [chatter: A library of simple NLP algorithms.](https://hackage.haskell.org/package/chatter)
 * [The Functional Morphology Library](http://www.cse.chalmers.se/alumni/markus/FM_Tech_Report.pdf)
+
+## FFT
+* [Simple FFT in Haskell](https://ro-che.info/articles/2015-12-04-fft)
+* [Testing FFT with R](https://ro-che.info/articles/2015-12-05-testing-fft)
+* [conal/talk-2016-generic-fft](https://github.com/conal/talk-2016-generic-fft)
 
 ## 確率論的プログラミング
 * [Probabilistic Programming](https://media.nips.cc/Conferences/2015/tutorialslides/wood-nips-probabilistic-programming-tutorial-2015.pdf)
@@ -138,6 +147,16 @@ sample prog (replicate 10 heads)
 * [A CATEGORICAL FOUNDATION FOR BAYESIAN PROBABILITY](https://arxiv.org/pdf/1205.1488.pdf)
 * [A Type Theory for Probabilistic and Bayesian Reasoning](https://arxiv.org/abs/1511.09230)
 * [A Categorical Basis for Conditional Probability](http://www.cs.ru.nl/B.Jacobs/PAPERS/cat-prob-th.pdf)
+
+## 自動微分
+* [ad](https://hackage.haskell.org/package/ad)
+  * <https://twitter.com/GabrielG439/status/647601518871359489>
+  * [Beautiful differentiation](http://conal.net/blog/posts/beautiful-differentiation)
+* [Computing symbolic gradient vectors with plain Haskell](http://blog.aloni.org/posts/symbolic-gradients-with-plain-haskell/)
+* [Reverse mode Automatic Differentiation](http://h2.jaguarpaw.co.uk/posts/reverse-mode-automatic-differentiation/)
+* [Resources/dx.hs](https://github.com/SamuelSchlesinger/Resources/blob/master/dx.hs)
+* [Backpropogation is Just Steepest Descent with Automatic Differentiation](https://idontgetoutmuch.wordpress.com/2013/10/13/backpropogation-is-just-steepest-descent-with-automatic-differentiation-2/)
+* [Automatic Propagation of Uncertainty with AD](https://blog.jle.im/entry/automatic-propagation-of-uncertainty-with-ad.html)
 
 ## Deep Learning
 * [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/)
