@@ -17,7 +17,6 @@
 * [OBVERSE AND REVERSE](http://www.stackbuilders.com/news/obverse-and-reverse)
 * [Moore for Less](https://www.fpcomplete.com/user/edwardk/moore)
 * [HANGMAN: IMPERATIVE FUNCTIONAL PROGRAMMING](http://www.stackbuilders.com/news/hangman-imperative-functional-programming)
-* [関数型的正規表現マッチ](https://research.preferred.jp/2010/11/regexp-play/)
 * [Convex Hull(凸包)を求める(Jarvis's March, Quickhull, Clojure)](http://uid0130.blogspot.jp/2015/08/convex-hulljarviss-march-quickhull.html)
 * [Unlifted Structures](https://www.fpcomplete.com/user/edwardk/unlifted-structures)
 * [ArrayArrays](https://mail.haskell.org/pipermail/ghc-devs/2015-August/009666.html)
@@ -117,14 +116,6 @@
 * [Lazy unary numbers](http://www.edofic.com/posts/2015-05-03-unary-numbers.html)
 * [Exact Real Arithmetic in Haskell](https://www.youtube.com/watch?v=LJQgYBQFtSE)
 
-### Automatic Differentiation
-* [ad](https://hackage.haskell.org/package/ad)
-  * <https://twitter.com/GabrielG439/status/647601518871359489>
-  * [Beautiful differentiation](http://conal.net/blog/posts/beautiful-differentiation)
-* [Computing symbolic gradient vectors with plain Haskell](http://blog.aloni.org/posts/symbolic-gradients-with-plain-haskell/)
-* [Reverse mode Automatic Differentiation](http://h2.jaguarpaw.co.uk/posts/reverse-mode-automatic-differentiation/)
-* [Resources/dx.hs](https://github.com/SamuelSchlesinger/Resources/blob/master/dx.hs)
-
 ###文字列
 * [Haskell String Types](http://www.alexeyshmalko.com/2015/haskell-string-types/)
 * [bytestring](https://hackage.haskell.org/package/bytestring)
@@ -170,11 +161,6 @@
 * [Haskellで処理時間を測るために、](https://plus.google.com/+MasahiroSakai/posts/AY7uqu6S9X7)
 * [hellerve/Data.DDate](https://github.com/hellerve/Data.DDate)
 * [System.Timeを使うときは気をつけよう](http://qiita.com/watertight/items/294d2ebb73c54d046f63) - `Data.Time`を使おう
-
-###FFT
-* [Simple FFT in Haskell](https://ro-che.info/articles/2015-12-04-fft)
-* [Testing FFT with R](https://ro-che.info/articles/2015-12-05-testing-fft)
-* [conal/talk-2016-generic-fft](https://github.com/conal/talk-2016-generic-fft)
 
 ###属性文法
 * [なぜ属性文法は重要か](https://sites.google.com/site/paclearner/why_attribute_grammars_matter)
