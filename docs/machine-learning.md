@@ -7,20 +7,20 @@
 * [bmsherman/haskell-matlab](https://github.com/bmsherman/haskell-matlab)
 * [QLearn: A Haskell library for iterative Q-learning.](http://poincare.github.io/QLearn/)
 * [Kalman filters and functional programming](http://www.johndcook.com/blog/2016/07/14/kalman-filters-and-functional-programming/)
-* [aneksteind/hext](https://github.com/aneksteind/hext)
 * [bitemyapp/bloodhound](https://github.com/bitemyapp/bloodhound) - Haskell Elasticsearch client and query DSL
 * [関数型言語Haskellを用いた役割指向エージェントベースシミュレーションシステムのプロトタイプ開発](http://repo.lib.hosei.ac.jp/handle/10114/11016)
 * [HuwCampbell/grenade](https://github.com/HuwCampbell/grenade)
 * [Get a Brain](http://www-cs-students.stanford.edu/~blynn//haskell/brain.html)
-* ["Haskell's stochastic gradient descent implementations comparison.](https://github.com/argent0/haskell-ml-benchmark/blob/master/result/main.md)
-* [Example: The K-Means Problem](http://chimera.labs.oreilly.com/books/1230000000929/ch03.html#sec_using-parlist)
 * [Frames: Data frames For working with tabular data files](http://hackage.haskell.org/package/Frames)
 * [Fast Nearest Neighbor Queries in Haskell](https://izbicki.me/blog/fast-nearest-neighbor-queries-in-haskell.html)
+* [Example: The K-Means Problem](http://chimera.labs.oreilly.com/books/1230000000929/ch03.html#sec_using-parlist)
 * [Exploratory Haskell](http://www.parsonsmatt.org/2015/12/09/exploratory_haskell.html)
 * [The Intersection of Machine Learning, Types and Testing](https://www.youtube.com/watch?v=czZ18YtZlaw)
-* <https://indico.io/>
 * [Composing inference algorithms as program transformations](https://arxiv.org/abs/1603.01882)
 * [Saulzar/Tensor.hs](https://gist.github.com/Saulzar/568665c16506cbe2068123350cee9904) - Attempts at static tensor dimensioning
+* [repa](https://hackage.haskell.org/package/repa)
+* [Scientific Computation and Functional Programming](https://karczmarczuk.users.greyc.fr/arpap/quantfun.pdf)
+* [Markov Chains à la Carte](http://jtobin.ca/markov-chains-a-la-carte)
 
 ## HaskellR
 * [HaskellR](http://tweag.github.io/HaskellR/)
@@ -38,17 +38,24 @@
 * [random-fu](https://hackage.haskell.org/package/random-fu)
 * [The generic-random library, part 1: simple generic Arbitrary instances](https://byorgey.wordpress.com/2016/09/20/the-generic-random-library-part-1-simple-generic-arbitrary-instances/)
 * [Boltzmann sampling for generic Arbitrary instances](https://byorgey.wordpress.com/2016/03/23/boltzmann-sampling-for-generic-arbitrary-instances/)
+* [Randomness in Haskell](http://jtobin.ca/randomness-in-haskell)
 
 ## 自然言語処理
 * [edit-distance: Levenshtein and restricted Damerau-Levenshtein edit distances](http://hackage.haskell.org/package/edit-distance)
 * [colada: Colada implements incremental word class class induction using online LDA](https://hackage.haskell.org/package/colada)
 * [chatter: A library of simple NLP algorithms.](https://hackage.haskell.org/package/chatter)
 * [The Functional Morphology Library](http://www.cse.chalmers.se/alumni/markus/FM_Tech_Report.pdf)
+* [aneksteind/hext](https://github.com/aneksteind/hext)
 
 ## FFT
 * [Simple FFT in Haskell](https://ro-che.info/articles/2015-12-04-fft)
 * [Testing FFT with R](https://ro-che.info/articles/2015-12-05-testing-fft)
 * [conal/talk-2016-generic-fft](https://github.com/conal/talk-2016-generic-fft)
+
+## 線形代数
+* [linear](http://hackage.haskell.org/package/linear)
+* [hmatrix](https://hackage.haskell.org/package/hmatrix)
+  * [introduction to hmatrix](http://dis.um.es/~alberto/material/hmatrix.pdf)
 
 ## 確率論的プログラミング
 * [Probabilistic Programming](https://media.nips.cc/Conferences/2015/tutorialslides/wood-nips-probabilistic-programming-tutorial-2015.pdf)
@@ -157,6 +164,9 @@ sample prog (replicate 10 heads)
 * [Resources/dx.hs](https://github.com/SamuelSchlesinger/Resources/blob/master/dx.hs)
 * [Backpropogation is Just Steepest Descent with Automatic Differentiation](https://idontgetoutmuch.wordpress.com/2013/10/13/backpropogation-is-just-steepest-descent-with-automatic-differentiation-2/)
 * [Automatic Propagation of Uncertainty with AD](https://blog.jle.im/entry/automatic-propagation-of-uncertainty-with-ad.html)
+* [Symbolic Calculus in Haskell](http://5outh.blogspot.in/2013/05/symbolic-calculus-in-haskell.html)
+* [Automasymbolic Differentiation](http://jtobin.ca/automasymbolic-differentiation)
+* [Yo Dawg We Heard You Like Derivatives](http://jtobin.ca/ad-via-recursion-schemes)
 
 ## Deep Learning
 * [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/)
@@ -165,6 +175,7 @@ sample prog (replicate 10 heads)
 * [DeepLearning(2): まずは順伝播(下)](http://qiita.com/eijian/items/24d7e6aee332d59509ec)
 * [FRP & RNN](http://imgur.com/a/mWseu)
 * [autumnai/leaf](https://github.com/autumnai/leaf)
+* ["Haskell's stochastic gradient descent implementations comparison.](https://github.com/argent0/haskell-ml-benchmark/blob/master/result/main.md)
 
 ### Neural Network
 * [jbarrow/LambdaNet](https://github.com/jbarrow/LambdaNet)
