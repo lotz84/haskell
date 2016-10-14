@@ -48,6 +48,7 @@ main = do
 * [Shortcut fusion for pipes](http://www.haskellforall.com/2014/01/stream-fusion-for-pipes.html)
 
 ###Conduit
+* [conduit library](https://haskell-lang.org/library/conduit)
 * <https://hackage.haskell.org/package/conduit>
 * [Conduit Overview](https://www.fpcomplete.com/user/snoyberg/library-documentation/conduit-overview)
 * [Simpler conduit library based on monadic folds](http://newartisans.com/2014/06/simpler-conduit-library/)
