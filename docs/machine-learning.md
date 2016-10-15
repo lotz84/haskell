@@ -56,6 +56,7 @@
 * [linear](http://hackage.haskell.org/package/linear)
 * [hmatrix](https://hackage.haskell.org/package/hmatrix)
   * [introduction to hmatrix](http://dis.um.es/~alberto/material/hmatrix.pdf)
+* [Efficient Linear Algebra with Plover](http://begriffs.com/posts/2016-01-03-plover-linear-algebra.html)
 
 ## 確率論的プログラミング
 * [Probabilistic Programming](https://media.nips.cc/Conferences/2015/tutorialslides/wood-nips-probabilistic-programming-tutorial-2015.pdf)
