@@ -170,6 +170,9 @@
 * [The s-cargot package](https://hackage.haskell.org/package/s-cargot)
 * [24 days of Hackage, 2015: day 10: s-cargot: using S-expression syntax](http://conscientiousprogrammer.com/blog/2015/12/10/24-days-of-hackage-2015-day-10-s-cargot-using-s-expression-syntax/)
 
+### 動的計画法
+* [Dynamorphism 〜 Haskellでも動的計画法がしたい！ 〜](http://titech-ssr.blog.jp/archives/1047835805.html)
+
 ###Record
 
 ```haskell
