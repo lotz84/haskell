@@ -48,7 +48,6 @@
 * [Solving the GCHQ puzzle "by hand"](http://neilmitchell.blogspot.jp/2015/12/solving-gchq-puzzle-by-hand.html)
 * [The magma package](http://hackage.haskell.org/package/magma)
 * [A SAMPLE IMPLEMENTATION OF L-SYSTEMS IN HASKELL](http://www.filipallberg.se/l-system.html)
-* [Efficient Linear Algebra with Plover](http://begriffs.com/posts/2016-01-03-plover-linear-algebra.html)
 * [状態変化なしに効率的な辞書を実装する重み平衡木](http://qiita.com/YoshikuniJujo/items/a852c0d3af70debd2d24)
 * [Symbolic expressions can be Automatically differentiated too](http://h2.jaguarpaw.co.uk/posts/symbolic-expressions-can-be-automatically-differentiated/)
 * [Haskellでわかる群論の代数的構造](https://www.gitbook.com/book/aiya000/haskell_de_groupstructure/details)
