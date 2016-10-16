@@ -157,6 +157,7 @@
 * [nh2/call-haskell-from-anything](https://github.com/nh2/call-haskell-from-anything)
 * [dg.](https://pyos.github.io/dg/)
 * [Haskell - GHC for iOS : 既存のSwiftプロジェクトにHaskellで作った関数をさくっと組み込む](http://blog.euphonictech.com/entry/2015/03/30/235956)
+* [Using Haskell in Rust](http://mgattozzi.github.io/2016/10/15/rust-haskell.html)
 
 ## Music
 * [Algorithmic, hyperreal, broken techno.](http://www.pledgemusic.com/projects/spicule/)
