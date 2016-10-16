@@ -50,6 +50,7 @@ type a * b = (a, b)
 * [Zippers, Part 2: Zippers as Derivatives](https://pavpanchekha.com/blog/zippers/derivative.html)
 * [Scrap Your Zippers](http://michaeldadams.org/papers/scrap_your_zippers/ScrapYourZippers-2010.pdf)
 * [syz](https://hackage.haskell.org/package/syz)
+* [Zipper関連のパッケージ](http://d.hatena.ne.jp/debug-ito/20161016/1476587232)
 
 ##関数
 * [A simple Haskell function](http://neilmitchell.blogspot.jp/2016/01/a-simple-haskell-function.html)
