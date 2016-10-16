@@ -168,6 +168,7 @@ sample prog (replicate 10 heads)
 * [Symbolic Calculus in Haskell](http://5outh.blogspot.in/2013/05/symbolic-calculus-in-haskell.html)
 * [Automasymbolic Differentiation](http://jtobin.ca/automasymbolic-differentiation)
 * [Yo Dawg We Heard You Like Derivatives](http://jtobin.ca/ad-via-recursion-schemes)
+* [確率的勾配降下法をadで実装してみた](http://qiita.com/lotz/items/9e2ae06925906e3c67b0)
 
 ## Deep Learning
 * [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/)
