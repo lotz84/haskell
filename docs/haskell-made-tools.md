@@ -333,6 +333,10 @@ Line 6:
 * Haskellのimport文を並べ替えるコマンド
 * <https://github.com/fumieval/import-bikeshedder>
 
+### staversion
+* [staversion: What version is the package X in stackage lts-Y.ZZ?](https://hackage.haskell.org/package/staversion)
+* [stackageの特定のresolverに上がっているパッケージバージョンを調べるツール](http://d.hatena.ne.jp/debug-ito/20161016/1476603444)
+
 ### typebot
 * 関数の型を答えてくれるSlack bot
 * <https://github.com/thoughtbot/typebot>
