@@ -196,6 +196,7 @@ Web Server
 * [chpatrick/solga](https://github.com/chpatrick/solga)
 * [Writing controller specs for a Warp server](http://begriffs.com/posts/2014-10-19-warp-server-controller-test.html)
 * [What is HTTP/2 server push?](http://www.yesodweb.com/blog/2016/07/http2-server-push)
+* [jfischoff/reuse-port-example](https://github.com/jfischoff/reuse-port-example)
 
 Web Application Framework
 -------------------------
