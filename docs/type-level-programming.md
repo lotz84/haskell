@@ -150,6 +150,7 @@ circum (Circle _ _ r) = …
 * [Why do pattern synonyms not cause type refinement?](https://mpickering.github.io/posts/2016-06-18-why-no-refinement.html)
 * [Refinement Reflection: Haskell as a Theorem Prover](http://goto.ucsd.edu/~rjhala/liquid/haskell/blog/blog/2016/09/18/refinement-reflection.lhs/)
 * [csgordon/rghaskell](https://github.com/csgordon/rghaskell)
+* [Refinement Reflection (or, how to turn your favorite language into a proof assistant using SMT)](https://arxiv.org/abs/1610.04641)
 
 ##Dependent Types
 * [Dependent Types](https://cubeoflambda.wordpress.com/2011/12/03/dependent-types/)
