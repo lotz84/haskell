@@ -335,6 +335,7 @@ Web Application Framework
 * [servantはじめの一歩 - サーバー編](http://www.ishiy.xyz/posts/2016-01-12-haskell-servant.html)
 * [servantはじめの一歩 - CLIクライアント編](http://www.ishiy.xyz/posts/2016-01-13-haskell-servant.html)
 * [Servant authentication and sessions via cookies](https://www.stackbuilders.com/tutorials/haskell/servant-auth/)
+* [servant-template: production-ready Haskell web services in 5 minutes](https://jml.io/2016/10/servant-template-production-ready-haskell-web-services-in-5-minutes.html)
 
 ### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
@@ -427,7 +428,6 @@ Database
 * [The acid-state package](https://hackage.haskell.org/package/acid-state)
 * [The vault package](http://hackage.haskell.org/package/vault)
 * [riak: A Haskell client for the Riak decentralized data store](https://hackage.haskell.org/package/riak)
-
 
 Simple Clients
 --------------
