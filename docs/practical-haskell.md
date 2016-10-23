@@ -190,6 +190,7 @@
 * [Frege Goodness (日本語版)](https://www.gitbook.com/book/y-taka-23/frege-goodness-jp/details)
 * [NL 名古屋で Frege の評価戦略について話してきました](http://ccvanishing.hateblo.jp/entry/2016/04/17/201842)
 * [A Servlet-based Web application with the Frege programming language](http://earldouglas.com/articles/frege-web.html)
+* [A new ecosystem for Haskell: the JVM](http://blog.tweag.io/posts/2016-10-17-inline-java.html)
 * [Composing Network Operating Systems](https://www.youtube.com/watch?v=uXt4a_46qZ0)
 * [hopper-lang/hopper](https://github.com/hopper-lang/hopper)
 * [Haskell: mistakes I made](https://jaspervdj.be/posts/2016-04-11-haskell-mistakes-i-made.html)
