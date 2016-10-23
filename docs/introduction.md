@@ -242,3 +242,4 @@ main = runSpock 8080 $ spockT id $ do
 * [Hello World](http://stefanj.me/funblocks/2016/05/24/hello-world/)
 * [Another Web-based Haskell IDE](http://jpmoresmau.blogspot.jp/2016/07/another-web-based-haskell-ide.html)
 * [Tidalでライブコーディング! - セットアップ編](http://qiita.com/yoppa/items/41805cc6af62b1047a34)
+* [transient-haskell/transient - Running example(s)](https://github.com/transient-haskell/transient/wiki/Running-example(s))
