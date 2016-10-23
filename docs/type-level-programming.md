@@ -153,6 +153,7 @@ circum (Circle _ _ r) = …
 * [Refinement Reflection (or, how to turn your favorite language into a proof assistant using SMT)](https://arxiv.org/abs/1610.04641)
 
 ##Dependent Types
+* [実世界を扱う依存型プログラミングのたぶん基本～外界から安全な世界までの道](http://notogawa.hatenablog.com/entry/2016/10/20/001812)
 * [Dependent Types](https://cubeoflambda.wordpress.com/2011/12/03/dependent-types/)
 * [Fixed-Length Vector Types in Haskell, 2015](http://blog.jle.im/entry/fixed-length-vector-types-in-haskell-2015)
 * [Smarter conditionals with dependent types: a quick case study](http://lambda.jstolarek.com/2015/04/smarter-conditionals-with-dependent-types-a-quick-case-study/)
