@@ -3,6 +3,7 @@
 * [The base-prelude package](https://hackage.haskell.org/package/base-prelude)
 * [Foundation](http://tab.snarc.org/posts/haskell/2016-09-09-foundation.html)
 * [順列列挙関数（素朴な実装）](http://qiita.com/nobsun/items/babd28fe81ba3b9f304f)
+* [SamuelSchlesinger/Gaia](https://github.com/SamuelSchlesinger/Gaia) - An experiment in functional interface design
 
 ##型
 * [What is the difference between an Algebraic Data Type and an Abstract Data Type?](http://www.reddit.com/r/haskell/comments/38grqx/what_is_the_difference_between_an_algebraic_data/)
