@@ -65,6 +65,7 @@ main = do
 * [Proposed conduit reskin](http://www.snoyman.com/blog/2016/09/proposed-conduit-reskin)
 * [Sharing, Space Leaks, and Conduit and friends](http://www.well-typed.com/blog/2016/09/sharing-conduit/)
 * [udp-conduit: Simple fire-and-forget conduit UDP wrappers](https://hackage.haskell.org/package/udp-conduit)
+* [ConduitベースのTCPサーバ・クライアント](http://qiita.com/yutasth/items/9e2040c9f2206360c85f)
 
 > Conduits were created for the Yesod web framework. My understanding is that they were designed to be blazingly fast. Early versions of the library were highly stateful.
 > 
