@@ -203,6 +203,7 @@ p = Circle {center = (1.0, 2.0), radius = 3.0}
 * [Bookkeeper](https://turingjump.com/blog/bookkeeper/)
 * [Bookkeeper.Permissions](https://hackage.haskell.org/package/bookkeeper-permissions-0.1.0.0/docs/Bookkeeper-Permissions.html)
 * [割とすぐに始められるextensibleチュートリアル(レコード編)](http://fumieval.hatenablog.com/entry/2016/10/10/000011)
+* [Records are Sheaves of Types.](http://www.jonmsterling.com/posts/2014-05-11-records-are-sheaves-of-types.html)
 
 ###Vinyl
 * [vinyl](https://hackage.haskell.org/package/vinyl)
