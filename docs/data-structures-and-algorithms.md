@@ -95,6 +95,8 @@
 * [拡張されたユークリッドの互除法](http://qiita.com/bra_cat_ket/items/205c19611e21f3d422b7)
 * [リストの中から重複する項目の数をカウントする](http://qiita.com/mather314/items/dbae21e2fcde2ea74669)
 * [[fltalwhq] integerLog2 and an introduction to unboxed types](http://kenta.blogspot.jp/2016/09/fltalwhq-integerlog2-and-introduction.html)
+* [【Haskell】リストをシャッフルする関数](http://qiita.com/penguinshunya/items/f90a1df5fdb6ee7962e5)
+* [Re: リストをシャッフルする関数](http://qiita.com/yutasth/items/69519cbac7279e36a03b)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
