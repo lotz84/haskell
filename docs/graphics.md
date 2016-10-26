@@ -20,6 +20,7 @@
 * [Blackstar | Raytracing black holes with Haskell](https://flannelhead.github.io/projects/blackstar.html)
 * [Image processing with Juicy Pixels and Repa](https://www.stackbuilders.com/tutorials/haskell/image-processing/)
 * [M.M.T Chakravarty - Playing with Graphics and Animations in Haskell](https://www.youtube.com/watch?v=9dk7_GDNocQ)
+* [SVG2 Mesh Gradient rendering in Haskell](https://twinside.github.io/coon_rendering.html)
 
 ## 画像処理
 * [friday: A functional image processing library for Haskell.](https://hackage.haskell.org/package/friday)
