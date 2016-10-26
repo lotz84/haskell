@@ -260,6 +260,7 @@ Web Application Framework
 * [stackbuilders/hapistrano](https://github.com/stackbuilders/hapistrano)
 * [Deploying A Haskell Web Service With Nix](http://jezenthomas.com/deploying-a-haskell-web-service-with-nix/)
 * [.keterファイルの解凍でエラーになる時は](http://qiita.com/jabaraster/items/1e713911625258c6f2e1)
+* [Deploying a Haskell application to AWS Elastic Beanstalk](https://medium.com/@folsen/deploying-a-haskell-application-to-aws-elastic-beanstalk-24c7c29d3a8f#.fbgdu2po7)
 
 ### Scotty
 * [The scotty package](http://hackage.haskell.org/package/scotty)
@@ -437,6 +438,7 @@ Simple Clients
   * [Haskell postgresql-simple examples, part 1](http://begriffs.com/posts/2013-09-10-haskell-postgresql-simple-examples-part.html)
   * [Haskell postgresql-simple examples, part 2](http://begriffs.com/posts/2013-09-14-haskell-postgresql-simple-examples-part_13.html)
   * [ANN: SQL validator for queries embedded in postgresql-simple's quasiquoters](https://www.reddit.com/r/haskell/comments/4o9cuj/ann_sql_validator_for_queries_embedded_in/)
+  * [jfischoff/postgresql-simple-opts](https://github.com/jfischoff/postgresql-simple-opts) - An optparse-applicative parser for postgresql-simple's connection options
 * [The sqlite-simple package](https://hackage.haskell.org/package/sqlite-simple)
   * [caneroj1/sqlite-simple-errors](https://github.com/caneroj1/sqlite-simple-errors)
 * [The hedis package](https://hackage.haskell.org/package/hedis)
