@@ -107,6 +107,7 @@ $ alias ghci='stack ghci --'
 * [Using JavaScript to Learn Haskell](https://medium.com/@sjsyrek/using-javascript-to-learn-haskell-f57509015842#.qb5lc4gx8)
 * [Pitfalls in Haskell](http://users.jyu.fi/~sapekiis/haskell-pitfalls/) - Haskellに潜む罠
 * [Study "Haskell Programming from First Principles" in NYC](https://byorgey.wordpress.com/2016/09/20/the-generic-random-library-part-1-simple-generic-arbitrary-instances/)
+* [Why Functional Programming Matters by John Hughes at Functional Conf 2016](https://www.youtube.com/watch?v=XrNdvWqxBvA)
 </details>
 
 ## Examples
