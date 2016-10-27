@@ -75,6 +75,7 @@ main = do
 
 ###Machines
 * [machines](http://hackage.haskell.org/package/machines)
+* [Welcome to the Machines by Aloïs Cochard](https://www.youtube.com/watch?v=sEfn_x245mE&index=7&list=PL9Z-JgiTsOYTdi91N_DlcpWqkCYvMrhA4)
 
 ###Arrow based
 * [Programming with Arrows](http://www.cse.chalmers.se/~rjmh/afp-arrows.pdf)
