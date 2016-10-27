@@ -150,6 +150,8 @@
 * [leventov/yarr](https://github.com/leventov/yarr)
 * [Haskell, Vectors, and Implicit Knowledge](http://betsyhaibel.com/blog/2016-04-29-haskell-vectors-and-implicit-knowledge/)
 * [fhaust/vector-split](https://github.com/fhaust/vector-split)
+* [【Haskell】様々な配列その1](http://qiita.com/penguinshunya/items/99d28327c84d925a8696)
+* [The vector-builder package](http://hackage.haskell.org/package/vector-builder)
 
 ###Graph
 * [FP Graph Algorithms](http://begriffs.com/posts/2015-09-04-pure-functional-graphs.html)
