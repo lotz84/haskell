@@ -55,6 +55,7 @@ class Functor f => Applicative f where
 * [closed functor](http://ncatlab.org/nlab/show/closed+functor)
 * [Haskell Applicative Functors Explained Without Words](http://begriffs.com/posts/2013-08-28-weird-symbols-in-their-native-tongue_27.html)
 * [Applicatives in Math vs Code](http://begriffs.com/posts/2015-08-30-applicative-functors.html)
+* [Showcasing Applicative](http://www.joachim-breitner.de/blog/710-Showcasing_Applicative)
 
 ###Discrimination
 * [discrimination](http://hackage.haskell.org/package/discrimination)
