@@ -28,6 +28,7 @@
 * [型レベル自然数(つよい)](http://qiita.com/philopon/items/2eeb442e48cc45e5e9aa)
 * [型レベルで平衡が保証される探索木](http://qiita.com/YoshikuniJujo/items/a7b9f53516d4fd52e1b4)
 * [Filling Haskell's Type Holes Like It's Agda](http://begriffs.com/posts/2015-02-07-haskell-type-holes.html)
+* [siddharthist/CoverTranslator](https://github.com/siddharthist/CoverTranslator) - A tool for formally verifying Haskell code in Agda
 * [Sound and Complete Bidirectional Typechecking for Higher-Rank Polymorphism with Existentials and Indexed Types](http://arxiv.org/abs/1601.05106)
 * [Dimensional - Douglas McClean - Boston Haskell](https://www.youtube.com/watch?v=-Kz7SYZNoUU&feature=youtu.be)
 * [Promoting the arrow type](https://alexvieth.wordpress.com/2016/01/28/promoting-the-arrow-type/)
