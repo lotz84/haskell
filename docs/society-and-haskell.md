@@ -38,6 +38,8 @@
 * [yallop/haskell2014-papers](https://github.com/yallop/haskell2014-papers)
 * [LambdaConf 2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcybh21_zOg8_y4f2oMKDHpUS)
 * [The Haskell Symposium](https://www.haskell.org/haskell-symposium/)
+* [ZuriHac 2016](https://www.youtube.com/playlist?list=PLSIUOFhnxEiCyRYbinK7Nv6ImUc4mzJGN)
+* [TNG Technology Consulting GmbH](https://www.youtube.com/channel/UCxaV-Pd-SZAgP-G1Mni47Hw)
 
 ##Advent Calendar
 * [Haskell Advent Calendar 2015](http://qiita.com/advent-calendar/2015/haskell)
