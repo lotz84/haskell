@@ -41,6 +41,7 @@
 * [AutoPar: automating the parallelization of functional programs](http://doras.dcu.ie/20805/)
 * [Encapsulating unsafe IORefs](http://tech.kariusdx.com/post/hiding-unsafe-IORefs/)
 * [wyager/Neks](https://github.com/wyager/Neks)
+* [Harnessing the Multicores: Nested Data Parallelism in Haskell](https://www.youtube.com/watch?v=kZkO3k9g1ps)
 
 ##並行
 * [RAM footprint per unit of concurrency (approx)](http://bob.ippoli.to/haskell-for-erlangers-2014/#/cost-of-concurrency)
