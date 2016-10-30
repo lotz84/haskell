@@ -71,6 +71,8 @@ instance Show Bool where
 * [Monoids and their efficiency in practice](http://myhaskelljournal.com/monoids-and-their-efficiency-in-practice/)
 * [Algebraic patterns - Identity element](http://philipnilsson.github.io/Badness10k/posts/2016-06-29-functional-patterns-identity-element.html)
 * [Algebraic patterns - Monoid](http://philipnilsson.github.io/Badness10k/posts/2016-07-21-functional-patterns-monoid.html)
+* [Electoral vote distributions are Monoids](http://www.haskellforall.com/2016/10/electoral-vote-distributions-are-monoids.html)
+* [Electoral vote distributions are polynomials](https://ro-che.info/articles/2016-10-28-vote-distributions-polynomials)
 
 > lists are not free monoids in Haskell.
 
