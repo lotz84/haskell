@@ -337,6 +337,8 @@ Web Application Framework
 * [servantはじめの一歩 - CLIクライアント編](http://www.ishiy.xyz/posts/2016-01-13-haskell-servant.html)
 * [Servant authentication and sessions via cookies](https://www.stackbuilders.com/tutorials/haskell/servant-auth/)
 * [servant-template: production-ready Haskell web services in 5 minutes](https://jml.io/2016/10/servant-template-production-ready-haskell-web-services-in-5-minutes.html)
+* [alvare/latexpad](https://github.com/alvare/latexpad) - A LaTeX Scratchpad for sharing. <http://latexpad.clrnd.com.ar/>
+
 
 ### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
