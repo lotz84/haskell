@@ -169,6 +169,7 @@
 * [The haskore package](https://hackage.haskell.org/package/haskore)
 * [Adding PortAudio Support to HfM (Haskell for Mac)](https://medium.com/@BusFactor1/adding-portaudio-support-to-hfm-haskell-for-mac-cd2f398492f8#.9iuzw3rl5)
 * [COMBINATORIAL MUSIC THEORY](http://andrewduncan.net/cmt/)
+* [Analysis of musical structures: an approach utilising monadic parser combinators](http://theses.gla.ac.uk/2353/)
 
 ----
 
