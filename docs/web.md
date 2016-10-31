@@ -254,6 +254,7 @@ Web Application Framework
 * [The logging-facade package](https://hackage.haskell.org/package/logging-facade)
 * [The katip package](http://hackage.haskell.org/package/katip)
 * [The monad-log package](http://hackage.haskell.org/package/monad-log)
+* [HaskellのロガーKatipを試す](http://syocy.hatenablog.com/entry/2016/10/31/025512)
 
 ### デプロイ
 * [snoyberg/keter](https://github.com/snoyberg/keter)
@@ -338,7 +339,6 @@ Web Application Framework
 * [Servant authentication and sessions via cookies](https://www.stackbuilders.com/tutorials/haskell/servant-auth/)
 * [servant-template: production-ready Haskell web services in 5 minutes](https://jml.io/2016/10/servant-template-production-ready-haskell-web-services-in-5-minutes.html)
 * [alvare/latexpad](https://github.com/alvare/latexpad) - A LaTeX Scratchpad for sharing. <http://latexpad.clrnd.com.ar/>
-
 
 ### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
