@@ -42,6 +42,8 @@
 * [TNG Technology Consulting GmbH](https://www.youtube.com/channel/UCxaV-Pd-SZAgP-G1Mni47Hw)
 
 ##Advent Calendar
+* [Haskell Advent Calendar 2016](http://qiita.com/advent-calendar/2016/haskell)
+* [Haskell Performance Advent Calendar 2016](http://qiita.com/advent-calendar/2016/haskell-performance)
 * [Haskell Advent Calendar 2015](http://qiita.com/advent-calendar/2015/haskell)
 * [Haskellスペースリーク Advent Calendar 2015](http://qiita.com/advent-calendar/2015/haskell-space-leaks)
 * [Haskell Advent Calendar 2014](http://qiita.com/advent-calendar/2014/haskell)
