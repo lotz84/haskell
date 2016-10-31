@@ -43,6 +43,7 @@
 * [Randomness in Haskell](http://jtobin.ca/randomness-in-haskell)
 
 ## 自然言語処理
+* [Natural Language Processing for the Working Programmer](http://freecomputerbooks.com/books/nlpwp.pdf)
 * [edit-distance: Levenshtein and restricted Damerau-Levenshtein edit distances](http://hackage.haskell.org/package/edit-distance)
 * [colada: Colada implements incremental word class class induction using online LDA](https://hackage.haskell.org/package/colada)
 * [chatter: A library of simple NLP algorithms.](https://hackage.haskell.org/package/chatter)
