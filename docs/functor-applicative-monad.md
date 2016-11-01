@@ -353,6 +353,7 @@ Reader + Writer + State
 * [一般化されたマイヒル／ネロードの定理 2：文化的なギャップを乗り越えるための対訳表](http://d.hatena.ne.jp/m-hiyama/20160909/1473385326)
 * [一般化されたマイヒル／ネロードの定理 3：オートマトンの振る舞いと観測](http://d.hatena.ne.jp/m-hiyama/20160915/1473911123)
 * [Functional Geekery Episode 69 – Bartosz Milewski](https://www.functionalgeekery.com/episode-69-bartosz-milewski/)
+* [Bartosz Milewski - Category Theory](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
 
 ###CPL
 * [圏論プログラミング言語 CPL](http://mandel59.hateblo.jp/entry/2015/02/02/110621)
