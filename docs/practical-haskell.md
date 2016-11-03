@@ -219,3 +219,4 @@
 * [Getting audio from Youtube channels in the easiest way possible using Haskell](http://qiita.com/kimagure/items/0a2f3d60789c646e4426)
 * [A toy Mathematica interpreter in Haskell](http://community.wolfram.com/groups/-/m/t/943405)
 * [λ抽象(無名関数) を SKI コンビネータに展開するトランスレータを書いた](http://qiita.com/todays-mitsui/items/39ca5ee274213471796c)
+* [Using Haskell to Find Unused Spring MVC Code](https://tech.small-improvements.com/2016/11/01/using-haskell-to-find-unused-spring-mvc-code/)
