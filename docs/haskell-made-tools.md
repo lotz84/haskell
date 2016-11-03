@@ -212,6 +212,10 @@ success
 * [Declaring RESTful APIs with PostgREST](http://begriffs.com/posts/2014-12-30-intro-to-postgrest.html)
 * [A Tour of PostgREST](http://begriffs.com/posts/2016-03-20-postgrest-tour.html)
 
+### powerline-hs
+* A lightning fast reimplementation of the Powerline prompt generator in Haskell.
+* <https://github.com/rdnetto/powerline-hs>
+
 ### ptcpd
 * Plain Text Chat Protocol daemon
 * <https://gitgud.io/hae/ptcpd>
