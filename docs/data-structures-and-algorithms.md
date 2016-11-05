@@ -143,6 +143,7 @@
 * [Haskellで文字列っぽい型同士を結合する演算子が欲しい。その3(動作するが改善の余地結構有り)](http://qiita.com/saturday06/items/72c98df4e3d1481962b1)
 * [The Base of a String Theory for Haskell](http://blog.ezyang.com/2016/09/the-base-of-a-string-theory-for-haskell/)
 * [iconv-typed: An experiment in API design and type safety](http://www.alfredodinapoli.com/posts/2016-10-23-iconv-typed-an-experiment-in-api-design-and-type-safety.html)
+* [String Types](https://haskell-lang.org/tutorial/string-types)
 
 ###配列
 * [The vector package](https://hackage.haskell.org/package/vector)
@@ -153,6 +154,7 @@
 * [Haskell, Vectors, and Implicit Knowledge](http://betsyhaibel.com/blog/2016-04-29-haskell-vectors-and-implicit-knowledge/)
 * [fhaust/vector-split](https://github.com/fhaust/vector-split)
 * [【Haskell】様々な配列その1](http://qiita.com/penguinshunya/items/99d28327c84d925a8696)
+* [【Haskell】様々な配列その2](http://qiita.com/penguinshunya/items/70953f23a7917f4ca74e)
 * [The vector-builder package](http://hackage.haskell.org/package/vector-builder)
 
 ###Graph
