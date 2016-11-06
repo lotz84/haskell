@@ -91,6 +91,7 @@
 * [Stackage LTS 7 is released](http://juhp.blogspot.jp/2016/09/stackage-lts-7-is-released.html?m=1)
 * [stackで~/.stackの場所を移動する](http://qiita.com/sanemat/items/722836dc71e5620d8db3)
 * [Static compilation with Stack](https://www.fpcomplete.com/blog/2016/10/static-compilation-with-stack)
+* [stack runghc、ghciでAmbiguous module nameというエラーが出る場合の対処法](https://www.ishiy.xyz/posts/2016-11-06-haskell-stack.html)
 
 ## NixOS
 * [Nix ±Cabal](http://begriffs.com/posts/2015-08-07-nix-plus-minus-cabal.html)
