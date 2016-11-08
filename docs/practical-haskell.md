@@ -222,3 +222,4 @@
 * [λ抽象(無名関数) を SKI コンビネータに展開するトランスレータを書いた](http://qiita.com/todays-mitsui/items/39ca5ee274213471796c)
 * [Using Haskell to Find Unused Spring MVC Code](https://tech.small-improvements.com/2016/11/01/using-haskell-to-find-unused-spring-mvc-code/)
 * [Designing APIs for Extensibility](http://www.snoyman.com/blog/2016/11/designing-apis-for-extensibility)
+* [Functional Programmers Paris - Building a language, in Haskell, with an LLVM backend](https://www.youtube.com/watch?v=I51TRpl1qic)
