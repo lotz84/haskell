@@ -102,6 +102,7 @@
 * [01 The State of GHC](https://www.youtube.com/watch?v=dIxCHQEIGps)
 * [03 Backpack to Work: Towrads Backpack in Practice](https://www.youtube.com/watch?v=s_geh6SlGuM)
 * [ZuriHac 2016 - Low-level Haskell: An Interactive Tour Through the STG](https://www.youtube.com/watch?v=-MFk7PIKYsg)
+* [GHC development flow](https://github.com/takenobu-hs/ghc-development-flow)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
