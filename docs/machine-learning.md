@@ -23,6 +23,7 @@
 * [Markov Chains à la Carte](http://jtobin.ca/markov-chains-a-la-carte)
 * [haskell-EM/Main.hs](https://github.com/akawashiro/haskell-EM/blob/master/Main.hs)
 * [haskell-kalman-filter/Main.hs](https://github.com/akawashiro/haskell-kalman-filter/blob/master/Main.hs)
+* [Tweag.io](http://www.tweag.io/)
 
 ## HaskellR
 * [HaskellR](http://tweag.github.io/HaskellR/)
