@@ -465,6 +465,7 @@ HDBC
 * [The hdbc-aeson package](https://hackage.haskell.org/package/hdbc-aeson)
 * [The presto-hdbc package](https://hackage.haskell.org/package/presto-hdbc)
 * [Concurrent HDBC with resource-pool](https://gist.github.com/paul-r-ml/1430734/0cc2bf4b6a5397dd97b5a97eac10ddcf2b6224ad)
+* [Windows版stackでもHDBC-sqlite3をビルドする](http://qiita.com/igrep/items/d947ab871eb5b20b57e4)
 
 SQL DSL
 -----------
