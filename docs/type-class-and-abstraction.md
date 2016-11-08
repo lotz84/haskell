@@ -62,6 +62,9 @@ instance Show Bool where
 ## 代数的な型クラス
 * [tower](https://tonyday567.github.io/tower/index.html)
 
+### Num
+* [Haskell の Num クラスに対する不満](http://d-poppo.nazo.cc/blog/2016/06/haskell-num-class/)
+
 ### Semigroup
 * [Algebraic patterns - Semigroup](http://philipnilsson.github.io/Badness10k/posts/2016-07-14-functional-patterns-semigroup.html)
 
