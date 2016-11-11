@@ -262,6 +262,7 @@ Web Application Framework
 * [Deploying A Haskell Web Service With Nix](http://jezenthomas.com/deploying-a-haskell-web-service-with-nix/)
 * [.keterファイルの解凍でエラーになる時は](http://qiita.com/jabaraster/items/1e713911625258c6f2e1)
 * [Deploying a Haskell application to AWS Elastic Beanstalk](https://medium.com/@folsen/deploying-a-haskell-application-to-aws-elastic-beanstalk-24c7c29d3a8f#.fbgdu2po7)
+* [Keter behind an nginx Reverse Proxy over HTTPS](https://functor.tokyo/blog/2016-11-09-keter-behind-nginx-reverse-proxy)
 
 ### Scotty
 * [The scotty package](http://hackage.haskell.org/package/scotty)
