@@ -29,6 +29,7 @@ class Functor f where
 
 ###Contravariant
 * [contravariant](https://hackage.haskell.org/package/contravariant)
+* [Covariance and Contravariance](https://www.fpcomplete.com/blog/2016/11/covariance-contravariance)
 * [Contravariance and luminance to add safety to uniforms](http://phaazon.blogspot.jp/2015/08/contravariance-and-luminance-to-add.html)
 
 ###Representable Functor
