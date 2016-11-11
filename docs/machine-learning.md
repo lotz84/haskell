@@ -179,6 +179,7 @@ sample prog (replicate 10 heads)
 * [dnngraph](http://ajtulloch.github.io/dnngraph/) - A DSL for deep neural networks, supporting Caffe and Torch
 * [DeepLearning(1): まずは順伝播(上)](http://qiita.com/eijian/items/06b1ba1276d1bfd77b93)
 * [DeepLearning(2): まずは順伝播(下)](http://qiita.com/eijian/items/24d7e6aee332d59509ec)
+* [DeepLearning(3): そして逆伝播（でも全結合層まで）](http://qiita.com/eijian/items/bfbdd3f7862ec84ce8c9)
 * [FRP & RNN](http://imgur.com/a/mWseu)
 * [autumnai/leaf](https://github.com/autumnai/leaf)
 * ["Haskell's stochastic gradient descent implementations comparison.](https://github.com/argent0/haskell-ml-benchmark/blob/master/result/main.md)
