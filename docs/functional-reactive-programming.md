@@ -40,6 +40,7 @@
 * [FRPNowをサーバで使ってみた](http://qiita.com/asukamirai/items/d23c34a71d72d077e39d)
 * [A Sensible Intro to FRP](https://begriffs.com/posts/2016-07-27-tikhon-on-frp.html)
 * [Uniqhash Machines Implementation Using MealyM](http://sordina.github.io/blog/2016/11/06/1478354235-uniqhash_machines_implementation.html)
+* [FRP - Events & Behaviour, Part 1 - David Laing - BFPG 2016-09](https://www.youtube.com/watch?v=GXW1jBijhlk)
 
 ##Reflex
 * [Ryan Trinkle - Reflex: Practical Functional Reactive Programming](https://www.youtube.com/watch?v=dOy7zIk3IUI)
