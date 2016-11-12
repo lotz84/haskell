@@ -60,6 +60,7 @@ Client
   * [http-conduit](http://hackage.haskell.org/package/http-conduit)
   * [pipes-http](https://hackage.haskell.org/package/pipes-http)
   * [http-streams](https://hackage.haskell.org/package/http-streams)
+  * [req: Easy-to-use, type-safe, expandable, high-level HTTP library](https://hackage.haskell.org/package/req)
 * Twitter - [twitter-conduit](http://hackage.haskell.org/package/twitter-conduit)
 * Facebook - [fb](https://hackage.haskell.org/package/fb)
 * Instagram - [The ig package](http://hackage.haskell.org/package/ig)
