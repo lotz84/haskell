@@ -84,7 +84,6 @@ instance Monad Dist where
 * Ken Friis Larsen - [Memory Efficient Implementation of Probability Monads](http://www.diku.dk/hjemmesider/ansatte/kflarsen/t/ProbMonad-unpublished.pdf)
 * Frank Wood, Jan Willem van de Meent and Vikash Mansinghka - [A New Approach to Probabilistic Programming Inference](http://www.robots.ox.ac.uk/~fwood/assets/pdf/Wood-AISTATS-2014.pdf)
 * [FMFMFMF: Free Monads For Making Fast Models, Functionally.](http://statusfailed.com/blog/2015/09/04/free-monads-for-making-fast-models.html)
-* [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 * [Simplifying Probabilistic Programs Using Computer Algebra](http://www.cs.indiana.edu/ftp/techreports/TR719.pdf)
 * [Encoding Statistical Independence, Statically](http://jtobin.ca/encoding-independence-statically)
 * Tom Rainforth, Jan-Willem van de Meent, Michael A. Osborne and Frank Wood - [Bayesian Optimization for Probabilistic Programs](http://www.blackboxworkshop.org/pdf/rainforth2015BOPP.pdf)
