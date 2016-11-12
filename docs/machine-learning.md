@@ -85,39 +85,17 @@ instance Monad Dist where
 * [FMFMFMF: Free Monads For Making Fast Models, Functionally.](http://statusfailed.com/blog/2015/09/04/free-monads-for-making-fast-models.html)
 * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 * [Simplifying Probabilistic Programs Using Computer Algebra](http://www.cs.indiana.edu/ftp/techreports/TR719.pdf)
-* [Abstract Binding Trees in Hakaru](http://winterkoninkje.dreamwidth.org/103978.html)
 * [Encoding Statistical Independence, Statically](http://jtobin.ca/encoding-independence-statically)
 * Tom Rainforth, Jan-Willem van de Meent, Michael A. Osborne and Frank Wood - [Bayesian Optimization for Probabilistic Programs](http://www.blackboxworkshop.org/pdf/rainforth2015BOPP.pdf)
   * Michael A. Osborne, Roman Garnett, and Stephen J. Roberts - [Gaussian Processes for Global Optimization](http://www.robots.ox.ac.uk/~parg/pubs/OsborneGarnettRobertsGPGO.pdf)
 * [Deriving a Probability Density Calculator (Functional Pearl)](http://homes.soic.indiana.edu/ccshan/rational/pearl.pdf)
-
-### Probabilistic Programming Language
-* Church
-  * [Church: a language for generative models](https://cocolab.stanford.edu/papers/GoodmanEtAl2008-UncertaintyInArtificialIntelligence.pdf)
-  * [Probabilistic Models of Cognition](https://probmods.org/)
-* [Anglican](http://www.robots.ox.ac.uk/~fwood/anglican/)
-  * [Probabilistic programming practical materials - MLSS 2015](https://bitbucket.org/probprog/mlss2015)
-* WebPPL - [The Design and Implementation of Probabilistic Programming Languages](http://dippl.org/)
-* [Stanで統計モデリングを学ぶ(1): まずはStanの使い方のおさらいから](http://tjo.hatenablog.com/entry/2014/01/27/235048)
 * [BAli-Phy](http://www.bali-phy.org/)
 
-#### Hakaru
-* [hakaru-dev/hakaru](https://github.com/hakaru-dev/hakaru)
-* [hakaru: A probabilistic programming embedded DSL](https://hackage.haskell.org/package/hakaru)
-* [Hakaru: An embedded probabilistic programming language for Haskell.](http://indiana.edu/~ppaml/)
+### Hakaru
+* [Hakaru](http://hakaru-dev.github.io/)
+  * old - [Hakaru: An embedded probabilistic programming language for Haskell.](http://indiana.edu/~ppaml/)
 * [Probabilistic inference by program transformation in Hakaru (system description)](http://homes.soic.indiana.edu/ccshan/rational/system.pdf)
-
-```hs
-heads = Just (toDyn (Discrete True))
-
-prog :: Measure Double
-prog = do
-   bias <- unconditioned (beta 1 1)
-   replicateM 10 $ conditioned (bern bias)
-   return bias
-
-sample prog (replicate 10 heads)
-```
+* [Abstract Binding Trees in Hakaru](http://winterkoninkje.dreamwidth.org/103978.html)
 
 ### 量子論理
 * [quantum logic](https://ncatlab.org/nlab/show/quantum+logic)
