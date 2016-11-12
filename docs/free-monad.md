@@ -40,7 +40,6 @@ instance Functor f => Monad (Free f) where
 * [Free play, part three](http://therning.org/magnus/posts/2016-01-17-000-free-play--part-three.html)
 * [Yield for Effects](https://awelonblue.wordpress.com/2016/01/04/yield-for-effects/)
 * [Freer play with effects](http://therning.org/magnus/posts/2016-01-24-000-freer-play-with-effects.html)
-* [Decision Trees Are Free Monads Over the Reader Functor](http://clathomasprime.github.io/hask/freeDecision)
 * [Free, take 2](http://therning.org/magnus/posts/2016-03-16-000-free--take-2.html)
 * [Applicative Effects in Free Monads](http://elvishjerricco.github.io/2016/04/08/applicative-effects-in-free-monads.html)
 * [More on Applicative Effects in Free Monads](http://elvishjerricco.github.io/2016/04/13/more-on-applicative-effects-in-free-monads.html)
