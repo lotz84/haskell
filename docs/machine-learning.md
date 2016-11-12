@@ -24,6 +24,7 @@
 * [haskell-EM/Main.hs](https://github.com/akawashiro/haskell-EM/blob/master/Main.hs)
 * [haskell-kalman-filter/Main.hs](https://github.com/akawashiro/haskell-kalman-filter/blob/master/Main.hs)
 * [Tweag.io](http://www.tweag.io/)
+* [Decision Trees Are Free Monads Over the Reader Functor](http://clathomasprime.github.io/hask/freeDecision)
 
 ## HaskellR
 * [HaskellR](http://tweag.github.io/HaskellR/)
