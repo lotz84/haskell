@@ -192,6 +192,7 @@
 * [Frege, a Haskell for the JVM by Dierk König](https://www.youtube.com/watch?v=1P1-HXNfFPc)
 * [Frege Goodness (日本語版)](https://www.gitbook.com/book/y-taka-23/frege-goodness-jp/details)
 * [NL 名古屋で Frege の評価戦略について話してきました](http://ccvanishing.hateblo.jp/entry/2016/04/17/201842)
+* [typelead/eta](https://github.com/typelead/eta)
 * [A Servlet-based Web application with the Frege programming language](http://earldouglas.com/articles/frege-web.html)
 * [A new ecosystem for Haskell: the JVM](http://blog.tweag.io/posts/2016-10-17-inline-java.html)
 * [Composing Network Operating Systems](https://www.youtube.com/watch?v=uXt4a_46qZ0)
