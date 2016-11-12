@@ -100,6 +100,7 @@
 * [Adventures in enumerating balanced brackets](https://byorgey.wordpress.com/2016/10/25/adventures-in-enumerating-balanced-brackets/)
 * [Haskell div mod – Cyclical Division, Modulus Visualised](http://www.prigrammer.com/?p=321)
 * [「Haskell」で「Look and Say 数列」を生成してみた](http://zodi-g12.hatenablog.com/entry/2016/11/07/065219)
+* [Constant-time Find First Set](http://www.hedonisticlearning.com/posts/find-first-set.html)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
