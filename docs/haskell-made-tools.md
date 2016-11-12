@@ -53,6 +53,10 @@ variance introduced by outliers: 81% (severely inflated)
 * [elm+electronで気楽に始めるFRP](http://qiita.com/yasuyuky/items/e28106e3dd7fed17d50f)
 * [Building elm with stack](http://therning.org/magnus/posts/2015-10-13-000-building-elm-with-stack.html)
 
+### gitit
+* [jgm/gitit](https://github.com/jgm/gitit) - A wiki using HAppS, pandoc, and git
+* [WikiサーバGititの省メモリ運営](http://qiita.com/pjmtdw/items/7ade90ba18182e493fa5)
+
 ### git-annex
 * gitでバイナリファイル等を効率的に扱うツール
 * <https://git-annex.branchable.com/>
