@@ -37,13 +37,6 @@
 * [IHaskell Online: Help Choose Demo Code Snippets!](http://www.reddit.com/r/haskell/comments/37uqqk/ihaskell_online_help_choose_demo_code_snippets/)
 * [Demo of IHaskell Notebook](http://begriffs.com/posts/2016-01-20-ihaskell-notebook.html)
 
-## 確率
-* [プログラミングのための確率統計 in Haskell](http://note.golden-lucky.net/2010/12/1-2-3-4-5-6-16-16-16-16-16-16-246-135.html)
-* [random-fu](https://hackage.haskell.org/package/random-fu)
-* [The generic-random library, part 1: simple generic Arbitrary instances](https://byorgey.wordpress.com/2016/09/20/the-generic-random-library-part-1-simple-generic-arbitrary-instances/)
-* [Boltzmann sampling for generic Arbitrary instances](https://byorgey.wordpress.com/2016/03/23/boltzmann-sampling-for-generic-arbitrary-instances/)
-* [Randomness in Haskell](http://jtobin.ca/randomness-in-haskell)
-
 ## 自然言語処理
 * [Natural Language Processing for the Working Programmer](http://freecomputerbooks.com/books/nlpwp.pdf)
 * [edit-distance: Levenshtein and restricted Damerau-Levenshtein edit distances](http://hackage.haskell.org/package/edit-distance)
@@ -63,8 +56,13 @@
   * [introduction to hmatrix](http://dis.um.es/~alberto/material/hmatrix.pdf)
 * [Efficient Linear Algebra with Plover](http://begriffs.com/posts/2016-01-03-plover-linear-algebra.html)
 
-## 確率論的プログラミング
-* [Probabilistic Programming](https://media.nips.cc/Conferences/2015/tutorialslides/wood-nips-probabilistic-programming-tutorial-2015.pdf)
+## 確率
+* [プログラミングのための確率統計 in Haskell](http://note.golden-lucky.net/2010/12/1-2-3-4-5-6-16-16-16-16-16-16-246-135.html)
+* [random-fu](https://hackage.haskell.org/package/random-fu)
+* [The generic-random library, part 1: simple generic Arbitrary instances](https://byorgey.wordpress.com/2016/09/20/the-generic-random-library-part-1-simple-generic-arbitrary-instances/)
+* [Boltzmann sampling for generic Arbitrary instances](https://byorgey.wordpress.com/2016/03/23/boltzmann-sampling-for-generic-arbitrary-instances/)
+* [Randomness in Haskell](http://jtobin.ca/randomness-in-haskell)
+* [A Probabilistic Functional Programming Library for Haskell](https://web.engr.oregonstate.edu/~erwig/pfp/)
 
 ```hs
 type Probability = Double
@@ -75,12 +73,14 @@ instance Monad Dist where
   (D d) >>= f = D [(y,q*p) | (x,p) <- d, (y,q) <- unD (f x)]
 ```
 [FUNCTIONAL PEARLS: Probabilistic Functional Programming in Haskell](https://web.engr.oregonstate.edu/~erwig/papers/PFP_JFP06.pdf)
+
+## 確率論的プログラミング
+* [Probabilistic Programming](https://media.nips.cc/Conferences/2015/tutorialslides/wood-nips-probabilistic-programming-tutorial-2015.pdf)
 * [adscib/monad-bayes](https://github.com/adscib/monad-bayes)
   * [Practical Probabilistic Programming with Monads](https://www.youtube.com/watch?v=hI0ajVy2xEk)
   * [Practical probabilistic programming with Monads](http://mlg.eng.cam.ac.uk/pub/pdf/SciGhaGor15.pdf)
 * Oleg Kiselyov and Chung-chieh Shan - [Embedded Probabilistic Programming](http://okmij.org/ftp/kakuritu/dsl-paper.pdf)
 * [Learning Probabilistic Programs](http://arxiv.org/abs/1407.2646)
-* [A Probabilistic Functional Programming Library for Haskell](https://web.engr.oregonstate.edu/~erwig/pfp/)
 * Ken Friis Larsen - [Memory Efficient Implementation of Probability Monads](http://www.diku.dk/hjemmesider/ansatte/kflarsen/t/ProbMonad-unpublished.pdf)
 * Frank Wood, Jan Willem van de Meent and Vikash Mansinghka - [A New Approach to Probabilistic Programming Inference](http://www.robots.ox.ac.uk/~fwood/assets/pdf/Wood-AISTATS-2014.pdf)
 * [FMFMFMF: Free Monads For Making Fast Models, Functionally.](http://statusfailed.com/blog/2015/09/04/free-monads-for-making-fast-models.html)
