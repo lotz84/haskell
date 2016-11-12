@@ -67,6 +67,7 @@
 * [Haskell (GHC) の型レベル自然数とリフレクションを試してみる](http://d-poppo.nazo.cc/blog/2016/10/haskell-type-level-naturals-and-reflection/)
 * [Proxies and Delegation vs. Existential Types](http://notes-on-haskell.blogspot.jp/2007/01/proxies-and-delegation-vs-existential.html)
 * [Refinement Reflection on ADTs: Lists Are Monoids](http://goto.ucsd.edu/~rjhala/liquid/haskell/blog/blog/2016/10/06/structural-induction.lhs/)
+* [NLambda](http://www.mimuw.edu.pl/~szynwelski/nlambda/doc/)
 
 ```haskell
 data Bottom
