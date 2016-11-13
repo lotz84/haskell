@@ -28,7 +28,10 @@
 * [Practical Haskell: Simple File Mirror (Part 2)](https://www.fpcomplete.com/blog/2016/09/practical-haskell-simple-file-mirror-2)
 * [N Haskell Tools & Packages I wish someone had told me about](http://get-finch.com/2016/10/10/haskell-tools.html)
 
-##Cabal
+## GHCi
+* [ghciでマルチバイト文字をエスケープせず表示させる](http://qiita.com/aosho235/items/bdfa4a68b77b9fcc4a35)
+
+## Cabal
 * [Hackage](http://hackage.haskell.org/)
 * [Hackage Dependency Monitor](http://packdeps.haskellers.com/)
 * [Cabalでビルド時にProtocol Buffersファイルをコンパイルする](http://qiita.com/yunomu/items/a8ef65dccc1c085b7c0d)
@@ -45,7 +48,7 @@
 * [Follow up: haskell.org and the Evil Cabal](http://www.snoyman.com/blog/2016/08/follow-up-haskell-org-evil-cabal)
 * [Updated Hackage mirroring](https://www.fpcomplete.com/blog/2016/09/updated-hackage-mirroring)
 
-##Stack
+## Stack
 * [The Haskell Tool Stack](http://docs.haskellstack.org/en/stable/README.html)
 * [Stackage](https://www.stackage.org/)
    * [Announcing stackage-update](http://www.yesodweb.com/blog/2015/04/announcing-stackage-update)
