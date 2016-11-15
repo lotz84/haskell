@@ -158,6 +158,7 @@
 * [【Haskell】様々な配列その1](http://qiita.com/penguinshunya/items/99d28327c84d925a8696)
 * [【Haskell】様々な配列その2](http://qiita.com/penguinshunya/items/70953f23a7917f4ca74e)
 * [The vector-builder package](http://hackage.haskell.org/package/vector-builder)
+* [vector-algorithms: Efficient algorithms for vector arrays](http://hackage.haskell.org/package/vector-algorithms)
 
 ###Graph
 * [FP Graph Algorithms](http://begriffs.com/posts/2015-09-04-pure-functional-graphs.html)
