@@ -96,6 +96,7 @@
 * [Static compilation with Stack](https://www.fpcomplete.com/blog/2016/10/static-compilation-with-stack)
 * [stack runghc、ghciでAmbiguous module nameというエラーが出る場合の対処法](https://www.ishiy.xyz/posts/2016-11-06-haskell-stack.html)
 * [Stack (Haskell): 自分で書いたmoduleをビルドしたい](http://qiita.com/sky_y/items/9e241747cff4ed80ea35)
+* [psibi/stackgo](https://github.com/psibi/stackgo)
 
 ## NixOS
 * [Nix ±Cabal](http://begriffs.com/posts/2015-08-07-nix-plus-minus-cabal.html)
@@ -230,3 +231,4 @@
 * [Designing APIs for Extensibility](http://www.snoyman.com/blog/2016/11/designing-apis-for-extensibility)
 * [Functional Programmers Paris - Building a language, in Haskell, with an LLVM backend](https://www.youtube.com/watch?v=I51TRpl1qic)
 * [Git Internals With Haskell](https://www.youtube.com/watch?v=wsNnP3we_R4)
+* [Parse and generate Rocket League replays with Haskell](http://taylor.fausak.me/2016/11/15/parse-and-generate-rocket-league-replays-with-haskell/)
