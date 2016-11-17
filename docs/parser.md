@@ -93,6 +93,9 @@ parse = evalStateT
 * [yamadapc/haskell-frontmatter](https://github.com/yamadapc/haskell-frontmatter)
 * [YAML + Aeson Lenses](http://mojobojo.com/posts/2016-03-31-yaml-aeson-lenses.html)
 
+### RDF
+* [rdf4h RDF for Haskell](http://robstewart57.github.io/rdf4h/)
+
 ### Markdown
 * [snoyberg/markdown](https://github.com/snoyberg/markdown)
 * [cmark: Fast, accurate CommonMark (Markdown) parser and renderer](https://hackage.haskell.org/package/cmark)
