@@ -62,6 +62,7 @@
 * [CONCURRENT HASKELL IN THE REAL WORLD](https://www.stackbuilders.com/news/concurrent-haskell-in-the-real-world)
 * [Abstracting Async.Concurrently](http://elvishjerricco.github.io/2016/09/17/abstracting-async-concurrently.html)
 * [The Design and Implementation of a Concurrent Bloom Filter](https://www.youtube.com/watch?v=gn8d7z7itas)
+* [Haskell's Missing Concurrency Basics](http://www.snoyman.com/blog/2016/11/haskells-missing-concurrency-basics)
 
 ###MVar
 * [Control.Concurrent.MVar](https://hackage.haskell.org/package/base/docs/Control-Concurrent-MVar.html)
