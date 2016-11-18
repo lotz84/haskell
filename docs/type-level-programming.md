@@ -336,6 +336,7 @@ instance Eval' Hole where
 * [Some reasons to teach lattice theory to undergraduates](https://theorylunch.wordpress.com/2013/03/14/some-reasons-to-teach-lattice-theory-to-undergraduates/)
 * [代数的視点からの論理へのアプローチ](http://www.jaist.ac.jp/~mizuhito/ppl_ss07/OHP/msj07.pdf)
 * [東京大学数理科学研究科「数学基礎論・数理科学続論D」の講義資料](http://researchmap.jp/mur789p4c-121/)
+* [Understanding Constructive Galois Connections](http://prl.ccs.neu.edu/blog/2016/11/16/understanding-constructive-galois-connections/)
 
 ##型理論
 * [型システム入門 −プログラミング言語と型の理論](http://www.amazon.co.jp/dp/4274069117)
