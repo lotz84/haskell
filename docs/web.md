@@ -149,6 +149,7 @@ HTML Template
 * [meiersi/blaze-react](https://github.com/meiersi/blaze-react)
 * [stackbuilders/stache](https://github.com/stackbuilders/stache)
 * [Mustache templates in Haskell](https://www.stackbuilders.com/tutorials/haskell/mustache-templates/)
+* [Ginger: Jinja2-style HTML templates for Haskell](https://www.reddit.com/r/haskell/comments/5dfqtb/ginger_jinja2style_html_templates_for_haskell/)
 
 ### Lucid
 * [chrisdone/lucid](https://github.com/chrisdone/lucid)
@@ -383,6 +384,7 @@ Protocol
 * [msgpack/msgpack-haskell](https://github.com/msgpack/msgpack-haskell)
 * [GaloisInc/avro](https://github.com/GaloisInc/avro)
 * [spoqa/nirum](https://github.com/spoqa/nirum)
+* [Haskell, can we REST?](https://github.com/eborden/json-msg-pack/blob/master/README.md)
 
 ### MQTT
 * [uwitty/mosquitto](https://github.com/uwitty/mosquitto)
