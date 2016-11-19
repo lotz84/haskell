@@ -105,6 +105,7 @@
 * [stackとNixを使って安定したビルド環境を作る](http://qiita.com/ilyaletre/items/5cf1e7807e0cdc3ef1cd)
 * [NixOS/cabal2nix](https://github.com/NixOS/cabal2nix)
 * [Purely Functional Linux with NixOS](https://begriffs.com/posts/2016-08-08-intro-to-nixos.html)
+* [NixOSでHaskellな環境](http://qiita.com/nznktst/items/a6ad1fceb92d31604dd1)
 
 ##Docker
 * [Dockerfile Linter](http://hadolint.lukasmartinelli.ch/)
