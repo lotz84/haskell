@@ -5,6 +5,7 @@
   * [Diagrams: Composition, Envelopes and Alignment Part 1](https://www.youtube.com/watch?v=5_fCUSOn7m0)
   * [Diagrams: Composition, Envelopes and Alignment Part 2](https://www.youtube.com/watch?v=nZCzsBOYdis)
   * [prowdsponsor/diagrams-qrcode](https://github.com/prowdsponsor/diagrams-qrcode)
+* [plots: Diagrams based plotting library.](https://hackage.haskell.org/package/plots)
 * [Recreating OTAS Stamps in Haskell](https://blog.otastech.com/2016/02/recreating-otas-stamps-in-haskell/)
 * [Interactive and composable charts](http://www.haskellforall.com/2015/11/interactive-and-composable-charts.html)
 * [smoothie](https://hackage.haskell.org/package/smoothie)
