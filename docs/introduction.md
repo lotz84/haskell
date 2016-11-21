@@ -51,6 +51,7 @@ $ alias ghci='stack ghci --'
 * [Haskellの世界](http://skami.iocikun.jp/computer/haskell)
 * [1から学ぶHaskell: プログラマ向けのHaskell入門](http://skami.iocikun.jp/computer/haskell/web_lecture/for_programmer/)
 * [すごいHaskell つくばで学ぼう！](https://github.com/nushio3/learn-haskell)
+* [すごいHaskell楽しく演習！](https://github.com/kokuyouwind/haskell-exercises) - 「すごいHaskell楽しく学ぼう！」の社内勉強会のために作成した、章末ごとの演習問題集です。
 * [What I Wish I Knew When Learning Haskell](https://github.com/Kinokkory/wiwinwlh-jp/wiki)
 * [Haskellチートシート(翻訳)](http://qiita.com/techno-tanoC/items/1fa1c65db08da2440fc4)
 * [注目ワード“高階プログラミング”って何だ？](http://ascii.jp/elem/000/000/157/157495/)
