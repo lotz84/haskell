@@ -379,6 +379,7 @@ instance Eval' Hole where
 * [variable-free type theoryの圏論的な解釈について](http://myuon-myon.hatenablog.com/entry/2016/05/15/195755)
 * [Cubical Higher Type Theory as a Programming Language](https://existentialtype.wordpress.com/2016/07/31/cubical-higher-type-theory-as-a-programming-language/)
 * [Hindley-Milner Inference](http://dev.stephendiehl.com/fun/006_hindley_milner.html)
+* [Hindley-Damas-Milner tutorial](https://github.com/quchen/articles/tree/master/hindley-milner#readme)
 
 ##Lambda Calculus
 * [An informal introduction to Lambda Calculus.](https://medium.com/@Sudhagar/an-informal-introduction-to-lambda-calculus-51c637f35f7d#.vsy3u1aex)
