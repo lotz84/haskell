@@ -145,7 +145,7 @@
 * [yesodweb/Shelly.hs](https://github.com/yesodweb/Shelly.hs)
 * [lpsmith/configurator-ng](https://github.com/lpsmith/configurator-ng/blob/5a0722ffc2667e0605efb7c3e722a3e8ea8c39c6/README.markdown)
 
-##FFI
+## FFI
 * [inline-c](https://hackage.haskell.org/package/inline-c)
 * [FFI使ってC++バインディングに入門](http://mymo.blog8.fc2.com/blog-entry-52.html)
 * [Calling Haskell from C](https://wiki.haskell.org/Calling_Haskell_from_C)
@@ -165,6 +165,19 @@
 * [dg.](https://pyos.github.io/dg/)
 * [Haskell - GHC for iOS : 既存のSwiftプロジェクトにHaskellで作った関数をさくっと組み込む](http://blog.euphonictech.com/entry/2015/03/30/235956)
 * [Using Haskell in Rust](http://mgattozzi.github.io/2016/10/15/rust-haskell.html)
+
+## JVM
+* [typelead/eta](https://github.com/typelead/eta)
+* [A Servlet-based Web application with the Frege programming language](http://earldouglas.com/articles/frege-web.html)
+* [A new ecosystem for Haskell: the JVM](http://blog.tweag.io/posts/2016-10-17-inline-java.html)
+
+### Frege
+* [すごい Frege たのしく学ぼう！](http://www.slideshare.net/y_taka_23/frege)
+* [Frege, a Haskell for the JVM by Dierk König](https://www.youtube.com/watch?v=1P1-HXNfFPc)
+* [Frege Goodness (日本語版)](https://www.gitbook.com/book/y-taka-23/frege-goodness-jp/details)
+* [NL 名古屋で Frege の評価戦略について話してきました](http://ccvanishing.hateblo.jp/entry/2016/04/17/201842)
+* [Frege Goodness (日本語版)](https://www.gitbook.com/book/y-taka-23/frege-goodness-jp/details)
+* [A simple server in Frege](http://mchav.github.io/a-simple-server-in-frege/)
 
 ## Music
 * [Algorithmic, hyperreal, broken techno.](http://www.pledgemusic.com/projects/spicule/)
@@ -194,14 +207,6 @@
 * [justinethier/husk-scheme](https://github.com/justinethier/husk-scheme)
 * [wireapp/cryptobox-haskell](https://github.com/wireapp/cryptobox-haskell)
 * [Controlling Fusion In Haskell](http://jyp.github.io/posts/controlled-fusion.html)
-* [すごい Frege たのしく学ぼう！](http://www.slideshare.net/y_taka_23/frege)
-* [Frege, a Haskell for the JVM by Dierk König](https://www.youtube.com/watch?v=1P1-HXNfFPc)
-* [Frege Goodness (日本語版)](https://www.gitbook.com/book/y-taka-23/frege-goodness-jp/details)
-* [NL 名古屋で Frege の評価戦略について話してきました](http://ccvanishing.hateblo.jp/entry/2016/04/17/201842)
-* [Frege Goodness (日本語版)](https://www.gitbook.com/book/y-taka-23/frege-goodness-jp/details)
-* [typelead/eta](https://github.com/typelead/eta)
-* [A Servlet-based Web application with the Frege programming language](http://earldouglas.com/articles/frege-web.html)
-* [A new ecosystem for Haskell: the JVM](http://blog.tweag.io/posts/2016-10-17-inline-java.html)
 * [Composing Network Operating Systems](https://www.youtube.com/watch?v=uXt4a_46qZ0)
 * [hopper-lang/hopper](https://github.com/hopper-lang/hopper)
 * [Haskell: mistakes I made](https://jaspervdj.be/posts/2016-04-11-haskell-mistakes-i-made.html)
