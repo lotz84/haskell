@@ -205,6 +205,7 @@ main = runSpock 8080 $ spockT id $ do
 * [myfreeweb/intero.nvim](https://github.com/myfreeweb/intero.nvim)
 * [Haskell で +channel 使って Vim とおはなしする](http://qiita.com/lesguillemets/items/a1a7c70709660985eead)
 * [（失敗）Neovimに移行しつつHaskellの開発環境を整える on Windows](http://qiita.com/igrep/items/a65a10677fe69226c78d)
+* [alx741/vim-yesod](https://github.com/alx741/vim-yesod)
 
 ### Emacs
 * [haskell/haskell-mode](https://github.com/haskell/haskell-mode)
