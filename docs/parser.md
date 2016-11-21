@@ -83,6 +83,9 @@ parse = evalStateT
   * [xml-lens](https://hackage.haskell.org/package/xml-lens)
 * [The hxt package](https://hackage.haskell.org/package/hxt)
 
+### HTML
+* [A taste of tag soup](http://codekinder.com/wordpress/a-taste-of-tag-soup)
+
 ### Excel
 * [xlsx](https://hackage.haskell.org/package/xlsx)
 
