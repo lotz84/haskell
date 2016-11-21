@@ -12,7 +12,7 @@
     3.  [データ構造とアルゴリズム](docs/data-structures-and-algorithms.md)
     4.  [型クラス](docs/type-class-and-abstraction.md)
     5.  [Functor, Applicative, Monad](docs/functor-applicative-monad.md)
-    6.  [パーサー](docs/parser.md)
+    6.  [構文解析器](docs/parser.md)
     7.  [Monad Transformer](docs/monad-transformers.md)
     8.  [Free Monad](docs/free-monad.md)
     9. [Algebraic Effects](docs/algebraic-effects.md)
