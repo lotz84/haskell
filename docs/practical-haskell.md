@@ -97,6 +97,7 @@
 * [stack runghc、ghciでAmbiguous module nameというエラーが出る場合の対処法](https://www.ishiy.xyz/posts/2016-11-06-haskell-stack.html)
 * [Stack (Haskell): 自分で書いたmoduleをビルドしたい](http://qiita.com/sky_y/items/9e241747cff4ed80ea35)
 * [psibi/stackgo](https://github.com/psibi/stackgo)
+* [Scripting in Haskell](https://www.fpcomplete.com/blog/2016/11/scripting-in-haskell)
 
 ## NixOS
 * [Nix ±Cabal](http://begriffs.com/posts/2015-08-07-nix-plus-minus-cabal.html)
