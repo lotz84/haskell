@@ -344,6 +344,7 @@ Web Application Framework
 * [Servant authentication and sessions via cookies](https://www.stackbuilders.com/tutorials/haskell/servant-auth/)
 * [servant-template: production-ready Haskell web services in 5 minutes](https://jml.io/2016/10/servant-template-production-ready-haskell-web-services-in-5-minutes.html)
 * [alvare/latexpad](https://github.com/alvare/latexpad) - A LaTeX Scratchpad for sharing. <http://latexpad.clrnd.com.ar/>
+* [Arian van Putten - Servant](https://www.youtube.com/watch?v=GguRdqm9ZVA)
 
 ### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
