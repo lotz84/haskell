@@ -18,6 +18,7 @@
 * [Hackage Matrix Builder](http://matrix.hackage.haskell.org/)
 * [YOW! Australia](https://www.youtube.com/channel/UCAvGvvEemkeX8hurdPXr7hA)
 * [Functional Geekery Episode 72 – Gabriel Gonzalez](https://www.functionalgeekery.com/episode-72-gabriel-gonzalez/)
+* [The Haskell Website Working Group](https://neilmitchell.blogspot.jp/2016/11/the-haskellorg-website-working-group.html)
 
 ###日本
 * [Tokyo Haskell Meetup](http://www.meetup.com/Tokyo-Haskell-Meetup/)
