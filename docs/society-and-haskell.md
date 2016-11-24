@@ -6,6 +6,7 @@
   * [製品開発においてHaskellを使用した経験の振り返り](https://www.infoq.com/jp/news/2016/08/haskell-production-retrospective)
 * [Haskell in Production with Carl Baatz](http://softwareengineeringdaily.com/2016/08/31/haskell-in-production-with-carl-baatz/)
 * [Haskellがトップ20に迫る、11月TIOBE言語人気ランキング](http://news.mynavi.jp/news/2016/11/14/082/)
+* [Mastering Time-to-Market with Haskell](https://www.fpcomplete.com/blog/2016/11/mastering-time-to-market-haskell)
 
 ##コミュニティ
 * [Haskell Communities and Activities Report](https://wiki.haskell.org/Haskell_Communities_and_Activities_Report)
