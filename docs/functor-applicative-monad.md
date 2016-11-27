@@ -263,6 +263,8 @@ Reader + Writer + State
 * [IO Monad Considered Harmful](https://blog.jle.im/entry/io-monad-considered-harmful.html)
 
 ### Monad*
+* [2 07 Supermonads: One Notion to Bind them All](https://www.youtube.com/watch?v=HRofw58sySw)
+
 #### MonadFail
 * [MonadFail Proposal](https://wiki.haskell.org/MonadFail_Proposal)
 
