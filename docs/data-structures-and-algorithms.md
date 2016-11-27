@@ -5,6 +5,7 @@
 * [The vacuum-cairo package](https://hackage.haskell.org/package/vacuum-cairo)
 * [Haskell Skyline](http://pykello.github.io/programming/2015/12/12/haskell-skyline/)
 * [Algorithms for Computer Algebra](http://link.springer.com/book/10.1007/b102438)
+* [haskell-foundation/foundation](https://github.com/haskell-foundation/foundation)
 
 ##データ構造とアルゴリズム
 * [Memory footprints of some common data types](http://blog.johantibell.com/2011/06/memory-footprints-of-some-common-data.html)
