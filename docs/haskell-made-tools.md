@@ -276,6 +276,10 @@ Line 6:
 ### slacky
 * <https://github.com/mitchellwrosen/slacky/wiki>
 
+### sprinkles
+* Web Development without programming
+* [tdammers/sprinkles](https://github.com/tdammers/sprinkles)
+
 ### Super User Spark
 * [NorfairKing/super-user-spark](https://github.com/NorfairKing/super-user-spark)
 
