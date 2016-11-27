@@ -478,3 +478,4 @@ instance Eval' Hole where
 * [Constructing the Propositional Truncation using Non-recursive HITs](http://arxiv.org/abs/1512.02274)
 * [Categories, Bundles and Spacetime Topology](http://link.springer.com/book/10.1007/978-94-015-7776-2)
 * [Colimits in HoTT](http://homotopytypetheory.org/2016/01/08/colimits-in-hott/)
+* [3 01 A Functional Programmer's Guide to Homotopy Type Theory](https://www.youtube.com/watch?v=caSOTjr1z18)
