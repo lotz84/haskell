@@ -111,6 +111,7 @@
 * [NixOS/cabal2nix](https://github.com/NixOS/cabal2nix)
 * [Purely Functional Linux with NixOS](https://begriffs.com/posts/2016-08-08-intro-to-nixos.html)
 * [NixOSでHaskellな環境](http://qiita.com/nznktst/items/a6ad1fceb92d31604dd1)
+* [Episode 2 - Nix Simple Types](https://www.youtube.com/watch?v=l8-wIPANCU0&feature=youtu.be)
 
 ##Docker
 * [Dockerfile Linter](http://hadolint.lukasmartinelli.ch/)
