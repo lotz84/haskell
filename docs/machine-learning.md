@@ -79,6 +79,7 @@ instance Monad Dist where
 * [adscib/monad-bayes](https://github.com/adscib/monad-bayes)
   * [Practical Probabilistic Programming with Monads](https://www.youtube.com/watch?v=hI0ajVy2xEk)
   * [Practical probabilistic programming with Monads](http://mlg.eng.cam.ac.uk/pub/pdf/SciGhaGor15.pdf)
+* [A Simple Embedded Probabilistic Programming Language](https://medium.com/@jaredtobin/a-simple-embedded-probabilistic-programming-language-17bdaa08ed99#.tt9iikeo6)  
 * Oleg Kiselyov and Chung-chieh Shan - [Embedded Probabilistic Programming](http://okmij.org/ftp/kakuritu/dsl-paper.pdf)
 * [Learning Probabilistic Programs](http://arxiv.org/abs/1407.2646)
 * Ken Friis Larsen - [Memory Efficient Implementation of Probability Monads](http://www.diku.dk/hjemmesider/ansatte/kflarsen/t/ProbMonad-unpublished.pdf)
