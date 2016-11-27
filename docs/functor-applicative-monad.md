@@ -356,6 +356,7 @@ Reader + Writer + State
 * [一般化されたマイヒル／ネロードの定理 3：オートマトンの振る舞いと観測](http://d.hatena.ne.jp/m-hiyama/20160915/1473911123)
 * [Functional Geekery Episode 69 – Bartosz Milewski](https://www.functionalgeekery.com/episode-69-bartosz-milewski/)
 * [Bartosz Milewski - Category Theory](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
+* [Category Theory, Syntactically](http://www.hedonisticlearning.com/posts/category-theory-syntactically.html)
 
 ###CPL
 * [圏論プログラミング言語 CPL](http://mandel59.hateblo.jp/entry/2015/02/02/110621)
