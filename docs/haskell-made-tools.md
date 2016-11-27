@@ -303,6 +303,10 @@ Line 6:
 * webfont generator - converts ttf to woff, eot and svg
 * <https://github.com/ananthakumaran/webify>
 
+### wrecker
+* `wrecker` is an HTTP benchmarking library and executable for profiling several API actions.
+* <https://github.com/skedgeme/wrecker>
+
 ### xmonad
 * X11のウィンドウマネージャ
 * <http://xmonad.org/>
