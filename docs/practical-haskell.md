@@ -88,6 +88,7 @@
 * [Static compilation with Stack](https://www.fpcomplete.com/blog/2016/10/static-compilation-with-stack)
 * [psibi/stackgo](https://github.com/psibi/stackgo)
 * [Scripting in Haskell](https://www.fpcomplete.com/blog/2016/11/scripting-in-haskell)
+* [Stack を使って Haskell の Hello World をやってみる](http://ku00.hatenablog.com/entry/2016/09/15/141151)
 
 ### 逆引き
 * [Ubuntu 16 で Stack + GHC がライブラリのリンクに失敗する場合の対処法](http://qiita.com/mr_konn/items/13caa82c1118968d3145)
