@@ -36,6 +36,7 @@ parse = evalStateT
 * [Megaparsec](https://mrkkrp.github.io/megaparsec/)
   * [Tutorials](https://mrkkrp.github.io/megaparsec/tutorials.html)
   * [Announcing Megaparsec 5](https://mrkkrp.github.io/posts/announcing-megaparsec-5.html)
+  * [Latest additions to Megaparsec](https://mrkkrp.github.io/posts/latest-additions-to-megaparsec.html)
 * [The attoparsec package](http://hackage.haskell.org/package/attoparsec)
 * [[ANN] binary-parsers 0.1.0.0](https://www.reddit.com/r/haskell/comments/53m6cc/ann_binaryparsers_0100/)
 * [The trifecta package](https://hackage.haskell.org/package/trifecta)
