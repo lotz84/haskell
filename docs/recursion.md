@@ -150,6 +150,7 @@ fact = fix $ \fact n -> if n == 0 then 1 else n * fact (n-1)
 * [A Tour of Some Useful Recursive Types](http://jtobin.ca/tour-of-some-recursive-types)
 * [Monadic Recursion Schemes](http://jtobin.ca/monadic-recursion-schemes)
 * [Time Traveling Recursion Schemes](http://jtobin.ca/time-traveling-recursion)
+* [Promorphisms, Pre and Post](https://jtobin.io/promorphisms-pre-post)
 
 ----
 
