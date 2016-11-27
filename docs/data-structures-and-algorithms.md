@@ -167,6 +167,7 @@
 * [fgl](http://hackage.haskell.org/package/fgl)
 * [Generating Mazes with Inductive Graphs](http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/)
 * [An initial-algebra approach to directed acyclic graphs](https://researchspace.auckland.ac.nz/bitstream/handle/2292/3509/001damgs.pdf)
+* [2 09 Lazy Graph Processing in Haskell](https://www.youtube.com/watch?v=ao82bi5SwYE)
 
 ###Time
 * [A Haskell Time Library Tutorial](http://two-wrongs.com/haskell-time-library-tutorial)
