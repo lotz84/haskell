@@ -58,6 +58,7 @@ instance Show Bool where
 * [Type Classes and Constraints](https://gist.github.com/Icelandjack/5afdaa32f41adf3204ef9025d9da2a70)
 * [入門的ではない型クラスの話：Haskellの型クラスがぁ (´^｀;)](http://d.hatena.ne.jp/m-hiyama/20160928/1475022255)
 * [オーバーロードは何故にかくも難しいのか：Haskellの成功と失敗](http://d.hatena.ne.jp/m-hiyama/20160930/1475198218)
+* [Haskellの型クラスに関わるワークアラウンド](http://d.hatena.ne.jp/m-hiyama/20161003/1475457068)
 
 ## 代数的な型クラス
 * [tower](https://tonyday567.github.io/tower/index.html)
