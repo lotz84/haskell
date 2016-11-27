@@ -347,6 +347,7 @@ Web Application Framework
 * [servant-template: production-ready Haskell web services in 5 minutes](https://jml.io/2016/10/servant-template-production-ready-haskell-web-services-in-5-minutes.html)
 * [alvare/latexpad](https://github.com/alvare/latexpad) - A LaTeX Scratchpad for sharing. <http://latexpad.clrnd.com.ar/>
 * [Arian van Putten - Servant](https://www.youtube.com/watch?v=GguRdqm9ZVA)
+* [themoritz/diener](https://github.com/themoritz/diener)
 
 ### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
