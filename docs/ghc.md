@@ -104,6 +104,8 @@
 * [ZuriHac 2016 - Low-level Haskell: An Interactive Tour Through the STG](https://www.youtube.com/watch?v=-MFk7PIKYsg)
 * [GHC development flow](https://github.com/takenobu-hs/ghc-development-flow)
 * [Haskell: ghcでスタティックリンクする](http://qiita.com/aosho235/items/6519b12915f305f1bb1b)
+* [Levity Polymorphism (extended version)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/levity-1.pdf)
+* [Compiling without continuations](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/join-points.pdf)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
