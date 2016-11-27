@@ -61,6 +61,7 @@ parse = evalStateT
 * [OpenFlowの可変長フィールドをAttoparsecで解析する](http://qiita.com/ilyaletre/items/b0e77aeb67914aec60be)
 * [Parser Combinators](http://athiemann.net/2016/05/27/parser-combinators.html)
 * [えっ!?　１時間でオリジナルのプログラミング言語の開発を構文解析から!?](http://qiita.com/hiruberuto/items/160fe92376e795168acd)
+* [quickdudley/phaser](https://github.com/quickdudley/phaser)
 
 ### Language
 * [Hackage Search: language](https://hackage.haskell.org/packages/search?terms=language)
