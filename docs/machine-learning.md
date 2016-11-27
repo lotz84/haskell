@@ -46,6 +46,9 @@
 * [The Functional Morphology Library](http://www.cse.chalmers.se/alumni/markus/FM_Tech_Report.pdf)
 * [aneksteind/hext](https://github.com/aneksteind/hext)
 
+## 画像解析
+* [haskell-opencv](http://lumiguide.github.io/haskell-opencv/)
+
 ## FFT
 * [Simple FFT in Haskell](https://ro-che.info/articles/2015-12-04-fft)
 * [Testing FFT with R](https://ro-che.info/articles/2015-12-05-testing-fft)
@@ -56,6 +59,8 @@
 * [hmatrix](https://hackage.haskell.org/package/hmatrix)
   * [introduction to hmatrix](http://dis.um.es/~alberto/material/hmatrix.pdf)
 * [Efficient Linear Algebra with Plover](http://begriffs.com/posts/2016-01-03-plover-linear-algebra.html)
+* [ocramz/sparse-linear-algebra](https://github.com/ocramz/sparse-linear-algebra)
+* [laughedelic/sparse-lin-alg](https://github.com/laughedelic/sparse-lin-alg)
 
 ## 確率
 * [プログラミングのための確率統計 in Haskell](http://note.golden-lucky.net/2010/12/1-2-3-4-5-6-16-16-16-16-16-16-246-135.html)
