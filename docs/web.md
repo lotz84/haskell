@@ -389,6 +389,7 @@ Protocol
 * [GaloisInc/avro](https://github.com/GaloisInc/avro)
 * [spoqa/nirum](https://github.com/spoqa/nirum)
 * [Haskell, can we REST?](https://github.com/eborden/json-msg-pack/blob/master/README.md)
+* [Apache Thrift - Haskell](https://thrift.apache.org/tutorial/hs)
 
 ### MQTT
 * [uwitty/mosquitto](https://github.com/uwitty/mosquitto)
