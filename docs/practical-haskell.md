@@ -244,3 +244,5 @@
 * [Functional Programmers Paris - Building a language, in Haskell, with an LLVM backend](https://www.youtube.com/watch?v=I51TRpl1qic)
 * [Git Internals With Haskell](https://www.youtube.com/watch?v=wsNnP3we_R4)
 * [Parse and generate Rocket League replays with Haskell](http://taylor.fausak.me/2016/11/15/parse-and-generate-rocket-league-replays-with-haskell/)
+* [silky/literate-readme](https://github.com/silky/literate-readme) - README files used to be able to lie. Now they can't! Woo!
+* [Haskell Documentation, 2016 Update](http://www.snoyman.com/blog/2016/11/haskell-documentation-2016-update)
