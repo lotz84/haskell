@@ -67,6 +67,8 @@ $ alias ghci='stack ghci --'
 * [Haskell Design Patterns](https://www.packtpub.com/application-development/haskell-design-patterns)
 * [The category design pattern](http://www.haskellforall.com/2012/08/the-category-design-pattern.html)
 * [Ask-Elle: an adaptable programming tutor for Haskell giving automated feedback](http://www.cs.uu.nl/research/techreps/repo/CS-2015/2015-019.pdf)
+* [Functional Programming & Haskell - Computerphile](https://www.youtube.com/watch?v=LnX3B9oaKzw)
+* [Do you like Scala? Give Haskell a try!](https://www.fpcomplete.com/blog/2016/11/comparison-scala-and-haskell)
 * [What Code Does vs What Code Means](http://begriffs.com/posts/2015-12-26-what-code-means.html)
 * [fptudelft/FP101x-Content-2015](https://github.com/fptudelft/FP101x-Content-2015)
 * [Free Programming Books#Haskell](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#haskell)
