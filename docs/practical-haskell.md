@@ -4,6 +4,7 @@
   * [Easy Hoogle usage from bash](http://przybyszd.blogspot.jp/2016/01/easy-hoogle-usage-from-bash.html)
   * [Hoogle検索をラクにするChrome拡張を作りました！](http://yu-i9.hatenablog.com/entry/hoogleswitcher)
 * [Hayoo!](http://hayoo.fh-wedel.de/)
+* [STANDARDIZED LADDER OF FUNCTIONAL PROGRAMMING](https://pbs.twimg.com/media/CydL5EYUsAAI-61.jpg:large)
 * [Anatomy of a Haskell-based Application](http://abailly.github.io/posts/cm-arch-design.html)
 * [Equational reasoning](http://www.haskellforall.com/2013/12/equational-reasoning.html)
 * [Equational reasoning at scale](http://www.haskellforall.com/2014/07/equational-reasoning-at-scale.html)
