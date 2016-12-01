@@ -106,6 +106,8 @@
 * [Haskell: ghcでスタティックリンクする](http://qiita.com/aosho235/items/6519b12915f305f1bb1b)
 * [Levity Polymorphism (extended version)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/levity-1.pdf)
 * [Compiling without continuations](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/join-points.pdf)
+* [GHC optimization and fusion](https://www.stackbuilders.com/tutorials/haskell/ghc-optimization-and-fusion/)
+* [Worker-Wrapper transformationについて軽く](http://qiita.com/ruicc/items/f150be5c33d99cebe42c)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
