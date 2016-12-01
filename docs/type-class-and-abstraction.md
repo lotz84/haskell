@@ -93,3 +93,4 @@ format ("Person's name is " % text % ", age is " % hex) "Dave" 54
   * [今すぐprintfを窓から投げ捨ててformattingを使うべきn個の理由](http://qiita.com/hiyakashi_/items/f241af8c25c30765cab4)
 * [Text.Printf](http://hackage.haskell.org/package/base/docs/Text-Printf.html)
 * [formattable](http://hackage.haskell.org/package/formattable)
+* [Printcess.PrettyPrinting](https://hackage.haskell.org/package/printcess-0.1.0.2/docs/Printcess-PrettyPrinting.html)
