@@ -196,6 +196,9 @@ instance Monad (Reader e) where
 * [Quick interpreters with the Reader monad](https://donsbot.wordpress.com/2006/12/11/quick-interpreters-with-the-reader-monad/)
 * [Haskellで大域変数が欲しい時はReaderモナドを使いましょう](http://yu-i9.hatenablog.com/entry/2014/11/19/235007)
 
+### Writer Monad
+* [Writerを使ってはならない](http://qiita.com/ruicc/items/28b1cd2df215ce724e26)
+
 ###随伴
 * [Adjunctions](https://www.youtube.com/playlist?list=PL54B49729E5102248)
 * [adjunctions](https://hackage.haskell.org/package/adjunctions)
