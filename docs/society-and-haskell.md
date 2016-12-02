@@ -94,6 +94,7 @@ Haskellを利用している日本の企業
 * [Tweag I/O](http://www.tweag.io/)
 * [Jane Street](https://www.janestreet.com/)
 * [ZuriHac 2016: Functional Programming at LumiGuide](https://www.youtube.com/watch?v=IKznN_TYjZk)
+* [Jobs in Haskell](https://www.jobsinnew.tech/langs/haskell/)
 
 ### FPComplete
 * [FPComplete](https://www.fpcomplete.com/)
