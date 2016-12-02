@@ -69,6 +69,7 @@
 * [Refinement Reflection on ADTs: Lists Are Monoids](http://goto.ucsd.edu/~rjhala/liquid/haskell/blog/blog/2016/10/06/structural-induction.lhs/)
 * [NLambda](http://www.mimuw.edu.pl/~szynwelski/nlambda/doc/)
 * [Scrap Your Constructors: Church Encoding Algebraic Types](http://programmable.computer/posts/church_encoding.html)
+* [Theorem Prover Haskellの紹介](http://myuon-myon.hatenablog.com/entry/2016/12/01/221636)
 
 ```haskell
 data Bottom
