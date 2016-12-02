@@ -36,6 +36,11 @@ variance introduced by outliers: 81% (severely inflated)
 * A Haskell implementation of OpenID Connect.
 * <https://github.com/tekul/broch>
 
+### carettah
+* carettah: A presentation tool written with Haskell.
+* <https://hackage.haskell.org/package/carettah>
+* [とあるHaskellアプリでプレゼンする方法](https://kiwamu.wordpress.com/2016/12/01/%E3%81%A8%E3%81%82%E3%82%8Bhaskell%E3%82%A2%E3%83%97%E3%83%AA%E3%81%A7%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/)
+
 ### cgrep
 * プログラムの構造を意識したgrepが出来るコマンド
 * <https://github.com/awgn/cgrep>
