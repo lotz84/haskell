@@ -381,6 +381,7 @@ Web Application Framework
 * [psibi/yesod-rest](https://github.com/psibi/yesod-rest)
 * [Better CI for the Yesod scaffoldings](http://www.yesodweb.com/blog/2016/09/better-ci-yesod-scaffoldings)
 * [Use MySQL Safely in Yesod Applications](http://www.yesodweb.com/blog/2016/11/use-mysql-safely-in-yesod)
+* [Yesod のインストールとサンプルプログラムの実行](http://qiita.com/waddlaw/items/e47552cb26c1d58ece0b)
 
 Protocol
 --------
