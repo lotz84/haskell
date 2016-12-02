@@ -1,4 +1,5 @@
 * [The rebase package](http://hackage.haskell.org/package/rebase)
+* [nikita-volkov/rerebase](https://github.com/nikita-volkov/rerebase)
 * [Base で定義されている演算子の一覧](http://hackage.haskell.org/package/acme-operators/docs/Acme-Operators-Base.html)
 * [The base-prelude package](https://hackage.haskell.org/package/base-prelude)
 * [Foundation](http://tab.snarc.org/posts/haskell/2016-09-09-foundation.html)
