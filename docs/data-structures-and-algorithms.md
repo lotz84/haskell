@@ -148,6 +148,7 @@
 * [iconv-typed: An experiment in API design and type safety](http://www.alfredodinapoli.com/posts/2016-10-23-iconv-typed-an-experiment-in-api-design-and-type-safety.html)
 * [String Types](https://haskell-lang.org/tutorial/string-types)
 * [Sorting Secret - Computerphile](https://www.youtube.com/watch?v=pcJHkWwjNl4)
+* [agrafix/superbuffer](https://github.com/agrafix/superbuffer) - Haskell: Efficiently build a bytestring from smaller chunks
 
 ###配列
 * [The vector package](https://hackage.haskell.org/package/vector)
