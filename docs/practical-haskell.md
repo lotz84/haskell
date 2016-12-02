@@ -90,6 +90,8 @@
 * [psibi/stackgo](https://github.com/psibi/stackgo)
 * [Scripting in Haskell](https://www.fpcomplete.com/blog/2016/11/scripting-in-haskell)
 * [Stack を使って Haskell の Hello World をやってみる](http://ku00.hatenablog.com/entry/2016/09/15/141151)
+* [Haskell 初心者が、stack でベンチマークテストにつまった話（RTS option）](http://qiita.com/dxa0010/items/48f625a83d60ebffefe7)
+* [stackでのライブラリ(library)と実行(executable)ファイルの違い](http://qiita.com/dxa0010/items/5d37497cddbcd5c823a1)
 
 ### 逆引き
 * [Ubuntu 16 で Stack + GHC がライブラリのリンクに失敗する場合の対処法](http://qiita.com/mr_konn/items/13caa82c1118968d3145)
