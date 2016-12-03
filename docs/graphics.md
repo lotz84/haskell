@@ -42,6 +42,7 @@
 * [Using Electron with Haskell](https://codetalk.io/posts/2016-05-11-using-electron-with-haskell.html)
 * [Creating a GUI application in Haskell](https://www.stackbuilders.com/tutorials/haskell/gui-application/)
 * [deech/webkitfltkhs](https://github.com/deech/webkitfltkhs)
+* [Qtah](http://khumba.net/projects/qtah/)
 
 ## Game
 * [Asset management in a real time 3D engine in Haskell](http://phaazon.blogspot.fr/2015/06/asset-management-in-real-time-3d-engine.html)
