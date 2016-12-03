@@ -382,6 +382,7 @@ Web Application Framework
 * [Better CI for the Yesod scaffoldings](http://www.yesodweb.com/blog/2016/09/better-ci-yesod-scaffoldings)
 * [Use MySQL Safely in Yesod Applications](http://www.yesodweb.com/blog/2016/11/use-mysql-safely-in-yesod)
 * [Yesod のインストールとサンプルプログラムの実行](http://qiita.com/waddlaw/items/e47552cb26c1d58ece0b)
+* [Yesodのテンプレートから生成されるファイルの役割](http://qiita.com/jabaraster/items/4c518beb422fb06f5957)
 
 Protocol
 --------
