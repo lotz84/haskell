@@ -149,6 +149,7 @@
 * [String Types](https://haskell-lang.org/tutorial/string-types)
 * [Sorting Secret - Computerphile](https://www.youtube.com/watch?v=pcJHkWwjNl4)
 * [agrafix/superbuffer](https://github.com/agrafix/superbuffer) - Haskell: Efficiently build a bytestring from smaller chunks
+* [String_random.jsをHaskellへ移植した](http://qiita.com/hiratara/items/d0294324182765784d5e)
 
 ###配列
 * [The vector package](https://hackage.haskell.org/package/vector)
