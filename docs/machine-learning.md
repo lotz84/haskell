@@ -160,6 +160,7 @@ instance Monad Dist where
 * [Automasymbolic Differentiation](http://jtobin.ca/automasymbolic-differentiation)
 * [Yo Dawg We Heard You Like Derivatives](http://jtobin.ca/ad-via-recursion-schemes)
 * [確率的勾配降下法をadで実装してみた](http://qiita.com/lotz/items/9e2ae06925906e3c67b0)
+* [Daniel Brice - Automatic Differentiation in Haskell](https://www.youtube.com/watch?v=q1DUKEOUoxA&feature=share)
 
 ## Deep Learning
 * [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/)
