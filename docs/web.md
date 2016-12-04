@@ -152,6 +152,7 @@ HTML Template
 * [stackbuilders/stache](https://github.com/stackbuilders/stache)
 * [Mustache templates in Haskell](https://www.stackbuilders.com/tutorials/haskell/mustache-templates/)
 * [Ginger: Jinja2-style HTML templates for Haskell](https://www.reddit.com/r/haskell/comments/5dfqtb/ginger_jinja2style_html_templates_for_haskell/)
+* [heterocephalus - Haskellとフロントエンドが仲良くできるテンプレートエンジン](http://qiita.com/arowM/items/b0259f1ca43ef3192d31)
 
 ### Lucid
 * [chrisdone/lucid](https://github.com/chrisdone/lucid)
@@ -383,6 +384,7 @@ Web Application Framework
 * [Use MySQL Safely in Yesod Applications](http://www.yesodweb.com/blog/2016/11/use-mysql-safely-in-yesod)
 * [Yesod のインストールとサンプルプログラムの実行](http://qiita.com/waddlaw/items/e47552cb26c1d58ece0b)
 * [Yesodのテンプレートから生成されるファイルの役割](http://qiita.com/jabaraster/items/4c518beb422fb06f5957)
+* [add-handler コマンドでハンドラの追加を行う](http://qiita.com/waddlaw/items/7cbda81bfd0ee1624d5d)
 
 Protocol
 --------
