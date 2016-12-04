@@ -102,6 +102,7 @@
 * [Haskell div mod – Cyclical Division, Modulus Visualised](http://www.prigrammer.com/?p=321)
 * [「Haskell」で「Look and Say 数列」を生成してみた](http://zodi-g12.hatenablog.com/entry/2016/11/07/065219)
 * [Constant-time Find First Set](http://www.hedonisticlearning.com/posts/find-first-set.html)
+* [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
 
 ###Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
