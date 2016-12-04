@@ -118,6 +118,7 @@
 * [The Random Access Zipper: Simple, Purely-Functional Sequences](https://arxiv.org/abs/1608.06009)
 * [Haskellで直角三角形のタプルをつくる](http://qiita.com/toshikin/items/e54142d828162e16a246)
 * [リストの中から重複する項目の数をカウントする](http://qiita.com/mather314/items/dbae21e2fcde2ea74669)
+* [Haskellで高階関数を組み合わせて部分文字列を作る例が全然わからなかったから考えた](http://qiita.com/ksyundo/items/724b7e9bddac58e78e83)
 
 ###数値
 * [Lazy unary numbers](http://www.edofic.com/posts/2015-05-03-unary-numbers.html)
