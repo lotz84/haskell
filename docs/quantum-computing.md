@@ -12,3 +12,4 @@
 * [The dimensional package](http://hackage.haskell.org/package/dimensional)
 * [24 days of Hackage, 2015: day 20: dimensional: type-checked computation on physical quantities with units](http://conscientiousprogrammer.com/blog/2015/12/20/24-days-of-hackage-2015-day-20-dimensional-type-checked-computation-on-physical-quantities-with-units/)
 * [Haskell で振動子](http://d.hatena.ne.jp/webapp/20110508)
+* [Introducing the Hamilton library](https://blog.jle.im/entry/introducing-the-hamilton-library.html)
