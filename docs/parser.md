@@ -21,6 +21,7 @@
 * [Partial Derivatives of Regular Expressions](https://www.youtube.com/watch?v=QVdBPvOOjBA)
 * [Regex Edit Distance](http://languagengine.co/blog/regex-edit-distance/)
 * [Fast, Elegant Regexes in Haskell](https://begriffs.com/posts/2016-06-27-fast-haskell-regexes.html)
+* [2016 11 24 - Herrmann - Compiling a Simple language to LLVM](https://www.youtube.com/watch?v=Re3XgFfflzg&feature=youtu.be)
 
 ## パーサーコンビネータ
 * [JavaScriptでパーサコンビネータのコンセプトを理解する](http://blog.anatoo.jp/entry/2015/04/26/220026)
