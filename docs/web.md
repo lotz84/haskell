@@ -82,6 +82,7 @@ Client
 * kubernetes - [soundcloud/haskell-kubernetes](https://github.com/soundcloud/haskell-kubernetes)
 * Telegram Bot API - [The telegram-api package](https://hackage.haskell.org/package/telegram-api)
 * Clarifai - [caneroj1/clarifai-hs](https://github.com/caneroj1/clarifai-hs)
+* [noraesae/line](https://github.com/noraesae/line) - Haskell SDK for the LINE APIs
 * [1 07 High Performance Client Side Web Applications through Haskell EDSLs](https://www.youtube.com/watch?v=gQmDeq9eyF8)
 
 Scraping
