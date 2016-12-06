@@ -108,6 +108,8 @@
 * [Compiling without continuations](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/join-points.pdf)
 * [GHC optimization and fusion](https://www.stackbuilders.com/tutorials/haskell/ghc-optimization-and-fusion/)
 * [Worker-Wrapper transformationについて軽く](http://qiita.com/ruicc/items/f150be5c33d99cebe42c)
+* [StrictData拡張について](http://qiita.com/Mizunashi_Mana/items/8edf7781ed4eb4eea4e9)
+* [scaling ghc --make](http://trofi.github.io/posts/193-scaling-ghc-make.html)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
