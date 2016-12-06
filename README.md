@@ -54,3 +54,4 @@
 * [chrisdone/haskellnews](https://github.com/chrisdone/haskellnews)
 * [All Haskell Language Topics - Stack Overflow](http://stackoverflow.com/documentation/haskell/topics)
 * [Hask Anything!](http://haskanything.com/)
+* [Haskellライブラリ所感2016](http://syocy.hatenablog.com/entry/haskell-library-2016)
