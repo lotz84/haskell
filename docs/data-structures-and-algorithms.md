@@ -1,7 +1,6 @@
 * [The Basic, Practical Benefits of the Haskell Type System](http://mechanical-elephant.com/thoughts/2015-08-10-the-pratical-benefits-of-haskell-typesystem/)
 * [Types & Kinds](http://slpopejoy.github.io/2015/04/10/Types/)
 * [Another Approach to Default Function Parameters](https://ocharles.org.uk/blog/posts/2015-07-23-another-approach-to-default-variables.html)
-* [avieth/Algebraic](https://github.com/avieth/Algebraic)
 * [The vacuum-cairo package](https://hackage.haskell.org/package/vacuum-cairo)
 * [Haskell Skyline](http://pykello.github.io/programming/2015/12/12/haskell-skyline/)
 * [Algorithms for Computer Algebra](http://link.springer.com/book/10.1007/b102438)
@@ -27,84 +26,67 @@
 * [Type-Safe Observable Sharing in Haskell](https://vimeo.com/6679785)
 * [Overloading Set Operations](http://athanclark.github.io/posts/2015-08-07-overloading-sets.html)
 * [hashtables](https://hackage.haskell.org/package/hashtables)
-* [Palindromic tree](http://adilet.org/blog/25-09-14/)
-* [HASKELL BINARY SEARCH TREE (BST) EXAMPLE](http://haskelle.blogspot.jp/2015/06/haskell-binary-search-tree-bst-example.html)
-* [You know more about presheaves than you think](https://derekelkins.github.io/posts/you-know-more-about-presheaves-than-you-think.html)
-* [Vertical Finger Trees](http://www.alexkyte.me/2015/10/vertical-finger-trees.html)
-* [The Theory of patches-vector](http://liamoc.net/posts/2015-11-10-patch-theory.html)
 * [Cellular Automata](https://www.fpcomplete.com/user/edwardk/cellular-automata)
 * [Towards general techniques in programming - the second diagonal principle](http://correctsoftware.websitefreelancing.com/index.php?/archives/6-Towards-general-techniques-in-programming-the-second-diagonal-principle.html)
-* [24 days of Hackage, 2015: day 7: semigroups; NonEmpty list and a case study of types and tests](http://conscientiousprogrammer.com/blog/2015/12/07/24-days-of-hackage-2015-day-7-semigroups-nonempty-list-and-a-case-study-of-types-and-tests/)
 * [24 days of Hackage, 2015: day 8: multiset; I wish this were in the standard containers package](http://conscientiousprogrammer.com/blog/2015/12/08/24-days-of-hackage-2015-day-8-multiset-i-wish-this-were-in-the-standard-containers-package/)
-* [Subtractable values are torsors](https://ro-che.info/articles/2013-01-08-torsors)
-* [Torsors, midpoints, and homogeneous coordinates](https://ro-che.info/articles/2015-12-16-torsors-midpoints-homogeneous-coordinates)
 * [lotz84/transducer-survey.md](https://gist.github.com/lotz84/0cbe22416319b6caf2e1)
 * [Transducers: Why and How?](http://beerendlauwers.be/posts/2015-12-09-transducers.html)
 * [The reducers package](https://hackage.haskell.org/package/reducers)
-* [Haskell Tutorial: Implementing highly efficient data structures with Monoids and Fingertrees](https://www.codementor.io/haskell/tutorial/monoids-fingertrees-implement-abstract-data)
-* [24 days of Hackage, 2015: day 18: vector, vector-algorithms: unleash your inner C programmer!](http://conscientiousprogrammer.com/blog/2015/12/18/24-days-of-hackage-2015-day-18-vector-vector-algorithms-unleash-your-inner-c-programmer/)
 * [Tag, don't type](https://github.com/quchen/articles/blob/master/tag-dont-type.md)
 * [巡回冗長検査(CRC-32)のHaskellでの実装](http://qiita.com/YoshikuniJujo/items/687ad7cb6f6e97725121)
-* [Encoding arbitrary precision integers in binary](http://kenta.blogspot.jp/2015/12/igptrdec-encoding-arbitrary-precision.html)
 * [Solving the GCHQ puzzle "by hand"](http://neilmitchell.blogspot.jp/2015/12/solving-gchq-puzzle-by-hand.html)
-* [The magma package](http://hackage.haskell.org/package/magma)
 * [A SAMPLE IMPLEMENTATION OF L-SYSTEMS IN HASKELL](http://www.filipallberg.se/l-system.html)
-* [状態変化なしに効率的な辞書を実装する重み平衡木](http://qiita.com/YoshikuniJujo/items/a852c0d3af70debd2d24)
 * [Symbolic expressions can be Automatically differentiated too](http://h2.jaguarpaw.co.uk/posts/symbolic-expressions-can-be-automatically-differentiated/)
-* [Haskellでわかる群論の代数的構造](https://www.gitbook.com/book/aiya000/haskell_de_groupstructure/details)
-* [Efficient Amortised and Real-Time Queues in Haskell](http://www.well-typed.com/blog/2016/01/efficient-queues/)
 * [What does this list permutations implementation in Haskell exactly do?](http://stackoverflow.com/questions/24484348/what-does-this-list-permutations-implementation-in-haskell-exactly-do)
-* [Haskellで無限個の無限リストをソートされた形で結合する](http://itchyny.hatenablog.com/entry/2016/01/17/120000)
 * [Church-encoded datatypes in Haskell](http://www.cbdumas.com/posts/church_encoding.html)
 * [Church-encoded datatypes in Haskell, part 2](http://www.cbdumas.com/posts/church_encoding2.html)
-* [Difference Lists and the Codensity Monad](http://begriffs.com/posts/2016-02-04-difference-lists-and-codennsity.html)
 * [The grid package](http://hackage.haskell.org/package/grid)
-* [Haskell で動的計画法を書くための3つの方針](http://d.hatena.ne.jp/toslunar/20100408/1270719176)
 * [Safe Zero-cost Coercions for Haskell - Richard Eisenberg](http://ezyang.tumblr.com/post/96448232652/safe-zero-cost-coercions-for-haskell-richard)
-* [acowley/Frames](https://github.com/acowley/Frames)
 * [bollu/cellularAutomata](https://github.com/bollu/cellularAutomata)
 * [Realtime collaborative editor. Algebraic properties of the problem.](http://blog.haskell-exists.com/yuras/posts/realtime-collaborative-editor.html)
-* [パズル「カードの三角形」を内包表記で解く](http://bitterharvest.hatenablog.com/entry/2014/12/01/084440)
 * [Haskellの乱数事情](http://qiita.com/philopon/items/8f647fc8dafe66b7381b)
 * [Typeable and Data in Haskell](http://chrisdone.com/posts/data-typeable)
 * [Löb and möb: strange loops in Haskell](https://github.com/quchen/articles/blob/master/loeb-moeb.md)
 * [Löb with error handling](https://gist.github.com/PkmX/182c6c5444b695d9a794)
 * [ekmett/ersatz](https://github.com/ekmett/ersatz)
-* [Descending sort in Haskell](https://ro-che.info/articles/2016-04-02-descending-sort-haskell)
-* [rrnewton/haskell-lockfree](https://github.com/rrnewton/haskell-lockfree)
-* [bttr/psqueues](https://github.com/bttr/psqueues)
 * [FuctioNaL with OOP ～objectiveが諍いを終演に導く～](http://tokiwoousaka.github.io/takahashi/contents/day20160416NLNagoya.html)
-* [List and Comprehension Extensions](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/guide-to-ghc-extensions/list-and-comprehension-extensions)
 * [HASKELL AND DOMAIN DRIVEN DESIGN (DDD)](http://zenhackers.net/blog/?p=106)
 * [Data is Code](http://www.haskellforall.com/2016/04/data-is-code.html)
 * [Rubik's cube combinations](http://kenta.blogspot.jp/2016/04/vcppbmdn-rubiks-cube-combinations.html)
 * [Haskellでいかに多態を表すか](http://fumieval.hatenablog.com/entry/2015/04/06/173848)
-* [Haskellで平衡化する方法: 6秒かかる処理を3秒にしよう](http://qiita.com/eielh/items/64ba5f0164b89c6c284e)
-* [データ型のCPS変換について](http://myuon-myon.hatenablog.com/entry/2016/05/11/215734)
 * [On Ad-hoc Datatypes](https://jaspervdj.be/posts/2016-05-11-ad-hoc-datatypes.html)
-* [The validation package](http://hackage.haskell.org/package/validation)
 * [SamuelSchlesinger/AutomataTheory](https://github.com/SamuelSchlesinger/AutomataTheory/blob/master/turing.hs)
 * [The hetero-dict package](http://hackage.haskell.org/package/hetero-dict)
 * [Weigh your Haskell code](http://bokesan.blogspot.jp/2016/05/weigh-your-haskell-code.html)
-* [Queueing and Glueing for Optimal Partitioning](http://www.iis.sinica.edu.tw/~scm/pub/queueing-glueing.pdf)
 * [ナップザック問題をHaskellで解いてみる](http://qiita.com/ttatsf/items/40da0ca54f257926e733)
 * [The nested-sequence package](http://hackage.haskell.org/package/nested-sequence)
 * [Bound](https://www.schoolofhaskell.com/user/edwardk/bound)
-* [Safer paths, part 1 - valid and typed paths](http://cs-syd.eu/posts/2016-08-14-safer-paths-part-1-valid-and-typed-paths.html)
-* [Safer paths, part 2 - Stop, Reconsider, Contribute](http://cs-syd.eu/posts/2016-08-21-safer-paths-part-2---stop-reconsider-contribute.html)
 * [「組合せ最適化でグループ分け」Haskellでやってみた](http://qiita.com/ttatsf/items/3789159bc4e880cc07bc)
 * [拡張されたユークリッドの互除法](http://qiita.com/bra_cat_ket/items/205c19611e21f3d422b7)
-* [リストの中から重複する項目の数をカウントする](http://qiita.com/mather314/items/dbae21e2fcde2ea74669)
 * [[fltalwhq] integerLog2 and an introduction to unboxed types](http://kenta.blogspot.jp/2016/09/fltalwhq-integerlog2-and-introduction.html)
-* [【Haskell】リストをシャッフルする関数](http://qiita.com/penguinshunya/items/f90a1df5fdb6ee7962e5)
-* [Re: リストをシャッフルする関数](http://qiita.com/yutasth/items/69519cbac7279e36a03b)
 * [Adventures in enumerating balanced brackets](https://byorgey.wordpress.com/2016/10/25/adventures-in-enumerating-balanced-brackets/)
 * [Haskell div mod – Cyclical Division, Modulus Visualised](http://www.prigrammer.com/?p=321)
 * [「Haskell」で「Look and Say 数列」を生成してみた](http://zodi-g12.hatenablog.com/entry/2016/11/07/065219)
 * [Constant-time Find First Set](http://www.hedonisticlearning.com/posts/find-first-set.html)
-* [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
 
-###Serialization
+### ソート
+* [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
+* [Descending sort in Haskell](https://ro-che.info/articles/2016-04-02-descending-sort-haskell)
+
+### Queue
+* [bttr/psqueues](https://github.com/bttr/psqueues)
+* [Efficient Amortised and Real-Time Queues in Haskell](http://www.well-typed.com/blog/2016/01/efficient-queues/)
+* [Queueing and Glueing for Optimal Partitioning](http://www.iis.sinica.edu.tw/~scm/pub/queueing-glueing.pdf)
+
+### 代数構造
+* [The magma package](http://hackage.haskell.org/package/magma)
+* [24 days of Hackage, 2015: day 7: semigroups; NonEmpty list and a case study of types and tests](http://conscientiousprogrammer.com/blog/2015/12/07/24-days-of-hackage-2015-day-7-semigroups-nonempty-list-and-a-case-study-of-types-and-tests/)
+* [You know more about presheaves than you think](https://derekelkins.github.io/posts/you-know-more-about-presheaves-than-you-think.html)
+* [Haskellでわかる群論の代数的構造](https://www.gitbook.com/book/aiya000/haskell_de_groupstructure/details)
+* [avieth/Algebraic](https://github.com/avieth/Algebraic)
+* [Subtractable values are torsors](https://ro-che.info/articles/2013-01-08-torsors)
+
+### Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
 * [Better, faster binary serialization](https://github.com/meiersi/HaskellerZ/blob/master/meetups/20150529-ZuriHac2015_Duncan_Coutts-Better_Faster_Binary_Serialization/binary.pdf)
 * [Fast way to serialize Haskell objects](https://www.reddit.com/r/haskell/comments/3u5ryh/fast_way_to_serialize_haskell_objects/cxcijmn)
@@ -116,15 +98,13 @@
 * [weigh: Measuring allocations in Haskell](https://www.fpcomplete.com/blog/2016/05/weigh-package)
 * [The arithmoi package](https://hackage.haskell.org/package/arithmoi)
 * [The Random Access Zipper: Simple, Purely-Functional Sequences](https://arxiv.org/abs/1608.06009)
-* [Haskellで直角三角形のタプルをつくる](http://qiita.com/toshikin/items/e54142d828162e16a246)
-* [リストの中から重複する項目の数をカウントする](http://qiita.com/mather314/items/dbae21e2fcde2ea74669)
-* [Haskellで高階関数を組み合わせて部分文字列を作る例が全然わからなかったから考えた](http://qiita.com/ksyundo/items/724b7e9bddac58e78e83)
+* [Encoding arbitrary precision integers in binary](http://kenta.blogspot.jp/2015/12/igptrdec-encoding-arbitrary-precision.html)
 
-###数値
+### 数値
 * [Lazy unary numbers](http://www.edofic.com/posts/2015-05-03-unary-numbers.html)
 * [Exact Real Arithmetic in Haskell](https://www.youtube.com/watch?v=LJQgYBQFtSE)
 
-###文字列
+### 文字列
 * [Haskell String Types](http://www.alexeyshmalko.com/2015/haskell-string-types/)
 * [bytestring](https://hackage.haskell.org/package/bytestring)
 * [The utf8-string package](https://hackage.haskell.org/package/utf8-string)
@@ -152,6 +132,20 @@
 * [Sorting Secret - Computerphile](https://www.youtube.com/watch?v=pcJHkWwjNl4)
 * [agrafix/superbuffer](https://github.com/agrafix/superbuffer) - Haskell: Efficiently build a bytestring from smaller chunks
 * [String_random.jsをHaskellへ移植した](http://qiita.com/hiratara/items/d0294324182765784d5e)
+* [Haskellで高階関数を組み合わせて部分文字列を作る例が全然わからなかったから考えた](http://qiita.com/ksyundo/items/724b7e9bddac58e78e83)
+* [Safer paths, part 1 - valid and typed paths](http://cs-syd.eu/posts/2016-08-14-safer-paths-part-1-valid-and-typed-paths.html)
+* [Safer paths, part 2 - Stop, Reconsider, Contribute](http://cs-syd.eu/posts/2016-08-21-safer-paths-part-2---stop-reconsider-contribute.html)
+
+### リスト
+* [Haskellで無限個の無限リストをソートされた形で結合する](http://itchyny.hatenablog.com/entry/2016/01/17/120000)
+* [Haskellで直角三角形のタプルをつくる](http://qiita.com/toshikin/items/e54142d828162e16a246)
+* [リストの中から重複する項目の数をカウントする](http://qiita.com/mather314/items/dbae21e2fcde2ea74669)
+* [【Haskell】リストをシャッフルする関数](http://qiita.com/penguinshunya/items/f90a1df5fdb6ee7962e5)
+* [Re: リストをシャッフルする関数](http://qiita.com/yutasth/items/69519cbac7279e36a03b)
+* [リストの中から重複する項目の数をカウントする](http://qiita.com/mather314/items/dbae21e2fcde2ea74669)
+* [パズル「カードの三角形」を内包表記で解く](http://bitterharvest.hatenablog.com/entry/2014/12/01/084440)
+* [Difference Lists and the Codensity Monad](http://begriffs.com/posts/2016-02-04-difference-lists-and-codennsity.html)
+* [List and Comprehension Extensions](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/guide-to-ghc-extensions/list-and-comprehension-extensions)
 
 ###配列
 * [The vector package](https://hackage.haskell.org/package/vector)
@@ -165,6 +159,15 @@
 * [【Haskell】様々な配列その2](http://qiita.com/penguinshunya/items/70953f23a7917f4ca74e)
 * [The vector-builder package](http://hackage.haskell.org/package/vector-builder)
 * [vector-algorithms: Efficient algorithms for vector arrays](http://hackage.haskell.org/package/vector-algorithms)
+* [24 days of Hackage, 2015: day 18: vector, vector-algorithms: unleash your inner C programmer!](http://conscientiousprogrammer.com/blog/2015/12/18/24-days-of-hackage-2015-day-18-vector-vector-algorithms-unleash-your-inner-c-programmer/)
+* [The Theory of patches-vector](http://liamoc.net/posts/2015-11-10-patch-theory.html)
+
+### 木
+* [Haskell Tutorial: Implementing highly efficient data structures with Monoids and Fingertrees](https://www.codementor.io/haskell/tutorial/monoids-fingertrees-implement-abstract-data)
+* [Palindromic tree](http://adilet.org/blog/25-09-14/)
+* [HASKELL BINARY SEARCH TREE (BST) EXAMPLE](http://haskelle.blogspot.jp/2015/06/haskell-binary-search-tree-bst-example.html)
+* [Vertical Finger Trees](http://www.alexkyte.me/2015/10/vertical-finger-trees.html)
+* [状態変化なしに効率的な辞書を実装する重み平衡木](http://qiita.com/YoshikuniJujo/items/a852c0d3af70debd2d24)
 
 ###Graph
 * [FP Graph Algorithms](http://begriffs.com/posts/2015-09-04-pure-functional-graphs.html)
@@ -172,6 +175,7 @@
 * [Generating Mazes with Inductive Graphs](http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/)
 * [An initial-algebra approach to directed acyclic graphs](https://researchspace.auckland.ac.nz/bitstream/handle/2292/3509/001damgs.pdf)
 * [2 09 Lazy Graph Processing in Haskell](https://www.youtube.com/watch?v=ao82bi5SwYE)
+* [An algebra of graphs](https://blogs.ncl.ac.uk/andreymokhov/an-algebra-of-graphs/)
 
 ###Time
 * [A Haskell Time Library Tutorial](http://two-wrongs.com/haskell-time-library-tutorial)
@@ -180,15 +184,8 @@
 * [hellerve/Data.DDate](https://github.com/hellerve/Data.DDate)
 * [System.Timeを使うときは気をつけよう](http://qiita.com/watertight/items/294d2ebb73c54d046f63) - `Data.Time`を使おう
 
-###属性文法
-* [なぜ属性文法は重要か](https://sites.google.com/site/paclearner/why_attribute_grammars_matter)
-* [Attribute Grammars Fly First-Class](http://www.staff.science.uu.nl/~swier004/Publications/AttributeGrammarsFly.pdf)
-
-###S式
-* [The s-cargot package](https://hackage.haskell.org/package/s-cargot)
-* [24 days of Hackage, 2015: day 10: s-cargot: using S-expression syntax](http://conscientiousprogrammer.com/blog/2015/12/10/24-days-of-hackage-2015-day-10-s-cargot-using-s-expression-syntax/)
-
 ### 動的計画法
+* [Haskell で動的計画法を書くための3つの方針](http://d.hatena.ne.jp/toslunar/20100408/1270719176)
 * [Dynamorphism 〜 Haskellでも動的計画法がしたい！ 〜](http://titech-ssr.blog.jp/archives/1047835805.html)
 
 ###Record
