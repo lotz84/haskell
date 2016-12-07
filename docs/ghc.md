@@ -176,6 +176,8 @@
 * [見せてやろうGHCが持つ真のチカラを！ GHCの言語拡張を一覧する方法について。](http://qiita.com/tanakh/items/ee756a3948684ac30b34)
 * [GHC拡張FunctionalDependenciesとは](http://qiita.com/tattsun58/items/6a58b8125d6eccbd111b)
 * [Haskellの言語拡張たち](http://rf0444.hatenablog.jp/entry/20120513/1336883141)
+* [StrictData拡張について](http://qiita.com/Mizunashi_Mana/items/8edf7781ed4eb4eea4e9)
+* [ApplicativeDo 拡張について](http://qiita.com/thimura/items/120f40c4e49f9154ac8a)
 
 ###Pattern Synonyms
 * [Pattern Synonyms](https://ghc.haskell.org/trac/ghc/wiki/PatternSynonyms)
