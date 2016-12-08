@@ -58,3 +58,7 @@ mtlにはMonad Transformerを新しく定義する度に全ての組み合わせ
 * [ZuriHac 2016: Monad Homomorphisms](https://www.youtube.com/watch?v=YTaNkWjd-ac)
 * [テンソル積の作り方](http://d.hatena.ne.jp/m-hiyama/20160829/1472445276)
 * [テンソル積の作り方 2： 双加群の場合、小さい圏の場合](http://d.hatena.ne.jp/m-hiyama/20160830/1472527717)
+
+## 属性文法
+* [なぜ属性文法は重要か](https://sites.google.com/site/paclearner/why_attribute_grammars_matter)
+* [Attribute Grammars Fly First-Class](http://www.staff.science.uu.nl/~swier004/Publications/AttributeGrammarsFly.pdf)
