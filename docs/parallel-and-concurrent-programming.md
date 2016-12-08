@@ -28,7 +28,7 @@
 * [ekmett/propagators](https://github.com/ekmett/propagators)
 * [atemerev/skynet](https://github.com/atemerev/skynet) - Skynet 1M threads microbenchmark
 
-##並列
+## 並列
 * [monad-par](https://hackage.haskell.org/package/monad-par)
 * [accelerate](http://hackage.haskell.org/package/accelerate)
 * [accelerate-cuda](http://hackage.haskell.org/package/accelerate-cuda)
@@ -43,7 +43,7 @@
 * [wyager/Neks](https://github.com/wyager/Neks)
 * [Harnessing the Multicores: Nested Data Parallelism in Haskell](https://www.youtube.com/watch?v=kZkO3k9g1ps)
 
-##並行
+## 並行
 * [RAM footprint per unit of concurrency (approx)](http://bob.ippoli.to/haskell-for-erlangers-2014/#/cost-of-concurrency)
 * [Haskellでマルチスレッド処理](http://qiita.com/myuon_myon/items/d0334317f220dfe05092)
 * [async](http://hackage.haskell.org/package/async)
@@ -64,8 +64,9 @@
 * [The Design and Implementation of a Concurrent Bloom Filter](https://www.youtube.com/watch?v=gn8d7z7itas)
 * [Haskell's Missing Concurrency Basics](http://www.snoyman.com/blog/2016/11/haskells-missing-concurrency-basics)
 * [Comparative Concurrency with Haskell](https://www.fpcomplete.com/blog/2016/11/comparative-concurrency-with-haskell)
+* [Haskellで並行化する方法: 6秒かかる処理を3秒にしよう](http://qiita.com/eielh/items/64ba5f0164b89c6c284e)
 
-###MVar
+### MVar
 * [Control.Concurrent.MVar](https://hackage.haskell.org/package/base/docs/Control-Concurrent-MVar.html)
 * [Common Concurrency Abstractions in Haskell, MVar](http://www.kuznero.com/posts/haskell/2015-07-31-common-concurrency-abstractions-MVar-part-2.html)
 
@@ -81,10 +82,10 @@ main = do
 
 出展: [Haskell by Example: Channels](http://lotz84.github.io/haskellbyexample/ex/channels)
 
-###Chan
+### Chan
 [Control.Concurrent.Chan](https://hackage.haskell.org/package/base/docs/Control-Concurrent-Chan.html)
 
-###STM
+### STM
 * [Beautiful concurrency](http://research.microsoft.com/en-us/um/people/simonpj/papers/stm/beautiful.pdf)
 * [Simple STM example](https://wiki.haskell.org/Simple_STM_example)
 * [Lock Free Data Structures using STM in Haskell](http://research.microsoft.com/en-us/um/people/simonpj/papers/stm/lock-free-flops06.pdf)
@@ -95,7 +96,7 @@ main = do
 * [An example of software transactional memory](http://begriffs.com/posts/2013-09-04-an-example-of-software-transactional.html)
 * [Software Transactional Memory](http://begriffs.com/posts/2016-04-02-software-transactional-memory.html)
 
-##分散
+## 分散
 * [分散システム処理モデルに関する動向について（MapReduceからBorgまで）](http://techblog.yahoo.co.jp/architecture/2015_06_ditributed_system/)
 * [Cloud Haskell](http://haskell-distributed.github.io/)
 * [distributed-process](https://hackage.haskell.org/package/distributed-process)
