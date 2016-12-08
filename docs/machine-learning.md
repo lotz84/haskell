@@ -48,6 +48,7 @@
 
 ## 画像解析
 * [haskell-opencv](http://lumiguide.github.io/haskell-opencv/)
+* [lehins/hip](https://github.com/lehins/hip) - Haskell Image Processing Library
 
 ## FFT
 * [Simple FFT in Haskell](https://ro-che.info/articles/2015-12-04-fft)
