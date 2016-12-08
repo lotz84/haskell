@@ -450,6 +450,7 @@ Database
 * [The acid-state package](https://hackage.haskell.org/package/acid-state)
 * [The vault package](http://hackage.haskell.org/package/vault)
 * [riak: A Haskell client for the Riak decentralized data store](https://hackage.haskell.org/package/riak)
+* [linearray/mealstrom](https://github.com/linearray/mealstrom) - Store FSMs in PostgreSQL
 
 Simple Clients
 --------------
