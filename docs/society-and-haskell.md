@@ -8,7 +8,7 @@
 * [Haskellがトップ20に迫る、11月TIOBE言語人気ランキング](http://news.mynavi.jp/news/2016/11/14/082/)
 * [Mastering Time-to-Market with Haskell](https://www.fpcomplete.com/blog/2016/11/mastering-time-to-market-haskell)
 
-##コミュニティ
+## コミュニティ
 * [Haskell Communities and Activities Report](https://wiki.haskell.org/Haskell_Communities_and_Activities_Report)
 * [New York Haskell Users Group](http://www.meetup.com/NY-Haskell/)
 * [Google+](https://plus.google.com/communities/104818126031270146189)
@@ -20,13 +20,13 @@
 * [Functional Geekery Episode 72 – Gabriel Gonzalez](https://www.functionalgeekery.com/episode-72-gabriel-gonzalez/)
 * [The Haskell Website Working Group](https://neilmitchell.blogspot.jp/2016/11/the-haskellorg-website-working-group.html)
 
-###日本
+### 日本
 * [Tokyo Haskell Meetup](http://www.meetup.com/Tokyo-Haskell-Meetup/)
 * [Chaton haskell-ja](http://chaton.practical-scheme.net/haskell-ja/)
 * [HaskellJP](http://wiki.haskell.jp/)
 * [Haskell(ja)](https://plus.google.com/communities/107562694527758263007)
 
-###Conference
+### Conference
 * [ICFP 2015](http://icfpconference.org/icfp2015/)
   * [mpickering/icfp2015-papers](https://github.com/mpickering/icfp2015-papers)
   * [ICFP Video](https://www.youtube.com/channel/UCwRL68qZFfub1Ep1EScfmBw)
@@ -41,11 +41,12 @@
 * [gasche/popl2016-papers](https://github.com/gasche/popl2016-papers)
 * [yallop/haskell2014-papers](https://github.com/yallop/haskell2014-papers)
 * [LambdaConf 2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcybh21_zOg8_y4f2oMKDHpUS)
+* [LambdaConf 2017 - Call for Proposals](https://www.surveymonkey.com/r/lambdaconf-2017-cfp)
 * [The Haskell Symposium](https://www.haskell.org/haskell-symposium/)
 * [ZuriHac 2016](https://www.youtube.com/playlist?list=PLSIUOFhnxEiCyRYbinK7Nv6ImUc4mzJGN)
 * [TNG Technology Consulting GmbH](https://www.youtube.com/channel/UCxaV-Pd-SZAgP-G1Mni47Hw)
 
-##Advent Calendar
+## Advent Calendar
 * 2016
   * [Haskell Advent Calendar 2016](http://qiita.com/advent-calendar/2016/haskell)
   * [Haskell Performance Advent Calendar 2016](http://qiita.com/advent-calendar/2016/haskell-performance)
@@ -83,7 +84,7 @@ Haskellを利用している日本の企業
 * [haskell-test-sandbox](https://github.com/gree/haskell-test-sandbox)
 * [memcache-haskell](https://github.com/gree/memcache-haskell)
 
-##Haskellを利用している海外の企業
+## Haskellを利用している海外の企業
 * [YOW! 2015 - Reid Draper - Production Haskell](https://www.youtube.com/watch?v=T2wi0ZUOHfM)
 * [2016 02 28 - Simon Meier - A primer to commercial Haskell programming](https://www.youtube.com/watch?v=ywOvfjpbYR4)
 * [Haskell for commercial software development](https://www.wagonhq.com/blog/haskell-for-industry)
@@ -135,7 +136,7 @@ Haskellを利用している日本の企業
 * [Haskell in Production - Square Tech Talk](https://www.wagonhq.com/blog/square-tech-talk)
 
 
-##主な企業のHaskellレポジトリ
+## 主な企業のHaskellレポジトリ
 * **2015/09/22 調べ**
 * <https://gist.github.com/lotz84/f5e9f4042876559e40d2>
 * [候補参考](http://www.kagua.biz/strategy/jinzai/officialgithub.html)
