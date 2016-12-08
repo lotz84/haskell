@@ -65,6 +65,7 @@
 * [Haskell's Missing Concurrency Basics](http://www.snoyman.com/blog/2016/11/haskells-missing-concurrency-basics)
 * [Comparative Concurrency with Haskell](https://www.fpcomplete.com/blog/2016/11/comparative-concurrency-with-haskell)
 * [Haskellで並行化する方法: 6秒かかる処理を3秒にしよう](http://qiita.com/eielh/items/64ba5f0164b89c6c284e)
+* [rrnewton/haskell-lockfree](https://github.com/rrnewton/haskell-lockfree)
 
 ### MVar
 * [Control.Concurrent.MVar](https://hackage.haskell.org/package/base/docs/Control-Concurrent-MVar.html)
