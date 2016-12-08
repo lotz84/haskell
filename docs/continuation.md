@@ -17,6 +17,7 @@
 * [Haskell で継続渡しスタイル (CPS)](http://jutememo.blogspot.jp/2011/05/haskell-cps.html)
 * [The mtl-c package](https://hackage.haskell.org/package/mtl-c)
 * [Resource Management in Haskell](http://aherrmann.github.io/programming/2016/01/04/resource-management-in-haskell/)
+* [データ型のCPS変換について](http://myuon-myon.hatenablog.com/entry/2016/05/11/215734)
 
 
 ```haskell
