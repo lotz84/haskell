@@ -10,6 +10,7 @@
 * [24 days of Hackage, 2015: day 14: Earley: a promising newer parser library for Haskell](http://conscientiousprogrammer.com/blog/2015/12/14/24-days-of-hackage-2015-day-14-earley-a-promising-newer-parser-library-for-haskell/)
 * [Yuras/scanner](https://github.com/Yuras/scanner)
 * [Building a Lisp->JS transpiler From Scratch in 350 LOC](http://gilmi.xyz/post/2016/10/14/lisp-to-js)
+* [24 days of Hackage, 2015: day 10: s-cargot: using S-expression syntax](http://conscientiousprogrammer.com/blog/2015/12/10/24-days-of-hackage-2015-day-10-s-cargot-using-s-expression-syntax/)
 
 ## 正規表現
 * [関数型的正規表現マッチ](https://research.preferred.jp/2010/11/regexp-play/)
