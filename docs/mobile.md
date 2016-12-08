@@ -52,6 +52,7 @@
 * [Rust Documentation](http://doc.rust-lang.org/stable/)
 * [The Rust Programming Language](http://doc.rust-lang.org/stable/book/README.html)
 * [Introduction Rust for Creating Your Operating System](http://qiita.com/mopp/items/9c816d58104752180207)
+* [mgattozzi/curryrs](https://github.com/mgattozzi/curryrs) - Bridge the gap between Haskell and Rust
 
 ##Kinect
 * [chrisdone/freenect](https://github.com/chrisdone/freenect)
