@@ -126,7 +126,7 @@ circum (Circle _ _ r) = …
 
 <https://www.reddit.com/r/haskell/comments/2jsz4t/function_on_a_single_member_of_a_sum_type/clevra9>
 
-##Parametricity
+## Parametricity
 * [Theorems for free!](http://www.cs.sfu.ca/CourseCentral/831/burton/Notes/July14/free.pdf)
 * [Parametricity](https://cubeoflambda.wordpress.com/2011/11/16/parametricity/) 
 * [Parametricity Tutorial (Part 1)](http://www.well-typed.com/blog/2015/05/parametricity/)
@@ -140,7 +140,7 @@ circum (Circle _ _ r) = …
 * [The Essential Tools of Open-Source: Functional Programming, Parametricity, Types](https://www.youtube.com/watch?v=4hTtcUeqmfY)
 * [Parametricity and excluded middle](http://homotopytypetheory.org/2016/02/24/parametricity-and-excluded-middle/)
 
-##Refinement Type
+## Refinement Type
 * [Announcing the refinement types library](http://nikita-volkov.github.io/refined/)
 * [Program Synthesis from Polymorphic Refinement Types](http://arxiv.org/abs/1510.08419)
 * [Programming with Refinement Types](https://ucsd-progsys.github.io/liquidhaskell-tutorial/)
@@ -155,6 +155,7 @@ circum (Circle _ _ r) = …
 * [Refinement Reflection: Haskell as a Theorem Prover](http://goto.ucsd.edu/~rjhala/liquid/haskell/blog/blog/2016/09/18/refinement-reflection.lhs/)
 * [csgordon/rghaskell](https://github.com/csgordon/rghaskell)
 * [Refinement Reflection (or, how to turn your favorite language into a proof assistant using SMT)](https://arxiv.org/abs/1610.04641)
+* [Liquid Haskell: Haskell as a Theorem Prover](http://goto.ucsd.edu/~nvazou/thesis/main.pdf)
 
 ##Dependent Types
 * [実世界を扱う依存型プログラミングのたぶん基本～外界から安全な世界までの道](http://notogawa.hatenablog.com/entry/2016/10/20/001812)
