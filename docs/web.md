@@ -388,6 +388,8 @@ Web Application Framework
 * [Yesodのテンプレートから生成されるファイルの役割](http://qiita.com/jabaraster/items/4c518beb422fb06f5957)
 * [add-handler コマンドでハンドラの追加を行う](http://qiita.com/waddlaw/items/7cbda81bfd0ee1624d5d)
 * [Yesod の Widgets について (その1)](http://qiita.com/waddlaw/items/2037290db446ed158502)
+* [Yesod の Widgets について (その2)](http://qiita.com/waddlaw/items/4d5f1630729455638bd1)
+* [YesodでリクエストをフックするにはMiddlewareを使う](http://qiita.com/jabaraster/items/f4e969613349f79f9295)
 
 Protocol
 --------
