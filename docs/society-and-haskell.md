@@ -59,6 +59,7 @@
 * [Haskell Advent Calendar 2012](http://partake.in/events/45a01d39-af5e-42f1-91c7-e8fcc91db244)
 * [Haskell Advent Calendar 2011](http://partake.in/events/eaea52c2-61ef-46d5-a855-3a2dde459e3a)
 * [Haskell Advent Calendar jp 2010](http://cielquis.net/advent-calendar/haskell-jp-2010.html)
+* [Twelve Monads of Christmas](https://medium.com/twelve-days-of-monad)
 
 Haskellを利用している日本の企業
 ----------------------------
