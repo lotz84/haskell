@@ -173,6 +173,7 @@ instance Monad [] where
 * [非決定計算としてのリストモナド](http://tanakh.jp/posts/2012-02-22-list-monad.html)
 * [guard の動作原理を考える](http://d.hatena.ne.jp/kazu-yamamoto/20090401/1238555013)
 * [Easy exhasutive search with the list monad](http://blog.plover.com/prog/haskell/monad-search.html)
+* [Day 2: [] — Seeing the rest of a program run](https://medium.com/@benclifford/day-2-seeing-the-rest-of-a-program-run-84a1928ce200#.dljrdm7ip)
 
 ####LogicT
 * [リストモナドとLogicモナド](http://qiita.com/fumieval/items/794a85e2d7497b2463ba)
@@ -264,6 +265,7 @@ Reader + Writer + State
 * [Pure API vs. IO-bound API for graphics frameworks](http://phaazon.blogspot.jp/2016/02/pure-api-vs-io-bound-api-for-graphics.html)
 * [A newcomer's run-in with lazy I/O](https://ianthehenry.com/2016/3/9/lazy-io/)
 * [IO Monad Considered Harmful](https://blog.jle.im/entry/io-monad-considered-harmful.html)
+* [Day 1: IO — Our Ugly Friend](https://medium.com/twelve-days-of-monad/day-1-io-our-ugly-friend-e9ddfc621978#.1mhu8uvgr)
 
 ### Monad*
 * [2 07 Supermonads: One Notion to Bind them All](https://www.youtube.com/watch?v=HRofw58sySw)
