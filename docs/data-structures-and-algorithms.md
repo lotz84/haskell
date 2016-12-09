@@ -43,7 +43,6 @@
 * [The grid package](http://hackage.haskell.org/package/grid)
 * [Safe Zero-cost Coercions for Haskell - Richard Eisenberg](http://ezyang.tumblr.com/post/96448232652/safe-zero-cost-coercions-for-haskell-richard)
 * [bollu/cellularAutomata](https://github.com/bollu/cellularAutomata)
-* [Realtime collaborative editor. Algebraic properties of the problem.](http://blog.haskell-exists.com/yuras/posts/realtime-collaborative-editor.html)
 * [Haskellの乱数事情](http://qiita.com/philopon/items/8f647fc8dafe66b7381b)
 * [Typeable and Data in Haskell](http://chrisdone.com/posts/data-typeable)
 * [Löb and möb: strange loops in Haskell](https://github.com/quchen/articles/blob/master/loeb-moeb.md)
@@ -85,6 +84,8 @@
 * [Haskellでわかる群論の代数的構造](https://www.gitbook.com/book/aiya000/haskell_de_groupstructure/details)
 * [avieth/Algebraic](https://github.com/avieth/Algebraic)
 * [Subtractable values are torsors](https://ro-che.info/articles/2013-01-08-torsors)
+* [有理数とか有限体とかのはなし](http://qiita.com/bra_cat_ket/items/689a76a7c3d8b9db42d1)
+* [Realtime collaborative editor. Algebraic properties of the problem.](http://blog.haskell-exists.com/yuras/posts/realtime-collaborative-editor.html)
 
 ### Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
