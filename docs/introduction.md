@@ -58,6 +58,7 @@ $ alias ghci='stack ghci --'
 * [プログラム・プロムナード／Haskellプログラミング](https://www.ipsj.or.jp/magazine/promenade.html)
 * [Haskell 初心者が ライフゲーム 書いた](http://qiita.com/DUxCA/items/9facbd4fe4937650e1f4)
 * [Haskell Note](http://qiita.com/0918nobita/items/f1756ab0e804efc863b5)
+* [Haskell講習会スライド](https://github.com/mt-caret/intro-to-haskell/blob/master/slides.pdf)
 
 <details>
 <summary>英語チュートリアル</summary>
