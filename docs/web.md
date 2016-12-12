@@ -213,6 +213,7 @@ Web Application Framework
 * [CQRS in Haskell](http://www.corecursion.net/post/CQRS_in_Haskell)
 * [Announcing serversession](http://blog.felipe.lessa.nom.br/?p=153)
 * [agrafix/users](https://github.com/agrafix/users)
+* [nikita-volkov/strelka](https://github.com/nikita-volkov/strelka)
 
 ### 比較
 | Framework        | Latest Release | Version   | Star | Contributors |
@@ -390,6 +391,10 @@ Web Application Framework
 * [Yesod の Widgets について (その1)](http://qiita.com/waddlaw/items/2037290db446ed158502)
 * [Yesod の Widgets について (その2)](http://qiita.com/waddlaw/items/4d5f1630729455638bd1)
 * [YesodでリクエストをフックするにはMiddlewareを使う](http://qiita.com/jabaraster/items/f4e969613349f79f9295)
+* [Haskell Bake and Kubernetes](http://brian.uncannyworks.com/posts/2016-12-09-haskell-bake-and-kubernetes.html)
+* [YesodのCSRF対策の作法](http://qiita.com/jabaraster/items/6b02673c6fb6e509d75a)
+* [Yesod のテンプレート言語シェイクスピアを使ってWebサイトを作ってみよう (1)](http://qiita.com/waddlaw/items/c98b8986422428eeb31a)
+* [特定のリソースに対してCSRFチェックを行わないようにする](http://qiita.com/jabaraster/items/f989e8b22686cc393546)
 
 Protocol
 --------
