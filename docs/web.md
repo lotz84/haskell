@@ -40,6 +40,8 @@ Index
 
 ----
 
+* [HaskellのWeb系ライブラリ紹介](https://www.ishiy.xyz/posts/2016-12-11-haskell-web.html)
+
 Client
 ======
 * [Tutorial] Creating a BitTorrent client in Haskell
