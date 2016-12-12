@@ -147,6 +147,7 @@ class Monad m where
 * [Supermonads: One Notion to Bind them All](https://www.youtube.com/watch?v=HRofw58sySw)
 * [Kleisli Functors](http://elvishjerricco.github.io/2016/10/12/kleisli-functors.html)
 * [Monads: Programmer’s Definition](https://bartoszmilewski.com/2016/11/21/monads-programmers-definition/)
+* [いろんなMonadをdo構文で](http://qiita.com/knknkn1162/items/722b34c05e71f7613d09)
 
 ```haskell
 do x <- mx
