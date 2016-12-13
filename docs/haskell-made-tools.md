@@ -397,9 +397,10 @@ Line 6:
 * [A configuration loading scheme for tools in Haskell](http://cs-syd.eu/posts/2016-06-26-a-configuration-loading-scheme-for-tools-in-haskell.html)
 * [WRITING A SIMPLE CLI-TOOL IN HASKELL](http://maex.me/tech/2016/06/25/writing-a-simple-cli-tool-in-haskell.html)
 
-###オプションパーサー
+### オプションパーサー
 * [HaskellのSystem.Console.ParseArgs](http://yu-i9.hatenablog.com/entry/2014/08/29/135253)
 * [zalora/getopt-generics](https://github.com/zalora/getopt-generics)
 * [Auto-generate a command line interface from a data type](http://www.haskellforall.com/2016/02/auto-generate-command-line-interface.html)
 * [optparse-applicative](https://hackage.haskell.org/package/optparse-applicative)
 * [optparse-declarative: 宣言的な型レベルコマンドラインパーザー](http://qiita.com/tanakh/items/b6ea4c65d8ed511ac98d)
+* [optparse-applicativeとoptparse-simple入門](http://qiita.com/Mizunashi_Mana/items/1ed25496d8e36a1c7f02)
