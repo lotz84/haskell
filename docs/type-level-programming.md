@@ -1,4 +1,4 @@
-#Type-Level Programming
+# Type-Level Programming
 * [GHC.TypeLits](https://hackage.haskell.org/package/base/docs/GHC-TypeLits.html)
 * [Testing a type for (Eq a) in Haskell](http://stackoverflow.com/questions/28799005/testing-a-type-for-eq-a-in-haskell)
 * [Polymorphism within higher-order functions?](http://stackoverflow.com/questions/7061538/polymorphism-within-higher-order-functions)
@@ -157,7 +157,7 @@ circum (Circle _ _ r) = …
 * [Refinement Reflection (or, how to turn your favorite language into a proof assistant using SMT)](https://arxiv.org/abs/1610.04641)
 * [Liquid Haskell: Haskell as a Theorem Prover](http://goto.ucsd.edu/~nvazou/thesis/main.pdf)
 
-##Dependent Types
+## Dependent Types
 * [実世界を扱う依存型プログラミングのたぶん基本～外界から安全な世界までの道](http://notogawa.hatenablog.com/entry/2016/10/20/001812)
 * [Dependent Types](https://cubeoflambda.wordpress.com/2011/12/03/dependent-types/)
 * [Fixed-Length Vector Types in Haskell, 2015](http://blog.jle.im/entry/fixed-length-vector-types-in-haskell-2015)
@@ -175,6 +175,7 @@ circum (Circle _ _ r) = …
 * [Stephanie Weirich on Dependent Typing, Extending Haskell, Type System Research](http://www.infoq.com/interviews/weirich-haskell-dependent-types)
 * [First Experiments With Dependent Types In GHC](http://sylvain-henry.info/home/posts/2016-03-18-first-experiments-with-dependent-types.html)
 * [11 Levity Polymorphism In Dependent Haskell](https://www.youtube.com/watch?v=gn_ho6amc7U)
+* [依存型による定理証明Tips: coherenceは型で表せ](http://myuon-myon.hatenablog.com/entry/2016/12/11/204537)
 
 ```haskell
 {-# LANGUAGE GADTs, DataKinds, KindSignatures, TypeFamilies #-}
