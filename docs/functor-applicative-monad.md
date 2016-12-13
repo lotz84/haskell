@@ -148,6 +148,7 @@ class Monad m where
 * [Kleisli Functors](http://elvishjerricco.github.io/2016/10/12/kleisli-functors.html)
 * [Monads: Programmer’s Definition](https://bartoszmilewski.com/2016/11/21/monads-programmers-definition/)
 * [いろんなMonadをdo構文で](http://qiita.com/knknkn1162/items/722b34c05e71f7613d09)
+* [Day 3: Maybe — Mini-Lists, or Mini-Exceptions](https://medium.com/twelve-days-of-monad/day-3-maybe-mini-lists-or-mini-exceptions-2ad337e4e861#.bbh1jjtpi)
 
 ```haskell
 do x <- mx
