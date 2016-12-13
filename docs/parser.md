@@ -87,6 +87,7 @@ parse = evalStateT
 * [xml-conduit](https://hackage.haskell.org/package/xml-conduit)
   * [xml-lens](https://hackage.haskell.org/package/xml-lens)
 * [The hxt package](https://hackage.haskell.org/package/hxt)
+* [New XML Parser, Hexml](http://neilmitchell.blogspot.jp/2016/12/new-xml-parser-hexml.html)
 
 ### HTML
 * [A taste of tag soup](http://codekinder.com/wordpress/a-taste-of-tag-soup)
