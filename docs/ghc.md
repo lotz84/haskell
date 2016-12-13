@@ -111,6 +111,7 @@
 * [StrictData拡張について](http://qiita.com/Mizunashi_Mana/items/8edf7781ed4eb4eea4e9)
 * [scaling ghc --make](http://trofi.github.io/posts/193-scaling-ghc-make.html)
 * [Blackhole : 無限再帰停止機構](http://qiita.com/phi16_/items/ef83e610585ac8526d31)
+* [Dynamic Witnesses for Static Type Errors (or, Ill-Typed Programs Usually Go Wrong)](https://www.cs.virginia.edu/~weimer/p/nanomaly-icfp16.pdf)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
