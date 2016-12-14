@@ -91,6 +91,7 @@ parse = evalStateT
 
 ### HTML
 * [A taste of tag soup](http://codekinder.com/wordpress/a-taste-of-tag-soup)
+* [How to write a simple MarkDown to inline-Styled HTml tool with Haskell](http://qiita.com/kimagure/items/97e8d7b9cb318ba7ebef)
 
 ### Excel
 * [xlsx](https://hackage.haskell.org/package/xlsx)
