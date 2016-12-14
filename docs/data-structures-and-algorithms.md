@@ -6,7 +6,7 @@
 * [Algorithms for Computer Algebra](http://link.springer.com/book/10.1007/b102438)
 * [haskell-foundation/foundation](https://github.com/haskell-foundation/foundation)
 
-##データ構造とアルゴリズム
+## データ構造とアルゴリズム
 * [Memory footprints of some common data types](http://blog.johantibell.com/2011/06/memory-footprints-of-some-common-data.html)
 * [Purely Functional Data Structures](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
   * [sile/pfds-ch1.md](https://gist.github.com/sile/e0cb80dc021ecb2d772d)
@@ -67,6 +67,7 @@
 * [Haskell div mod – Cyclical Division, Modulus Visualised](http://www.prigrammer.com/?p=321)
 * [「Haskell」で「Look and Say 数列」を生成してみた](http://zodi-g12.hatenablog.com/entry/2016/11/07/065219)
 * [Constant-time Find First Set](http://www.hedonisticlearning.com/posts/find-first-set.html)
+* [Splitting](http://lpaste.net/6349157219174449152)
 
 ### ソート
 * [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
@@ -149,7 +150,7 @@
 * [Difference Lists and the Codensity Monad](http://begriffs.com/posts/2016-02-04-difference-lists-and-codennsity.html)
 * [List and Comprehension Extensions](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/guide-to-ghc-extensions/list-and-comprehension-extensions)
 
-###配列
+### 配列
 * [The vector package](https://hackage.haskell.org/package/vector)
 * [The array package](https://hackage.haskell.org/package/array)
 * [すごい配列楽しく学ぼう](http://www.slideshare.net/xenophobia__/ss-14558187)
@@ -171,7 +172,7 @@
 * [Vertical Finger Trees](http://www.alexkyte.me/2015/10/vertical-finger-trees.html)
 * [状態変化なしに効率的な辞書を実装する重み平衡木](http://qiita.com/YoshikuniJujo/items/a852c0d3af70debd2d24)
 
-###Graph
+### Graph
 * [FP Graph Algorithms](http://begriffs.com/posts/2015-09-04-pure-functional-graphs.html)
 * [fgl](http://hackage.haskell.org/package/fgl)
 * [Generating Mazes with Inductive Graphs](http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/)
@@ -179,7 +180,7 @@
 * [2 09 Lazy Graph Processing in Haskell](https://www.youtube.com/watch?v=ao82bi5SwYE)
 * [An algebra of graphs](https://blogs.ncl.ac.uk/andreymokhov/an-algebra-of-graphs/)
 
-###Time
+### Time
 * [A Haskell Time Library Tutorial](http://two-wrongs.com/haskell-time-library-tutorial)
 * [The unix-time package](https://hackage.haskell.org/package/unix-time)
 * [Haskellで処理時間を測るために、](https://plus.google.com/+MasahiroSakai/posts/AY7uqu6S9X7)
@@ -190,7 +191,7 @@
 * [Haskell で動的計画法を書くための3つの方針](http://d.hatena.ne.jp/toslunar/20100408/1270719176)
 * [Dynamorphism 〜 Haskellでも動的計画法がしたい！ 〜](http://titech-ssr.blog.jp/archives/1047835805.html)
 
-###Record
+### Record
 
 ```haskell
 data Circle = Circle { center :: (Double, Double)
@@ -219,13 +220,14 @@ p = Circle {center = (1.0, 2.0), radius = 3.0}
 * [Bookkeeper.Permissions](https://hackage.haskell.org/package/bookkeeper-permissions-0.1.0.0/docs/Bookkeeper-Permissions.html)
 * [割とすぐに始められるextensibleチュートリアル(レコード編)](http://fumieval.hatenablog.com/entry/2016/10/10/000011)
 * [Records are Sheaves of Types.](http://www.jonmsterling.com/posts/2014-05-11-records-are-sheaves-of-types.html)
+* [Extensible Records Explained](https://www.schoolofhaskell.com/user/fumieval/extensible-records)
 
-###Vinyl
+### Vinyl
 * [vinyl](https://hackage.haskell.org/package/vinyl)
 * [Programming in Vinyl / BayHac 2014](https://vimeo.com/95694918)
 * [Vinyl: Records in Haskell and Type Theory](https://vimeo.com/102785458)
 
-##動的型付けのエミュレート
+## 動的型付けのエミュレート
 * [Data.Dynamic](https://hackage.haskell.org/package/base/docs/Data-Dynamic.html)
 * [Dynamic Typing in GHC](https://www.youtube.com/watch?v=asdABzBUoGM)
 * [Typed reflection in Haskell](https://www.microsoft.com/en-us/research/publication/typed-reflection-in-haskell/)
