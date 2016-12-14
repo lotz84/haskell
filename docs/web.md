@@ -396,6 +396,7 @@ Web Application Framework
 * [Haskell Bake and Kubernetes](http://brian.uncannyworks.com/posts/2016-12-09-haskell-bake-and-kubernetes.html)
 * [YesodのCSRF対策の作法](http://qiita.com/jabaraster/items/6b02673c6fb6e509d75a)
 * [Yesod のテンプレート言語シェイクスピアを使ってWebサイトを作ってみよう (1)](http://qiita.com/waddlaw/items/c98b8986422428eeb31a)
+* [Yesod のテンプレート言語シェイクスピアを使ってWebサイトを作ってみよう (2)](http://qiita.com/waddlaw/items/a76559199b5071721b97)
 * [特定のリソースに対してCSRFチェックを行わないようにする](http://qiita.com/jabaraster/items/f989e8b22686cc393546)
 
 Protocol
