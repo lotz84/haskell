@@ -9,3 +9,4 @@
 * [Secure Shared Credentials](http://brendanhay.nz/credentials)
 * [cpeikert/Lol](https://github.com/cpeikert/Lol) - A library for ring-based lattice cryptography
 * [timbod7/secretfs](https://github.com/timbod7/secretfs) - A FUSE file system that interpolates secret information
+* [GaloisInc/saw-script - saw-script/doc/tutorial/tutorial.md](https://github.com/GaloisInc/saw-script/blob/master/doc/tutorial/tutorial.md)
