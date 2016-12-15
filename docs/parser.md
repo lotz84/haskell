@@ -3,6 +3,7 @@
 * [Write You A Scheme, Version 2](https://wespiser.com/writings/wyas/home.html)
 * [Write You a Haskell](http://dev.stephendiehl.com/fun/)
 * [The Implementation of Functional Programming Languages](http://research.microsoft.com/en-us/um/people/simonpj/papers/slpj-book-1987/)
+* [Haskell コンパイラを書こう！](https://uhideyuki.sakura.ne.jp/studs/index.cgi/ja/HaskellInHaskell)
 * [Introduction to PEG](http://www.slideshare.net/kmizushima/introduction-to-peg)
 * [ビジュアル構文解析](http://www.slideshare.net/ichikaz3/ss-11400787)
 * [Tries and elegant Scope Checking](http://jaspervdj.be/posts/2015-10-30-tries-scope-checking.html)
