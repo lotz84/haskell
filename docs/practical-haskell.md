@@ -28,6 +28,7 @@
 * [Practical Haskell: Simple File Mirror (Part 2)](https://www.fpcomplete.com/blog/2016/09/practical-haskell-simple-file-mirror-2)
 * [N Haskell Tools & Packages I wish someone had told me about](http://get-finch.com/2016/10/10/haskell-tools.html)
 * [Haskell package checklist](http://taylor.fausak.me/2016/12/05/haskell-package-checklist/)
+* [Version SAT](https://research.swtch.com/version-sat)
 
 ## GHCi
 * [ghciでマルチバイト文字をエスケープせず表示させる](http://qiita.com/aosho235/items/bdfa4a68b77b9fcc4a35)
