@@ -398,6 +398,9 @@ Web Application Framework
 * [Yesod のテンプレート言語シェイクスピアを使ってWebサイトを作ってみよう (1)](http://qiita.com/waddlaw/items/c98b8986422428eeb31a)
 * [Yesod のテンプレート言語シェイクスピアを使ってWebサイトを作ってみよう (2)](http://qiita.com/waddlaw/items/a76559199b5071721b97)
 * [特定のリソースに対してCSRFチェックを行わないようにする](http://qiita.com/jabaraster/items/f989e8b22686cc393546)
+* [Yesod のフォームについて (Applicative の説明と Applicative Form)](http://qiita.com/waddlaw/items/f69bfe30a8ded422e308)
+* [yesod-sitemap を使ったサイトマップの生成方法](http://qiita.com/waddlaw/items/cda670188e337efc530e)
+* [YesodでDBアクセスするときのトランザクション境界](http://qiita.com/jabaraster/items/93be883ae6fc1aebf1bf)
 
 Protocol
 --------
