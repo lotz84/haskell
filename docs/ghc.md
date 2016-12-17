@@ -112,6 +112,7 @@
 * [scaling ghc --make](http://trofi.github.io/posts/193-scaling-ghc-make.html)
 * [Blackhole : 無限再帰停止機構](http://qiita.com/phi16_/items/ef83e610585ac8526d31)
 * [Dynamic Witnesses for Static Type Errors (or, Ill-Typed Programs Usually Go Wrong)](https://www.cs.virginia.edu/~weimer/p/nanomaly-icfp16.pdf)
+* [Trees That Grow](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/trees-that-grow.pdf)
 
 ###最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
