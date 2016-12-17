@@ -1,4 +1,5 @@
 * [できる！並列・並行プログラミング](http://www.slideshare.net/pfi/ss-9780450)
+* [15 Years of Concurrency](http://joeduffyblog.com/2016/11/30/15-years-of-concurrency/)
 * [Parallel and Concurrent Programming in Haskell](http://chimera.labs.oreilly.com/books/1230000000929/index.html)
    * [pdf](http://community.haskell.org/~simonmar/par-tutorial.pdf)
 * [Concurrency](http://www.scs.stanford.edu/14sp-cs240h/slides/concurrency-slides.html)
