@@ -254,3 +254,4 @@
 * [silky/literate-readme](https://github.com/silky/literate-readme) - README files used to be able to lie. Now they can't! Woo!
 * [Haskell Documentation, 2016 Update](http://www.snoyman.com/blog/2016/11/haskell-documentation-2016-update)
 * [DDDをHaskellで考える 業務ロジックとシステムロジック](http://qiita.com/suzuki-hoge/items/82229b903655ca4b5c9b)
+* [DDDをHaskellで考える EntityとIdentity、そしてモデル図](http://qiita.com/suzuki-hoge/items/7ac33356526764feeb20)
