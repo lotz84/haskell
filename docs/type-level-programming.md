@@ -70,6 +70,7 @@
 * [NLambda](http://www.mimuw.edu.pl/~szynwelski/nlambda/doc/)
 * [Scrap Your Constructors: Church Encoding Algebraic Types](http://programmable.computer/posts/church_encoding.html)
 * [Theorem Prover Haskellの紹介](http://myuon-myon.hatenablog.com/entry/2016/12/01/221636)
+* [optparse-declarative のコードリーディングから型レベルプログラミングを学ぶ](http://blog.mudatobunka.org/entry/2016/12/11/140845)
 
 ```haskell
 data Bottom
