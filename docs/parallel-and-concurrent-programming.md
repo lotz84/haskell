@@ -28,6 +28,7 @@
 * [pi calclusを学ぶにあたって参照したドキュメントとその紹介その一](http://keizobookman.hatenablog.com/entry/2016/05/25/012815)
 * [ekmett/propagators](https://github.com/ekmett/propagators)
 * [atemerev/skynet](https://github.com/atemerev/skynet) - Skynet 1M threads microbenchmark
+* [高速なキューを作る話（前編）](http://qiita.com/asukamirai/items/cb22ed08a124b282f142)
 
 ## 並列
 * [monad-par](https://hackage.haskell.org/package/monad-par)
