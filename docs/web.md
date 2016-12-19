@@ -401,6 +401,8 @@ Web Application Framework
 * [Yesod のフォームについて (Applicative の説明と Applicative Form)](http://qiita.com/waddlaw/items/f69bfe30a8ded422e308)
 * [yesod-sitemap を使ったサイトマップの生成方法](http://qiita.com/waddlaw/items/cda670188e337efc530e)
 * [YesodでDBアクセスするときのトランザクション境界](http://qiita.com/jabaraster/items/93be883ae6fc1aebf1bf)
+* [Yesodで作るWebアプリの起動時にDBに対して処理を行う](http://qiita.com/jabaraster/items/4b3d2b05db6cae0ec664)
+* [Yesodのmodelsに独自定義した型を使いたいときには](http://qiita.com/jabaraster/items/7ee0828c796722e2e871)
 
 Protocol
 --------
