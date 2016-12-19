@@ -136,6 +136,7 @@
 * [Averaging unsigned numbers in Haskell](http://bokesan.blogspot.jp/2016/06/averaging-unsigned-numbers-in-haskell.html)
 * [HaskellのFusionがあれば速度と抽象化を両立できる](http://bicycle1885.hatenablog.com/entry/2014/06/10/234448)
 * [Rewrite Rulesについて軽く](http://qiita.com/ruicc/items/4c33fe2501fa956cd9a5)
+* [Hash-consingのためのinternパッケージ](http://qiita.com/masahiro_sakai/items/f4269f86b0e12b44426b)
 
 ###7.10
 * [Functor-Applicative-Monad Proposal](https://wiki.haskell.org/Functor-Applicative-Monad_Proposal)
