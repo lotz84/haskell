@@ -29,6 +29,7 @@
 * [ekmett/propagators](https://github.com/ekmett/propagators)
 * [atemerev/skynet](https://github.com/atemerev/skynet) - Skynet 1M threads microbenchmark
 * [高速なキューを作る話（前編）](http://qiita.com/asukamirai/items/cb22ed08a124b282f142)
+* [高速なキューを作る話（後編）](http://qiita.com/asukamirai/items/481b22d9a8a410990828)
 
 ## 並列
 * [monad-par](https://hackage.haskell.org/package/monad-par)
