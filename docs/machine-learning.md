@@ -101,6 +101,7 @@ instance Monad Dist where
   * Michael A. Osborne, Roman Garnett, and Stephen J. Roberts - [Gaussian Processes for Global Optimization](http://www.robots.ox.ac.uk/~parg/pubs/OsborneGarnettRobertsGPGO.pdf)
 * [Deriving a Probability Density Calculator (Functional Pearl)](http://homes.soic.indiana.edu/ccshan/rational/pearl.pdf)
 * [BAli-Phy](http://www.bali-phy.org/)
+* [確率とモナドと確率論的プログラミング](http://qiita.com/lotz/items/7c7df718d1a596cac920)
 
 ### Hakaru
 * [Hakaru](http://hakaru-dev.github.io/)
