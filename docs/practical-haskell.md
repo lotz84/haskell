@@ -255,3 +255,5 @@
 * [Haskell Documentation, 2016 Update](http://www.snoyman.com/blog/2016/11/haskell-documentation-2016-update)
 * [DDDをHaskellで考える 業務ロジックとシステムロジック](http://qiita.com/suzuki-hoge/items/82229b903655ca4b5c9b)
 * [DDDをHaskellで考える EntityとIdentity、そしてモデル図](http://qiita.com/suzuki-hoge/items/7ac33356526764feeb20)
+* [DDDをHaskellで考える 失敗を表現する](http://qiita.com/suzuki-hoge/items/5b56c7248edaeb81ef2f)
+* [How to structure your Haskell program](http://corentindupont.info/blog/posts/Programming/2016-12-14-Haskell-structure.html)
