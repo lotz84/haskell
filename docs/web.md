@@ -403,6 +403,7 @@ Web Application Framework
 * [YesodでDBアクセスするときのトランザクション境界](http://qiita.com/jabaraster/items/93be883ae6fc1aebf1bf)
 * [Yesodで作るWebアプリの起動時にDBに対して処理を行う](http://qiita.com/jabaraster/items/4b3d2b05db6cae0ec664)
 * [Yesodのmodelsに独自定義した型を使いたいときには](http://qiita.com/jabaraster/items/7ee0828c796722e2e871)
+* [Yesodのセッションあれこれ](http://qiita.com/jabaraster/items/ac98fa373749f528a241)
 
 Protocol
 --------
