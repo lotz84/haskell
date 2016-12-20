@@ -156,6 +156,7 @@ HTML Template
 * [Mustache templates in Haskell](https://www.stackbuilders.com/tutorials/haskell/mustache-templates/)
 * [Ginger: Jinja2-style HTML templates for Haskell](https://www.reddit.com/r/haskell/comments/5dfqtb/ginger_jinja2style_html_templates_for_haskell/)
 * [heterocephalus - Haskellとフロントエンドが仲良くできるテンプレートエンジン](http://qiita.com/arowM/items/b0259f1ca43ef3192d31)
+* [HaskellにおけるHTMLのテンプレートエンジンを調査する](http://sharply.hatenablog.com/entry/2016/11/09/224324)
 
 ### Lucid
 * [chrisdone/lucid](https://github.com/chrisdone/lucid)
@@ -404,6 +405,7 @@ Web Application Framework
 * [Yesodで作るWebアプリの起動時にDBに対して処理を行う](http://qiita.com/jabaraster/items/4b3d2b05db6cae0ec664)
 * [Yesodのmodelsに独自定義した型を使いたいときには](http://qiita.com/jabaraster/items/7ee0828c796722e2e871)
 * [Yesodのセッションあれこれ](http://qiita.com/jabaraster/items/ac98fa373749f528a241)
+* [Haskell Bake and Kubernetes](http://brian.uncannyworks.com/posts/2016-12-09-haskell-bake-and-kubernetes.html)
 
 Protocol
 --------
