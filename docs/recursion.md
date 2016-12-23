@@ -65,6 +65,7 @@ evenElements xs = filter even xs
 * [foldlをfoldrで実装する](http://qiita.com/arowM/items/91a9bd8ea83168d412ab)
 * [The Magic of Folds](http://www.parsonsmatt.org/2016/03/24/the_magic_of_folds.html)
 * [effectfully/prefolds](https://github.com/effectfully/prefolds)
+* [foldl vs foldl'](http://kseo.github.io/posts/2016-12-21-foldl-vs-foldl%27.html)
 
 ## リスト
 * [(cons cat (cons cat nil))](https://twitter.com/lvsn/status/533685461957349376)
