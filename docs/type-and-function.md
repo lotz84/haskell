@@ -22,6 +22,7 @@
 * [USING TYPES EFFECTIVELY](http://www.elbeno.com/presentations/using-types-effectively/presentation.html#/sec-title-slide)
 * [Poop deprecation and shitty code](http://cs-syd.eu/posts/2016-08-28-poop-deprecation.html)
 * [Maybe](http://qiita.com/knknkn1162/items/48427aee35bd5892c61d)
+* [Pattern Synonyms](https://kseo.github.io/posts/2016-12-22-pattern-synonyms.html)
 
 ###代数的データ型
 代数的データ型とは"足し算"と"掛け算"が出来るような型のこと。"足し算"と"掛け算"はそれぞれ**直和**, **直積**と呼ばれる。
