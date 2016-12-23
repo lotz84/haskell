@@ -222,6 +222,7 @@ p = Circle {center = (1.0, 2.0), radius = 3.0}
 * [割とすぐに始められるextensibleチュートリアル(レコード編)](http://fumieval.hatenablog.com/entry/2016/10/10/000011)
 * [Records are Sheaves of Types.](http://www.jonmsterling.com/posts/2014-05-11-records-are-sheaves-of-types.html)
 * [Extensible Records Explained](https://www.schoolofhaskell.com/user/fumieval/extensible-records)
+* [Control Flow in Haskell (0) - Introduction](http://hsyl20.fr/home/posts/2016-12-12-control-flow-in-haskell-part-0.html)
 
 ### Vinyl
 * [vinyl](https://hackage.haskell.org/package/vinyl)
