@@ -257,3 +257,4 @@
 * [DDDをHaskellで考える EntityとIdentity、そしてモデル図](http://qiita.com/suzuki-hoge/items/7ac33356526764feeb20)
 * [DDDをHaskellで考える 失敗を表現する](http://qiita.com/suzuki-hoge/items/5b56c7248edaeb81ef2f)
 * [How to structure your Haskell program](http://corentindupont.info/blog/posts/Programming/2016-12-14-Haskell-structure.html)
+* [Beware of readFile](http://www.snoyman.com/blog/2016/12/beware-of-readfile)
