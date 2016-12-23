@@ -179,6 +179,7 @@
 * [An initial-algebra approach to directed acyclic graphs](https://researchspace.auckland.ac.nz/bitstream/handle/2292/3509/001damgs.pdf)
 * [2 09 Lazy Graph Processing in Haskell](https://www.youtube.com/watch?v=ao82bi5SwYE)
 * [An algebra of graphs](https://blogs.ncl.ac.uk/andreymokhov/an-algebra-of-graphs/)
+* [Graphs in disguise: from todo lists to build systems](https://blogs.ncl.ac.uk/andreymokhov/graphs-in-disguise/)
 
 ### Time
 * [A Haskell Time Library Tutorial](http://two-wrongs.com/haskell-time-library-tutorial)
