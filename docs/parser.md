@@ -66,6 +66,8 @@ parse = evalStateT
 * [Parser Combinators](http://athiemann.net/2016/05/27/parser-combinators.html)
 * [えっ!?　１時間でオリジナルのプログラミング言語の開発を構文解析から!?](http://qiita.com/hiruberuto/items/160fe92376e795168acd)
 * [quickdudley/phaser](https://github.com/quickdudley/phaser)
+* [Left-recursive parsing of Haskell imports and declarations](http://blog.ezyang.com/2016/12/left-recursive-parsing-of-haskell-imports-and-declarations/)
+* [Package takeover: indents](https://jaspervdj.be/posts/2016-12-22-indents.html)
 
 ### Language
 * [Hackage Search: language](https://hackage.haskell.org/packages/search?terms=language)
