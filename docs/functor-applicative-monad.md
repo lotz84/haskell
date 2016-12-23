@@ -5,7 +5,7 @@
 * [An Intuition on Context I](http://www.parsonsmatt.org/programming/2015/11/24/an_intuition_on_context.html)
 * [An Intuition on Context II](http://www.parsonsmatt.org/programming/2015/11/29/an_intuition_on_context_ii.html)
 
-##関手 - Functor
+## 関手 - Functor
 
 ```haskell
 class Functor f where
@@ -19,23 +19,23 @@ class Functor f where
 * [なぜ初心者にHaskellのファンクターは怖いと言われるのか(翻訳)](http://techno-tanoc.hatenablog.com/entry/2016/03/17/212032)
 * [A functor is not a box](http://cs-syd.eu/posts/2016-04-30-a-functor-is-not-a-box.html)
 
-###Bifunctor
+### Bifunctor
 * [bifunctor](https://hackage.haskell.org/package/bifunctors)
 
-###Profunctor
+### Profunctor
 * [profunctor](https://hackage.haskell.org/package/profunctors)
 * [Phil Freeman - Fun with Profunctors](https://www.youtube.com/watch?v=OJtGECfksds)
 * [Profunctor Polymorphism](https://bartoszmilewski.com/2016/08/16/profunctor-polymorphism/)
 
-###Contravariant
+### Contravariant
 * [contravariant](https://hackage.haskell.org/package/contravariant)
 * [Covariance and Contravariance](https://www.fpcomplete.com/blog/2016/11/covariance-contravariance)
 * [Contravariance and luminance to add safety to uniforms](http://phaazon.blogspot.jp/2015/08/contravariance-and-luminance-to-add.html)
 
-###Representable Functor
+### Representable Functor
 * [Data.Functor.Rep](https://hackage.haskell.org/package/adjunctions/docs/Data-Functor-Rep.html)
 
-##Applicative Functor
+## Applicative Functor
 
 ```haskell
 class Functor f => Applicative f where
@@ -57,8 +57,9 @@ class Functor f => Applicative f where
 * [Haskell Applicative Functors Explained Without Words](http://begriffs.com/posts/2013-08-28-weird-symbols-in-their-native-tongue_27.html)
 * [Applicatives in Math vs Code](http://begriffs.com/posts/2015-08-30-applicative-functors.html)
 * [Showcasing Applicative](http://www.joachim-breitner.de/blog/710-Showcasing_Applicative)
+* [Day convolution intuition](http://math.stackexchange.com/questions/1650786/day-convolution-intuition/1651127#1651127)
 
-###Discrimination
+### Discrimination
 * [discrimination](http://hackage.haskell.org/package/discrimination)
 * [ZuriHac 2015 - Discrimination is Wrong: Improving Productivity](https://www.youtube.com/watch?v=cB8DapKQz-I)
 * [ekmett先生のdiscriminationというライブラリの動画を見たので雑に要約してみた]()
