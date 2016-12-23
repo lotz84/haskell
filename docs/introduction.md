@@ -115,6 +115,7 @@ $ alias ghci='stack ghci --'
 * [Why Functional Programming Matters by John Hughes at Functional Conf 2016](https://www.youtube.com/watch?v=XrNdvWqxBvA)
 * [Learn Me a Haskell](https://blog.cotten.io/learn-me-a-haskell-5970bf4ac206#.2tor7vzez)
 * [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
+* [Haskell Pitfalls](http://lorepub.com/post/2016-12-17-Haskell-Pitfalls)
 </details>
 
 ## Examples
