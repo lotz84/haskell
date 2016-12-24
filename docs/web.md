@@ -406,6 +406,9 @@ Web Application Framework
 * [Yesodのmodelsに独自定義した型を使いたいときには](http://qiita.com/jabaraster/items/7ee0828c796722e2e871)
 * [Yesodのセッションあれこれ](http://qiita.com/jabaraster/items/ac98fa373749f528a241)
 * [Haskell Bake and Kubernetes](http://brian.uncannyworks.com/posts/2016-12-09-haskell-bake-and-kubernetes.html)
+* [Yesodの設定ファイルconfig/settings.ymlに設定を追加する](http://qiita.com/jabaraster/items/d4b4769994386f8ef870)
+* [Yesodでの認証のしくみについて](http://qiita.com/cosmo0920/items/1abeffb52eaabcd007f9)
+* [Yesodで作ったWebアプリをketerでデプロイする](http://qiita.com/jabaraster/items/c89ac634ef8f5630ac17)
 
 Protocol
 --------
