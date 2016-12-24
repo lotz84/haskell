@@ -59,6 +59,7 @@ $ alias ghci='stack ghci --'
 * [Haskell 初心者が ライフゲーム 書いた](http://qiita.com/DUxCA/items/9facbd4fe4937650e1f4)
 * [Haskell Note](http://qiita.com/0918nobita/items/f1756ab0e804efc863b5)
 * [Haskell講習会スライド](https://github.com/mt-caret/intro-to-haskell/blob/master/slides.pdf)
+* [Haskell入門（雑）その1](http://qiita.com/Lischero/items/5a067a168c66e1e08207)
 
 <details>
 <summary>英語チュートリアル</summary>
@@ -193,6 +194,9 @@ main = runSpock 8080 $ spockT id $ do
 * [tibbe/haskell-style-guide](https://github.com/tibbe/haskell-style-guide/blob/master/haskell-style.md)
 * [インデントで悩まないための単純な指針](http://d.hatena.ne.jp/mkotha/20111226/1324909427)
 
+## Lint
+* [Haskellの静的解析ツール HLint を使おう](http://qiita.com/suzuki-hoge/items/6d101e523620178c6f7b)
+
 ## Editor
 * [Which tab width do you prefer for Haskell code?](http://doodle.com/poll/82xf854t9mmuv22h)
 * [Explicit vertical alignment in Haskell](http://www.joachim-breitner.de/blog/704-Explicit_vertical_alignment_in_Haskell)
@@ -217,6 +221,7 @@ main = runSpock 8080 $ spockT id $ do
 * [Intero for Emacs](http://commercialhaskell.github.io/intero/)
 * [Qiita - Intero for Emacs](http://qiita.com/hiratara/items/a963960f7593db4b43ab)
 * [Intero for Emacs: Changes June–July](https://haskell-lang.org/announcements)
+* [haskellのstackでghc-modを利用時に一部パッケージのimportでエラーとなる](http://qiita.com/katsuyan/items/a132d7bf6817f19af2d6)
 
 ### Atom
 * [Switching from Vim to Atom (A Haskeller's Perspective)](http://edsko.net/2015/03/07/vim-to-atom/)
