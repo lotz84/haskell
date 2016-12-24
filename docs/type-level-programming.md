@@ -73,6 +73,7 @@
 * [optparse-declarative のコードリーディングから型レベルプログラミングを学ぶ](http://blog.mudatobunka.org/entry/2016/12/11/140845)
 * [「タイプセーフプリキュア！」を支える技術](http://qiita.com/igrep/items/5496fa405fae00b5a737)
 * [問題を解決するつもりでキッチリ型を付けた先にある高い壁](http://notogawa.hatenablog.com/entry/2016/11/19/145847)
+* [構造的部分型と有界量化に関する型推論](http://qiita.com/gfngfn/items/712880c304a87cc0b25d)
 
 ```haskell
 data Bottom
