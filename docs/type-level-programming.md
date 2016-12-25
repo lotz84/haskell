@@ -160,6 +160,7 @@ circum (Circle _ _ r) = …
 * [csgordon/rghaskell](https://github.com/csgordon/rghaskell)
 * [Refinement Reflection (or, how to turn your favorite language into a proof assistant using SMT)](https://arxiv.org/abs/1610.04641)
 * [Liquid Haskell: Haskell as a Theorem Prover](http://goto.ucsd.edu/~nvazou/thesis/main.pdf)
+* [LiquidHaskell コトハジメ](http://ccvanishing.hateblo.jp/entry/2016/12/24/193038)
 
 ## Dependent Types
 * [実世界を扱う依存型プログラミングのたぶん基本～外界から安全な世界までの道](http://notogawa.hatenablog.com/entry/2016/10/20/001812)
