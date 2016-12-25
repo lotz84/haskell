@@ -92,6 +92,7 @@ Scraping
 * [wreq](http://www.serpentine.com/wreq/)
   * [Web Scraping with Lenses](http://two-wrongs.com/web-scraping-with-lenses)
   * [24 days of Hackage, 2015: day 4: wreq: Web client programming; with notes on lens and operator syntax](http://conscientiousprogrammer.com/blog/2015/12/04/24-days-of-hackage-2015-day-4-wreq-web-client-programming-with-notes-on-lens-and-operator-syntax/)
+  * [wreqでSSL通信が遅い場合の対処法](http://qiita.com/hiratara/items/972acd4f1c85a348e712)
 * [fimad/scalpel](https://github.com/fimad/scalpel)
   * [Haskell で楽しい Web スクレイピング](http://qiita.com/na-o-ys/items/30a4950d5391911493c2)
 * [egonSchiele/HandsomeSoup](https://github.com/egonSchiele/HandsomeSoup)
@@ -409,6 +410,7 @@ Web Application Framework
 * [Yesodの設定ファイルconfig/settings.ymlに設定を追加する](http://qiita.com/jabaraster/items/d4b4769994386f8ef870)
 * [Yesodでの認証のしくみについて](http://qiita.com/cosmo0920/items/1abeffb52eaabcd007f9)
 * [Yesodで作ったWebアプリをketerでデプロイする](http://qiita.com/jabaraster/items/c89ac634ef8f5630ac17)
+* [YesodのHandler関数からJSONを返す方法](http://qiita.com/jabaraster/items/0c16060f8307bf76ea48)
 
 Protocol
 --------
