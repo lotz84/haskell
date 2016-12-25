@@ -113,8 +113,9 @@
 * [Blackhole : 無限再帰停止機構](http://qiita.com/phi16_/items/ef83e610585ac8526d31)
 * [Dynamic Witnesses for Static Type Errors (or, Ill-Typed Programs Usually Go Wrong)](https://www.cs.virginia.edu/~weimer/p/nanomaly-icfp16.pdf)
 * [Trees That Grow](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/trees-that-grow.pdf)
+* [viewprofでGHCの.profファイルを見やすくする](https://medium.com/@maoe/viewprof%E3%81%A7ghc%E3%81%AE-prof%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E8%A6%8B%E3%82%84%E3%81%99%E3%81%8F%E3%81%99%E3%82%8B-ff5f58cef645#.bblf7srze)
 
-###最適化
+### 最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
 * [Thinking About Performance](http://chadaustin.me/2015/04/thinking-about-performance/)
 * [Time and allocation profiling in Haskell](http://marcjuch.li/blog/2015/05/19/time-allocation-profiling-in-haskell/)
