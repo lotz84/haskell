@@ -411,6 +411,7 @@ Web Application Framework
 * [Yesodでの認証のしくみについて](http://qiita.com/cosmo0920/items/1abeffb52eaabcd007f9)
 * [Yesodで作ったWebアプリをketerでデプロイする](http://qiita.com/jabaraster/items/c89ac634ef8f5630ac17)
 * [YesodのHandler関数からJSONを返す方法](http://qiita.com/jabaraster/items/0c16060f8307bf76ea48)
+* [Yesodのテストを読み解く](http://qiita.com/jabaraster/items/6cfb39776cbac9cfd3e0)
 
 Protocol
 --------
