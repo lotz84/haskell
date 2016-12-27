@@ -412,6 +412,7 @@ Web Application Framework
 * [Yesodで作ったWebアプリをketerでデプロイする](http://qiita.com/jabaraster/items/c89ac634ef8f5630ac17)
 * [YesodのHandler関数からJSONを返す方法](http://qiita.com/jabaraster/items/0c16060f8307bf76ea48)
 * [Yesodのテストを読み解く](http://qiita.com/jabaraster/items/6cfb39776cbac9cfd3e0)
+* [Yesod でパンくずリストを作る](http://qiita.com/waddlaw/items/95eee551d196d55bf90d)
 
 Protocol
 --------
