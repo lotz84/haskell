@@ -113,3 +113,4 @@ Passed:
 * [Haskellの例外、今はコレ！ Control.Monad.Catch](http://qiita.com/aiya000/items/6700753df2dfb9ae942e)
 * [Exceptions Best Practices in Haskell](https://www.fpcomplete.com/blog/2016/11/exceptions-best-practices-haskell)
 * [The validation package](http://hackage.haskell.org/package/validation)
+* [HaskellのData.Either.Validationを使う](http://qiita.com/suzuki-hoge/items/5178acebb020bc8a519b)
