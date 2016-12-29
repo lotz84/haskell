@@ -397,6 +397,7 @@ Line 6:
 * [A configuration loading scheme for tools in Haskell](http://cs-syd.eu/posts/2016-06-26-a-configuration-loading-scheme-for-tools-in-haskell.html)
 * [WRITING A SIMPLE CLI-TOOL IN HASKELL](http://maex.me/tech/2016/06/25/writing-a-simple-cli-tool-in-haskell.html)
 * [Teleport - How to write a small, useful command line application in Haskell](http://bollu.github.io/teleport/)
+* [Haskus](http://www.haskus.org/system/) - The long-term aim is to provide a full Haskell user-space environment on top of the Linux kernel.
 
 ### オプションパーサー
 * [HaskellのSystem.Console.ParseArgs](http://yu-i9.hatenablog.com/entry/2014/08/29/135253)
