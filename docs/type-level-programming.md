@@ -76,6 +76,7 @@
 * [構造的部分型と有界量化に関する型推論](http://qiita.com/gfngfn/items/712880c304a87cc0b25d)
 * [Higher rank polymorphism](http://kseo.github.io/posts/2016-12-27-higher-rank-polymorphism.html)
 * [Type Isomorphism](https://kseo.github.io//posts/2016-12-25-type-isomorphism.html)
+* [F-algebras or: How I Learned to Stop Worrying and Love the Type System](https://www.youtube.com/watch?v=PK4SOaAGVfg)
 
 ```haskell
 data Bottom
