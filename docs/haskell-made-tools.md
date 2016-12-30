@@ -250,7 +250,11 @@ success
 ### qhs
 * [CSVファイルをSQLのクエリで集計できるqコマンドをHaskellで実装してみました！](http://itchyny.hatenablog.com/entry/2016/08/08/100000)
 
-### fmthoma/vgrep
+### Rasa
+* [Rasa - Modular Text-Editor](https://www.reddit.com/r/haskell/comments/5l0a2i/rasa_modular_texteditor/)
+* <https://github.com/ChrisPenner/rasa>
+
+### vgrep
 * A pager for grep
 * <https://github.com/fmthoma/vgrep>
 
