@@ -140,6 +140,7 @@
 * [Safer paths, part 1 - valid and typed paths](http://cs-syd.eu/posts/2016-08-14-safer-paths-part-1-valid-and-typed-paths.html)
 * [Safer paths, part 2 - Stop, Reconsider, Contribute](http://cs-syd.eu/posts/2016-08-21-safer-paths-part-2---stop-reconsider-contribute.html)
 * [heredocsの紹介](http://qiita.com/cutsea110/items/4eb22cbb3f874436d33f)
+* [Decomposing a string into its elements](https://www.stephanboyer.com/post/126/decomposing-a-string-into-its-elements)
 
 ### リスト
 * [Haskellで無限個の無限リストをソートされた形で結合する](http://itchyny.hatenablog.com/entry/2016/01/17/120000)
