@@ -30,6 +30,7 @@
 * [Haskell package checklist](http://taylor.fausak.me/2016/12/05/haskell-package-checklist/)
 * [Version SAT](https://research.swtch.com/version-sat)
 * [Problematic versioning policy](http://taylor.fausak.me/2016/12/28/problematic-versioning-policy/)
+* [Rapid](https://hackage.haskell.org/package/rapid-0.1.3/docs/Rapid.html) - This module provides a rapid prototyping suite for GHCi that can be used standalone or integrated into editors.
 
 ## GHCi
 * [ghciでマルチバイト文字をエスケープせず表示させる](http://qiita.com/aosho235/items/bdfa4a68b77b9fcc4a35)
