@@ -259,3 +259,15 @@ main = do
     typeSwitch d2
     -- This is Bool!: True
 ```
+
+## 意味を変えないプログラムの変換
+### プログラム運算
+* [運算の楽しみ](http://qiita.com/nobsun/items/7f6b94fde0c09ed3ed6b)
+
+### Equational reasoning
+* [Equational reasoning](http://www.haskellforall.com/2013/12/equational-reasoning.html)
+* [Equational reasoning at scale](http://www.haskellforall.com/2014/07/equational-reasoning-at-scale.html)
+* [Heuristic guidance from equational reasoning](http://myhaskelljournal.com/heuristic-guidance-from-equational-reasoning/)
+* [Just do it: Simple monadic equational reasoning](http://www.cs.ox.ac.uk/publications/publication4877-abstract.html)
+* [How to prove large software projects correct](http://www.techcast.com/events/bigtechday8/maffei-1450/?q=maffei-1450)
+* [An exercise in equational reasoning](http://myhaskelljournal.com/an-exercise-in-equational-reasoning/)
