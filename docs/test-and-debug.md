@@ -42,6 +42,7 @@
 * [Using types to unit-test in Haskell](https://lexi-lambda.github.io/blog/2016/10/03/using-types-to-unit-test-in-haskell/)
 * [Fuzz testing Hexml with AFL](http://neilmitchell.blogspot.jp/2016/12/fuzz-testing-hexml-with-afl.html)
 * [stack runghcでtestを実行する](http://qiita.com/igrep/items/d36de71471b295a58b67)
+* [Lysxia/metamorph](https://github.com/Lysxia/metamorph) - Monomorphize polymorphic functions for testing
 
 ### QuickCheck
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
