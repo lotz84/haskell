@@ -59,6 +59,7 @@ instance Show Bool where
 * [入門的ではない型クラスの話：Haskellの型クラスがぁ (´^｀;)](http://d.hatena.ne.jp/m-hiyama/20160928/1475022255)
 * [オーバーロードは何故にかくも難しいのか：Haskellの成功と失敗](http://d.hatena.ne.jp/m-hiyama/20160930/1475198218)
 * [Haskellの型クラスに関わるワークアラウンド](http://d.hatena.ne.jp/m-hiyama/20161003/1475457068)
+* [Type defaulting in Haskell](http://kseo.github.io/posts/2017-01-04-type-defaulting-in-haskell.html)
 
 ## 代数的な型クラス
 * [tower](https://tonyday567.github.io/tower/index.html)
