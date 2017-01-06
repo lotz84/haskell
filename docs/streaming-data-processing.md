@@ -1,5 +1,6 @@
 * [Iteratees](https://ro-che.info/ccc/15)
 * [The Art of Incremental Stream Processing](http://mth.io/talks/streams/)
+* [Formalizing Eventsourcing](http://www.corecursion.net/post/2017-01-01-Formalizing_Eventsourcing)
 
 [**The problem**](http://www.scs.stanford.edu/14sp-cs240h/slides/pipes-slides.html#(3))
 
