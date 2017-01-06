@@ -254,6 +254,7 @@
 * [DDDをHaskellで考える 業務ロジックとシステムロジック](http://qiita.com/suzuki-hoge/items/82229b903655ca4b5c9b)
 * [DDDをHaskellで考える EntityとIdentity、そしてモデル図](http://qiita.com/suzuki-hoge/items/7ac33356526764feeb20)
 * [DDDをHaskellで考える 失敗を表現する](http://qiita.com/suzuki-hoge/items/5b56c7248edaeb81ef2f)
+* [DDDをHaskellで考える フォームとバリデーション](http://qiita.com/suzuki-hoge/items/44b8645393088347cdd5)
 * [How to structure your Haskell program](http://corentindupont.info/blog/posts/Programming/2016-12-14-Haskell-structure.html)
 * [Beware of readFile](http://www.snoyman.com/blog/2016/12/beware-of-readfile)
 * [Slack BOTから始めるHaskell](http://qiita.com/xorphitus/items/e952b27a37d8aae7d9a8)
