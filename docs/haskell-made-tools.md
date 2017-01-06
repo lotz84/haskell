@@ -324,6 +324,7 @@ Line 6:
 ### xmonad
 * X11のウィンドウマネージャ
 * <http://xmonad.org/>
+* [xmonad.hsでモジュール分割をする](http://qiita.com/aiya000/items/be55d899e9c92dd57c35)
 
 ### Yi
 - Haskellでカスタマイズできるエディタ
