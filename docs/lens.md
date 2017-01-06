@@ -47,6 +47,7 @@
 * [Comonads as Spaces](http://blog.functorial.com/posts/2016-08-07-Comonads-As-Spaces.html)
 * [What are some motivating examples for Cofree CoMonad in Haskell?](http://stackoverflow.com/questions/38816993/what-are-some-motivating-examples-for-cofree-comonad-in-haskell)
 * [Comonadic Collision Resolution](http://reasonablypolymorphic.com//blog/comonadic-physics)
+* [Comonads](https://bartoszmilewski.com/2017/01/02/comonads/)
 
 ```hs
 class Functor w => Comonad w where
