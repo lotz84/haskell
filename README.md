@@ -56,3 +56,4 @@
 * [Hask Anything!](http://haskanything.com/)
 * [Haskellライブラリ所感2016](http://syocy.hatenablog.com/entry/haskell-library-2016)
 * [Reflecting on Haskell in 2016](http://www.stephendiehl.com/posts/haskell_2017.html)
+* [Haskell News](http://haskellnews.org/)
