@@ -25,6 +25,7 @@
 * [Version SAT](https://research.swtch.com/version-sat)
 * [Problematic versioning policy](http://taylor.fausak.me/2016/12/28/problematic-versioning-policy/)
 * [Rapid](https://hackage.haskell.org/package/rapid-0.1.3/docs/Rapid.html) - This module provides a rapid prototyping suite for GHCi that can be used standalone or integrated into editors.
+* [Conflicting Module Names](http://www.snoyman.com/blog/2017/01/conflicting-module-names)
 
 ## GHCi
 * [ghciでマルチバイト文字をエスケープせず表示させる](http://qiita.com/aosho235/items/bdfa4a68b77b9fcc4a35)
@@ -198,6 +199,7 @@
 * [COMBINATORIAL MUSIC THEORY](http://andrewduncan.net/cmt/)
 * [Analysis of musical structures: an approach utilising monadic parser combinators](http://theses.gla.ac.uk/2353/)
 * [Algorithmic Compositional Techniques Developed for "Pleonid"](http://slpopejoy.github.io/posts/Pleonid.html)
+* [mrkkrp/flac](https://github.com/mrkkrp/flac) - Complete high-level Haskell binding to libFLAC
 
 ----
 
