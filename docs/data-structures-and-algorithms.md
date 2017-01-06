@@ -69,6 +69,7 @@
 * [Constant-time Find First Set](http://www.hedonisticlearning.com/posts/find-first-set.html)
 * [Splitting](http://lpaste.net/6349157219174449152)
 * [たくさんのファイルから重複した行の塊を見つける](http://qiita.com/igrep/items/cc23dbc13448b973bc39)
+* [Rotating Squares](https://jtobin.io/rotating-squares)
 
 ### ソート
 * [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
@@ -260,11 +261,8 @@ main = do
     -- This is Bool!: True
 ```
 
-## 意味を変えないプログラムの変換
-### プログラム運算
+## 等式論証
 * [運算の楽しみ](http://qiita.com/nobsun/items/7f6b94fde0c09ed3ed6b)
-
-### Equational reasoning
 * [Equational reasoning](http://www.haskellforall.com/2013/12/equational-reasoning.html)
 * [Equational reasoning at scale](http://www.haskellforall.com/2014/07/equational-reasoning-at-scale.html)
 * [Heuristic guidance from equational reasoning](http://myhaskelljournal.com/heuristic-guidance-from-equational-reasoning/)
