@@ -373,6 +373,7 @@ Reader + Writer + State
 * [Category Theory for the Working Hacker by Philip Wadler](https://www.youtube.com/watch?v=V10hzjgoklA)
 * [Monads Categorically](https://bartoszmilewski.com/2016/12/27/monads-categorically/)
 * [Basic Category Theory](https://arxiv.org/abs/1612.09375v1)
+* [2017年 圏論に関する参考文献の案内（無料オンライン版含む）](http://d.hatena.ne.jp/m-hiyama/20170104/1483496144)
 
 ###CPL
 * [圏論プログラミング言語 CPL](http://mandel59.hateblo.jp/entry/2015/02/02/110621)
