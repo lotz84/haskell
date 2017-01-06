@@ -371,6 +371,7 @@ Reader + Writer + State
 * [Category Theory, Syntactically](http://www.hedonisticlearning.com/posts/category-theory-syntactically.html)
 * [Category Theory for the Working Hacker by Philip Wadler](https://www.youtube.com/watch?v=V10hzjgoklA)
 * [Monads Categorically](https://bartoszmilewski.com/2016/12/27/monads-categorically/)
+* [Basic Category Theory](https://arxiv.org/abs/1612.09375v1)
 
 ###CPL
 * [圏論プログラミング言語 CPL](http://mandel59.hateblo.jp/entry/2015/02/02/110621)
