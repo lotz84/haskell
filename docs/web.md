@@ -195,6 +195,7 @@ Web Server
 * [Bitrot-free Scripts](https://www.fpcomplete.com/blog/2016/08/bitrot-free-scripts)
 * [Trying to make building webapps easier in Haskell](https://medium.com/@saurabhnanda/trying-to-make-building-webapps-easier-in-haskell-46130553ed1a#.702yw566i)
 * [2016 10 27 - Carl Baatz - Build yourself a Haskell web framework](https://www.youtube.com/watch?v=etuSnom2v2M)
+* [sarthakbagaria/web-push](https://github.com/sarthakbagaria/web-push)
 
 ### WAI/Warp
 * [Haskell版フォルダを指定してhttpで公開する簡易Webサーバー](http://qiita.com/saturday06/items/fad44a9bc49b2f387bde)
