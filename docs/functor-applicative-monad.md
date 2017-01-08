@@ -28,6 +28,7 @@ class Functor f where
 * [profunctor](https://hackage.haskell.org/package/profunctors)
 * [Phil Freeman - Fun with Profunctors](https://www.youtube.com/watch?v=OJtGECfksds)
 * [Profunctor Polymorphism](https://bartoszmilewski.com/2016/08/16/profunctor-polymorphism/)
+* [Addressing Pieces of State with Profunctors](http://blog.sigfpe.com/2017/01/addressing-pieces-of-state-with.html)
 
 ### Contravariant
 * [contravariant](https://hackage.haskell.org/package/contravariant)
