@@ -258,3 +258,4 @@
 * [Beware of readFile](http://www.snoyman.com/blog/2016/12/beware-of-readfile)
 * [Slack BOTから始めるHaskell](http://qiita.com/xorphitus/items/e952b27a37d8aae7d9a8)
 * [Automatically export Haskell modules](http://taylor.fausak.me/2016/12/30/automatically-export-haskell-modules/)
+* [rgleichman/glance - A visual Haskell](https://github.com/rgleichman/glance)
