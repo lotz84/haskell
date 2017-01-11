@@ -115,6 +115,7 @@
 * [Trees That Grow](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/trees-that-grow.pdf)
 * [viewprofでGHCの.profファイルを見やすくする](https://medium.com/@maoe/viewprof%E3%81%A7ghc%E3%81%AE-prof%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E8%A6%8B%E3%82%84%E3%81%99%E3%81%8F%E3%81%99%E3%82%8B-ff5f58cef645#.bblf7srze)
 * [Natural Transformations as Rewrite Rules and Monad Composition](https://arxiv.org/abs/1612.07273)
+* [Nested monadic loops may cause space leaks](https://ro-che.info/articles/2017-01-10-nested-loop-space-leak)
 
 ### 最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
