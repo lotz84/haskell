@@ -30,6 +30,7 @@ main = print (sum [1..10])
 * [Mutual Recursion in Final Encoding](http://aherrmann.github.io/programming/2016/05/28/mutual-recursion-in-final-encoding/)
 * [Intro to Recursion (Haskell)](https://www.youtube.com/watch?v=w1tTs5vn_zo)
 * [Mutual Recursion in Final Encoding](https://aherrmann.github.io/programming/2016/05/28/mutual-recursion-in-final-encoding/)
+* [Foldable.mapM_, Maybe, and recursive functions](http://www.snoyman.com/blog/2017/01/foldable-mapm-maybe-and-recursive-functions)
 
 ## map, filter, foldr
 
