@@ -14,6 +14,7 @@
 * [24 days of Hackage, 2015: day 10: s-cargot: using S-expression syntax](http://conscientiousprogrammer.com/blog/2015/12/10/24-days-of-hackage-2015-day-10-s-cargot-using-s-expression-syntax/)
 * [Write you an interpreter](http://kseo.github.io/posts/2016-12-30-write-you-an-interpreter.html)
 * [A tale of backwards compatibility in ASTs](http://blog.ezyang.com/2016/12/a-tale-of-backwards-compatibility-in-asts/)
+* [Continuation Passing Style Interpreter](https://kseo.github.io/posts/2017-01-09-continuation-passing-style-interpreter.html)
 
 ## 正規表現
 * [関数型的正規表現マッチ](https://research.preferred.jp/2010/11/regexp-play/)
