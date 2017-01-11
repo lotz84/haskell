@@ -70,6 +70,7 @@
 * [Splitting](http://lpaste.net/6349157219174449152)
 * [たくさんのファイルから重複した行の塊を見つける](http://qiita.com/igrep/items/cc23dbc13448b973bc39)
 * [Rotating Squares](https://jtobin.io/rotating-squares)
+* [Simple RNA folding in 130 lines of Haskell](http://michaeljflynn.net/2017/01/09/simple-rna-folding-in-130-lines-of-haskell/)
 
 ### ソート
 * [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
