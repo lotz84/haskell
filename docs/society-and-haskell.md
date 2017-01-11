@@ -7,6 +7,7 @@
 * [Haskell in Production with Carl Baatz](http://softwareengineeringdaily.com/2016/08/31/haskell-in-production-with-carl-baatz/)
 * [Haskellがトップ20に迫る、11月TIOBE言語人気ランキング](http://news.mynavi.jp/news/2016/11/14/082/)
 * [Mastering Time-to-Market with Haskell](https://www.fpcomplete.com/blog/2016/11/mastering-time-to-market-haskell)
+* [theInitialCommit - Edward Kmett](https://theinitialcommit.com/2017/01/10/edward-kmett/)
 
 ## コミュニティ
 * [Haskell Communities and Activities Report](https://wiki.haskell.org/Haskell_Communities_and_Activities_Report)
