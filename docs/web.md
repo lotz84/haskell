@@ -358,6 +358,7 @@ Web Application Framework
 * [alvare/latexpad](https://github.com/alvare/latexpad) - A LaTeX Scratchpad for sharing. <http://latexpad.clrnd.com.ar/>
 * [Arian van Putten - Servant](https://www.youtube.com/watch?v=GguRdqm9ZVA)
 * [themoritz/diener](https://github.com/themoritz/diener)
+* [Servant に Experimental モジュールとして追加された認証の仕組み](http://krdlab.hatenablog.com/entry/2017/01/09/164705)
 
 ### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
