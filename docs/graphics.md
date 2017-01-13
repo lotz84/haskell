@@ -65,6 +65,7 @@
 * [sleexyz/hylogen](https://github.com/sleexyz/hylogen)
 * [Writing Games in Haskell with SpriteKit](http://blog.haskellformac.com/blog/writing-games-in-haskell-with-spritekit)
 * [isovector/sequoia](https://github.com/isovector/sequoia) - a monadic FRP game library for haskell
+* [Haskell game](https://www.youtube.com/watch?v=HUUApOofaLQ&feature=youtu.be) - my first program in Haskell
 
 ## Gloss
 * [gloss](http://hackage.haskell.org/package/gloss)
