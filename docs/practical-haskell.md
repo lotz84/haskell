@@ -26,6 +26,7 @@
 * [Problematic versioning policy](http://taylor.fausak.me/2016/12/28/problematic-versioning-policy/)
 * [Rapid](https://hackage.haskell.org/package/rapid-0.1.3/docs/Rapid.html) - This module provides a rapid prototyping suite for GHCi that can be used standalone or integrated into editors.
 * [Conflicting Module Names](http://www.snoyman.com/blog/2017/01/conflicting-module-names)
+* [Dear package managers: dependency resolution results should be in version control](https://blog.ometer.com/2017/01/10/dear-package-managers-dependency-resolution-results-should-be-in-version-control/)
 
 ## GHCi
 * [ghciでマルチバイト文字をエスケープせず表示させる](http://qiita.com/aosho235/items/bdfa4a68b77b9fcc4a35)
@@ -260,3 +261,4 @@
 * [Slack BOTから始めるHaskell](http://qiita.com/xorphitus/items/e952b27a37d8aae7d9a8)
 * [Automatically export Haskell modules](http://taylor.fausak.me/2016/12/30/automatically-export-haskell-modules/)
 * [rgleichman/glance - A visual Haskell](https://github.com/rgleichman/glance)
+* [erebe/greenclip](https://github.com/erebe/greenclip)
