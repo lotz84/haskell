@@ -154,6 +154,7 @@
 * [パズル「カードの三角形」を内包表記で解く](http://bitterharvest.hatenablog.com/entry/2014/12/01/084440)
 * [Difference Lists and the Codensity Monad](http://begriffs.com/posts/2016-02-04-difference-lists-and-codennsity.html)
 * [List and Comprehension Extensions](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/guide-to-ghc-extensions/list-and-comprehension-extensions)
+* [phadej/dlist-nonempty](https://github.com/phadej/dlist-nonempty) - Non-empty difference lists
 
 ### 配列
 * [The vector package](https://hackage.haskell.org/package/vector)
