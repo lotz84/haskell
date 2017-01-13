@@ -174,6 +174,7 @@
 * [Using Haskell in Rust](http://mgattozzi.github.io/2016/10/15/rust-haskell.html)
 
 ## JVM
+* [Eta](http://eta-lang.org/)
 * [typelead/eta](https://github.com/typelead/eta)
 * [A Servlet-based Web application with the Frege programming language](http://earldouglas.com/articles/frege-web.html)
 * [A new ecosystem for Haskell: the JVM](http://blog.tweag.io/posts/2016-10-17-inline-java.html)
