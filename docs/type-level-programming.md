@@ -148,6 +148,7 @@ circum (Circle _ _ r) = …
 * [Parametricity and excluded middle](http://homotopytypetheory.org/2016/02/24/parametricity-and-excluded-middle/)
 
 ## Refinement Type
+* [LiquidHaskell](https://ucsd-progsys.github.io/liquidhaskell-blog/)
 * [Announcing the refinement types library](http://nikita-volkov.github.io/refined/)
 * [Program Synthesis from Polymorphic Refinement Types](http://arxiv.org/abs/1510.08419)
 * [Programming with Refinement Types](https://ucsd-progsys.github.io/liquidhaskell-tutorial/)
