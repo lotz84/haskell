@@ -16,6 +16,7 @@
 * [A tale of backwards compatibility in ASTs](http://blog.ezyang.com/2016/12/a-tale-of-backwards-compatibility-in-asts/)
 * [Continuation Passing Style Interpreter](https://kseo.github.io/posts/2017-01-09-continuation-passing-style-interpreter.html)
 * [Fast Haskell: Competing with C at parsing XML](http://chrisdone.com/posts/fast-haskell-c-parsing-xml)
+* [CSCI 360: Programming Languages (Fall 2016)](http://ozark.hendrix.edu/~yorgey/360/f16/)
 
 ## 正規表現
 * [関数型的正規表現マッチ](https://research.preferred.jp/2010/11/regexp-play/)

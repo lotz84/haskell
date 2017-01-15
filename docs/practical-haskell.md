@@ -91,6 +91,7 @@
 * [Stack を使って Haskell の Hello World をやってみる](http://ku00.hatenablog.com/entry/2016/09/15/141151)
 * [Haskell 初心者が、stack でベンチマークテストにつまった話（RTS option）](http://qiita.com/dxa0010/items/48f625a83d60ebffefe7)
 * [stackでのライブラリ(library)と実行(executable)ファイルの違い](http://qiita.com/dxa0010/items/5d37497cddbcd5c823a1)
+* [一部パッケージimportでstack buildできない - Qiita](http://qiita.com/katsuyan/items/0a3cf2a86727ffec0913)
 
 ### 逆引き
 * [Ubuntu 16 で Stack + GHC がライブラリのリンクに失敗する場合の対処法](http://qiita.com/mr_konn/items/13caa82c1118968d3145)
@@ -173,6 +174,7 @@
 * [dg.](https://pyos.github.io/dg/)
 * [Haskell - GHC for iOS : 既存のSwiftプロジェクトにHaskellで作った関数をさくっと組み込む](http://blog.euphonictech.com/entry/2015/03/30/235956)
 * [Using Haskell in Rust](http://mgattozzi.github.io/2016/10/15/rust-haskell.html)
+* [Calling Haskell from C | Maths, Stats & Functional Programming](https://idontgetoutmuch.wordpress.com/2017/01/14/calling-haskell-from-c/)
 
 ## JVM
 * [Eta](http://eta-lang.org/)

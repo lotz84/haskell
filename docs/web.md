@@ -112,6 +112,7 @@ Front end
 * [シンプルでかつ最高のJavaScriptプロファイラ sjsp を作りました！](http://itchyny.hatenablog.com/entry/2015/07/01/120000)
 * [A Distributed Haskell for the Modern Web](http://ekblad.cc/lic.pdf)
 * [1 07 High Performance Client Side Web Applications through Haskell EDSLs](https://www.youtube.com/watch?v=gQmDeq9eyF8)
+* [contivero/hasmin: Hasmin - A Haskell CSS Minifier](https://github.com/contivero/hasmin)
 
 Haskell to JavaScript compiler
 ------------------------------
@@ -226,7 +227,7 @@ Web Application Framework
 | [Yesod][1]       | 2016/6/23      | 1.4.22    | 1496 | 158          |
 | [Scotty][2]      | 2015/7/14      | 0.10.2    | 910  | 43           |
 | [Servant][3]     | 2016/5/11      | 0.7.1     | 546  | 62           |
-| [Rest][4]        | 2016/4/21      | 0.38      | 343  | 20           | 
+| [Rest][4]        | 2016/4/21      | 0.38      | 343  | 20           |
 | [Snap][5]        | 2016/3/16      | 0.14.0.7  | 330  | 44           |
 | [Spock][6]       | 2015/11/11     | 0.10.0.1  | 309  | 15           |
 | [Airship][7]     | 2016/5/28      | 0.6.0     | 177  | 11           |

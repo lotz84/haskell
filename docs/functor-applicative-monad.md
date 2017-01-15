@@ -61,6 +61,7 @@ class Functor f => Applicative f where
 * [Applicatives in Math vs Code](http://begriffs.com/posts/2015-08-30-applicative-functors.html)
 * [Showcasing Applicative](http://www.joachim-breitner.de/blog/710-Showcasing_Applicative)
 * [Day convolution intuition](http://math.stackexchange.com/questions/1650786/day-convolution-intuition/1651127#1651127)
+* [Refactoring with Applicatives in Haskell](http://www.bbenson.co/post/refactoring-with-applicatives-in-haskell/)
 
 ### Discrimination
 * [discrimination](http://hackage.haskell.org/package/discrimination)
@@ -83,7 +84,7 @@ type (~>) f g = forall x. f x -> g x
 「環」の理論を知らなくても整数の足し算掛け算が出来るように、モナドの数学的な側面を知らなくてもモナドを使うことは出来る。
 
 > 盲目の男たちがいました。彼らは象を知ったばかりでした。
-> 
+>
 > 1人は「あれば大木だ」と両足を腕で包みながら言いました。  
 > もう1人は「あれば大蛇だ」と胸を包みながら言いました。  
 > 3人目の男は「うーん」と言いながら、ほうきか扇か何かを想像しました。
@@ -154,6 +155,7 @@ class Monad m where
 * [いろんなMonadをdo構文で](http://qiita.com/knknkn1162/items/722b34c05e71f7613d09)
 * [Day 3: Maybe — Mini-Lists, or Mini-Exceptions](https://medium.com/twelve-days-of-monad/day-3-maybe-mini-lists-or-mini-exceptions-2ad337e4e861#.bbh1jjtpi)
 * [Strict Identity Monad](https://kseo.github.io//posts/2017-01-07-strict-identity-monad.html)
+* [Monads Made Difficult](http://www.stephendiehl.com/posts/monads.html)
 
 ```haskell
 do x <- mx
@@ -193,9 +195,9 @@ instance Monad [] where
 
 ```haskell
 newtype Reader e a = Reader { runReader :: (e -> a) }
- 
-instance Monad (Reader e) where 
-    return a         = Reader $ \e -> a 
+
+instance Monad (Reader e) where
+    return a         = Reader $ \e -> a
     (Reader r) >>= f = Reader $ \e -> runReader (f (r e)) e
 ```
 

@@ -105,6 +105,7 @@ data HList (as :: [*]) where
 * [The Constraint kind](https://jeltsch.wordpress.com/2013/02/14/the-constraint-kind/)
 * [The constraint trick for instances](http://chrisdone.com/posts/haskell-constraint-trick)
 * [mikeizbicki/ifcxt](https://github.com/mikeizbicki/ifcxt)
+* [Monads Made Difficult](http://www.stephendiehl.com/posts/monads.html)
 
 ##Phantom Type
 * [Phantom Types and Subtyping](http://www.cs.rit.edu/~mtf/research/phantom-subtyping/jfp06/jfp06.pdf)
@@ -135,7 +136,7 @@ circum (Circle _ _ r) = …
 
 ## Parametricity
 * [Theorems for free!](http://www.cs.sfu.ca/CourseCentral/831/burton/Notes/July14/free.pdf)
-* [Parametricity](https://cubeoflambda.wordpress.com/2011/11/16/parametricity/) 
+* [Parametricity](https://cubeoflambda.wordpress.com/2011/11/16/parametricity/)
 * [Parametricity Tutorial (Part 1)](http://www.well-typed.com/blog/2015/05/parametricity/)
 * [Parametricity Tutorial (Part 2): Type constructors and type classes](http://www.well-typed.com/blog/2015/08/parametricity-part2/)
 * [Automatic generation of free theorems](http://www-ps.iai.uni-bonn.de/cgi-bin/free-theorems-webui.cgi)
@@ -165,6 +166,7 @@ circum (Circle _ _ r) = …
 * [Refinement Reflection (or, how to turn your favorite language into a proof assistant using SMT)](https://arxiv.org/abs/1610.04641)
 * [Liquid Haskell: Haskell as a Theorem Prover](http://goto.ucsd.edu/~nvazou/thesis/main.pdf)
 * [LiquidHaskell コトハジメ](http://ccvanishing.hateblo.jp/entry/2016/12/24/193038)
+* [[1701.03320] An Introduction to Liquid Haskell](https://arxiv.org/abs/1701.03320)
 
 ## Dependent Types
 * [実世界を扱う依存型プログラミングのたぶん基本～外界から安全な世界までの道](http://notogawa.hatenablog.com/entry/2016/10/20/001812)
@@ -190,7 +192,7 @@ circum (Circle _ _ r) = …
 {-# LANGUAGE GADTs, DataKinds, KindSignatures, TypeFamilies #-}
 
 data N = Z | S N  -- natural numbers
- 
+
 data Vec a (n :: N) where
   Nil  :: Vec a Z
   Cons :: a -> Vec a n -> Vec a (S n)
