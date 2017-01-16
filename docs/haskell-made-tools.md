@@ -270,19 +270,19 @@ success
 
 ```bash
 $ shellcheck myscript
- 
+
 Line 3:
 for f in $(ls *.m3u)
          ^-- SC2045: Iterating over ls output is fragile. Use globs.
               ^-- SC2035: Use ./*glob* or -- *glob* so names with dashes won't become options.
- 
+
 Line 5:
   grep -qi hq.*mp3 $f \
            ^-- SC2062: Quote the grep pattern so the shell won't interpret it.
                    ^-- SC2086: Double quote to prevent globbing and word splitting.
- 
+
 Line 6:
-    && echo -e 'Playlist $f contains a HQ file in mp3 format' 
+    && echo -e 'Playlist $f contains a HQ file in mp3 format'
             ^-- SC2039: In POSIX sh, echo flags are undefined.
                ^-- SC2016: Expressions don't expand in single quotes, use double quotes for that.
 ```
@@ -403,6 +403,7 @@ Line 6:
 * [WRITING A SIMPLE CLI-TOOL IN HASKELL](http://maex.me/tech/2016/06/25/writing-a-simple-cli-tool-in-haskell.html)
 * [Teleport - How to write a small, useful command line application in Haskell](http://bollu.github.io/teleport/)
 * [Haskus](http://www.haskus.org/system/) - The long-term aim is to provide a full Haskell user-space environment on top of the Linux kernel.
+* [SamuelSchlesinger/gross: Easy terminal interfaces, emulating gloss](https://github.com/SamuelSchlesinger/gross)
 
 ### オプションパーサー
 * [HaskellのSystem.Console.ParseArgs](http://yu-i9.hatenablog.com/entry/2014/08/29/135253)

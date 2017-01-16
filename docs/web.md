@@ -287,6 +287,7 @@ Web Application Framework
 * [Running a Scotty web-app in Openshift](http://narenma.net/2016/08/18/scotty-diy-openshift/)
 * [On demand image processing with Haskell](https://www.paramander.com/blog/on-demand-image-processing-with-haskell)
 * [scotty-format: A response format helper for the Scotty web framework](http://www.focustheweb.com/2016/11/27/scotty-format-response-format-helper-for-scotty.html)
+* [Scotty による Web アプリ入門 - Qiita](http://qiita.com/ryota-ka/items/b0883ce87d60b9f573e7)
 
 ### Spock
 * [Spock Web Framework](https://www.spock.li/)

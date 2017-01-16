@@ -115,6 +115,7 @@ data HList (as :: [*]) where
 * [Data.Functor.Constant](https://hackage.haskell.org/package/transformers/docs/Data-Functor-Constant.html)
 * [Data.Tagged](https://hackage.haskell.org/package/tagged/docs/Data-Tagged.html)
 * [【幽霊型トリック集】キェェ！幽霊型でバグを呪い殺すのじゃ！【呪術プログラミング】](http://akabe.github.io/2015/12/PhantomTypeTricks/)
+* [Kwang's Haskell Blog - Data.Proxy](https://kseo.github.io//posts/2017-01-15-data-proxy.html)
 
 ```haskell
 data Circle

@@ -27,6 +27,7 @@
 * [Rapid](https://hackage.haskell.org/package/rapid-0.1.3/docs/Rapid.html) - This module provides a rapid prototyping suite for GHCi that can be used standalone or integrated into editors.
 * [Conflicting Module Names](http://www.snoyman.com/blog/2017/01/conflicting-module-names)
 * [Dear package managers: dependency resolution results should be in version control](https://blog.ometer.com/2017/01/10/dear-package-managers-dependency-resolution-results-should-be-in-version-control/)
+* [Monitoring the popularity and the development of GitHub projects](http://gittrends.io/#/explore?page=1&language=Haskell&domain=All&growth=All) - GitHub上の活発なHaskellのプロジェクトを表示
 
 ## GHCi
 * [ghciでマルチバイト文字をエスケープせず表示させる](http://qiita.com/aosho235/items/bdfa4a68b77b9fcc4a35)
