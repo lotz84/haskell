@@ -81,7 +81,7 @@ import Control.Concurrent
 main = do
     messages <- newEmptyMVar
     forkIO $ putMVar messages "ping"
-    
+
     msg <- takeMVar messages
     putStrLn msg
 ```
@@ -117,4 +117,4 @@ main = do
   * [Raft](http://www.slideshare.net/pfi/raft-36155398)
 * [Distributed Systems in Haskell](http://yager.io/Distributed/Distributed.html)
 * [Composing distributed Web applications](https://github.com/agocorona/transient/wiki/Composing--distributed-Web-applications)
-
+* [Speeding up a distributed computation in Haskell :: FP Complete](https://www.fpcomplete.com/blog/2017/01/speeding-up-distributed-computation)

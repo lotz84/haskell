@@ -17,6 +17,7 @@
 * [Continuation Passing Style Interpreter](https://kseo.github.io/posts/2017-01-09-continuation-passing-style-interpreter.html)
 * [Fast Haskell: Competing with C at parsing XML](http://chrisdone.com/posts/fast-haskell-c-parsing-xml)
 * [CSCI 360: Programming Languages (Fall 2016)](http://ozark.hendrix.edu/~yorgey/360/f16/)
+* [僕の考えたさいきょうの抽象構文木データ型 - autotaker's blog](http://autotaker.hatenablog.com/entry/2017/01/16/143444)
 
 ## 正規表現
 * [関数型的正規表現マッチ](https://research.preferred.jp/2010/11/regexp-play/)
@@ -46,6 +47,7 @@ parse = evalStateT
   * [Tutorials](https://mrkkrp.github.io/megaparsec/tutorials.html)
   * [Announcing Megaparsec 5](https://mrkkrp.github.io/posts/announcing-megaparsec-5.html)
   * [Latest additions to Megaparsec](https://mrkkrp.github.io/posts/latest-additions-to-megaparsec.html)
+  * [Beginner's guide to Megaparsec](http://akashagrawal.me/beginners-guide-to-megaparsec/)
 * [The attoparsec package](http://hackage.haskell.org/package/attoparsec)
 * [[ANN] binary-parsers 0.1.0.0](https://www.reddit.com/r/haskell/comments/53m6cc/ann_binaryparsers_0100/)
 * [The trifecta package](https://hackage.haskell.org/package/trifecta)

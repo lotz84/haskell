@@ -55,6 +55,7 @@ Client
 * [The dns package](https://hackage.haskell.org/package/dns)
 * [basvandijk/rss](https://github.com/basvandijk/rss)
 * [pontarius/pontarius-xmpp](https://github.com/pontarius/pontarius-xmpp)
+* [Ballast, a library for talking to Shipwire – alexeyzabelin.com](http://alexeyzabelin.com/haskell-api-wrapper)
 * HTTP Client
   * [owainlewis/http-dispatch](https://github.com/owainlewis/http-dispatch)
   * [http-client](https://hackage.haskell.org/package/http-client)
@@ -361,6 +362,7 @@ Web Application Framework
 * [Arian van Putten - Servant](https://www.youtube.com/watch?v=GguRdqm9ZVA)
 * [themoritz/diener](https://github.com/themoritz/diener)
 * [Servant に Experimental モジュールとして追加された認証の仕組み](http://krdlab.hatenablog.com/entry/2017/01/09/164705)
+* [Kwang's Haskell Blog - Natural transformations in Servant](https://kseo.github.io//posts/2017-01-18-natural-transformations-in-servant.html)
 
 ### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
@@ -563,6 +565,7 @@ Others
 ======
 * [The resource-pool package](https://hackage.haskell.org/package/resource-pool)
 * [nginx module to enable haskell binding to nginx configuration files](http://lin-techdet.blogspot.jp/2015/12/nginx-module-to-enable-haskell-binding.html)
+* [Тех-Детали: nginx-haskell-module: labeled media routing example](http://lin-techdet.blogspot.jp/2017/01/nginx-haskell-module-labeled-media.html)
 * [ANN: QuickLift](http://www.parsonsmatt.org/2016/01/03/ann_quicklift.html)
 * [liqd/thentos](https://github.com/liqd/thentos)
 * [Tor in Haskell & Other Unikernel Tricks](http://www.infoq.com/presentations/tor-haskell)

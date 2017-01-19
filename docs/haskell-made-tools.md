@@ -192,6 +192,9 @@ $ hobbes "*.hs" | xargs -n1 ghc --make
 * 過去のツイートを学習してボットを作ってくれるツール
 * <https://github.com/ryota-ka/markov-bot>
 
+### ngless
+* [luispedro/ngless: NGLess: NGS with less work](https://github.com/luispedro/ngless)
+
 ### Pandoc
 * ドキュメントを別の形式のドキュメントに変換できるコマンド
 * とにかくサポートしている形式が多い

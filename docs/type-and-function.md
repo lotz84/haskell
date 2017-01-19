@@ -24,6 +24,7 @@
 * [Maybe](http://qiita.com/knknkn1162/items/48427aee35bd5892c61d)
 * [Pattern Synonyms](https://kseo.github.io/posts/2016-12-22-pattern-synonyms.html)
 * [YOW! Lambda Jam 2016 Conor McBride - What are Types for, or are they only Against? - YouTube](https://www.youtube.com/watch?v=3U3lV5VPmOU&feature=share)
+* [【Haskell】 言葉の定義まとめ（型クラス、型コンストラクタ、値コンストラクタ、型引数など） - takafumi blog](http://takafumi-s.hatenablog.com/entry/2015/09/25/123335)
 
 ###代数的データ型
 代数的データ型とは"足し算"と"掛け算"が出来るような型のこと。"足し算"と"掛け算"はそれぞれ**直和**, **直積**と呼ばれる。

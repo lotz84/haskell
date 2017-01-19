@@ -11,6 +11,7 @@ Template Haskell はHaskellの言語仕様には無くGHCの独自拡張なの�
 * [24 days of Hackage, 2015: day 9: Template Haskell goodies: here, interpolate, file-embed](http://conscientiousprogrammer.com/blog/2015/12/09/24-days-of-hackage-2015-day-9-template-haskell-goodies-here-interpolate-file-embed/)
 * [User-defined literals in Haskell via QuasiQuotes](http://harry.garrood.me/blog/qq-literals/)
 * [What Template Haskell gets wrong and Racket gets right](http://blog.ezyang.com/2016/07/what-template-haskell-gets-wrong-and-racket-gets-right/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+ezyang+%28Inside+245s%29)
+* [functor.tokyo -- Inspecting generated Template Haskell](https://functor.tokyo/blog/2017-01-16-looking-at-generated-template-haskell)
 
 ```haskell
 {-# LANGUAGE QuasiQuotes #-}

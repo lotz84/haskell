@@ -75,6 +75,7 @@
 ### ソート
 * [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
 * [Descending sort in Haskell](https://ro-che.info/articles/2016-04-02-descending-sort-haskell)
+* [vectorを使ったData.List.sortより４倍速いsortアルゴリズムの実装 - autotaker's blog](http://autotaker.hatenablog.com/entry/2016/04/04/140744)
 
 ### Queue
 * [bttr/psqueues](https://github.com/bttr/psqueues)

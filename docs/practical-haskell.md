@@ -48,6 +48,7 @@
 * [haskell.org and the Evil Cabal](http://www.snoyman.com/blog/2016/08/haskell-org-evil-cabal)
 * [Follow up: haskell.org and the Evil Cabal](http://www.snoyman.com/blog/2016/08/follow-up-haskell-org-evil-cabal)
 * [Updated Hackage mirroring](https://www.fpcomplete.com/blog/2016/09/updated-hackage-mirroring)
+* [Try Backpack: Cabal packages : Inside 214-1E](http://blog.ezyang.com/2017/01/try-backpack-cabal-packages/)
 
 ## Stack
 * [The Haskell Tool Stack](http://docs.haskellstack.org/en/stable/README.html)
@@ -116,6 +117,7 @@
 * [Purely Functional Linux with NixOS](https://begriffs.com/posts/2016-08-08-intro-to-nixos.html)
 * [NixOSでHaskellな環境](http://qiita.com/nznktst/items/a6ad1fceb92d31604dd1)
 * [Episode 2 - Nix Simple Types](https://www.youtube.com/watch?v=l8-wIPANCU0&feature=youtu.be)
+* [Gabriel439/haskell-nix: Nix and Haskell in production](https://github.com/Gabriel439/haskell-nix)
 
 ##Docker
 * [Dockerfile Linter](http://hadolint.lukasmartinelli.ch/)

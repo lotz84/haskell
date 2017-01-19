@@ -27,6 +27,7 @@ main = do
 ###History
 * ✕ Lazy IO
     * [Lazy IO considered harmful](https://sites.google.com/site/haskell/notes/lazy-io-considered-harmful-way-to-go-left-fold-enumerator)
+    * [jaspervdj - Lazy I/O and graphs: Winterfell to King's Landing](https://jaspervdj.be/posts/2017-01-17-lazy-io-graphs.html)
 * Deprecated [enumerator](https://hackage.haskell.org/package/enumerator)
 * [iteratee](https://hackage.haskell.org/package/iteratee)
     * [iterIO](https://hackage.haskell.org/package/iterIO)
@@ -70,7 +71,7 @@ main = do
 * [ConduitベースのTCPクライアント Ver 0.2](http://qiita.com/yutasth/items/53b6c57d872abe45d087)
 
 > Conduits were created for the Yesod web framework. My understanding is that they were designed to be blazingly fast. Early versions of the library were highly stateful.
-> 
+>
 > Pipes focus on elegance. They have just one type instead of several, form monad (transformer) and category instances, and are very "functional" in design.
 
 出典: <http://stackoverflow.com/questions/9983840/what-are-the-pros-and-cons-of-enumerators-vs-conduits-vs-pipes>

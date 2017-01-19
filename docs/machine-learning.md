@@ -103,6 +103,7 @@ instance Monad Dist where
 * [Deriving a Probability Density Calculator (Functional Pearl)](http://homes.soic.indiana.edu/ccshan/rational/pearl.pdf)
 * [BAli-Phy](http://www.bali-phy.org/)
 * [確率とモナドと確率論的プログラミング](http://qiita.com/lotz/items/7c7df718d1a596cac920)
+* [[1701.03757] Deep Probabilistic Programming](https://arxiv.org/abs/1701.03757)
 
 ### Hakaru
 * [Hakaru](http://hakaru-dev.github.io/)
@@ -151,6 +152,7 @@ instance Monad Dist where
 * [A CATEGORICAL FOUNDATION FOR BAYESIAN PROBABILITY](https://arxiv.org/pdf/1205.1488.pdf)
 * [A Type Theory for Probabilistic and Bayesian Reasoning](https://arxiv.org/abs/1511.09230)
 * [A Categorical Basis for Conditional Probability](http://www.cs.ru.nl/B.Jacobs/PAPERS/cat-prob-th.pdf)
+* [[1701.02547] A Convenient Category for Higher-Order Probability Theory](https://arxiv.org/abs/1701.02547)
 
 ## 自動微分
 * [ad](https://hackage.haskell.org/package/ad)
