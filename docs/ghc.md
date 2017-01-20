@@ -117,6 +117,7 @@
 * [Natural Transformations as Rewrite Rules and Monad Composition](https://arxiv.org/abs/1612.07273)
 * [Nested monadic loops may cause space leaks](https://ro-che.info/articles/2017-01-10-nested-loop-space-leak)
 * [[Haskell-cafe] ANN: `dump-core` a prettier GHC core viewer](https://mail.haskell.org/pipermail/haskell-cafe/2017-January/125923.html)
+* [Kwang's Haskell Blog - Fun with hint](http://kseo.github.io//posts/2017-01-19-fun-with-hint.html)
 
 ### 最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
