@@ -30,6 +30,7 @@
 * [Categorical semantics of digital circuits](http://researchblogs.cs.bham.ac.uk/thelablunch/2016/09/categorical-semantics-of-digital-circuits/)
 * [Raspberry Pi 2にGHCとStackをインストールした時のメモ](http://qiita.com/watertight/items/88f151a84b2d25b49059)
 * [Juniper](http://www.juniper-lang.org/) - Functional Reactive Programming for the Arduino
+* [Isomorphism of digital circuits](https://rahne.si/programming/clash/fpga/2016/12/23/iso-circuits.html)
 
 ##高位合成
 * [Domain-specific Languages and Code Synthesis Using Haskell](http://queue.acm.org/detail.cfm?id=2617811)

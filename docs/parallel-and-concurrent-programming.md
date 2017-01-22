@@ -71,6 +71,8 @@
 * [Haskellで並行化する方法: 6秒かかる処理を3秒にしよう](http://qiita.com/eielh/items/64ba5f0164b89c6c284e)
 * [rrnewton/haskell-lockfree](https://github.com/rrnewton/haskell-lockfree)
 * [Concurrency and Node](https://www.fpcomplete.com/blog/2016/12/concurrency-and-node)
+* [Easy concurrency with functional programming – Michael Chavinda – I was a lot more interesting before I started programming.](http://mchav.github.io/easy-concurrency-with-functional-programming/)
+* [Mutable State in Haskell - Jakub Arnold Blog](http://blog.jakubarnold.cz/2014/07/20/mutable-state-in-haskell.html)
 
 ### MVar
 * [Control.Concurrent.MVar](https://hackage.haskell.org/package/base/docs/Control-Concurrent-MVar.html)

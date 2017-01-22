@@ -363,6 +363,7 @@ Web Application Framework
 * [themoritz/diener](https://github.com/themoritz/diener)
 * [Servant に Experimental モジュールとして追加された認証の仕組み](http://krdlab.hatenablog.com/entry/2017/01/09/164705)
 * [Kwang's Haskell Blog - Natural transformations in Servant](https://kseo.github.io//posts/2017-01-18-natural-transformations-in-servant.html)
+* [Kwang's Haskell Blog - How Servant's type-safe links work](https://kseo.github.io//posts/2017-01-20-how-servant%27s-type-safe-links-work.html)
 
 ### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)

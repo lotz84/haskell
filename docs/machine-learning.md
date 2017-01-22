@@ -84,6 +84,7 @@ instance Monad Dist where
 [FUNCTIONAL PEARLS: Probabilistic Functional Programming in Haskell](https://web.engr.oregonstate.edu/~erwig/papers/PFP_JFP06.pdf)
 
 ## 確率論的プログラミング
+* [確率的プログラミング | POSTD](http://postd.cc/probabilistic-programming/)
 * [Probabilistic Programming](https://media.nips.cc/Conferences/2015/tutorialslides/wood-nips-probabilistic-programming-tutorial-2015.pdf)
 * [adscib/monad-bayes](https://github.com/adscib/monad-bayes)
   * [Practical Probabilistic Programming with Monads](https://www.youtube.com/watch?v=hI0ajVy2xEk)
@@ -141,6 +142,7 @@ instance Monad Dist where
 * [15-816 Linear Logic](http://www.cs.cmu.edu/~./fp/courses/15816-f01/index.html)
 * [Linear resources in Haskell](http://axman6.com/posts/2016-07-10-Linear-resources-in-haskell.html)
 * [Linearity, Uniqueness, and Haskell](http://edsko.net/2017/01/08/linearity-in-haskell/)
+* [Oleg's gists - Linear thoughts](http://oleg.fi/gists/posts/2017-01-17-linear-thoughts.html)
 
 ### Stochastic Lambda Calculus
 * [Scott's stochastic lambda calculi](http://cstheory.stackexchange.com/questions/25998/scotts-stochastic-lambda-calculi)

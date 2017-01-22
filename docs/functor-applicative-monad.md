@@ -156,6 +156,7 @@ class Monad m where
 * [Day 3: Maybe — Mini-Lists, or Mini-Exceptions](https://medium.com/twelve-days-of-monad/day-3-maybe-mini-lists-or-mini-exceptions-2ad337e4e861#.bbh1jjtpi)
 * [Strict Identity Monad](https://kseo.github.io//posts/2017-01-07-strict-identity-monad.html)
 * [Monads Made Difficult](http://www.stephendiehl.com/posts/monads.html)
+* [Predicate Monads: A Framework for Proving Generic Properties of Monadic Programs via Rewriting - POPL 2017](http://popl17.sigplan.org/event/main-predicate-monads-a-framework-for-proving-generic-properties-of-monadic-programs-via-rewriting)
 
 ```haskell
 do x <- mx
@@ -209,6 +210,7 @@ instance Monad (Reader e) where
 
 ### Writer Monad
 * [Writerを使ってはならない](http://qiita.com/ruicc/items/28b1cd2df215ce724e26)
+* [Kwang's Haskell Blog - Writer monad](https://kseo.github.io//posts/2017-01-21-writer-monad.html)
 
 ###随伴
 * [Adjunctions](https://www.youtube.com/playlist?list=PL54B49729E5102248)
