@@ -138,6 +138,8 @@ Haskellを利用している日本の企業
 ### Square
 * [Haskell in Production - Square Tech Talk](https://www.wagonhq.com/blog/square-tech-talk)
 
+### LINE
+* [LINE Engineering](https://engineering.linecorp.com/en/blog/detail/112)
 
 ## 主な企業のHaskellレポジトリ
 * **2015/09/22 調べ**
@@ -170,6 +172,6 @@ Haskellを利用している日本の企業
     * Software distribution by way of S3 signed URLs
 * **facebook**
   * [Haxl](https://github.com/facebook/Haxl)
-    * A Haskell library that simplifies access to remote data, such as databases or web-based services. 
+    * A Haskell library that simplifies access to remote data, such as databases or web-based services.
 * **soundcloud**
   * [haskell-kubernetes](https://github.com/soundcloud/haskell-kubernetes)

@@ -116,6 +116,7 @@ $ alias ghci='stack ghci --'
 * [Learn Me a Haskell](https://blog.cotten.io/learn-me-a-haskell-5970bf4ac206#.2tor7vzez)
 * [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
 * [Haskell Pitfalls](http://lorepub.com/post/2016-12-17-Haskell-Pitfalls)
+* [Introduction to Haskell Programming - Course](https://onlinecourses.nptel.ac.in/noc17_cs11/preview)
 </details>
 
 ## Examples
@@ -125,7 +126,7 @@ $ alias ghci='stack ghci --'
 
 <details>
 <summary>エラトステネスの篩</summary>
- 
+
 ```haskell
 primes = sieve [2..]
 sieve (p:xs) = p : sieve [x | x <- xs, x `mod` p /= 0]
@@ -234,6 +235,7 @@ main = runSpock 8080 $ spockT id $ do
 * [SublimeText3 で Haskell (Stack) を書くための環境構築 (Mac OS X)](http://qiita.com/algas/items/77c7f6455f8106c1a9e8)
 * [SublimeText 3 & Haskell in 9 steps](https://atcol.wordpress.com/2016/06/03/sublimetext-3-haskell-in-9-steps/)
 * [Sublime Text 3 にHaskellの開発環境を構築する](http://qiita.com/t-yng/items/a5c79e7f497674cabc51)
+* [SublimeText3でHaskellを書く環境を構築する際に躓いたところ - Qiita](http://qiita.com/skht777/items/63deb2193c3918df4d97)
 
 ### Haskell for Mac
 * [Haskell for Mac](http://haskellformac.com/)

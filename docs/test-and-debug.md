@@ -48,6 +48,7 @@
 ### QuickCheck
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
 * [The Design and Use of QuickCheck](https://begriffs.com/posts/2017-01-14-design-use-quickcheck.html)
+* [QuickCheck and Magic of Testing :: FP Complete](https://www.fpcomplete.com/blog/2017/01/quickcheck)
 
 ```haskell
 import Data.List
@@ -94,6 +95,7 @@ Passed:
 * [【Haskell】Debug.Traceとプロファイリングで幸せなデバッグ生活](http://yu-i9.hatenablog.com/entry/2014/09/04/000000)
 * [24 days of Hackage, 2015: day 21: hood, GHood, Hoed: observation oriented debugging in Haskell](http://conscientiousprogrammer.com/blog/2015/12/21/24-days-of-hackage-2015-day-21-hood-ghood-hoed-observation-oriented-debugging-in-haskell/)
 * [JohnReedLOL/HaskellPrintDebugger](https://github.com/JohnReedLOL/HaskellPrintDebugger)
+* [秒速でコピペしたいHaskellデバッグ用関数 - Qiita](http://qiita.com/igrep/items/8b62b856ff42d1f51619)
 
 ## 例外処理
 * [エラー処理を書いてはいけない](http://tanakh.jp/pub/pfi-seminar-2011-12-08.html)

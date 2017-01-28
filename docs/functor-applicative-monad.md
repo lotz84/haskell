@@ -157,6 +157,7 @@ class Monad m where
 * [Strict Identity Monad](https://kseo.github.io//posts/2017-01-07-strict-identity-monad.html)
 * [Monads Made Difficult](http://www.stephendiehl.com/posts/monads.html)
 * [Predicate Monads: A Framework for Proving Generic Properties of Monadic Programs via Rewriting - POPL 2017](http://popl17.sigplan.org/event/main-predicate-monads-a-framework-for-proving-generic-properties-of-monadic-programs-via-rewriting)
+* [The Monad Fear - LINE Haskell Boot Camp](https://e.xtendo.org/monad#1)
 
 ```haskell
 do x <- mx
@@ -380,6 +381,7 @@ Reader + Writer + State
 * [Monads Categorically](https://bartoszmilewski.com/2016/12/27/monads-categorically/)
 * [Basic Category Theory](https://arxiv.org/abs/1612.09375v1)
 * [2017年 圏論に関する参考文献の案内（無料オンライン版含む）](http://d.hatena.ne.jp/m-hiyama/20170104/1483496144)
+* [「圏論」は関数プログラミングの「モナド」に役立つ。入門PDF等のリンク集 - 勉強メモ （大学の講義動画や，資格試験の対策）](http://study-guide.hatenablog.jp/entry/20140403/p1)
 
 ###CPL
 * [圏論プログラミング言語 CPL](http://mandel59.hateblo.jp/entry/2015/02/02/110621)

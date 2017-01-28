@@ -6,7 +6,7 @@
 出典: [不完全にしておよそ正しくないプログラミング言語小史](http://www.aoky.net/articles/james_iry/brief-incomplete-and-mostly-wrong.htm)
 
 ##Index
-1. [Haskell: 純粋関数型プログラミング言語](docs/introduction.md)
+1. [**Haskell: 純粋関数型プログラミング言語**](docs/introduction.md)
     1.  [型と関数](docs/type-and-function.md)
     2.  [再帰](docs/recursion.md)
     3.  [データ構造とアルゴリズム](docs/data-structures-and-algorithms.md)
@@ -15,7 +15,7 @@
     6.  [構文解析器](docs/parser.md)
     7.  [Monad Transformer](docs/monad-transformers.md)
     8.  [Free Monad](docs/free-monad.md)
-    9. [Algebraic Effects](docs/algebraic-effects.md)
+    9.  [Algebraic Effects](docs/algebraic-effects.md)
     10. [継続](docs/continuation.md)
     11. [Lens](docs/lens.md)
     12. [並列・並行・分散](docs/parallel-and-concurrent-programming.md)
@@ -25,7 +25,7 @@
     16. [型レベルプログラミング](docs/type-level-programming.md)
     17. [Template Haskell](docs/template-haskell.md)
     18. [例外処理・デバッグ・テスト](docs/test-and-debug.md)
-2. [実践Haskell](docs/practical-haskell.md)
+2. [**実践Haskell**](docs/practical-haskell.md)
     1.  [Haskell製のツール](docs/haskell-made-tools.md)
     2.  [社会とHaskell](docs/society-and-haskell.md)
     3.  [GHCと最適化](docs/ghc.md)
@@ -36,6 +36,11 @@
     8.  [機械学習](docs/machine-learning.md)
     9.  [量子コンピュータ](docs/quantum-computing.md)
     10. [ファイナンス](docs/finance.md)
+3. [**プログラミングを支える数学**](docs/math.md)
+    1. [ラムダ計算](docs/lambda-calculus.md)
+    2. [領域理論](docs/domain-theory.md)
+    3. [圏論](docs/category-theory.md)
+    4. [型理論](docs/type-theory.md)
 
 ##Related works
 * [State of the Haskell ecosystem - August 2015](http://www.haskellforall.com/2015/08/state-of-haskell-ecosystem-august-2015.html)

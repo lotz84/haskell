@@ -45,6 +45,7 @@ instance Functor f => Monad (Free f) where
 * [More on Applicative Effects in Free Monads](http://elvishjerricco.github.io/2016/04/13/more-on-applicative-effects-in-free-monads.html)
 * [Free, take 2](http://therning.org/magnus/posts/2016-06-18-free--take-2.html)
 * [FreerモナドとCoyonedaについて](http://qiita.com/masaki_mori/items/afb9696cac2476f0981c)
+* [[Haskell-cafe] A proof that the list monad is not a free monad](https://mail.haskell.org/pipermail/haskell-cafe/2017-January/126026.html)
 
 ### Coyoneda
 * [Loop School - Coyoneda](http://school.looprecur.com/?video=122708005)

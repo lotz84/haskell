@@ -31,6 +31,7 @@
 * [高速なキューを作る話（前編）](http://qiita.com/asukamirai/items/cb22ed08a124b282f142)
 * [高速なキューを作る話（後編）](http://qiita.com/asukamirai/items/481b22d9a8a410990828)
 * [Green Threads are like Garbage Collection](https://www.fpcomplete.com/blog/2017/01/green-threads-are-like-garbage-collection)
+* [Asynchronous Exceptions in Practice · Simon Marlow](http://simonmar.github.io/posts/2017-01-24-asynchronous-exceptions.html)
 
 ## 並列
 * [monad-par](https://hackage.haskell.org/package/monad-par)

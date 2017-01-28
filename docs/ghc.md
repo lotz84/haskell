@@ -118,6 +118,8 @@
 * [Nested monadic loops may cause space leaks](https://ro-che.info/articles/2017-01-10-nested-loop-space-leak)
 * [[Haskell-cafe] ANN: `dump-core` a prettier GHC core viewer](https://mail.haskell.org/pipermail/haskell-cafe/2017-January/125923.html)
 * [Kwang's Haskell Blog - Fun with hint](http://kseo.github.io//posts/2017-01-19-fun-with-hint.html)
+* [GHC has begun to accept Pull Requests on Github : haskell](https://www.reddit.com/r/haskell/comments/5pumm3/ghc_has_begun_to_accept_pull_requests_on_github/)
+* [Haskell、OCaml、RacketでGCのレイテンシを測る | コンピュータサイエンス | POSTD](http://postd.cc/measuring-gc-latencies-in-haskell-ocaml-racket/)
 
 ### 最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
@@ -173,6 +175,9 @@
 * [Moving Stackage Nightly to GHC 8.0](https://www.fpcomplete.com/blog/2016/05/moving-stackage-nightly-ghc-8)
 * [What's new with GHC generics in 8.0](https://ryanglscott.github.io/2016/05/12/whats-new-with-ghc-generics-in-80/)
 
+### 8.2
+* [GHC 8.2 にUnboxedSumsという拡張が追加されるそうで、これで #Haskell で長年感じていたnullがないことによるツラみが解消するか...](https://plus.google.com/+MasahiroSakai/posts/VjftjARcutS)
+
 ###LLVM
 * [LLVM フレームワークで実用的なコンパイラーを作成する: 第 1 回](http://www.ibm.com/developerworks/jp/opensource/library/os-createcompilerllvm1/index.html)
 * [Implementing a JIT Compiled Language with Haskell and LLVM](http://www.stephendiehl.com/llvm/)
@@ -203,3 +208,4 @@
 * [MonadFail proposal (MFP)](https://github.com/quchen/articles/blob/master/monad_fail.md)
 * [Monad of no return Proposal (MRP)](https://www.reddit.com/r/haskell/comments/3mb8lb/monad_of_no_return_proposal_mrp/)
 * [Left-Associative Semigroup Operator Alias](https://ghc.haskell.org/trac/ghc/wiki/Proposal/LeftAssocSemigroupOp)
+* [ghc-proposals/0000-overloaded-application.rst at overloadedapplication · cdsmith/ghc-proposals](https://github.com/cdsmith/ghc-proposals/blob/overloadedapplication/proposals/0000-overloaded-application.rst)

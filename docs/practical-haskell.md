@@ -28,9 +28,11 @@
 * [Conflicting Module Names](http://www.snoyman.com/blog/2017/01/conflicting-module-names)
 * [Dear package managers: dependency resolution results should be in version control](https://blog.ometer.com/2017/01/10/dear-package-managers-dependency-resolution-results-should-be-in-version-control/)
 * [Monitoring the popularity and the development of GitHub projects](http://gittrends.io/#/explore?page=1&language=Haskell&domain=All&growth=All) - GitHub上の活発なHaskellのプロジェクトを表示
+* [Search - haskell | Unixstickers](http://www.unixstickers.com/index.php?route=product/search&filter_name=haskell)
 
 ## GHCi
 * [ghciでマルチバイト文字をエスケープせず表示させる](http://qiita.com/aosho235/items/bdfa4a68b77b9fcc4a35)
+* [Haskell初心者が直面するghciで起こしがちなエラー4選とその対処法 - Qiita](http://qiita.com/tacke_jp/items/bb714f22eb8762d6e8ee)
 
 ## Cabal
 * [Hackage](http://hackage.haskell.org/)
@@ -94,6 +96,7 @@
 * [Haskell 初心者が、stack でベンチマークテストにつまった話（RTS option）](http://qiita.com/dxa0010/items/48f625a83d60ebffefe7)
 * [stackでのライブラリ(library)と実行(executable)ファイルの違い](http://qiita.com/dxa0010/items/5d37497cddbcd5c823a1)
 * [一部パッケージimportでstack buildできない - Qiita](http://qiita.com/katsuyan/items/0a3cf2a86727ffec0913)
+* [Stackage design choices: making Haskell curated package sets - Michael Snoyman's blog](http://www.snoyman.com/blog/2017/01/stackage-design-choices)
 
 ### 逆引き
 * [Ubuntu 16 で Stack + GHC がライブラリのリンクに失敗する場合の対処法](http://qiita.com/mr_konn/items/13caa82c1118968d3145)
@@ -206,6 +209,7 @@
 * [Analysis of musical structures: an approach utilising monadic parser combinators](http://theses.gla.ac.uk/2353/)
 * [Algorithmic Compositional Techniques Developed for "Pleonid"](http://slpopejoy.github.io/posts/Pleonid.html)
 * [mrkkrp/flac](https://github.com/mrkkrp/flac) - Complete high-level Haskell binding to libFLAC
+* [Haskellでの 音楽表現 - Qiita](http://qiita.com/nobkz/items/ca095ea3ae9e2be9f8ce)
 
 ----
 

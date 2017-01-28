@@ -87,6 +87,7 @@ Client
 * Clarifai - [caneroj1/clarifai-hs](https://github.com/caneroj1/clarifai-hs)
 * [noraesae/line](https://github.com/noraesae/line) - Haskell SDK for the LINE APIs
 * [1 07 High Performance Client Side Web Applications through Haskell EDSLs](https://www.youtube.com/watch?v=gQmDeq9eyF8)
+* [[ANN] bartlett - a simple Jenkins command-line client in Haskell : haskell](https://www.reddit.com/r/haskell/comments/5pzzvh/ann_bartlett_a_simple_jenkins_commandline_client/)
 
 Scraping
 --------
@@ -160,6 +161,7 @@ HTML Template
 * [Ginger: Jinja2-style HTML templates for Haskell](https://www.reddit.com/r/haskell/comments/5dfqtb/ginger_jinja2style_html_templates_for_haskell/)
 * [heterocephalus - Haskellとフロントエンドが仲良くできるテンプレートエンジン](http://qiita.com/arowM/items/b0259f1ca43ef3192d31)
 * [HaskellにおけるHTMLのテンプレートエンジンを調査する](http://sharply.hatenablog.com/entry/2016/11/09/224324)
+* [Haskell Formlets: Composable web form construction and validation](http://chrisdone.com/posts/haskell-formlets)
 
 ### Lucid
 * [chrisdone/lucid](https://github.com/chrisdone/lucid)
