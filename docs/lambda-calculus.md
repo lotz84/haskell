@@ -1,4 +1,3 @@
-##Lambda Calculus
 * [An informal introduction to Lambda Calculus.](https://medium.com/@Sudhagar/an-informal-introduction-to-lambda-calculus-51c637f35f7d#.vsy3u1aex)
 * [Alligator Eggs](http://www.jmuk.org/AlligatorEggs.html)
 * [Lambda Calculi with Types](http://ttic.uchicago.edu/~dreyer/course/papers/barendregt.pdf)
@@ -16,3 +15,4 @@
 * [The Parametric Lambda Calculus](http://link.springer.com/book/10.1007/978-3-662-10394-4)
 * [Understanding Plotkin's Call-By-Name, Call-By-Value and the λ-Calculus](http://languagengine.co/blog/plotkin-cbn-cbv/)
 * [Lambda Calculus - Computerphile - YouTube](https://www.youtube.com/watch?v=eis11j_iGMs)
+* [[1701.04240] About the efficient reduction of lambda terms](https://arxiv.org/abs/1701.04240)
