@@ -31,13 +31,6 @@
 * [Programming R at native speed using Haskell](http://www.tweag.io/blog/programming-r-at-native-speed-using-haskell)
 * [How to include R plots and diagrams in blog posts](http://www.corentindupont.info/blog/posts/Programming/2015-09-14-diagrams.html)
 
-## IHaskell
-* [iHaskellを試してみる](http://qiita.com/eielh/items/a35b3d51056c1031f4d0)
-* [Install IHaskell on Ubuntu 14.04 with Stack](http://remusao.github.io/install-ihaskell-on-ubuntu-1404-with-stack.html)
-* [IHaskell Online: Help Choose Demo Code Snippets!](http://www.reddit.com/r/haskell/comments/37uqqk/ihaskell_online_help_choose_demo_code_snippets/)
-* [Demo of IHaskell Notebook](http://begriffs.com/posts/2016-01-20-ihaskell-notebook.html)
-* [iHaskellを試してみる](http://qiita.com/eielh/items/a35b3d51056c1031f4d0)
-
 ## 自然言語処理
 * [Natural Language Processing for the Working Programmer](http://freecomputerbooks.com/books/nlpwp.pdf)
 * [edit-distance: Levenshtein and restricted Damerau-Levenshtein edit distances](http://hackage.haskell.org/package/edit-distance)
