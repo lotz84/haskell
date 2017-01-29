@@ -33,6 +33,7 @@
 ## GHCi
 * [ghciでマルチバイト文字をエスケープせず表示させる](http://qiita.com/aosho235/items/bdfa4a68b77b9fcc4a35)
 * [Haskell初心者が直面するghciで起こしがちなエラー4選とその対処法 - Qiita](http://qiita.com/tacke_jp/items/bb714f22eb8762d6e8ee)
+* [ghciでの関数定義 - Qiita](http://qiita.com/smellman/items/708be678df00d4f7529c)
 
 ## Cabal
 * [Hackage](http://hackage.haskell.org/)
