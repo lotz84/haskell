@@ -22,6 +22,12 @@ $ alias ghci='stack ghci --'
 ## Lint
 * [Haskellの静的解析ツール HLint を使おう](http://qiita.com/suzuki-hoge/items/6d101e523620178c6f7b)
 
+## IHaskell
+* [iHaskellを試してみる](http://qiita.com/eielh/items/a35b3d51056c1031f4d0)
+* [Install IHaskell on Ubuntu 14.04 with Stack](http://remusao.github.io/install-ihaskell-on-ubuntu-1404-with-stack.html)
+* [IHaskell Online: Help Choose Demo Code Snippets!](http://www.reddit.com/r/haskell/comments/37uqqk/ihaskell_online_help_choose_demo_code_snippets/)
+* [Demo of IHaskell Notebook](http://begriffs.com/posts/2016-01-20-ihaskell-notebook.html)
+
 ## Editor
 * [Which tab width do you prefer for Haskell code?](http://doodle.com/poll/82xf854t9mmuv22h)
 * [Explicit vertical alignment in Haskell](http://www.joachim-breitner.de/blog/704-Explicit_vertical_alignment_in_Haskell)
