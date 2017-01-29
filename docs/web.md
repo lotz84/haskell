@@ -486,6 +486,7 @@ Database
 * [The vault package](http://hackage.haskell.org/package/vault)
 * [riak: A Haskell client for the Riak decentralized data store](https://hackage.haskell.org/package/riak)
 * [linearray/mealstrom](https://github.com/linearray/mealstrom) - Store FSMs in PostgreSQL
+* [MSYS2でHDBC-sqlite3をコンパイル - 北海道苫小牧市出身の壮年PGが書くブログ](http://hiratara.hatenadiary.jp/entry/2017/01/29/110100)
 
 Simple Clients
 --------------
