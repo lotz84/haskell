@@ -76,6 +76,7 @@ $ alias ghci='stack ghci --'
 ### Visual Studio Code
 * [VS CodeでHaskellの簡単な環境を作る](http://azaika.hateblo.jp/entry/2015/12/19/151554)
 * [VisualStduioCodeでHaskell開発環境を整える](http://qiita.com/DUxCA/items/8e7a68ffee522bdd8918)
+* [Haskero - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Vans.haskero)
 
 ### Yi
 * [YiエディタでVimスタイルをベースに拡張設定する(1)](http://qiita.com/aiya000/items/376a2bed4ddd12433b31)

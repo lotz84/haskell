@@ -1,4 +1,5 @@
 # Type-Level Programming
+* [Kwang's Haskell Blog - Type-level insertion sort](http://kseo.github.io/posts/2017-01-30-type-level-insertion-sort.html)
 * [GHC.TypeLits](https://hackage.haskell.org/package/base/docs/GHC-TypeLits.html)
 * [Testing a type for (Eq a) in Haskell](http://stackoverflow.com/questions/28799005/testing-a-type-for-eq-a-in-haskell)
 * [Polymorphism within higher-order functions?](http://stackoverflow.com/questions/7061538/polymorphism-within-higher-order-functions)

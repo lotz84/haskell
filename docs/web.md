@@ -427,6 +427,8 @@ Protocol
 --------
 * [Representing an RPC API](http://petterbergman.se/api.html)
 * [Dropbox Hack Week: GraphQL Server in Haskell](https://chadaustin.me/2016/02/dropbox-hack-week-graphql-server-in-haskell/)
+* [Announcing graphql-api: Haskell library for GraphQL - jml :: Jonathan Lange](https://jml.io/2017/01/graphql-api.html)
+  * [graphql-api: Write type-safe GraphQL services in Haskell](http://hackage.haskell.org/package/graphql-api-0.1.1)
 * [msgpack/msgpack-haskell](https://github.com/msgpack/msgpack-haskell)
 * [GaloisInc/avro](https://github.com/GaloisInc/avro)
 * [spoqa/nirum](https://github.com/spoqa/nirum)

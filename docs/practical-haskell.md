@@ -136,6 +136,7 @@
 * [DockerfileをLintするにはhadolintが良さそう](http://blog.stormcat.io/entry/docker-hadolint)
 * [Windows 上で、 Docker を使って Haskell を簡単に始める方法](http://qiita.com/Sohma/items/cc7567fce647442958fd)
 * [beijaflor-io/haskell-language-dockerfile](https://github.com/beijaflor-io/haskell-language-dockerfile)
+* [Deni Bertovic :: Haskell and Docker: Down the rabbit hole and back](https://denibertovic.com/posts/haskell-and-docker-down-the-rabbit-hole-and-back/)
 
 ##CI
 * [Shake](http://shakebuild.com/)

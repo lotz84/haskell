@@ -44,6 +44,7 @@
 * [LambdaConf 2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcybh21_zOg8_y4f2oMKDHpUS)
 * [LambdaConf 2017 - Call for Proposals](https://www.surveymonkey.com/r/lambdaconf-2017-cfp)
 * [The Haskell Symposium](https://www.haskell.org/haskell-symposium/)
+  * [ACM SIGPLAN Haskell Symposium 2017](https://www.haskell.org/haskell-symposium/2017/index.html)
 * [ZuriHac 2016](https://www.youtube.com/playlist?list=PLSIUOFhnxEiCyRYbinK7Nv6ImUc4mzJGN)
 * [TNG Technology Consulting GmbH](https://www.youtube.com/channel/UCxaV-Pd-SZAgP-G1Mni47Hw)
 
