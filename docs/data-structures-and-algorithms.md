@@ -73,6 +73,7 @@
 * [Simple RNA folding in 130 lines of Haskell](http://michaeljflynn.net/2017/01/09/simple-rna-folding-in-130-lines-of-haskell/)
 * [How much space does an 8-bit integer occupy in C and Haskell?](https://ro-che.info/articles/2017-01-25-word8-space)
 * [Fixing the Fibonacci sequence inside Pascal's triangle in a couniverse - Siddhanathan Shanmugam](https://siddhanathan.github.io/blog/posts/2017-01-28-fibonacci-pascal.html)
+* [Abstract Nonsense](http://www.kovach.me/posts/2017-01-30-haskell-bits-randomness.html)
 
 ### ソート
 * [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)

@@ -458,6 +458,7 @@ Protocol
 * [[ANN] wstunnel: a websocket tunneling tool](https://www.reddit.com/r/haskell/comments/4znmah/ann_wstunnel_a_websocket_tunneling_tool/)
 * [The Hashrocket websocket shootout in Haskell](http://bitemyapp.com/posts/2016-09-03-websocket-shootout-haskell.html)
 * [05 Writing a secure WebSocket client](https://github.com/mitchellwrosen/slacky/wiki/05-Writing-a-secure-WebSocket-client)
+* [A lot of websockets in Haskell - We Are Wizards Blog](https://blog.wearewizards.io/a-lot-of-websockets-in-haskell)
 
 Database
 --------

@@ -27,7 +27,7 @@
 * [【Haskell】 言葉の定義まとめ（型クラス、型コンストラクタ、値コンストラクタ、型引数など） - takafumi blog](http://takafumi-s.hatenablog.com/entry/2015/09/25/123335)
 
 ###代数的データ型
-代数的データ型とは"足し算"と"掛け算"が出来るような型のこと。"足し算"と"掛け算"はそれぞれ**直和**, **直積**と呼ばれる。
+代数的データ型とは"足し算"と"掛け算"が出来るような型のこと。"足し算"と"掛け算"はそれぞれ**直和**, **直積** と呼ばれる。
 
 ```hs
 -- 直和
@@ -44,6 +44,7 @@ type a * b = (a, b)
 * [Algebraic Data Types Demystified](http://blog.haskellformac.com/blog/algebraic-data-types-demystified)
 * [Haskell Diary #2 - Algebra of Data Types](http://akashagrawal.me/haskell-diary-2-algebraic-data-types/)
 * [Overcoming Boolean blindness with Evidence](http://cs-syd.eu/posts/2016-07-24-overcoming-boolean-blindness-evidence.html)
+* [代数的データ型のデータのとりうる数を微分すると１穴空きデータ型の数になる話 - Qiita](http://qiita.com/mittyantest/items/f8783834e6bb48baf2c8)
 
 ###Codata
 * [Codata](http://types2004.lri.fr/SLIDES/altenkirch.pdf)

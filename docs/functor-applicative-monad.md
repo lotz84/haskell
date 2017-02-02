@@ -108,6 +108,8 @@ class Monad m where
 * [Loop School - F-Algebras Part1](http://school.looprecur.com/?video=122715366)
 * [Loop School - F-Algebras Part2](http://school.looprecur.com/?video=122716014)
 * [Loop School - F-Algebras Part3](http://school.looprecur.com/?video=122716071)
+* [モナドって何だろうか | その他ブログ](https://kiwamu.wordpress.com/2017/02/01/%e3%83%a2%e3%83%8a%e3%83%89%e3%81%a3%e3%81%a6%e4%bd%95%e3%81%a0%e3%82%8d%e3%81%86%e3%81%8b/)
+* [06 Automatically escaping Monads - YouTube](https://www.youtube.com/watch?v=wG8AErq6Bbo#t=356.5936)
 * [DefaultSignaturesを用いたMonadの理想的な定義](http://qiita.com/tanakh/items/27b1c08b9f03d6836c13)
 * [Three Useful Monads](http://adit.io/posts/2013-06-10-three-useful-monads.html)
 * [Comprehending Monad](http://www.diku.dk/hjemmesider/ansatte/henglein/papers/wadler1992.pdf)
