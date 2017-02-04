@@ -12,7 +12,7 @@
   * [Raft - Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/)
 * [stratumn](http://stratumn.com/)
 * [chainscript](http://chainscript.io/)
-* [input-output-hk/pos-haskell-prototype](https://github.com/input-output-hk/pos-haskell-prototype)
+* [input-output-hk/cardano-sl: A cryptographic currency](https://github.com/input-output-hk/cardano-sl)
 
 ## Bitcoin
 * [What is Bitcoin? (v2)](https://www.youtube.com/watch?v=Gc2en3nHxA4)
