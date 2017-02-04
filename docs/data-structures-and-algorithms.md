@@ -95,6 +95,7 @@
 * [有理数とか有限体とかのはなし](http://qiita.com/bra_cat_ket/items/689a76a7c3d8b9db42d1)
 * [Realtime collaborative editor. Algebraic properties of the problem.](http://blog.haskell-exists.com/yuras/posts/realtime-collaborative-editor.html)
 * [Algebraic blindness](https://github.com/quchen/articles/blob/master/algebraic-blindness.md)
+* [Haskellで「ひらけ！ポンキッキ」 (文字列の回転) - Qiita](http://qiita.com/nobsun/items/0f453affdcdd45f2982a)
 
 ### Serialization
 * [The binary package](https://hackage.haskell.org/package/binary)
