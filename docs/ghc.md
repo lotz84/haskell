@@ -120,6 +120,7 @@
 * [Kwang's Haskell Blog - Fun with hint](http://kseo.github.io//posts/2017-01-19-fun-with-hint.html)
 * [GHC has begun to accept Pull Requests on Github : haskell](https://www.reddit.com/r/haskell/comments/5pumm3/ghc_has_begun_to_accept_pull_requests_on_github/)
 * [Haskell、OCaml、RacketでGCのレイテンシを測る | コンピュータサイエンス | POSTD](http://postd.cc/measuring-gc-latencies-in-haskell-ocaml-racket/)
+* [GHC Speed – Gipeda](https://perf.haskell.org/ghc/#revision/8d5cf8bf584fd4849917c29d82dcf46ee75dd035)
 
 ### 最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
