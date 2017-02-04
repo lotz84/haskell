@@ -122,8 +122,9 @@
 * [NixOSでHaskellな環境](http://qiita.com/nznktst/items/a6ad1fceb92d31604dd1)
 * [Episode 2 - Nix Simple Types](https://www.youtube.com/watch?v=l8-wIPANCU0&feature=youtu.be)
 * [Gabriel439/haskell-nix: Nix and Haskell in production](https://github.com/Gabriel439/haskell-nix)
+* [jyp/styx: A nix-based Haskell project manager](https://github.com/jyp/styx)
 
-##Docker
+## Docker
 * [Dockerfile Linter](http://hadolint.lukasmartinelli.ch/)
 * [How I deploy Haskell Code](http://www.alfredodinapoli.com/posts/2015-11-03-how-i-deploy-haskell-code.html)
 * [Docker Hosting – Run Docker Containers in any Cloud - Tutum](https://www.tutum.co/)
