@@ -265,6 +265,7 @@ p_ :: Term arg result => arg -> result
 * [Typed type-level programming in Haskell, part I: functional dependencies](https://byorgey.wordpress.com/2010/06/29/typed-type-level-programming-in-haskell-part-i-functional-dependencies/)
 
 ###Type Families
+* [GHC/Type families - HaskellWiki](https://wiki.haskell.org/GHC/Type_families)
 * [What are type families?](https://typesandkinds.wordpress.com/2015/09/09/what-are-type-families/)
 * [24 Days of GHC Extensions: Type Families](https://ocharles.org.uk/blog/posts/2014-12-12-type-families.html)
 * [Fun with type functions](http://research.microsoft.com/en-us/um/people/simonpj/papers/assoc-types/fun-with-type-funs/typefun.pdf)
