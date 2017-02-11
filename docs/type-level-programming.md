@@ -281,6 +281,7 @@ p_ :: Term arg result => arg -> result
 * [Type Families with Class, Type Classes with Family](http://www.diku.dk/~paba/pubs/entries/serrano15haskell.html)
 * [Type Families and Pokemon.](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/type-families-and-pokemon)
 * [Kwang's Haskell Blog - Type-level functions using closed type families](https://kseo.github.io/posts/2017-01-16-type-level-functions-using-closed-type-families.html)
+* [HaskellのType Families](http://cdepillabout.github.io/haskell-type-families-presentation/index-ja.html#/)
 
 ```haskell
 -- https://www.youtube.com/watch?v=snOBI8PcbMQ
