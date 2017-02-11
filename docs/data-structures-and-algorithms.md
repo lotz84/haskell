@@ -74,6 +74,7 @@
 * [How much space does an 8-bit integer occupy in C and Haskell?](https://ro-che.info/articles/2017-01-25-word8-space)
 * [Fixing the Fibonacci sequence inside Pascal's triangle in a couniverse - Siddhanathan Shanmugam](https://siddhanathan.github.io/blog/posts/2017-01-28-fibonacci-pascal.html)
 * [Abstract Nonsense](http://www.kovach.me/posts/2017-01-30-haskell-bits-randomness.html)
+* [zstd: Haskell bindings to the Zstandard compression algorithm](http://hackage.haskell.org/package/zstd)
 
 ### ソート
 * [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
