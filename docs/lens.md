@@ -33,12 +33,13 @@
 * [The lens-simple package](http://hackage.haskell.org/package/lens-simple)
 * [Profunctor Polymorphism](https://bartoszmilewski.com/2016/08/16/profunctor-polymorphism/)
 * [Lenses: Yoneda with Adjunctions](https://bartoszmilewski.com/2016/09/06/lenses-yoneda-with-adjunctions/)
+* [$(lens 'foo) -- handy one-off lens maker for record fields](https://gist.github.com/chrisdone/c50e2ffc9e71a38d4fed9813fa90bbf4)
 
 > Thus the Yoneda embedding of the functor category leads to the van Laarhoven representation of the lens
 
 出典: [From Lenses to Yoneda Embedding](http://bartoszmilewski.com/2015/07/13/from-lenses-to-yoneda-embedding/)
 
-###Comonad
+### Comonad
 * [comonad](https://hackage.haskell.org/package/comonad)
 * [Comonads are objects](http://www.haskellforall.com/2013/02/you-could-have-invented-comonads.html)
 * [A whirlwind tour of comonads](http://dlaing.org/cofun/posts/comonads.html)
