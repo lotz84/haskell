@@ -122,3 +122,4 @@ Passed:
 * [The validation package](http://hackage.haskell.org/package/validation)
 * [HaskellのData.Either.Validationを使う](http://qiita.com/suzuki-hoge/items/5178acebb020bc8a519b)
 * [safe-prelude: a thought experiment - Michael Snoyman's blog](http://www.snoyman.com/blog/2017/01/safe-prelude-a-thought-experiment)
+* [MonadMask vs MonadBracket :: FP Complete](https://www.fpcomplete.com/blog/2017/02/monadmask-vs-monadbracket)
