@@ -121,8 +121,6 @@
 * [GHC has begun to accept Pull Requests on Github : haskell](https://www.reddit.com/r/haskell/comments/5pumm3/ghc_has_begun_to_accept_pull_requests_on_github/)
 * [Haskell、OCaml、RacketでGCのレイテンシを測る | コンピュータサイエンス | POSTD](http://postd.cc/measuring-gc-latencies-in-haskell-ocaml-racket/)
 * [GHC Speed – Gipeda](https://perf.haskell.org/ghc/#revision/8d5cf8bf584fd4849917c29d82dcf46ee75dd035)
-
-### 最適化
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
 * [Thinking About Performance](http://chadaustin.me/2015/04/thinking-about-performance/)
 * [Time and allocation profiling in Haskell](http://marcjuch.li/blog/2015/05/19/time-allocation-profiling-in-haskell/)
@@ -146,6 +144,7 @@
 * [Rewrite Rulesについて軽く](http://qiita.com/ruicc/items/4c33fe2501fa956cd9a5)
 * [Hash-consingのためのinternパッケージ](http://qiita.com/masahiro_sakai/items/f4269f86b0e12b44426b)
 * [Bootstrapping Haskell: part 1](https://elephly.net/posts/2017-01-09-bootstrapping-haskell-part-1.html)
+* [How to integrate GHC API programs with Cabal : Inside 214-1E](http://blog.ezyang.com/2017/02/how-to-integrate-ghc-api-programs-with-cabal/)
 
 ###7.10
 * [Functor-Applicative-Monad Proposal](https://wiki.haskell.org/Functor-Applicative-Monad_Proposal)
