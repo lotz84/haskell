@@ -8,6 +8,7 @@
 * [Haskellがトップ20に迫る、11月TIOBE言語人気ランキング](http://news.mynavi.jp/news/2016/11/14/082/)
 * [Mastering Time-to-Market with Haskell](https://www.fpcomplete.com/blog/2016/11/mastering-time-to-market-haskell)
 * [theInitialCommit - Edward Kmett](https://theinitialcommit.com/2017/01/10/edward-kmett/)
+* [What Programming Languages Are Used Most on Weekends? – Stack Overflow Blog – A destination for all things related to development at Stack Overflow](http://stackoverflow.blog/2017/02/What-Programming-Languages-Weekends/)
 
 ## コミュニティ
 * [Haskell Communities and Activities Report](https://wiki.haskell.org/Haskell_Communities_and_Activities_Report)
