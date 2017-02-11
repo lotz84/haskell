@@ -170,6 +170,8 @@ instance Monad Dist where
 * [DeepLearning(1): まずは順伝播(上)](http://qiita.com/eijian/items/06b1ba1276d1bfd77b93)
 * [DeepLearning(2): まずは順伝播(下)](http://qiita.com/eijian/items/24d7e6aee332d59509ec)
 * [DeepLearning(3): そして逆伝播（でも全結合層まで）](http://qiita.com/eijian/items/bfbdd3f7862ec84ce8c9)
+* [DeepLearning(4): CNNの逆伝播完成？ - Qiita](http://qiita.com/eijian/items/c947fb6b5e7a49858fb4)
+* [DeepLearning(5): スペースリーク解消! - Qiita](http://qiita.com/eijian/items/255294f3b33a87754c1d)
 * [FRP & RNN](http://imgur.com/a/mWseu)
 * [autumnai/leaf](https://github.com/autumnai/leaf)
 * ["Haskell's stochastic gradient descent implementations comparison.](https://github.com/argent0/haskell-ml-benchmark/blob/master/result/main.md)
