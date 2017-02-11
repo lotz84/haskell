@@ -16,3 +16,4 @@
 * [Understanding Plotkin's Call-By-Name, Call-By-Value and the λ-Calculus](http://languagengine.co/blog/plotkin-cbn-cbv/)
 * [Lambda Calculus - Computerphile - YouTube](https://www.youtube.com/watch?v=eis11j_iGMs)
 * [[1701.04240] About the efficient reduction of lambda terms](https://arxiv.org/abs/1701.04240)
+* [Arithmetical theorems with Lambda Calculus](http://shhaumb.github.io/arithmetical-theorems-with-lambda-calculus/)
