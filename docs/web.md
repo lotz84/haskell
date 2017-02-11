@@ -50,6 +50,7 @@ Client
   * [#3](http://blog.chaps.io/2015/11/24/torrent-client-in-haskell-3)
 * [HaskellでTwitterにpostする](http://yunomu.hatenablog.jp/entry/2012/05/13/210629)
 * [HaskellからSlackにさくっとPOSTする](http://blog.euphonictech.com/entry/2016/05/08/225740)
+* [HaskellでSlack bot (RTM API) - Qiita](http://qiita.com/kentahama/items/261c9c86d02161680933)
 * [Writing a haskell client for a third party API](http://blog.byteally.com/posts/2016-04-21-Writing-a-haskell-client-for-a-third-party-API.html)
 * A minimal web-browser written and configured in Haskell - [k0ral/hbro](https://github.com/k0ral/hbro)
 * [The dns package](https://hackage.haskell.org/package/dns)
