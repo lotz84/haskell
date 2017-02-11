@@ -278,3 +278,4 @@ main = do
 * [Just do it: Simple monadic equational reasoning](http://www.cs.ox.ac.uk/publications/publication4877-abstract.html)
 * [How to prove large software projects correct](http://www.techcast.com/events/bigtechday8/maffei-1450/?q=maffei-1450)
 * [An exercise in equational reasoning](http://myhaskelljournal.com/an-exercise-in-equational-reasoning/)
+* [Why prove programs equivalent when your compiler can do that for you? – Blog – Joachim Breitner's Homepage](http://www.joachim-breitner.de/blog/717-Why_prove_programs_equivalent_when_your_compiler_can_do_that_for_you_)
