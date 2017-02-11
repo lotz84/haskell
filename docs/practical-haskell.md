@@ -274,3 +274,4 @@
 * [Automatically export Haskell modules](http://taylor.fausak.me/2016/12/30/automatically-export-haskell-modules/)
 * [rgleichman/glance - A visual Haskell](https://github.com/rgleichman/glance)
 * [erebe/greenclip](https://github.com/erebe/greenclip)
+* [Haskell on Bash/WSL – Windows Command Line Tools For Developers](https://blogs.msdn.microsoft.com/commandline/2017/02/09/haskell-on-bashwsl/)
