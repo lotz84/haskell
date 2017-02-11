@@ -50,6 +50,7 @@
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
 * [The Design and Use of QuickCheck](https://begriffs.com/posts/2017-01-14-design-use-quickcheck.html)
 * [QuickCheck and Magic of Testing :: FP Complete](https://www.fpcomplete.com/blog/2017/01/quickcheck)
+* [Code your own QuickCheck (HOF) – Deque](https://deque.blog/2017/02/06/code-your-own-quickcheck-hof/)
 
 ```haskell
 import Data.List
