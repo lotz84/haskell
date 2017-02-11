@@ -161,6 +161,7 @@ class Monad m where
 * [Predicate Monads: A Framework for Proving Generic Properties of Monadic Programs via Rewriting - POPL 2017](http://popl17.sigplan.org/event/main-predicate-monads-a-framework-for-proving-generic-properties-of-monadic-programs-via-rewriting)
 * [The Monad Fear - LINE Haskell Boot Camp](https://e.xtendo.org/monad#1)
 * [安安的異想世界 - Monads in Category Theory for Laymen](http://andyshiue.github.io/functional/programming/2017/02/06/monad.html)
+* [Abstract Nonsense](http://www.kovach.me/posts/2017-02-03-haskell-bits-application-beginnings.html)
 
 ```haskell
 do x <- mx
