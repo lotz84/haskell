@@ -210,3 +210,4 @@
 * [Monad of no return Proposal (MRP)](https://www.reddit.com/r/haskell/comments/3mb8lb/monad_of_no_return_proposal_mrp/)
 * [Left-Associative Semigroup Operator Alias](https://ghc.haskell.org/trac/ghc/wiki/Proposal/LeftAssocSemigroupOp)
 * [ghc-proposals/0000-overloaded-application.rst at overloadedapplication · cdsmith/ghc-proposals](https://github.com/cdsmith/ghc-proposals/blob/overloadedapplication/proposals/0000-overloaded-application.rst)
+* [ghc-proposals/0000-or-patterns.rst at or_patterns · osa1/ghc-proposals](https://github.com/osa1/ghc-proposals/blob/or_patterns/proposals/0000-or-patterns.rst)
