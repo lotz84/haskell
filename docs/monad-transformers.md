@@ -38,6 +38,7 @@
 * [IO (Maybe a)というタイトルでモナド変換子について学んだことを話した - #LT駆動](http://blog.eiel.info/blog/2016/07/03/ltdd-27-io-maybe/)
 * [IO (Maybe String)を触ってみる](http://qiita.com/eielh/items/2f0f774914431990ec37)
 * [Clean Alternatives with MaybeT](http://www.parsonsmatt.org/2016/11/18/clean_alternatives_with_maybet.html)
+* [John A De Goes: MTL Versus Free Deathmatch - λC 2016 - YouTube](https://www.youtube.com/watch?v=JLevNswzYh8)
 
 mtlにはMonad Transformerを新しく定義する度に全ての組み合わせの実装を定義する必要があるという問題点がある。
 
