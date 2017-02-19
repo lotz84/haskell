@@ -148,6 +148,11 @@
 * [How to integrate GHC API programs with Cabal : Inside 214-1E](http://blog.ezyang.com/2017/02/how-to-integrate-ghc-api-programs-with-cabal/)
 * [CPP – Haskell – Aelve Guide](https://guide.aelve.com/haskell/cpp-vww0qd72)
 
+```bash
+$ stack build --executable-profiling --library-profiling --ghc-options="-fprof-auto -rtsopts"
+```
+[haskell - Profiling builds with stack - Stack Overflow](http://stackoverflow.com/questions/32123475/profiling-builds-with-stack)
+
 ###7.10
 * [Functor-Applicative-Monad Proposal](https://wiki.haskell.org/Functor-Applicative-Monad_Proposal)
 * [New in GHC 7.10: Partial Type Signatures](https://www.fpcomplete.com/user/thomasw/new-in-ghc-7-10-partial-type-signatures)
