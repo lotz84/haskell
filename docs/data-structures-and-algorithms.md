@@ -75,6 +75,7 @@
 * [Fixing the Fibonacci sequence inside Pascal's triangle in a couniverse - Siddhanathan Shanmugam](https://siddhanathan.github.io/blog/posts/2017-01-28-fibonacci-pascal.html)
 * [Abstract Nonsense](http://www.kovach.me/posts/2017-01-30-haskell-bits-randomness.html)
 * [zstd: Haskell bindings to the Zstandard compression algorithm](http://hackage.haskell.org/package/zstd)
+* [Haskell 順列・組み合わせ - Qiita](http://qiita.com/aosho235/items/65fba14703471947bb53)
 
 ### ソート
 * [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
@@ -152,6 +153,7 @@
 * [Advent of code #16 solution: an algebra of bitstrings | blog :: Brent -> [String]](https://byorgey.wordpress.com/2017/01/27/advent-of-code-16-solution-an-algebra-of-bitstrings/)
 
 ### リスト
+* [Haskell Data.Listのリスト操作関数（サンプル付き） - Qiita](http://qiita.com/aosho235/items/94787fe0901141598c91)
 * [Haskellで無限個の無限リストをソートされた形で結合する](http://itchyny.hatenablog.com/entry/2016/01/17/120000)
 * [Haskellで直角三角形のタプルをつくる](http://qiita.com/toshikin/items/e54142d828162e16a246)
 * [リストの中から重複する項目の数をカウントする](http://qiita.com/mather314/items/dbae21e2fcde2ea74669)

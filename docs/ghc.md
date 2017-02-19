@@ -12,6 +12,7 @@
 * [これから Haskell を書くにあたって](https://speakerdeck.com/func_hs/korekara-haskell-woshu-kuniatatute)
 * [Haskell GHC開発に関する情報源いろいろ](http://qiita.com/takenobu-hs/items/0752931f2472c0705af0)
 * [Contributing to GHC](https://ghc.haskell.org/trac/ghc/blog/ContributingToGhc)
+* [GHC Documentation](http://ghcguide.haskell.jp/)
 * [GHC Speed](https://perf.haskell.org/ghc/#)
 * [Glasgow Haskell Compiler Users Guide](http://downloads.haskell.org/~ghc/master/users-guide/)
 * [GHCのこと](http://www.kotha.net/hperf/ghc.html)
@@ -145,6 +146,7 @@
 * [Hash-consingのためのinternパッケージ](http://qiita.com/masahiro_sakai/items/f4269f86b0e12b44426b)
 * [Bootstrapping Haskell: part 1](https://elephly.net/posts/2017-01-09-bootstrapping-haskell-part-1.html)
 * [How to integrate GHC API programs with Cabal : Inside 214-1E](http://blog.ezyang.com/2017/02/how-to-integrate-ghc-api-programs-with-cabal/)
+* [CPP – Haskell – Aelve Guide](https://guide.aelve.com/haskell/cpp-vww0qd72)
 
 ###7.10
 * [Functor-Applicative-Monad Proposal](https://wiki.haskell.org/Functor-Applicative-Monad_Proposal)

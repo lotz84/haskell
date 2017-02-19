@@ -46,6 +46,7 @@ $ alias ghci='stack ghci --'
 * [（失敗）Neovimに移行しつつHaskellの開発環境を整える on Windows](http://qiita.com/igrep/items/a65a10677fe69226c78d)
 * [alx741/vim-yesod](https://github.com/alx741/vim-yesod)
 * [Vim + Haskell](http://www.sillybytes.net/2016/08/vim-haskell_11.html)
+* [Neovim のプラグインを Haskell で書いてみる - Qiita](http://qiita.com/satosystems/items/da37a583facacc8b597e)
 
 ### Emacs
 * [haskell/haskell-mode](https://github.com/haskell/haskell-mode)
@@ -77,6 +78,7 @@ $ alias ghci='stack ghci --'
 * [VS CodeでHaskellの簡単な環境を作る](http://azaika.hateblo.jp/entry/2015/12/19/151554)
 * [VisualStduioCodeでHaskell開発環境を整える](http://qiita.com/DUxCA/items/8e7a68ffee522bdd8918)
 * [Haskero - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Vans.haskero)
+* [Introducing Haskelly – Haskell extension for Visual Studio Code – Microsoft Faculty Connection](https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/02/13/introducing-haskelly-extension-for-visual-studio-code/)
 
 ### Yi
 * [YiエディタでVimスタイルをベースに拡張設定する(1)](http://qiita.com/aiya000/items/376a2bed4ddd12433b31)

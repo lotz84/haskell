@@ -98,6 +98,7 @@
 * [stackでのライブラリ(library)と実行(executable)ファイルの違い](http://qiita.com/dxa0010/items/5d37497cddbcd5c823a1)
 * [一部パッケージimportでstack buildできない - Qiita](http://qiita.com/katsuyan/items/0a3cf2a86727ffec0913)
 * [Stackage design choices: making Haskell curated package sets - Michael Snoyman's blog](http://www.snoyman.com/blog/2017/01/stackage-design-choices)
+* [Hackage Security and Stack - Michael Snoyman's blog](http://www.snoyman.com/blog/2017/02/hackage-security-stack)
 
 ### 逆引き
 * [Ubuntu 16 で Stack + GHC がライブラリのリンクに失敗する場合の対処法](http://qiita.com/mr_konn/items/13caa82c1118968d3145)
@@ -138,6 +139,7 @@
 * [Windows 上で、 Docker を使って Haskell を簡単に始める方法](http://qiita.com/Sohma/items/cc7567fce647442958fd)
 * [beijaflor-io/haskell-language-dockerfile](https://github.com/beijaflor-io/haskell-language-dockerfile)
 * [Deni Bertovic :: Haskell and Docker: Down the rabbit hole and back](https://denibertovic.com/posts/haskell-and-docker-down-the-rabbit-hole-and-back/)
+* [Immutability, Docker, and Haskell's ST type](https://www.fpcomplete.com/blog/2017/02/immutability-docker-haskells-st-type)
 
 ##CI
 * [Shake](http://shakebuild.com/)
@@ -190,6 +192,7 @@
 * [typelead/eta](https://github.com/typelead/eta)
 * [A Servlet-based Web application with the Frege programming language](http://earldouglas.com/articles/frege-web.html)
 * [A new ecosystem for Haskell: the JVM](http://blog.tweag.io/posts/2016-10-17-inline-java.html)
+* [Functional Geekery Episode 83 – Rahul MuttineniFunctional Geekery | Functional Geekery](https://www.functionalgeekery.com/episode-83-rahul-muttineni/)
 
 ### Frege
 * [すごい Frege たのしく学ぼう！](http://www.slideshare.net/y_taka_23/frege)

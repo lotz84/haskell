@@ -51,6 +51,9 @@
 * [The Design and Use of QuickCheck](https://begriffs.com/posts/2017-01-14-design-use-quickcheck.html)
 * [QuickCheck and Magic of Testing :: FP Complete](https://www.fpcomplete.com/blog/2017/01/quickcheck)
 * [Code your own QuickCheck (HOF) – Deque](https://deque.blog/2017/02/06/code-your-own-quickcheck-hof/)
+* [QuickCheck is fun, deal with it – Deque](https://deque.blog/2017/02/17/quickcheck-is-fun-deal-with-it/)
+* [Code your own QuickCheck (Shrink) – Deque](https://deque.blog/2017/02/10/code-your-own-quickcheck-shrink/)
+* [QuickCheck experiments on a DSL – Deque](https://deque.blog/2017/02/14/quickcheck-in-action/)
 
 ```haskell
 import Data.List
@@ -124,3 +127,4 @@ Passed:
 * [HaskellのData.Either.Validationを使う](http://qiita.com/suzuki-hoge/items/5178acebb020bc8a519b)
 * [safe-prelude: a thought experiment - Michael Snoyman's blog](http://www.snoyman.com/blog/2017/01/safe-prelude-a-thought-experiment)
 * [MonadMask vs MonadBracket :: FP Complete](https://www.fpcomplete.com/blog/2017/02/monadmask-vs-monadbracket)
+* [Better Exception Messages - Michael Snoyman's blog](http://www.snoyman.com/blog/2017/02/better-exception-messages)

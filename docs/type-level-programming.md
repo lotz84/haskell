@@ -79,6 +79,7 @@
 * [Type Isomorphism](https://kseo.github.io//posts/2016-12-25-type-isomorphism.html)
 * [F-algebras or: How I Learned to Stop Worrying and Love the Type System](https://www.youtube.com/watch?v=PK4SOaAGVfg)
 * [HaskellのRank2Typesがだいぶわかるやつ - Qiita](http://qiita.com/aiya000/items/2d05df630635f345f607)
+* [TypeApplicationsとAllowAmbiguousTypes - Qiita](http://qiita.com/ruicc/items/3da7572e8234a7708bef)
 
 ```haskell
 data Bottom
@@ -138,7 +139,7 @@ circum (Circle _ _ r) = …
 
 <https://www.reddit.com/r/haskell/comments/2jsz4t/function_on_a_single_member_of_a_sum_type/clevra9>
 
-###Type Inference
+### Type Inference
 * [Introduction to Type Inference](https://www.youtube.com/watch?v=il3gD7XMdmA)
 * [第 16 章 Hindley/Milner 型推論](http://www29.atwiki.jp/tmiya/pages/78.html)
 * [An Explanation of Type Inference for ML/Haskell](http://jozefg.bitbucket.org/posts/2015-02-28-type-inference.html)

@@ -25,6 +25,7 @@
 * [haskell-kalman-filter/Main.hs](https://github.com/akawashiro/haskell-kalman-filter/blob/master/Main.hs)
 * [Tweag.io](http://www.tweag.io/)
 * [Decision Trees Are Free Monads Over the Reader Functor](http://clathomasprime.github.io/hask/freeDecision)
+* [tdigest: On-line accumulation of rank-based statistics](https://hackage.haskell.org/package/tdigest)
 
 ## HaskellR
 * [HaskellR](http://tweag.github.io/HaskellR/)
@@ -98,6 +99,8 @@ instance Monad Dist where
 * [BAli-Phy](http://www.bali-phy.org/)
 * [確率とモナドと確率論的プログラミング](http://qiita.com/lotz/items/7c7df718d1a596cac920)
 * [[1701.03757] Deep Probabilistic Programming](https://arxiv.org/abs/1701.03757)
+* [Foundations of the Giry Monad · jtobin.io](https://jtobin.io/giry-monad-foundations)
+* [Implementing the Giry Monad · jtobin.io](https://jtobin.io/giry-monad-implementation)
 
 ### Hakaru
 * [Hakaru](http://hakaru-dev.github.io/)
@@ -183,6 +186,7 @@ instance Monad Dist where
 * [Neural networks in Haskell (Lynn)](https://twitter.com/mcarberg/status/664750004742000640)
 * [Haskellでニューラルネットワーク](http://imokuri123.com/blog/2015/07/neural-network-in-haskell.html)
 * [ニューラルネットワーク、多様体、トポロジー](http://qiita.com/KojiOhki/items/af2241027b00f892d2bd)
+* [Practical Dependent Types in Haskell: Type-Safe Neural Networks (Part 1) · in Code](https://blog.jle.im/entry/practical-dependent-types-in-haskell-1.html)
 
 ## クラウド
 * [Google Cloud Platform - CLOUD MACHINE LEARNING サービス](https://cloud.google.com/products/machine-learning/)

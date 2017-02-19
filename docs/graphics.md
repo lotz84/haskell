@@ -25,6 +25,8 @@
 * [SVG2 Mesh Gradient rendering in Haskell](https://twinside.github.io/coon_rendering.html)
 * [AlexanderKoshkarov/spectralHaskellRepa](https://github.com/AlexanderKoshkarov/spectralHaskellRepa) - Galerkin spectral method with Haskell+Repa
 * [GRAKN.AI and Haskell](https://blog.grakn.ai/grakn-ai-and-haskell-c166c7cc1d23#.r8ormi4ky)
+* [thorlucas/Sandpiles: Haskell implementation of the Abelian sandpile model.](https://github.com/thorlucas/Sandpiles)
+* [hip - Haskell Image Processing library : haskell](https://www.reddit.com/r/haskell/comments/5tivy2/hip_haskell_image_processing_library/)
 
 ## 画像処理
 * [friday: A functional image processing library for Haskell.](https://hackage.haskell.org/package/friday)

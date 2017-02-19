@@ -162,6 +162,7 @@ class Monad m where
 * [The Monad Fear - LINE Haskell Boot Camp](https://e.xtendo.org/monad#1)
 * [安安的異想世界 - Monads in Category Theory for Laymen](http://andyshiue.github.io/functional/programming/2017/02/06/monad.html)
 * [Abstract Nonsense](http://www.kovach.me/posts/2017-02-03-haskell-bits-application-beginnings.html)
+* [わーい、すごーい、モナドがたくさんあるねー！ - Qiita](http://qiita.com/goldarn_ring/items/c4cebdb277e25c0a9d98)
 
 ```haskell
 do x <- mx

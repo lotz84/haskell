@@ -491,6 +491,7 @@ Database
 * [riak: A Haskell client for the Riak decentralized data store](https://hackage.haskell.org/package/riak)
 * [linearray/mealstrom](https://github.com/linearray/mealstrom) - Store FSMs in PostgreSQL
 * [MSYS2でHDBC-sqlite3をコンパイル - 北海道苫小牧市出身の壮年PGが書くブログ](http://hiratara.hatenadiary.jp/entry/2017/01/29/110100)
+* [Haskell Bits #3: Connecting to Databases](http://www.kovach.me/posts/2017-02-08-connecting-to-databases.html)
 
 Simple Clients
 --------------
@@ -587,3 +588,4 @@ Others
 * TLS/SSL implementation in haskell - [vincenthz/hs-tls](https://github.com/vincenthz/hs-tls)
 * [vincenthz/hs-connection](https://github.com/vincenthz/hs-connection)
 * [fizruk/http-api-data](https://github.com/fizruk/http-api-data)
+* [Welcome to marvin’s documentation! — marvin 0.1.5-β documentation](https://marvin.readthedocs.io/en/latest/)
