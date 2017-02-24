@@ -57,6 +57,7 @@
 * [Indexed Codata Types](http://www.cs.mcgill.ca/~bpientka/papers/indexed_codata.pdf)
 * [Church’s Thesis and Functional Programming](https://www.cs.kent.ac.uk/people/staff/dat/miranda/ctfp.pdf)
 * [The reflection package](https://hackage.haskell.org/package/reflection)
+* [Lost in Technopolis - A case of reflection](http://newartisans.com/2017/02/a-case-of-reflection/)
 * [Data.Reflection](http://qiita.com/hiratara/items/c5e32d5695c4e0682cf9)
 * [sheyll/pretty-types](https://github.com/sheyll/pretty-types)
 * [This post shows how to use the Liar paradox to prove that that Haskell is inconsistent without using recursive terms.](http://cs.unm.edu/~stelleg/liar.html)

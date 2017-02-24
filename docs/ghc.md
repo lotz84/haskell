@@ -149,6 +149,7 @@
 * [CPP – Haskell – Aelve Guide](https://guide.aelve.com/haskell/cpp-vww0qd72)
 * [Haskell GHCをソースからビルドする手順 - Qiita](http://qiita.com/takenobu-hs/items/c1309b93ca17b87e5955)
 * [Haskell GHCのソースコードレビューを見ることができます - Qiita](http://qiita.com/takenobu-hs/items/420322935eded33b9e08)
+* [Haskell GHCへの機能提案とその議論を見ることができます - Qiita](http://qiita.com/takenobu-hs/items/ebb6ac1f0f9a6fd9df3f)
 
 ```bash
 $ stack build --executable-profiling --library-profiling --ghc-options="-fprof-auto -rtsopts"
