@@ -86,6 +86,10 @@ $ alias ghci='stack ghci --'
 * [Yiと7時間ずっと向き合い続けた僕が出したYiの設定方法](http://qiita.com/aiya000/items/5627f938e215fad156d3)
 * [Yiエディタでtagsを読み込む](http://qiita.com/aiya000/items/01f03a203cbc702aff80)
 
+### IntelliJ
+* [IntelliJでHaskell](http://qiita.com/eielh/items/f121fbd2def8c887405f)
+* [IntelliJ (with Stack) as Haskell IDE - YouTube](https://www.youtube.com/watch?v=KXd8mV7Vzhc)
+
 ###Others
 * [Leksah](http://leksah.org/)
 * [EclipseFP](http://eclipsefp.github.io/)
@@ -95,7 +99,6 @@ $ alias ghci='stack ghci --'
 * [Haskell IDE Engine progress report for December 2015.](https://github.com/haskell/haskell-ide-engine/blob/master/docs/Report-2015-12.md)
 * [wandernauta/viskell](https://github.com/wandernauta/viskell)
 * [ndmitchell/ghcid](https://github.com/ndmitchell/ghcid)
-* [IntelliJでHaskell](http://qiita.com/eielh/items/f121fbd2def8c887405f)
 * [Project Proposal](http://stefanj.me/funblocks/2016/05/23/project-proposal/)
 * [Hello World](http://stefanj.me/funblocks/2016/05/24/hello-world/)
 * [Another Web-based Haskell IDE](http://jpmoresmau.blogspot.jp/2016/07/another-web-based-haskell-ide.html)

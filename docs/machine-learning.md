@@ -12,6 +12,7 @@
 * [HuwCampbell/grenade](https://github.com/HuwCampbell/grenade)
 * [Get a Brain](http://www-cs-students.stanford.edu/~blynn//haskell/brain.html)
 * [Frames: Data frames For working with tabular data files](http://hackage.haskell.org/package/Frames)
+* [[ANN] colonnade : haskell](https://www.reddit.com/r/haskell/comments/5vga82/ann_colonnade/)
 * [Fast Nearest Neighbor Queries in Haskell](https://izbicki.me/blog/fast-nearest-neighbor-queries-in-haskell.html)
 * [Example: The K-Means Problem](http://chimera.labs.oreilly.com/books/1230000000929/ch03.html#sec_using-parlist)
 * [Exploratory Haskell](http://www.parsonsmatt.org/2015/12/09/exploratory_haskell.html)
@@ -58,6 +59,7 @@
 * [laughedelic/sparse-lin-alg](https://github.com/laughedelic/sparse-lin-alg)
 * [Haskellの行列計算ライブラリの計算時間を比較](http://qiita.com/pupuu/items/b59f4dae96327876e887)
 * [Haskellで行列式を計算する](http://zodi-g12.hatenablog.com/entry/2016/12/21/165703)
+* [Effective Array Computation in Haskell – The theam journey – Medium](https://medium.com/the-theam-journey/effective-array-computation-in-haskell-11e5c334c68a#.vrgo3zbdr)
 
 ## 確率
 * [プログラミングのための確率統計 in Haskell](http://note.golden-lucky.net/2010/12/1-2-3-4-5-6-16-16-16-16-16-16-246-135.html)
@@ -136,6 +138,7 @@ instance Monad Dist where
 * [線形論理入門 ∼ What’s the USE? ∼](http://www.kurims.kyoto-u.ac.jp/~terui/summer1.pdf)
 * [線形論理の誕生](http://www.kurims.kyoto-u.ac.jp/~terui/birth.pdf)
 * [15-816 Linear Logic](http://www.cs.cmu.edu/~./fp/courses/15816-f01/index.html)
+* [LinearTypes – GHC](https://ghc.haskell.org/trac/ghc/wiki/LinearTypes)
 * [Linear resources in Haskell](http://axman6.com/posts/2016-07-10-Linear-resources-in-haskell.html)
 * [Linearity, Uniqueness, and Haskell](http://edsko.net/2017/01/08/linearity-in-haskell/)
 * [Oleg's gists - Linear thoughts](http://oleg.fi/gists/posts/2017-01-17-linear-thoughts.html)

@@ -17,6 +17,7 @@
 出典: [Q. （関数型）リアクティブプログラミングとは何ですか？](http://postd.cc/what-is-functional-reactive-programming/)
 
 * 比較: [gelisam/frp-zoo](https://github.com/gelisam/frp-zoo)
+* [Haskell Exists: FRP for free](https://haskellexists.blogspot.jp/2016/01/frp-for-free.html)
 * [FRPの話](http://maoe.hatenadiary.jp/entry/2012/12/24/011414)
 * [【翻訳】あなたが求めていたリアクティブプログラミング入門](http://ninjinkun.hatenablog.com/entry/introrxja)
 * [やさしいFunctional reactive programming（概要編）](http://maoe.hatenadiary.jp/entry/20100109/1263059731)

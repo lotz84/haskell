@@ -147,6 +147,8 @@
 * [Bootstrapping Haskell: part 1](https://elephly.net/posts/2017-01-09-bootstrapping-haskell-part-1.html)
 * [How to integrate GHC API programs with Cabal : Inside 214-1E](http://blog.ezyang.com/2017/02/how-to-integrate-ghc-api-programs-with-cabal/)
 * [CPP – Haskell – Aelve Guide](https://guide.aelve.com/haskell/cpp-vww0qd72)
+* [Haskell GHCをソースからビルドする手順 - Qiita](http://qiita.com/takenobu-hs/items/c1309b93ca17b87e5955)
+* [Haskell GHCのソースコードレビューを見ることができます - Qiita](http://qiita.com/takenobu-hs/items/420322935eded33b9e08)
 
 ```bash
 $ stack build --executable-profiling --library-profiling --ghc-options="-fprof-auto -rtsopts"

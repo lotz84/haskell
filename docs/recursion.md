@@ -33,6 +33,7 @@ main = print (sum [1..10])
 * [Foldable.mapM_, Maybe, and recursive functions](http://www.snoyman.com/blog/2017/01/foldable-mapm-maybe-and-recursive-functions)
 * [Follow up on mapM_ - Michael Snoyman's blog](http://www.snoyman.com/blog/2017/01/follow-up-mapm)
 * [haskell - Is there any way to inline a recursive function? - Stack Overflow](https://stackoverflow.com/questions/42179783/is-there-any-way-to-inline-a-recursive-function)
+* [余再帰あれこれ](https://gist.github.com/uduki/4030269)
 
 ## map, filter, foldr
 

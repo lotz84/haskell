@@ -80,6 +80,7 @@
 * [F-algebras or: How I Learned to Stop Worrying and Love the Type System](https://www.youtube.com/watch?v=PK4SOaAGVfg)
 * [HaskellのRank2Typesがだいぶわかるやつ - Qiita](http://qiita.com/aiya000/items/2d05df630635f345f607)
 * [TypeApplicationsとAllowAmbiguousTypes - Qiita](http://qiita.com/ruicc/items/3da7572e8234a7708bef)
+* [Code Podcast - Episode 5. Type Systems](http://codepodcast.com/s0e5.html)
 
 ```haskell
 data Bottom

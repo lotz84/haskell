@@ -32,6 +32,9 @@ std dev              47.69 μs   (40.09 μs .. 57.91 μs)
 variance introduced by outliers: 81% (severely inflated)
 ```
 
+### braces-be-gone
+* [ollef/braces-be-gone: Get those pesky braces out of your face](https://github.com/ollef/braces-be-gone)
+
 ### broch
 * A Haskell implementation of OpenID Connect.
 * <https://github.com/tekul/broch>

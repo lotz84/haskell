@@ -367,6 +367,7 @@ Web Application Framework
 * [Servant に Experimental モジュールとして追加された認証の仕組み](http://krdlab.hatenablog.com/entry/2017/01/09/164705)
 * [Kwang's Haskell Blog - Natural transformations in Servant](https://kseo.github.io//posts/2017-01-18-natural-transformations-in-servant.html)
 * [Kwang's Haskell Blog - How Servant's type-safe links work](https://kseo.github.io//posts/2017-01-20-how-servant%27s-type-safe-links-work.html)
+* [servant-pushbullet-client: Bindings to the Pushbullet API using servant-client](https://hackage.haskell.org/package/servant-pushbullet-client-0.1.0.0)
 
 ### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
@@ -423,6 +424,7 @@ Web Application Framework
 * [YesodのHandler関数からJSONを返す方法](http://qiita.com/jabaraster/items/0c16060f8307bf76ea48)
 * [Yesodのテストを読み解く](http://qiita.com/jabaraster/items/6cfb39776cbac9cfd3e0)
 * [Yesod でパンくずリストを作る](http://qiita.com/waddlaw/items/95eee551d196d55bf90d)
+* [Yahoo! JapanのOpenID Connectをyesodで試す - Qiita](http://qiita.com/YoshikuniJujo/items/eef917c00db5156aaa83)
 
 Protocol
 --------
@@ -559,6 +561,7 @@ Heroku
 * [Popularizing Haskell through easy web deployment](http://begriffs.com/posts/2013-12-06-popularizing-haskell-through-easy-web.html)
 * [Pair programming with Haskell and Digital Ocean](http://begriffs.com/posts/2014-06-09-pair-programming-with-haskell-and.html)
 * [Making a Haskell (Scotty) web app and putting it on Heroku](http://qiita.com/kimagure/items/5947e2db40b9ec2226bf)
+* [Haskell, Redis, Mailgun and Heroku Scheduler - Ecky Putrady](http://eckyputrady.com/2017/02/18/Haskell-Heroku-Mailgun-Redis/)
 
 ### Haskell on Heroku
 * [Haskell on Heroku](https://haskellonheroku.com/)

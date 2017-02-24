@@ -163,6 +163,10 @@ class Monad m where
 * [安安的異想世界 - Monads in Category Theory for Laymen](http://andyshiue.github.io/functional/programming/2017/02/06/monad.html)
 * [Abstract Nonsense](http://www.kovach.me/posts/2017-02-03-haskell-bits-application-beginnings.html)
 * [わーい、すごーい、モナドがたくさんあるねー！ - Qiita](http://qiita.com/goldarn_ring/items/c4cebdb277e25c0a9d98)
+* [Haskell Exists: Ten example uses of Monads](http://haskellexists.blogspot.jp/2017/02/ten-example-uses-of-monads.html)
+* [basvandijk/monad-batcher: An applicative monad that batches commands for later more efficient execution](https://github.com/basvandijk/monad-batcher)
+* [kvanberendonck/monad-chrono: A strict state monad with a notion of time travel.](https://github.com/kvanberendonck/monad-chrono)
+* [2017 02 08 - Ben Lippmeier - An overview of the DDC compiler - YouTube](https://www.youtube.com/watch?v=QShfhs7nToI)
 
 ```haskell
 do x <- mx
