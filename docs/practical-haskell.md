@@ -279,3 +279,4 @@
 * [erebe/greenclip](https://github.com/erebe/greenclip)
 * [Haskell on Bash/WSL – Windows Command Line Tools For Developers](https://blogs.msdn.microsoft.com/commandline/2017/02/09/haskell-on-bashwsl/)
 * [Type driven configuration management with Propellor - YouTube](https://www.youtube.com/watch?v=kzXXcr8TyJY)
+* [The typed-process library](https://www.fpcomplete.com/blog/2017/02/typed-process)
