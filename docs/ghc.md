@@ -4,14 +4,11 @@
 * [dan-t/cabal-bounds](https://github.com/dan-t/cabal-bounds)
 * [A series about optimization](https://www.reddit.com/r/haskell/comments/3urjm3/a_series_about_optimization/)
 * [On sufficiently smart compilers](http://osa1.net/posts/2015-08-09-sufficiently-smart-compiler.html)
-* [Linux で動く極小 ELF 実行ファイルをつくる怒涛のチュートリアル (あるいは "Size Is Everything")](http://www.hyuki.com/yukiwiki/wiki.cgi?WhirlwindTutorialOnCreatingReallyTeensyElfExecutablesForLinux)
 * [Haskellの父Simon PJ氏、GHCの内部実装について日本のHaskellerと激論を交わす](http://itpro.nikkeibp.co.jp/atcl/news/16/092002726/)
 
 ## GHC
 * [GHC](https://wiki.haskell.org/GHC)
 * [これから Haskell を書くにあたって](https://speakerdeck.com/func_hs/korekara-haskell-woshu-kuniatatute)
-* [Haskell GHC開発に関する情報源いろいろ](http://qiita.com/takenobu-hs/items/0752931f2472c0705af0)
-* [Contributing to GHC](https://ghc.haskell.org/trac/ghc/blog/ContributingToGhc)
 * [GHC Documentation](http://ghcguide.haskell.jp/)
 * [GHC Speed](https://perf.haskell.org/ghc/#)
 * [Glasgow Haskell Compiler Users Guide](http://downloads.haskell.org/~ghc/master/users-guide/)
@@ -147,14 +144,19 @@
 * [Bootstrapping Haskell: part 1](https://elephly.net/posts/2017-01-09-bootstrapping-haskell-part-1.html)
 * [How to integrate GHC API programs with Cabal : Inside 214-1E](http://blog.ezyang.com/2017/02/how-to-integrate-ghc-api-programs-with-cabal/)
 * [CPP – Haskell – Aelve Guide](https://guide.aelve.com/haskell/cpp-vww0qd72)
-* [Haskell GHCをソースからビルドする手順 - Qiita](http://qiita.com/takenobu-hs/items/c1309b93ca17b87e5955)
-* [Haskell GHCのソースコードレビューを見ることができます - Qiita](http://qiita.com/takenobu-hs/items/420322935eded33b9e08)
-* [Haskell GHCへの機能提案とその議論を見ることができます - Qiita](http://qiita.com/takenobu-hs/items/ebb6ac1f0f9a6fd9df3f)
 
 ```bash
 $ stack build --executable-profiling --library-profiling --ghc-options="-fprof-auto -rtsopts"
 ```
 [haskell - Profiling builds with stack - Stack Overflow](http://stackoverflow.com/questions/32123475/profiling-builds-with-stack)
+
+### 開発
+* [Contributing to GHC](https://ghc.haskell.org/trac/ghc/blog/ContributingToGhc)
+* [Haskell GHC開発に関する情報源いろいろ](http://qiita.com/takenobu-hs/items/0752931f2472c0705af0)
+* [Haskell GHCをソースからビルドする手順 - Qiita](http://qiita.com/takenobu-hs/items/c1309b93ca17b87e5955)
+* [Haskell GHCのソースコードレビューを見ることができます - Qiita](http://qiita.com/takenobu-hs/items/420322935eded33b9e08)
+* [Haskell GHCへの機能提案とその議論を見ることができます - Qiita](http://qiita.com/takenobu-hs/items/ebb6ac1f0f9a6fd9df3f)
+* [Haskell GHCに、GithubでPull Requestを送ることができます - Qiita](http://qiita.com/takenobu-hs/items/4fcbac4de41cd9b8d4c3)
 
 ###7.10
 * [Functor-Applicative-Monad Proposal](https://wiki.haskell.org/Functor-Applicative-Monad_Proposal)
