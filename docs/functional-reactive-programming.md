@@ -1,8 +1,11 @@
-* [Reactive とは何か？ #reactive_shinjuku](https://speakerdeck.com/okapies/reactive-tohahe-ka-number-reactive-shinjuku)
-* [リアクティブ宣言](http://www.reactivemanifesto.org/ja)
-* [Reactive Streams](http://www.reactive-streams.org/)
+* [Functional Reactive Animation](http://conal.net/papers/icfp97/)
 
-#FRP
+## リアクティブプログラミング
+* [リアクティブ宣言](http://www.reactivemanifesto.org/ja)
+* [Reactive とは何か？ #reactive_shinjuku](https://speakerdeck.com/okapies/reactive-tohahe-ka-number-reactive-shinjuku)
+* [【翻訳】あなたが求めていたリアクティブプログラミング入門](http://ninjinkun.hatenablog.com/entry/introrxja)
+
+## FRPとは何か
 
 > Functional reactive programming (FRP) is a declarative approach to GUI design. The term declarative makes a distinction between the “what” and the “how” of programming. A declarative language allows you to say what is displayed, without having to specify exactly how the computer should do it.
 
@@ -16,10 +19,8 @@
 
 出典: [Q. （関数型）リアクティブプログラミングとは何ですか？](http://postd.cc/what-is-functional-reactive-programming/)
 
-* 比較: [gelisam/frp-zoo](https://github.com/gelisam/frp-zoo)
-* [Haskell Exists: FRP for free](https://haskellexists.blogspot.jp/2016/01/frp-for-free.html)
-* [FRPの話](http://maoe.hatenadiary.jp/entry/2012/12/24/011414)
-* [【翻訳】あなたが求めていたリアクティブプログラミング入門](http://ninjinkun.hatenablog.com/entry/introrxja)
+* [FRPの話](http://maoe.hatenadiary.jp/entry/2012/12/24/011414) - FRPの歴史の話
+* [関数リアクティブプログラミングの実践](http://www.kotha.net/misc/fpm2012/frptalk.html)
 * [やさしいFunctional reactive programming（概要編）](http://maoe.hatenadiary.jp/entry/20100109/1263059731)
 * [Introduction to FRP - Why Applicative Functors?](http://apfelmus.nfshost.com/blog/2011/05/06-frp-why-functors.html)
 * <http://maoe.hatenadiary.jp/entry/20100116/1263661213>
@@ -29,27 +30,21 @@
 * [The Essense of FRP](http://begriffs.com/posts/2015-07-22-essence-of-frp.html)
 * [varying](http://hackage.haskell.org/package/varying)
 * ["Controlling Time and Space: understanding the many formulations of FRP" by Evan Czaplicki](https://www.youtube.com/watch?v=Agu6jipKfYw)
-* [euphoria](https://hackage.haskell.org/package/euphoria)
 * [Reactive Design Patterns](http://manning.com/kuhn/)
 * [eamsden/dom-gnats](https://github.com/eamsden/dom-gnats)
 * [Yampy Cube by Konstantin Zudov at Helsinki FRP Meetup May 6, 2015](https://www.youtube.com/watch?v=T7XwTolu9YI)
-* [FRP for free](http://haskellexists.blogspot.de/2016/01/frp-for-free.html)
 * [Functional Reactive Programming from First Principles](http://haskell.cs.yale.edu/?post_type=publication&p=200)
 * [Part One - Infrastructure](http://zyghost.com/series/odin/part-one/)
 * [Fixing a space leak by copying thunks.](http://haskellexists.blogspot.de/2016/01/fixing-space-leak-by-copying-thunks.html)
 * [Functional Reactive Programming](http://bobkonf.de/2016/apfelmus.html)
-* [FRPNowをサーバで使ってみた](http://qiita.com/asukamirai/items/d23c34a71d72d077e39d)
 * [A Sensible Intro to FRP](https://begriffs.com/posts/2016-07-27-tikhon-on-frp.html)
 * [Uniqhash Machines Implementation Using MealyM](http://sordina.github.io/blog/2016/11/06/1478354235-uniqhash_machines_implementation.html)
 * [FRP - Events & Behaviour, Part 1 - David Laing - BFPG 2016-09](https://www.youtube.com/watch?v=GXW1jBijhlk)
 
-##Reflex
-* [Ryan Trinkle - Reflex: Practical Functional Reactive Programming](https://www.youtube.com/watch?v=dOy7zIk3IUI)
-* 🎥 [Reflex: Practical Functional Reactive Programming](https://www.youtube.com/watch?v=mYvkcskJbc4)
-  * [part2](https://www.youtube.com/watch?v=3qfc9XFVo2c)
-* [関西関数型道場 - 第参回 S1 「Reflexの紹介」](https://www.youtube.com/watch?v=G24P2kR8O_w)
-* [reinh/reflex-dom-stack-demo](https://github.com/reinh/reflex-dom-stack-demo)
-* [On Reflex - Boston Haskell - Greg Hale](https://www.youtube.com/watch?v=MfXxuy_CJSk)
+### ライブラリ
+* 比較: [gelisam/frp-zoo](https://github.com/gelisam/frp-zoo)
+* [euphoria](https://hackage.haskell.org/package/euphoria)
+* [pipes-concurrency-1.0.0: Reactive programming](http://www.haskellforall.com/2013/04/pipes-concurrency-100-reactive.html)
 
 ##Reactive Banana
 * **Deprecated** - [The sodium package](http://hackage.haskell.org/package/sodium)
@@ -63,3 +58,15 @@
 * [3 02 Practical Principled FRP](https://www.youtube.com/watch?v=WajfYdqCeAM)
 * [Announce: FRPNow-0.12](https://www.reddit.com/r/haskell/comments/3ddn1b/announce_frpnow012/)
 * [FRPNowでFizzBuzzなど](http://qiita.com/as_capabl/items/ae7cca3343731d303b49)
+* [FRPNowをサーバで使ってみた](http://qiita.com/asukamirai/items/d23c34a71d72d077e39d)
+
+##Reflex
+* [Ryan Trinkle - Reflex: Practical Functional Reactive Programming](https://www.youtube.com/watch?v=dOy7zIk3IUI)
+* 🎥 [Reflex: Practical Functional Reactive Programming](https://www.youtube.com/watch?v=mYvkcskJbc4)
+  * [part2](https://www.youtube.com/watch?v=3qfc9XFVo2c)
+* [関西関数型道場 - 第参回 S1 「Reflexの紹介」](https://www.youtube.com/watch?v=G24P2kR8O_w)
+* [reinh/reflex-dom-stack-demo](https://github.com/reinh/reflex-dom-stack-demo)
+* [On Reflex - Boston Haskell - Greg Hale](https://www.youtube.com/watch?v=MfXxuy_CJSk)
+
+### 線形時相論理
+* [Haskell Exists: FRP for free](https://haskellexists.blogspot.jp/2016/01/frp-for-free.html)
