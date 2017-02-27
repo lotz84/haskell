@@ -99,6 +99,7 @@
 * [一部パッケージimportでstack buildできない - Qiita](http://qiita.com/katsuyan/items/0a3cf2a86727ffec0913)
 * [Stackage design choices: making Haskell curated package sets - Michael Snoyman's blog](http://www.snoyman.com/blog/2017/01/stackage-design-choices)
 * [Hackage Security and Stack - Michael Snoyman's blog](http://www.snoyman.com/blog/2017/02/hackage-security-stack)
+* [Casual Hacking With stack, Reloaded - The Life Monadic](http://duplode.github.io/posts/casual-hacking-with-stack-reloaded.html)
 
 ### 逆引き
 * [Ubuntu 16 で Stack + GHC がライブラリのリンクに失敗する場合の対処法](http://qiita.com/mr_konn/items/13caa82c1118968d3145)
