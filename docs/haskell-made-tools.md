@@ -157,6 +157,9 @@ $ hidenticon --hash 3238947aafb9293801decf1230329 --size 128 -o 3238947aafb92938
 * <http://hledger.org/>
 * [ledger/ledger4](https://github.com/ledger/ledger4) - A rewrite of Ledger's core mathematical concepts in Haskell
 
+### hmemo
+* [mbid/hmemo: Spaced repetition of flash cards on the command line](https://github.com/mbid/hmemo)
+
 ### hobbes
 * ファイルの変更を検知してくれるコマンド。Lunux, OS X, Windows対応
 * <https://github.com/jhickner/hobbes>
