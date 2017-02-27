@@ -103,6 +103,7 @@ instance Monad Dist where
 * [[1701.03757] Deep Probabilistic Programming](https://arxiv.org/abs/1701.03757)
 * [Foundations of the Giry Monad · jtobin.io](https://jtobin.io/giry-monad-foundations)
 * [Implementing the Giry Monad · jtobin.io](https://jtobin.io/giry-monad-implementation)
+* [The Applicative Structure of the Giry Monad · jtobin.io](https://jtobin.io/giry-monad-applicative)
 
 ### Hakaru
 * [Hakaru](http://hakaru-dev.github.io/)
