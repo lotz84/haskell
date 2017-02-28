@@ -31,31 +31,30 @@
 * [Yampy Cube by Konstantin Zudov at Helsinki FRP Meetup May 6, 2015](https://www.youtube.com/watch?v=T7XwTolu9YI)
 * [Functional Reactive Programming from First Principles](http://haskell.cs.yale.edu/?post_type=publication&p=200)
 * [Part One - Infrastructure](http://zyghost.com/series/odin/part-one/)
-* [Fixing a space leak by copying thunks.](http://haskellexists.blogspot.de/2016/01/fixing-space-leak-by-copying-thunks.html)
 * [Functional Reactive Programming](http://bobkonf.de/2016/apfelmus.html)
 * [A Sensible Intro to FRP](https://begriffs.com/posts/2016-07-27-tikhon-on-frp.html)
 * [FRP - Events & Behaviour, Part 1 - David Laing - BFPG 2016-09](https://www.youtube.com/watch?v=GXW1jBijhlk)
 
-### ライブラリ
+## ライブラリ
 * 比較: [gelisam/frp-zoo](https://github.com/gelisam/frp-zoo)
 * [euphoria](https://hackage.haskell.org/package/euphoria)
 * [pipes-concurrency-1.0.0: Reactive programming](http://www.haskellforall.com/2013/04/pipes-concurrency-100-reactive.html)
 
-##Reactive Banana
+### Reactive Banana
 * **Deprecated** - [The sodium package](http://hackage.haskell.org/package/sodium)
   * [Deprecating the Haskell version of Sodium for Reactive Banana](http://blog.reactiveprogramming.org/?p=258)
 * [reactive-banana](https://hackage.haskell.org/package/reactive-banana)
 * [FRP - Dynamic event switching in reactive-banana-0.7](http://apfelmus.nfshost.com/blog/2012/09/03-frp-dynamic-event-switching-0-7.html)
 * [FRP explanation using reactive-banana](https://wiki.haskell.org/FRP_explanation_using_reactive-banana)
 
-##FRPNow
+### FRPNow
 * [Practical Principled FRP](http://www.cse.chalmers.se/~atze/papers/prprfrp.pdf)
 * [3 02 Practical Principled FRP](https://www.youtube.com/watch?v=WajfYdqCeAM)
 * [Announce: FRPNow-0.12](https://www.reddit.com/r/haskell/comments/3ddn1b/announce_frpnow012/)
 * [FRPNowでFizzBuzzなど](http://qiita.com/as_capabl/items/ae7cca3343731d303b49)
 * [FRPNowをサーバで使ってみた](http://qiita.com/asukamirai/items/d23c34a71d72d077e39d)
 
-##Reflex
+### Reflex
 * [Ryan Trinkle - Reflex: Practical Functional Reactive Programming](https://www.youtube.com/watch?v=dOy7zIk3IUI)
 * 🎥 [Reflex: Practical Functional Reactive Programming](https://www.youtube.com/watch?v=mYvkcskJbc4)
   * [part2](https://www.youtube.com/watch?v=3qfc9XFVo2c)
@@ -63,5 +62,6 @@
 * [reinh/reflex-dom-stack-demo](https://github.com/reinh/reflex-dom-stack-demo)
 * [On Reflex - Boston Haskell - Greg Hale](https://www.youtube.com/watch?v=MfXxuy_CJSk)
 
-### 線形時相論理
+## 線形時相論理
 * [Haskell Exists: FRP for free](https://haskellexists.blogspot.jp/2016/01/frp-for-free.html)
+  * [Fixing a space leak by copying thunks.](http://haskellexists.blogspot.de/2016/01/fixing-space-leak-by-copying-thunks.html)
