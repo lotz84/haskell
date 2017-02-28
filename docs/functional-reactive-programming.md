@@ -21,24 +21,19 @@
 
 * [FRPの話](http://maoe.hatenadiary.jp/entry/2012/12/24/011414) - FRPの歴史の話
 * [関数リアクティブプログラミングの実践](http://www.kotha.net/misc/fpm2012/frptalk.html)
-* [やさしいFunctional reactive programming（概要編）](http://maoe.hatenadiary.jp/entry/20100109/1263059731)
 * [Introduction to FRP - Why Applicative Functors?](http://apfelmus.nfshost.com/blog/2011/05/06-frp-why-functors.html)
-* <http://maoe.hatenadiary.jp/entry/20100116/1263661213>
-* <http://maoe.hatenadiary.jp/entry/20100123/1264225964>
+* [やさしいFunctional reactive programming（概要編）](http://maoe.hatenadiary.jp/entry/20100109/1263059731)
+* [やさしいFunctional reactive programming（Event編） - maoeのブログ](http://maoe.hatenadiary.jp/entry/20100116/1263661213)
+* [やさしいFunctional reactive programming（Behavior編） - maoeのブログ](http://maoe.hatenadiary.jp/entry/20100123/1264225964)
 * [A Survey of Functional Reactive Programming](http://www.cs.rit.edu/~eca7215/frp-independent-study/Survey.pdf)
 * [FRP - A Short Primer by Gergely Patai at Helsinki FRP Meetup April 1, 2015](https://www.youtube.com/watch?v=_BICQhz6tkM&feature=youtu.be&list=PL3FxNVzVB9HJXCXlEDi3-mzx_Lw_pP11j)
 * [The Essense of FRP](http://begriffs.com/posts/2015-07-22-essence-of-frp.html)
-* [varying](http://hackage.haskell.org/package/varying)
-* ["Controlling Time and Space: understanding the many formulations of FRP" by Evan Czaplicki](https://www.youtube.com/watch?v=Agu6jipKfYw)
-* [Reactive Design Patterns](http://manning.com/kuhn/)
-* [eamsden/dom-gnats](https://github.com/eamsden/dom-gnats)
 * [Yampy Cube by Konstantin Zudov at Helsinki FRP Meetup May 6, 2015](https://www.youtube.com/watch?v=T7XwTolu9YI)
 * [Functional Reactive Programming from First Principles](http://haskell.cs.yale.edu/?post_type=publication&p=200)
 * [Part One - Infrastructure](http://zyghost.com/series/odin/part-one/)
 * [Fixing a space leak by copying thunks.](http://haskellexists.blogspot.de/2016/01/fixing-space-leak-by-copying-thunks.html)
 * [Functional Reactive Programming](http://bobkonf.de/2016/apfelmus.html)
 * [A Sensible Intro to FRP](https://begriffs.com/posts/2016-07-27-tikhon-on-frp.html)
-* [Uniqhash Machines Implementation Using MealyM](http://sordina.github.io/blog/2016/11/06/1478354235-uniqhash_machines_implementation.html)
 * [FRP - Events & Behaviour, Part 1 - David Laing - BFPG 2016-09](https://www.youtube.com/watch?v=GXW1jBijhlk)
 
 ### ライブラリ
