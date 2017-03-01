@@ -41,6 +41,7 @@
 * [Hindley-Milner Inference](http://dev.stephendiehl.com/fun/006_hindley_milner.html)
 * [Hindley-Damas-Milner tutorial](https://github.com/quchen/articles/tree/master/hindley-milner#readme)
 * [Haskell for all: The Curry-Howard correspondence between programs and proofs](http://www.haskellforall.com/2017/02/the-curry-howard-correspondence-between.html)
+* [One Eilenberg Theorem to Rule Them All - YouTube](https://www.youtube.com/watch?v=S9ufH65NqCE)
 
 ##Martin-L¨of ’s Type Theory
 * 1972 - [An intuitionistic theory of types](https://github.com/michaelt/martin-lof/blob/master/pdfs/An-Intuitionistic-Theory-of-Types-1972.pdf)
