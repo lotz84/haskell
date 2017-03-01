@@ -3,6 +3,7 @@
 * [mikeizbicki/HLearn](https://github.com/mikeizbicki/HLearn/)
   * [Haskellの機械学習ライブラリHLearn](http://qiita.com/nebutalab/items/680203ff3d84cde7c8db)
 * [sarthakbagaria/has-sci](https://github.com/sarthakbagaria/has-sci)
+* [Gabriel Gonzales: Data science APIs in Haskell - λC Winter Retreat 2017 - YouTube](https://www.youtube.com/watch?v=pXjBcoe3M2s&feature=youtu.be)
 * [Working with data in Haskell](https://www.fpcomplete.com/blog/2016/09/data-haskell)
 * [bmsherman/haskell-matlab](https://github.com/bmsherman/haskell-matlab)
 * [QLearn: A Haskell library for iterative Q-learning.](http://poincare.github.io/QLearn/)
@@ -155,6 +156,7 @@ instance Monad Dist where
 * [A Type Theory for Probabilistic and Bayesian Reasoning](https://arxiv.org/abs/1511.09230)
 * [A Categorical Basis for Conditional Probability](http://www.cs.ru.nl/B.Jacobs/PAPERS/cat-prob-th.pdf)
 * [[1701.02547] A Convenient Category for Higher-Order Probability Theory](https://arxiv.org/abs/1701.02547)
+* [「確率変数」の正体は米田埋め込み - 檜山正幸のキマイラ飼育記](http://d.hatena.ne.jp/m-hiyama/20170228/1488276250)
 
 ## 自動微分
 * [ad](https://hackage.haskell.org/package/ad)
