@@ -33,6 +33,7 @@ $ alias ghci='stack ghci --'
 * [Explicit vertical alignment in Haskell](http://www.joachim-breitner.de/blog/704-Explicit_vertical_alignment_in_Haskell)
 * [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures
 * [[Haskell] [ANN] HyperHaskell -- the strongly hyped Haskell	interpreter](https://mail.haskell.org/pipermail/haskell/2016-October/025010.html)
+* [repl.it - Introducing Haskell](https://repl.it/site/blog/haskell)
 
 ### Vim
 * [begriffs/haskell-vim-now](https://github.com/begriffs/haskell-vim-now?hr=2)
