@@ -132,6 +132,7 @@ Haskell to JavaScript compiler
 * [GHCJS introduction – Concurrent Haskell in the browser](http://weblog.luite.com/wordpress/?p=14)
 * [skeleton ghc/ghcjs project using nix, stack, cabal, reflex-platform, intero](http://anderspapitto.com/posts/2016-11-12-skeleton-ghc-ghcjs-project.html)
 * [Functional Reactive Web Interfaces with GHCJS and sodium](http://weblog.luite.com/wordpress/)
+* [eamsden/dom-gnats: A binding to ghcjs-vdom for time-flies](https://github.com/eamsden/dom-gnats)
 
 ### Haste
 * [Haskell + Haste で Fourier 級数の可視化](http://qiita.com/lesguillemets/items/dbd928237be3e6a1221d)
