@@ -61,6 +61,7 @@
 * [関西関数型道場 - 第参回 S1 「Reflexの紹介」](https://www.youtube.com/watch?v=G24P2kR8O_w)
 * [reinh/reflex-dom-stack-demo](https://github.com/reinh/reflex-dom-stack-demo)
 * [On Reflex - Boston Haskell - Greg Hale](https://www.youtube.com/watch?v=MfXxuy_CJSk)
+* [2017 02 23 Niklas Hambüchen FRP browser programming with Reflex - YouTube](https://www.youtube.com/watch?v=dNGClNsnn24)
 
 ## 線形時相論理
 * [Haskell Exists: FRP for free](https://haskellexists.blogspot.jp/2016/01/frp-for-free.html)
