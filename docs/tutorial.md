@@ -103,6 +103,7 @@
 * [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
 * [Haskell Pitfalls](http://lorepub.com/post/2016-12-17-Haskell-Pitfalls)
 * [Introduction to Haskell Programming - Course](https://onlinecourses.nptel.ac.in/noc17_cs11/preview)
+* [The Joy of Haskell](https://joyofhaskell.com/)
 </details>
 
 ## Examples
