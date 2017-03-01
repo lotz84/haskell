@@ -69,6 +69,7 @@ main = do
 * [udp-conduit: Simple fire-and-forget conduit UDP wrappers](https://hackage.haskell.org/package/udp-conduit)
 * [ConduitベースのTCPサーバ・クライアント](http://qiita.com/yutasth/items/9e2040c9f2206360c85f)
 * [ConduitベースのTCPクライアント Ver 0.2](http://qiita.com/yutasth/items/53b6c57d872abe45d087)
+* [Uniqhash Machines Implementation Using MealyM ~ Bows and Arrows](http://sordina.github.io/blog/2016/11/06/1478354235-uniqhash_machines_implementation.html)
 
 > Conduits were created for the Yesod web framework. My understanding is that they were designed to be blazingly fast. Early versions of the library were highly stateful.
 >
