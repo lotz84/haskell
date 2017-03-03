@@ -84,14 +84,3 @@ SQL DSL
 * [haskell-relational-record-の調査.md](https://github.com/worksap-ate/demo/blob/master/haskell-relational-record-%E3%81%AE%E8%AA%BF%E6%9F%BB.md)
 * [Haskell-rerational-recordでDB操作するのが楽しすぎる件〜その１〜](http://tune.hateblo.jp/entry/2014/06/21/161745)
 * [relational-record を MySQL で使ってみた](http://qiita.com/lotz/items/3aa65852bf75f3538d11)
-
-Heroku
-------
-* [Deploying Haskell to Heroku using Docker](http://www.reddit.com/r/haskell/comments/35he88/deploying_haskell_to_heroku_using_docker/)
-* [Herokuで、Gititを起動する](http://qiita.com/rouge_pawn/items/4a5d5ee68590a002ce8d)
-* [Haskell + Yesodで作ったアプリをHerokuにデプロイする](http://qiita.com/etmnk/items/79f022cd6cb5fd2e8794)
-* [How to compile Haskell libraries for Heroku](http://begriffs.com/posts/2013-10-14-how-to-compile-haskell-libraries-for.html)
-* [Popularizing Haskell through easy web deployment](http://begriffs.com/posts/2013-12-06-popularizing-haskell-through-easy-web.html)
-* [Pair programming with Haskell and Digital Ocean](http://begriffs.com/posts/2014-06-09-pair-programming-with-haskell-and.html)
-* [Making a Haskell (Scotty) web app and putting it on Heroku](http://qiita.com/kimagure/items/5947e2db40b9ec2226bf)
-* [Haskell, Redis, Mailgun and Heroku Scheduler - Ecky Putrady](http://eckyputrady.com/2017/02/18/Haskell-Heroku-Mailgun-Redis/)
