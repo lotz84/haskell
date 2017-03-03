@@ -1,0 +1,97 @@
+* [Tutorial] [Building a Redis clone in Haskell](https://honza.ca/2015/09/building-a-redis-clone-in-haskell)
+* [Haxl - Haskellを使った暗黙的な並列データアクセス](http://www.infoq.com/jp/news/2014/06/haxl)
+* [Fun With Haxl (Part 1)](http://simonmar.github.io/posts/2015-10-20-Fun-With-Haxl-1.html)
+* [hasql](http://hackage.haskell.org/package/hasql)
+* [Building a Functional Relational Database](http://referaat.cs.utwente.nl/conference/15/paper/7281/building-a-functional-relational-database.pdf)
+* [Persistent](http://www.yesodweb.com/book/persistent)
+* [Safe concurrent MySQL access in Haskell](https://ro-che.info/articles/2015-04-17-safe-concurrent-mysql-haskell)
+* [Working with databases using Groundhog](https://www.fpcomplete.com/user/lykahb/groundhog)
+* [agentm/project-m36](https://github.com/agentm/project-m36)
+* [Etienne Laurin: A RethinkDB driver for Haskell (Heavybit meetup)](https://www.youtube.com/watch?v=Qvn8EQfgUCA)
+* [jtdaugherty/dbmigrations](https://github.com/jtdaugherty/dbmigrations)
+* [The groundhog package](http://hackage.haskell.org/package/groundhog)
+* [Creating sqlite tables with Groundhog's default settings](http://begriffs.com/posts/2013-08-31-creating-sqlite-tables-with-groundhogs.html)
+* [Haskellからmysqlを実行する](http://tsubaki.hatenablog.com/entry/20121020/1350734844)
+* [AtnNn/haskell-rethinkdb](https://github.com/AtnNn/haskell-rethinkdb)
+* [Introducing postgresql-transactional](https://blog.helium.com/introducing-postgresql-transactional-6f19afdf1b9d#.nf4wl0nxu)
+* [Fraxl - Better Concurrency and Caching for Free](https://www.youtube.com/watch?v=Fe3-N9mKuPA)
+* [ElvishJerricco/fraxl](https://github.com/ElvishJerricco/fraxl)
+* [tweag/sparkle](https://github.com/tweag/sparkle)
+* [PostgREST](https://github.com/lotz84/haskell/blob/master/docs/haskell-made-tools.md#postgrest)
+* [Real World Haskell - Cassandra Part 1 - Connecting to Cassandra](http://codygman.github.io/posts/2016-07-30-real-world-haskell-cassandra-pt-1-connecting.html)
+* [Arnaud Bailly-Life Beyond relational Database, Event sourcing in Haskell](https://vimeo.com/168197756)
+* [24 Days of Hackage: acid-state](https://ocharles.org.uk/blog/posts/2013-12-14-24-days-of-hackage-acid-state.html)
+* [The acid-state package](https://hackage.haskell.org/package/acid-state)
+* [The vault package](http://hackage.haskell.org/package/vault)
+* [riak: A Haskell client for the Riak decentralized data store](https://hackage.haskell.org/package/riak)
+* [linearray/mealstrom](https://github.com/linearray/mealstrom) - Store FSMs in PostgreSQL
+* [MSYS2でHDBC-sqlite3をコンパイル - 北海道苫小牧市出身の壮年PGが書くブログ](http://hiratara.hatenadiary.jp/entry/2017/01/29/110100)
+* [Haskell Bits #3: Connecting to Databases](http://www.kovach.me/posts/2017-02-08-connecting-to-databases.html)
+
+Simple Clients
+--------------
+* [The mysql-simple package](https://hackage.haskell.org/package/mysql-simple)
+* [winterland1989/mysql-haskell](https://github.com/winterland1989/mysql-haskell)
+* [The postgresql-simple package](https://hackage.haskell.org/package/postgresql-simple)
+  * [Haskell postgresql-simple examples, part 1](http://begriffs.com/posts/2013-09-10-haskell-postgresql-simple-examples-part.html)
+  * [Haskell postgresql-simple examples, part 2](http://begriffs.com/posts/2013-09-14-haskell-postgresql-simple-examples-part_13.html)
+  * [ANN: SQL validator for queries embedded in postgresql-simple's quasiquoters](https://www.reddit.com/r/haskell/comments/4o9cuj/ann_sql_validator_for_queries_embedded_in/)
+  * [jfischoff/postgresql-simple-opts](https://github.com/jfischoff/postgresql-simple-opts) - An optparse-applicative parser for postgresql-simple's connection options
+* [The sqlite-simple package](https://hackage.haskell.org/package/sqlite-simple)
+  * [caneroj1/sqlite-simple-errors](https://github.com/caneroj1/sqlite-simple-errors)
+* [The hedis package](https://hackage.haskell.org/package/hedis)
+* [The couch-simple package](https://hackage.haskell.org/package/couch-simple)
+* [mongodb-haskell/mongodb](https://github.com/mongodb-haskell/mongodb)
+* [The mongoDB package](http://hackage.haskell.org/package/mongoDB)
+* [influxdb](https://hackage.haskell.org/package/influxdb)
+* [the-real-blackh/cassandra-cql](https://github.com/the-real-blackh/cassandra-cql)
+* [wereHamster/rethinkdb-client-driver](https://github.com/wereHamster/rethinkdb-client-driver)
+* [Simple Haskell: using a sqlite3 database](http://blog.markwatson.com/2016/01/simple-haskell-using-sqlite3-database.html)
+* [Supporting separate read and write databases in persistent](http://www.yesodweb.com/blog/2016/04/split-db)
+
+HDBC
+----
+> HDBC provides an abstraction layer between Haskell programs and SQL relational databases.
+
+* [The HDBC package](https://hackage.haskell.org/package/HDBC)
+* [The HDBC-mysql package](https://hackage.haskell.org/package/HDBC-mysql)
+* [The HDBC-postgresql package](https://hackage.haskell.org/package/HDBC-postgresql)
+* [The HDBC-sqlite3 package](https://hackage.haskell.org/package/HDBC-sqlite3)
+* [The HDBC-odbc package](https://hackage.haskell.org/package/HDBC-odbc)
+* [The hdbc-aeson package](https://hackage.haskell.org/package/hdbc-aeson)
+* [The presto-hdbc package](https://hackage.haskell.org/package/presto-hdbc)
+* [Concurrent HDBC with resource-pool](https://gist.github.com/paul-r-ml/1430734/0cc2bf4b6a5397dd97b5a97eac10ddcf2b6224ad)
+* [Windows版stackでもHDBC-sqlite3をビルドする](http://qiita.com/igrep/items/d947ab871eb5b20b57e4)
+
+SQL DSL
+-----------
+* [Composable, Typesafe Query Building](https://htmlpreview.github.io/?https://github.com/khibino/haskell-relational-record/blob/master/doc/slide/PostgreSQL-Unconference-201512/Query.html)
+* [tomjaguarpaw/haskell-opaleye](https://github.com/tomjaguarpaw/haskell-opaleye)
+* [byteally/dbrecord-opaleye](https://github.com/byteally/dbrecord-opaleye)
+* [Opaleye’s sugar on top](http://ren.zone/articles/opaleye-sot)
+* [Typesafe SQL in Haskell - Ben Kolera - BFPG 2015-09](https://www.youtube.com/watch?v=A0oVn-GXOok)
+* [esqueleto](http://hackage.haskell.org/package/esqueleto)
+* [Extending Esqueleto for Type-Safe Postgresql Queries](http://blog.jenkster.com/2015/07/extending-esqueleto-for-type-safe-postgresql-queries.html)
+* [tathougies/beam](https://github.com/tathougies/beam)
+* [Finally, Safely-Extensible and Efficient Language-Integrated Query](http://okmij.org/ftp/meta-programming/quel.pdf)
+* [JakeWheat/hssqlppp](https://github.com/JakeWheat/hssqlppp)
+
+### Haskell Relational Record
+* [Haskell Relational Record](https://khibino.github.io/haskell-relational-record/)
+* [Haskell Relational Record をリリースしました](http://d.hatena.ne.jp/kazu-yamamoto/20141225/1419490692)
+* [Haskell Relational Record, 機能と構成](https://htmlpreview.github.io/?https://github.com/khibino/haskell-relational-record/blob/master/doc/slide/code-reading-201601/SourceTreeJ.html)
+* [Extending Query, Relational, Typeful, Composable](http://khibino.hatenadiary.jp/entry/20131219/1387423818)
+* [haskell-relational-record-の調査.md](https://github.com/worksap-ate/demo/blob/master/haskell-relational-record-%E3%81%AE%E8%AA%BF%E6%9F%BB.md)
+* [Haskell-rerational-recordでDB操作するのが楽しすぎる件〜その１〜](http://tune.hateblo.jp/entry/2014/06/21/161745)
+* [relational-record を MySQL で使ってみた](http://qiita.com/lotz/items/3aa65852bf75f3538d11)
+
+Heroku
+------
+* [Deploying Haskell to Heroku using Docker](http://www.reddit.com/r/haskell/comments/35he88/deploying_haskell_to_heroku_using_docker/)
+* [Herokuで、Gititを起動する](http://qiita.com/rouge_pawn/items/4a5d5ee68590a002ce8d)
+* [Haskell + Yesodで作ったアプリをHerokuにデプロイする](http://qiita.com/etmnk/items/79f022cd6cb5fd2e8794)
+* [How to compile Haskell libraries for Heroku](http://begriffs.com/posts/2013-10-14-how-to-compile-haskell-libraries-for.html)
+* [Popularizing Haskell through easy web deployment](http://begriffs.com/posts/2013-12-06-popularizing-haskell-through-easy-web.html)
+* [Pair programming with Haskell and Digital Ocean](http://begriffs.com/posts/2014-06-09-pair-programming-with-haskell-and.html)
+* [Making a Haskell (Scotty) web app and putting it on Heroku](http://qiita.com/kimagure/items/5947e2db40b9ec2226bf)
+* [Haskell, Redis, Mailgun and Heroku Scheduler - Ecky Putrady](http://eckyputrady.com/2017/02/18/Haskell-Heroku-Mailgun-Redis/)
