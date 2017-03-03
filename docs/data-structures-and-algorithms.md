@@ -179,6 +179,7 @@
 * [vector-algorithms: Efficient algorithms for vector arrays](http://hackage.haskell.org/package/vector-algorithms)
 * [24 days of Hackage, 2015: day 18: vector, vector-algorithms: unleash your inner C programmer!](http://conscientiousprogrammer.com/blog/2015/12/18/24-days-of-hackage-2015-day-18-vector-vector-algorithms-unleash-your-inner-c-programmer/)
 * [The Theory of patches-vector](http://liamoc.net/posts/2015-11-10-patch-theory.html)
+* [Research Papers of Manuel Chakravarty](http://www.cse.unsw.edu.au/~chak/papers/CMCK17.html)
 
 ### 木
 * [Haskell Tutorial: Implementing highly efficient data structures with Monoids and Fingertrees](https://www.codementor.io/haskell/tutorial/monoids-fingertrees-implement-abstract-data)

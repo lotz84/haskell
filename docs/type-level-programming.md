@@ -82,6 +82,8 @@
 * [HaskellのRank2Typesがだいぶわかるやつ - Qiita](http://qiita.com/aiya000/items/2d05df630635f345f607)
 * [TypeApplicationsとAllowAmbiguousTypes - Qiita](http://qiita.com/ruicc/items/3da7572e8234a7708bef)
 * [Code Podcast - Episode 5. Type Systems](http://codepodcast.com/s0e5.html)
+* [Andres Löh - Evolving datatypes - YouTube](https://www.youtube.com/watch?v=foF7Xx1K--U)
+* [Maciej Bielecki - Programs at the type level - YouTube](https://www.youtube.com/watch?v=vOTwT5UThxQ)
 
 ```haskell
 data Bottom
@@ -180,6 +182,7 @@ circum (Circle _ _ r) = …
 * [Liquid Haskell: Haskell as a Theorem Prover](http://goto.ucsd.edu/~nvazou/thesis/main.pdf)
 * [LiquidHaskell コトハジメ](http://ccvanishing.hateblo.jp/entry/2016/12/24/193038)
 * [[1701.03320] An Introduction to Liquid Haskell](https://arxiv.org/abs/1701.03320)
+* [languagengine - Blog - Proof Refinement Basics](http://languagengine.co/blog/proof-refinement-basics/)
 
 ## Dependent Types
 * [実世界を扱う依存型プログラミングのたぶん基本～外界から安全な世界までの道](http://notogawa.hatenablog.com/entry/2016/10/20/001812)

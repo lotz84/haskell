@@ -28,6 +28,7 @@
 * [Tweag.io](http://www.tweag.io/)
 * [Decision Trees Are Free Monads Over the Reader Functor](http://clathomasprime.github.io/hask/freeDecision)
 * [tdigest: On-line accumulation of rank-based statistics](https://hackage.haskell.org/package/tdigest)
+* [Recursive Stochastic Processes · jtobin.io](https://jtobin.io/recursive-stochastic-processes)
 
 ## HaskellR
 * [HaskellR](http://tweag.github.io/HaskellR/)
@@ -157,6 +158,7 @@ instance Monad Dist where
 * [A Categorical Basis for Conditional Probability](http://www.cs.ru.nl/B.Jacobs/PAPERS/cat-prob-th.pdf)
 * [[1701.02547] A Convenient Category for Higher-Order Probability Theory](https://arxiv.org/abs/1701.02547)
 * [「確率変数」の正体は米田埋め込み - 檜山正幸のキマイラ飼育記](http://d.hatena.ne.jp/m-hiyama/20170228/1488276250)
+* [「確率変数」の変種：測度に縛られない確率変数 - 檜山正幸のキマイラ飼育記](http://d.hatena.ne.jp/m-hiyama/20170302/1488423997)
 
 ## 自動微分
 * [ad](https://hackage.haskell.org/package/ad)
