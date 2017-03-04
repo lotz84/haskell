@@ -76,6 +76,7 @@
 * [Abstract Nonsense](http://www.kovach.me/posts/2017-01-30-haskell-bits-randomness.html)
 * [zstd: Haskell bindings to the Zstandard compression algorithm](http://hackage.haskell.org/package/zstd)
 * [Haskell 順列・組み合わせ - Qiita](http://qiita.com/aosho235/items/65fba14703471947bb53)
+* [Nicolas Mattia](http://www.nmattia.com/posts/2016-07-31-bfs-tree.html)
 
 ### ソート
 * [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
