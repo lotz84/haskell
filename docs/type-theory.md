@@ -1,4 +1,3 @@
-##型理論
 * [型システム入門 −プログラミング言語と型の理論](http://www.amazon.co.jp/dp/4274069117)
 * [THE TYPE THEORY PODCAST](http://typetheorypodcast.com/)
 * [Making Sense of Subtypes](http://languagengine.co/blog/making-sense-of-subtypes/)
@@ -42,14 +41,15 @@
 * [Hindley-Damas-Milner tutorial](https://github.com/quchen/articles/tree/master/hindley-milner#readme)
 * [Haskell for all: The Curry-Howard correspondence between programs and proofs](http://www.haskellforall.com/2017/02/the-curry-howard-correspondence-between.html)
 * [One Eilenberg Theorem to Rule Them All - YouTube](https://www.youtube.com/watch?v=S9ufH65NqCE)
+* [Algebraic Subtyping](https://www.cl.cam.ac.uk/~sd601/thesis.pdf)
 
-##Martin-L¨of ’s Type Theory
+## Martin-L¨of ’s Type Theory
 * 1972 - [An intuitionistic theory of types](https://github.com/michaelt/martin-lof/blob/master/pdfs/An-Intuitionistic-Theory-of-Types-1972.pdf)
 * 1979 - [Constructive mathematics and computer programming](https://github.com/michaelt/martin-lof/blob/master/pdfs/Constructive-mathematics-and-computer-programming-1982.pdf)
 * 1984 - [Intuitionistic Type Theory](https://github.com/michaelt/martin-lof/blob/master/pdfs/Bibliopolis-Book-retypeset-1984.pdf)
 * [Programming in Martin-L¨of ’s Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf)
 
-##Dependent Type Theory
+## Dependent Type Theory
 * Robert Harper - Type Theory Foundations [1](https://www.youtube.com/watch?v=ev7AYsLljxk) [2](https://www.youtube.com/watch?v=3JHTb6b1to8) [3](https://www.youtube.com/watch?v=wJLTE8rnqH0) [4](https://www.youtube.com/watch?v=P6YUm_E6rRA) [5](https://www.youtube.com/watch?v=wnHp5F9RDPI) [6](https://www.youtube.com/watch?v=glv3X4PfrEc)
 * [ΠΣ: Dependent Types without the Sugar](http://www.andres-loeh.de/PiSigma/PiSigma.pdf)
 * [2015 Introduction to Dependent Type Theory — Robert Harper (OPLSS '15)](https://www.youtube.com/playlist?list=PLt7hcIEdZLAnbUxKaG7XIynEWrozOBtXU)
@@ -65,7 +65,7 @@
 * [Type Soundness for Path Polymorphism](http://arxiv.org/abs/1601.03271)
 * [Dependent Type in Haskell: Theory And Practice](https://github.com/goldfirere/thesis/blob/master/built/thesis.pdf)
 
-##Homotopy Theory
+## Homotopy Theory
 * Allen Hatcher - [Algebraic Topology](http://www.math.cornell.edu/~hatcher/AT/AT.pdf)
 * [Homotopy theory for digraphs](https://www.math.uni-bielefeld.de/~grigor/hom.pdf)
 * [π-Base](http://topology.jdabbs.com/)
@@ -75,7 +75,7 @@
 * [Theory of Topological Structures](http://link.springer.com/book/10.1007/978-94-009-2859-6)
 * [Homotopy before type theory](https://theorylunch.wordpress.com/2013/10/21/homotopy-before-type-theory/)
 
-##HoTT
+## HoTT
 * [ホモトピー変形と自然変換](http://d.hatena.ne.jp/m-hiyama/comment?date=20111208&section=1323315799#c)
 
 > ここ数年における新しい理論「ホモトピー型理論(HoTT)」は, 計算機科学の型理論における「＝」を, 位相幾何学のホモトピー同値「連続変形がある」の性質で解釈しようとする試みである。
