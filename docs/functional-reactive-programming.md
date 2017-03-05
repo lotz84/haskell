@@ -41,11 +41,13 @@
 * [pipes-concurrency-1.0.0: Reactive programming](http://www.haskellforall.com/2013/04/pipes-concurrency-100-reactive.html)
 
 ### Reactive Banana
-* **Deprecated** - [The sodium package](http://hackage.haskell.org/package/sodium)
-  * [Deprecating the Haskell version of Sodium for Reactive Banana](http://blog.reactiveprogramming.org/?p=258)
 * [reactive-banana](https://hackage.haskell.org/package/reactive-banana)
 * [FRP - Dynamic event switching in reactive-banana-0.7](http://apfelmus.nfshost.com/blog/2012/09/03-frp-dynamic-event-switching-0-7.html)
 * [FRP explanation using reactive-banana](https://wiki.haskell.org/FRP_explanation_using_reactive-banana)
+
+* **Deprecated** - [The sodium package](http://hackage.haskell.org/package/sodium)
+  * > If you have been using the sodium FRP library, note that Stephen Blackheath has deprecated the Haskell variant of sodium so that he can focus on his upcoming FRP book and on the sodium ports for other languages.
+  * [apfelmus - FRP — Release of reactive-banana version 1.0](http://apfelmus.nfshost.com/blog/2015/10/29-frp-banana-1-0.html)
 
 ### FRPNow
 * [Practical Principled FRP](http://www.cse.chalmers.se/~atze/papers/prprfrp.pdf)
