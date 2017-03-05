@@ -54,6 +54,7 @@
 * [Haskell Design Patterns](https://www.packtpub.com/application-development/haskell-design-patterns)
 * [The category design pattern](http://www.haskellforall.com/2012/08/the-category-design-pattern.html)
 * [Ask-Elle: an adaptable programming tutor for Haskell giving automated feedback](http://www.cs.uu.nl/research/techreps/repo/CS-2015/2015-019.pdf)
+* [Haskell Tutorial - YouTube](https://www.youtube.com/watch?v=02_H3LjqMr8&feature=share)
 * [Functional Programming & Haskell - Computerphile](https://www.youtube.com/watch?v=LnX3B9oaKzw)
 * [Do you like Scala? Give Haskell a try!](https://www.fpcomplete.com/blog/2016/11/comparison-scala-and-haskell)
 * [What Code Does vs What Code Means](http://begriffs.com/posts/2015-12-26-what-code-means.html)
