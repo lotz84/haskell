@@ -158,7 +158,7 @@ instance Monad Dist where
 * [A Categorical Basis for Conditional Probability](http://www.cs.ru.nl/B.Jacobs/PAPERS/cat-prob-th.pdf)
 * [[1701.02547] A Convenient Category for Higher-Order Probability Theory](https://arxiv.org/abs/1701.02547)
 * [「確率変数」の正体は米田埋め込み - 檜山正幸のキマイラ飼育記](http://d.hatena.ne.jp/m-hiyama/20170228/1488276250)
-* [「確率変数」の変種：測度に縛られない確率変数 - 檜山正幸のキマイラ飼育記](http://d.hatena.ne.jp/m-hiyama/20170302/1488423997
+* [「確率変数」の変種：測度に縛られない確率変数 - 檜山正幸のキマイラ飼育記](http://d.hatena.ne.jp/m-hiyama/20170302/1488423997)
 * [「確率変数」の一般論は可能か - 檜山正幸のキマイラ飼育記](http://d.hatena.ne.jp/m-hiyama/20170303/1488525802)
 
 ## 自動微分
