@@ -11,3 +11,4 @@
 * [timbod7/secretfs](https://github.com/timbod7/secretfs) - A FUSE file system that interpolates secret information
 * [GaloisInc/saw-script - saw-script/doc/tutorial/tutorial.md](https://github.com/GaloisInc/saw-script/blob/master/doc/tutorial/tutorial.md)
 * [Piyush P Kurur|Adventures in optimising ChaCha20 for Raaz.](http://cse.iitk.ac.in/users/ppk/posts/2017-02-06-Adventures-in-optimising-chacha20.html)
+* [Episode 11 - Austin Seipp on Security - The Haskell Cast](http://www.haskellcast.com/episode/011-austin-seipp-on-security)
