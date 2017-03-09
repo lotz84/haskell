@@ -101,6 +101,7 @@ Passed:
 * [24 days of Hackage, 2015: day 21: hood, GHood, Hoed: observation oriented debugging in Haskell](http://conscientiousprogrammer.com/blog/2015/12/21/24-days-of-hackage-2015-day-21-hood-ghood-hoed-observation-oriented-debugging-in-haskell/)
 * [JohnReedLOL/HaskellPrintDebugger](https://github.com/JohnReedLOL/HaskellPrintDebugger)
 * [秒速でコピペしたいHaskellデバッグ用関数 - Qiita](http://qiita.com/igrep/items/8b62b856ff42d1f51619)
+* [The Haskell Tracer Hat](http://projects.haskell.org/hat/)
 
 ## 例外処理
 * [エラー処理を書いてはいけない](http://tanakh.jp/pub/pfi-seminar-2011-12-08.html)
