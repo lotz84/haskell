@@ -6,7 +6,7 @@
 * [順列列挙関数（素朴な実装）](http://qiita.com/nobsun/items/babd28fe81ba3b9f304f)
 * [SamuelSchlesinger/Gaia](https://github.com/SamuelSchlesinger/Gaia) - An experiment in functional interface design
 
-##型
+## 型
 * [What is the difference between an Algebraic Data Type and an Abstract Data Type?](http://www.reddit.com/r/haskell/comments/38grqx/what_is_the_difference_between_an_algebraic_data/)
 * [Either and (,) in Haskell are not arbitrary](http://bitemyapp.com/posts/2015-10-19-either-is-not-arbitrary.html)
 * [Why sum and product types?](http://charlieharvey.org.uk/page/sum_and_product_types)
@@ -26,8 +26,9 @@
 * [YOW! Lambda Jam 2016 Conor McBride - What are Types for, or are they only Against? - YouTube](https://www.youtube.com/watch?v=3U3lV5VPmOU&feature=share)
 * [【Haskell】 言葉の定義まとめ（型クラス、型コンストラクタ、値コンストラクタ、型引数など） - takafumi blog](http://takafumi-s.hatenablog.com/entry/2015/09/25/123335)
 * [Haskell による型安全プログラミングの実装例(和暦) - Qiita](http://qiita.com/algas/items/9e63f7a99303d27a6c03)
+* [why-types/why-types.pdf at master · skaslev/why-types](https://github.com/skaslev/why-types/blob/master/why-types.pdf)
 
-###代数的データ型
+### 代数的データ型
 代数的データ型とは"足し算"と"掛け算"が出来るような型のこと。"足し算"と"掛け算"はそれぞれ**直和**, **直積** と呼ばれる。
 
 ```hs

@@ -52,6 +52,7 @@
 * [Follow up: haskell.org and the Evil Cabal](http://www.snoyman.com/blog/2016/08/follow-up-haskell-org-evil-cabal)
 * [Updated Hackage mirroring](https://www.fpcomplete.com/blog/2016/09/updated-hackage-mirroring)
 * [Try Backpack: Cabal packages : Inside 214-1E](http://blog.ezyang.com/2017/01/try-backpack-cabal-packages/)
+* [Minimal Cabal Files - jpvillaisaza](https://jpvillaisaza.github.io/2017/03/14/minimal-cabal-files/)
 
 ## Stack
 * [The Haskell Tool Stack](http://docs.haskellstack.org/en/stable/README.html)
@@ -187,6 +188,7 @@
 * [Haskell - GHC for iOS : 既存のSwiftプロジェクトにHaskellで作った関数をさくっと組み込む](http://blog.euphonictech.com/entry/2015/03/30/235956)
 * [Using Haskell in Rust](http://mgattozzi.github.io/2016/10/15/rust-haskell.html)
 * [Calling Haskell from C | Maths, Stats & Functional Programming](https://idontgetoutmuch.wordpress.com/2017/01/14/calling-haskell-from-c/)
+* [Almost Inline ASM in Haskell With Foreign Import Prim - Brandon.Si(mmons)](http://brandon.si/code/almost-inline-asm-in-haskell-with-foreign-import-prim/)
 
 ## JVM
 * [Eta](http://eta-lang.org/)

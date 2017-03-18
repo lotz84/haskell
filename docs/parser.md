@@ -21,6 +21,7 @@
 * [ollef/Earley: Parsing all context-free grammars using Earley's algorithm in Haskell.](https://github.com/ollef/Earley)
 * [SECDマシン - Qiita](http://qiita.com/kumatoki/items/0e9a9e341e6b1d9528af)
 * [素朴なlispインタープリター - Qiita](http://qiita.com/kmtoki/items/38adf6fa9da0deffb57e)
+* [seagreen/state-of-haskell-bnf](https://github.com/seagreen/state-of-haskell-bnf)
 
 ## 正規表現
 * [関数型的正規表現マッチ](https://research.preferred.jp/2010/11/regexp-play/)
@@ -33,6 +34,7 @@
 * [Regex Edit Distance](http://languagengine.co/blog/regex-edit-distance/)
 * [Fast, Elegant Regexes in Haskell](https://begriffs.com/posts/2016-06-27-fast-haskell-regexes.html)
 * [2016 11 24 - Herrmann - Compiling a Simple language to LLVM](https://www.youtube.com/watch?v=Re3XgFfflzg&feature=youtu.be)
+* [IRIS Connect Engineers' Blog - regex: A Toolkit for regex-base](http://engineers.irisconnect.net/posts/2017-03-07-regex.html)
 
 ## パーサーコンビネータ
 * [JavaScriptでパーサコンビネータのコンセプトを理解する](http://blog.anatoo.jp/entry/2015/04/26/220026)

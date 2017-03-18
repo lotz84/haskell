@@ -117,6 +117,7 @@
 ### 数値
 * [Lazy unary numbers](http://www.edofic.com/posts/2015-05-03-unary-numbers.html)
 * [Exact Real Arithmetic in Haskell](https://www.youtube.com/watch?v=LJQgYBQFtSE)
+* [backprop: Heterogeneous, type-safe automatic backpropagation in Haskell](http://hackage.haskell.org/package/backprop)
 
 ### 文字列
 * [Haskell String Types](http://www.alexeyshmalko.com/2015/haskell-string-types/)
@@ -165,6 +166,8 @@
 * [Difference Lists and the Codensity Monad](http://begriffs.com/posts/2016-02-04-difference-lists-and-codennsity.html)
 * [List and Comprehension Extensions](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/guide-to-ghc-extensions/list-and-comprehension-extensions)
 * [phadej/dlist-nonempty](https://github.com/phadej/dlist-nonempty) - Non-empty difference lists
+* [subsequencesを紐解く - Qiita](http://qiita.com/kmtoki/items/af4559c072afe5c17a1c)
+* [When You Should Use Lists in Haskell (Mostly, You Should Not)](http://www.imn.htwk-leipzig.de/~waldmann/etc/untutorial/list-or-not-list/)
 
 ### 配列
 * [The vector package](https://hackage.haskell.org/package/vector)
@@ -181,6 +184,7 @@
 * [24 days of Hackage, 2015: day 18: vector, vector-algorithms: unleash your inner C programmer!](http://conscientiousprogrammer.com/blog/2015/12/18/24-days-of-hackage-2015-day-18-vector-vector-algorithms-unleash-your-inner-c-programmer/)
 * [The Theory of patches-vector](http://liamoc.net/posts/2015-11-10-patch-theory.html)
 * [Research Papers of Manuel Chakravarty](http://www.cse.unsw.edu.au/~chak/papers/CMCK17.html)
+* [generateの罠 - モナドとわたしとコモナド](http://fumieval.hatenablog.com/entry/2017/03/11/232319)
 
 ### 木
 * [Haskell Tutorial: Implementing highly efficient data structures with Monoids and Fingertrees](https://www.codementor.io/haskell/tutorial/monoids-fingertrees-implement-abstract-data)

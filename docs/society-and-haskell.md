@@ -10,6 +10,7 @@
 * [theInitialCommit - Edward Kmett](https://theinitialcommit.com/2017/01/10/edward-kmett/)
 * [What Programming Languages Are Used Most on Weekends? – Stack Overflow Blog – A destination for all things related to development at Stack Overflow](http://stackoverflow.blog/2017/02/What-Programming-Languages-Weekends/)
 * [Channable - How we secretly introduced Haskell and got away with it](https://tech.channable.com/posts/2017-02-24-how-we-secretly-introduced-haskell-and-got-away-with-it.html)
+* [プロエンジニアインタビュー（4）：教えて！　キラキラお兄さん「クソみたいな社会は変えられますか？」 (1/4) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1703/10/news005.html)
 
 ## コミュニティ
 * [Haskell Communities and Activities Report](https://wiki.haskell.org/Haskell_Communities_and_Activities_Report)

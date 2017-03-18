@@ -111,6 +111,7 @@ Front end
 * [A Distributed Haskell for the Modern Web](http://ekblad.cc/lic.pdf)
 * [1 07 High Performance Client Side Web Applications through Haskell EDSLs](https://www.youtube.com/watch?v=gQmDeq9eyF8)
 * [contivero/hasmin: Hasmin - A Haskell CSS Minifier](https://github.com/contivero/hasmin)
+* [BOB 2017 - Alexander Thiemann: The Future of Front-end Development: A comparison - YouTube](https://www.youtube.com/watch?v=BZfvoW8wixU)
 
 Haskell to JavaScript compiler
 ------------------------------
@@ -197,6 +198,7 @@ Web Server
 * [Trying to make building webapps easier in Haskell](https://medium.com/@saurabhnanda/trying-to-make-building-webapps-easier-in-haskell-46130553ed1a#.702yw566i)
 * [2016 10 27 - Carl Baatz - Build yourself a Haskell web framework](https://www.youtube.com/watch?v=etuSnom2v2M)
 * [sarthakbagaria/web-push](https://github.com/sarthakbagaria/web-push)
+* [HaskellでServer::Starterを使う - Qiita](http://qiita.com/hiratara/items/2dacf8470c378b130d5c)
 
 ### WAI/Warp
 * [Haskell版フォルダを指定してhttpで公開する簡易Webサーバー](http://qiita.com/saturday06/items/fad44a9bc49b2f387bde)

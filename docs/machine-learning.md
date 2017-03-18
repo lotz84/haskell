@@ -29,6 +29,7 @@
 * [Decision Trees Are Free Monads Over the Reader Functor](http://clathomasprime.github.io/hask/freeDecision)
 * [tdigest: On-line accumulation of rank-based statistics](https://hackage.haskell.org/package/tdigest)
 * [Recursive Stochastic Processes · jtobin.io](https://jtobin.io/recursive-stochastic-processes)
+* [Haskell: Data Analysis Made Easy | PACKT Books](https://www.packtpub.com/big-data-and-business-intelligence/haskell-data-analysis-made-easy)
 
 ## HaskellR
 * [HaskellR](http://tweag.github.io/HaskellR/)
@@ -145,6 +146,7 @@ instance Monad Dist where
 * [Linear resources in Haskell](http://axman6.com/posts/2016-07-10-Linear-resources-in-haskell.html)
 * [Linearity, Uniqueness, and Haskell](http://edsko.net/2017/01/08/linearity-in-haskell/)
 * [Oleg's gists - Linear thoughts](http://oleg.fi/gists/posts/2017-01-17-linear-thoughts.html)
+* [Retrofiing Linear Types](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/haskell-linear-submitted.pdf)
 
 ### Stochastic Lambda Calculus
 * [Scott's stochastic lambda calculi](http://cstheory.stackexchange.com/questions/25998/scotts-stochastic-lambda-calculi)
@@ -161,6 +163,7 @@ instance Monad Dist where
 * [「確率変数」の変種：測度に縛られない確率変数 - 檜山正幸のキマイラ飼育記](http://d.hatena.ne.jp/m-hiyama/20170302/1488423997)
 * [「確率変数」の一般論は可能か - 檜山正幸のキマイラ飼育記](http://d.hatena.ne.jp/m-hiyama/20170303/1488525802)
 * [確率・統計の「分布」の意味と使用法 - 檜山正幸のキマイラ飼育記](http://d.hatena.ne.jp/m-hiyama/20170308/1488931387)
+* [心が安らぐ「分布の空間」を定義してみる - 檜山正幸のキマイラ飼育記](http://d.hatena.ne.jp/m-hiyama/20170313/1489368546)
 
 ## 自動微分
 * [ad](https://hackage.haskell.org/package/ad)

@@ -144,6 +144,8 @@
 * [Bootstrapping Haskell: part 1](https://elephly.net/posts/2017-01-09-bootstrapping-haskell-part-1.html)
 * [How to integrate GHC API programs with Cabal : Inside 214-1E](http://blog.ezyang.com/2017/02/how-to-integrate-ghc-api-programs-with-cabal/)
 * [CPP – Haskell – Aelve Guide](https://guide.aelve.com/haskell/cpp-vww0qd72)
+* [Designing the Backpack signature ecosystem : Inside 214-1E](http://blog.ezyang.com/2017/03/designing-the-backpack-signature-ecosystem/)
+* [Haskell without GMP](https://ro-che.info/articles/2017-03-10-haskell-without-gmp)
 
 ```bash
 $ stack build --executable-profiling --library-profiling --ghc-options="-fprof-auto -rtsopts"

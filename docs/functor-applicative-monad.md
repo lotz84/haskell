@@ -29,6 +29,7 @@ class Functor f where
 * [Phil Freeman - Fun with Profunctors](https://www.youtube.com/watch?v=OJtGECfksds)
 * [Profunctor Polymorphism](https://bartoszmilewski.com/2016/08/16/profunctor-polymorphism/)
 * [Addressing Pieces of State with Profunctors](http://blog.sigfpe.com/2017/01/addressing-pieces-of-state-with.html)
+* [Profunctors, Arrows, & Static Analysis](http://elvishjerricco.github.io/2017/03/10/profunctors-arrows-and-static-analysis.html)
 
 ### Contravariant
 * [contravariant](https://hackage.haskell.org/package/contravariant)
@@ -167,6 +168,7 @@ class Monad m where
 * [basvandijk/monad-batcher: An applicative monad that batches commands for later more efficient execution](https://github.com/basvandijk/monad-batcher)
 * [kvanberendonck/monad-chrono: A strict state monad with a notion of time travel.](https://github.com/kvanberendonck/monad-chrono)
 * [2017 02 08 - Ben Lippmeier - An overview of the DDC compiler - YouTube](https://www.youtube.com/watch?v=QShfhs7nToI)
+* [Partial patterns in do blocks: let vs return](https://www.fpcomplete.com/blog/2017/03/partial-patterns-do-blocks)
 
 ```haskell
 do x <- mx

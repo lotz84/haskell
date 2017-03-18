@@ -183,6 +183,7 @@ circum (Circle _ _ r) = …
 * [LiquidHaskell コトハジメ](http://ccvanishing.hateblo.jp/entry/2016/12/24/193038)
 * [[1701.03320] An Introduction to Liquid Haskell](https://arxiv.org/abs/1701.03320)
 * [languagengine - Blog - Proof Refinement Basics](http://languagengine.co/blog/proof-refinement-basics/)
+* [languagengine - Blog - Bidirectional Proof Refinement](http://languagengine.co/blog/bidirectional-proof-refinement/)
 
 ## Dependent Types
 * [実世界を扱う依存型プログラミングのたぶん基本～外界から安全な世界までの道](http://notogawa.hatenablog.com/entry/2016/10/20/001812)

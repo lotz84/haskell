@@ -143,3 +143,5 @@ class Functor g => Distributive g where
 * [Monadic Recursion Schemes](http://jtobin.ca/monadic-recursion-schemes)
 * [Time Traveling Recursion Schemes](http://jtobin.ca/time-traveling-recursion)
 * [Promorphisms, Pre and Post](https://jtobin.io/promorphisms-pre-post)
+* [What's in a Fold: The Basic Catamorphism in recursion-schemes - The Life Monadic](http://duplode.github.io/posts/whats-in-a-fold.html)
+* [Detecting Recursion Schemes in Haskell Functions (...) - Adam D. Barwell (Lambda Days 2017) - YouTube](https://www.youtube.com/watch?v=StVSC7ZSNIk)
