@@ -1,6 +1,7 @@
 * [Handlers of Algebraic Effects](http://homepages.inf.ed.ac.uk/gdp/publications/Effect_Handlers.pdf)
 * [An Introduction to Algebraic Effects and Handlers](http://www.eff-lang.org/handlers-tutorial.pdf)
 * [Eff](http://www.eff-lang.org/) - a functional language with handlers.
+* [freer-effects: Implementation of effect system for Haskell.](https://hackage.haskell.org/package/freer-effects)
 
 ## Extensible Effects
 * [extensible-effects](https://hackage.haskell.org/package/extensible-effects)
