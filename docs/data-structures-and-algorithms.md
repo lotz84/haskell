@@ -77,6 +77,7 @@
 * [zstd: Haskell bindings to the Zstandard compression algorithm](http://hackage.haskell.org/package/zstd)
 * [Haskell 順列・組み合わせ - Qiita](http://qiita.com/aosho235/items/65fba14703471947bb53)
 * [Nicolas Mattia](http://www.nmattia.com/posts/2016-07-31-bfs-tree.html)
+* [関数プログラミングの気分（『多段階選抜』問題を題材にして） - Qiita](http://qiita.com/nobsun/items/4562b728ecd560557bd2)
 
 ### ソート
 * [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
