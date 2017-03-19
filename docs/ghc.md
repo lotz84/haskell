@@ -146,6 +146,7 @@
 * [CPP – Haskell – Aelve Guide](https://guide.aelve.com/haskell/cpp-vww0qd72)
 * [Designing the Backpack signature ecosystem : Inside 214-1E](http://blog.ezyang.com/2017/03/designing-the-backpack-signature-ecosystem/)
 * [Haskell without GMP](https://ro-che.info/articles/2017-03-10-haskell-without-gmp)
+* [main is usually a function: Thunks and lazy blackholes: an introduction to GHC at runtime](http://mainisusuallyafunction.blogspot.jp/2011/10/thunks-and-lazy-blackholes-introduction.html)
 
 ```bash
 $ stack build --executable-profiling --library-profiling --ghc-options="-fprof-auto -rtsopts"
