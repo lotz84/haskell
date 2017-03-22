@@ -1,4 +1,4 @@
-##数値計算・可視化
+## 数値計算・可視化
 * [scientific](https://hackage.haskell.org/package/scientific)
 * [timbod7/haskell-chart](https://github.com/timbod7/haskell-chart)
 * [diagrams](http://projects.haskell.org/diagrams/)
@@ -27,6 +27,7 @@
 * [GRAKN.AI and Haskell](https://blog.grakn.ai/grakn-ai-and-haskell-c166c7cc1d23#.r8ormi4ky)
 * [thorlucas/Sandpiles: Haskell implementation of the Abelian sandpile model.](https://github.com/thorlucas/Sandpiles)
 * [hip - Haskell Image Processing library : haskell](https://www.reddit.com/r/haskell/comments/5tivy2/hip_haskell_image_processing_library/)
+* [prizm: Convert colors to different color spaces, interpolate colors, and transform colors](https://hackage.haskell.org/package/prizm-2.0.1)
 
 ## 画像処理
 * [friday: A functional image processing library for Haskell.](https://hackage.haskell.org/package/friday)
@@ -69,6 +70,7 @@
 * [Writing Games in Haskell with SpriteKit](http://blog.haskellformac.com/blog/writing-games-in-haskell-with-spritekit)
 * [isovector/sequoia](https://github.com/isovector/sequoia) - a monadic FRP game library for haskell
 * [Haskell game](https://www.youtube.com/watch?v=HUUApOofaLQ&feature=youtu.be) - my first program in Haskell
+* [Gamebook solver](http://hbtvl.banquise.net/series/Gamebook%20solver.html)
 
 ## Gloss
 * [gloss](http://hackage.haskell.org/package/gloss)

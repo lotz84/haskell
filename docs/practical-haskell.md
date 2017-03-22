@@ -126,6 +126,7 @@
 * [Episode 2 - Nix Simple Types](https://www.youtube.com/watch?v=l8-wIPANCU0&feature=youtu.be)
 * [Gabriel439/haskell-nix: Nix and Haskell in production](https://github.com/Gabriel439/haskell-nix)
 * [jyp/styx: A nix-based Haskell project manager](https://github.com/jyp/styx)
+* [How I use nix for Haskell development - YouTube](https://www.youtube.com/watch?v=G9yiJ7d5LeI)
 
 ## Docker
 * [Dockerfile Linter](http://hadolint.lukasmartinelli.ch/)
@@ -284,3 +285,4 @@
 * [Type driven configuration management with Propellor - YouTube](https://www.youtube.com/watch?v=kzXXcr8TyJY)
 * [The typed-process library](https://www.fpcomplete.com/blog/2017/02/typed-process)
 * [HaskellにおけるConfigurations Problemを解決する - m2ymの雑記帳](http://cx4a.org/posts/2014-06-03-solve-the-configurations-problem-for-haskell.html)
+* [Automating static analysis for Haskell projects.](http://lwm.github.io/haskell-static/)

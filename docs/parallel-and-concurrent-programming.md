@@ -32,6 +32,7 @@
 * [高速なキューを作る話（後編）](http://qiita.com/asukamirai/items/481b22d9a8a410990828)
 * [Green Threads are like Garbage Collection](https://www.fpcomplete.com/blog/2017/01/green-threads-are-like-garbage-collection)
 * [Asynchronous Exceptions in Practice · Simon Marlow](http://simonmar.github.io/posts/2017-01-24-asynchronous-exceptions.html)
+* [gochan: Go-style channels](http://hackage.haskell.org/package/gochan-0.0.2)
 
 ## 並列
 * [monad-par](https://hackage.haskell.org/package/monad-par)
@@ -47,6 +48,7 @@
 * [Encapsulating unsafe IORefs](http://tech.kariusdx.com/post/hiding-unsafe-IORefs/)
 * [wyager/Neks](https://github.com/wyager/Neks)
 * [Harnessing the Multicores: Nested Data Parallelism in Haskell](https://www.youtube.com/watch?v=kZkO3k9g1ps)
+* [Evaluation of Libraries for Parallel Computing in Haskell](https://www.jstage.jst.go.jp/article/ipsjjip/25/0/25_308/_pdf)
 
 ## 並行
 * [RAM footprint per unit of concurrency (approx)](http://bob.ippoli.to/haskell-for-erlangers-2014/#/cost-of-concurrency)

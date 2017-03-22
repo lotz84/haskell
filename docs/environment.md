@@ -1,4 +1,4 @@
-##環境構築
+## 環境構築
 * [The Haskell User Experience](http://rickdzekman.com/thoughts/the-haskell-user-experience/)
 * [Easy universal Haskell development environment](http://achernyak.me/universal-haskell-dev-enviornment)
 * [The Haskell Development Environment](http://lambdaschool.com/lesson2)
@@ -80,6 +80,7 @@ $ alias ghci='stack ghci --'
 * [VisualStduioCodeでHaskell開発環境を整える](http://qiita.com/DUxCA/items/8e7a68ffee522bdd8918)
 * [Haskero - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Vans.haskero)
 * [Introducing Haskelly – Haskell extension for Visual Studio Code – Microsoft Faculty Connection](https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/02/13/introducing-haskelly-extension-for-visual-studio-code/)
+* [[Visual Studio Code][Haskell] VSCodeでHaskellの開発環境を整える - Qiita](http://qiita.com/koara-local/items/06d57fd7fe4adc72f2b6)
 
 ### Yi
 * [YiエディタでVimスタイルをベースに拡張設定する(1)](http://qiita.com/aiya000/items/376a2bed4ddd12433b31)

@@ -347,6 +347,9 @@ Line 6:
 * Monitor cyclomatic complexity in Haskell programs
 * <https://github.com/rubik/argon>
 
+### describe
+* [commercialhaskell/describe: Describe Haskell code in GHCi](https://github.com/commercialhaskell/describe)
+
 ### ekg
 * Remote monitoring of running processes over HTTP
 * <https://github.com/tibbe/ekg>

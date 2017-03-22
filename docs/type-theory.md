@@ -64,6 +64,7 @@
 * [Guarded Dependent Type Theory with Coinductive Types](http://arxiv.org/abs/1601.01586)
 * [Type Soundness for Path Polymorphism](http://arxiv.org/abs/1601.03271)
 * [Dependent Type in Haskell: Theory And Practice](https://github.com/goldfirere/thesis/blob/master/built/thesis.pdf)
+* [The meta-theory of dependent type theories - Vladimir Voevodsky - YouTube](https://www.youtube.com/watch?v=e20dCMrAYOM)
 
 ## Homotopy Theory
 * Allen Hatcher - [Algebraic Topology](http://www.math.cornell.edu/~hatcher/AT/AT.pdf)
