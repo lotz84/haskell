@@ -207,6 +207,7 @@
 * [Frege on Android](http://mchav.github.io/frege-on-android/)
 
 ## Music
+* [spell-music/csound-expression: Haskell Framework for Electronic Music](https://github.com/spell-music/csound-expression)
 * [Algorithmic, hyperreal, broken techno.](http://www.pledgemusic.com/projects/spicule/)
 * [The Music Suite](http://music-suite.github.io/docs/ref/)
 * [Paul Chiusano on csound-expression](https://www.youtube.com/watch?v=O0oBXcwGZQY&feature=youtu.be)

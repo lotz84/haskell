@@ -147,6 +147,7 @@ instance Monad Dist where
 * [Linearity, Uniqueness, and Haskell](http://edsko.net/2017/01/08/linearity-in-haskell/)
 * [Oleg's gists - Linear thoughts](http://oleg.fi/gists/posts/2017-01-17-linear-thoughts.html)
 * [Retrofiing Linear Types](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/haskell-linear-submitted.pdf)
+* [15-816 Linear Logic / Schedule](http://www.cs.cmu.edu/~fp/courses/15816-s12/schedule.html)
 
 ### Stochastic Lambda Calculus
 * [Scott's stochastic lambda calculi](http://cstheory.stackexchange.com/questions/25998/scotts-stochastic-lambda-calculi)

@@ -105,6 +105,7 @@
 * [Haskell Pitfalls](http://lorepub.com/post/2016-12-17-Haskell-Pitfalls)
 * [Introduction to Haskell Programming - Course](https://onlinecourses.nptel.ac.in/noc17_cs11/preview)
 * [The Joy of Haskell](https://joyofhaskell.com/)
+* [Some History of Functional Programming Languages - David Turner (Lambda Days 2017) - YouTube](https://www.youtube.com/watch?v=QVwm9jlBTik)
 </details>
 
 ## Examples

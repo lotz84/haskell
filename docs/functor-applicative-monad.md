@@ -63,6 +63,7 @@ class Functor f => Applicative f where
 * [Showcasing Applicative](http://www.joachim-breitner.de/blog/710-Showcasing_Applicative)
 * [Day convolution intuition](http://math.stackexchange.com/questions/1650786/day-convolution-intuition/1651127#1651127)
 * [Refactoring with Applicatives in Haskell](http://www.bbenson.co/post/refactoring-with-applicatives-in-haskell/)
+* [Applicative Sorting](http://elvishjerricco.github.io/2017/03/23/applicative-sorting.html)
 
 ### Discrimination
 * [discrimination](http://hackage.haskell.org/package/discrimination)
@@ -81,7 +82,7 @@ type (~>) f g = forall x. f x -> g x
 * [3 06 Synthesis with String Diagrams in Haskell](https://www.youtube.com/watch?v=w6Is69Ri9Xs)
 * [length は リスト函手から定数函手への自然変換だよ on Coq.](https://gist.github.com/mathink/31376030e03b4bb254ac)
 
-##モナド
+## モナド
 「環」の理論を知らなくても整数の足し算掛け算が出来るように、モナドの数学的な側面を知らなくてもモナドを使うことは出来る。
 
 > 盲目の男たちがいました。彼らは象を知ったばかりでした。
@@ -169,6 +170,7 @@ class Monad m where
 * [kvanberendonck/monad-chrono: A strict state monad with a notion of time travel.](https://github.com/kvanberendonck/monad-chrono)
 * [2017 02 08 - Ben Lippmeier - An overview of the DDC compiler - YouTube](https://www.youtube.com/watch?v=QShfhs7nToI)
 * [Partial patterns in do blocks: let vs return](https://www.fpcomplete.com/blog/2017/03/partial-patterns-do-blocks)
+* [Obey the (Type) Laws!](https://hackernoon.com/obey-the-type-laws-ffb2fa4e5fe2#.x2lshvr9k)
 
 ```haskell
 do x <- mx
@@ -321,3 +323,10 @@ Reader + Writer + State
 ###Indexed Monad
 * [What is indexed monad?](http://stackoverflow.com/questions/28690448/what-is-indexed-monad)
 * [Indexed Monadの世界](http://fumieval.hatenablog.com/entry/2013/05/04/144840)
+
+## Arrow
+* [Haskell/Arrows - Wikibooks](https://ja.wikibooks.org/wiki/Haskell/Arrows)
+* [ArrowによるHaskellプログラミングの基礎。…パイプ感覚で順次/分岐/繰返し - よくわかりません](http://d.hatena.ne.jp/r-west/20070720/1184946510)
+* [Arrowパズル解答 (とArrowLoop解説)](http://d.hatena.ne.jp/MaD/20070818)
+* [ArrowLoop - 言語ゲーム](http://d.hatena.ne.jp/propella/20070904/p1)
+* [Arrowの話をしよう　(2)不動点と再帰 - haxis_fxの日記](http://d.hatena.ne.jp/haxis_fx/20110726/1311657175)

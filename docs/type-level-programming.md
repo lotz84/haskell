@@ -184,6 +184,7 @@ circum (Circle _ _ r) = …
 * [[1701.03320] An Introduction to Liquid Haskell](https://arxiv.org/abs/1701.03320)
 * [languagengine - Blog - Proof Refinement Basics](http://languagengine.co/blog/proof-refinement-basics/)
 * [languagengine - Blog - Bidirectional Proof Refinement](http://languagengine.co/blog/bidirectional-proof-refinement/)
+* [BOB 2017 - Philipp Kant: Performance and Safety: an Example of using Liquid Haskell in the Real Worl - YouTube](https://www.youtube.com/watch?v=8Y78eTaEkBU)
 
 ## Dependent Types
 * [実世界を扱う依存型プログラミングのたぶん基本～外界から安全な世界までの道](http://notogawa.hatenablog.com/entry/2016/10/20/001812)
@@ -204,6 +205,7 @@ circum (Circle _ _ r) = …
 * [First Experiments With Dependent Types In GHC](http://sylvain-henry.info/home/posts/2016-03-18-first-experiments-with-dependent-types.html)
 * [11 Levity Polymorphism In Dependent Haskell](https://www.youtube.com/watch?v=gn_ho6amc7U)
 * [依存型による定理証明Tips: coherenceは型で表せ](http://myuon-myon.hatenablog.com/entry/2016/12/11/204537)
+* [A Specification for Dependently-Typed Haskell (Extended version)](http://www.seas.upenn.edu/~sweirich/papers/systemd-submission.pdf)
 
 ```haskell
 {-# LANGUAGE GADTs, DataKinds, KindSignatures, TypeFamilies #-}
