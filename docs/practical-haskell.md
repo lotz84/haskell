@@ -144,7 +144,7 @@
 * [Deni Bertovic :: Haskell and Docker: Down the rabbit hole and back](https://denibertovic.com/posts/haskell-and-docker-down-the-rabbit-hole-and-back/)
 * [Immutability, Docker, and Haskell's ST type](https://www.fpcomplete.com/blog/2017/02/immutability-docker-haskells-st-type)
 
-##CI
+## CI
 * [Shake](http://shakebuild.com/)
   * [Applicative vs Monadic build systems](http://neilmitchell.blogspot.co.uk/2014/07/applicative-vs-monadic-build-systems.html)
   * [Defining your own build system With Shake](http://ndmitchell.com/downloads/slides-defining_your_own_build_system_with_shake-09_oct_2015.pdf)
