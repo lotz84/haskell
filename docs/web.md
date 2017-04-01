@@ -52,6 +52,7 @@ Client
 * [basvandijk/rss](https://github.com/basvandijk/rss)
 * [pontarius/pontarius-xmpp](https://github.com/pontarius/pontarius-xmpp)
 * [Ballast, a library for talking to Shipwire – alexeyzabelin.com](http://alexeyzabelin.com/haskell-api-wrapper)
+* [Studio Ghibli API](https://ghibliapi.herokuapp.com/#)
 * HTTP Client
   * [owainlewis/http-dispatch](https://github.com/owainlewis/http-dispatch)
   * [http-client](https://hackage.haskell.org/package/http-client)
@@ -71,6 +72,7 @@ Client
   * [aristidb/aws](https://github.com/aristidb/aws)
   * [brendanhay/amazonka](https://github.com/brendanhay/amazonka)
   * [Haskell で AWS を扱う amazonka ライブラリの紹介](http://qiita.com/algas/items/67effd61eac62595f50b)
+  * [minio/minio-hs: Minio Client SDK for Haskell](https://github.com/minio/minio-hs)
 * Reddit - [reddit](https://hackage.haskell.org/package/reddit)
 * IRC - [glguy/irc-core](https://github.com/glguy/irc-core)
 * Twilio - [steven777400/TwilioIVR](https://github.com/steven777400/TwilioIVR/)
@@ -424,6 +426,8 @@ Web Application Framework
 * [Yesodのテストを読み解く](http://qiita.com/jabaraster/items/6cfb39776cbac9cfd3e0)
 * [Yesod でパンくずリストを作る](http://qiita.com/waddlaw/items/95eee551d196d55bf90d)
 * [Yahoo! JapanのOpenID Connectをyesodで試す - Qiita](http://qiita.com/YoshikuniJujo/items/eef917c00db5156aaa83)
+* [Yesod で現在のページがトップページかどうか判定する方法 - Qiita](http://qiita.com/waddlaw/items/ef46dec0b568a57fbde5)
+* [Hamlet で生成される HTML を minify する方法 - Qiita](http://qiita.com/waddlaw/items/7cffe2816d9ba7c0c434)
 
 Protocol
 --------
@@ -472,6 +476,7 @@ Heroku
 * [Pair programming with Haskell and Digital Ocean](http://begriffs.com/posts/2014-06-09-pair-programming-with-haskell-and.html)
 * [Making a Haskell (Scotty) web app and putting it on Heroku](http://qiita.com/kimagure/items/5947e2db40b9ec2226bf)
 * [Haskell, Redis, Mailgun and Heroku Scheduler - Ecky Putrady](http://eckyputrady.com/2017/02/18/Haskell-Heroku-Mailgun-Redis/)
+* [ARoW.info Blog -- Releasing a Haskell Web App on Heroku with Docker](https://arow.info/blog/posts/2017-03-30-servant-on-heroku.html)
 
 ### Haskell on Heroku
 * [Haskell on Heroku](https://haskellonheroku.com/)

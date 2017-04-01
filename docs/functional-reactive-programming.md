@@ -64,6 +64,7 @@
 * [reinh/reflex-dom-stack-demo](https://github.com/reinh/reflex-dom-stack-demo)
 * [On Reflex - Boston Haskell - Greg Hale](https://www.youtube.com/watch?v=MfXxuy_CJSk)
 * [2017 02 23 Niklas Hambüchen FRP browser programming with Reflex - YouTube](https://www.youtube.com/watch?v=dNGClNsnn24)
+* [hansroland/reflex-dom-inbits: A tutorial about reflex-dom with small code bits](https://github.com/hansroland/reflex-dom-inbits)
 
 ### Netwire
 * [Today in Code — Almost a Netwire 5 Tutorial](http://todayincode.tumblr.com/post/96914679355/almost-a-netwire-5-tutorial)

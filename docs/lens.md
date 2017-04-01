@@ -35,6 +35,7 @@
 * [Lenses: Yoneda with Adjunctions](https://bartoszmilewski.com/2016/09/06/lenses-yoneda-with-adjunctions/)
 * [$(lens 'foo) -- handy one-off lens maker for record fields](https://gist.github.com/chrisdone/c50e2ffc9e71a38d4fed9813fa90bbf4)
 * [Oleg's gists - Affine Traversal](http://oleg.fi/gists/posts/2017-03-20-affine-traversal.html)
+* [Oleg's gists - Compiling lenses](http://oleg.fi/gists/posts/2017-03-31-compiling-lenses.html)
 
 > Thus the Yoneda embedding of the functor category leads to the van Laarhoven representation of the lens
 
@@ -50,6 +51,7 @@
 * [What are some motivating examples for Cofree CoMonad in Haskell?](http://stackoverflow.com/questions/38816993/what-are-some-motivating-examples-for-cofree-comonad-in-haskell)
 * [Comonadic Collision Resolution](http://reasonablypolymorphic.com//blog/comonadic-physics)
 * [Comonads](https://bartoszmilewski.com/2017/01/02/comonads/)
+* [Who needs HashLife when you have comonads?](https://samtay.github.io/posts/comonadic-game-of-life.html)
 
 ```hs
 class Functor w => Comonad w where

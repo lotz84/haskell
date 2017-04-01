@@ -165,6 +165,8 @@ instance Monad Dist where
 * [「確率変数」の一般論は可能か - 檜山正幸のキマイラ飼育記](http://d.hatena.ne.jp/m-hiyama/20170303/1488525802)
 * [確率・統計の「分布」の意味と使用法 - 檜山正幸のキマイラ飼育記](http://d.hatena.ne.jp/m-hiyama/20170308/1488931387)
 * [心が安らぐ「分布の空間」を定義してみる - 檜山正幸のキマイラ飼育記](http://d.hatena.ne.jp/m-hiyama/20170313/1489368546)
+* [同時確率分布の圏 - 檜山正幸のキマイラ飼育記](http://d.hatena.ne.jp/m-hiyama/20170329/1490772264)
+* [同時確率分布の圏の使用例：超具体的 - 檜山正幸のキマイラ飼育記](http://d.hatena.ne.jp/m-hiyama/20170330/1490834604)
 
 ## 自動微分
 * [ad](https://hackage.haskell.org/package/ad)

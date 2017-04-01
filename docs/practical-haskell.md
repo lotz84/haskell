@@ -53,6 +53,7 @@
 * [Updated Hackage mirroring](https://www.fpcomplete.com/blog/2016/09/updated-hackage-mirroring)
 * [Try Backpack: Cabal packages : Inside 214-1E](http://blog.ezyang.com/2017/01/try-backpack-cabal-packages/)
 * [Minimal Cabal Files - jpvillaisaza](https://jpvillaisaza.github.io/2017/03/14/minimal-cabal-files/)
+* [TerrorJack/Cabal-playground: Logs the input & output of Cabal hooks. Useful for debugging Cabal build process.](https://github.com/TerrorJack/Cabal-playground)
 
 ## Stack
 * [The Haskell Tool Stack](http://docs.haskellstack.org/en/stable/README.html)
@@ -167,6 +168,7 @@
 * [Non-recursive Make Considered Harmful](http://research.microsoft.com/en-us/um/people/simonpj/papers/ghc-shake/ghc-shake.pdf)
 * [yesodweb/Shelly.hs](https://github.com/yesodweb/Shelly.hs)
 * [lpsmith/configurator-ng](https://github.com/lpsmith/configurator-ng/blob/5a0722ffc2667e0605efb7c3e722a3e8ea8c39c6/README.markdown)
+* [Hapistrano's new features](https://stackbuilders.com/news/hapistrano-s-new-features)
 
 ## FFI
 * [inline-c](https://hackage.haskell.org/package/inline-c)
@@ -287,3 +289,4 @@
 * [The typed-process library](https://www.fpcomplete.com/blog/2017/02/typed-process)
 * [HaskellにおけるConfigurations Problemを解決する - m2ymの雑記帳](http://cx4a.org/posts/2014-06-03-solve-the-configurations-problem-for-haskell.html)
 * [Automating static analysis for Haskell projects.](http://lwm.github.io/haskell-static/)
+* [BOB 2017 - Andres Löh: Write one program, get two (or three, or many) - YouTube](https://www.youtube.com/watch?v=w43kve1zeoI)
