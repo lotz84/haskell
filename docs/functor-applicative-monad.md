@@ -81,6 +81,7 @@ type (~>) f g = forall x. f x -> g x
 * [The natural-transformation package](https://hackage.haskell.org/package/natural-transformation)
 * [3 06 Synthesis with String Diagrams in Haskell](https://www.youtube.com/watch?v=w6Is69Ri9Xs)
 * [length は リスト函手から定数函手への自然変換だよ on Coq.](https://gist.github.com/mathink/31376030e03b4bb254ac)
+* [Fast total sorting of arbitrary Traversable containers](https://gist.github.com/treeowl/9621f58d55fe0c4f9162be0e074b1b29)
 
 ## モナド
 「環」の理論を知らなくても整数の足し算掛け算が出来るように、モナドの数学的な側面を知らなくてもモナドを使うことは出来る。
