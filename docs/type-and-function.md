@@ -27,6 +27,7 @@
 * [【Haskell】 言葉の定義まとめ（型クラス、型コンストラクタ、値コンストラクタ、型引数など） - takafumi blog](http://takafumi-s.hatenablog.com/entry/2015/09/25/123335)
 * [Haskell による型安全プログラミングの実装例(和暦) - Qiita](http://qiita.com/algas/items/9e63f7a99303d27a6c03)
 * [why-types/why-types.pdf at master · skaslev/why-types](https://github.com/skaslev/why-types/blob/master/why-types.pdf)
+* [These, Align, and Crosswalk](http://teh.id.au/posts/2017/03/29/these-align-crosswalk/index.html)
 
 ### 代数的データ型
 代数的データ型とは"足し算"と"掛け算"が出来るような型のこと。"足し算"と"掛け算"はそれぞれ**直和**, **直積** と呼ばれる。
@@ -48,11 +49,11 @@ type a * b = (a, b)
 * [Overcoming Boolean blindness with Evidence](http://cs-syd.eu/posts/2016-07-24-overcoming-boolean-blindness-evidence.html)
 * [代数的データ型のデータのとりうる数を微分すると１穴空きデータ型の数になる話 - Qiita](http://qiita.com/mittyantest/items/f8783834e6bb48baf2c8)
 
-###Codata
+### Codata
 * [Codata](http://types2004.lri.fr/SLIDES/altenkirch.pdf)
 * [Data and Codata](http://blog.sigfpe.com/2007/07/data-and-codata.html)
 
-###Zipper
+### Zipper
 * [zipper](https://hackage.haskell.org/package/zipper)
 * [Zippers - LYAH](http://learnyouahaskell.com/zippers)
 * [データ型の微分](http://ja.wikibooks.org/wiki/Haskell/Zippers#.E3.83.87.E3.83.BC.E3.82.BF.E5.9E.8B.E3.81.AE.E5.BE.AE.E5.88.86)
@@ -68,7 +69,7 @@ type a * b = (a, b)
 * [Descriptive Variable Names: A Code Smell](http://degoes.net/articles/insufficiently-polymorphic)
 * [map関数](http://qiita.com/knknkn1162/items/92de8dd250ff94cd86f1)
 
-###パターンマッチ
+### パターンマッチ
 * [Pattern matching](http://mbps.hatenablog.com/entry/2014/10/04/010000)
 * [PATTERN MATCHING: WOT'S... UH THE DEAL?](http://www.stackbuilders.com/news/pattern-matching-wot-s-uh-the-deal)
 * [Pattern and Guard Extensions](https://www.fpcomplete.com/school/to-infinity-and-beyond/pick-of-the-week/guide-to-ghc-extensions/pattern-and-guard-extensions)
@@ -90,7 +91,7 @@ uncurry :: (a -> b -> c) -> (a, b) -> c
 
 出典: [関数合成の妙技](http://d.hatena.ne.jp/kazu-yamamoto/20100702/1278036842)
 
-###ポイントフリー
+### ポイントフリー
 必要のないところでポイントワイズに書く必要はないが、あまりポイントフリーに拘りすぎないのも大事
 
 * [ポイントフリースタイル入門](http://d.hatena.ne.jp/melpon/20111031/1320024473)
@@ -99,7 +100,7 @@ uncurry :: (a -> b -> c) -> (a, b) -> c
   * [pointfree](https://hackage.haskell.org/package/pointfree)
 * ["Point-Free or Die: Tacit Programming in Haskell and Beyond" by Amar Shah](https://www.youtube.com/watch?v=seVSlKazsNk)
 
-###遅延評価
+### 遅延評価
 * [Schrödinger's cat](https://ro-che.info/ccc/4)
 * [Résumé](https://ro-che.info/ccc/11)
 * [正格評価と遅延評価（基本編）](http://qiita.com/ruicc/items/07143c9e78c697227706)
@@ -134,7 +135,7 @@ fib n = fibs !! (n-1) + fibs !! (n-2)
 * [Haskellでメモ化を行うもう一つの方法](http://d.hatena.ne.jp/tanakh/20100411)
 * [Kwang's Haskell Blog - Memoization in Haskell](https://kseo.github.io//posts/2017-01-14-memoization-in-hasekll.html)
 
-###部分関数
+### 部分関数
 * [Partial Function Considered Harmful](http://tanakh.jp/posts/2011-12-25-partial-function-considered-harmful.html)
 * <https://twitter.com/GabrielG439/status/671803691591077888>
 * [24 days of Hackage, 2015: day 16: safe; what is safety anyway?](http://conscientiousprogrammer.com/blog/2015/12/16/24-days-of-hackage-2015-day-16-safe-what-is-safety-anyway/)
