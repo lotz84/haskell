@@ -201,6 +201,7 @@ Web Server
 * [2016 10 27 - Carl Baatz - Build yourself a Haskell web framework](https://www.youtube.com/watch?v=etuSnom2v2M)
 * [sarthakbagaria/web-push](https://github.com/sarthakbagaria/web-push)
 * [HaskellでServer::Starterを使う - Qiita](http://qiita.com/hiratara/items/2dacf8470c378b130d5c)
+* [IRIS Connect Engineers' Blog - Deploying Haskell on AWS Lambda](http://engineers.irisconnect.net/posts/2017-03-16-deploying-haskell-on-aws-lambda.html)
 
 ### WAI/Warp
 * [Haskell版フォルダを指定してhttpで公開する簡易Webサーバー](http://qiita.com/saturday06/items/fad44a9bc49b2f387bde)
