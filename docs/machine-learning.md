@@ -195,6 +195,7 @@ instance Monad Dist where
 * [autumnai/leaf](https://github.com/autumnai/leaf)
 * ["Haskell's stochastic gradient descent implementations comparison.](https://github.com/argent0/haskell-ml-benchmark/blob/master/result/main.md)
 * [tensorflow/haskell](https://github.com/tensorflow/haskell)
+* [ThoughtWorksInc/DeepDarkFantasy: A Programming Language for Deep Learning](https://github.com/ThoughtWorksInc/DeepDarkFantasy)
 
 ### Neural Network
 * [jbarrow/LambdaNet](https://github.com/jbarrow/LambdaNet)
