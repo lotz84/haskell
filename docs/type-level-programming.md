@@ -206,6 +206,7 @@ circum (Circle _ _ r) = …
 * [11 Levity Polymorphism In Dependent Haskell](https://www.youtube.com/watch?v=gn_ho6amc7U)
 * [依存型による定理証明Tips: coherenceは型で表せ](http://myuon-myon.hatenablog.com/entry/2016/12/11/204537)
 * [A Specification for Dependently-Typed Haskell (Extended version)](http://www.seas.upenn.edu/~sweirich/papers/systemd-submission.pdf)
+* [A type theory based on indexed equality - Implementation](http://twanvl.nl/blog/hott/indexed-equality-implementation)
 
 ```haskell
 {-# LANGUAGE GADTs, DataKinds, KindSignatures, TypeFamilies #-}
