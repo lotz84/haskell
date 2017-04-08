@@ -92,7 +92,7 @@ $ alias ghci='stack ghci --'
 * [IntelliJでHaskell](http://qiita.com/eielh/items/f121fbd2def8c887405f)
 * [IntelliJ (with Stack) as Haskell IDE - YouTube](https://www.youtube.com/watch?v=KXd8mV7Vzhc)
 
-###Others
+### Others
 * [Leksah](http://leksah.org/)
 * [EclipseFP](http://eclipsefp.github.io/)
 * [[Haskell-cafe] [ANN] haskell-ide project](https://mail.haskell.org/pipermail/haskell-cafe/2015-October/121875.html)
@@ -103,6 +103,7 @@ $ alias ghci='stack ghci --'
 * [ndmitchell/ghcid](https://github.com/ndmitchell/ghcid)
 * [Project Proposal](http://stefanj.me/funblocks/2016/05/23/project-proposal/)
 * [Hello World](http://stefanj.me/funblocks/2016/05/24/hello-world/)
+* [Haskell-tools](http://haskelltools.org/)
 * [Another Web-based Haskell IDE](http://jpmoresmau.blogspot.jp/2016/07/another-web-based-haskell-ide.html)
 * [Tidalでライブコーディング! - セットアップ編](http://qiita.com/yoppa/items/41805cc6af62b1047a34)
 * [transient-haskell/transient - Running example(s)](https://github.com/transient-haskell/transient/wiki/Running-example(s))
