@@ -1,4 +1,4 @@
-#型クラスと抽象
+# 型クラスと抽象
 
 ![](https://i.gyazo.com/51a4265483dc39c8c43d90a1e60f4fac.jpg)
 
@@ -63,6 +63,7 @@ instance Show Bool where
 * [Type defaulting in Haskell](http://kseo.github.io/posts/2017-01-04-type-defaulting-in-haskell.html)
 * [How do type classes differ from interfaces?](http://www.parsonsmatt.org/2017/01/07/how_do_type_classes_differ_from_interfaces.html)
 * [型クラスのインスタンスが複数ある場合の話(Haskell編) - きくらげ観察日記](http://inkar-us-i.hatenablog.com/entry/2017/01/25/120000)
+* [functor.tokyo -- When is UndecidableInstances safe?](https://functor.tokyo/blog/2017-04-07-undecidable-instances)
 
 ## 代数的な型クラス
 * [tower](https://tonyday567.github.io/tower/index.html)
