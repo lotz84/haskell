@@ -1,5 +1,3 @@
-##Lens
-
 > いわゆるgetter/setterの圏論による表現。
 
 出典: [Lens](http://mbps.hatenablog.com/entry/2014/10/28/152931)
@@ -36,6 +34,7 @@
 * [$(lens 'foo) -- handy one-off lens maker for record fields](https://gist.github.com/chrisdone/c50e2ffc9e71a38d4fed9813fa90bbf4)
 * [Oleg's gists - Affine Traversal](http://oleg.fi/gists/posts/2017-03-20-affine-traversal.html)
 * [Oleg's gists - Compiling lenses](http://oleg.fi/gists/posts/2017-03-31-compiling-lenses.html)
+* [Oleg's gists - Mutated lenses](http://oleg.fi/gists/posts/2017-04-07-mutated-lens.html)
 
 > Thus the Yoneda embedding of the functor category leads to the van Laarhoven representation of the lens
 
