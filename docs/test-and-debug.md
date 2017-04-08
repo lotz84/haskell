@@ -45,6 +45,7 @@
 * [Lysxia/metamorph](https://github.com/Lysxia/metamorph) - Monomorphize polymorphic functions for testing
 * [Code Checking Automation - Computerphile - YouTube](https://www.youtube.com/watch?v=AfaNEebCDos)
 * [phadej/cabal-doctest: A Setup.hs helper for doctest running](https://github.com/phadej/cabal-doctest)
+* [hedgehog: Hedgehog will eat all your bugs.](https://hackage.haskell.org/package/hedgehog)
 
 ### QuickCheck
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
