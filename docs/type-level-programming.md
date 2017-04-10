@@ -45,15 +45,12 @@
 * [Vorlesung 1: Typen und Typtheorie - FFPiHaskell (16.04.2016)](https://www.youtube.com/watch?v=T3gSCeumtgQ)
 * [Hindley-Milner with top-level existentials](http://blog.ezyang.com/2016/04/hindley-milner-with-top-level-existentials/)
 * [Beyond Church encoding: Boehm-Berarducci isomorphism of algebraic data types and polymorphic lambda-terms](http://okmij.org/ftp/tagless-final/course/Boehm-Berarducci.html)
-* [Induction is Not Derivable in Second Order Dependent Type Theory](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.26.957)
 * [A Logic for Parametric Polymorphism](https://www.era.lib.ed.ac.uk/bitstream/handle/1842/205/Par_Poly.pdf;jsessionid=5D5750A7453594A8BDAAFB12E612211D?sequence=1)
 * [Quantifiers in type theory](http://winterkoninkje.dreamwidth.org/108092.html)
 * [Typed Routing with Continuations](https://www.youtube.com/watch?v=tQI2JJwD_ZY)
 * [型レベル数値リテラル](http://qiita.com/eielh/items/275a4cc3de033904897a)
 * [型を表示する関数](http://qiita.com/ruicc/items/d04a9f61a5fa702f10d5)
 * [No value restriction is needed for algebraic effects and handlers](https://arxiv.org/abs/1605.06938)
-* [Practical Dependent Types in Haskell: Type-Safe Neural Networks (Part 1)](https://blog.jle.im/entry/practical-dependent-types-in-haskell-1.html)
-* [Practical Dependent Types in Haskell 2: Existential Neural Networks and Types at Runtime](https://blog.jle.im/entry/practical-dependent-types-in-haskell-2.html)
 * [Indexed Codata Types](http://www.cs.mcgill.ca/~bpientka/papers/indexed_codata.pdf)
 * [Church’s Thesis and Functional Programming](https://www.cs.kent.ac.uk/people/staff/dat/miranda/ctfp.pdf)
 * [The reflection package](https://hackage.haskell.org/package/reflection)
@@ -207,6 +204,10 @@ circum (Circle _ _ r) = …
 * [依存型による定理証明Tips: coherenceは型で表せ](http://myuon-myon.hatenablog.com/entry/2016/12/11/204537)
 * [A Specification for Dependently-Typed Haskell (Extended version)](http://www.seas.upenn.edu/~sweirich/papers/systemd-submission.pdf)
 * [A type theory based on indexed equality - Implementation](http://twanvl.nl/blog/hott/indexed-equality-implementation)
+* [Dependent types in Haskell: Progress Report | Types and Kinds](https://typesandkinds.wordpress.com/2016/07/24/dependent-types-in-haskell-progress-report/)
+* [Induction is Not Derivable in Second Order Dependent Type Theory](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.26.957)
+* [Practical Dependent Types in Haskell: Type-Safe Neural Networks (Part 1)](https://blog.jle.im/entry/practical-dependent-types-in-haskell-1.html)
+* [Practical Dependent Types in Haskell 2: Existential Neural Networks and Types at Runtime](https://blog.jle.im/entry/practical-dependent-types-in-haskell-2.html)
 
 ```haskell
 {-# LANGUAGE GADTs, DataKinds, KindSignatures, TypeFamilies #-}
@@ -240,7 +241,7 @@ shorten xs = case vecNull' xs of
 
 出展: [Smarter conditionals with dependent types: a quick case study](http://lambda.jstolarek.com/2015/04/smarter-conditionals-with-dependent-types-a-quick-case-study/)
 
-###一般化代数的データ型
+### 一般化代数的データ型
 * [一般化代数データ型(GADT)](http://www.kotha.net/ghcguide_ja/latest/data-type-extensions.html#gadt)
 * [GADTs使ってみた](http://faithandbrave.hateblo.jp/entry/20111201/1322718742)
 * [型安全なリストを作るのです(｀・ω・´) ～ その2、GADTsと依存型＞ω＜](https://kagamilove0707.github.io/programming/2014/02/21/gadts-and-dependent-type/)
@@ -253,7 +254,7 @@ shorten xs = case vecNull' xs of
 * [DataKindsとGADTの使い方について](http://myuon-myon.hatenablog.com/entry/2015/06/14/222142)
 * [Ghostbuster: A Tool for Simplifying and Converting GADTs](http://www.cs.ox.ac.uk/people/timothy.zakian/ghostbuster.pdf)
 
-###Multi-parameter type class
+### Multi-parameter type class
 * [Multi-parameter type class](https://wiki.haskell.org/Multi-parameter_type_class)
 
 Lucid の例
@@ -269,12 +270,12 @@ p_ :: Term arg result => arg -> result
 
 * [Moving from Multiparameter Type Classes and Functional Dependencies to Type Families in Haskell](https://dikgwahlapiso.wordpress.com/2015/08/30/moving-from-multiparameter-type-classes-and-functional-dependencies-to-type-families-in-haskell/)
 
-###Functional dependencies
+### Functional dependencies
 * [Functional dependencies](https://www.haskell.org/haskellwiki/Functional_dependencies)
 * [24 Days of GHC Extensions: Functional Dependencies](https://ocharles.org.uk/blog/posts/2014-12-14-functional-dependencies.html)
 * [Typed type-level programming in Haskell, part I: functional dependencies](https://byorgey.wordpress.com/2010/06/29/typed-type-level-programming-in-haskell-part-i-functional-dependencies/)
 
-###Type Families
+### Type Families
 * [GHC/Type families - HaskellWiki](https://wiki.haskell.org/GHC/Type_families)
 * [What are type families?](https://typesandkinds.wordpress.com/2015/09/09/what-are-type-families/)
 * [24 Days of GHC Extensions: Type Families](https://ocharles.org.uk/blog/posts/2014-12-12-type-families.html)
@@ -336,6 +337,6 @@ instance Eval' Hole where
     eval' _ ret n = ret n
 ```
 
-###Singleton
+### Singleton
 * [singletons](https://hackage.haskell.org/package/singletons)
 * [Singletons](http://mbps.hatenablog.com/entry/2013/05/23/084257)
