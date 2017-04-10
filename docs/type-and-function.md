@@ -28,6 +28,7 @@
 * [Haskell による型安全プログラミングの実装例(和暦) - Qiita](http://qiita.com/algas/items/9e63f7a99303d27a6c03)
 * [why-types/why-types.pdf at master · skaslev/why-types](https://github.com/skaslev/why-types/blob/master/why-types.pdf)
 * [These, Align, and Crosswalk](http://teh.id.au/posts/2017/03/29/these-align-crosswalk/index.html)
+* [Maybe? Use a type parameter!](http://www.parsonsmatt.org/2017/04/08/maybe_use_a_type_parameter.html)
 
 ### 代数的データ型
 代数的データ型とは"足し算"と"掛け算"が出来るような型のこと。"足し算"と"掛け算"はそれぞれ**直和**, **直積** と呼ばれる。

@@ -30,6 +30,7 @@
 * [tdigest: On-line accumulation of rank-based statistics](https://hackage.haskell.org/package/tdigest)
 * [Recursive Stochastic Processes · jtobin.io](https://jtobin.io/recursive-stochastic-processes)
 * [Haskell: Data Analysis Made Easy | PACKT Books](https://www.packtpub.com/big-data-and-business-intelligence/haskell-data-analysis-made-easy)
+* [HaskellでMNISTを使えるようにする - Qiita](http://qiita.com/ku00/items/2a8166735edb32b5766d)
 
 ## HaskellR
 * [HaskellR](http://tweag.github.io/HaskellR/)

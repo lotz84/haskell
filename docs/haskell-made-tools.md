@@ -131,6 +131,9 @@ $ cat /etc/passwd | hawk -d: -m 'head'
 root
 ```
 
+### hcraft
+* [nandor/hcraft: Haskell clone of a certain game](https://github.com/nandor/hcraft)
+
 ### hell
 * Haskellの式を直接評価することができるShell
 * <https://github.com/chrisdone/hell>

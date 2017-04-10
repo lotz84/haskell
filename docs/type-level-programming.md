@@ -159,6 +159,7 @@ circum (Circle _ _ r) = …
 * [Parametricity: Money for Nothing and Theorems for Free](http://bartoszmilewski.com/2014/09/22/parametricity-money-for-nothing-and-theorems-for-free/)
 * [The Essential Tools of Open-Source: Functional Programming, Parametricity, Types](https://www.youtube.com/watch?v=4hTtcUeqmfY)
 * [Parametricity and excluded middle](http://homotopytypetheory.org/2016/02/24/parametricity-and-excluded-middle/)
+* [Djinn](http://www.hedonisticlearning.com/djinn/)
 
 ## Refinement Type
 * [LiquidHaskell](https://ucsd-progsys.github.io/liquidhaskell-blog/)

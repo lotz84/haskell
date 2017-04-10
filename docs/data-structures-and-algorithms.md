@@ -155,6 +155,7 @@
 * [heredocsの紹介](http://qiita.com/cutsea110/items/4eb22cbb3f874436d33f)
 * [Decomposing a string into its elements](https://www.stephanboyer.com/post/126/decomposing-a-string-into-its-elements)
 * [Advent of code #16 solution: an algebra of bitstrings | blog :: Brent -> [String]](https://byorgey.wordpress.com/2017/01/27/advent-of-code-16-solution-an-algebra-of-bitstrings/)
+* [aelve/fmt: New formatting library](https://github.com/aelve/fmt)
 
 ### リスト
 * [Haskell Data.Listのリスト操作関数（サンプル付き） - Qiita](http://qiita.com/aosho235/items/94787fe0901141598c91)
