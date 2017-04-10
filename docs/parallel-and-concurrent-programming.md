@@ -33,6 +33,7 @@
 * [Green Threads are like Garbage Collection](https://www.fpcomplete.com/blog/2017/01/green-threads-are-like-garbage-collection)
 * [Asynchronous Exceptions in Practice · Simon Marlow](http://simonmar.github.io/posts/2017-01-24-asynchronous-exceptions.html)
 * [gochan: Go-style channels](http://hackage.haskell.org/package/gochan-0.0.2)
+* [Mio: A High-Performance Multicore IO Manager for GHC](http://haskell.cs.yale.edu/wp-content/uploads/2013/08/hask035-voellmy.pdf)
 
 ## 並列
 * [monad-par](https://hackage.haskell.org/package/monad-par)
