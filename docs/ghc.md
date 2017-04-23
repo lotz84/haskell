@@ -92,6 +92,7 @@
 * [[Haskell-cafe] ANN: `dump-core` a prettier GHC core viewer](https://mail.haskell.org/pipermail/haskell-cafe/2017-January/125923.html)
 * [ZuriHac 2016 - Low-level Haskell: An Interactive Tour Through the STG](https://www.youtube.com/watch?v=-MFk7PIKYsg)
 * [Turn GHC into a frontend for miniSTG](http://blog.haskell-exists.com/yuras/posts/turn-ghc-into-frontend-for-ministg.html)
+* [veggies: Haskell code generation from scratch – Blog – Joachim Breitner's Homepage](http://www.joachim-breitner.de/blog/719-veggies__Haskell_code_generation_from_scratch)
 
 ### Runtime System
 * [Haskell Compiler (rts)](http://www.scs.stanford.edu/14sp-cs240h/slides/ghc-rts.pdf)

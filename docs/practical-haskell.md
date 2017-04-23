@@ -54,6 +54,7 @@
 * [Try Backpack: Cabal packages : Inside 214-1E](http://blog.ezyang.com/2017/01/try-backpack-cabal-packages/)
 * [Minimal Cabal Files - jpvillaisaza](https://jpvillaisaza.github.io/2017/03/14/minimal-cabal-files/)
 * [TerrorJack/Cabal-playground: Logs the input & output of Cabal hooks. Useful for debugging Cabal build process.](https://github.com/TerrorJack/Cabal-playground)
+* [Better Haskell packages with hpack · taylor.fausak.me](http://taylor.fausak.me/2017/04/12/better-haskell-packages-with-hpack/)
 
 ## Stack
 * [The Haskell Tool Stack](http://docs.haskellstack.org/en/stable/README.html)
@@ -290,3 +291,5 @@
 * [HaskellにおけるConfigurations Problemを解決する - m2ymの雑記帳](http://cx4a.org/posts/2014-06-03-solve-the-configurations-problem-for-haskell.html)
 * [Automating static analysis for Haskell projects.](http://lwm.github.io/haskell-static/)
 * [BOB 2017 - Andres Löh: Write one program, get two (or three, or many) - YouTube](https://www.youtube.com/watch?v=w43kve1zeoI)
+* [Trouble with Tribbles | Maths, Stats & Functional Programming](https://idontgetoutmuch.wordpress.com/2017/04/18/trouble-with-tribbles/)
+* [Lost in Technopolis](http://newartisans.com/2017/04/haskell-and-z3/)

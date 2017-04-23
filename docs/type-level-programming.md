@@ -145,6 +145,7 @@ circum (Circle _ _ r) = …
 * [第 16 章 Hindley/Milner 型推論](http://www29.atwiki.jp/tmiya/pages/78.html)
 * [An Explanation of Type Inference for ML/Haskell](http://jozefg.bitbucket.org/posts/2015-02-28-type-inference.html)
 * [Haskell Suite: Type inference.](http://lhc-compiler.blogspot.jp/2016/09/haskell-suite-type-inference.html)
+* [Type Systems as Macros](http://www.ccs.neu.edu/home/stchang/popl2017/)
 
 ## Parametricity
 * [Theorems for free!](http://www.cs.sfu.ca/CourseCentral/831/burton/Notes/July14/free.pdf)
@@ -209,6 +210,7 @@ circum (Circle _ _ r) = …
 * [Induction is Not Derivable in Second Order Dependent Type Theory](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.26.957)
 * [Practical Dependent Types in Haskell: Type-Safe Neural Networks (Part 1)](https://blog.jle.im/entry/practical-dependent-types-in-haskell-1.html)
 * [Practical Dependent Types in Haskell 2: Existential Neural Networks and Types at Runtime](https://blog.jle.im/entry/practical-dependent-types-in-haskell-2.html)
+* [The Influence of Dependent Types -- Stephanie Weirich - YouTube](https://www.youtube.com/watch?v=GgD0KUxMaQs)
 
 ```haskell
 {-# LANGUAGE GADTs, DataKinds, KindSignatures, TypeFamilies #-}

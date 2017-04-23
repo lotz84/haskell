@@ -106,6 +106,8 @@
 * [Introduction to Haskell Programming - Course](https://onlinecourses.nptel.ac.in/noc17_cs11/preview)
 * [The Joy of Haskell](https://joyofhaskell.com/)
 * [Some History of Functional Programming Languages - David Turner (Lambda Days 2017) - YouTube](https://www.youtube.com/watch?v=QVwm9jlBTik)
+* [What pure functional programming is all about: Part 1](https://www.fpcomplete.com/blog/2017/04/pure-functional-programming)
+* [Modern Software Development with Haskell by Runar Bjarnason - YouTube](https://www.youtube.com/watch?v=IKm-YYPaohQ)
 </details>
 
 ## Examples
