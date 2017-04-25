@@ -14,6 +14,7 @@ Template Haskell はHaskellの言語仕様には無くGHCの独自拡張なの�
 * [functor.tokyo -- Inspecting generated Template Haskell](https://functor.tokyo/blog/2017-01-16-looking-at-generated-template-haskell)
 * [Template Haskellを使って定数をコンパイル時に計算しておく - Qiita](http://qiita.com/aosho235/items/62ca7e5b3135e1f3122d)
 * [Quasiquotes and Template Haskell | Py Py Python](http://www.pypython.site/2017/01/quasiquotes-and-template-haskell.html)
+* [maxigit/Metamorphosis: TemplateHaskell functions to generate types and converter function.](https://github.com/maxigit/Metamorphosis)
 
 ```haskell
 {-# LANGUAGE QuasiQuotes #-}

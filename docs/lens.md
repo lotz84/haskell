@@ -36,6 +36,7 @@
 * [Oleg's gists - Compiling lenses](http://oleg.fi/gists/posts/2017-03-31-compiling-lenses.html)
 * [Oleg's gists - Mutated lenses](http://oleg.fi/gists/posts/2017-04-07-mutated-lens.html)
 * [Oleg's gists - Glassery](http://oleg.fi/gists/posts/2017-04-18-glassery.html)
+* [Lost in Technopolis](http://newartisans.com/2017/04/putting-lenses-to-work/)
 
 > Thus the Yoneda embedding of the functor category leads to the van Laarhoven representation of the lens
 

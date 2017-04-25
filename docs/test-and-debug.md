@@ -104,6 +104,7 @@ Passed:
 * [秒速でコピペしたいHaskellデバッグ用関数 - Qiita](http://qiita.com/igrep/items/8b62b856ff42d1f51619)
 * [The Haskell Tracer Hat](http://projects.haskell.org/hat/)
 * [Haskell Object Observation Debugger](http://ku-fpg.github.io/software/hood/)
+* [多相関数のprintfデバッグをGHCiで - www.kotha.netの裏](http://d.hatena.ne.jp/mkotha/20120825/1345913208)
 
 ## 例外処理
 * [エラー処理を書いてはいけない](http://tanakh.jp/pub/pfi-seminar-2011-12-08.html)

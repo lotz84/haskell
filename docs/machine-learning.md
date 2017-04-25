@@ -64,6 +64,7 @@
 * [Haskellの行列計算ライブラリの計算時間を比較](http://qiita.com/pupuu/items/b59f4dae96327876e887)
 * [Haskellで行列式を計算する](http://zodi-g12.hatenablog.com/entry/2016/12/21/165703)
 * [Effective Array Computation in Haskell – The theam journey – Medium](https://medium.com/the-theam-journey/effective-array-computation-in-haskell-11e5c334c68a#.vrgo3zbdr)
+* [naperian tensors](https://tonyday567.github.io/naperian/index.html)
 
 ## 確率
 * [プログラミングのための確率統計 in Haskell](http://note.golden-lucky.net/2010/12/1-2-3-4-5-6-16-16-16-16-16-16-246-135.html)

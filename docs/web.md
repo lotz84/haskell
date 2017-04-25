@@ -217,6 +217,7 @@ Web Server
 * [What is HTTP/2 server push?](http://www.yesodweb.com/blog/2016/07/http2-server-push)
 * [jfischoff/reuse-port-example](https://github.com/jfischoff/reuse-port-example)
 * [ondrap/haskell-gssapi](https://github.com/ondrap/haskell-gssapi)
+* [psibi/wai-slack-middleware: A Slack middleware for wai](https://github.com/psibi/wai-slack-middleware#readme)
 
 Web Application Framework
 -------------------------

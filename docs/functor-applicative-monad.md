@@ -172,6 +172,7 @@ class Monad m where
 * [2017 02 08 - Ben Lippmeier - An overview of the DDC compiler - YouTube](https://www.youtube.com/watch?v=QShfhs7nToI)
 * [Partial patterns in do blocks: let vs return](https://www.fpcomplete.com/blog/2017/03/partial-patterns-do-blocks)
 * [Obey the (Type) Laws!](https://hackernoon.com/obey-the-type-laws-ffb2fa4e5fe2#.x2lshvr9k)
+* [A Logical Relation for Monadic Encapsulation of State Proving contextual equivalences in the presence of runST](http://iris-project.org/pdfs/runST.pdf)
 
 ```haskell
 do x <- mx

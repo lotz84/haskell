@@ -13,8 +13,9 @@
 * [What's new with GHC generics in 8.0](http://ryanglscott.github.io/2016/05/12/whats-new-with-ghc-generics-in-80/)
 * [Exploring Generic Haskell](https://www.andres-loeh.de/ExploringGH.pdf)
 * [Autobahn: using genetic algorithms to infer strictness annotations](http://dl.acm.org/citation.cfm?id=2976009)
+* [Generic zipWith](https://ro-che.info/articles/2017-04-25-generic-zipWith)
 
-##Uniplate
+## Uniplate
 * [uniplate](https://hackage.haskell.org/package/uniplate)
 * [Boilerplate Removal with Uniplate](http://community.haskell.org/~ndm/darcs/uniplate/uniplate.htm)
 * [Control.Lens.Plated](https://hackage.haskell.org/package/lens/docs/Control-Lens-Plated.html)

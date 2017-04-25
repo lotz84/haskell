@@ -3,6 +3,7 @@
 * [Eff](http://www.eff-lang.org/) - a functional language with handlers.
 * [freer-effects: Implementation of effect system for Haskell.](https://hackage.haskell.org/package/freer-effects)
 * [yallop/effects-bibliography: A collaborative bibliography of work related to the theory and practice of computational effects](https://github.com/yallop/effects-bibliography)
+* [Transient: Full Algebraic and monadic composability by Alberto Gómez Corona - YouTube](https://www.youtube.com/watch?v=wqfEX1big4o)
 
 ## Extensible Effects
 * [extensible-effects](https://hackage.haskell.org/package/extensible-effects)

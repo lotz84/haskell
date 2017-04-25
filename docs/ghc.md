@@ -69,6 +69,7 @@
 * [Bootstrapping Haskell: part 1](https://elephly.net/posts/2017-01-09-bootstrapping-haskell-part-1.html)
 * [CPP – Haskell – Aelve Guide](https://guide.aelve.com/haskell/cpp-vww0qd72)
 * [Haskell without GMP](https://ro-che.info/articles/2017-03-10-haskell-without-gmp)
+* [IntelLabs/flrc: Haskell Research Compiler](https://github.com/IntelLabs/flrc)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
@@ -111,6 +112,7 @@
 * [HaskellのFusionがあれば速度と抽象化を両立できる](http://bicycle1885.hatenablog.com/entry/2014/06/10/234448)
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
 * [Natural Transformations as Rewrite Rules and Monad Composition](https://arxiv.org/abs/1612.07273)
+* [An optimization using the foldr fusion law |](http://myhaskelljournal.com/an-optimization-using-foldr-fusion-law/)
 
 ### パフォーマンス
 * [Haskell で高速なプログラムを書くときに注意すること](http://d-poppo.nazo.cc/blog/2016/06/writing-efficient-program-with-haskell/)
