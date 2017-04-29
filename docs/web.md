@@ -202,6 +202,7 @@ Web Server
 * [sarthakbagaria/web-push](https://github.com/sarthakbagaria/web-push)
 * [HaskellでServer::Starterを使う - Qiita](http://qiita.com/hiratara/items/2dacf8470c378b130d5c)
 * [IRIS Connect Engineers' Blog - Deploying Haskell on AWS Lambda](http://engineers.irisconnect.net/posts/2017-03-16-deploying-haskell-on-aws-lambda.html)
+* [IRIS Connect Engineers' Blog - Decrypting Rails Sessions in Haskell](http://engineers.irisconnect.net/posts/2017-04-25-decrypting-rails-sessions-in-haskell.html)
 
 ### WAI/Warp
 * [Haskell版フォルダを指定してhttpで公開する簡易Webサーバー](http://qiita.com/saturday06/items/fad44a9bc49b2f387bde)
@@ -371,6 +372,7 @@ Web Application Framework
 * [Kwang's Haskell Blog - Natural transformations in Servant](https://kseo.github.io//posts/2017-01-18-natural-transformations-in-servant.html)
 * [Kwang's Haskell Blog - How Servant's type-safe links work](https://kseo.github.io//posts/2017-01-20-how-servant%27s-type-safe-links-work.html)
 * [servant-pushbullet-client: Bindings to the Pushbullet API using servant-client](https://hackage.haskell.org/package/servant-pushbullet-client-0.1.0.0)
+* [Haskell Servant OAuth2.0 for GitHub](https://gist.github.com/freckletonj/17eec8959718cb251f29af3645112f4a)
 
 ### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
