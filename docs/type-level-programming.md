@@ -81,6 +81,8 @@
 * [Code Podcast - Episode 5. Type Systems](http://codepodcast.com/s0e5.html)
 * [Andres Löh - Evolving datatypes - YouTube](https://www.youtube.com/watch?v=foF7Xx1K--U)
 * [Maciej Bielecki - Programs at the type level - YouTube](https://www.youtube.com/watch?v=vOTwT5UThxQ)
+* [Basic Type Level Programming in Haskell](http://www.parsonsmatt.org/2017/04/26/basic_type_level_programming_in_haskell.html)
+* [Verifying Data Structures in Haskell - Donnacha Oisín Kidney](http://doisinkidney.com/posts/2017-04-23-verifying-data-structures-in-haskell-lhs.html)
 
 ```haskell
 data Bottom
