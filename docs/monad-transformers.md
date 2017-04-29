@@ -40,6 +40,7 @@
 * [Clean Alternatives with MaybeT](http://www.parsonsmatt.org/2016/11/18/clean_alternatives_with_maybet.html)
 * [John A De Goes: MTL Versus Free Deathmatch - λC 2016 - YouTube](https://www.youtube.com/watch?v=JLevNswzYh8)
 * [Monad Transformer Workshop](https://begriffs.com/posts/2017-04-09-monad-tutorial-workshop.html)
+* [Lifts for free: making mtl typeclasses derivable](https://lexi-lambda.github.io/blog/2017/04/28/lifts-for-free-making-mtl-typeclasses-derivable/)
 
 mtlにはMonad Transformerを新しく定義する度に全ての組み合わせの実装を定義する必要があるという問題点がある。
 
