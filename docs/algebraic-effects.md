@@ -24,3 +24,4 @@
 * [mvv/data-elf](https://github.com/mvv/data-elf)
 * [Extensible Effects はモナド変換子に対する救世主になり得るか？](http://konn-san.com/prog/haskell/extensible-effects.html)
 * [Don't Eff It Up](http://reasonablypolymorphic.com/dont-eff-it-up/#/title)
+* [Freer Monads, More Extensible Effects](https://www.slideshare.net/konn/freer-monads-more-extensible-effects-59411772)
