@@ -29,6 +29,7 @@ $ alias ghci='stack ghci --'
 * [Demo of IHaskell Notebook](http://begriffs.com/posts/2016-01-20-ihaskell-notebook.html)
 
 ## Editor
+* [State of Haskell editor/IDE support](https://github.com/rainbyte/haskell-ide-chart)
 * [Which tab width do you prefer for Haskell code?](http://doodle.com/poll/82xf854t9mmuv22h)
 * [Explicit vertical alignment in Haskell](http://www.joachim-breitner.de/blog/704-Explicit_vertical_alignment_in_Haskell)
 * [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures
