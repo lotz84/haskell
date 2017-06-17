@@ -211,6 +211,7 @@
 * [Haskellで処理時間を測るために、](https://plus.google.com/+MasahiroSakai/posts/AY7uqu6S9X7)
 * [hellerve/Data.DDate](https://github.com/hellerve/Data.DDate)
 * [System.Timeを使うときは気をつけよう](http://qiita.com/watertight/items/294d2ebb73c54d046f63) - `Data.Time`を使おう
+* [The hourglass package](http://hackage.haskell.org/package/hourglass)
 
 ### 動的計画法
 * [Haskell で動的計画法を書くための3つの方針](http://d.hatena.ne.jp/toslunar/20100408/1270719176)
