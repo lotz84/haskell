@@ -187,7 +187,7 @@ z ))
 
 出典: [How to desugar Haskell code ](http://www.haskellforall.com/2014/10/how-to-desugar-haskell-code.html)
 
-###List Monad
+### List Monad
 
 ```haskell
 instance Monad [] where
@@ -201,14 +201,14 @@ instance Monad [] where
 * [Easy exhasutive search with the list monad](http://blog.plover.com/prog/haskell/monad-search.html)
 * [Day 2: [] — Seeing the rest of a program run](https://medium.com/@benclifford/day-2-seeing-the-rest-of-a-program-run-84a1928ce200#.dljrdm7ip)
 
-####LogicT
+#### LogicT
 * [リストモナドとLogicモナド](http://qiita.com/fumieval/items/794a85e2d7497b2463ba)
 * [LogicT](http://halcat.org/haskell/logic/index.html)
 * [Backtracking, Interleaving, and Terminating Monad Transformers](http://okmij.org/ftp/Computation/LogicT.pdf)
 * [The logict package](http://hackage.haskell.org/package/logict)
 * [BACKTRACKING, INTERLEAVING, AND TERMINATING MONAD TRANSFORMERS](http://halcat.org/oleg.html#/)
 
-###Reader Monad
+### Reader Monad
 
 ```haskell
 newtype Reader e a = Reader { runReader :: (e -> a) }
@@ -228,7 +228,7 @@ instance Monad (Reader e) where
 * [Writerを使ってはならない](http://qiita.com/ruicc/items/28b1cd2df215ce724e26)
 * [Kwang's Haskell Blog - Writer monad](https://kseo.github.io//posts/2017-01-21-writer-monad.html)
 
-###随伴
+### 随伴
 * [Adjunctions](https://www.youtube.com/playlist?list=PL54B49729E5102248)
 * [adjunctions](https://hackage.haskell.org/package/adjunctions)
 
@@ -241,7 +241,7 @@ instance Monad (Reader e) where
 * [When does an endofunctor derive from an adjunction?](https://theorylunch.wordpress.com/2013/05/30/when-does-an-endofunctor-derive-from-an-adjunction/)
 * [From mathematics to map-reduce](http://www.haskellforall.com/2016/02/from-mathematics-to-map-reduce.html)
 
-###State Monad
+### State Monad
 
 ```haskell
 newtype State s a = State { runState :: s -> (a, s) }
@@ -263,16 +263,16 @@ instance Monad (State s) where
 * [How does the State monad work?](http://yawar.blogspot.ca/2015/12/how-does-state-monad-work.html)
 * [Wrangling State In Haskell](http://deliberate-software.com/haskell-state/)
 
-###RWS Monad
+### RWS Monad
 Reader + Writer + State
 
 * [Control.Monad.RWS](https://hackage.haskell.org/package/mtl/docs/Control-Monad-RWS.html)
 
-###ST Monad
+### ST Monad
 * [HaskellにおけるIOモナドとSTモナドの関係](http://uehaj.hatenablog.com/entry/2014/01/29/110222)
 * [Performance of the ST Monad with pure exceptions](http://blog.aloni.org/posts/st-monad-perf-with-exceptions/)
 
-###IO Monad
+### IO Monad
 * [IO is Your Command Pattern](http://www.alexeyshmalko.com/2015/io-is-your-command-pattern/)
 * [How Haskell models IO](http://www.gilmi.xyz/post/2015/08/12/how-haskell-models-io)
 * [IO inside](https://www.haskell.org/haskellwiki/IO_inside)
@@ -318,11 +318,11 @@ Reader + Writer + State
 #### MonadMask
 * [Control.Monad.Catch](https://hackage.haskell.org/package/exceptions/docs/Control-Monad-Catch.html)
 
-####MonadFix
+#### MonadFix
 * [MonadFix example: compiling regular expressions](https://ro-che.info/articles/2015-09-02-monadfix)
 * [MonadFixを試す](http://qiita.com/eielh/items/3b793dbedcc6c9dc125c)
 
-###Indexed Monad
+### Indexed Monad
 * [What is indexed monad?](http://stackoverflow.com/questions/28690448/what-is-indexed-monad)
 * [Indexed Monadの世界](http://fumieval.hatenablog.com/entry/2013/05/04/144840)
 
@@ -332,3 +332,4 @@ Reader + Writer + State
 * [Arrowパズル解答 (とArrowLoop解説)](http://d.hatena.ne.jp/MaD/20070818)
 * [ArrowLoop - 言語ゲーム](http://d.hatena.ne.jp/propella/20070904/p1)
 * [Arrowの話をしよう　(2)不動点と再帰 - haxis_fxの日記](http://d.hatena.ne.jp/haxis_fx/20110726/1311657175)
+* [Bartosz Milewski - Arrows are strong profunctors](https://www.youtube.com/watch?v=hrNfkP8iKAs)
