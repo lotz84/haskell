@@ -312,6 +312,10 @@ Line 6:
 * Web Development without programming
 * [tdammers/sprinkles](https://github.com/tdammers/sprinkles)
 
+### Stutter
+* [nmattia/stutter: CLI string generator based on regex-like operations](https://github.com/nmattia/stutter)
+* [Stutter: the anti-grep](http://www.nmattia.com/posts/2017-05-01-release-stutter.html)
+
 ### Super User Spark
 * [NorfairKing/super-user-spark](https://github.com/NorfairKing/super-user-spark)
 
