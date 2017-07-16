@@ -373,6 +373,7 @@ Web Application Framework
 * [Kwang's Haskell Blog - How Servant's type-safe links work](https://kseo.github.io//posts/2017-01-20-how-servant%27s-type-safe-links-work.html)
 * [servant-pushbullet-client: Bindings to the Pushbullet API using servant-client](https://hackage.haskell.org/package/servant-pushbullet-client-0.1.0.0)
 * [Haskell Servant OAuth2.0 for GitHub](https://gist.github.com/freckletonj/17eec8959718cb251f29af3645112f4a)
+* [servant-checked-exceptions Haskell package - servant | LibHunt](https://haskell.libhunt.com/project/servant-checked-exceptions)
 
 ### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
