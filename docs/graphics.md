@@ -33,6 +33,7 @@
 * [friday: A functional image processing library for Haskell.](https://hackage.haskell.org/package/friday)
 * [An Image Processing Language: External and Shallow/Deep Embeddings](http://www.macs.hw.ac.uk/~rs46/papers/rwdsl2016/rwdsl-2016.pdf)
 * [Twinside/Juicy.Pixels](https://github.com/Twinside/Juicy.Pixels)
+* [hip Haskell package - Graphics | LibHunt](https://haskell.libhunt.com/project/hip-git)
 
 ## GUI
 * [fltkhs](http://hackage.haskell.org/package/fltkhs)
