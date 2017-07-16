@@ -1,4 +1,4 @@
-##Haskell入門
+## Haskell入門
 * [Metaチュートリアル](https://wiki.haskell.org/Meta%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB)
 * [なぜ関数プログラミングは重要か](http://www.sampou.org/haskell/article/whyfp.html)
 * [Javaスクールの危険](http://local.joelonsoftware.com/wiki/Java%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%81%AE%E5%8D%B1%E9%99%BA)
@@ -143,6 +143,7 @@ in map (fromMaybe . show <*> 3 ~> "fizz" <> 5 ~> "buzz")
 * <https://www.reddit.com/r/haskell/comments/2cum9p>
 * [Haskellで書かれたおもしろいFizzBuzz ― Haskellで読めないコードに遭遇した時に解読する方法を徹底解説！](http://itchyny.hatenablog.com/entry/2015/12/27/150000)
 </details>
+* [Everyone needs a FizzBuzz](http://jeffreyrosenbluth.github.io/2017/02/05/fizzbuzz.html)
 
 <details>
 <summary>Web Application</summary>
