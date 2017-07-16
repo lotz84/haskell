@@ -79,6 +79,9 @@
 * [Nicolas Mattia](http://www.nmattia.com/posts/2016-07-31-bfs-tree.html)
 * [関数プログラミングの気分（『多段階選抜』問題を題材にして） - Qiita](http://qiita.com/nobsun/items/4562b728ecd560557bd2)
 * [Vincent Hanquez 2017-03-20-compilation-cstruct](http://tab.snarc.org/posts/haskell/2017-03-20-compilation-cstruct.html)
+* [Dynamic Dispatch in Haskell, or: How Can I Make My Code Extendable? – Two Wrongs](https://two-wrongs.com/dynamic-dispatch-in-haskell-how-to-make-code-extendable)
+* [Vladimir Slepnev: A puzzle about game review scoring in Haskell](http://slepnev.blogspot.jp/2017/05/a-puzzle-about-game-review-scoring-in.html)
+* [naqsha Haskell package - Geospatial | LibHunt](https://haskell.libhunt.com/project/naqsha)
 
 ### ソート
 * [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
