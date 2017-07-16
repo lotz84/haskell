@@ -13,32 +13,14 @@
 * [stratumn](http://stratumn.com/)
 * [chainscript](http://chainscript.io/)
 * [input-output-hk/cardano-sl: A cryptographic currency](https://github.com/input-output-hk/cardano-sl)
-
-## Bitcoin
-* [What is Bitcoin? (v2)](https://www.youtube.com/watch?v=Gc2en3nHxA4)
-* [Blockchain.info](https://blockchain.info/ja/)
-* [bitcoinwiki](https://en.bitcoin.it/wiki/Main_Page)
-* <http://www.bitcoinblockhalf.com/>
-* [Vanitygen](https://en.bitcoin.it/wiki/Vanitygen)
-* [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)
 * [haskoin/haskoin](https://github.com/haskoin/haskoin)
 * [vwwv/easy-bitcoin](https://github.com/vwwv/easy-bitcoin)
-* [Bitcoinウォレットを実装する](http://bitcoin.peryaudo.org/implement.html)
-* [Bitcoinを技術的に理解する](http://www.slideshare.net/kenjiurushima/20140602-bitcoin1-201406031222)
 * [bitcoin-payment-channel: Library for working with Bitcoin payment channels](https://hackage.haskell.org/package/bitcoin-payment-channel)
 
 ## Ethereum
 > Blockchain上に任意のスクリプトとその実行結果を保存する
 
-* [Ethereum](https://www.ethereum.org/)
-* [Ethereum: the World Computer](https://www.youtube.com/watch?v=j23HnORQXvs)
-* [Ethereum入門](http://book.ethereum-jp.net/content/)
-* [Augur](http://www.augur.net/)
-* [State of the DApps](http://dapps.ethercasts.com/)
-* <https://eth-status.org/>
-* <https://stats.ethdev.com/>
-* [Ethereum Frontier Guide](https://ethereum.gitbooks.io/frontier-guide/content/index.html)
-* [ethereum/wiki](https://github.com/ethereum/wiki/wiki)
+* [Let's Talk ETC! (Ethereum Classic) #15 - Dr. Duncan Coutts - Provably Secure Smart Contracts - YouTube](https://www.youtube.com/watch?v=XCtfrZitfg4&feature=youtu.be)
 
 ### BlockApps
 * [BlockApps](http://blockapps.net/)
