@@ -44,6 +44,7 @@
 * [chatter: A library of simple NLP algorithms.](https://hackage.haskell.org/package/chatter)
 * [The Functional Morphology Library](http://www.cse.chalmers.se/alumni/markus/FM_Tech_Report.pdf)
 * [aneksteind/hext](https://github.com/aneksteind/hext)
+* [duckling Haskell package - Systems | LibHunt](https://haskell.libhunt.com/project/duckling)
 
 ## 画像解析
 * [haskell-opencv](http://lumiguide.github.io/haskell-opencv/)
