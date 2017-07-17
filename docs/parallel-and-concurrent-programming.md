@@ -124,3 +124,4 @@ main = do
 * [Distributed Systems in Haskell](http://yager.io/Distributed/Distributed.html)
 * [Composing distributed Web applications](https://github.com/agocorona/transient/wiki/Composing--distributed-Web-applications)
 * [Speeding up a distributed computation in Haskell :: FP Complete](https://www.fpcomplete.com/blog/2017/01/speeding-up-distributed-computation)
+* [NicolasT/kontiki](https://github.com/NicolasT/kontiki) - An implementation of the Raft consensus protocol
