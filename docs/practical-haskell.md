@@ -200,6 +200,7 @@
 * [A Servlet-based Web application with the Frege programming language](http://earldouglas.com/articles/frege-web.html)
 * [A new ecosystem for Haskell: the JVM](http://blog.tweag.io/posts/2016-10-17-inline-java.html)
 * [Functional Geekery Episode 83 – Rahul MuttineniFunctional Geekery | Functional Geekery](https://www.functionalgeekery.com/episode-83-rahul-muttineni/)
+* [思ったほど怖くない！ Haskell on JVM 超入門](https://www.slideshare.net/y_taka_23/haskell-on-jvm-jjugccc-cccl8)
 
 ### Frege
 * [すごい Frege たのしく学ぼう！](http://www.slideshare.net/y_taka_23/frege)
