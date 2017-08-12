@@ -63,7 +63,7 @@ GHC 8.0 で既に実装されている
 ### Step2. OverloadedLabels
 * [GHC Wiki - OverloadedLabels](https://ghc.haskell.org/trac/ghc/wiki/Records/OverloadedRecordFields/OverloadedLabels)
 
-`fromLabel @"field" :: alpha` の糖衣構文として `#field` のような書き方ができるようになる。 `fromLabel` は以下の型クラス `IsLabel` のメソッド。
+`fromLabel @"field" @alpha proxy#` の糖衣構文として `#field` のような書き方ができるようになる。 `fromLabel` は以下の型クラス `IsLabel` のメソッド。
 
 ```hs
 class IsLabel (x :: Symbol) a where
@@ -72,10 +72,50 @@ class IsLabel (x :: Symbol) a where
 
 * [GHC.OverloadedLabels](https://hackage.haskell.org/package/base-4.10.0.0/docs/GHC-OverloadedLabels.html)
 
+GHC 8.0 で既に実装されている
+
 ### Step3. Magic type classes
 * [GHC Wiki - Magic classes for overloaded record fields](https://ghc.haskell.org/trac/ghc/wiki/Records/OverloadedRecordFields/MagicClasses)
 
-TODO
+GHCがコンパイル時にレコードの宣言を見つけると以下のような型クラスのインスタンスを作るようになる。
+
+```hs
+-- | HasField x r a はrが型aのフィールドxを持つレコードであることを意味している
+class HasField (x :: Symbol) r a | x r -> a where
+  -- | レコードからフィールドを取り出す
+  getField :: Proxy# x -> r -> a
+
+-- | UpdateField x s t bはsが型tのレコードに型bの値をセットできる
+--   フィールドxを持つレコードの型であることを意味している
+class UpdateField (x :: Symbol) s t b | x t -> b, x s b -> t where
+  -- | フィールドをレコードにセットする
+  setField :: Proxy# x -> s -> b -> t
+```
+
+例えば
+
+```hs
+data T = MkT { x :: Int }
+```
+
+のようなレコードが定義されると
+
+```hs
+instance HasField "x" T Int where
+  getField _ = x
+
+instance UpdateField "x" T T Int where
+  setField _ (MkT _) x = MkT x
+```
+
+のようなインスタンスが宣言される。
+
+`IsLabel` とは以下のようなインスタンスによって結びついている。
+
+```hs
+instance (HasField x r a) => IsLabel x (r -> a) where
+  fromLabel = getField (proxy# :: Proxy# x)
+```
 
 ## ライブラリ
 レコードのように扱える独自のデータ構造を使って標準のレコードが持つ問題を解決しようという試み
