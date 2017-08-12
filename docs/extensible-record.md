@@ -45,6 +45,7 @@ GHCの言語拡張でレコードの問題を解決しようという試み
 * [ghc-proposals - Overloaded Record Fields](https://github.com/ghc-proposals/ghc-proposals/blob/master/proposals/0002-overloaded-record-fields.rst)
 * [GHC Wiki - OverloadedRecordFields](https://ghc.haskell.org/trac/ghc/wiki/Records/OverloadedRecordFields)
 * [OverloadedRecordFields revived](http://www.well-typed.com/blog/2015/03/overloadedrecordfields-revived/)
+* [重複したフィールドラベル](http://d.hatena.ne.jp/kazu-yamamoto/20160114)
 
 すべての機能が入るまでの道のりは３ステップに分けられる
 
@@ -123,20 +124,17 @@ instance (HasField x r a) => IsLabel x (r -> a) where
 * [record](http://hackage.haskell.org/package/record)
   * [Announcing the first class records library](http://nikita-volkov.github.io/record/)
   * [Anonymous records in Haskell](http://www.techcast.com/events/bigtechday8/maffei-1005/?q=maffei-1005)
-* [odr/pers](https://github.com/odr/pers)
-* [重複したフィールドラベル](http://d.hatena.ne.jp/kazu-yamamoto/20160114)
 * [sebastiaanvisser/fclabels](https://github.com/sebastiaanvisser/fclabels)
-* [Frames Tutorial](http://acowley.github.io/Frames/)
 * [rawr: Anonymous extensible records](https://hackage.haskell.org/package/rawr)
 * [Bookkeeper](https://turingjump.com/blog/bookkeeper/)
 * [Bookkeeper.Permissions](https://hackage.haskell.org/package/bookkeeper-permissions-0.1.0.0/docs/Bookkeeper-Permissions.html)
 * [割とすぐに始められるextensibleチュートリアル(レコード編)](http://fumieval.hatenablog.com/entry/2016/10/10/000011)
-* [Records are Sheaves of Types.](http://www.jonmsterling.com/posts/2014-05-11-records-are-sheaves-of-types.html)
 * [Extensible Records Explained](https://www.schoolofhaskell.com/user/fumieval/extensible-records)
-* [Control Flow in Haskell (0) - Introduction](http://hsyl20.fr/home/posts/2016-12-12-control-flow-in-haskell-part-0.html)
 * [波打たせるものの正体(エクステンシブル・タングル)](http://fumieval.hatenablog.com/entry/2016/12/18/181540)
-
-### Vinyl
+* [Control Flow in Haskell (0) - Introduction](http://hsyl20.fr/home/posts/2016-12-12-control-flow-in-haskell-part-0.html)
 * [vinyl](https://hackage.haskell.org/package/vinyl)
 * [Programming in Vinyl / BayHac 2014](https://vimeo.com/95694918)
 * [Vinyl: Records in Haskell and Type Theory](https://vimeo.com/102785458)
+
+## 理論
+* [Records are Sheaves of Types.](http://www.jonmsterling.com/posts/2014-05-11-records-are-sheaves-of-types.html)
