@@ -28,6 +28,7 @@
 * [MSYS2でHDBC-sqlite3をコンパイル - 北海道苫小牧市出身の壮年PGが書くブログ](http://hiratara.hatenadiary.jp/entry/2017/01/29/110100)
 * [Haskell Bits #3: Connecting to Databases](http://www.kovach.me/posts/2017-02-08-connecting-to-databases.html)
 * [valderman/selda: Type-safe, high-level SQL DSL, embedded in Haskell](https://github.com/valderman/selda)
+* [odr/pers](https://github.com/odr/pers)
 
 Simple Clients
 --------------
