@@ -13,6 +13,7 @@
 * [HuwCampbell/grenade](https://github.com/HuwCampbell/grenade)
 * [Get a Brain](http://www-cs-students.stanford.edu/~blynn//haskell/brain.html)
 * [Frames: Data frames For working with tabular data files](http://hackage.haskell.org/package/Frames)
+* [Frames Tutorial](http://acowley.github.io/Frames/)
 * [[ANN] colonnade : haskell](https://www.reddit.com/r/haskell/comments/5vga82/ann_colonnade/)
 * [Fast Nearest Neighbor Queries in Haskell](https://izbicki.me/blog/fast-nearest-neighbor-queries-in-haskell.html)
 * [Example: The K-Means Problem](http://chimera.labs.oreilly.com/books/1230000000929/ch03.html#sec_using-parlist)
