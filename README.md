@@ -12,7 +12,7 @@
     3.  [型と関数](docs/type-and-function.md)
     4.  [再帰](docs/recursion.md)
     5.  [データ構造とアルゴリズム](docs/data-structures-and-algorithms.md)
-    6.  [拡張可能レコード](docs/extensible-record.md)
+    6.  [拡張可能レコード](docs/extensible-record.md)
     7.  [型クラス](docs/type-class-and-abstraction.md)
     8.  [Functor, Applicative, Monad](docs/functor-applicative-monad.md)
     9.  [継続](docs/continuation.md)
