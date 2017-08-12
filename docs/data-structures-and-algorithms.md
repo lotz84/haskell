@@ -220,44 +220,6 @@
 * [Haskell で動的計画法を書くための3つの方針](http://d.hatena.ne.jp/toslunar/20100408/1270719176)
 * [Dynamorphism 〜 Haskellでも動的計画法がしたい！ 〜](http://titech-ssr.blog.jp/archives/1047835805.html)
 
-### Record
-
-```haskell
-data Circle = Circle { center :: (Double, Double)
-                     , radius :: Double
-                     }
-p :: Circle
-p = Circle {center = (1.0, 2.0), radius = 3.0}
--- > center p
--- (1.0, 2.0)
--- > radius p
--- 3.0
-```
-
-**レコードの問題点**: 同じモジュールで同じフィールド名を持つレコードを定義できない
-
-* [record](http://hackage.haskell.org/package/record)
-  * [Announcing the first class records library](http://nikita-volkov.github.io/record/)
-  * [Anonymous records in Haskell](http://www.techcast.com/events/bigtechday8/maffei-1005/?q=maffei-1005)
-* [OverloadedRecordFields revived](http://www.well-typed.com/blog/2015/03/overloadedrecordfields-revived/)
-* [odr/pers](https://github.com/odr/pers)
-* [重複したフィールドラベル](http://d.hatena.ne.jp/kazu-yamamoto/20160114)
-* [sebastiaanvisser/fclabels](https://github.com/sebastiaanvisser/fclabels)
-* [Frames Tutorial](http://acowley.github.io/Frames/)
-* [rawr: Anonymous extensible records](https://hackage.haskell.org/package/rawr)
-* [Bookkeeper](https://turingjump.com/blog/bookkeeper/)
-* [Bookkeeper.Permissions](https://hackage.haskell.org/package/bookkeeper-permissions-0.1.0.0/docs/Bookkeeper-Permissions.html)
-* [割とすぐに始められるextensibleチュートリアル(レコード編)](http://fumieval.hatenablog.com/entry/2016/10/10/000011)
-* [Records are Sheaves of Types.](http://www.jonmsterling.com/posts/2014-05-11-records-are-sheaves-of-types.html)
-* [Extensible Records Explained](https://www.schoolofhaskell.com/user/fumieval/extensible-records)
-* [Control Flow in Haskell (0) - Introduction](http://hsyl20.fr/home/posts/2016-12-12-control-flow-in-haskell-part-0.html)
-* [波打たせるものの正体(エクステンシブル・タングル)](http://fumieval.hatenablog.com/entry/2016/12/18/181540)
-
-### Vinyl
-* [vinyl](https://hackage.haskell.org/package/vinyl)
-* [Programming in Vinyl / BayHac 2014](https://vimeo.com/95694918)
-* [Vinyl: Records in Haskell and Type Theory](https://vimeo.com/102785458)
-
 ## 動的型付けのエミュレート
 * [Data.Dynamic](https://hackage.haskell.org/package/base/docs/Data-Dynamic.html)
 * [Dynamic Typing in GHC](https://www.youtube.com/watch?v=asdABzBUoGM)
