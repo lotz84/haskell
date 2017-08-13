@@ -235,4 +235,4 @@ swan = name @= "swan"
 * [Control Flow in Haskell (0) - Introduction](http://hsyl20.fr/home/posts/2016-12-12-control-flow-in-haskell-part-0.html)
 
 ## 理論
-* [Records are Sheaves of Types.](http://www.jonmsterling.com/posts/2014-05-11-records-are-sheaves-of-types.html)
+* [Records are Sheaves of Types.](http://archive.is/0PM3e)
