@@ -73,6 +73,7 @@
 * [Haskell game](https://www.youtube.com/watch?v=HUUApOofaLQ&feature=youtu.be) - my first program in Haskell
 * [Gamebook solver](http://hbtvl.banquise.net/series/Gamebook%20solver.html)
 * [Boids in Haskell Ep.10 -- Morning Tsoding - YouTube](https://www.youtube.com/watch?v=ClgwKWqM2_o)
+* [jonascarpay/apecs](https://github.com/jonascarpay/apecs) - a fast, type driven, extensible ECS in pure Haskell
 
 ## Gloss
 * [gloss](http://hackage.haskell.org/package/gloss)
