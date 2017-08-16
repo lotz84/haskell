@@ -135,24 +135,6 @@ instance Monad Dist where
 * [NEW DIRECTIONS IN CATEGORICAL LOGIC, FOR CLASSICAL, PROBABILISTIC AND QUANTUM LOGIC](https://arxiv.org/pdf/1205.3940.pdf)
 * [States of Convex Sets](http://www.cs.ru.nl/B.Jacobs/PAPERS/convex-states.pdf)
 
-### Linear type theory
-* [linear type theory](https://ncatlab.org/nlab/show/linear+type+theory)
-
-> 線形型システムとは、プログラム実行中に作られた値が何度使われうるかによって型を区別するような型システムです
-
-出典: [課題４](http://web.yl.is.s.u-tokyo.ac.jp/kobalab/kadai99/kadai4.html)
-
-* [線形論理って何？](http://web.yl.is.s.u-tokyo.ac.jp/kobalab/kadai99/linear-logic.html)
-* [線形論理入門 ∼ What’s the USE? ∼](http://www.kurims.kyoto-u.ac.jp/~terui/summer1.pdf)
-* [線形論理の誕生](http://www.kurims.kyoto-u.ac.jp/~terui/birth.pdf)
-* [15-816 Linear Logic](http://www.cs.cmu.edu/~./fp/courses/15816-f01/index.html)
-* [LinearTypes – GHC](https://ghc.haskell.org/trac/ghc/wiki/LinearTypes)
-* [Linear resources in Haskell](http://axman6.com/posts/2016-07-10-Linear-resources-in-haskell.html)
-* [Linearity, Uniqueness, and Haskell](http://edsko.net/2017/01/08/linearity-in-haskell/)
-* [Oleg's gists - Linear thoughts](http://oleg.fi/gists/posts/2017-01-17-linear-thoughts.html)
-* [Retrofiing Linear Types](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/haskell-linear-submitted.pdf)
-* [15-816 Linear Logic / Schedule](http://www.cs.cmu.edu/~fp/courses/15816-s12/schedule.html)
-
 ### Stochastic Lambda Calculus
 * [Scott's stochastic lambda calculi](http://cstheory.stackexchange.com/questions/25998/scotts-stochastic-lambda-calculi)
 * [Stochastic Lambda Calculus and Monads of Probability Distributions](https://www.cs.tufts.edu/~nr/pubs/pmonad.pdf)
