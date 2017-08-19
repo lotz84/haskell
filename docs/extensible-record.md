@@ -201,6 +201,10 @@ foo = R ( #a := 42, #b := True )
 -- R ( bar := False, foo := True )
 ```
 
+> Currently, records with up to 8 fields are supported.
+
+という制約がある([参考](https://hackage.haskell.org/package/rawr-0.0.0.1/docs/Data-Rawr.html#g:3))
+
 * [rawr: Anonymous extensible records](https://hackage.haskell.org/package/rawr)
 
 ### extensible
