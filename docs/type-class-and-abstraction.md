@@ -4,7 +4,7 @@
 
 出典: <https://wiki.haskell.org/wikiupload/8/85/TMR-Issue13.pdf>
 
-###宣言
+### 宣言
 
 ```haskell
 class Show a where
@@ -13,7 +13,7 @@ class Show a where
 
 `Show` は型クラス、`show` はメソッドと呼ぶ。
 
-###実装
+### 実装
 
 ```haskell
 instance Show Bool where
@@ -64,6 +64,7 @@ instance Show Bool where
 * [How do type classes differ from interfaces?](http://www.parsonsmatt.org/2017/01/07/how_do_type_classes_differ_from_interfaces.html)
 * [型クラスのインスタンスが複数ある場合の話(Haskell編) - きくらげ観察日記](http://inkar-us-i.hatenablog.com/entry/2017/01/25/120000)
 * [functor.tokyo -- When is UndecidableInstances safe?](https://functor.tokyo/blog/2017-04-07-undecidable-instances)
+* [The curse of λ - Overlapping Instancesと戦う](https://myuon.github.io/posts/2017-08-21-overlapping-instances.html)
 
 ## 代数的な型クラス
 * [tower](https://tonyday567.github.io/tower/index.html)
