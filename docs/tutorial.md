@@ -21,6 +21,7 @@
 
 <details>
 <summary>日本語チュートリアル</summary>
+
 * [こわくないHaskell入門 初級](http://qiita.com/arowM/items/9ebfb7cafecd99290663)
   * [初級その2](http://qiita.com/arowM/items/33245802f9305a73082e)
 * Haskell個人メモ
@@ -53,10 +54,12 @@
 * [Haskell Note](http://qiita.com/0918nobita/items/f1756ab0e804efc863b5)
 * [Haskell講習会スライド](https://github.com/mt-caret/intro-to-haskell/blob/master/slides.pdf)
 * [Haskell入門（雑）その1](http://qiita.com/Lischero/items/5a067a168c66e1e08207)
+
 </details>
 
 <details>
 <summary>英語チュートリアル</summary>
+
 * [Keynote: Why Functional Programming Matters - John Hughes, Mary Sheeran (Lambda Days 2017) - YouTube](https://www.youtube.com/watch?v=1qBHf8DrWR8)
 * [Functional Programming in Haskell: Supercharge Your Coding](https://www.futurelearn.com/courses/functional-programming-haskell/1/)
 * [Learning Real Haskell Incrementally](http://begriffs.com/posts/2015-10-24-learning-haskell-incrementally.html)
@@ -118,6 +121,7 @@
 * [Some History of Functional Programming Languages - David Turner (Lambda Days 2017) - YouTube](https://www.youtube.com/watch?v=QVwm9jlBTik)
 * [What pure functional programming is all about: Part 1](https://www.fpcomplete.com/blog/2017/04/pure-functional-programming)
 * [Modern Software Development with Haskell by Runar Bjarnason - YouTube](https://www.youtube.com/watch?v=IKm-YYPaohQ)
+
 </details>
 
 ## Examples
