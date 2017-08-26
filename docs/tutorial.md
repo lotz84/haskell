@@ -143,6 +143,8 @@ sieve (p:xs) = p : sieve [x | x <- xs, x `mod` p /= 0]
 * [An Optimal Haskell Quicksort](https://gautamcgoel.wordpress.com/2015/08/27/an-optimal-haskell-quicksort/)
 </details>
 
+----
+
 ```hs
 let (m ~> str) x = str <$ guard (x `mod` m == 0)
 in map (fromMaybe . show <*> 3 ~> "fizz" <> 5 ~> "buzz")
@@ -156,6 +158,8 @@ in map (fromMaybe . show <*> 3 ~> "fizz" <> 5 ~> "buzz")
 * [Everyone needs a FizzBuzz](http://jeffreyrosenbluth.github.io/2017/02/05/fizzbuzz.html)
 
 </details>
+
+----
 
 ```hs
 {-# LANGUAGE OverloadedStrings #-}
