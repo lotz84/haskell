@@ -1,19 +1,28 @@
 ## Haskell入門
-* [Metaチュートリアル](https://wiki.haskell.org/Meta%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB)
-* [なぜ関数プログラミングは重要か](http://www.sampou.org/haskell/article/whyfp.html)
-* [Javaスクールの危険](http://local.joelonsoftware.com/wiki/Java%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%81%AE%E5%8D%B1%E9%99%BA)
-* [なぜHaskellを学ぶと良いか](http://qiita.com/arowM/items/0305d4f439752f285438)
-* [Haskell Maxims and Arrows](https://gist.github.com/lotz84/b94f03c4a83cb54dfefb26d2256cae0f)
+
+> 従来の言語では問題を部分化する方法について概念的な限界がいくつかある。関数型言語はこれらの限界を押し広げるも のである。
+> [なぜ関数プログラミングは重要か](http://www.sampou.org/haskell/article/whyfp.html)
 
 > 関数プログラミングを習得するには，これまで命令プログラミングで培った技術はいったん忘れ，真っ白な気持ちで臨む必要があります。関数型の山を登るためには，命令型の山を降りなければなりません。
+> [第1章　関数プログラミングは難しくない！](http://gihyo.jp/dev/feature/01/functional-prog/0001)
 
-出典: [第1章　関数プログラミングは難しくない！](http://gihyo.jp/dev/feature/01/functional-prog/0001)
+> 1. Haskellは理解すれば理解するほどきれいに書けることを約束してくれます。信頼してください
+> 2. 常にパターンを探しましょう。単純になるとき、またその時だけそれらを抽象化するのです
+> 3. 辛抱強く抽象化を正しく理解しましょう。もしそれが出来たならすべてのことが魔法のようにつじつまが合うようになるでしょう。
+> 4. 実装そのものが設計図となります
+> ...
+> [Haskell Maxims and Arrows](https://gist.github.com/lotz84/b94f03c4a83cb54dfefb26d2256cae0f)
 
-* [Try Haskell](https://tryhaskell.org/) - ５分あれば出来る！
-* [10分で学ぶHaskell](https://wiki.haskell.org/10%E5%88%86%E3%81%A7%E5%AD%A6%E3%81%B6Haskell)
-* [ウォークスルー Haskell](http://walk.wgag.net/haskell/)
+* [なぜHaskellを学ぶと良いか](http://qiita.com/arowM/items/0305d4f439752f285438)
+* [Haskellらしさって？「型」と「関数」の基本を解説！【第二言語としてのHaskell】](https://employment.en-japan.com/engineerhub/entry/2017/08/25/110000)
+* [Try Haskell](https://tryhaskell.org/) - ブラウザ上でHaskellのコードを実行しなが学べる
+* [ウォークスルー Haskell](http://walk.wgag.net/haskell/) - 諸概念について簡潔にまとまっている
 * [Haskell 超入門](http://qiita.com/7shi/items/145f1234f8ec2af923ef) - 長編だが丁寧に書いてあってわかりやすい
-* [こわくないHaskell入門 初級](http://qiita.com/arowM/items/9ebfb7cafecd99290663) [初級その2](http://qiita.com/arowM/items/33245802f9305a73082e)
+
+<details>
+<summary>日本語チュートリアル</summary>
+* [こわくないHaskell入門 初級](http://qiita.com/arowM/items/9ebfb7cafecd99290663)
+  * [初級その2](http://qiita.com/arowM/items/33245802f9305a73082e)
 * Haskell個人メモ
   * [1.基本](http://qiita.com/YusukeHosonuma/items/41ad9346b6e3a4d3789c)
   * [2.型](http://qiita.com/YusukeHosonuma/items/b115de430aa0d3fc9205)
@@ -44,6 +53,7 @@
 * [Haskell Note](http://qiita.com/0918nobita/items/f1756ab0e804efc863b5)
 * [Haskell講習会スライド](https://github.com/mt-caret/intro-to-haskell/blob/master/slides.pdf)
 * [Haskell入門（雑）その1](http://qiita.com/Lischero/items/5a067a168c66e1e08207)
+</details>
 
 <details>
 <summary>英語チュートリアル</summary>
@@ -142,8 +152,8 @@ in map (fromMaybe . show <*> 3 ~> "fizz" <> 5 ~> "buzz")
 
 * <https://www.reddit.com/r/haskell/comments/2cum9p>
 * [Haskellで書かれたおもしろいFizzBuzz ― Haskellで読めないコードに遭遇した時に解読する方法を徹底解説！](http://itchyny.hatenablog.com/entry/2015/12/27/150000)
-</details>
 * [Everyone needs a FizzBuzz](http://jeffreyrosenbluth.github.io/2017/02/05/fizzbuzz.html)
+</details>
 
 <details>
 <summary>Web Application</summary>
