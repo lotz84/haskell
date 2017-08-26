@@ -17,6 +17,7 @@
 * [Haskellらしさって？「型」と「関数」の基本を解説！【第二言語としてのHaskell】](https://employment.en-japan.com/engineerhub/entry/2017/08/25/110000)
 * [Try Haskell](https://tryhaskell.org/) - ブラウザ上でHaskellのコードを実行しなが学べる
 * [ウォークスルー Haskell](http://walk.wgag.net/haskell/) - 諸概念について簡潔にまとまっている
+* [Twitterを巡回していてわかったHaskell初心者が躓きやすいポイント8つ](http://qiita.com/lotz/items/5cbaca19d90cd168ab43)
 * [Haskell 超入門](http://qiita.com/7shi/items/145f1234f8ec2af923ef) - 長編だが丁寧に書いてあってわかりやすい
 
 <details>
@@ -31,29 +32,28 @@
   * [4.再帰](http://qiita.com/YusukeHosonuma/items/c22171dae82430aa9504)
 * [参照透過性とは何だったのか](http://www.slideshare.net/RuiccRail/haskell-day2012)
 * [Rubyistに贈るHaskell入門](http://qiita.com/techno-tanoC/items/1549d0efc044faf16c36)
-* ["Rubyistに贈るHaskell入門"がちょっと微妙だったので補足記事その1](http://qiita.com/nobkz/items/1ed1600bb2f0268070b3)
-* [「Rubyistに贈るHaskell入門」 again](http://qiita.com/geshi/items/5450343f93c9dbaec2b8)
-* [Haskell チュートリアル (Haskell Day 2016)](http://qiita.com/hiratara/items/169b5cb83b0adbfda764)([準備](http://qiita.com/hiratara/items/7d5456eb5ae239de34a8))
-* [お気楽 Haskell プログラミング入門](http://www.geocities.jp/m_hiroi/func/haskell.html)
+  * ["Rubyistに贈るHaskell入門"がちょっと微妙だったので補足記事その1](http://qiita.com/nobkz/items/1ed1600bb2f0268070b3)
+  * [「Rubyistに贈るHaskell入門」 again](http://qiita.com/geshi/items/5450343f93c9dbaec2b8)
+* [Haskell チュートリアル (Haskell Day 2016)](http://qiita.com/hiratara/items/169b5cb83b0adbfda764)
+  * [準備](http://qiita.com/hiratara/items/7d5456eb5ae239de34a8)
+* [Haskell講習会スライド](https://github.com/mt-caret/intro-to-haskell/blob/master/slides.pdf)
 * [安定結婚問題を解きながらHaskellプログラミングを紹介しつつ恋愛について学ぶ](http://qiita.com/cutsea110/items/27d9f6db834b70e52dd9)
 * [Haskellでポーカーを作ろう〜第一回 リストのシャッフルとカードの定義〜](http://tune.hateblo.jp/entry/2015/05/12/023112)
 * [Haskellプログラミングのコツのようなもの](http://qiita.com/nobsun/items/ed33c22203734e706e9b)
-* [やさしい Haskell 入門 (バージョン98)](http://www.sampou.org/haskell/tutorial-j/index.html)
 * [【関数型言語Haskellの基本】高階関数map,reduceを使って遊んでみた](https://codeiq.jp/magazine/2016/02/31747/)
 * [Haskell の難しさを分割し、理解していく](http://qiita.com/t9md/items/529a4297e841f330ee98)
 * [Haskell入門](http://qiita.com/airtoxin/items/e231ad70d5be3650e424)
 * [Haskellの世界](http://skami.iocikun.jp/computer/haskell)
-* [1から学ぶHaskell: プログラマ向けのHaskell入門](http://skami.iocikun.jp/computer/haskell/web_lecture/for_programmer/)
-* [すごいHaskell つくばで学ぼう！](https://github.com/nushio3/learn-haskell)
-* [すごいHaskell楽しく演習！](https://github.com/kokuyouwind/haskell-exercises) - 「すごいHaskell楽しく学ぼう！」の社内勉強会のために作成した、章末ごとの演習問題集です。
+* [すごいHaskell つくばで学ぼう！](https://github.com/nushio3/learn-haskell/blob/master/Tsukuba-2016.pdf)
 * [What I Wish I Knew When Learning Haskell](https://github.com/Kinokkory/wiwinwlh-jp/wiki)
 * [Haskellチートシート(翻訳)](http://qiita.com/techno-tanoC/items/1fa1c65db08da2440fc4)
 * [注目ワード“高階プログラミング”って何だ？](http://ascii.jp/elem/000/000/157/157495/)
 * [プログラム・プロムナード／Haskellプログラミング](https://www.ipsj.or.jp/magazine/promenade.html)
 * [Haskell 初心者が ライフゲーム 書いた](http://qiita.com/DUxCA/items/9facbd4fe4937650e1f4)
 * [Haskell Note](http://qiita.com/0918nobita/items/f1756ab0e804efc863b5)
-* [Haskell講習会スライド](https://github.com/mt-caret/intro-to-haskell/blob/master/slides.pdf)
 * [Haskell入門（雑）その1](http://qiita.com/Lischero/items/5a067a168c66e1e08207)
+* [お気楽 Haskell プログラミング入門](http://www.geocities.jp/m_hiroi/func/haskell.html)
+* [やさしい Haskell 入門 (バージョン98)](http://www.sampou.org/haskell/tutorial-j/index.html)
 
 </details>
 
@@ -125,12 +125,6 @@
 </details>
 
 ## Examples
-* [Basic Haskell Examples](http://www.haskellforall.com/2015/10/basic-haskell-examples.html)
-* [Haskell by Example](http://lotz84.github.io/haskellbyexample/)
-* [Word count in Haskell](http://lpaste.net/155533)
-
-<details>
-<summary>エラトステネスの篩</summary>
 
 ```haskell
 primes = sieve [2..]
@@ -140,27 +134,28 @@ sieve (p:xs) = p : sieve [x | x <- xs, x `mod` p /= 0]
 -- [2,3,5,7,11,13,17,19,23,..
 ```
 
+<details>
+<summary>エラトステネスの篩</summary>
+
 * [The Genuine Sieve of Eratosthenes](http://www.cs.hmc.edu/~oneill/papers/Sieve-JFP.pdf)
 * [The Genuine Sieve of Eratosthenes](http://vicarie.in/posts/sieve-of-eratos.html)
 * [Haskell programmers are liars](http://www.garrisonjensen.com/2015/05/13/haskell-programs-are-lies.html)
 * [An Optimal Haskell Quicksort](https://gautamcgoel.wordpress.com/2015/08/27/an-optimal-haskell-quicksort/)
 </details>
 
-<details>
-<summary>FizzBuzz</summary>
-
 ```hs
 let (m ~> str) x = str <$ guard (x `mod` m == 0)
 in map (fromMaybe . show <*> 3 ~> "fizz" <> 5 ~> "buzz")
 ```
 
+<details>
+<summary>FizzBuzz</summary>
+
 * <https://www.reddit.com/r/haskell/comments/2cum9p>
 * [Haskellで書かれたおもしろいFizzBuzz ― Haskellで読めないコードに遭遇した時に解読する方法を徹底解説！](http://itchyny.hatenablog.com/entry/2015/12/27/150000)
 * [Everyone needs a FizzBuzz](http://jeffreyrosenbluth.github.io/2017/02/05/fizzbuzz.html)
-</details>
 
-<details>
-<summary>Web Application</summary>
+</details>
 
 ```hs
 {-# LANGUAGE OverloadedStrings #-}
@@ -176,8 +171,15 @@ main = runSpock 8080 $ spockT id $ do
     text ("Hello " <> name <> "!")
 ```
 
-[Spock](https://www.spock.li/)
+<details>
+<summary>Web Application</summary>
+ 
+* [Spock](https://www.spock.li/)
+
 </details>
+
+* [Basic Haskell Examples](http://www.haskellforall.com/2015/10/basic-haskell-examples.html)
+* [Haskell by Example](http://lotz84.github.io/haskellbyexample/)
 
 ## Exercise
 * [H-99: Ninety-Nine Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
