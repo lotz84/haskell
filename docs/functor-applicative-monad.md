@@ -65,6 +65,7 @@ class Functor f => Applicative f where
 * [Day convolution intuition](http://math.stackexchange.com/questions/1650786/day-convolution-intuition/1651127#1651127)
 * [Refactoring with Applicatives in Haskell](http://www.bbenson.co/post/refactoring-with-applicatives-in-haskell/)
 * [Applicative Sorting](http://elvishjerricco.github.io/2017/03/23/applicative-sorting.html)
+* [LambdaCast 17: Applicative Functors](https://soundcloud.com/lambda-cast/17-applicative-functors)
 
 ### Discrimination
 * [discrimination](http://hackage.haskell.org/package/discrimination)
