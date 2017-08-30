@@ -90,6 +90,7 @@ main = runProc proc
 * [(Co)Yoneda reduction for free](http://mbps.hatenablog.com/entry/2014/04/12/074615)
 * [Co-Yoneda lemma in colimits](http://mbps.hatenablog.com/entry/2014/09/30/150836)
 * [Free Monads for Less (Part 2 of 3): Yoneda](http://comonad.com/reader/2011/free-monads-for-less-2/)
+* [Closure Conversion as CoYoneda](http://prl.ccs.neu.edu/blog/2017/08/28/closure-conversion-as-coyoneda/)
 
 ```haskell
 newtype Natural f g = Natural (forall x. f x -> g x)
