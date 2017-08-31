@@ -64,7 +64,7 @@ type a * b = (a, b)
 * [syz](https://hackage.haskell.org/package/syz)
 * [Zipper関連のパッケージ](http://d.hatena.ne.jp/debug-ito/20161016/1476587232)
 
-##関数
+## 関数
 * [A simple Haskell function](http://neilmitchell.blogspot.jp/2016/01/a-simple-haskell-function.html)
 * [Composing bijections, surjections, and injections](https://gist.github.com/rampion/f20ffd6386269e6f7e41fae15d208e12)
 * [Eastman maximal comma-free codes in Haskell](https://byorgey.wordpress.com/2016/07/07/eastman-maximal-comma-free-codes-in-haskell/)
@@ -78,7 +78,7 @@ type a * b = (a, b)
 * [Haskell で条件分岐](http://qiita.com/rooooomania/items/1623e5b981a30fbc8427)
 * [コピペしてすぐ確認できるHaskellの条件分岐](http://qiita.com/nejimakidori/items/f6aedce6308ce5e32914)
 
-###多変数関数とカリー化
+### 多変数関数とカリー化
 * [Curry](https://ro-che.info/ccc/10)
 * [Loop School - Curring](http://school.looprecur.com/?video=122330958)
 * [Haskell Functions Take One Argument](http://tonymorris.github.io/blog/posts/haskell-functions-take-one-argument/)
@@ -109,6 +109,7 @@ uncurry :: (a -> b -> c) -> (a, b) -> c
 * [正格評価と遅延評価（詳細編）](http://qiita.com/ruicc/items/31a269f93404268d80d7)
 * [takenobu-hs/lazy_evaluation](https://github.com/takenobu-hs/lazy_evaluation)
 * [なぜHaskellでタライ回しが速いのか、あるいは遅延評価とSTG](http://qiita.com/ruicc/items/b8b3c61a12baa1af3c69)
+* [An example of using laziness](http://noughtmare.gitlab.io/posts/2017-08-30-an-example-of-using-laziness.html)
 
 > One very interesting comparison is that lazy evaluation is to the CPU what garbage collection is to memory.
 
