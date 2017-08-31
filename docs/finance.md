@@ -16,6 +16,7 @@
 * [haskoin/haskoin](https://github.com/haskoin/haskoin)
 * [vwwv/easy-bitcoin](https://github.com/vwwv/easy-bitcoin)
 * [bitcoin-payment-channel: Library for working with Bitcoin payment channels](https://hackage.haskell.org/package/bitcoin-payment-channel)
+* [Roll your Own Bitcoin Exchange in Haskell](http://www.michaelburge.us/2017/08/31/roll-your-own-bitcoin-exchange.html)
 
 ## Ethereum
 > Blockchain上に任意のスクリプトとその実行結果を保存する
