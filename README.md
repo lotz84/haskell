@@ -40,7 +40,7 @@
     7.  [IoT/Mobile](docs/mobile.md)
     8.  [機械学習](docs/machine-learning.md)
     9.  [量子コンピュータ](docs/quantum-computing.md)
-    10. [仮想通貨](docs/cryptocurrency.md)
+    10. [仮想通貨](docs/cryptocurrency.md)
 3. [**プログラミングを支える数学**](docs/math.md)
     1. [ラムダ計算](docs/lambda-calculus.md)
     2. [領域理論](docs/domain-theory.md)
