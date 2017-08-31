@@ -430,6 +430,7 @@ Line 6:
 * [Haskus](http://www.haskus.org/system/) - The long-term aim is to provide a full Haskell user-space environment on top of the Linux kernel.
 * [SamuelSchlesinger/gross: Easy terminal interfaces, emulating gloss](https://github.com/SamuelSchlesinger/gross)
 * [HaskellでShellみたいなことをやるのに便利なライブラリの紹介 - Qiita](http://qiita.com/t10471/items/70af33487ece780b6c10)
+* [Combining Brick and Haskeline](https://rootmos.github.io/main/2017/08/31/combining-brick-and-haskeline.html)
 
 ### オプションパーサー
 * [HaskellのSystem.Console.ParseArgs](http://yu-i9.hatenablog.com/entry/2014/08/29/135253)
