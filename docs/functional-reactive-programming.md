@@ -1,10 +1,5 @@
 * [Functional Reactive Animation](http://conal.net/papers/icfp97/)
 
-## リアクティブプログラミング
-* [リアクティブ宣言](http://www.reactivemanifesto.org/ja)
-* [Reactive とは何か？ #reactive_shinjuku](https://speakerdeck.com/okapies/reactive-tohahe-ka-number-reactive-shinjuku)
-* [【翻訳】あなたが求めていたリアクティブプログラミング入門](http://ninjinkun.hatenablog.com/entry/introrxja)
-
 ## FRPとは何か
 
 > Functional reactive programming (FRP) is a declarative approach to GUI design. The term declarative makes a distinction between the “what” and the “how” of programming. A declarative language allows you to say what is displayed, without having to specify exactly how the computer should do it.
@@ -21,6 +16,7 @@
 
 * [FRPの話](http://maoe.hatenadiary.jp/entry/2012/12/24/011414) - FRPの歴史の話
 * [関数リアクティブプログラミングの実践](http://www.kotha.net/misc/fpm2012/frptalk.html)
+* [【翻訳】あなたが求めていたリアクティブプログラミング入門](http://ninjinkun.hatenablog.com/entry/introrxja)
 * [Introduction to FRP - Why Applicative Functors?](http://apfelmus.nfshost.com/blog/2011/05/06-frp-why-functors.html)
 * [やさしいFunctional reactive programming（概要編）](http://maoe.hatenadiary.jp/entry/20100109/1263059731)
 * [やさしいFunctional reactive programming（Event編） - maoeのブログ](http://maoe.hatenadiary.jp/entry/20100116/1263661213)
@@ -34,6 +30,7 @@
 * [Functional Reactive Programming](http://bobkonf.de/2016/apfelmus.html)
 * [A Sensible Intro to FRP](https://begriffs.com/posts/2016-07-27-tikhon-on-frp.html)
 * [FRP - Events & Behaviour, Part 1 - David Laing - BFPG 2016-09](https://www.youtube.com/watch?v=GXW1jBijhlk)
+* [Reactive Sheets: an intuitive approach to functional‐reactive computing](https://www.youtube.com/watch?v=9qBYatgAzXg)
 
 ## ライブラリ
 * 比較: [gelisam/frp-zoo](https://github.com/gelisam/frp-zoo)
