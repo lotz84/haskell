@@ -196,15 +196,15 @@
 * [Almost Inline ASM in Haskell With Foreign Import Prim - Brandon.Si(mmons)](http://brandon.si/code/almost-inline-asm-in-haskell-with-foreign-import-prim/)
 
 ## JVM
+* [A new ecosystem for Haskell: the JVM](http://blog.tweag.io/posts/2016-10-17-inline-java.html)
+* [思ったほど怖くない！ Haskell on JVM 超入門](https://www.slideshare.net/y_taka_23/haskell-on-jvm-jjugccc-cccl8)
+
+### Eta
 * [Eta](http://eta-lang.org/)
 * [Introduction to Eta by Rahul Muttineni](https://www.youtube.com/watch?v=hmDLNO7Gkxs)
 * [typelead/eta](https://github.com/typelead/eta)
-* [A Servlet-based Web application with the Frege programming language](http://earldouglas.com/articles/frege-web.html)
-* [A new ecosystem for Haskell: the JVM](http://blog.tweag.io/posts/2016-10-17-inline-java.html)
-* [Functional Geekery Episode 83 – Rahul MuttineniFunctional Geekery | Functional Geekery](https://www.functionalgeekery.com/episode-83-rahul-muttineni/)
-* [思ったほど怖くない！ Haskell on JVM 超入門](https://www.slideshare.net/y_taka_23/haskell-on-jvm-jjugccc-cccl8)
+* [Eta in Practice: Working With Haskell Packages – Eta programming language](https://blog.eta-lang.org/eta-in-practice-working-with-haskell-packages-5dfa3dc0c98a)
 * [Haskell on Android using Eta - BAM Weblog](https://brianmckenna.org/blog/eta_android)
-* [A Haskell Cross Compiler for Android – zw3rk – Medium](https://medium.com/@zw3rk/a-haskell-cross-compiler-for-android-8e297cb74e8a)
 
 ### Frege
 * [すごい Frege たのしく学ぼう！](http://www.slideshare.net/y_taka_23/frege)
@@ -213,6 +213,7 @@
 * [NL 名古屋で Frege の評価戦略について話してきました](http://ccvanishing.hateblo.jp/entry/2016/04/17/201842)
 * [A simple server in Frege](http://mchav.github.io/a-simple-server-in-frege/)
 * [Frege on Android](http://mchav.github.io/frege-on-android/)
+* [A Servlet-based Web application with the Frege programming language](http://earldouglas.com/articles/frege-web.html)
 
 ## Music
 * [spell-music/csound-expression: Haskell Framework for Electronic Music](https://github.com/spell-music/csound-expression)
