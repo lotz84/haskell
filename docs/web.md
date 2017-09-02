@@ -117,6 +117,7 @@ Front end
 * [1 07 High Performance Client Side Web Applications through Haskell EDSLs](https://www.youtube.com/watch?v=gQmDeq9eyF8)
 * [contivero/hasmin: Hasmin - A Haskell CSS Minifier](https://github.com/contivero/hasmin)
 * [BOB 2017 - Alexander Thiemann: The Future of Front-end Development: A comparison - YouTube](https://www.youtube.com/watch?v=BZfvoW8wixU)
+* [Miso: A tasty Haskell front-end framework](https://haskell-miso.org/)
 
 Haskell to JavaScript compiler
 ------------------------------
