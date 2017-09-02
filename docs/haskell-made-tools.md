@@ -435,6 +435,7 @@ Line 6:
 * [SamuelSchlesinger/gross: Easy terminal interfaces, emulating gloss](https://github.com/SamuelSchlesinger/gross)
 * [HaskellでShellみたいなことをやるのに便利なライブラリの紹介 - Qiita](http://qiita.com/t10471/items/70af33487ece780b6c10)
 * [Combining Brick and Haskeline](https://rootmos.github.io/main/2017/08/31/combining-brick-and-haskeline.html)
+* [Introduction to Brick](https://samtay.github.io/articles/brick.html)
 
 ### オプションパーサー
 * [HaskellのSystem.Console.ParseArgs](http://yu-i9.hatenablog.com/entry/2014/08/29/135253)
