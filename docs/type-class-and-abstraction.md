@@ -65,6 +65,7 @@ instance Show Bool where
 * [型クラスのインスタンスが複数ある場合の話(Haskell編) - きくらげ観察日記](http://inkar-us-i.hatenablog.com/entry/2017/01/25/120000)
 * [functor.tokyo -- When is UndecidableInstances safe?](https://functor.tokyo/blog/2017-04-07-undecidable-instances)
 * [The curse of λ - Overlapping Instancesと戦う](https://myuon.github.io/posts/2017-08-21-overlapping-instances.html)
+* [On Type Class Instance Selection – Hacker Noon](https://hackernoon.com/typeclass-instance-selection-fea1068920e6)
 
 ## 代数的な型クラス
 * [tower](https://tonyday567.github.io/tower/index.html)
