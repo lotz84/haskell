@@ -85,6 +85,7 @@
 * [Verifying Data Structures in Haskell - Donnacha Oisín Kidney](http://doisinkidney.com/posts/2017-04-23-verifying-data-structures-in-haskell-lhs.html)
 * [Type Level Merge Sort (Haskell)](https://www.athiemann.net/2017/08/31/mergesort.html)
 * [Type Tac Toe: Advanced Type Safety](http://chrispenner.ca/posts/type-tac-toe)
+* [Existential Quantification Patterns and Antipatterns](https://medium.com/@jonathangfischoff/existential-quantification-patterns-and-antipatterns-3b7b683b7d71)
 
 ```haskell
 data Bottom
