@@ -39,6 +39,7 @@
 * [Lost in Technopolis](http://newartisans.com/2017/04/putting-lenses-to-work/)
 * [Oleg's gists - Indexed Profunctor optics](http://oleg.fi/gists/posts/2017-04-26-indexed-poptics.html)
 * [Profunctor Optics: The Categorical View |   Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2017/07/07/profunctor-optics-the-categorical-view/)
+* [mchaver - Lens Tutorial - SimpleLens](http://www.mchaver.com/posts/2017-07-12-lens-tutorial-1.html)
 
 > Thus the Yoneda embedding of the functor category leads to the van Laarhoven representation of the lens
 
