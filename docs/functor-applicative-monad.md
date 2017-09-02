@@ -264,6 +264,7 @@ instance Monad (State s) where
 * [Stateモナドが便利に使えた！](http://qiita.com/lotz/items/503ef04b03433d29f77c)
 * [How does the State monad work?](http://yawar.blogspot.ca/2015/12/how-does-state-monad-work.html)
 * [Wrangling State In Haskell](http://deliberate-software.com/haskell-state/)
+* [Universally stateless monads](https://ro-che.info/articles/2017-06-04-universally-stateless-monads)
 
 ### RWS Monad
 Reader + Writer + State
