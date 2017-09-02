@@ -68,6 +68,7 @@
 * [Effective Array Computation in Haskell – The theam journey – Medium](https://medium.com/the-theam-journey/effective-array-computation-in-haskell-11e5c334c68a#.vrgo3zbdr)
 * [naperian tensors](https://tonyday567.github.io/naperian/index.html)
 * [ENTER THE MATRIX, HASKELL STYLE](http://www.tweag.io/posts/2017-08-31-hmatrix.html)
+* [manifolds: Coordinate-free hypersurfaces](http://hackage.haskell.org/package/manifolds)
 
 ## 確率
 * [プログラミングのための確率統計 in Haskell](http://note.golden-lucky.net/2010/12/1-2-3-4-5-6-16-16-16-16-16-16-246-135.html)
