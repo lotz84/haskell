@@ -84,6 +84,7 @@
 * [naqsha Haskell package - Geospatial | LibHunt](https://haskell.libhunt.com/project/naqsha)
 * [5 ways to manage allocated memory in Haskell](https://ro-che.info/articles/2017-08-06-manage-allocated-memory-haskell)
 * [To Void or to void](https://www.fpcomplete.com/blog/2017/07/to-void-or-to-void)
+* [The Partial Options Monoid – Jonathan Fischoff – Medium](https://medium.com/@jonathangfischoff/the-partial-options-monoid-pattern-31914a71fc67)
 
 ### ソート
 * [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
