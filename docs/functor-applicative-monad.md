@@ -39,6 +39,8 @@ class Functor f where
 
 ### Representable Functor
 * [Data.Functor.Rep](https://hackage.haskell.org/package/adjunctions/docs/Data-Functor-Rep.html)
+* [naperian tensors](https://tonyday567.github.io/naperian/index.html)
+* [Radix Sort, Trie Trees, and Maps from Representable Functors](http://chrispenner.ca/posts/representable-discrimination)
 
 ## Applicative Functor
 
