@@ -222,6 +222,9 @@
 * [Haskell で動的計画法を書くための3つの方針](http://d.hatena.ne.jp/toslunar/20100408/1270719176)
 * [Dynamorphism 〜 Haskellでも動的計画法がしたい！ 〜](http://titech-ssr.blog.jp/archives/1047835805.html)
 
+## オブジェクト
+* [Encoding Objects - School of Haskell | School of Haskell](https://www.schoolofhaskell.com/user/fumieval/encoding-objects)
+
 ## 動的型付けのエミュレート
 * [Data.Dynamic](https://hackage.haskell.org/package/base/docs/Data-Dynamic.html)
 * [Dynamic Typing in GHC](https://www.youtube.com/watch?v=asdABzBUoGM)
