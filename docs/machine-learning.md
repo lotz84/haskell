@@ -194,6 +194,7 @@ instance Monad Dist where
 * [Haskellでニューラルネットワーク](http://imokuri123.com/blog/2015/07/neural-network-in-haskell.html)
 * [ニューラルネットワーク、多様体、トポロジー](http://qiita.com/KojiOhki/items/af2241027b00f892d2bd)
 * [Practical Dependent Types in Haskell: Type-Safe Neural Networks (Part 1) · in Code](https://blog.jle.im/entry/practical-dependent-types-in-haskell-1.html)
+* [mstksg/backprop: Heterogeneous, type-safe automatic backpropagation in Haskell](https://github.com/mstksg/backprop)
 
 ## クラウド
 * [Google Cloud Platform - CLOUD MACHINE LEARNING サービス](https://cloud.google.com/products/machine-learning/)
