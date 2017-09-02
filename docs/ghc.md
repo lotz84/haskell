@@ -73,6 +73,7 @@
 * [Are Mutable References Fast? – Hacker Noon](https://hackernoon.com/are-mutable-references-in-haskell-fast-f095f4144977)
 * [On Competing with C Using Haskell – Two Wrongs](https://two-wrongs.com/on-competing-with-c-using-haskell)
 * [The Haskell Concurrency Primitive Shootout – codeburst](https://codeburst.io/the-haskell-concurrency-primitive-shootout-538c21993f1c)
+* [When competing with C, fudge the benchmark – Franklin He – Medium](https://medium.com/@n0mad/when-competing-with-c-fudge-the-benchmark-16d3a91b437c)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
@@ -97,6 +98,7 @@
 * [ZuriHac 2016 - Low-level Haskell: An Interactive Tour Through the STG](https://www.youtube.com/watch?v=-MFk7PIKYsg)
 * [Turn GHC into a frontend for miniSTG](http://blog.haskell-exists.com/yuras/posts/turn-ghc-into-frontend-for-ministg.html)
 * [veggies: Haskell code generation from scratch – Blog – Joachim Breitner's Homepage](http://www.joachim-breitner.de/blog/719-veggies__Haskell_code_generation_from_scratch)
+* [Announcing simplexhc](https://pixel-druid.com/blog/announcing-simplexhc/)
 
 ### Runtime System
 * [Haskell Compiler (rts)](http://www.scs.stanford.edu/14sp-cs240h/slides/ghc-rts.pdf)
