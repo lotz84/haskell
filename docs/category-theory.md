@@ -71,3 +71,4 @@
 * [Applicative Functors |   Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2017/02/06/applicative-functors/)
 * [Gabriel Gonzales: Applied category theory and abstract algebra - λC Winter Retreat 2017 - YouTube](https://www.youtube.com/watch?v=WsA7GtUQeB8)
 * [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+* [A Categorical View of Computational Effects - YouTube](https://www.youtube.com/watch?v=6t6bsWVOIzs)
