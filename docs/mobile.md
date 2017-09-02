@@ -84,6 +84,7 @@
 * [mchakravarty/language-c-inline - wiki](https://github.com/mchakravarty/language-c-inline/wiki)
 * [Haskell - GHC for iOS : OpenGLで3Dグラフィックスを表示してみる、の準備](http://blog.euphonictech.com/entry/2015/03/01/194126)
 * [Using Haskell in an Xcode Cocoa project](https://wiki.haskell.org/Using_Haskell_in_an_Xcode_Cocoa_project)
+* [A Haskell Cross Compiler for iOS – zw3rk – Medium](https://medium.com/@zw3rk/a-haskell-cross-compiler-for-ios-7cc009abe208)
 
 ## Android
 * [Android](https://wiki.haskell.org/Android)
