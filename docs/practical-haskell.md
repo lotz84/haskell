@@ -206,6 +206,7 @@
 * [Eta in Practice: Working With Haskell Packages – Eta programming language](https://blog.eta-lang.org/eta-in-practice-working-with-haskell-packages-5dfa3dc0c98a)
 * [Haskell on Android using Eta - BAM Weblog](https://brianmckenna.org/blog/eta_android)
 * [Integrating Eta Into Your Scala Projects – Eta programming language](https://blog.eta-lang.org/integrating-eta-into-your-scala-projects-a8d494a2c5b0)
+* [A Tour of Eta](https://tour.eta-lang.org/)
 
 ### Frege
 * [すごい Frege たのしく学ぼう！](http://www.slideshare.net/y_taka_23/frege)
