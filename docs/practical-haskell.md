@@ -240,6 +240,7 @@
 * [Assume It Worked and Fix Later – Hacker Noon](https://hackernoon.com/assume-it-worked-and-fix-later-8436d18b7ed3)
 * [Boring Haskell | Eventsourced aggregates in Haskell](http://blog.akii.de/posts/2017-06-04-eventsourcing-in-haskell.html)
 * [The ReaderT Design Pattern](https://www.fpcomplete.com/blog/2017/06/readert-design-pattern)
+* [The RIO Monad](https://www.fpcomplete.com/blog/2017/07/the-rio-monad)
 
 ----
 
