@@ -194,6 +194,7 @@ circum (Circle _ _ r) = …
 * [実世界を扱う依存型プログラミングのたぶん基本～外界から安全な世界までの道](http://notogawa.hatenablog.com/entry/2016/10/20/001812)
 * [Dependent Types](https://cubeoflambda.wordpress.com/2011/12/03/dependent-types/)
 * [Fixed-Length Vector Types in Haskell, 2015](http://blog.jle.im/entry/fixed-length-vector-types-in-haskell-2015)
+* [Fixed-Length Vector Types in Haskell (an Update for 2017) · in Code](https://blog.jle.im/entry/fixed-length-vector-types-in-haskell.html)
 * [Smarter conditionals with dependent types: a quick case study](http://lambda.jstolarek.com/2015/04/smarter-conditionals-with-dependent-types-a-quick-case-study/)
 * [Hasochism](http://homepages.inf.ed.ac.uk/slindley/papers/hasochism.pdf)
 * [定理証明系 Haskell](http://konn-san.com/prog/2013-advent-calendar.html)
