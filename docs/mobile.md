@@ -31,18 +31,19 @@
 * [Raspberry Pi 2にGHCとStackをインストールした時のメモ](http://qiita.com/watertight/items/88f151a84b2d25b49059)
 * [Juniper](http://www.juniper-lang.org/) - Functional Reactive Programming for the Arduino
 * [Isomorphism of digital circuits](https://rahne.si/programming/clash/fpga/2016/12/23/iso-circuits.html)
+* [A Haskell Cross Compiler for Raspberry Pi – zw3rk – Medium](https://medium.com/@zw3rk/a-haskell-cross-compiler-for-raspberry-pi-ddd9d41ced94)
 
-##高位合成
+## 高位合成
 * [Domain-specific Languages and Code Synthesis Using Haskell](http://queue.acm.org/detail.cfm?id=2617811)
 * [High-level Synthesis from Functional Languages](http://www.cs.columbia.edu/~sedwards/presentations/2010-synchronics-functional.pdf)
 
-##ATS
+# #ATS
 * [Japan ATS User Group](http://jats-ug.metasepi.org/)
 * [Introduction to Programming in ATS](http://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/INT2PROGINATS-BOOK.html)
   * [日本語訳](http://jats-ug.metasepi.org/doc/ATS2/INT2PROGINATS/index.html)
 * [fpiot/arduino-ats](https://github.com/fpiot/arduino-ats)
 
-##Rust
+## Rust
 * [Rust](http://www.rust-lang.org/)
 * [The Rust Programming Language](https://doc.rust-lang.org/book/)
 * [Playground](https://play.rust-lang.org/)
@@ -55,20 +56,20 @@
 * [Introduction Rust for Creating Your Operating System](http://qiita.com/mopp/items/9c816d58104752180207)
 * [mgattozzi/curryrs](https://github.com/mgattozzi/curryrs) - Bridge the gap between Haskell and Rust
 
-##Kinect
+## Kinect
 * [chrisdone/freenect](https://github.com/chrisdone/freenect)
 * [TomMD/mellow](https://github.com/TomMD/mellow)
 
-#Mobile
+# Mobile
 * [The push-notify package](https://hackage.haskell.org/package/push-notify)
 
-##React Native
+## React Native
 * [React Native](https://facebook.github.io/react-native/)
 * <https://twitter.com/paf31/status/617568437020135424>
 * [purescript-contrib/purescript-react](https://github.com/purescript-contrib/purescript-react)
 * [elm-native-ui/elm-native-ui](https://github.com/elm-native-ui/elm-native-ui)
 
-##iOS
+## iOS
 * [HaskellがiOSをサポート、性能を改善](http://www.infoq.com/jp/news/2014/04/ghc-7-8-1)
 * [Haskell ではじめるふわとろ Cocoa アプリ開発](http://konn-san.com/prog/haskell/haskell-introduction-to-cocoa.html)
 * [Haskell - GHC for iOS : iOSアプリをHaskellで開発する](http://blog.euphonictech.com/entry/2015/01/26/210101)
@@ -83,6 +84,6 @@
 * [Haskell - GHC for iOS : OpenGLで3Dグラフィックスを表示してみる、の準備](http://blog.euphonictech.com/entry/2015/03/01/194126)
 * [Using Haskell in an Xcode Cocoa project](https://wiki.haskell.org/Using_Haskell_in_an_Xcode_Cocoa_project)
 
-##Android
+## Android
 * [Android](https://wiki.haskell.org/Android)
 * [passy/android-lint-summary](https://github.com/passy/android-lint-summary)
