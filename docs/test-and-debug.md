@@ -47,6 +47,7 @@
 * [phadej/cabal-doctest: A Setup.hs helper for doctest running](https://github.com/phadej/cabal-doctest)
 * [hedgehog: Hedgehog will eat all your bugs.](https://hackage.haskell.org/package/hedgehog)
 * [State machine testing with Hedgehog](http://teh.id.au/posts/2017/07/15/state-machine-testing/index.html)
+* [Invert Your Mocks!](http://www.parsonsmatt.org/2017/07/27/inverted_mocking.html)
 
 ### QuickCheck
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
