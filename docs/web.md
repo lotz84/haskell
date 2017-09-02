@@ -209,6 +209,7 @@ Web Server
 * [IRIS Connect Engineers' Blog - Decrypting Rails Sessions in Haskell](http://engineers.irisconnect.net/posts/2017-04-25-decrypting-rails-sessions-in-haskell.html)
 * [Migrating a REST API from Javascript to Haskell](https://blog.ismail-s.com/2017/08/30/migrating-a-rest-api-from-javascript-to-haskell/)
 * [rodrigosetti/swagger-test: Property based testing tool for Swagger APIs](https://github.com/rodrigosetti/swagger-test)
+* [An Opinionated Survey of Functional Web Development](https://dev.yorhel.nl/doc/funcweb)
 
 ### WAI/Warp
 * [Haskell版フォルダを指定してhttpで公開する簡易Webサーバー](http://qiita.com/saturday06/items/fad44a9bc49b2f387bde)
