@@ -21,6 +21,7 @@ $ alias ghci='stack ghci --'
 
 ## Lint
 * [Haskellの静的解析ツール HLint を使おう](http://qiita.com/suzuki-hoge/items/6d101e523620178c6f7b)
+* [functor.tokyo -- GHC Warnings You Should Use in Addition to -Wall](https://functor.tokyo/blog/2017-07-28-ghc-warnings-you-should-enable)
 
 ## IHaskell
 * [iHaskellを試してみる](http://qiita.com/eielh/items/a35b3d51056c1031f4d0)
