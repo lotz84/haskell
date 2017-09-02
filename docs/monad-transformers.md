@@ -56,6 +56,7 @@ mtlにはMonad Transformerを新しく定義する度に全ての組み合わせ
 
 ### ResourceT
 * [resource-simple](https://hackage.haskell.org/package/resource-simple)
+* [Understanding ResourceT](https://www.fpcomplete.com/blog/2017/06/understanding-resourcet)
 
 ### モナド準同型
 * [The mmorph package](https://hackage.haskell.org/package/mmorph)
