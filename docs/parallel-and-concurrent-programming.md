@@ -36,6 +36,7 @@
 * [Mio: A High-Performance Multicore IO Manager for GHC](http://haskell.cs.yale.edu/wp-content/uploads/2013/08/hask035-voellmy.pdf)
 * [Threading responsibly - forkIO considered harmful.](https://mazzo.li/posts/threads-resources.html)
 * [Haxl: Making Concurrency Unreasonably Easy | Big Techday 10 - TNG Technology Consulting](http://events.techcast.com/bigtechday10/Garmisch-1345/?q=Garmisch-1345)
+* [Haskell における並行処理と並列処理と最適化 - Qiita](http://qiita.com/satosystems/items/e7fb4295598dc61e4c67)
 
 ## 並列
 * [monad-par](https://hackage.haskell.org/package/monad-par)
