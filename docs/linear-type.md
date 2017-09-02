@@ -10,6 +10,8 @@
 * [Retrofitting Linear Types](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/haskell-linear-submitted.pdf)
 * [Typed Tagless-Final Linear Lambda Calculus - School of Haskell](https://www.schoolofhaskell.com/user/mutjida/typed-tagless-final-linear-lambda-calculus)
 * [Tweag I/O - Compact normal forms + linear types <br>= efficient network communication](http://www.tweag.io/posts/2017-08-24-linear-types-packed-data.html)
+* [Safe streaming with linear types by m0ar](https://m0ar.github.io/safe-streaming/2017/06/19/linear-types-101.html)
+* [m0ar/safe-streaming: Adaptation of the streaming library for increased safety through linear types. Summer of Haskell 2017 project.](https://github.com/m0ar/safe-streaming)
 
 ## Linear Type as DSL
 * [線形型つきドメイン特化言語 (DSL) を Haskell上に実装する](http://d.hatena.ne.jp/keigoi/20110806/1312604753)
