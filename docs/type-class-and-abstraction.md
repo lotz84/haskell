@@ -66,6 +66,7 @@ instance Show Bool where
 * [functor.tokyo -- When is UndecidableInstances safe?](https://functor.tokyo/blog/2017-04-07-undecidable-instances)
 * [The curse of λ - Overlapping Instancesと戦う](https://myuon.github.io/posts/2017-08-21-overlapping-instances.html)
 * [On Type Class Instance Selection – Hacker Noon](https://hackernoon.com/typeclass-instance-selection-fea1068920e6)
+* [Type Class Patterns and Anti-patterns – Hacker Noon](https://hackernoon.com/type-class-patterns-and-anti-patterns-efd045c5af66)
 
 ## 代数的な型クラス
 * [tower](https://tonyday567.github.io/tower/index.html)
