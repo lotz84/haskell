@@ -71,6 +71,8 @@
 * [Haskell without GMP](https://ro-che.info/articles/2017-03-10-haskell-without-gmp)
 * [IntelLabs/flrc: Haskell Research Compiler](https://github.com/IntelLabs/flrc)
 * [Are Mutable References Fast? – Hacker Noon](https://hackernoon.com/are-mutable-references-in-haskell-fast-f095f4144977)
+* [On Competing with C Using Haskell – Two Wrongs](https://two-wrongs.com/on-competing-with-c-using-haskell)
+* [The Haskell Concurrency Primitive Shootout – codeburst](https://codeburst.io/the-haskell-concurrency-primitive-shootout-538c21993f1c)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
