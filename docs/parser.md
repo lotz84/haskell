@@ -146,3 +146,4 @@ parse = evalStateT
 * [03 Parsing JSON and catching exceptions](https://github.com/mitchellwrosen/slacky/wiki/03-Parsing-JSON-and-catching-exceptions)
 * [Stricter JSON parsing with Haskell and Aeson – Arun Raghavan](https://arunraghavan.net/2017/02/stricter-json-parsing-with-haskell-and-aeson/)
 * [crjdt-haskell Haskell package - Data | LibHunt](https://haskell.libhunt.com/project/crjdt-haskell)
+* [Playing with lens-aeson](https://www.snoyman.com/blog/2017/05/playing-with-lens-aeson)
