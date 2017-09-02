@@ -70,6 +70,7 @@
 * [CPP – Haskell – Aelve Guide](https://guide.aelve.com/haskell/cpp-vww0qd72)
 * [Haskell without GMP](https://ro-che.info/articles/2017-03-10-haskell-without-gmp)
 * [IntelLabs/flrc: Haskell Research Compiler](https://github.com/IntelLabs/flrc)
+* [Are Mutable References Fast? – Hacker Noon](https://hackernoon.com/are-mutable-references-in-haskell-fast-f095f4144977)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
