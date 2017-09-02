@@ -131,6 +131,7 @@
 * [When competing with C, fudge the benchmark – Franklin He – Medium](https://medium.com/@n0mad/when-competing-with-c-fudge-the-benchmark-16d3a91b437c)
 * [Are Mutable References Fast? – Hacker Noon](https://hackernoon.com/are-mutable-references-in-haskell-fast-f095f4144977)
 * [On Competing with C Using Haskell – Two Wrongs](https://two-wrongs.com/on-competing-with-c-using-haskell)
+* [jship - Writing Performant Haskell (1 of 6): Intro](https://jship.github.io/posts/2017-08-09-writing-performant-haskell-part-1.html)
 
 ### スペースリーク
 * [GHC とスペースとリーク](http://d.hatena.ne.jp/kazu-yamamoto/20151217)
