@@ -49,6 +49,7 @@ mtlにはMonad Transformerを新しく定義する度に全ての組み合わせ
 * [If you’re using lift, you’re doing it wrong (probably)](http://blog.ezyang.com/2013/09/if-youre-using-lift-youre-doing-it-wrong-probably/)
 * [Monad Transformer Workshop](https://begriffs.com/posts/2017-04-09-monad-tutorial-workshop.html)
 * [A Tale of Two Brackets](https://www.fpcomplete.com/blog/2017/06/tale-of-two-brackets)
+* [Announcing: the new unliftio library](https://www.fpcomplete.com/blog/2017/07/announcing-new-unliftio-library)
 
 ### monad-control
 * [モナドトランスフォーマーとmonad-control](http://maoe.hatenadiary.jp/entry/20111207/1323185162)
