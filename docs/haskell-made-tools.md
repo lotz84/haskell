@@ -409,6 +409,9 @@ Line 6:
 * Universal and robust reloading for Haskell web applications
 * <https://github.com/sol/reserve>
 
+### Weeder
+* [ndmitchell/weeder: Detect dead exports or package imports](https://github.com/ndmitchell/weeder)
+
 ## ライブラリなど
 * [turtle](http://hackage.haskell.org/package/turtle)
 * [The haskeline package](https://hackage.haskell.org/package/haskeline)
