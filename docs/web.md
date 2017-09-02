@@ -100,6 +100,7 @@ Scraping
   * [Haskell で楽しい Web スクレイピング](http://qiita.com/na-o-ys/items/30a4950d5391911493c2)
 * [egonSchiele/HandsomeSoup](https://github.com/egonSchiele/HandsomeSoup)
 * [Nishant9/hScraper](https://github.com/Nishant9/hScraper)
+* [A Modest Scraping Proposal](http://www.shimweasel.com/2017/07/13/a-modest-scraping-proposal)
 
 Email
 -----
