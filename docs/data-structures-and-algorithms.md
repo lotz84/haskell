@@ -83,6 +83,7 @@
 * [Vladimir Slepnev: A puzzle about game review scoring in Haskell](http://slepnev.blogspot.jp/2017/05/a-puzzle-about-game-review-scoring-in.html)
 * [naqsha Haskell package - Geospatial | LibHunt](https://haskell.libhunt.com/project/naqsha)
 * [5 ways to manage allocated memory in Haskell](https://ro-che.info/articles/2017-08-06-manage-allocated-memory-haskell)
+* [To Void or to void](https://www.fpcomplete.com/blog/2017/07/to-void-or-to-void)
 
 ### ソート
 * [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
