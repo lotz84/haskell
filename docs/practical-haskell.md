@@ -241,6 +241,7 @@
 * [Boring Haskell | Eventsourced aggregates in Haskell](http://blog.akii.de/posts/2017-06-04-eventsourcing-in-haskell.html)
 * [The ReaderT Design Pattern](https://www.fpcomplete.com/blog/2017/06/readert-design-pattern)
 * [The RIO Monad](https://www.fpcomplete.com/blog/2017/07/the-rio-monad)
+* [Functional Design and Architecture : haskell](https://www.reddit.com/r/haskell/comments/6ck72h/functional_design_and_architecture/)
 
 ----
 
