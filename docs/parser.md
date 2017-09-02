@@ -23,6 +23,7 @@
 * [素朴なlispインタープリター - Qiita](http://qiita.com/kmtoki/items/38adf6fa9da0deffb57e)
 * [seagreen/state-of-haskell-bnf](https://github.com/seagreen/state-of-haskell-bnf)
 * [Philip Cunningham - Parse Ruby Objects in Haskell](https://filib.io/posts/2017-04-24-parse-ruby-objects-in-haskell.html)
+* [The round-trip property](http://teh.id.au/posts/2017/06/07/round-trip-property/index.html)
 
 ## 正規表現
 * [関数型的正規表現マッチ](https://research.preferred.jp/2010/11/regexp-play/)
