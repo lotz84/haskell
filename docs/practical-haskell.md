@@ -298,3 +298,4 @@
 * [Trouble with Tribbles | Maths, Stats & Functional Programming](https://idontgetoutmuch.wordpress.com/2017/04/18/trouble-with-tribbles/)
 * [Lost in Technopolis](http://newartisans.com/2017/04/haskell-and-z3/)
 * [Assume It Worked and Fix Later – Hacker Noon](https://hackernoon.com/assume-it-worked-and-fix-later-8436d18b7ed3)
+* [Boring Haskell | Eventsourced aggregates in Haskell](http://blog.akii.de/posts/2017-06-04-eventsourcing-in-haskell.html)
