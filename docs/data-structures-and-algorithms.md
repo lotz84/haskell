@@ -82,6 +82,7 @@
 * [Dynamic Dispatch in Haskell, or: How Can I Make My Code Extendable? – Two Wrongs](https://two-wrongs.com/dynamic-dispatch-in-haskell-how-to-make-code-extendable)
 * [Vladimir Slepnev: A puzzle about game review scoring in Haskell](http://slepnev.blogspot.jp/2017/05/a-puzzle-about-game-review-scoring-in.html)
 * [naqsha Haskell package - Geospatial | LibHunt](https://haskell.libhunt.com/project/naqsha)
+* [5 ways to manage allocated memory in Haskell](https://ro-che.info/articles/2017-08-06-manage-allocated-memory-haskell)
 
 ### ソート
 * [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
