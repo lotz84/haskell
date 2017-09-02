@@ -37,7 +37,7 @@
 * [Domain-specific Languages and Code Synthesis Using Haskell](http://queue.acm.org/detail.cfm?id=2617811)
 * [High-level Synthesis from Functional Languages](http://www.cs.columbia.edu/~sedwards/presentations/2010-synchronics-functional.pdf)
 
-# #ATS
+## ATS
 * [Japan ATS User Group](http://jats-ug.metasepi.org/)
 * [Introduction to Programming in ATS](http://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/INT2PROGINATS-BOOK.html)
   * [日本語訳](http://jats-ug.metasepi.org/doc/ATS2/INT2PROGINATS/index.html)
@@ -87,3 +87,4 @@
 ## Android
 * [Android](https://wiki.haskell.org/Android)
 * [passy/android-lint-summary](https://github.com/passy/android-lint-summary)
+* [Android and Template Haskell – zw3rk – Medium](https://medium.com/@zw3rk/android-and-template-haskell-afb7cbf1bff7)
