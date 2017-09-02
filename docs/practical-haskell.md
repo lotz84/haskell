@@ -203,6 +203,7 @@
 * [Functional Geekery Episode 83 – Rahul MuttineniFunctional Geekery | Functional Geekery](https://www.functionalgeekery.com/episode-83-rahul-muttineni/)
 * [思ったほど怖くない！ Haskell on JVM 超入門](https://www.slideshare.net/y_taka_23/haskell-on-jvm-jjugccc-cccl8)
 * [Haskell on Android using Eta - BAM Weblog](https://brianmckenna.org/blog/eta_android)
+* [A Haskell Cross Compiler for Android – zw3rk – Medium](https://medium.com/@zw3rk/a-haskell-cross-compiler-for-android-8e297cb74e8a)
 
 ### Frege
 * [すごい Frege たのしく学ぼう！](http://www.slideshare.net/y_taka_23/frege)
