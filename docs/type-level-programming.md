@@ -151,6 +151,7 @@ circum (Circle _ _ r) = …
 * [An Explanation of Type Inference for ML/Haskell](http://jozefg.bitbucket.org/posts/2015-02-28-type-inference.html)
 * [Haskell Suite: Type inference.](http://lhc-compiler.blogspot.jp/2016/09/haskell-suite-type-inference.html)
 * [Type Systems as Macros](http://www.ccs.neu.edu/home/stchang/popl2017/)
+* [Generic unification](https://ro-che.info/articles/2017-06-17-generic-unification)
 
 ## Parametricity
 * [Theorems for free!](http://www.cs.sfu.ca/CourseCentral/831/burton/Notes/July14/free.pdf)
