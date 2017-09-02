@@ -106,6 +106,7 @@ class (Functor t, Foldable t) => Traversable t where
 * [Why Traversable is the real deal](http://www.corecursion.net/post/2017-01-12-Why_Traversable_is_the_real_deal)
 * [Proposal: Suggest explicit type application for Foldable length and friends : Inside 214-1E](http://blog.ezyang.com/2017/03/proposal-suggest-explicit-type-application-for-foldable-length/)
 * [Accidentally Quadratic — GHC Derived Foldable and Traversable Instances](https://accidentallyquadratic.tumblr.com/post/134605666547/ghc-derived-foldable-and-traversable-instances)
+* [Traversable: A Remix - The Life Monadic](http://duplode.github.io/posts/traversable-a-remix.html)
 
 #### Distributive
 Distributive is the categorical dual of Traversable.
