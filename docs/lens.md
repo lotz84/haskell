@@ -38,6 +38,7 @@
 * [Oleg's gists - Glassery](http://oleg.fi/gists/posts/2017-04-18-glassery.html)
 * [Lost in Technopolis](http://newartisans.com/2017/04/putting-lenses-to-work/)
 * [Oleg's gists - Indexed Profunctor optics](http://oleg.fi/gists/posts/2017-04-26-indexed-poptics.html)
+* [Profunctor Optics: The Categorical View |   Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2017/07/07/profunctor-optics-the-categorical-view/)
 
 > Thus the Yoneda embedding of the functor category leads to the van Laarhoven representation of the lens
 
@@ -61,13 +62,13 @@ class Functor w => Comonad w where
   duplicate :: w a -> w (w a)
 ```
 
-###CPS Lens
+### CPS Lens
 * [My new lens idea](http://lpaste.net/128137)
 
-###Lens Libraries
+### Lens Libraries
 * [yaml-light-lens](https://hackage.haskell.org/package/yaml-light-lens)
 
-##Prism
+## Prism
 > A prism is like a first-class pattern match
 
 <https://www.youtube.com/watch?v=GZPup5Iuaqw>
@@ -82,11 +83,11 @@ pack x ≡ x ^. packed
 unpack x ≡ x ^. from packed
 ```
 
-##Traversal
+## Traversal
 * [Reducer transformers can definitely be encoded in a lens-like shape](https://www.reddit.com/r/haskell/comments/2cv6l4/clojures_transducers_are_perverse_lenses/cjjfrxt)
 * [TraversableがなければTraversalを使えばいいじゃない](http://qiita.com/hiyakashi_/items/f272e73161a89df31bda)
 
-##Classy Optics
+## Classy Optics
 * [lensのmakeClassyで型を合成する](http://tune.hateblo.jp/entry/2014/09/27/191008)
 * [makeClassyを使って複数のオブジェクトで共通する函数をまとめる](https://gist.github.com/myuon/6349238)
 * [Next Level MTL - George Wilson - BFPG 2016-06](https://www.youtube.com/watch?v=GZPup5Iuaqw)
