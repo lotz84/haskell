@@ -229,6 +229,17 @@
 * [mrkkrp/flac](https://github.com/mrkkrp/flac) - Complete high-level Haskell binding to libFLAC
 * [Haskellでの 音楽表現 - Qiita](http://qiita.com/nobkz/items/ca095ea3ae9e2be9f8ce)
 
+## アプリケーション・アーキテクチャ
+* [DDDをHaskellで考える 業務ロジックとシステムロジック](http://qiita.com/suzuki-hoge/items/82229b903655ca4b5c9b)
+* [DDDをHaskellで考える EntityとIdentity、そしてモデル図](http://qiita.com/suzuki-hoge/items/7ac33356526764feeb20)
+* [DDDをHaskellで考える 失敗を表現する](http://qiita.com/suzuki-hoge/items/5b56c7248edaeb81ef2f)
+* [DDDをHaskellで考える フォームとバリデーション](http://qiita.com/suzuki-hoge/items/44b8645393088347cdd5)
+* [How to structure your Haskell program](http://corentindupont.info/blog/posts/Programming/2016-12-14-Haskell-structure.html)
+* [Beware of readFile](http://www.snoyman.com/blog/2016/12/beware-of-readfile)
+* [Assume It Worked and Fix Later – Hacker Noon](https://hackernoon.com/assume-it-worked-and-fix-later-8436d18b7ed3)
+* [Boring Haskell | Eventsourced aggregates in Haskell](http://blog.akii.de/posts/2017-06-04-eventsourcing-in-haskell.html)
+* [The ReaderT Design Pattern](https://www.fpcomplete.com/blog/2017/06/readert-design-pattern)
+
 ----
 
 * [dcfl is a parallelized constraint solving library for Haskell.](http://poincare.github.io/DCFL/)
@@ -279,12 +290,6 @@
 * [Parse and generate Rocket League replays with Haskell](http://taylor.fausak.me/2016/11/15/parse-and-generate-rocket-league-replays-with-haskell/)
 * [silky/literate-readme](https://github.com/silky/literate-readme) - README files used to be able to lie. Now they can't! Woo!
 * [Haskell Documentation, 2016 Update](http://www.snoyman.com/blog/2016/11/haskell-documentation-2016-update)
-* [DDDをHaskellで考える 業務ロジックとシステムロジック](http://qiita.com/suzuki-hoge/items/82229b903655ca4b5c9b)
-* [DDDをHaskellで考える EntityとIdentity、そしてモデル図](http://qiita.com/suzuki-hoge/items/7ac33356526764feeb20)
-* [DDDをHaskellで考える 失敗を表現する](http://qiita.com/suzuki-hoge/items/5b56c7248edaeb81ef2f)
-* [DDDをHaskellで考える フォームとバリデーション](http://qiita.com/suzuki-hoge/items/44b8645393088347cdd5)
-* [How to structure your Haskell program](http://corentindupont.info/blog/posts/Programming/2016-12-14-Haskell-structure.html)
-* [Beware of readFile](http://www.snoyman.com/blog/2016/12/beware-of-readfile)
 * [Slack BOTから始めるHaskell](http://qiita.com/xorphitus/items/e952b27a37d8aae7d9a8)
 * [Automatically export Haskell modules](http://taylor.fausak.me/2016/12/30/automatically-export-haskell-modules/)
 * [rgleichman/glance - A visual Haskell](https://github.com/rgleichman/glance)
@@ -297,5 +302,3 @@
 * [BOB 2017 - Andres Löh: Write one program, get two (or three, or many) - YouTube](https://www.youtube.com/watch?v=w43kve1zeoI)
 * [Trouble with Tribbles | Maths, Stats & Functional Programming](https://idontgetoutmuch.wordpress.com/2017/04/18/trouble-with-tribbles/)
 * [Lost in Technopolis](http://newartisans.com/2017/04/haskell-and-z3/)
-* [Assume It Worked and Fix Later – Hacker Noon](https://hackernoon.com/assume-it-worked-and-fix-later-8436d18b7ed3)
-* [Boring Haskell | Eventsourced aggregates in Haskell](http://blog.akii.de/posts/2017-06-04-eventsourcing-in-haskell.html)
