@@ -70,10 +70,7 @@
 * [CPP – Haskell – Aelve Guide](https://guide.aelve.com/haskell/cpp-vww0qd72)
 * [Haskell without GMP](https://ro-che.info/articles/2017-03-10-haskell-without-gmp)
 * [IntelLabs/flrc: Haskell Research Compiler](https://github.com/IntelLabs/flrc)
-* [Are Mutable References Fast? – Hacker Noon](https://hackernoon.com/are-mutable-references-in-haskell-fast-f095f4144977)
-* [On Competing with C Using Haskell – Two Wrongs](https://two-wrongs.com/on-competing-with-c-using-haskell)
 * [The Haskell Concurrency Primitive Shootout – codeburst](https://codeburst.io/the-haskell-concurrency-primitive-shootout-538c21993f1c)
-* [When competing with C, fudge the benchmark – Franklin He – Medium](https://medium.com/@n0mad/when-competing-with-c-fudge-the-benchmark-16d3a91b437c)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
@@ -120,6 +117,7 @@
 * [An optimization using the foldr fusion law |](http://myhaskelljournal.com/an-optimization-using-foldr-fusion-law/)
 * [INLIN(E)ing: A case study](http://mpickering.github.io/posts/2017-05-17-inlining-case-study.html)
 * [Speed up your Haskell programs with one weird trick](https://inner-haven.net/posts/2017-05-08-speed-up-haskell-programs-weird-trick.html)
+* [Notes on fusion](http://teh.id.au/posts/2017/06/30/notes-on-fusion/index.html)
 
 ### パフォーマンス
 * [Haskell で高速なプログラムを書くときに注意すること](http://d-poppo.nazo.cc/blog/2016/06/writing-efficient-program-with-haskell/)
@@ -128,6 +126,9 @@
 * [GHC performance over time](https://uqudy.serpens.uberspace.de/blog/2016/02/08/ghc-performance-over-time/)
 * [Thinking About Performance](http://chadaustin.me/2015/04/thinking-about-performance/)
 * [High-Performance Haskell](http://www.slideshare.net/tibbe/highperformance-haskell)
+* [When competing with C, fudge the benchmark – Franklin He – Medium](https://medium.com/@n0mad/when-competing-with-c-fudge-the-benchmark-16d3a91b437c)
+* [Are Mutable References Fast? – Hacker Noon](https://hackernoon.com/are-mutable-references-in-haskell-fast-f095f4144977)
+* [On Competing with C Using Haskell – Two Wrongs](https://two-wrongs.com/on-competing-with-c-using-haskell)
 
 ### スペースリーク
 * [GHC とスペースとリーク](http://d.hatena.ne.jp/kazu-yamamoto/20151217)
