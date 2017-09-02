@@ -71,6 +71,8 @@
 * [Haskell without GMP](https://ro-che.info/articles/2017-03-10-haskell-without-gmp)
 * [IntelLabs/flrc: Haskell Research Compiler](https://github.com/IntelLabs/flrc)
 * [The Haskell Concurrency Primitive Shootout – codeburst](https://codeburst.io/the-haskell-concurrency-primitive-shootout-538c21993f1c)
+* [Simon Peyton Jones - Compiling without continuations - YouTube](https://www.youtube.com/watch?v=LMTr8yw0Gk4)
+* [Richard A. Eisenberg - Levity Polymorphism - YouTube](https://www.youtube.com/watch?v=lSJwXZ7vWBw)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
