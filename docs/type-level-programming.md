@@ -216,6 +216,7 @@ circum (Circle _ _ r) = …
 * [Practical Dependent Types in Haskell 2: Existential Neural Networks and Types at Runtime](https://blog.jle.im/entry/practical-dependent-types-in-haskell-2.html)
 * [The Influence of Dependent Types -- Stephanie Weirich - YouTube](https://www.youtube.com/watch?v=GgD0KUxMaQs)
 * [Dependent Types in Haskell: Theory and Practice](https://arxiv.org/abs/1610.07978)
+* [A specification for dependent types in Haskell](http://dl.acm.org/citation.cfm?id=3110275)
 
 ```haskell
 {-# LANGUAGE GADTs, DataKinds, KindSignatures, TypeFamilies #-}
