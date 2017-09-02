@@ -297,3 +297,4 @@
 * [BOB 2017 - Andres Löh: Write one program, get two (or three, or many) - YouTube](https://www.youtube.com/watch?v=w43kve1zeoI)
 * [Trouble with Tribbles | Maths, Stats & Functional Programming](https://idontgetoutmuch.wordpress.com/2017/04/18/trouble-with-tribbles/)
 * [Lost in Technopolis](http://newartisans.com/2017/04/haskell-and-z3/)
+* [Assume It Worked and Fix Later – Hacker Noon](https://hackernoon.com/assume-it-worked-and-fix-later-8436d18b7ed3)
