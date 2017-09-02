@@ -88,6 +88,7 @@ Client
 * [[ANN] bartlett - a simple Jenkins command-line client in Haskell : haskell](https://www.reddit.com/r/haskell/comments/5pzzvh/ann_bartlett_a_simple_jenkins_commandline_client/)
 * Shipwire
   * [ballast Haskell package - Web | LibHunt](https://haskell.libhunt.com/project/ballast)
+* [matterhorn-chat/mattermost-api: Client side API for communicating with a mattermost server in Haskell](https://github.com/matterhorn-chat/mattermost-api)
 
 Scraping
 --------
