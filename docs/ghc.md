@@ -115,6 +115,7 @@
 * [Natural Transformations as Rewrite Rules and Monad Composition](https://arxiv.org/abs/1612.07273)
 * [An optimization using the foldr fusion law |](http://myhaskelljournal.com/an-optimization-using-foldr-fusion-law/)
 * [INLIN(E)ing: A case study](http://mpickering.github.io/posts/2017-05-17-inlining-case-study.html)
+* [Speed up your Haskell programs with one weird trick](https://inner-haven.net/posts/2017-05-08-speed-up-haskell-programs-weird-trick.html)
 
 ### パフォーマンス
 * [Haskell で高速なプログラムを書くときに注意すること](http://d-poppo.nazo.cc/blog/2016/06/writing-efficient-program-with-haskell/)
