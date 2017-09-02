@@ -9,6 +9,7 @@
 * [Oleg's gists - Linear thoughts](http://oleg.fi/gists/posts/2017-01-17-linear-thoughts.html)
 * [Retrofitting Linear Types](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/haskell-linear-submitted.pdf)
 * [Typed Tagless-Final Linear Lambda Calculus - School of Haskell](https://www.schoolofhaskell.com/user/mutjida/typed-tagless-final-linear-lambda-calculus)
+* [Tweag I/O - Compact normal forms + linear types <br>= efficient network communication](http://www.tweag.io/posts/2017-08-24-linear-types-packed-data.html)
 
 ## Linear Type as DSL
 * [線形型つきドメイン特化言語 (DSL) を Haskell上に実装する](http://d.hatena.ne.jp/keigoi/20110806/1312604753)
@@ -18,8 +19,6 @@
 
 ## 理論
 * [linear type theory](https://ncatlab.org/nlab/show/linear+type+theory)
-
-
 * [線形論理って何？](http://web.yl.is.s.u-tokyo.ac.jp/kobalab/kadai99/linear-logic.html)
 * [線形論理入門 ∼ What’s the USE? ∼](http://www.kurims.kyoto-u.ac.jp/~terui/summer1.pdf)
 * [線形論理の誕生](http://www.kurims.kyoto-u.ac.jp/~terui/birth.pdf)
