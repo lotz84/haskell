@@ -32,6 +32,10 @@ std dev              47.69 μs   (40.09 μs .. 57.91 μs)
 variance introduced by outliers: 81% (severely inflated)
 ```
 
+### Blogdown
+* Markdownベースのブログように改良されたマークアップ言語
+* [Blogdown - Simple Markup for Blogging](https://blogdown.io/)
+
 ### braces-be-gone
 * [ollef/braces-be-gone: Get those pesky braces out of your face](https://github.com/ollef/braces-be-gone)
 
