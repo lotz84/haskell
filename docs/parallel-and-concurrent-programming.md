@@ -34,6 +34,8 @@
 * [Asynchronous Exceptions in Practice · Simon Marlow](http://simonmar.github.io/posts/2017-01-24-asynchronous-exceptions.html)
 * [gochan: Go-style channels](http://hackage.haskell.org/package/gochan-0.0.2)
 * [Mio: A High-Performance Multicore IO Manager for GHC](http://haskell.cs.yale.edu/wp-content/uploads/2013/08/hask035-voellmy.pdf)
+* [Threading responsibly - forkIO considered harmful.](https://mazzo.li/posts/threads-resources.html)
+* [Haxl: Making Concurrency Unreasonably Easy | Big Techday 10 - TNG Technology Consulting](http://events.techcast.com/bigtechday10/Garmisch-1345/?q=Garmisch-1345)
 
 ## 並列
 * [monad-par](https://hackage.haskell.org/package/monad-par)
