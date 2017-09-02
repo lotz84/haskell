@@ -456,6 +456,7 @@ Protocol
 
 ### MQTT
 * [uwitty/mosquitto](https://github.com/uwitty/mosquitto)
+* [lpeterse/haskell-mqtt: An MQTT protocol implementation (client and server)](https://github.com/lpeterse/haskell-mqtt)
 
 ### Protocol Buffers
 * [google/proto-lens](https://github.com/google/proto-lens)
