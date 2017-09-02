@@ -90,4 +90,5 @@
 ## Android
 * [Android](https://wiki.haskell.org/Android)
 * [passy/android-lint-summary](https://github.com/passy/android-lint-summary)
+* [A Haskell Cross Compiler for Android – zw3rk – Medium](https://medium.com/@zw3rk/a-haskell-cross-compiler-for-android-8e297cb74e8a)
 * [Android and Template Haskell – zw3rk – Medium](https://medium.com/@zw3rk/android-and-template-haskell-afb7cbf1bff7)
