@@ -28,6 +28,7 @@
 * [thorlucas/Sandpiles: Haskell implementation of the Abelian sandpile model.](https://github.com/thorlucas/Sandpiles)
 * [hip - Haskell Image Processing library : haskell](https://www.reddit.com/r/haskell/comments/5tivy2/hip_haskell_image_processing_library/)
 * [prizm: Convert colors to different color spaces, interpolate colors, and transform colors](https://hackage.haskell.org/package/prizm-2.0.1)
+* [ocramz/plot-light: A lightweight plotting library, exporting to SVG](https://github.com/ocramz/plot-light)
 
 ## 画像処理
 * [friday: A functional image processing library for Haskell.](https://hackage.haskell.org/package/friday)
