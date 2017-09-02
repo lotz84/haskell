@@ -19,6 +19,7 @@
 * [Roll your Own Bitcoin Exchange in Haskell](http://www.michaelburge.us/2017/08/31/roll-your-own-bitcoin-exchange.html)
 * [tdietert/nanocoin](https://github.com/tdietert/nanocoin) - A minimum viable cryptocurrency
 * [the chain in blockchain explained](http://haroldcarr.com/posts/2017-06-19-the-chain-in-blockchain.html)
+* [Rolling your Own Blockchain in Haskell](http://www.michaelburge.us/2017/08/17/rolling-your-own-blockchain.html)
 
 ## Ethereum
 > Blockchain上に任意のスクリプトとその実行結果を保存する
