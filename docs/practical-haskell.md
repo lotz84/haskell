@@ -146,6 +146,7 @@
 * [beijaflor-io/haskell-language-dockerfile](https://github.com/beijaflor-io/haskell-language-dockerfile)
 * [Deni Bertovic :: Haskell and Docker: Down the rabbit hole and back](https://denibertovic.com/posts/haskell-and-docker-down-the-rabbit-hole-and-back/)
 * [Immutability, Docker, and Haskell's ST type](https://www.fpcomplete.com/blog/2017/02/immutability-docker-haskells-st-type)
+* [STATIC BINARIES FOR HASKELL: A CONVOLUTED APPROACH](https://vadosware.io/post/static-binaries-for-haskell-a-convoluted-approach/)
 
 ## CI
 * [Shake](http://shakebuild.com/)
