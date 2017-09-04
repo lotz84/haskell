@@ -213,6 +213,7 @@ $ hobbes "*.hs" | xargs -n1 ghc --make
 
 ### Movie Monad
 * [lettier/movie-monad: A desktop video player built with Haskell that uses GStreamer and GTK+.](https://github.com/lettier/movie-monad)
+* [Let's make a GTK Video Player with Haskell](https://lettier.github.io/posts/2017-08-30-haskell-gtk-video-player.html)
 
 ### ngless
 * [luispedro/ngless: NGLess: NGS with less work](https://github.com/luispedro/ngless)
