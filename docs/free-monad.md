@@ -143,6 +143,7 @@ yoneda f = Natural $ \ax -> fmap ax f
 * [Typed Tagless Final Interpreters](http://okmij.org/ftp/tagless-final/course/lecture.pdf)
 * [Typed tagless-final interpretations: Lecture notes](http://okmij.org/ftp/tagless-final/course/)
 * [Reducing boilerplate in finally tagless style](https://ro-che.info/articles/2016-02-03-finally-tagless-boilerplate)
+* [Typed Tagless Final Bioinformatics](https://www.youtube.com/watch?v=dj4j_3M4K-0)
 
 ## Free Arrow
 * [Building free arrows from components](http://blog.sigfpe.com/2017/01/building-free-arrows-from-components.html)
