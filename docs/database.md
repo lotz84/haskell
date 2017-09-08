@@ -29,6 +29,7 @@
 * [Haskell Bits #3: Connecting to Databases](http://www.kovach.me/posts/2017-02-08-connecting-to-databases.html)
 * [valderman/selda: Type-safe, high-level SQL DSL, embedded in Haskell](https://github.com/valderman/selda)
 * [odr/pers](https://github.com/odr/pers)
+* [Announcing Squeal](https://www.morphism.tech/announcing-squeal/)
 
 Simple Clients
 --------------
