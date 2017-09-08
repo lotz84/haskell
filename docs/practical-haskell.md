@@ -172,6 +172,7 @@
 * [yesodweb/Shelly.hs](https://github.com/yesodweb/Shelly.hs)
 * [lpsmith/configurator-ng](https://github.com/lpsmith/configurator-ng/blob/5a0722ffc2667e0605efb7c3e722a3e8ea8c39c6/README.markdown)
 * [Hapistrano's new features](https://stackbuilders.com/news/hapistrano-s-new-features)
+* [ivan-m/jbi](https://github.com/ivan-m/jbi) - Just Build It - a "do what I mean" abstraction for Haskell build tools
 
 ## FFI
 * [inline-c](https://hackage.haskell.org/package/inline-c)
