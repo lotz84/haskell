@@ -223,6 +223,7 @@ $ stack exec -- <your program> +RTS <profiling options>
 ### LLVM
 * [LLVM フレームワークで実用的なコンパイラーを作成する: 第 1 回](http://www.ibm.com/developerworks/jp/opensource/library/os-createcompilerllvm1/index.html)
 * [Implementing a JIT Compiled Language with Haskell and LLVM](http://www.stephendiehl.com/llvm/)
+* [llvm-hs/llvm-hs](https://github.com/llvm-hs/llvm-hs) - Haskell bindings for LLVM
 
 ### 言語拡張
 * [Language.Haskell.Extension](http://downloads.haskell.org/~ghc/latest/docs/html/libraries/Cabal-1.22.4.0/Language-Haskell-Extension.html)
