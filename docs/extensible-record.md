@@ -238,6 +238,7 @@ swan = name @= "swan"
 * [named-record](https://hackage.haskell.org/package/named-records)
 * [Control Flow in Haskell (0) - Introduction](http://hsyl20.fr/home/posts/2016-12-12-control-flow-in-haskell-part-0.html)
 * [SuperRecord: Anonymous Records for Haskell](https://www.athiemann.net/2017/07/02/superrecord.html)
+* [OVERCOMING THE RECORD PROBLEM](http://www.parsonsmatt.org/overcoming-records/#/)
 
 ## 理論
 * [Records are Sheaves of Types.](http://archive.is/0PM3e)
