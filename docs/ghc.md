@@ -74,6 +74,7 @@
 * [Simon Peyton Jones - Compiling without continuations - YouTube](https://www.youtube.com/watch?v=LMTr8yw0Gk4)
 * [Richard A. Eisenberg - Levity Polymorphism - YouTube](https://www.youtube.com/watch?v=lSJwXZ7vWBw)
 * [Deriving type classes in Haskell is slow · taylor.fausak.me](http://taylor.fausak.me/2017/08/09/deriving-type-classes-in-haskell-is-slow/)
+* [Have Your Cookie and Eat it Too – Josef Svenningsson](https://www.youtube.com/watch?v=5PZh0BcjIbY)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
