@@ -205,6 +205,7 @@ instance Monad [] where
 * [guard の動作原理を考える](http://d.hatena.ne.jp/kazu-yamamoto/20090401/1238555013)
 * [Easy exhasutive search with the list monad](http://blog.plover.com/prog/haskell/monad-search.html)
 * [Day 2: [] — Seeing the rest of a program run](https://medium.com/@benclifford/day-2-seeing-the-rest-of-a-program-run-84a1928ce200#.dljrdm7ip)
+* [How the List Monad helped me better understand Non-deterministic Polynomial time complexity](https://deque.blog/2017/09/04/list-monad-and-np-complexity/)
 
 #### LogicT
 * [リストモナドとLogicモナド](http://qiita.com/fumieval/items/794a85e2d7497b2463ba)
