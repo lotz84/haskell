@@ -48,6 +48,7 @@
 * [hedgehog: Hedgehog will eat all your bugs.](https://hackage.haskell.org/package/hedgehog)
 * [State machine testing with Hedgehog](http://teh.id.au/posts/2017/07/15/state-machine-testing/index.html)
 * [Invert Your Mocks!](http://www.parsonsmatt.org/2017/07/27/inverted_mocking.html)
+* [Reddit - Signature Inference for Functional Property Discovery: Thesis document](https://www.reddit.com/r/haskell/comments/6yy9fn/signature_inference_for_functional_property/)
 
 ### QuickCheck
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
