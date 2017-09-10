@@ -212,6 +212,7 @@ Web Server
 * [Migrating a REST API from Javascript to Haskell](https://blog.ismail-s.com/2017/08/30/migrating-a-rest-api-from-javascript-to-haskell/)
 * [rodrigosetti/swagger-test: Property based testing tool for Swagger APIs](https://github.com/rodrigosetti/swagger-test)
 * [An Opinionated Survey of Functional Web Development](https://dev.yorhel.nl/doc/funcweb)
+* [ChrisPenner/Firefly](https://github.com/ChrisPenner/firefly)
 
 ### WAI/Warp
 * [Haskell版フォルダを指定してhttpで公開する簡易Webサーバー](http://qiita.com/saturday06/items/fad44a9bc49b2f387bde)
