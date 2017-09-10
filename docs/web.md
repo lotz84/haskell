@@ -212,7 +212,7 @@ Web Server
 * [Migrating a REST API from Javascript to Haskell](https://blog.ismail-s.com/2017/08/30/migrating-a-rest-api-from-javascript-to-haskell/)
 * [rodrigosetti/swagger-test: Property based testing tool for Swagger APIs](https://github.com/rodrigosetti/swagger-test)
 * [An Opinionated Survey of Functional Web Development](https://dev.yorhel.nl/doc/funcweb)
-* [ChrisPenner/Firefly](https://github.com/ChrisPenner/firefly)
+* [ChrisPenner/Firefly](https://github.com/ChrisPenner/firefly) - Simple Haskell http framework
 
 ### WAI/Warp
 * [Haskell版フォルダを指定してhttpで公開する簡易Webサーバー](http://qiita.com/saturday06/items/fad44a9bc49b2f387bde)
@@ -306,6 +306,7 @@ Web Application Framework
 * [scotty-format: A response format helper for the Scotty web framework](http://www.focustheweb.com/2016/11/27/scotty-format-response-format-helper-for-scotty.html)
 * [Scotty による Web アプリ入門 - Qiita](http://qiita.com/ryota-ka/items/b0883ce87d60b9f573e7)
 * [Rest api in Haskell | maciek.io](http://maciek.io/rest-api-in-haskell/)
+* [eckyputrady/haskell-scotty-realworld-example-app](https://github.com/eckyputrady/haskell-scotty-realworld-example-app) - Exemplary real world backend API built with Haskell/Scotty
 
 ### Spock
 * [Spock Web Framework](https://www.spock.li/)
