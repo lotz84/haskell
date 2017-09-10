@@ -18,6 +18,7 @@
 * [bitcoin-payment-channel: Library for working with Bitcoin payment channels](https://hackage.haskell.org/package/bitcoin-payment-channel)
 * [Roll your Own Bitcoin Exchange in Haskell](http://www.michaelburge.us/2017/08/31/roll-your-own-bitcoin-exchange.html)
 * [tdietert/nanocoin](https://github.com/tdietert/nanocoin) - A minimum viable cryptocurrency
+  * [Thomas Dietert - Introduction to Cryptocurrencies in Haskell - YouTube](https://www.youtube.com/watch?v=wjyiOXRuUdo)
 * [the chain in blockchain explained](http://haroldcarr.com/posts/2017-06-19-the-chain-in-blockchain.html)
 * [Rolling your Own Blockchain in Haskell](http://www.michaelburge.us/2017/08/17/rolling-your-own-blockchain.html)
 
