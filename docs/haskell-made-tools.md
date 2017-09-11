@@ -405,6 +405,9 @@ Line 6:
 * [staversion: What version is the package X in stackage lts-Y.ZZ?](https://hackage.haskell.org/package/staversion)
 * [stackageの特定のresolverに上がっているパッケージバージョンを調べるツール](http://d.hatena.ne.jp/debug-ito/20161016/1476603444)
 
+### thank-you-stars
+* [y-taka-23/thank-you-stars](https://github.com/y-taka-23/thank-you-stars) - Give your dependencies stars on GitHub!
+
 ### typebot
 * 関数の型を答えてくれるSlack bot
 * <https://github.com/thoughtbot/typebot>
