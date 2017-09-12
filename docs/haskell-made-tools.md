@@ -397,6 +397,10 @@ Line 6:
 * Haskell development tool
 * <https://github.com/mvoidex/hsdev>
 
+### hs-snowtify
+* [aiya000/hs-snowtify: snowtify send your result of `stack build` (`stack test`) to notify-daemon :dog2:](https://github.com/aiya000/hs-snowtify)
+* [Haskellのstack-build（test）の結果をGUI通知するsnowtify作ったよ - Qiita](http://qiita.com/aiya000/items/3ea64089d58956bde3e9)
+
 ### import-bikeshedder
 * Haskellのimport文を並べ替えるコマンド
 * <https://github.com/fumieval/import-bikeshedder>
