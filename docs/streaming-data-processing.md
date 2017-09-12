@@ -24,10 +24,11 @@ main = do
 
 * [How to build library-agnostic streaming sources](http://www.haskellforall.com/2014/11/how-to-build-library-agnostic-streaming.html)
 
-###History
+### History
 * ✕ Lazy IO
     * [Lazy IO considered harmful](https://sites.google.com/site/haskell/notes/lazy-io-considered-harmful-way-to-go-left-fold-enumerator)
     * [jaspervdj - Lazy I/O and graphs: Winterfell to King's Landing](https://jaspervdj.be/posts/2017-01-17-lazy-io-graphs.html)
+    * [憎らしの Lazy I/O - Qiita](http://qiita.com/nobsun/items/a20b9621d5ea4b3937ce)
 * Deprecated [enumerator](https://hackage.haskell.org/package/enumerator)
 * [iteratee](https://hackage.haskell.org/package/iteratee)
     * [iterIO](https://hackage.haskell.org/package/iterIO)
