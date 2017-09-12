@@ -68,6 +68,7 @@ class Functor f => Applicative f where
 * [Refactoring with Applicatives in Haskell](http://www.bbenson.co/post/refactoring-with-applicatives-in-haskell/)
 * [Applicative Sorting](http://elvishjerricco.github.io/2017/03/23/applicative-sorting.html)
 * [LambdaCast 17: Applicative Functors](https://soundcloud.com/lambda-cast/17-applicative-functors)
+* [Applicative スタイル `f <$> m1 <*> m2` を読み解く - Qiita](http://qiita.com/DUxCA/items/2f2bb996ba4b5a2e4f07)
 
 ### Discrimination
 * [discrimination](http://hackage.haskell.org/package/discrimination)
