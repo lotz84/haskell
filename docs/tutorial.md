@@ -56,6 +56,9 @@
 * [お気楽 Haskell プログラミング入門](http://www.geocities.jp/m_hiroi/func/haskell.html)
 * [やさしい Haskell 入門 (バージョン98)](http://www.sampou.org/haskell/tutorial-j/index.html)
 * [All about Prelude #Haskell - Qiita](http://qiita.com/Tatsuki-I/items/210ca6ce3337105fed98#%E5%9F%BA%E6%9C%AC%E5%85%A5%E5%87%BA%E5%8A%9B)
+* [「Haskell入門ハンズオン!」事前資料 - 1/3 - Qiita](http://qiita.com/YoshikuniJujo/items/11d532719bc64f883386)
+  * [2/3](http://qiita.com/YoshikuniJujo/items/088a7caea9bd3fe59e3a)
+  * [3/3](http://qiita.com/YoshikuniJujo/items/12555f599b5aceac7940)
 
 </details>
 
