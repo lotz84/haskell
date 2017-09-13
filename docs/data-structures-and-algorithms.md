@@ -86,6 +86,9 @@
 * [To Void or to void](https://www.fpcomplete.com/blog/2017/07/to-void-or-to-void)
 * [The Partial Options Monoid – Jonathan Fischoff – Medium](https://medium.com/@jonathangfischoff/the-partial-options-monoid-pattern-31914a71fc67)
 * [Adler-32: 関数scanlを使ってみる - Qiita](http://qiita.com/YoshikuniJujo/items/d41ad5cc8f1d63754ea7)
+* [Differentiating Functional Programs](http://languagengine.co/blog/differentiating-functional-programs/)
+* [帰納関数プログラミングシステム MagicHaskeller](http://nautilus.cs.miyazaki-u.ac.jp/~skata/MagicHaskeller-j.html)
+* [Less parentheses](http://www.joachim-breitner.de/blog/730-Less_parentheses)
 
 ### ソート
 * [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
