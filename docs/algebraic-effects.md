@@ -28,3 +28,5 @@
 * [Don't Eff It Up](http://reasonablypolymorphic.com/dont-eff-it-up/#/title)
 * [Freer Monads, More Extensible Effects](https://www.slideshare.net/konn/freer-monads-more-extensible-effects-59411772)
 * [The world's fastest extensible effects framework - School of Haskell | School of Haskell](https://www.schoolofhaskell.com/user/fumieval/extensible/the-world-s-fastest-extensible-effects-framework)
+* [Freer Effectsが、だいたいわかった: 0. 導入](http://qiita.com/YoshikuniJujo/items/c71644b5af1f5195cbf3)
+* [Freer Effectsが、だいたいわかった: 1. Freeモナドの概要](http://qiita.com/YoshikuniJujo/items/988ac4b69a27974154fd)
