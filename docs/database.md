@@ -30,6 +30,8 @@
 * [valderman/selda: Type-safe, high-level SQL DSL, embedded in Haskell](https://github.com/valderman/selda)
 * [odr/pers](https://github.com/odr/pers)
 * [Announcing Squeal](https://www.morphism.tech/announcing-squeal/)
+* [Debugging Types: A Stream of Thought](http://www.parsonsmatt.org/2017/09/13/debugging_types_a_stream_of_thought.html)
+* [Migrating from RethinkDB to Postgres — An Experience Report](https://medium.com/fuzzy-sharp/migrating-to-postgres-2dc1519a6dc7)
 
 Simple Clients
 --------------
