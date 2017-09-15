@@ -89,6 +89,7 @@
 * [Differentiating Functional Programs](http://languagengine.co/blog/differentiating-functional-programs/)
 * [帰納関数プログラミングシステム MagicHaskeller](http://nautilus.cs.miyazaki-u.ac.jp/~skata/MagicHaskeller-j.html)
 * [Less parentheses](http://www.joachim-breitner.de/blog/730-Less_parentheses)
+* [Haskell で Simpath を実装してみる - Qiita](http://qiita.com/yasuabe1362/items/f23b1d644d8aede87d97)
 
 ### ソート
 * [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
@@ -169,6 +170,7 @@
 * [aelve/fmt: New formatting library](https://github.com/aelve/fmt)
 * [Migrating text metrics to pure Haskell](https://markkarpov.com/post/migrating-text-metrics.html)
 * [A ByteString performance mystery](http://teh.id.au/posts/2017/08/23/bytestring-performance-mystery/index.html)
+* [Haskell の (文字列) 変換パッケージ (convertible, convert, conversion) - Qiita](http://qiita.com/waddlaw/items/36231d95580d73c798b1)
 
 ### リスト
 * [Haskell Data.Listのリスト操作関数（サンプル付き） - Qiita](http://qiita.com/aosho235/items/94787fe0901141598c91)
