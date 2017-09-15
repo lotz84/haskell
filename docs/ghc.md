@@ -76,6 +76,7 @@
 * [Deriving type classes in Haskell is slow · taylor.fausak.me](http://taylor.fausak.me/2017/08/09/deriving-type-classes-in-haskell-is-slow/)
 * [Have Your Cookie and Eat it Too – Josef Svenningsson](https://www.youtube.com/watch?v=5PZh0BcjIbY)
 * [Controlling Fusion In Haskell](https://jyp.github.io/posts/controlled-fusion.html)
+* [GHCで自動的にメモ化される条件 - Qiita](http://qiita.com/ki073/items/0b21786a324fbfb6cc0d)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
