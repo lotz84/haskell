@@ -50,6 +50,7 @@ type a * b = (a, b)
 * [Haskell Diary #2 - Algebra of Data Types](http://akashagrawal.me/haskell-diary-2-algebraic-data-types/)
 * [Overcoming Boolean blindness with Evidence](http://cs-syd.eu/posts/2016-07-24-overcoming-boolean-blindness-evidence.html)
 * [代数的データ型のデータのとりうる数を微分すると１穴空きデータ型の数になる話 - Qiita](http://qiita.com/mittyantest/items/f8783834e6bb48baf2c8)
+* [代数的データ型とF代数 - Qiita](http://qiita.com/karrym/items/62c46a2c7640912a1a28)
 
 ### Codata
 * [Codata](http://types2004.lri.fr/SLIDES/altenkirch.pdf)
@@ -145,6 +146,11 @@ fib n = fibs !! (n-1) + fibs !! (n-2)
 * [24 days of Hackage, 2015: day 16: safe; what is safety anyway?](http://conscientiousprogrammer.com/blog/2015/12/16/24-days-of-hackage-2015-day-16-safe-what-is-safety-anyway/)
 * [部分関数をどう扱うか(spoonの紹介)](http://qiita.com/techno-tanoC/items/1b725713cd01bdf83b40)
 * [The spoon package](https://hackage.haskell.org/package/spoon)
+
+### 多相型
+* [多相関数を数える - Qiita](http://qiita.com/nobsun/items/5662968f1c381695e7ff)
+* [「多相関数を数える」を考える - Qiita](http://qiita.com/cutsea110/items/3496394968cb7ac73047)
+* [ランク2多相の、ふたつの側面 - Qiita](http://qiita.com/YoshikuniJujo/items/c28d8fa11e33ed677e83)
 
 ---
 
