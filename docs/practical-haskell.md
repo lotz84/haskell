@@ -104,6 +104,7 @@
 * [Stackage design choices: making Haskell curated package sets - Michael Snoyman's blog](http://www.snoyman.com/blog/2017/01/stackage-design-choices)
 * [Hackage Security and Stack - Michael Snoyman's blog](http://www.snoyman.com/blog/2017/02/hackage-security-stack)
 * [Casual Hacking With stack, Reloaded - The Life Monadic](http://duplode.github.io/posts/casual-hacking-with-stack-reloaded.html)
+* [Stack のbenchmarkとtest - Qiita](http://qiita.com/ryamada22/items/b727df8268a4f776197a)
 
 ### 逆引き
 * [Ubuntu 16 で Stack + GHC がライブラリのリンクに失敗する場合の対処法](http://qiita.com/mr_konn/items/13caa82c1118968d3145)
