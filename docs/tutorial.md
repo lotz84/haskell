@@ -133,6 +133,18 @@
 ## Examples
 
 ```haskell
+> fib = 0 : 1 : zipWith (+) fib (tail fib)
+[0, 1, 1, 2, 3, 5, 8, 13, ...
+```
+
+<details>
+<summary></summary>
+
+* [Haskellのキモいフィボナッチ数列がやっと理解できたからこれでもかという程に細かく説明してみた #Haskell - Qiita](http://qiita.com/Tatsuki-I/items/97bdf8c2579b31b62fd8)
+
+</details>
+
+```haskell
 primes = sieve [2..]
 sieve (p:xs) = p : sieve [x | x <- xs, x `mod` p /= 0]
 
