@@ -270,6 +270,7 @@ instance Monad (State s) where
 * [How does the State monad work?](http://yawar.blogspot.ca/2015/12/how-does-state-monad-work.html)
 * [Wrangling State In Haskell](http://deliberate-software.com/haskell-state/)
 * [Universally stateless monads](https://ro-che.info/articles/2017-06-04-universally-stateless-monads)
+* [Stateモナドを理解する - Qiita](http://qiita.com/ku00/items/12221793dbb51f16a2d6)
 
 ### RWS Monad
 Reader + Writer + State
