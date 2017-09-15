@@ -90,6 +90,7 @@
 * [帰納関数プログラミングシステム MagicHaskeller](http://nautilus.cs.miyazaki-u.ac.jp/~skata/MagicHaskeller-j.html)
 * [Less parentheses](http://www.joachim-breitner.de/blog/730-Less_parentheses)
 * [Haskell で Simpath を実装してみる - Qiita](http://qiita.com/yasuabe1362/items/f23b1d644d8aede87d97)
+* [フリーランスプログラマのための複式簿記プログラミング - Qiita](http://qiita.com/arowM/items/69c0305a7ae5b953f21d)
 
 ### ソート
 * [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
