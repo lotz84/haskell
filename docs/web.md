@@ -73,6 +73,7 @@ Client
   * [brendanhay/amazonka](https://github.com/brendanhay/amazonka)
   * [Haskell で AWS を扱う amazonka ライブラリの紹介](http://qiita.com/algas/items/67effd61eac62595f50b)
   * [minio/minio-hs: Minio Client SDK for Haskell](https://github.com/minio/minio-hs)
+  * [Amazon SESとNetwork.Mail.Mimeでメールを送信してみた - Qiita](http://qiita.com/jabaraster/items/4b42d717f852eda0f42c)
 * Reddit - [reddit](https://hackage.haskell.org/package/reddit)
 * IRC - [glguy/irc-core](https://github.com/glguy/irc-core)
 * Twilio - [steven777400/TwilioIVR](https://github.com/steven777400/TwilioIVR/)
