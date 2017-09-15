@@ -113,6 +113,7 @@ instance Monad Dist where
 * [Foundations of the Giry Monad · jtobin.io](https://jtobin.io/giry-monad-foundations)
 * [Implementing the Giry Monad · jtobin.io](https://jtobin.io/giry-monad-implementation)
 * [The Applicative Structure of the Giry Monad · jtobin.io](https://jtobin.io/giry-monad-applicative)
+* [Practical Probabilistic Programming with Monads を読む (1) : とりあえずサイコロを振る - Qiita](http://qiita.com/lesguillemets/items/bf005952cf87480215c9)
 
 ### Hakaru
 * [Hakaru](http://hakaru-dev.github.io/)
