@@ -94,6 +94,7 @@ $ alias ghci='stack ghci --'
 * [IntelliJでHaskell](http://qiita.com/eielh/items/f121fbd2def8c887405f)
 * [IntelliJ (with Stack) as Haskell IDE - YouTube](https://www.youtube.com/watch?v=KXd8mV7Vzhc)
 * [IntelliJでHaskellを実行する（haskell stackプロジェクト） - Qiita](http://qiita.com/nwtgck/items/d64647c05a0ba52db63c)
+* [HaskellをIntelliJで使えるようになりました！ - Qiita](http://qiita.com/v97ug/items/245faeb80abea19886e8)
 
 ### Others
 * [Leksah](http://leksah.org/)
