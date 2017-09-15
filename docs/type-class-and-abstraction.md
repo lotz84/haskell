@@ -68,6 +68,7 @@ instance Show Bool where
 * [On Type Class Instance Selection – Hacker Noon](https://hackernoon.com/typeclass-instance-selection-fea1068920e6)
 * [Type Class Patterns and Anti-patterns – Hacker Noon](https://hackernoon.com/type-class-patterns-and-anti-patterns-efd045c5af66)
 * [The Has Type Class Pattern – Hacker Noon](https://hackernoon.com/the-has-type-class-pattern-ca12adab70ae)
+* [型クラスの原点 How to make ad-hoc polymorphism less ad hoc を読んだ話 - Qiita](http://qiita.com/Biacco/items/083f05d5d1d87730f7db)
 
 ## 代数的な型クラス
 * [tower](https://tonyday567.github.io/tower/index.html)
