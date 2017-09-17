@@ -32,6 +32,8 @@
 * [Announcing Squeal](https://www.morphism.tech/announcing-squeal/)
 * [Debugging Types: A Stream of Thought](http://www.parsonsmatt.org/2017/09/13/debugging_types_a_stream_of_thought.html)
 * [Migrating from RethinkDB to Postgres — An Experience Report](https://medium.com/fuzzy-sharp/migrating-to-postgres-2dc1519a6dc7)
+* [Blog - Introducing Haskey (Summer of Haskell 2017)](https://deliquus.com/posts/2017-08-24-introducing-haskey.html)
+  * [Blog - Haskey: User-defined Schemas, Monad Transformers and Future Work (Summer of Haskell 2017)](https://deliquus.com/posts/2017-09-14-haskey-user-defined-schemas-and-monad-transformers.html)
 
 Simple Clients
 --------------
