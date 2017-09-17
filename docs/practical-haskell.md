@@ -201,6 +201,7 @@
 ## JVM
 * [A new ecosystem for Haskell: the JVM](http://blog.tweag.io/posts/2016-10-17-inline-java.html)
 * [思ったほど怖くない！ Haskell on JVM 超入門](https://www.slideshare.net/y_taka_23/haskell-on-jvm-jjugccc-cccl8)
+* [Tweag I/O - Java from Haskell: a tutorial](http://www.tweag.io/posts/2017-09-15-inline-java-tutorial.html)
 
 ### Eta
 * [Eta](http://eta-lang.org/)
