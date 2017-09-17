@@ -66,27 +66,18 @@
 * [Dependent Type in Haskell: Theory And Practice](https://github.com/goldfirere/thesis/blob/master/built/thesis.pdf)
 * [The meta-theory of dependent type theories - Vladimir Voevodsky - YouTube](https://www.youtube.com/watch?v=e20dCMrAYOM)
 
-## Homotopy Theory
-* Allen Hatcher - [Algebraic Topology](http://www.math.cornell.edu/~hatcher/AT/AT.pdf)
-* [Homotopy theory for digraphs](https://www.math.uni-bielefeld.de/~grigor/hom.pdf)
-* [π-Base](http://topology.jdabbs.com/)
-* [A Course in Simple-Homotopy Theory](http://link.springer.com/book/10.1007/978-1-4684-9372-6)
-* [Elements of Homotopy Theory](http://link.springer.com/book/10.1007/978-1-4612-6318-0)
-* [Čech and Steenrod Homotopy Theories with Applications to Geometric Topology](http://link.springer.com/book/10.1007/BFb0081083)
-* [Theory of Topological Structures](http://link.springer.com/book/10.1007/978-94-009-2859-6)
-* [Homotopy before type theory](https://theorylunch.wordpress.com/2013/10/21/homotopy-before-type-theory/)
-
-## HoTT
+## Homotopy Type Theory
 * [ホモトピー変形と自然変換](http://d.hatena.ne.jp/m-hiyama/comment?date=20111208&section=1323315799#c)
 
 > ここ数年における新しい理論「ホモトピー型理論(HoTT)」は, 計算機科学の型理論における「＝」を, 位相幾何学のホモトピー同値「連続変形がある」の性質で解釈しようとする試みである。
 
 出典: <http://phsc.jp/dat/rsm/2013_a3-1.pdf>
 
+* [Introduction to Homotopy Type Theory](http://www.cs.nott.ac.uk/~psztxa/ewscs-17/notes.pdf)
 * [TYPE THEORY AND HOMOTOPY](http://www.mathematik.uni-muenchen.de/~cm2010/awodey.pdf)
 * [The HoTT Book](http://homotopytypetheory.org/book/)
 * [Lambda Jam 2014 - Gershom Bazerman - Homotopy Type Theory: What's the Big Idea](https://www.youtube.com/watch?v=OupcXmLER7I)
-* [Algebraic Topology](http://www.math.cornell.edu/~hatcher/AT/ATpage.html)
+* [Homotopy before type theory](https://theorylunch.wordpress.com/2013/10/21/homotopy-before-type-theory/)
 
 > HoTT is a constructive, proof-relevant theory of equality inside dependent type theory
 
