@@ -60,6 +60,7 @@
 * [linear](http://hackage.haskell.org/package/linear)
 * [hmatrix](https://hackage.haskell.org/package/hmatrix)
   * [introduction to hmatrix](http://dis.um.es/~alberto/material/hmatrix.pdf)
+* [static-tensor: Tensors of statically known size](https://hackage.haskell.org/package/static-tensor)
 * [Efficient Linear Algebra with Plover](http://begriffs.com/posts/2016-01-03-plover-linear-algebra.html)
 * [ocramz/sparse-linear-algebra](https://github.com/ocramz/sparse-linear-algebra)
 * [laughedelic/sparse-lin-alg](https://github.com/laughedelic/sparse-lin-alg)
