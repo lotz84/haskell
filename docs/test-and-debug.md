@@ -50,6 +50,7 @@
 * [Invert Your Mocks!](http://www.parsonsmatt.org/2017/07/27/inverted_mocking.html)
 * [Reddit - Signature Inference for Functional Property Discovery: Thesis document](https://www.reddit.com/r/haskell/comments/6yy9fn/signature_inference_for_functional_property/)
 * [OverloadedStringsとANNプラグマが干渉する場合の回避方法 - Qiita](http://qiita.com/VoQn/items/fe7953aec010d8f68a59)
+* [Stackで単体テストを書いて実行する - Haskell入門より - Qiita](http://qiita.com/hiratara/items/378e14b5d200fb8838fd)
 
 ### QuickCheck
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
