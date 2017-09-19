@@ -411,6 +411,7 @@ Line 6:
 
 ### thank-you-stars
 * [y-taka-23/thank-you-stars](https://github.com/y-taka-23/thank-you-stars) - Give your dependencies stars on GitHub!
+* [Haskell ライブラリにスターを送るツール thank-you-stars を作ってみました](http://ccvanishing.hateblo.jp/entry/2017/09/14/150435)
 
 ### typebot
 * 関数の型を答えてくれるSlack bot
