@@ -322,6 +322,7 @@ Reader + Writer + State
 
 #### MonadIO
 * [Control.Monad.IO.Class](https://hackage.haskell.org/package/transformers/docs/Control-Monad-IO-Class.html)
+* [MonadIO Considered Harmful](http://chrispenner.ca/posts/monadio-considered-harmful)
 
 #### MonadThrow
 #### MonadCatch
