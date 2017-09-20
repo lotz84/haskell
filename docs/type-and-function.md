@@ -65,6 +65,10 @@ type a * b = (a, b)
 * [syz](https://hackage.haskell.org/package/syz)
 * [Zipper関連のパッケージ](http://d.hatena.ne.jp/debug-ito/20161016/1476587232)
 
+### カインド
+* [About kind system of Haskell (Part 1)](https://haskell.jp/blog/posts/2017/10-about-kind-system-part1.html)
+* [Haskellの種(kind)について (Part 2)](https://haskell.jp/blog/posts/2017/13-about-kind-system-part2.html)
+
 ## 関数
 * [A simple Haskell function](http://neilmitchell.blogspot.jp/2016/01/a-simple-haskell-function.html)
 * [Composing bijections, surjections, and injections](https://gist.github.com/rampion/f20ffd6386269e6f7e41fae15d208e12)
