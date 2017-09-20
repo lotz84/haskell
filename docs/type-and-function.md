@@ -116,6 +116,7 @@ uncurry :: (a -> b -> c) -> (a, b) -> c
 * [なぜHaskellでタライ回しが速いのか、あるいは遅延評価とSTG](http://qiita.com/ruicc/items/b8b3c61a12baa1af3c69)
 * [An example of using laziness](http://noughtmare.gitlab.io/posts/2017-08-30-an-example-of-using-laziness.html)
 * [All About Strictness](https://www.fpcomplete.com/blog/2017/09/all-about-strictness)
+* [Visualizing lazy evaluation](http://www.well-typed.com/blog/2017/09/visualize-cbn/)
 
 > One very interesting comparison is that lazy evaluation is to the CPU what garbage collection is to memory.
 
