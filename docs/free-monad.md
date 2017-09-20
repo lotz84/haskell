@@ -47,6 +47,7 @@ instance Functor f => Monad (Free f) where
 * [FreerモナドとCoyonedaについて](http://qiita.com/masaki_mori/items/afb9696cac2476f0981c)
 * [[Haskell-cafe] A proof that the list monad is not a free monad](https://mail.haskell.org/pipermail/haskell-cafe/2017-January/126026.html)
 * [Jeremy Mikkola - Cheatsheet: Free Monad](http://jeremymikkola.com/posts/2017_07_11_free_monad_cheatsheet.html)
+* [Free Me — Exploring the Free Data Type](https://medium.com/@fintan.halpenny/free-me-exploring-the-free-data-type-c863499a82f8)
 
 ### Coyoneda
 * [Loop School - Coyoneda](http://school.looprecur.com/?video=122708005)
