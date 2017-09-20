@@ -13,3 +13,4 @@
 * [Piyush P Kurur|Adventures in optimising ChaCha20 for Raaz.](http://cse.iitk.ac.in/users/ppk/posts/2017-02-06-Adventures-in-optimising-chacha20.html)
 * [Episode 11 - Austin Seipp on Security - The Haskell Cast](http://www.haskellcast.com/episode/011-austin-seipp-on-security)
 * [centromere/cacophony: A Haskell library implementing the Noise protocol.](https://github.com/centromere/cacophony)
+* [Cryptographic Hashing in Haskell](https://www.fpcomplete.com/blog/2017/09/cryptographic-hashing-haskell)
