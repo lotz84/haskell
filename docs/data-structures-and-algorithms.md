@@ -91,6 +91,7 @@
 * [Less parentheses](http://www.joachim-breitner.de/blog/730-Less_parentheses)
 * [Haskell で Simpath を実装してみる - Qiita](http://qiita.com/yasuabe1362/items/f23b1d644d8aede87d97)
 * [フリーランスプログラマのための複式簿記プログラミング - Qiita](http://qiita.com/arowM/items/69c0305a7ae5b953f21d)
+* [Mixing Supercompilers and Recursion Using Elgot Algebras](http://blog.vmchale.com/article/elgot)
 
 ### ソート
 * [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
