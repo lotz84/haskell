@@ -220,6 +220,7 @@ circum (Circle _ _ r) = …
 * [The Influence of Dependent Types -- Stephanie Weirich - YouTube](https://www.youtube.com/watch?v=GgD0KUxMaQs)
 * [Dependent Types in Haskell: Theory and Practice](https://arxiv.org/abs/1610.07978)
 * [A specification for dependent types in Haskell](http://dl.acm.org/citation.cfm?id=3110275)
+* [Transforming data structures into types: an introduction to dependent typing and its benefits](https://deque.blog/2017/09/20/data-structure-into-types/)
 
 ```haskell
 {-# LANGUAGE GADTs, DataKinds, KindSignatures, TypeFamilies #-}
