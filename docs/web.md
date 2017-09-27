@@ -169,6 +169,7 @@ HTML Template
 * [heterocephalus - Haskellとフロントエンドが仲良くできるテンプレートエンジン](http://qiita.com/arowM/items/b0259f1ca43ef3192d31)
 * [HaskellにおけるHTMLのテンプレートエンジンを調査する](http://sharply.hatenablog.com/entry/2016/11/09/224324)
 * [Haskell Formlets: Composable web form construction and validation](http://chrisdone.com/posts/haskell-formlets)
+* [Formlets are biapplicative](https://pepeiborra.wordpress.com/2017/09/21/formlets-are-biapplicative/)
 * [type-of-html: High performance type driven html generation.](https://hackage.haskell.org/package/type-of-html)
 
 ### Lucid
