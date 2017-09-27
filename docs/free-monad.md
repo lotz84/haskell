@@ -49,6 +49,7 @@ instance Functor f => Monad (Free f) where
 * [Jeremy Mikkola - Cheatsheet: Free Monad](http://jeremymikkola.com/posts/2017_07_11_free_monad_cheatsheet.html)
 * [Free Me — Exploring the Free Data Type](https://medium.com/@fintan.halpenny/free-me-exploring-the-free-data-type-c863499a82f8)
 * [Free Monadic Parser](http://myuon-myon.hatenablog.com/entry/2017/06/26/174730)
+* [What does Free buy us?](http://www.parsonsmatt.org/2017/09/22/what_does_free_buy_us.html)
 
 ### Coyoneda
 * [Loop School - Coyoneda](http://school.looprecur.com/?video=122708005)
