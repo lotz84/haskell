@@ -313,6 +313,9 @@ Line 6:
                ^-- SC2016: Expressions don't expand in single quotes, use double quotes for that.
 ```
 
+### Simula
+* [SimulaVR/Simula](https://github.com/SimulaVR/Simula) - 3D Window Manager for Linux
+
 ### slacky
 * <https://github.com/mitchellwrosen/slacky/wiki>
 
