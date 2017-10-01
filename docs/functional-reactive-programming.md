@@ -66,6 +66,8 @@
 * [Events](https://blog.qfpl.io/posts/reflex/basics/events/)
 * [Behaviors](https://blog.qfpl.io/posts/reflex/basics/behaviors/)
 * [Dynamics](https://blog.qfpl.io/posts/reflex/basics/dynamics/)
+* [Queensland FP Lab - Switching](https://blog.qfpl.io/posts/reflex/basics/switching/)
+* [Queensland FP Lab - Working with the DOM](https://blog.qfpl.io/posts/reflex/basics/dom/)
 
 ### Netwire
 * [Today in Code — Almost a Netwire 5 Tutorial](http://todayincode.tumblr.com/post/96914679355/almost-a-netwire-5-tutorial)
