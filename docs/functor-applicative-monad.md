@@ -22,6 +22,7 @@ class Functor f where
 * [なぜ初心者にHaskellのファンクターは怖いと言われるのか(翻訳)](http://techno-tanoc.hatenablog.com/entry/2016/03/17/212032)
 * [A functor is not a box](http://cs-syd.eu/posts/2016-04-30-a-functor-is-not-a-box.html)
 * [George Wilson - The Extended Functor Family - YouTube](https://www.youtube.com/watch?v=JZPXzJ5tp9w)
+* [Making your brain tingle: Functions as functors · Waste of Time](http://blogs.intevation.de/wilde/haskell/functions-as-functors/)
 
 ### Bifunctor
 * [bifunctor](https://hackage.haskell.org/package/bifunctors)
@@ -32,6 +33,7 @@ class Functor f where
 * [Profunctor Polymorphism](https://bartoszmilewski.com/2016/08/16/profunctor-polymorphism/)
 * [Addressing Pieces of State with Profunctors](http://blog.sigfpe.com/2017/01/addressing-pieces-of-state-with.html)
 * [Profunctors, Arrows, & Static Analysis](http://elvishjerricco.github.io/2017/03/10/profunctors-arrows-and-static-analysis.html)
+* [Profunctors for encoding and decoding | Avoltus](https://www.avoltus.com/fi/blog/2017-9-29-profunctors-encoding-and-decoding)
 
 ### Contravariant
 * [contravariant](https://hackage.haskell.org/package/contravariant)
@@ -183,6 +185,7 @@ class Monad m where
 * [[Haskell]結局、モナド則は何を要求しているのか - Qiita](https://qiita.com/tezca686/items/78d099987894ac7bec48)
 * [モナドを使ったモノイドのインスタンス - Qiita](https://qiita.com/hiratara/items/9a78540698943009ebc7)
 * [作って理解する Haskell の Monad - Qiita](https://qiita.com/satosystems/items/e8788f05924cef226493)
+* [Monads for Go Programmers](https://awalterschulze.github.io/blog/post/monads-for-goprogrammers/)
 
 ```haskell
 do x <- mx
