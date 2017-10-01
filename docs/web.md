@@ -102,6 +102,7 @@ Scraping
 * [egonSchiele/HandsomeSoup](https://github.com/egonSchiele/HandsomeSoup)
 * [Nishant9/hScraper](https://github.com/Nishant9/hScraper)
 * [A Modest Scraping Proposal](http://www.shimweasel.com/2017/07/13/a-modest-scraping-proposal)
+* [Copping Supreme with Haskell](http://rickyhan.com/jekyll/update/2017/09/27/copping-supreme-with-haskell.html)
 
 Email
 -----
