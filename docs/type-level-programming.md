@@ -308,6 +308,7 @@ p_ :: Term arg result => arg -> result
 * [Kwang's Haskell Blog - Type-level functions using closed type families](https://kseo.github.io/posts/2017-01-16-type-level-functions-using-closed-type-families.html)
 * [HaskellのType Families](http://cdepillabout.github.io/haskell-type-families-presentation/index-ja.html#/)
 * [mazzo.li – blag – Configurable data types](https://mazzo.li/posts/customizable-data-types.html)
+* [タプルで作ったリストの要素を型で取り出す - 閉じた型シノニム族の使用例 - Qiita](https://qiita.com/YoshikuniJujo/items/33ce63d115378da66417)
 
 ```haskell
 -- https://www.youtube.com/watch?v=snOBI8PcbMQ
