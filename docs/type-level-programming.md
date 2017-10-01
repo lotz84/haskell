@@ -85,6 +85,7 @@
 * [Type Level Merge Sort (Haskell)](https://www.athiemann.net/2017/08/31/mergesort.html)
 * [Type Tac Toe: Advanced Type Safety](http://chrispenner.ca/posts/type-tac-toe)
 * [Existential Quantification Patterns and Antipatterns](https://medium.com/@jonathangfischoff/existential-quantification-patterns-and-antipatterns-3b7b683b7d71)
+* [GHCのforallと多相性への対処 - Qiita](https://qiita.com/ruicc/items/0818dd093349b0b0a838)
 
 ```haskell
 data Bottom
