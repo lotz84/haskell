@@ -240,6 +240,7 @@ $ stack exec -- <your program> +RTS <profiling options>
 ### Pattern Synonyms
 * [Pattern Synonyms](https://ghc.haskell.org/trac/ghc/wiki/PatternSynonyms)
 * [Pattern synonymsの使い道](http://maoe.hatenadiary.jp/entry/2014/03/30/004049)
+* [Pattern Synonymsで遊ぶ - Qiita](https://qiita.com/as_capabl/items/d2eb781478e26411a44c)
 
 ### Backpack
 * [Backpack and separate compilation](http://blog.ezyang.com/2016/09/backpack-and-separate-compilation/)
