@@ -179,6 +179,7 @@ class Monad m where
 * [Obey the (Type) Laws!](https://hackernoon.com/obey-the-type-laws-ffb2fa4e5fe2#.x2lshvr9k)
 * [A Logical Relation for Monadic Encapsulation of State Proving contextual equivalences in the presence of runST](http://iris-project.org/pdfs/runST.pdf)
 * [Badness 10.0000 | Escaping Hell with Monads](https://philipnilsson.github.io/Badness10k/posts/2017-05-07-escaping-hell-with-monads.html)
+* [[Haskell]結局、モナド則は何を要求しているのか - Qiita](https://qiita.com/tezca686/items/78d099987894ac7bec48)
 
 ```haskell
 do x <- mx
