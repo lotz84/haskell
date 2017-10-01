@@ -6,6 +6,7 @@
 * [An Intuition on Context II](http://www.parsonsmatt.org/programming/2015/11/29/an_intuition_on_context_ii.html)
 * [HaskellのFunctorとApplicativeFunctorとMonad](http://qiita.com/suzuki-hoge/items/36b74d6daed9cd837bb3)
 * [Functors, Applicatives, and Monads](http://www.snoyman.com/blog/2017/01/functors-applicatives-and-monads)
+* [HaskellのFunctor, Applicative, MonadについてH本の内容をまとめてみた。 - Qiita](https://qiita.com/derbuihan/items/c4c856076b3d368f422d)
 
 ## 関手 - Functor
 
@@ -180,6 +181,7 @@ class Monad m where
 * [A Logical Relation for Monadic Encapsulation of State Proving contextual equivalences in the presence of runST](http://iris-project.org/pdfs/runST.pdf)
 * [Badness 10.0000 | Escaping Hell with Monads](https://philipnilsson.github.io/Badness10k/posts/2017-05-07-escaping-hell-with-monads.html)
 * [[Haskell]結局、モナド則は何を要求しているのか - Qiita](https://qiita.com/tezca686/items/78d099987894ac7bec48)
+* [モナドを使ったモノイドのインスタンス - Qiita](https://qiita.com/hiratara/items/9a78540698943009ebc7)
 
 ```haskell
 do x <- mx
