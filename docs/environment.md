@@ -83,6 +83,7 @@ $ alias ghci='stack ghci --'
 * [Haskero - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Vans.haskero)
 * [Introducing Haskelly – Haskell extension for Visual Studio Code – Microsoft Faculty Connection](https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/02/13/introducing-haskelly-extension-for-visual-studio-code/)
 * [[Visual Studio Code][Haskell] VSCodeでHaskellの開発環境を整える - Qiita](http://qiita.com/koara-local/items/06d57fd7fe4adc72f2b6)
+* [VS Code と haskell-ide-engine で Haskell 開発環境を構築する - Qiita](https://qiita.com/waddlaw/items/b83cd10311200095fe87)
 
 ### Yi
 * [YiエディタでVimスタイルをベースに拡張設定する(1)](http://qiita.com/aiya000/items/376a2bed4ddd12433b31)
