@@ -30,6 +30,7 @@
 * [These, Align, and Crosswalk](http://teh.id.au/posts/2017/03/29/these-align-crosswalk/index.html)
 * [Maybe? Use a type parameter!](http://www.parsonsmatt.org/2017/04/08/maybe_use_a_type_parameter.html)
 * [Generalizing Type Signatures - Michael Snoyman's blog](http://www.snoyman.com/blog/2017/04/generalizing-type-signatures)
+* [Well-typed printfs cannot go wrong – ( )](http://kcsongor.github.io/purescript-safe-printf/)
 
 ### 代数的データ型
 代数的データ型とは"足し算"と"掛け算"が出来るような型のこと。"足し算"と"掛け算"はそれぞれ**直和**, **直積** と呼ばれる。
