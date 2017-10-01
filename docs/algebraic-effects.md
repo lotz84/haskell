@@ -31,3 +31,6 @@
 * [Freer Effectsが、だいたいわかった: 0. 導入](http://qiita.com/YoshikuniJujo/items/c71644b5af1f5195cbf3)
 * [Freer Effectsが、だいたいわかった: 1. Freeモナドの概要](http://qiita.com/YoshikuniJujo/items/988ac4b69a27974154fd)
 * [Freer Effectsが、だいたいわかった: 2. 存在型(ExistentialQuantification拡張)の解説 - Qiita](http://qiita.com/YoshikuniJujo/items/e95e4d396f825487ec4b)
+* [Freer Effectsが、だいたいわかった: 3. 型シノニム族(TypeFamilies拡張)の解説 - Qiita](https://qiita.com/YoshikuniJujo/items/17853e423c39409d8dfe)
+* [Freer Effectsが、だいたいわかった: 4. データ族(TypeFamilies拡張)の解説 - Qiita](https://qiita.com/YoshikuniJujo/items/b3c442d0387a35bfe860)
+* [Freer Effectsが、だいたいわかった: 5. 一般化代数データ型(GADTs拡張)の解説 - Qiita](https://qiita.com/YoshikuniJujo/items/739a1e3abed8c602dba7)
