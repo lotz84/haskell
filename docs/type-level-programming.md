@@ -309,6 +309,7 @@ p_ :: Term arg result => arg -> result
 * [HaskellのType Families](http://cdepillabout.github.io/haskell-type-families-presentation/index-ja.html#/)
 * [mazzo.li – blag – Configurable data types](https://mazzo.li/posts/customizable-data-types.html)
 * [タプルで作ったリストの要素を型で取り出す - 閉じた型シノニム族の使用例 - Qiita](https://qiita.com/YoshikuniJujo/items/33ce63d115378da66417)
+* [決定性有限オートマトンを実装する - データ族の使用例 - Qiita](https://qiita.com/YoshikuniJujo/items/6e8155bd3a52290e6a5b)
 
 ```haskell
 -- https://www.youtube.com/watch?v=snOBI8PcbMQ
