@@ -9,7 +9,7 @@
 1. **Haskell: 純粋関数型プログラミング言語**
     1.  [環境構築](docs/environment.md)
     2.  [入門／チュートリアル](docs/tutorial.md)
-    3.  [型と関数](docs/type-and-function.md)
+    3.  [基本文法](docs/basic.md)
     4.  [再帰](docs/recursion.md)
     5.  [データ構造とアルゴリズム](docs/data-structures-and-algorithms.md)
     6.  [拡張可能レコード](docs/extensible-record.md)
