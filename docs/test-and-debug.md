@@ -111,6 +111,7 @@ Passed:
 * [The Haskell Tracer Hat](http://projects.haskell.org/hat/)
 * [Haskell Object Observation Debugger](http://ku-fpg.github.io/software/hood/)
 * [多相関数のprintfデバッグをGHCiで - www.kotha.netの裏](http://d.hatena.ne.jp/mkotha/20120825/1345913208)
+* [Debugging C with Haskell's Divisible](http://www.michaelburge.us/2017/09/27/delta-debugging-in-haskell.html)
 
 ## 例外処理
 * [エラー処理を書いてはいけない](http://tanakh.jp/pub/pfi-seminar-2011-12-08.html)
