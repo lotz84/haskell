@@ -457,6 +457,7 @@ Line 6:
 * [Introduction to Brick](https://samtay.github.io/articles/brick.html)
 * [Faster command line tools with Haskell](https://codygman.github.io/posts/2017-07-30-faster-command-line-tools-with-haskell.html)
 * [Project: Making Google Tasks Better](https://haskell.fun/2017/09/14/project-making-google-tasks-better/)
+* [Compose :: Melbourne 2017 - Andrew McCluskey - Your first Haskell app - YouTube](https://www.youtube.com/watch?v=lUibiSzIgG4&feature=youtu.be)
 
 ### オプションパーサー
 * [HaskellのSystem.Console.ParseArgs](http://yu-i9.hatenablog.com/entry/2014/08/29/135253)
