@@ -186,6 +186,7 @@ class Monad m where
 * [モナドを使ったモノイドのインスタンス - Qiita](https://qiita.com/hiratara/items/9a78540698943009ebc7)
 * [作って理解する Haskell の Monad - Qiita](https://qiita.com/satosystems/items/e8788f05924cef226493)
 * [Monads for Go Programmers](https://awalterschulze.github.io/blog/post/monads-for-goprogrammers/)
+* [Making your brain tingle: Explaining Monads · Waste of Time](http://blogs.intevation.de/wilde/haskell/monads/)
 
 ```haskell
 do x <- mx
