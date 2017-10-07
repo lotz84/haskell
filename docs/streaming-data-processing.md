@@ -35,12 +35,12 @@ main = do
     * [iterIO](https://hackage.haskell.org/package/iterIO)
 * [ストリーム処理ライブラリはなぜ必要なのか](https://docs.google.com/document/d/17CDvq00OgRjvSgRnQz3pLEYPF4246LtIBbx6-7w9fmo)
 
-###io-streams
+### io-streams
 * [io-streams](http://hackage.haskell.org/package/io-streams)
 * [io-streams - yunomuのブログ](http://yunomu.hatenablog.jp/entry/2013/09/22/160859)
 * [Stackでhttp-streamsのインストールに失敗したときの回避方法](http://qiita.com/kuy/items/f106c75a246a62503572)
 
-###Pipes
+### Pipes
 * [Pipes.Tutorial](https://hackage.haskell.org/package/pipes/docs/Pipes-Tutorial.html)
 * [Pipes](http://www.scs.stanford.edu/14sp-cs240h/slides/pipes-slides.html)
 * [Pipes - London Haskell](https://www.youtube.com/watch?v=2jdJGdA7AYs)
@@ -51,7 +51,7 @@ main = do
 * [The pipes-concurrency package](https://hackage.haskell.org/package/pipes-concurrency)
 * [Shortcut fusion for pipes](http://www.haskellforall.com/2014/01/stream-fusion-for-pipes.html)
 
-###Conduit
+### Conduit
 * [conduit library](https://haskell-lang.org/library/conduit)
 * <https://hackage.haskell.org/package/conduit>
 * [Conduit Overview](https://www.fpcomplete.com/user/snoyberg/library-documentation/conduit-overview)
@@ -79,21 +79,22 @@ main = do
 
 出典: <http://stackoverflow.com/questions/9983840/what-are-the-pros-and-cons-of-enumerators-vs-conduits-vs-pipes>
 
-###Machines
+### Machines
 * [machines](http://hackage.haskell.org/package/machines)
 * [Welcome to the Machines by Aloïs Cochard](https://www.youtube.com/watch?v=sEfn_x245mE&index=7&list=PL9Z-JgiTsOYTdi91N_DlcpWqkCYvMrhA4)
 
-###Arrow based
+### Arrow based
 * [Programming with Arrows](http://www.cse.chalmers.se/~rjmh/afp-arrows.pdf)
 * [The auto package](http://hackage.haskell.org/package/auto)
 * [machinecell](http://hackage.haskell.org/package/machinecell)
 * [Arrow化pipeはFRPの夢を見るか？](http://qiita.com/as_capabl/items/cefef00635031a540dd3)
 * [Arrow化pipeはFRPの夢を見るか？(GUI編)](http://qiita.com/as_capabl/items/11751da09f9257864692)
 
-###Others
+### Others
 * [quiver](http://hackage.haskell.org/package/quiver)
   * [quiver-http](https://hackage.haskell.org/package/quiver-http)
 * [fumieval/boombox](https://github.com/fumieval/boombox)
 * [bch29/streaming-png](https://github.com/bch29/streaming-png)
 * [First class stream fusion](http://www.yesodweb.com/blog/2016/02/first-class-stream-fusion)
 * [Stream fusion for streaming, without writing any code](http://twanvl.nl/blog/haskell/streaming-vector)
+* [Tweag I/O - How to compose streaming programs](http://www.tweag.io/posts/2017-10-05-streaming2.html)
