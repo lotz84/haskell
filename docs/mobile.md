@@ -33,6 +33,7 @@
 * [Isomorphism of digital circuits](https://rahne.si/programming/clash/fpga/2016/12/23/iso-circuits.html)
 * [A Haskell Cross Compiler for Raspberry Pi – zw3rk – Medium](https://medium.com/@zw3rk/a-haskell-cross-compiler-for-raspberry-pi-ddd9d41ced94)
 * [Cross Compiling Yesod to Raspberry Pi – zw3rk – Medium](https://medium.com/@zw3rk/cross-compiling-yesod-to-raspberry-pi-f14de6fdbf06)
+* [Building a CPU with Haskell - Part 1 :: Will Yager](http://yager.io/CPU/CPU1.html)
 
 ## 高位合成
 * [Domain-specific Languages and Code Synthesis Using Haskell](http://queue.acm.org/detail.cfm?id=2617811)
