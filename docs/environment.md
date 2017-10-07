@@ -65,6 +65,7 @@ $ alias ghci='stack ghci --'
 * [Atom EditorでHaskell](http://qiita.com/eielh/items/b2e85f8ea4c6cdb8012d)
 * [Windows上のAtomで Haskell開発環境を整える。](http://qiita.com/new_spaghet/items/10e387161298a276d9d7)
 * [ATOMのide-haskell導入手順（MacOS X）](http://qiita.com/nakamurau1@github/items/7feaeb643cb48842b613)
+* [haskell-scry](https://atom.io/packages/haskell-scry)
 
 ### Sublime Text
 * [SublimeText3 で Haskell (Stack) を書くための環境構築 (Mac OS X)](http://qiita.com/algas/items/77c7f6455f8106c1a9e8)
