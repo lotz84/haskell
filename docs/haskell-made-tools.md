@@ -392,6 +392,9 @@ Line 6:
 * Persistent GHC-powered background server for FAST haskell development tools
 * <https://github.com/hdevtools/hdevtools>
 
+### hgrep
+* [Announcing hgrep](http://teh.id.au/posts/2017/10/03/announcing-hgrep/index.html)
+
 ### hpack
 * hpack: An alternative format for Haskell packages
 * <https://github.com/sol/hpack>
