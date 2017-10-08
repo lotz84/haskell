@@ -238,6 +238,7 @@
 * [mrkkrp/flac](https://github.com/mrkkrp/flac) - Complete high-level Haskell binding to libFLAC
 * [Haskellでの 音楽表現 - Qiita](http://qiita.com/nobkz/items/ca095ea3ae9e2be9f8ce)
 * [Modeling Music](http://reasonablypolymorphic.com/blog/modeling-music)
+* [Functional Works - Music, Haskell... and Westeros](https://functional.works-hub.com/blog/Music-Haskell...-and-Westeros)
 
 ## アプリケーション・アーキテクチャ
 * [DDDをHaskellで考える 業務ロジックとシステムロジック](http://qiita.com/suzuki-hoge/items/82229b903655ca4b5c9b)
