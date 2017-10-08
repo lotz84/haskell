@@ -34,3 +34,6 @@
 * [Freer Effectsが、だいたいわかった: 3. 型シノニム族(TypeFamilies拡張)の解説 - Qiita](https://qiita.com/YoshikuniJujo/items/17853e423c39409d8dfe)
 * [Freer Effectsが、だいたいわかった: 4. データ族(TypeFamilies拡張)の解説 - Qiita](https://qiita.com/YoshikuniJujo/items/b3c442d0387a35bfe860)
 * [Freer Effectsが、だいたいわかった: 5. 一般化代数データ型(GADTs拡張)の解説 - Qiita](https://qiita.com/YoshikuniJujo/items/739a1e3abed8c602dba7)
+* [Freer Effectsが、だいたいわかった: 6. ランクN多相(RankNTypes拡張)の解説 - Qiita](https://qiita.com/YoshikuniJujo/items/4094b5fe5a7a33f3d1e6)
+* [Freer Effectsが、だいたいわかった: 7. FreeモナドとCoyoneda - Qiita](https://qiita.com/YoshikuniJujo/items/729ad9830833eacb9d75)
+* [Freer Effectsが、だいたいわかった: 8. Freerモナド(Operationalモナド)で、いろいろなモナドを構成する - Qiita](https://qiita.com/YoshikuniJujo/items/686fedc92fd20ff70ab8)
