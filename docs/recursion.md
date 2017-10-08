@@ -150,3 +150,4 @@ class Functor g => Distributive g where
 * [What's in a Fold: The Basic Catamorphism in recursion-schemes - The Life Monadic](http://duplode.github.io/posts/whats-in-a-fold.html)
 * [Detecting Recursion Schemes in Haskell Functions (...) - Adam D. Barwell (Lambda Days 2017) - YouTube](https://www.youtube.com/watch?v=StVSC7ZSNIk)
 * [The Monad Cat - Programming with bananas and barbed wire. Part 1](https://monad.cat/posts/2016-05-10-barbed-wire.html)
+* [Review: Bananas, Lenses, Envelopes and Barbed Wire :: Reasonably Polymorphic](http://reasonablypolymorphic.com/blog/recursion-schemes)
