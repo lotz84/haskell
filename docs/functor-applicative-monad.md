@@ -188,6 +188,7 @@ class Monad m where
 * [Monads for Go Programmers](https://awalterschulze.github.io/blog/post/monads-for-goprogrammers/)
 * [Making your brain tingle: Explaining Monads · Waste of Time](http://blogs.intevation.de/wilde/haskell/monads/)
 * [作って理解する Haskell の Monad - Qiita](https://qiita.com/satosystems/items/e8788f05924cef226493)
+* [Monads in Minutes](http://ebencowley.com/resources/docs/articles/monadsInMinutes.html)
 
 ```haskell
 do x <- mx
