@@ -84,6 +84,7 @@ parse = evalStateT
 * [Left-recursive parsing of Haskell imports and declarations](http://blog.ezyang.com/2016/12/left-recursive-parsing-of-haskell-imports-and-declarations/)
 * [Package takeover: indents](https://jaspervdj.be/posts/2016-12-22-indents.html)
 * [Modular parser combinators - Coq en Stock](https://ptival.github.io/2017/02/25/modular-parser-combinators/)
+* [Monoidal Parsing—Edward Kmett](https://www.youtube.com/watch?v=Txf7swrcLYs)
 
 ### Language
 * [Hackage Search: language](https://hackage.haskell.org/packages/search?terms=language)
