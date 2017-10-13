@@ -37,3 +37,4 @@
 * [Freer Effectsが、だいたいわかった: 6. ランクN多相(RankNTypes拡張)の解説 - Qiita](https://qiita.com/YoshikuniJujo/items/4094b5fe5a7a33f3d1e6)
 * [Freer Effectsが、だいたいわかった: 7. FreeモナドとCoyoneda - Qiita](https://qiita.com/YoshikuniJujo/items/729ad9830833eacb9d75)
 * [Freer Effectsが、だいたいわかった: 8. Freerモナド(Operationalモナド)で、いろいろなモナドを構成する - Qiita](https://qiita.com/YoshikuniJujo/items/686fedc92fd20ff70ab8)
+* [Extensible Effects: understanding them, implementing them, using them. A Tutorial](http://okmij.org/ftp/Haskell/extensible/tutorial.html)
