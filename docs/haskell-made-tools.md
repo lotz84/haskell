@@ -339,6 +339,9 @@ Line 6:
 * A graphical tool for profiling parallel Haskell programs
 * <https://github.com/haskell/ThreadScope>
 
+### tomlcheck
+* [vmchale/tomlcheck](https://github.com/vmchale/tomlcheck) - A syntax checker for TOML files
+
 ### ttask
 * スクラムに則ったCLIのタスク管理ツール
 * <https://github.com/tokiwoousaka/ttask>
