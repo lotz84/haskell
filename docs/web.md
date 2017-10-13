@@ -449,6 +449,7 @@ Web Application Framework
 * [Yahoo! JapanのOpenID Connectをyesodで試す - Qiita](http://qiita.com/YoshikuniJujo/items/eef917c00db5156aaa83)
 * [Yesod で現在のページがトップページかどうか判定する方法 - Qiita](http://qiita.com/waddlaw/items/ef46dec0b568a57fbde5)
 * [Hamlet で生成される HTML を minify する方法 - Qiita](http://qiita.com/waddlaw/items/7cffe2816d9ba7c0c434)
+* [reneklacan/yesod-heroku-example](https://github.com/reneklacan/yesod-heroku-example) - Minimal example of a pipeline for deploying Yesod app to Heroku through CircleCI.
 
 Protocol
 --------
