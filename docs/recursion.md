@@ -119,7 +119,7 @@ class Functor g => Distributive g where
 
 * [Data.Distributive](https://hackage.haskell.org/package/distributive/docs/Data-Distributive.html)
 
-## Catamorphism, Anamorphism
+## Recursion Schemes
 * [Catamorphisms in 15 Minutes!](http://chrislambda.github.io/blog/2014/01/30/catamorphisms-in-15-minutes/)
 * [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire](http://eprints.eemcs.utwente.nl/7281/01/db-utwente-40501F46.pdf)
 * [再帰のパターン](http://maoe.hatenadiary.jp/entry/20090820/1250782646)
@@ -151,3 +151,4 @@ class Functor g => Distributive g where
 * [Detecting Recursion Schemes in Haskell Functions (...) - Adam D. Barwell (Lambda Days 2017) - YouTube](https://www.youtube.com/watch?v=StVSC7ZSNIk)
 * [The Monad Cat - Programming with bananas and barbed wire. Part 1](https://monad.cat/posts/2016-05-10-barbed-wire.html)
 * [Review: Bananas, Lenses, Envelopes and Barbed Wire :: Reasonably Polymorphic](http://reasonablypolymorphic.com/blog/recursion-schemes)
+* [Recursion Schemes, Part IV: Time is of the Essence](http://blog.sumtypeofway.com/recursion-schemes-part-iv-time-is-of-the-essence/)
