@@ -206,6 +206,7 @@
 * [Research Papers of Manuel Chakravarty](http://www.cse.unsw.edu.au/~chak/papers/CMCK17.html)
 * [generateの罠 - モナドとわたしとコモナド](http://fumieval.hatenablog.com/entry/2017/03/11/232319)
 * [Tweag I/O - Immutability and unboxing in array programming](http://www.tweag.io/posts/2017-09-27-array-package.html)
+* [Tweag I/O - Array fusion with vector](http://www.tweag.io/posts/2017-10-12-vector-package.html)
 
 ### 木
 * [Haskell Tutorial: Implementing highly efficient data structures with Monoids and Fingertrees](https://www.codementor.io/haskell/tutorial/monoids-fingertrees-implement-abstract-data)
