@@ -77,6 +77,7 @@
 * [Have Your Cookie and Eat it Too – Josef Svenningsson](https://www.youtube.com/watch?v=5PZh0BcjIbY)
 * [Controlling Fusion In Haskell](https://jyp.github.io/posts/controlled-fusion.html)
 * [GHCで自動的にメモ化される条件 - Qiita](http://qiita.com/ki073/items/0b21786a324fbfb6cc0d)
+* [Replacing GHCi's pretty-printer](http://teh.id.au/posts/2017/02/13/interactive-print/index.html)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
