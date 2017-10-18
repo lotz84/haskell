@@ -30,6 +30,7 @@
 * [prizm: Convert colors to different color spaces, interpolate colors, and transform colors](https://hackage.haskell.org/package/prizm-2.0.1)
 * [ocramz/plot-light: A lightweight plotting library, exporting to SVG](https://github.com/ocramz/plot-light)
 * [Visualizing Graphs in Haskell](http://www.michaelburge.us/2017/09/01/how-to-use-graphviz-in-haskell.html)
+* [Computational Geometry: Set Operations on Polytopes](https://maxow.github.io/posts/computational-geometry-set-operations-on-polytopes.html)
 
 ## 画像処理
 * [friday: A functional image processing library for Haskell.](https://hackage.haskell.org/package/friday)
