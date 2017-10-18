@@ -72,3 +72,4 @@
 * [Gabriel Gonzales: Applied category theory and abstract algebra - λC Winter Retreat 2017 - YouTube](https://www.youtube.com/watch?v=WsA7GtUQeB8)
 * [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 * [A Categorical View of Computational Effects - YouTube](https://www.youtube.com/watch?v=6t6bsWVOIzs)
+* [hmemcpy/milewski-ctfp-pdf: Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source](https://github.com/hmemcpy/milewski-ctfp-pdf)
