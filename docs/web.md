@@ -390,6 +390,7 @@ Web Application Framework
 * [servant-pushbullet-client: Bindings to the Pushbullet API using servant-client](https://hackage.haskell.org/package/servant-pushbullet-client-0.1.0.0)
 * [Haskell Servant OAuth2.0 for GitHub](https://gist.github.com/freckletonj/17eec8959718cb251f29af3645112f4a)
 * [servant-checked-exceptions Haskell package - servant | LibHunt](https://haskell.libhunt.com/project/servant-checked-exceptions)
+* [Moving From Server Side Sessions To Client Side Session Tokens with Servant](https://vadosware.io/post/moving-from-server-side-sessions-to-client-side-session-tokens-with-servant/)
 
 ### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
