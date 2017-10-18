@@ -319,3 +319,4 @@
 * [TerrorJack/nodejs-interop](https://github.com/TerrorJack/nodejs-interop) - Execute Node.js scripts in Haskell.
 * [Using Servant to orchestrate LXD containers](https://deliquus.com/posts/2017-10-02-using-servant-to-orchestrate-lxd-containers.html)
 * [Hotswapping Haskell · Simon Marlow](http://simonmar.github.io/posts/2017-10-17-hotswapping-haskell.html)
+* [Marwes/haskell-compiler: A mostly functional haskell compiler written in rust](https://github.com/Marwes/haskell-compiler)
