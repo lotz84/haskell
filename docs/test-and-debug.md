@@ -53,6 +53,7 @@
 * [Stackで単体テストを書いて実行する - Haskell入門より - Qiita](http://qiita.com/hiratara/items/378e14b5d200fb8838fd)
 * [WAIアプリケーションの単体テスト - Haskell入門より - Qiita](https://qiita.com/hiratara/items/4309484f942043fe4a17)
 * [QuickFuzz Testing for Fun and Profit - YouTube](https://www.youtube.com/watch?v=yVCKp3uSq-Y)
+* [Writing a Concurrency Testing Library (Part 1)](https://www.barrucadu.co.uk/posts/concurrency/2017-10-14-writing-a-concurrency-testing-library-01.html)
 
 ### QuickCheck
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
