@@ -7,6 +7,7 @@
 * [HaskellのFunctorとApplicativeFunctorとMonad](http://qiita.com/suzuki-hoge/items/36b74d6daed9cd837bb3)
 * [Functors, Applicatives, and Monads](http://www.snoyman.com/blog/2017/01/functors-applicatives-and-monads)
 * [HaskellのFunctor, Applicative, MonadについてH本の内容をまとめてみた。 - Qiita](https://qiita.com/derbuihan/items/c4c856076b3d368f422d)
+* [Typoclassopedia: Exercise solutions](https://theread.me/typoclassopedia-exercise-solutions/)
 
 ## 関手 - Functor
 
