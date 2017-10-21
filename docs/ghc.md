@@ -78,6 +78,8 @@
 * [Controlling Fusion In Haskell](https://jyp.github.io/posts/controlled-fusion.html)
 * [GHCで自動的にメモ化される条件 - Qiita](http://qiita.com/ki073/items/0b21786a324fbfb6cc0d)
 * [Replacing GHCi's pretty-printer](http://teh.id.au/posts/2017/02/13/interactive-print/index.html)
+* [What is New in Cross Compiling Haskell – zw3rk – Medium](https://medium.com/@zw3rk/what-is-new-in-cross-compiling-haskell-976cd4752bb9)
+* [GHC Cross Compiler Binary Distributions – zw3rk – Medium](https://medium.com/@zw3rk/ghc-cross-compiler-binary-distributions-490bb2c0c411)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
