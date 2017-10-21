@@ -52,7 +52,6 @@
 * [HASKELL AND DOMAIN DRIVEN DESIGN (DDD)](http://zenhackers.net/blog/?p=106)
 * [Data is Code](http://www.haskellforall.com/2016/04/data-is-code.html)
 * [Rubik's cube combinations](http://kenta.blogspot.jp/2016/04/vcppbmdn-rubiks-cube-combinations.html)
-* [Haskellでいかに多態を表すか](http://fumieval.hatenablog.com/entry/2015/04/06/173848)
 * [On Ad-hoc Datatypes](https://jaspervdj.be/posts/2016-05-11-ad-hoc-datatypes.html)
 * [SamuelSchlesinger/AutomataTheory](https://github.com/SamuelSchlesinger/AutomataTheory/blob/master/turing.hs)
 * [The hetero-dict package](http://hackage.haskell.org/package/hetero-dict)
@@ -92,6 +91,7 @@
 * [Haskell で Simpath を実装してみる - Qiita](http://qiita.com/yasuabe1362/items/f23b1d644d8aede87d97)
 * [フリーランスプログラマのための複式簿記プログラミング - Qiita](http://qiita.com/arowM/items/69c0305a7ae5b953f21d)
 * [Mixing Supercompilers and Recursion Using Elgot Algebras](http://blog.vmchale.com/article/elgot)
+* [Java interfaces map to Haskell records](https://chris-martin.org/2017/interfaces-and-records)
 
 ### ソート
 * [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
@@ -241,6 +241,7 @@
 ## オブジェクト
 * [Encoding Objects - School of Haskell | School of Haskell](https://www.schoolofhaskell.com/user/fumieval/encoding-objects)
 * [Object-Oriented Haskell](https://programming.tobiasdammers.nl/blog/2017-10-17-object-oriented-haskell)
+* [Haskellでいかに多態を表すか](http://fumieval.hatenablog.com/entry/2015/04/06/173848)
 
 ## 動的型付けのエミュレート
 * [Data.Dynamic](https://hackage.haskell.org/package/base/docs/Data-Dynamic.html)
