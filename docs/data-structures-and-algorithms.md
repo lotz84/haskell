@@ -240,6 +240,7 @@
 
 ## オブジェクト
 * [Encoding Objects - School of Haskell | School of Haskell](https://www.schoolofhaskell.com/user/fumieval/encoding-objects)
+* [Object-Oriented Haskell](https://programming.tobiasdammers.nl/blog/2017-10-17-object-oriented-haskell)
 
 ## 動的型付けのエミュレート
 * [Data.Dynamic](https://hackage.haskell.org/package/base/docs/Data-Dynamic.html)
