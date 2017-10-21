@@ -320,3 +320,4 @@
 * [Using Servant to orchestrate LXD containers](https://deliquus.com/posts/2017-10-02-using-servant-to-orchestrate-lxd-containers.html)
 * [Hotswapping Haskell · Simon Marlow](http://simonmar.github.io/posts/2017-10-17-hotswapping-haskell.html)
 * [Marwes/haskell-compiler: A mostly functional haskell compiler written in rust](https://github.com/Marwes/haskell-compiler)
+* [Compose :: Melbourne 2017 - Jurriaan Hage - Domain-Specific Type Error Diagnosis in GHC - YouTube](https://www.youtube.com/watch?v=GbCfmnTmQDc&feature=youtu.be)
