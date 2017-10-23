@@ -391,6 +391,7 @@ Web Application Framework
 * [Haskell Servant OAuth2.0 for GitHub](https://gist.github.com/freckletonj/17eec8959718cb251f29af3645112f4a)
 * [servant-checked-exceptions Haskell package - servant | LibHunt](https://haskell.libhunt.com/project/servant-checked-exceptions)
 * [Moving From Server Side Sessions To Client Side Session Tokens with Servant](https://vadosware.io/post/moving-from-server-side-sessions-to-client-side-session-tokens-with-servant/)
+* [ADDING SQLITE POWERED FTS SEARCH TO A SERVANT POWERED HASKELL APP](https://vadosware.io/post/adding-sqlite-powered-fts-search-to-a-servant-powered-haskell-app/)
 
 ### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
