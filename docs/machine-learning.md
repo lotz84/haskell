@@ -199,13 +199,5 @@ instance Monad Dist where
 * [ニューラルネットワーク、多様体、トポロジー](http://qiita.com/KojiOhki/items/af2241027b00f892d2bd)
 * [Practical Dependent Types in Haskell: Type-Safe Neural Networks (Part 1) · in Code](https://blog.jle.im/entry/practical-dependent-types-in-haskell-1.html)
 * [mstksg/backprop: Heterogeneous, type-safe automatic backpropagation in Haskell](https://github.com/mstksg/backprop)
+* [Compose :: Melbourne 2017 - Huw Campbell - Grenade - Dependently Typed Neural Networks in Haskell](https://www.youtube.com/watch?v=sPjA6lS0GlQ&feature=youtu.be)
 
-## クラウド
-* [Google Cloud Platform - CLOUD MACHINE LEARNING サービス](https://cloud.google.com/products/machine-learning/)
-* [Microsoft Azure - Machine Learning](https://azure.microsoft.com/ja-jp/services/machine-learning/)
-* [Amazon Machine Learning](https://www.sakura.ad.jp/koukaryoku/)
-* [さくらの高火力](https://www.sakura.ad.jp/koukaryoku/)
-
-----
-
-* [レコメンドアルゴリズム(BPR)の導出から実装まで](http://tech.vasily.jp/entry/2016/07/01/134825)
