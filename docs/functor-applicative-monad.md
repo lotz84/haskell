@@ -24,6 +24,7 @@ class Functor f where
 * [A functor is not a box](http://cs-syd.eu/posts/2016-04-30-a-functor-is-not-a-box.html)
 * [George Wilson - The Extended Functor Family - YouTube](https://www.youtube.com/watch?v=JZPXzJ5tp9w)
 * [Making your brain tingle: Functions as functors · Waste of Time](http://blogs.intevation.de/wilde/haskell/functions-as-functors/)
+* [rampion/conkin](https://github.com/rampion/conkin) - Tools for functors from Hask^k to Hask
 
 ### Bifunctor
 * [bifunctor](https://hackage.haskell.org/package/bifunctors)
