@@ -16,6 +16,7 @@
 * [なぜHaskellを学ぶと良いか](http://qiita.com/arowM/items/0305d4f439752f285438)
 * [Haskellらしさって？「型」と「関数」の基本を解説！【第二言語としてのHaskell】](https://employment.en-japan.com/engineerhub/entry/2017/08/25/110000)
   * [実践編！Haskellらしいアプリケーション開発。まず型を定義すべし【第二言語としてのHaskell】](https://employment.en-japan.com/engineerhub/entry/2017/09/11/110000)
+  * [発展編！ Haskellで「型」のポテンシャルを最大限に引き出すには？【第二言語としてのHaskell】 - エンジニアHub｜若手Webエンジニアのキャリアを考える！](https://employment.en-japan.com/engineerhub/entry/2017/10/03/110000)
 * [Try Haskell](https://tryhaskell.org/) - ブラウザ上でHaskellのコードを実行しなが学べる
 * [ウォークスルー Haskell](http://walk.wgag.net/haskell/) - 諸概念について簡潔にまとまっている
 * [Twitterを巡回していてわかったHaskell初心者が躓きやすいポイント8つ](http://qiita.com/lotz/items/5cbaca19d90cd168ab43)
