@@ -217,6 +217,7 @@ Web Server
 * [rodrigosetti/swagger-test: Property based testing tool for Swagger APIs](https://github.com/rodrigosetti/swagger-test)
 * [An Opinionated Survey of Functional Web Development](https://dev.yorhel.nl/doc/funcweb)
 * [ChrisPenner/Firefly](https://github.com/ChrisPenner/firefly) - Simple Haskell http framework
+* [modern-uri: Modern library for working with URIs](https://hackage.haskell.org/package/modern-uri)
 
 ### WAI/Warp
 * [Haskell版フォルダを指定してhttpで公開する簡易Webサーバー](http://qiita.com/saturday06/items/fad44a9bc49b2f387bde)
