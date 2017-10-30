@@ -215,6 +215,7 @@
 * [Vertical Finger Trees](http://www.alexkyte.me/2015/10/vertical-finger-trees.html)
 * [状態変化なしに効率的な辞書を実装する重み平衡木](http://qiita.com/YoshikuniJujo/items/a852c0d3af70debd2d24)
 * [tree-diff: Diffing of (expression) trees.](https://hackage.haskell.org/package/tree-diff)
+* [Persistent Red Black Trees in Haskell](https://abhiroop.github.io/Haskell-Red-Black-Tree/)
 
 ### Graph
 * [FP Graph Algorithms](http://begriffs.com/posts/2015-09-04-pure-functional-graphs.html)
