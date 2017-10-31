@@ -173,6 +173,7 @@
 * [Migrating text metrics to pure Haskell](https://markkarpov.com/post/migrating-text-metrics.html)
 * [A ByteString performance mystery](http://teh.id.au/posts/2017/08/23/bytestring-performance-mystery/index.html)
 * [Haskell の (文字列) 変換パッケージ (convertible, convert, conversion) - Qiita](http://qiita.com/waddlaw/items/36231d95580d73c798b1)
+* [Short ByteString and Text](https://markkarpov.com/post/short-bs-and-text.html)
 
 ### リスト
 * [Haskell Data.Listのリスト操作関数（サンプル付き） - Qiita](http://qiita.com/aosho235/items/94787fe0901141598c91)
