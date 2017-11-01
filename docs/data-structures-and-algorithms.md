@@ -217,6 +217,7 @@
 * [状態変化なしに効率的な辞書を実装する重み平衡木](http://qiita.com/YoshikuniJujo/items/a852c0d3af70debd2d24)
 * [tree-diff: Diffing of (expression) trees.](https://hackage.haskell.org/package/tree-diff)
 * [Persistent Red Black Trees in Haskell](https://abhiroop.github.io/Haskell-Red-Black-Tree/)
+  * [Persistent Red Black Trees in Haskell](https://functional.works-hub.com/blog/Persistent-Red-Black-Trees-in-Haskell)
 
 ### Graph
 * [FP Graph Algorithms](http://begriffs.com/posts/2015-09-04-pure-functional-graphs.html)
