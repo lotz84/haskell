@@ -393,6 +393,7 @@ Web Application Framework
 * [servant-checked-exceptions Haskell package - servant | LibHunt](https://haskell.libhunt.com/project/servant-checked-exceptions)
 * [Moving From Server Side Sessions To Client Side Session Tokens with Servant](https://vadosware.io/post/moving-from-server-side-sessions-to-client-side-session-tokens-with-servant/)
 * [ADDING SQLITE POWERED FTS SEARCH TO A SERVANT POWERED HASKELL APP](https://vadosware.io/post/adding-sqlite-powered-fts-search-to-a-servant-powered-haskell-app/)
+* [Authorization in Servant: Walkthrough (WIP)](https://ibnuda.gitlab.io/636452721192300168_authorizationinservant.html)
 
 ### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
