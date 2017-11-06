@@ -98,3 +98,4 @@ main = do
 * [First class stream fusion](http://www.yesodweb.com/blog/2016/02/first-class-stream-fusion)
 * [Stream fusion for streaming, without writing any code](http://twanvl.nl/blog/haskell/streaming-vector)
 * [Tweag I/O - How to compose streaming programs](http://www.tweag.io/posts/2017-10-05-streaming2.html)
+* [THE EXODUS TO STREAMGARD, AN EPIC POEM](http://www.tweag.io/posts/2017-11-01-streaming-and-foldl.html)
