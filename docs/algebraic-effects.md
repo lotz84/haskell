@@ -38,3 +38,4 @@
 * [Freer Effectsが、だいたいわかった: 7. FreeモナドとCoyoneda - Qiita](https://qiita.com/YoshikuniJujo/items/729ad9830833eacb9d75)
 * [Freer Effectsが、だいたいわかった: 8. Freerモナド(Operationalモナド)で、いろいろなモナドを構成する - Qiita](https://qiita.com/YoshikuniJujo/items/686fedc92fd20ff70ab8)
 * [Extensible Effects: understanding them, implementing them, using them. A Tutorial](http://okmij.org/ftp/Haskell/extensible/tutorial.html)
+* [Sandy Maguire: Don't Eff It Up: Free Monads in Action](https://www.youtube.com/watch?v=gUPuWHAt6SA)
