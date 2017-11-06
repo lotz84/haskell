@@ -19,3 +19,4 @@
 * [Arithmetical theorems with Lambda Calculus](http://shhaumb.github.io/arithmetical-theorems-with-lambda-calculus/)
 * [whiteboard problems in pure lambda calculus | jtolds.com](http://www.jtolds.com/writing/2017/03/whiteboard-problems-in-pure-lambda-calculus/)
 * [Dana Scott - Theory and Models of Lambda Calculus Untyped and Typed - Part 1 of 5 - λC 2017](https://www.youtube.com/watch?v=mBjhDyHFqJY)
+* [A Tutorial Introduction to the Lambda Calculus](http://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf)
