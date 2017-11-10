@@ -1,4 +1,3 @@
-# 線形型
 > 線形型システムとは、プログラム実行中に作られた値が何度使われうるかによって型を区別するような型システムです
 
 出典: [課題４](http://web.yl.is.s.u-tokyo.ac.jp/kobalab/kadai99/kadai4.html)
@@ -13,6 +12,7 @@
 * [Safe streaming with linear types by m0ar](https://m0ar.github.io/safe-streaming/2017/06/19/linear-types-101.html)
 * [m0ar/safe-streaming: Adaptation of the streaming library for increased safety through linear types. Summer of Haskell 2017 project.](https://github.com/m0ar/safe-streaming)
 * [[1710.09756] Linear Haskell: practical linearity in a higher-order polymorphic language](https://arxiv.org/abs/1710.09756)
+* [ghc-proposals/proposals/0000-linear-types.rst](https://github.com/tweag/ghc-proposals/blob/linear-types/proposals/0000-linear-types.rst)
 
 ## Linear Type as DSL
 * [線形型つきドメイン特化言語 (DSL) を Haskell上に実装する](http://d.hatena.ne.jp/keigoi/20110806/1312604753)
