@@ -272,3 +272,6 @@ $ stack exec -- <your program> +RTS <profiling options>
 * [ghc-proposals/0000-overloaded-application.rst at overloadedapplication · cdsmith/ghc-proposals](https://github.com/cdsmith/ghc-proposals/blob/overloadedapplication/proposals/0000-overloaded-application.rst)
 * [ghc-proposals/0000-or-patterns.rst at or_patterns · osa1/ghc-proposals](https://github.com/osa1/ghc-proposals/blob/or_patterns/proposals/0000-or-patterns.rst)
 * [Monad of no return/>> Proposal (MRP)](https://ghc.haskell.org/trac/ghc/wiki/Proposal/MonadOfNoReturn)
+
+### Another Haskell Compiler
+* [DHC Demo - The following compiles Haskell to WebAssembly and runs it.](https://dhc.dfinity.org/)
