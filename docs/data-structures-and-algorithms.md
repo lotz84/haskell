@@ -92,6 +92,7 @@
 * [フリーランスプログラマのための複式簿記プログラミング - Qiita](http://qiita.com/arowM/items/69c0305a7ae5b953f21d)
 * [Mixing Supercompilers and Recursion Using Elgot Algebras](http://blog.vmchale.com/article/elgot)
 * [Java interfaces map to Haskell records](https://chris-martin.org/2017/interfaces-and-records)
+* [Finite-State Machines, Part 1: Modeling with Haskell Data Types](https://wickstrom.tech/finite-state-machines/2017/11/10/finite-state-machines-part-1-modeling-with-haskell.html)
 
 ### ソート
 * [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
