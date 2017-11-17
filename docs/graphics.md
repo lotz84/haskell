@@ -80,6 +80,7 @@
   * [apecs tutorial](https://github.com/jonascarpay/apecs/blob/master/tutorials/RTS.md)
 * [Manuel Chakravarty - Haskell SpriteKit: A Case Study in Turning a Stateful into a Functional API - YouTube](https://www.youtube.com/watch?v=H_z4NKvxf1U)
 * [nek0/affection: A simple Game Engine in Haskell using SDL](https://github.com/nek0/affection)
+* [GameDev in Haskell -- Procedural vs Functional (Part 2)](https://www.youtube.com/watch?v=VxLvaHpAK-U&list=PLguYJK7ydFE7KBfUplAk_qLp--xG6gw3R&index=2)
 
 ## Gloss
 * [gloss](http://hackage.haskell.org/package/gloss)
