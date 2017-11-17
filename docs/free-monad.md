@@ -52,6 +52,7 @@ instance Functor f => Monad (Free f) where
 * [What does Free buy us?](http://www.parsonsmatt.org/2017/09/22/what_does_free_buy_us.html)
 * [Free monad considered harmful](https://markkarpov.com/post/free-monad-considered-harmful.html)
 * [Optimising free monad programs using Plated](https://qfpl.io/posts/optimising-free-with-plated/)
+* [Free Monads: from the basics to the implementation of composable and effectful stream processing](https://deque.blog/2017/11/13/free-monads-from-basics-up-to-implementing-composable-and-effectful-stream-processing/)
 
 ### Coyoneda
 * [Loop School - Coyoneda](http://school.looprecur.com/?video=122708005)
