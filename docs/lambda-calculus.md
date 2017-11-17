@@ -21,3 +21,4 @@
 * [Dana Scott - Theory and Models of Lambda Calculus Untyped and Typed - Part 1 of 5 - λC 2017](https://www.youtube.com/watch?v=mBjhDyHFqJY)
 * [A Tutorial Introduction to the Lambda Calculus](http://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf)
 * [A Lambda Calculus for Transfinite Arrays: Unifying Arrays and Streams](https://arxiv.org/abs/1710.03832)
+* [ChristopherKing42/CalculusOfConstructions.hs](https://gist.github.com/ChristopherKing42/d8c9fde0869ec5c8feae71714e069214)
