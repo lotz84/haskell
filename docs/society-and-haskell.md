@@ -14,6 +14,7 @@
 * [Three Months of Go (from a Haskeller's perspective)](https://www.barrucadu.co.uk/posts/etc/2016-08-25-three-months-of-go.html?utm_campaign=weekly&utm_medium=email&utm_source=newsletter_mailer)
 * [Functional Programming and Modern DevOps: Aaron Contorer - YouTube](https://www.youtube.com/watch?v=ybSBCVhVWs8&feature=youtu.be)
 * [Reflecting on 5 years of Haskell in production · Alexander Thiemann - YouTube](https://www.youtube.com/watch?v=KlfbAneiMNw)
+* [2017 state of Haskell survey results](http://taylor.fausak.me/2017/11/15/2017-state-of-haskell-survey-results/)
 
 ## コミュニティ
 * [Haskell Communities and Activities Report](https://wiki.haskell.org/Haskell_Communities_and_Activities_Report)
