@@ -223,6 +223,7 @@ circum (Circle _ _ r) = …
 * [Dependent Types in Haskell: Theory and Practice](https://arxiv.org/abs/1610.07978)
 * [A specification for dependent types in Haskell](http://dl.acm.org/citation.cfm?id=3110275)
 * [Transforming data structures into types: an introduction to dependent typing and its benefits](https://deque.blog/2017/09/20/data-structure-into-types/)
+* [Overlapping and Order-Independent Patterns - Definitional Equality for All](https://lirias.kuleuven.be/bitstream/123456789/442509/1/main.pdf)
 
 ```haskell
 {-# LANGUAGE GADTs, DataKinds, KindSignatures, TypeFamilies #-}
