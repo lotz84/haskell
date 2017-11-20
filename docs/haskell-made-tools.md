@@ -227,6 +227,7 @@ $ hobbes "*.hs" | xargs -n1 ghc --make
 * ドキュメントを別の形式のドキュメントに変換できるコマンド
 * とにかくサポートしている形式が多い
 * <http://pandoc.org/>
+* [Convert documents (doc, odt, html, epub, etc.) in Shell with pandoc](https://www.youtube.com/watch?v=BkTYHChkDoE)
 
 ### par
 * Linuxのコマンドを簡単に並列実行させられるコマンド
