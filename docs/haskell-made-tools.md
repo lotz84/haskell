@@ -193,6 +193,10 @@ $ hobbes "*.hs" | xargs -n1 ghc --make
 * <https://github.com/mrkkrp/identicon>
 * [The Identicon package](https://mrkkrp.github.io/posts/the-identicon-package.html)
 
+### jsn
+* An absolutely simple & terse CLI app to manipulate JSON data
+* <goldenlynx/jsn>
+
 ### LambdaCms
 * Haskell製のCMS
 * [LambdaCms](http://lambdacms.org/)
