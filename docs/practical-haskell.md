@@ -29,6 +29,7 @@
 * [Dear package managers: dependency resolution results should be in version control](https://blog.ometer.com/2017/01/10/dear-package-managers-dependency-resolution-results-should-be-in-version-control/)
 * [Monitoring the popularity and the development of GitHub projects](http://gittrends.io/#/explore?page=1&language=Haskell&domain=All&growth=All) - GitHub上の活発なHaskellのプロジェクトを表示
 * [Search - haskell | Unixstickers](http://www.unixstickers.com/index.php?route=product/search&filter_name=haskell)
+* [Actually Using Haskell!](http://www.oredev.org/2017/sessions/actually-using-haskell)
 
 ## GHCi
 * [ghciでマルチバイト文字をエスケープせず表示させる](http://qiita.com/aosho235/items/bdfa4a68b77b9fcc4a35)
