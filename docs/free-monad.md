@@ -139,6 +139,7 @@ yoneda f = Natural $ \ax -> fmap ax f
 * [Sharing in Haskell EDSLs](http://jtobin.ca/sharing-in-haskell-edsls)
 * [Ryan Newton - DSL Embedding in Haskell [1/2] - YouTube](https://www.youtube.com/watch?v=VIX4_XI3JAE)
 * [Rewriting a Shallow DSL using a GHC Compiler Extension](https://ku-fpg.github.io/files/Grebe-17-Transformations.pdf)
+* [Hannah – a DSL for parsing and generating files and network traces](http://abau.org/hannah)
 
 ### The Expression Problem
 * [The Expression Problem](http://maoe.hatenadiary.jp/entry/20101214/1292337923)
