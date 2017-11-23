@@ -52,6 +52,7 @@ mtlにはMonad Transformerを新しく定義する度に全ての組み合わせ
 * [Announcing: the new unliftio library](https://www.fpcomplete.com/blog/2017/07/announcing-new-unliftio-library)
 * [A tale of two Monads: Free vs MTL | Front Row](http://tech.frontrowed.com/2017/09/28/benching-free/)
 * [lexi-lambda/mtl-style-example](https://github.com/lexi-lambda/mtl-style-example) - A small example of using mtl style to unit test effectful code
+* [Monad Transformer State - Michael Snoyman](https://www.youtube.com/watch?v=KZIN9f9rI34&feature=youtu.be)
 
 ### monad-control
 * [モナドトランスフォーマーとmonad-control](http://maoe.hatenadiary.jp/entry/20111207/1323185162)
