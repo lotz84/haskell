@@ -93,6 +93,7 @@
 * [Mixing Supercompilers and Recursion Using Elgot Algebras](http://blog.vmchale.com/article/elgot)
 * [Java interfaces map to Haskell records](https://chris-martin.org/2017/interfaces-and-records)
 * [Finite-State Machines, Part 1: Modeling with Haskell Data Types](https://wickstrom.tech/finite-state-machines/2017/11/10/finite-state-machines-part-1-modeling-with-haskell.html)
+* [Finite-State Machines, Part 2: Explicit Typed State Transitions](https://wickstrom.tech/finite-state-machines/2017/11/19/finite-state-machines-part-2.html)
 
 ### ソート
 * [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
