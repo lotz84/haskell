@@ -36,6 +36,7 @@
 * [Blog - Introducing Haskey (Summer of Haskell 2017)](https://deliquus.com/posts/2017-08-24-introducing-haskey.html)
   * [Blog - Haskey: User-defined Schemas, Monad Transformers and Future Work (Summer of Haskell 2017)](https://deliquus.com/posts/2017-09-14-haskey-user-defined-schemas-and-monad-transformers.html)
 * [Comparing Persistent with Ecto and ActiveRecord](http://bitemyapp.com/posts/2017-10-06-persistent-ecto-activerecord.html)
+* [Independent Redis Query Aggregation](https://identicalsnowflake.github.io/QueryAggregation.html)
 
 Simple Clients
 --------------
