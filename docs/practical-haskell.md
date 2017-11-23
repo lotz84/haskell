@@ -178,6 +178,7 @@
 * [Hapistrano's new features](https://stackbuilders.com/news/hapistrano-s-new-features)
 * [ivan-m/jbi](https://github.com/ivan-m/jbi) - Just Build It - a "do what I mean" abstraction for Haskell build tools
 * [ZERO TO CONTINUOUS INTEGRATED TESTING A HASKELL PROJECT WITH GITLAB](https://vadosware.io/post/zero-to-continuous-integrated-testing-a-haskell-project-with-gitlab/)
+* [CONTINUOUS INTEGRATION TO CONTINOUS DELIVERY HASKELL PROJECT WITH GITLAB](https://vadosware.io/post/continuous-integration-to-continous-delivery-haskell-project-with-gitlab/)
 
 ## FFI
 * [inline-c](https://hackage.haskell.org/package/inline-c)
