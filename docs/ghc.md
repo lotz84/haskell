@@ -81,6 +81,7 @@
 * [What is New in Cross Compiling Haskell – zw3rk – Medium](https://medium.com/@zw3rk/what-is-new-in-cross-compiling-haskell-976cd4752bb9)
 * [GHC Cross Compiler Binary Distributions – zw3rk – Medium](https://medium.com/@zw3rk/ghc-cross-compiler-binary-distributions-490bb2c0c411)
 * [Tweag I/O - Announcing the GHC DevOps Group](http://www.tweag.io/posts/2017-10-19-ghc-devops-group.html)
+* [Building GHC: The Stages](https://medium.com/@zw3rk/building-ghc-the-stages-2c6cf6fc4b29)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
