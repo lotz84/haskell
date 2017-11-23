@@ -15,6 +15,7 @@
 * [Functional Programming and Modern DevOps: Aaron Contorer - YouTube](https://www.youtube.com/watch?v=ybSBCVhVWs8&feature=youtu.be)
 * [Reflecting on 5 years of Haskell in production · Alexander Thiemann - YouTube](https://www.youtube.com/watch?v=KlfbAneiMNw)
 * [2017 state of Haskell survey results](http://taylor.fausak.me/2017/11/15/2017-state-of-haskell-survey-results/)
+* [[Slides] Joy & frustration of putting 34,000 lines of Haskell into production](https://www.reddit.com/r/haskell/comments/7e8bom/slides_joy_frustration_of_putting_34000_lines_of/)
 
 ## コミュニティ
 * [Haskell Communities and Activities Report](https://wiki.haskell.org/Haskell_Communities_and_Activities_Report)
