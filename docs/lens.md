@@ -42,6 +42,7 @@
 * [mchaver - Lens Tutorial - SimpleLens](http://www.mchaver.com/posts/2017-07-12-lens-tutorial-1.html)
 * [Why Lenses Work](http://blog.vmchale.com/article/why-lenses-work)
 * [hablapps/DontFearTheProfunctorOptics: Don't Fear the Profunctor Optics!](https://github.com/hablapps/DontFearTheProfunctorOptics#readme)
+* [AnkiWeb - Haskell lens operators](https://ankiweb.net/shared/info/1994529308)
 
 > Thus the Yoneda embedding of the functor category leads to the van Laarhoven representation of the lens
 
