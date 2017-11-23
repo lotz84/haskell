@@ -33,6 +33,7 @@
 * [Well-typed printfs cannot go wrong – ( )](http://kcsongor.github.io/purescript-safe-printf/)
 * [Type Safety Back and Forth](http://www.parsonsmatt.org/2017/10/11/type_safety_back_and_forth.html)
 * [Haskell equality table](https://htmlpreview.github.io/?https://github.com/quchen/articles/blob/master/haskell-equality-table.html)
+* [Type-Directed Code Generation](http://reasonablypolymorphic.com/blog/type-directed-code-generation)
 
 ### 代数的データ型
 代数的データ型とは"足し算"と"掛け算"が出来るような型のこと。"足し算"と"掛け算"はそれぞれ**直和**, **直積** と呼ばれる。
