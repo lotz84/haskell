@@ -420,6 +420,9 @@ Line 6:
 * Haskellのimport文を並べ替えるコマンド
 * <https://github.com/fumieval/import-bikeshedder>
 
+### mega-sdist
+* [mega-sdist: the mega repo helper](https://www.yesodweb.com/blog/2017/11/mega-sdist)
+
 ### staversion
 * [staversion: What version is the package X in stackage lts-Y.ZZ?](https://hackage.haskell.org/package/staversion)
 * [stackageの特定のresolverに上がっているパッケージバージョンを調べるツール](http://d.hatena.ne.jp/debug-ito/20161016/1476603444)
