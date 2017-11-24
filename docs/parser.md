@@ -131,6 +131,7 @@ parse = evalStateT
 ### Markdown
 * [snoyberg/markdown](https://github.com/snoyberg/markdown)
 * [cmark: Fast, accurate CommonMark (Markdown) parser and renderer](https://hackage.haskell.org/package/cmark)
+* [Announcing MMark](https://markkarpov.com/post/announcing-mmark.html)
 
 ### JSON
 * [HaskellとJSON、そしてレコード型](http://syocy.hatenablog.com/entry/2017/08/14/235830)
