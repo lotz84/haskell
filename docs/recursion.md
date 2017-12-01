@@ -154,3 +154,4 @@ class Functor g => Distributive g where
 * [Review: Bananas, Lenses, Envelopes and Barbed Wire :: Reasonably Polymorphic](http://reasonablypolymorphic.com/blog/recursion-schemes)
 * [Recursion Schemes, Part IV: Time is of the Essence](http://blog.sumtypeofway.com/recursion-schemes-part-iv-time-is-of-the-essence/)
 * [Recursion-scheme-generator](http://vmchale.com/recursion-scheme-generator/index.html)
+* [somehow-morphisms on fixed point written in Haskell](https://qiita.com/cutsea110/items/69889a99d30b627bc04a)
