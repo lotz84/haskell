@@ -82,7 +82,7 @@ class Functor f => Applicative f where
 * [Radix sort](http://lukahorvat.github.io/programming/2015/06/07/sorting/)
 * [Why does `sort` in Data.Discrimination claim to be O(n)?](https://www.reddit.com/r/haskell/comments/3brce1/why_does_sort_in_datadiscrimination_claim_to_be_on/)
 
-##自然変換
+## 自然変換
 
 ```haskell
 type (~>) f g = forall x. f x -> g x
@@ -283,6 +283,7 @@ instance Monad (State s) where
 * [Wrangling State In Haskell](http://deliberate-software.com/haskell-state/)
 * [Universally stateless monads](https://ro-che.info/articles/2017-06-04-universally-stateless-monads)
 * [Stateモナドを理解する - Qiita](http://qiita.com/ku00/items/12221793dbb51f16a2d6)
+* [HaskellのStateの必要性が,プログラミング言語の処理系を書いた時にわかったので,Stateの良さを語ります](https://www.ncaq.net/2017/12/01/00/00/01/)
 
 ### RWS Monad
 Reader + Writer + State
