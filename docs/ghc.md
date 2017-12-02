@@ -82,6 +82,8 @@
 * [GHC Cross Compiler Binary Distributions – zw3rk – Medium](https://medium.com/@zw3rk/ghc-cross-compiler-binary-distributions-490bb2c0c411)
 * [Tweag I/O - Announcing the GHC DevOps Group](http://www.tweag.io/posts/2017-10-19-ghc-devops-group.html)
 * [Building GHC: The Stages](https://medium.com/@zw3rk/building-ghc-the-stages-2c6cf6fc4b29)
+* [Levity polymorphismについて軽く - Qiita](https://qiita.com/ruicc/items/e2879c44eba77b1e7170)
+* [haskell - What is Levity polymorphism - Stack Overflow](https://stackoverflow.com/questions/35318562/what-is-levity-polymorphism)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
