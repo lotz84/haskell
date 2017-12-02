@@ -68,6 +68,7 @@ type a * b = (a, b)
 * [Scrap Your Zippers](http://michaeldadams.org/papers/scrap_your_zippers/ScrapYourZippers-2010.pdf)
 * [syz](https://hackage.haskell.org/package/syz)
 * [Zipper関連のパッケージ](http://d.hatena.ne.jp/debug-ito/20161016/1476587232)
+* [Zipperに挑む](https://qiita.com/Aruneko/items/dee20161358e7c39e27a)
 
 ### カインド
 * [About kind system of Haskell (Part 1)](https://haskell.jp/blog/posts/2017/10-about-kind-system-part1.html)
