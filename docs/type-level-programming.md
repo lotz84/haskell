@@ -33,7 +33,6 @@
 * [Dimensional - Douglas McClean - Boston Haskell](https://www.youtube.com/watch?v=-Kz7SYZNoUU&feature=youtu.be)
 * [Promoting the arrow type](https://alexvieth.wordpress.com/2016/01/28/promoting-the-arrow-type/)
 * [100 Days of Fibonacci - Day 9, Haskell Types](http://buchi.dk/blog/100-days-of-fibonacci-day-9-haskell-types/)
-* [What is Levity polymorphism](http://stackoverflow.com/questions/35318562/what-is-levity-polymorphism)
 * [Embedding Monomorphic Haskell Functions in a Dynamic Language With Similiar Semantics](http://www.christian-fania.de/blog/EmbedHaskellFuncsinDynamic.html)
 * [Tuples as heterogeneous lists](https://lambdacube3d.wordpress.com/2016/03/03/tuples-as-heterogeneous-lists/)
 * [Type safe Polyvariadic functions in Haskell](http://cs-syd.eu/posts/2016-04-09-typesafe-polyvariadic-functions-in-haskell.html)
