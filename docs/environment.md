@@ -115,3 +115,4 @@ $ alias ghci='stack ghci --'
 * [Tidalでライブコーディング! - セットアップ編](http://qiita.com/yoppa/items/41805cc6af62b1047a34)
 * [transient-haskell/transient - Running example(s)](https://github.com/transient-haskell/transient/wiki/Running-example(s))
 * [theam/haskell-do: The Haskell code editor focused on interactive development.](https://github.com/theam/haskell-do)
+* [私のHaskellコーディングスタイルガイド,改行出来るポイントを紹介 - ncaq](https://www.ncaq.net/2017/12/02/00/00/00/)
