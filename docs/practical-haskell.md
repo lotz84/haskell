@@ -329,3 +329,5 @@
 * [Simon Peyton Jones Getting from A to B fast route finding on slow computers](https://www.youtube.com/watch?v=L1XDdy-hOH8)
 * [Anatomy of a Haskell-based Application, Revisited](https://tech-blog.capital-match.com/posts/3-anatomy-of-haskell-web-app.html)
 * [ゲーム販売webアプリケーションSYAKERAKEを支える技術,HaskellとYesodで作られています - ncaq](https://www.ncaq.net/2017/12/03/00/00/00/)
+* [Transient: Full Algebraic and monadic composability by Alberto Gómez Corona](https://www.youtube.com/watch?v=wqfEX1big4o)
+  * [transient-haskell/transient](https://github.com/transient-haskell/transient)
