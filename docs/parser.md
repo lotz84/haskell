@@ -25,6 +25,7 @@
 * [Philip Cunningham - Parse Ruby Objects in Haskell](https://filib.io/posts/2017-04-24-parse-ruby-objects-in-haskell.html)
 * [The round-trip property](http://teh.id.au/posts/2017/06/07/round-trip-property/index.html)
 * [Higher-order Abstract Syntax for Cartesian Closed Categories](http://blog.functorial.com/posts/2017-10-08-HOAS-CCCs.html)
+* [mvv/data-elf](https://github.com/mvv/data-elf) - ELF data structures for Haskell
 
 ## 正規表現
 * [関数型的正規表現マッチ](https://research.preferred.jp/2010/11/regexp-play/)
