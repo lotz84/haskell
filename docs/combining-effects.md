@@ -1,5 +1,7 @@
-## Monad Transformer
-## ライブラリ
+Monad Transformer
+------------------
+
+### ライブラリ
 * [The transformers package](https://hackage.haskell.org/package/transformers)
 * [The mtl package](https://hackage.haskell.org/package/mtl)
 * [The monads-tf package](http://hackage.haskell.org/package/monads-tf)
@@ -15,7 +17,7 @@
 * [Announcing: monad-unlift](https://www.fpcomplete.com/blog/2015/04/announcing-monad-unlift)
 * [Documentation.Layers.Overview](http://hackage.haskell.org/package/layers/docs/Documentation-Layers-Overview.html)
 
-## 入門／チュートリアル
+### 入門／チュートリアル
 * [モナドトランスフォーマーとその周辺](http://qiita.com/ruicc/items/7512c990a1835bba444a)
 * [Haskell モナド変換子 超入門](http://qiita.com/7shi/items/4408b76624067c17e933)
 * [モナドトランスフォーマー・ステップ・バイ・ステップ](http://bicycle1885.hatenablog.com/entry/2012/12/08/165236)
@@ -28,12 +30,12 @@
 * [IO (Maybe String)を触ってみる](http://qiita.com/eielh/items/2f0f774914431990ec37)
 * [Haskellモナドトランスフォーマー(1)](http://delihiros.hatenablog.jp/entry/2012/04/19/140557)
 
-## 圏論
+### 圏論
 * [Monad transformer](http://mbps.hatenablog.com/entry/2014/06/28/033234)
 * [Adjunction からの monad transformer](http://mbps.hatenablog.com/entry/2014/11/25/220948)
 * [Monad からの monad transformer](http://mbps.hatenablog.com/entry/2014/12/11/112455)
 
-## Others
+### Others
 * [Proper Treatment 正當作法/blog/posts/Monad transformers](http://conway.rutgers.edu/~ccshan/wiki/blog/posts/Monad_transformers/)
 * [Wrangling Monad Transformer Stacks](https://www.youtube.com/watch?v=8t8fjkISjus)
 * [ContEitherT](https://iteratee.wordpress.com/2015/10/01/conteithert/)
