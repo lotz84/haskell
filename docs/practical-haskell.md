@@ -328,3 +328,4 @@
 * [Compose :: Melbourne 2017 - Jurriaan Hage - Domain-Specific Type Error Diagnosis in GHC - YouTube](https://www.youtube.com/watch?v=GbCfmnTmQDc&feature=youtu.be)
 * [Simon Peyton Jones Getting from A to B fast route finding on slow computers](https://www.youtube.com/watch?v=L1XDdy-hOH8)
 * [Anatomy of a Haskell-based Application, Revisited](https://tech-blog.capital-match.com/posts/3-anatomy-of-haskell-web-app.html)
+* [ゲーム販売webアプリケーションSYAKERAKEを支える技術,HaskellとYesodで作られています - ncaq](https://www.ncaq.net/2017/12/03/00/00/00/)
