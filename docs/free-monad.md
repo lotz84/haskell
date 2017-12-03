@@ -142,6 +142,7 @@ yoneda f = Natural $ \ax -> fmap ax f
 * [Hannah – a DSL for parsing and generating files and network traces](http://abau.org/hannah)
 
 ### The Expression Problem
+* [The Expression Problem - Philip Wadler, 12 November 1998](http://www.daimi.au.dk/~madst/tool/papers/expression.txt)
 * [The Expression Problem](http://maoe.hatenadiary.jp/entry/20101214/1292337923)
 * [Data types à la carte](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.101.4131)
 * [C9 Lectures: Dr. Ralf Lämmel - Advanced Functional Programming - The Expression Problem](https://channel9.msdn.com/Shows/Going+Deep/C9-Lectures-Dr-Ralf-Laemmel-Advanced-Functional-Programming-The-Expression-Problem)
