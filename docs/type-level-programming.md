@@ -191,6 +191,8 @@ circum (Circle _ _ r) = …
 * [languagengine - Blog - Proof Refinement Basics](http://languagengine.co/blog/proof-refinement-basics/)
 * [languagengine - Blog - Bidirectional Proof Refinement](http://languagengine.co/blog/bidirectional-proof-refinement/)
 * [BOB 2017 - Philipp Kant: Performance and Safety: an Example of using Liquid Haskell in the Real Worl - YouTube](https://www.youtube.com/watch?v=8Y78eTaEkBU)
+* [Liquid Haskell で普通の型システムの上を行け #NGK2017B](https://www.slideshare.net/y_taka_23/liquid-haskell-ngk2017b-83162127)
+* [[1711.03842] Refinement Reflection: Complete Verification with SMT](https://arxiv.org/abs/1711.03842)
 
 ## Dependent Types
 * [実世界を扱う依存型プログラミングのたぶん基本～外界から安全な世界までの道](http://notogawa.hatenablog.com/entry/2016/10/20/001812)
