@@ -16,7 +16,7 @@
     7.  [型クラス](docs/type-class-and-abstraction.md)
     8.  [Functor, Applicative, Monad](docs/functor-applicative-monad.md)
     9.  [Free Monad](docs/free-monad.md)
-    10. [モナドの合成](docs/combining-effects.md)
+    10. [モナドの合成](docs/combining-effects.md)
     11. [継続](docs/continuation.md)
     12. [Lens](docs/lens.md)
     13. [例外処理・デバッグ・テスト](docs/test-and-debug.md)
