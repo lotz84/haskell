@@ -1,3 +1,4 @@
+* <https://prime.haskell.org/>
 * [Haskell Source Navigation](http://begriffs.com/posts/2015-07-27-haskell-source-navigation.html)
 * [kolmodin/cabal-install-trace](https://github.com/kolmodin/cabal-install-trace)
 * [bitc/hdevtools](https://github.com/bitc/hdevtools)
