@@ -242,6 +242,7 @@ Web Application Framework
 * [Announcing serversession](http://blog.felipe.lessa.nom.br/?p=153)
 * [agrafix/users](https://github.com/agrafix/users)
 * [nikita-volkov/strelka](https://github.com/nikita-volkov/strelka)
+* [fast-and-fearless-evolution-of-server-side-webapps/slides-handouts.pdf at master · owickstrom/fast-and-fearless-evolution-of-server-side-webapps](https://github.com/owickstrom/fast-and-fearless-evolution-of-server-side-webapps/blob/master/slides/slides-handouts.pdf)
 
 ### 比較
 | Framework        | Latest Release | Version   | Star | Contributors |
