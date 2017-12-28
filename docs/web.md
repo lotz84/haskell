@@ -394,6 +394,7 @@ Web Application Framework
 * [Moving From Server Side Sessions To Client Side Session Tokens with Servant](https://vadosware.io/post/moving-from-server-side-sessions-to-client-side-session-tokens-with-servant/)
 * [ADDING SQLITE POWERED FTS SEARCH TO A SERVANT POWERED HASKELL APP](https://vadosware.io/post/adding-sqlite-powered-fts-search-to-a-servant-powered-haskell-app/)
 * [Authorization in Servant: Walkthrough (WIP)](https://ibnuda.gitlab.io/636452721192300168_authorizationinservant.html)
+* [ADDING (NAIVE) EMAIL TEMPLATING TO MY SERVANT-POWERED HASKELL WEB APPLICATION](https://vadosware.io/post/adding-email-templating-to-my-servant-app/)
 
 ### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
