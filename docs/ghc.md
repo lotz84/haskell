@@ -148,6 +148,7 @@
 * [Performance debugging in aeson](http://blog.poisson.chat/posts/2017-10-08-aeson-perf.html)
 * [The Haskell performance checklist](https://github.com/haskell-perf/checklist/blob/master/README.md)
 * [Haskell Performance Debugging](http://www.parsonsmatt.org/2017/12/18/haskell_performance_debugging.html)
+* [vincenthz/hs-gauge: criterion fork on a diet](https://github.com/vincenthz/hs-gauge)
 
 ### スペースリーク
 * [GHC とスペースとリーク](http://d.hatena.ne.jp/kazu-yamamoto/20151217)
