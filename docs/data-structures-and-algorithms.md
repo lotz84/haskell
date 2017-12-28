@@ -230,6 +230,7 @@
 * [An algebra of graphs](https://blogs.ncl.ac.uk/andreymokhov/an-algebra-of-graphs/)
 * [Graphs in disguise: from todo lists to build systems](https://blogs.ncl.ac.uk/andreymokhov/graphs-in-disguise/)
 * [snowleopard/alga: Algebraic graphs](https://github.com/snowleopard/alga)
+* [Functional programming with graphs](https://futtetennismo.me/posts/algorithms-and-data-structures/2017-12-08-functional-graphs.html)
 
 ### Time
 * [A Haskell Time Library Tutorial](http://two-wrongs.com/haskell-time-library-tutorial)
