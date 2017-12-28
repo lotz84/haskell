@@ -146,6 +146,8 @@
 * [On Competing with C Using Haskell – Two Wrongs](https://two-wrongs.com/on-competing-with-c-using-haskell)
 * [jship - Writing Performant Haskell (1 of 6): Intro](https://jship.github.io/posts/2017-08-09-writing-performant-haskell-part-1.html)
 * [Performance debugging in aeson](http://blog.poisson.chat/posts/2017-10-08-aeson-perf.html)
+* [The Haskell performance checklist](https://github.com/haskell-perf/checklist/blob/master/README.md)
+* [Haskell Performance Debugging](http://www.parsonsmatt.org/2017/12/18/haskell_performance_debugging.html)
 
 ### スペースリーク
 * [GHC とスペースとリーク](http://d.hatena.ne.jp/kazu-yamamoto/20151217)
