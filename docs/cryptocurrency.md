@@ -1,6 +1,7 @@
 * [Trading Analytics](http://logicalgraphs.blogspot.jp/p/trading-analytics.html)
 * [Yahoo Finance API Wrapper in Haskell](http://functor.tokyo/blog/2016-07-10-yahoo-finance-api)
 * [paramanders/mollie-api-haskell](https://github.com/paramanders/mollie-api-haskell)
+* [safe-money: Money in the type system where it belongs](https://ren.zone/articles/safe-money)
 
 ## Blockchain
 > 特定の中央機関を必要とせずにP2Pネットワーク上で合意形成をする技術
