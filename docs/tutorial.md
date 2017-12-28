@@ -65,7 +65,7 @@
 
 <details>
 <summary>英語チュートリアル</summary>
-
+* [What Makes Haskell Unique](https://www.snoyman.com/blog/2017/12/what-makes-haskell-unique)
 * [Keynote: Why Functional Programming Matters - John Hughes, Mary Sheeran (Lambda Days 2017) - YouTube](https://www.youtube.com/watch?v=1qBHf8DrWR8)
 * [Functional Programming in Haskell: Supercharge Your Coding](https://www.futurelearn.com/courses/functional-programming-haskell/1/)
 * [Learning Real Haskell Incrementally](http://begriffs.com/posts/2015-10-24-learning-haskell-incrementally.html)
