@@ -123,6 +123,7 @@ uncurry :: (a -> b -> c) -> (a, b) -> c
 * [All About Strictness](https://www.fpcomplete.com/blog/2017/09/all-about-strictness)
 * [Visualizing lazy evaluation](http://www.well-typed.com/blog/2017/09/visualize-cbn/)
 * [Adaptive Evaluation of Non-Strict Programs](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/ennals-thesis.pdf)
+* [fixpt - All About Strictness Analysis (part 1)](http://fixpt.de/blog/2017-12-04-strictness-analysis-part-1.html)
 
 > One very interesting comparison is that lazy evaluation is to the CPU what garbage collection is to memory.
 
