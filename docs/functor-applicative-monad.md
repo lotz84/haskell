@@ -25,6 +25,7 @@ class Functor f where
 * [George Wilson - The Extended Functor Family - YouTube](https://www.youtube.com/watch?v=JZPXzJ5tp9w)
 * [Making your brain tingle: Functions as functors · Waste of Time](http://blogs.intevation.de/wilde/haskell/functions-as-functors/)
 * [rampion/conkin](https://github.com/rampion/conkin) - Tools for functors from Hask^k to Hask
+* [Functor Functors](https://www.benjamin.pizza/posts/2017-12-15-functor-functors.html)
 
 ### Bifunctor
 * [bifunctor](https://hackage.haskell.org/package/bifunctors)
