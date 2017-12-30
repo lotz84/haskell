@@ -2,6 +2,7 @@
 * [Yahoo Finance API Wrapper in Haskell](http://functor.tokyo/blog/2016-07-10-yahoo-finance-api)
 * [paramanders/mollie-api-haskell](https://github.com/paramanders/mollie-api-haskell)
 * [safe-money: Money in the type system where it belongs](https://ren.zone/articles/safe-money)
+* [Understanding Simplicity: implementing a smart contract language in 30 lines of Haskell](https://medium.com/@danrobinson/understanding-simplicity-implementing-a-smart-contract-language-in-30-lines-of-haskell-827521bfeb4d)
 
 ## Blockchain
 > 特定の中央機関を必要とせずにP2Pネットワーク上で合意形成をする技術
