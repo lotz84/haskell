@@ -35,6 +35,7 @@
 * [haddock に Grid Table 記法が追加されました](https://haskell.e-bigmoon.com/posts/2017-12-27-haddock-grid-table.html)
 * [Literate Markdown (markdown-unlit の使い方) について](https://haskell.e-bigmoon.com/posts/2017-12-29-literate-markdown)
 * [Haskellや周辺ツールについてのリンク集 - Qiita](https://qiita.com/ogata-k/items/23d70250ec42359b6bb5)
+* [Stackage Serverのちょっとした便利な使い方,Hoogleをブラウザのカスタム検索エンジンに追加しましょう,よく使うパッケージをブックマークする時はPackageRのURLにしましょう - ncaq](https://www.ncaq.net/2017/12/04/00/00/00/)
 
 ## GHCi
 * [ghciでマルチバイト文字をエスケープせず表示させる](http://qiita.com/aosho235/items/bdfa4a68b77b9fcc4a35)
@@ -115,6 +116,7 @@
 * [Tweag I/O - Using Stackage for GHC regression testing](http://www.tweag.io/posts/2017-10-27-stackage-head.html)
 * [Haskell Stack とは何をするツールなのか - Qiita](https://qiita.com/usamik26/items/672ed3c4451402bfc275)
 * [Haskellのstackによるプロジェクトについて - Qiita](https://qiita.com/ogata-k/items/2b21326b2b7351bfc28c)
+* [stack ls コマンドが追加されます](https://haskell.e-bigmoon.com/posts/2017-12-20-stack-ls-command.html)
 
 ### 逆引き
 * [Ubuntu 16 で Stack + GHC がライブラリのリンクに失敗する場合の対処法](http://qiita.com/mr_konn/items/13caa82c1118968d3145)
