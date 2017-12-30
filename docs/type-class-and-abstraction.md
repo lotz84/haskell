@@ -72,6 +72,7 @@ instance Show Bool where
 * [Scrap all your type classes but one](http://h2.jaguarpaw.co.uk/posts/scrap-all-your-typeclasses-but-one/)
 * [型クラスの原点 How to make ad-hoc polymorphism less ad hoc を読んだ話 - Qiita](http://qiita.com/Biacco/items/083f05d5d1d87730f7db)
 * [Counterexamples of Type Classes](http://blog.functorial.com/posts/2015-12-06-Counterexamples.html?repost)
+* [[Haskell] instance宣言に関するエラーの原因いろいろ - Qiita](https://qiita.com/tezca686/items/1771623c3241d6863e61)
 
 ## 代数的な型クラス
 * [tower](https://tonyday567.github.io/tower/index.html)
