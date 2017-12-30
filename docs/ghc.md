@@ -6,6 +6,7 @@
 * [A series about optimization](https://www.reddit.com/r/haskell/comments/3urjm3/a_series_about_optimization/)
 * [On sufficiently smart compilers](http://osa1.net/posts/2015-08-09-sufficiently-smart-compiler.html)
 * [Haskellの父Simon PJ氏、GHCの内部実装について日本のHaskellerと激論を交わす](http://itpro.nikkeibp.co.jp/atcl/news/16/092002726/)
+* [SPJとHaskellのエコシステム（和訳） - Qiita](https://qiita.com/reotasosan/items/d9fdfab10e24eabfefda)
 
 ## GHC
 * [GHC](https://wiki.haskell.org/GHC)
@@ -266,6 +267,7 @@ $ stack exec -- <your program> +RTS <profiling options>
 * [Try Backpack: ghc --backpack](http://blog.ezyang.com/2016/10/try-backpack-ghc-backpack/)
 * [Designing the Backpack signature ecosystem : Inside 214-1E](http://blog.ezyang.com/2017/03/designing-the-backpack-signature-ecosystem/)
 * [Backpack to Work: Towards Practical Mixin Linking for Haskell](http://research.microsoft.com/en-us/um/people/simonpj/papers/modules/backpack-2016.pdf)
+* [Haskell Backpack 覚え書き](https://matsubara0507.github.io/posts/2017-12-12-backpack-memo.html)
 
 ### 正格評価
 * [StrictData拡張について](http://qiita.com/Mizunashi_Mana/items/8edf7781ed4eb4eea4e9)
