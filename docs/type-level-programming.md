@@ -88,6 +88,7 @@
 * [Introduction to Singletons (Part 1) · in Code](https://blog.jle.im/entry/introduction-to-singletons-1.html)
 * [しりとりの圏の実装(未完) - Qiita](https://qiita.com/hiratara/items/6265b5d4791144bee33b)
 * [しりとりの圏の回答、または定理証明Haskellを少しだけ - Qiita](https://qiita.com/as_capabl/items/2031fe28e577e77dc269)
+* [あいや☆ぱぶりっしゅぶろぐ！ - baseパッケージにある型レベルプログラミング探検の旅](http://aiya000.github.io/posts/2017-12-03-type-programming-in-base.html)
 
 ```haskell
 data Bottom
