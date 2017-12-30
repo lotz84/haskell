@@ -35,7 +35,7 @@
     2.  [社会とHaskell](docs/society-and-haskell.md)
     3.  [データベース](docs/database.md)
     4.  [Web](docs/web.md)
-    5.  [セキュリティ](docs/security.md)
+    5.  [暗号技術](docs/cryptography.md)
     6.  [Graphics/Game](docs/graphics.md)
     7.  [IoT/Mobile](docs/mobile.md)
     8.  [機械学習](docs/machine-learning.md)
