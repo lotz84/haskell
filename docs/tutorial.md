@@ -60,7 +60,10 @@
 * [「Haskell入門ハンズオン!」事前資料 - 1/3 - Qiita](http://qiita.com/YoshikuniJujo/items/11d532719bc64f883386)
   * [2/3](http://qiita.com/YoshikuniJujo/items/088a7caea9bd3fe59e3a)
   * [3/3](http://qiita.com/YoshikuniJujo/items/12555f599b5aceac7940)
-
+* [「Haskell入門ハンズオン #2」の当日用の資料(1) - Qiita](https://qiita.com/YoshikuniJujo/items/55f6163ff1897d791ed6)
+  * [「Haskell入門ハンズオン #2」の当日用の資料(2) - Qiita](https://qiita.com/YoshikuniJujo/items/6575706cf79f7260539c)
+  * [「Haskell入門ハンズオン #2」の当日用資料(3) - Qiita](https://qiita.com/YoshikuniJujo/items/9b4aeab57e8f0175f7b8)
+* [Haskellの入門から中級者になるまでの指針 - Qiita](https://qiita.com/Lugendre/items/70e517e59698e0e435f5)
 </details>
 
 <details>
