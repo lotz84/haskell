@@ -539,3 +539,4 @@ Others
 * [vincenthz/hs-connection](https://github.com/vincenthz/hs-connection)
 * [fizruk/http-api-data](https://github.com/fizruk/http-api-data)
 * [Welcome to marvin’s documentation! — marvin 0.1.5-β documentation](https://marvin.readthedocs.io/en/latest/)
+* [Dokku環境を構築してHaskellのアプリケーションをデプロイする - Qiita](https://qiita.com/yukiasai/items/248294a871d40c0dcef6)
