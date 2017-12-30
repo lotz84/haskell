@@ -67,6 +67,7 @@ variance introduced by outliers: 81% (severely inflated)
 * [elm](http://elm-lang.org/)
 * [elm+electronで気楽に始めるFRP](http://qiita.com/yasuyuky/items/e28106e3dd7fed17d50f)
 * [Building elm with stack](http://therning.org/magnus/posts/2015-10-13-000-building-elm-with-stack.html)
+* [Elm開発環境について - Qiita](https://qiita.com/sand/items/9afaef65c6f1ebf453da)
 
 ### erd
 * テキストからER図に変換するツール
