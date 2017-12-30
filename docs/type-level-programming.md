@@ -168,6 +168,7 @@ circum (Circle _ _ r) = …
 * [Infernal Types](https://goc.vivint.com/problems/hm)
 * [[1711.04718] A Type Checking Algorithm for Higher-rank, Impredicative and Second-order Types](https://arxiv.org/abs/1711.04718)
 * [Haskellの型システムを書く(1) - 純粋技術メモ](http://fujiy.hatenablog.com/entry/type-inference-1)
+* [型システムを学ぼう！](https://uhideyuki.sakura.ne.jp/studs/index.cgi/ja/HindleyMilnerInHaskell)
 
 ## Parametricity
 * [Theorems for free!](http://www.cs.sfu.ca/CourseCentral/831/burton/Notes/July14/free.pdf)
