@@ -154,6 +154,7 @@
 * [Immutability, Docker, and Haskell's ST type](https://www.fpcomplete.com/blog/2017/02/immutability-docker-haskells-st-type)
 * [STATIC BINARIES FOR HASKELL: A CONVOLUTED APPROACH](https://vadosware.io/post/static-binaries-for-haskell-a-convoluted-approach/)
 * [Building Haskell Apps with Docker](https://www.fpcomplete.com/blog/2017/12/building-haskell-apps-with-docker)
+* [Shrinking Haskell Docker images using multi-stage builds | Codurance | Craft at Heart | London | Barcelona](https://codurance.com/2017/12/21/docker-multistage-haskell/)
 
 ## CI
 * [Shake](http://shakebuild.com/)
