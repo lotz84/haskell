@@ -355,3 +355,4 @@
 * [FunctionalWorks](https://functional.works-hub.com/learn/Functional-Programming-Jargon)
 * [やる気の出ない計算機科学シリーズ その1 初めてのFormura - Qiita](https://qiita.com/hrontan/items/ae8b3d5f8e999525f4b9)
 * [パス名がShift_JISで格納されたzipファイルの展開ツールをHaskellで書いた話 - Qiita](https://qiita.com/cobodo/items/a41fa118ec878c8aa606)
+* [Anatomy of a Haskell-based Application, Revisited :: Capital Match Tech Blog](https://tech-blog.capital-match.com/posts/3-anatomy-of-haskell-web-app.html)
