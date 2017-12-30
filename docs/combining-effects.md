@@ -91,6 +91,7 @@ Monad Transformer
 * [Freer Effectsが、だいたいわかった: 0. 導入](http://qiita.com/YoshikuniJujo/items/c71644b5af1f5195cbf3) - 16章まで予定されている
 * [Sandy Maguire: Don't Eff It Up: Free Monads in Action](https://www.youtube.com/watch?v=gUPuWHAt6SA)
   * [Don't Eff It Up](http://reasonablypolymorphic.com/dont-eff-it-up/#/title)
+  * [Sandy Maguire: Don't Eff It Up: Free Monads in Action - YouTube](https://www.youtube.com/watch?v=gUPuWHAt6SA)
 
 ### その他
 * [Eff vs mtl](https://www.reddit.com/r/haskell/comments/1j9n5y/extensible_effects_an_alternative_to_monad/cbcwbsa)
