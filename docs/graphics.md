@@ -31,6 +31,7 @@
 * [ocramz/plot-light: A lightweight plotting library, exporting to SVG](https://github.com/ocramz/plot-light)
 * [Visualizing Graphs in Haskell](http://www.michaelburge.us/2017/09/01/how-to-use-graphviz-in-haskell.html)
 * [Computational Geometry: Set Operations on Polytopes](https://maxow.github.io/posts/computational-geometry-set-operations-on-polytopes.html)
+* [Haskell for Numerics? | Maths, Stats & Functional Programming](https://idontgetoutmuch.wordpress.com/2017/06/02/1090/)
 
 ## 画像処理
 * [friday: A functional image processing library for Haskell.](https://hackage.haskell.org/package/friday)
