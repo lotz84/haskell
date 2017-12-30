@@ -31,6 +31,7 @@
 * [Search - haskell | Unixstickers](http://www.unixstickers.com/index.php?route=product/search&filter_name=haskell)
 * [Actually Using Haskell!](http://www.oredev.org/2017/sessions/actually-using-haskell)
 * [What Makes Haskell Unique](https://www.snoyman.com/blog/2017/12/what-makes-haskell-unique)
+* [Infinite Negative Utility: Some Notes About How I Write Haskell](https://blog.infinitenegativeutility.com/2017/12/some-notes-about-how-i-write-haskell)
 
 ## GHCi
 * [ghciでマルチバイト文字をエスケープせず表示させる](http://qiita.com/aosho235/items/bdfa4a68b77b9fcc4a35)
