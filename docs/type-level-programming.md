@@ -58,7 +58,6 @@
 * [Quotient Types for Programmers](http://www.hedonisticlearning.com/posts/quotient-types-for-programmers.html)
 * [Kris Jenkins - Types All The Way Down](https://www.youtube.com/watch?v=sh4H8yzXnvw&feature=youtu.be)
 * [Proxies and Delegation vs. Existential Types](http://notes-on-haskell.blogspot.jp/2007/01/proxies-and-delegation-vs-existential.html)
-
 * [NLambda](http://www.mimuw.edu.pl/~szynwelski/nlambda/doc/)
 * [Scrap Your Constructors: Church Encoding Algebraic Types](http://programmable.computer/posts/church_encoding.html)
 * [Theorem Prover Haskellの紹介](http://myuon-myon.hatenablog.com/entry/2016/12/01/221636)
@@ -89,6 +88,7 @@
 * [しりとりの圏の実装(未完) - Qiita](https://qiita.com/hiratara/items/6265b5d4791144bee33b)
 * [しりとりの圏の回答、または定理証明Haskellを少しだけ - Qiita](https://qiita.com/as_capabl/items/2031fe28e577e77dc269)
 * [あいや☆ぱぶりっしゅぶろぐ！ - baseパッケージにある型レベルプログラミング探検の旅](http://aiya000.github.io/posts/2017-12-03-type-programming-in-base.html)
+* [Kindについて - Qiita](https://qiita.com/ryoppy/items/7156d587da2e6ae7e605)
 
 ```haskell
 data Bottom
@@ -157,6 +157,7 @@ circum (Circle _ _ r) = …
 * [Refinement Reflection on ADTs: Lists Are Monoids](http://goto.ucsd.edu/~rjhala/liquid/haskell/blog/blog/2016/10/06/structural-induction.lhs/)
 * [Haskell (GHC) の型レベル自然数とリフレクションを試してみる](http://d-poppo.nazo.cc/blog/2016/10/haskell-type-level-naturals-and-reflection/)
 * [Reflecting values to types and back](https://www.fpcomplete.com/user/thoughtpolice/using-reflection)
+* [型を実行時に作る：怖くないリフレクション - Qiita](https://qiita.com/mod_poppo/items/50ad2c0ee66171cc1ee9)
 
 ## Type Inference
 * [Introduction to Type Inference](https://www.youtube.com/watch?v=il3gD7XMdmA)
@@ -217,6 +218,7 @@ circum (Circle _ _ r) = …
 * [Transforming data structures into types: an introduction to dependent typing and its benefits](https://deque.blog/2017/09/20/data-structure-into-types/)
 * [Overlapping and Order-Independent Patterns - Definitional Equality for All](https://lirias.kuleuven.be/bitstream/123456789/442509/1/main.pdf)
 * [Dependent Types in Haskell](https://haskell-serbia.com/tutorial/4)
+* [依存型の紹介と応用としてのClashの紹介 - Qiita](https://qiita.com/junjihashimoto@github/items/31f245f5e0138e5fac7e)
 
 ```haskell
 {-# LANGUAGE GADTs, DataKinds, KindSignatures, TypeFamilies #-}
