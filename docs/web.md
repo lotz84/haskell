@@ -12,6 +12,7 @@ Index
     * [Lucid](https://github.com/lotz84/haskell/blob/master/docs/web.md#lucid)
 * [Back end](https://github.com/lotz84/haskell/blob/master/docs/web.md#back-end)
   * [Web Server](https://github.com/lotz84/haskell/blob/master/docs/web.md#web-server)
+    * [ネットワークプログラミング](https://github.com/lotz84/haskell/blob/master/docs/web.md#ネットワークプログラミング)
     * [WAI/Warp](https://github.com/lotz84/haskell/blob/master/docs/web.md#waiwarp)
   * [Web Application Framework](https://github.com/lotz84/haskell/blob/master/docs/web.md#web-application-framework)
     * [比較](https://github.com/lotz84/haskell/blob/master/docs/web.md#比較)
@@ -220,6 +221,14 @@ Web Server
 * [ChrisPenner/Firefly](https://github.com/ChrisPenner/firefly) - Simple Haskell http framework
 * [modern-uri: Modern library for working with URIs](https://hackage.haskell.org/package/modern-uri)
 
+### ネットワークプログラミング
+* [network: Low-level networking interface](https://hackage.haskell.org/package/network)
+* [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)
+* [Haskell でソケット通信をやってみる](http://yasutech.blogspot.jp/2012/01/haskell.html)
+* [socket](https://hackage.haskell.org/package/socket)
+* [vincenthz/hs-connection](https://github.com/vincenthz/hs-connection)
+* TLS/SSL implementation in haskell - [vincenthz/hs-tls](https://github.com/vincenthz/hs-tls)
+
 ### WAI/Warp
 * [Haskell版フォルダを指定してhttpで公開する簡易Webサーバー](http://qiita.com/saturday06/items/fad44a9bc49b2f387bde)
 * [wai](https://hackage.haskell.org/package/wai)
@@ -401,7 +410,10 @@ Web Application Framework
 * [Adding a very naive in-memory cache to my Haskell web app](https://vadosware.io/post/adding-naive-in-memory-caching-to-my-haskell-webapp/)
 * [servant+persistentを利用する - Qiita](https://qiita.com/jabaraster/items/e8ebbe6d25b535947aba)
 * [Haskell・Servant+Persistent/Esqueletoで作る実用WebAPI (1) Servantの基本 - Qiita](https://qiita.com/cyclone_t/items/52ad44cfbb4603e123f3)
+* [Haskell・Servant+Persistent/Esqueletoで作る実用WebAPI (2) Persistent - Qiita](https://qiita.com/cyclone_t/items/e348e3f58aff7aa1482e)
+* [Haskell・Servant+Persistent/Esqueletoで作る実用WebAPI (3) Esqueleto - Qiita](https://qiita.com/cyclone_t/items/7b18c885a5d1b753a81c)
 * [Haskell・Servant+Persistent/Esqueletoで作る実用WebAPI (4) ServantとPersistent/Esqueletoを結合する - Qiita](https://qiita.com/cyclone_t/items/8b5a80162c4dff3a8770)
+* [slack-api + bloodhound + servant でbot+αを作る](http://blog.nakaji.me/slack-api-bloodhound-servant/)
 
 ### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
@@ -536,12 +548,8 @@ Others
 * [jdreaver/stratosphere](https://github.com/jdreaver/stratosphere)
 * [kazu-yamamoto/http2](https://github.com/kazu-yamamoto/http2)
 * [Haskell compute PaaS with sparkle](http://blog.tweag.io/posts/2016-06-20-haskell-compute-paas-with-sparkle.html)
-* [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)
-* [Haskell でソケット通信をやってみる](http://yasutech.blogspot.jp/2012/01/haskell.html)
-* [socket](https://hackage.haskell.org/package/socket)
 * [HaNS](https://hackage.haskell.org/package/hans)
-* TLS/SSL implementation in haskell - [vincenthz/hs-tls](https://github.com/vincenthz/hs-tls)
-* [vincenthz/hs-connection](https://github.com/vincenthz/hs-connection)
 * [fizruk/http-api-data](https://github.com/fizruk/http-api-data)
 * [Welcome to marvin’s documentation! — marvin 0.1.5-β documentation](https://marvin.readthedocs.io/en/latest/)
 * [Dokku環境を構築してHaskellのアプリケーションをデプロイする - Qiita](https://qiita.com/yukiasai/items/248294a871d40c0dcef6)
+* [お天気Bot で理解する Haskell の便利パッケージ - Qiita](https://qiita.com/rounddelta/items/807866bdaa81c3057ac0)
