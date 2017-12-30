@@ -154,6 +154,7 @@ circum (Circle _ _ r) = …
 * [Type Systems as Macros](http://www.ccs.neu.edu/home/stchang/popl2017/)
 * [Generic unification](https://ro-che.info/articles/2017-06-17-generic-unification)
 * [Infernal Types](https://goc.vivint.com/problems/hm)
+* [[1711.04718] A Type Checking Algorithm for Higher-rank, Impredicative and Second-order Types](https://arxiv.org/abs/1711.04718)
 
 ## Parametricity
 * [Theorems for free!](http://www.cs.sfu.ca/CourseCentral/831/burton/Notes/July14/free.pdf)
