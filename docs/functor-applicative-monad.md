@@ -197,6 +197,7 @@ class Monad m where
 * [作って理解する Haskell の Monad - Qiita](https://qiita.com/satosystems/items/e8788f05924cef226493)
 * [Monads in Minutes](http://ebencowley.com/resources/docs/articles/monadsInMinutes.html)
 * [Monadic “do” block, yet again – Techscape](https://blog.ramdoot.in/monadic-do-block-yet-again-a98cf0237b25)
+* [What is a Monad? - Computerphile - YouTube](https://www.youtube.com/watch?v=t1e8gqXLbsU)
 
 ```haskell
 do x <- mx
