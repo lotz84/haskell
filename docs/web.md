@@ -400,6 +400,7 @@ Web Application Framework
 * [ADDING (NAIVE) EMAIL TEMPLATING TO MY SERVANT-POWERED HASKELL WEB APPLICATION](https://vadosware.io/post/adding-email-templating-to-my-servant-app/)
 * [Adding a very naive in-memory cache to my Haskell web app](https://vadosware.io/post/adding-naive-in-memory-caching-to-my-haskell-webapp/)
 * [servant+persistentを利用する - Qiita](https://qiita.com/jabaraster/items/e8ebbe6d25b535947aba)
+* [Haskell・Servant+Persistent/Esqueletoで作る実用WebAPI (1) Servantの基本 - Qiita](https://qiita.com/cyclone_t/items/52ad44cfbb4603e123f3)
 
 ### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
@@ -460,6 +461,8 @@ Web Application Framework
 * [Yesod で現在のページがトップページかどうか判定する方法 - Qiita](http://qiita.com/waddlaw/items/ef46dec0b568a57fbde5)
 * [Hamlet で生成される HTML を minify する方法 - Qiita](http://qiita.com/waddlaw/items/7cffe2816d9ba7c0c434)
 * [reneklacan/yesod-heroku-example](https://github.com/reneklacan/yesod-heroku-example) - Minimal example of a pipeline for deploying Yesod app to Heroku through CircleCI.
+* [ゲーム販売webアプリケーションSYAKERAKEを支える技術,HaskellとYesodで作られています - ncaq](https://www.ncaq.net/2017/12/03/00/00/00/)
+* [Yesodで作る，業務外社内ツール - wvogel日記](http://d.hatena.ne.jp/wvogel00/20171222/1513924995)
 
 Protocol
 --------
