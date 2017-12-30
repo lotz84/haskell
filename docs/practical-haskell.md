@@ -333,3 +333,4 @@
 * [Transient: Full Algebraic and monadic composability by Alberto Gómez Corona](https://www.youtube.com/watch?v=wqfEX1big4o)
   * [transient-haskell/transient](https://github.com/transient-haskell/transient)
 * [Growing a software architecture with types](http://ocramz.github.io/haskell/2017/11/30/growing-software-architecture.html)
+* [Simon Peyton Jones Getting from A to B fast route finding on slow computers - YouTube](https://www.youtube.com/watch?v=L1XDdy-hOH8)
