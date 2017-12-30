@@ -26,7 +26,6 @@
 * [Using doctest-discover with Stack](http://blog.rcook.org/blog/2016/doctest-discover-stack/)
 * [Tests vs. Types](http://kevinmahoney.co.uk/articles/tests-vs-types/)
 * [Testing GHC with Stackage](https://www.fpcomplete.com/blog/2016/02/testing-ghc-with-stackage)
-* [Go言語でファジング](http://deeeet.com/writing/2015/12/21/go-fuzz/)
 * [Speeding up the automated building and testing of our Haskell projects](http://bitemyapp.com/posts/2016-03-28-speeding-up-builds.html)
 * [Fuzz testing distributed systems with QuickCheck](https://blog.pusher.com/fuzz-testing-distributed-systems-with-quickcheck/)
 * [Property-based Testing with QuickCheck in Playgrounds](http://blog.haskellformac.com/blog/property-based-testing-with-quickcheck-in-playgrounds)
@@ -55,6 +54,7 @@
 * [QuickFuzz Testing for Fun and Profit - YouTube](https://www.youtube.com/watch?v=yVCKp3uSq-Y)
 * [Writing a Concurrency Testing Library (Part 1)](https://www.barrucadu.co.uk/posts/concurrency/2017-10-14-writing-a-concurrency-testing-library-01.html)
 * [Introduction to golden testing](https://ro-che.info/articles/2017-12-04-golden-tests)
+* [Neil Mitchell's Haskell Blog: Understanding HLint rules](http://neilmitchell.blogspot.jp/2017/11/understanding-hlint-rules.html)
 
 ### QuickCheck
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
