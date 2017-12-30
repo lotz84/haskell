@@ -399,6 +399,7 @@ Web Application Framework
 * [Authorization in Servant: Walkthrough (WIP)](https://ibnuda.gitlab.io/636452721192300168_authorizationinservant.html)
 * [ADDING (NAIVE) EMAIL TEMPLATING TO MY SERVANT-POWERED HASKELL WEB APPLICATION](https://vadosware.io/post/adding-email-templating-to-my-servant-app/)
 * [Adding a very naive in-memory cache to my Haskell web app](https://vadosware.io/post/adding-naive-in-memory-caching-to-my-haskell-webapp/)
+* [servant+persistentを利用する - Qiita](https://qiita.com/jabaraster/items/e8ebbe6d25b535947aba)
 
 ### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
