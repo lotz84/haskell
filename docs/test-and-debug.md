@@ -57,6 +57,7 @@
 * [Neil Mitchell's Haskell Blog: Understanding HLint rules](http://neilmitchell.blogspot.jp/2017/11/understanding-hlint-rules.html)
 * [将来も使えるテストスイート (和訳) - Qiita](https://qiita.com/rounddelta/items/31b835b493abf5be3549)
 * [HLint のルールを理解する (和訳) - Qiita](https://qiita.com/rounddelta/items/4584f5486c1061c93f0b)
+* [現在時刻をモックする Haskell ライブラリ time-machine を作ってみました - チェシャ猫の消滅定理](http://ccvanishing.hateblo.jp/entry/2017/11/27/070558)
 
 ### QuickCheck
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
