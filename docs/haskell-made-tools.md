@@ -344,6 +344,9 @@ Line 6:
 * Main repository of the Tamarin prover for security protocol verification.
 * <https://github.com/tamarin-prover/tamarin-prover>
 
+### Taskell
+* [smallhadroncollider/taskell: A command line task manager written in Haskell](https://github.com/smallhadroncollider/taskell)
+
 ### ThreadScope
 * A graphical tool for profiling parallel Haskell programs
 * <https://github.com/haskell/ThreadScope>
