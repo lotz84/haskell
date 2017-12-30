@@ -13,6 +13,7 @@
 * [m0ar/safe-streaming: Adaptation of the streaming library for increased safety through linear types. Summer of Haskell 2017 project.](https://github.com/m0ar/safe-streaming)
 * [[1710.09756] Linear Haskell: practical linearity in a higher-order polymorphic language](https://arxiv.org/abs/1710.09756)
 * [ghc-proposals/proposals/0000-linear-types.rst](https://github.com/tweag/ghc-proposals/blob/linear-types/proposals/0000-linear-types.rst)
+* [Tweag I/O - Making two garbage collectors be good neighbours <br/> (using linear types)](http://www.tweag.io/posts/2017-11-29-linear-jvm.html)
 
 ## Linear Type as DSL
 * [線形型つきドメイン特化言語 (DSL) を Haskell上に実装する](http://d.hatena.ne.jp/keigoi/20110806/1312604753)
