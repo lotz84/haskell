@@ -64,6 +64,7 @@
   * [「Haskell入門ハンズオン #2」の当日用の資料(2) - Qiita](https://qiita.com/YoshikuniJujo/items/6575706cf79f7260539c)
   * [「Haskell入門ハンズオン #2」の当日用資料(3) - Qiita](https://qiita.com/YoshikuniJujo/items/9b4aeab57e8f0175f7b8)
 * [Haskellの入門から中級者になるまでの指針 - Qiita](https://qiita.com/Lugendre/items/70e517e59698e0e435f5)
+* [これから Haskell を学ぶ人のための書籍紹介 - Qiita](https://qiita.com/waddlaw/items/dd926462d398c4cbd019)
 </details>
 
 <details>
