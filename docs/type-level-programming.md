@@ -1,3 +1,4 @@
+
 * [Kwang's Haskell Blog - Type-level insertion sort](http://kseo.github.io/posts/2017-01-30-type-level-insertion-sort.html)
 * [GHC.TypeLits](https://hackage.haskell.org/package/base/docs/GHC-TypeLits.html)
 * [Testing a type for (Eq a) in Haskell](http://stackoverflow.com/questions/28799005/testing-a-type-for-eq-a-in-haskell)
@@ -86,6 +87,7 @@
 * [Overlapping and Order-Independent Patterns](https://lirias.kuleuven.be/bitstream/123456789/442509/1/main.pdf)
 * [Introduction to Singletons (Part 1) · in Code](https://blog.jle.im/entry/introduction-to-singletons-1.html)
 * [しりとりの圏の実装(未完) - Qiita](https://qiita.com/hiratara/items/6265b5d4791144bee33b)
+* [しりとりの圏の回答、または定理証明Haskellを少しだけ - Qiita](https://qiita.com/as_capabl/items/2031fe28e577e77dc269)
 
 ```haskell
 data Bottom
