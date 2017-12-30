@@ -324,6 +324,7 @@ Reader + Writer + State
 * [A newcomer's run-in with lazy I/O](https://ianthehenry.com/2016/3/9/lazy-io/)
 * [IO Monad Considered Harmful](https://blog.jle.im/entry/io-monad-considered-harmful.html)
 * [Day 1: IO — Our Ugly Friend](https://medium.com/twelve-days-of-monad/day-1-io-our-ugly-friend-e9ddfc621978#.1mhu8uvgr)
+* [Sneaky Implicit Mutation – Fintan Halpenny – Medium](https://medium.com/@fintan.halpenny/sneaky-implicit-mutation-b7302c77983b)
 
 ### Monad*
 * [2 07 Supermonads: One Notion to Bind them All](https://www.youtube.com/watch?v=HRofw58sySw)
