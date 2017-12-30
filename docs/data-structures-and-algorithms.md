@@ -98,6 +98,7 @@
 * [探索問題を Haskell で解く - Qiita](https://qiita.com/ryohji/items/d8bdba1648978c308cdd)
 * [カタラン数は語る（Haskell で Catalan数的組み合わせを生成する関数） - Qiita](https://qiita.com/lambda_x_x/items/4dc64bf12353dab55950)
 * [区間代数と無限小と無限大 - Qiita](https://qiita.com/makoraru/items/768089b2aab1dde47593)
+* [永続リアルタイムキューのHaskell実装と計算量解析 - autotaker's blog](http://autotaker.hatenablog.com/entry/2017/12/21/125153)
 
 ### ソート
 * [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
