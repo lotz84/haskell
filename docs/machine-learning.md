@@ -32,6 +32,7 @@
 * [Recursive Stochastic Processes · jtobin.io](https://jtobin.io/recursive-stochastic-processes)
 * [Haskell: Data Analysis Made Easy | PACKT Books](https://www.packtpub.com/big-data-and-business-intelligence/haskell-data-analysis-made-easy)
 * [HaskellでMNISTを使えるようにする - Qiita](http://qiita.com/ku00/items/2a8166735edb32b5766d)
+* [巡回セールスマン問題を遺伝的アルゴリズムを使ってHaskellで解く！ - Qiita](https://qiita.com/v97ug/items/d6dd50a2b6b84a9e4d41)
 
 ## HaskellR
 * [HaskellR](http://tweag.github.io/HaskellR/)
