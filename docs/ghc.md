@@ -87,6 +87,7 @@
 * [haskell - What is Levity polymorphism - Stack Overflow](https://stackoverflow.com/questions/35318562/what-is-levity-polymorphism)
 * [Relocatable GHC Cross Compiler Binary Distributions](https://medium.com/@zw3rk/relocatable-ghc-cross-compiler-binary-distributions-f55080b837b1)
 * [Building GHC: The Stages – zw3rk – Medium](https://medium.com/@zw3rk/building-ghc-the-stages-2c6cf6fc4b29)
+* [Contributing to GHC – zw3rk – Medium](https://medium.com/@zw3rk/contributing-to-ghc-290653b63147)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
