@@ -11,6 +11,7 @@ $ alias ghc='stack ghc --'
 $ alias ghci='stack ghci --'
 ```
 
+* [WindowsでのHaskell開発環境構築(2017年秋版) - モナドとわたしとコモナド](http://fumieval.hatenablog.com/entry/2017/10/11/230117)
 * [commercialhaskell/jump](https://github.com/commercialhaskell/jump)
 * [Haskell Pad](http://www.haskellpad.org/)
 
