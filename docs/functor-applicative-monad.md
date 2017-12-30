@@ -77,6 +77,8 @@ class Functor f => Applicative f where
 * [Applicative スタイル `f <$> m1 <*> m2` を読み解く - Qiita](http://qiita.com/DUxCA/items/2f2bb996ba4b5a2e4f07)
 * [Functorial Blog - Co Finds a Pairing](http://blog.functorial.com/posts/2017-12-10-Co-Finds-A-Pairing.html)
 * [Applicative functors in Haskell – Lazy Eval – Medium](https://medium.com/lazy-eval/applicative-functors-in-haskell-f509e1c764d3)
+* [Applicative Functors and data validation](https://carlosmchica.github.io/applicatives-validation/)
+* [Applicative Functors and data validation | Codurance | Craft at Heart | London | Barcelona](https://codurance.com/2017/11/30/applicatives-validation/)
 
 ### Discrimination
 * [discrimination](http://hackage.haskell.org/package/discrimination)
