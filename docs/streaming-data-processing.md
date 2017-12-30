@@ -100,3 +100,5 @@ main = do
 * [Tweag I/O - How to compose streaming programs](http://www.tweag.io/posts/2017-10-05-streaming2.html)
 * [THE EXODUS TO STREAMGARD, AN EPIC POEM](http://www.tweag.io/posts/2017-11-01-streaming-and-foldl.html)
 * [Event Sourcing is a transferable skill | Arkency Blog](https://blog.arkency.com/event-sourcing-is-a-transferable-skill/)
+* [Exploiting Vector Instructions with Generalized Stream Fusion | Lambda the Ultimate](http://lambda-the-ultimate.org/node/5485)
+
