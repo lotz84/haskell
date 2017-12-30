@@ -16,6 +16,7 @@ Template Haskell はHaskellの言語仕様には無くGHCの独自拡張なの�
 * [maxigit/Metamorphosis: TemplateHaskell functions to generate types and converter function.](https://github.com/maxigit/Metamorphosis)
 * [Template Haskell – zw3rk – Medium](https://medium.com/@zw3rk/template-haskell-75c7b67f9718)
 * [Bloggy Badger: Composing Declarations in Template Haskell](http://gelisam.blogspot.jp/2017/10/composing-declarations-in-template.html)
+* [Template Haskell tutorial](https://markkarpov.com/tutorial/th.html)
 
 ```haskell
 {-# LANGUAGE QuasiQuotes #-}
