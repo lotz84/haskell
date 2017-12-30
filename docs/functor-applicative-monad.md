@@ -368,3 +368,4 @@ Reader + Writer + State
 * [Arrowの話をしよう　(2)不動点と再帰 - haxis_fxの日記](http://d.hatena.ne.jp/haxis_fx/20110726/1311657175)
 * [Bartosz Milewski - Arrows are strong profunctors](https://www.youtube.com/watch?v=hrNfkP8iKAs)
 * [Higher-order abstract syntax for any CCC!](https://gist.github.com/paf31/5c1279796d66fe04a177e34b0d674ac6)
+* [Arrowを理解する - Qiita](https://qiita.com/Lugendre/items/6b4a8c8a9c85fcdcb292)
