@@ -360,6 +360,9 @@ Reader + Writer + State
 * [Indexed Monadの世界](http://fumieval.hatenablog.com/entry/2013/05/04/144840)
 * [Motor: Finite-State Machines in Haskell | Func Da World](https://wickstrom.tech/programming/2017/10/27/motor-finite-state-machines-haskell.html)
 
+### Super Monad
+* [スーパーモナドについて - Qiita](https://qiita.com/wgag/items/11a6e667011d530832e8)
+
 ## Arrow
 * [Haskell/Arrows - Wikibooks](https://ja.wikibooks.org/wiki/Haskell/Arrows)
 * [ArrowによるHaskellプログラミングの基礎。…パイプ感覚で順次/分岐/繰返し - よくわかりません](http://d.hatena.ne.jp/r-west/20070720/1184946510)
