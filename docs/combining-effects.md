@@ -57,6 +57,7 @@ Monad Transformer
 * [モナドをラップする話](http://qiita.com/ruicc/items/175cc23f13d6004d8b3d)
 * [Ether - Monad Transformers and Classes](https://int-index.github.io/ether/)
 * [Monad transformers and comonad transformers](http://dlaing.org/cofun/posts/monad_transformers_and_comonad_transformers.html)
+* [Haskell Application Monad](https://savanni.luminescent-dreams.com/page/haskell-app-monad)
 
 ### モナド準同型
 * [The mmorph package](https://hackage.haskell.org/package/mmorph)
