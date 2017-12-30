@@ -88,6 +88,7 @@
 * [Computing with Impossible Types](http://gelisam.blogspot.jp/2017/11/computing-with-impossible-types.html)
 * [Constructing Dependent Vectors](https://ipfs.io/ipfs/QmT9BRYANsGddN52eMsC3JGNwStbda5h8Zirm2gCmyjb8p/blog/constructing-vectors/)
 * [[Haskell-cafe] [ANN]: fin & vec](https://mail.haskell.org/pipermail/haskell-cafe/2017-November/128195.html)
+* [Dependent Types in Haskell](https://haskell-serbia.com/tutorial/4)
 
 ```haskell
 data Bottom
