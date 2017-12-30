@@ -59,6 +59,7 @@
 * [Evaluation of Libraries for Parallel Computing in Haskell](https://www.jstage.jst.go.jp/article/ipsjjip/25/0/25_308/_pdf)
 * [PARALLELISING YOUR ARRAY CODE](http://www.tweag.io/posts/2017-11-16-repa.html)
 * [Reasoning About Program Behavior Algebraically](http://dev.stephendiehl.com/types_behavior.pdf)
+* [The Haskell Concurrency Primitive Shootout – codeburst](https://codeburst.io/the-haskell-concurrency-primitive-shootout-538c21993f1c)
 
 ## 並行
 * [RAM footprint per unit of concurrency (approx)](http://bob.ippoli.to/haskell-for-erlangers-2014/#/cost-of-concurrency)
