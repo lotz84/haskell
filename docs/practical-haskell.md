@@ -357,3 +357,6 @@
 * [やる気の出ない計算機科学シリーズ その1 初めてのFormura - Qiita](https://qiita.com/hrontan/items/ae8b3d5f8e999525f4b9)
 * [パス名がShift_JISで格納されたzipファイルの展開ツールをHaskellで書いた話 - Qiita](https://qiita.com/cobodo/items/a41fa118ec878c8aa606)
 * [Anatomy of a Haskell-based Application, Revisited :: Capital Match Tech Blog](https://tech-blog.capital-match.com/posts/3-anatomy-of-haskell-web-app.html)
+* [A Tour of Go in Haskellを作ったのと、GoとHaskellの比較 - syocy’s diary](http://syocy.hatenablog.com/entry/a-tour-of-go-in-haskell)
+* [HaskellのABC(Haskell Advent Calendar 6th) - モナドとわたしとコモナド](http://fumieval.hatenablog.com/entry/2017/12/19/203500)
+
