@@ -7,7 +7,6 @@
 * [Haskellのforallについて理解したことを書いておく(ランクN多相限定)。](http://uehaj.hatenablog.com/entry/2014/01/23/121923)
 * [Existentials and the heterogenous list fallacy](http://chrisdone.com/posts/existentials)
 * [Is there a function to flatten a nested list of elements?](http://stackoverflow.com/questions/5994051/is-there-a-function-to-flatten-a-nested-list-of-elements)
-* [Reflecting values to types and back](https://www.fpcomplete.com/user/thoughtpolice/using-reflection)
 * [TYPE COMPREHENSION](https://elvishjerricco.wordpress.com/2015/08/08/type-comprehension/)
 * [k0001/exinst](https://github.com/k0001/exinst/blob/master/exinst/README.md)
 * [関西関数型道場 - 第参回 S3 「型レベルプログラミング」](https://www.youtube.com/watch?v=9oamYtuzuZQ)
@@ -51,19 +50,14 @@
 * [No value restriction is needed for algebraic effects and handlers](https://arxiv.org/abs/1605.06938)
 * [Indexed Codata Types](http://www.cs.mcgill.ca/~bpientka/papers/indexed_codata.pdf)
 * [Church’s Thesis and Functional Programming](https://www.cs.kent.ac.uk/people/staff/dat/miranda/ctfp.pdf)
-* [The reflection package](https://hackage.haskell.org/package/reflection)
-* [Lost in Technopolis - A case of reflection](http://newartisans.com/2017/02/a-case-of-reflection/)
-* [Data.Reflection](http://qiita.com/hiratara/items/c5e32d5695c4e0682cf9)
 * [sheyll/pretty-types](https://github.com/sheyll/pretty-types)
 * [This post shows how to use the Liar paradox to prove that that Haskell is inconsistent without using recursive terms.](http://cs.unm.edu/~stelleg/liar.html)
 * [たのしい型レベルプログラミング](http://philopon.github.io/kansaifp-3-3/#/1)
-* [Typed reflection in Haskell](https://www.microsoft.com/en-us/research/publication/typed-reflection-in-haskell/)
 * [Haskell/存在量化された型](https://ja.wikibooks.org/wiki/Haskell/%E5%AD%98%E5%9C%A8%E9%87%8F%E5%8C%96%E3%81%95%E3%82%8C%E3%81%9F%E5%9E%8B)
 * [Quotient Types for Programmers](http://www.hedonisticlearning.com/posts/quotient-types-for-programmers.html)
 * [Kris Jenkins - Types All The Way Down](https://www.youtube.com/watch?v=sh4H8yzXnvw&feature=youtu.be)
-* [Haskell (GHC) の型レベル自然数とリフレクションを試してみる](http://d-poppo.nazo.cc/blog/2016/10/haskell-type-level-naturals-and-reflection/)
 * [Proxies and Delegation vs. Existential Types](http://notes-on-haskell.blogspot.jp/2007/01/proxies-and-delegation-vs-existential.html)
-* [Refinement Reflection on ADTs: Lists Are Monoids](http://goto.ucsd.edu/~rjhala/liquid/haskell/blog/blog/2016/10/06/structural-induction.lhs/)
+
 * [NLambda](http://www.mimuw.edu.pl/~szynwelski/nlambda/doc/)
 * [Scrap Your Constructors: Church Encoding Algebraic Types](http://programmable.computer/posts/church_encoding.html)
 * [Theorem Prover Haskellの紹介](http://myuon-myon.hatenablog.com/entry/2016/12/01/221636)
@@ -150,7 +144,17 @@ circum (Circle _ _ r) = …
 
 <https://www.reddit.com/r/haskell/comments/2jsz4t/function_on_a_single_member_of_a_sum_type/clevra9>
 
-### Type Inference
+## Reflection
+* [The reflection package](https://hackage.haskell.org/package/reflection)
+* [Lost in Technopolis - A case of reflection](http://newartisans.com/2017/02/a-case-of-reflection/)
+* [Tweag I/O - All about reflection:<br/> a tutorial](http://www.tweag.io/posts/2017-12-21-reflection-tutorial.html)
+* [Data.Reflection](http://qiita.com/hiratara/items/c5e32d5695c4e0682cf9)
+* [Typed reflection in Haskell](https://www.microsoft.com/en-us/research/publication/typed-reflection-in-haskell/)
+* [Refinement Reflection on ADTs: Lists Are Monoids](http://goto.ucsd.edu/~rjhala/liquid/haskell/blog/blog/2016/10/06/structural-induction.lhs/)
+* [Haskell (GHC) の型レベル自然数とリフレクションを試してみる](http://d-poppo.nazo.cc/blog/2016/10/haskell-type-level-naturals-and-reflection/)
+* [Reflecting values to types and back](https://www.fpcomplete.com/user/thoughtpolice/using-reflection)
+
+## Type Inference
 * [Introduction to Type Inference](https://www.youtube.com/watch?v=il3gD7XMdmA)
 * [第 16 章 Hindley/Milner 型推論](http://www29.atwiki.jp/tmiya/pages/78.html)
 * [An Explanation of Type Inference for ML/Haskell](http://jozefg.bitbucket.org/posts/2015-02-28-type-inference.html)
