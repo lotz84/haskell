@@ -68,3 +68,4 @@
 * [Reflecting on Haskell in 2016](http://www.stephendiehl.com/posts/haskell_2017.html)
 * [Haskell News](http://haskellnews.org/)
 * [Awesome Haskell](https://haskell.libhunt.com/)
+* [Reflecting on Haskell in 2017](http://www.stephendiehl.com/posts/haskell_2018.html)
