@@ -156,6 +156,7 @@
 * [STATIC BINARIES FOR HASKELL: A CONVOLUTED APPROACH](https://vadosware.io/post/static-binaries-for-haskell-a-convoluted-approach/)
 * [Building Haskell Apps with Docker](https://www.fpcomplete.com/blog/2017/12/building-haskell-apps-with-docker)
 * [Shrinking Haskell Docker images using multi-stage builds | Codurance | Craft at Heart | London | Barcelona](https://codurance.com/2017/12/21/docker-multistage-haskell/)
+* [Haskell on Docker で Portable CLI を作ろう - Qiita](https://qiita.com/algas/items/fde155abbc9d8ae3f8c9)
 
 ## CI
 * [Shake](http://shakebuild.com/)
