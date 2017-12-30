@@ -74,6 +74,7 @@ class IsLabel (x :: Symbol) a where
 具体的に `IsLabel` のインスタンスが定義されるわけではないので `OverloadedLabels` だけでは使いみちは少ないが将来的にレコードが宣言されると適切なインスタンスが自動的に生成されることを予定している。
 
 * [GHC.OverloadedLabels](https://hackage.haskell.org/package/base-4.10.0.0/docs/GHC-OverloadedLabels.html)
+* [OverloadedLabels と Haskell Relational Record - khibino blog](http://khibino.hatenadiary.jp/entry/2017/12/18/081814)
 
 GHC 8.0 で既に実装されている
 
