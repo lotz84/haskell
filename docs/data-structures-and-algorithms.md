@@ -99,6 +99,7 @@
 * [カタラン数は語る（Haskell で Catalan数的組み合わせを生成する関数） - Qiita](https://qiita.com/lambda_x_x/items/4dc64bf12353dab55950)
 * [区間代数と無限小と無限大 - Qiita](https://qiita.com/makoraru/items/768089b2aab1dde47593)
 * [永続リアルタイムキューのHaskell実装と計算量解析 - autotaker's blog](http://autotaker.hatenablog.com/entry/2017/12/21/125153)
+* [部分構造の共有を観測するdata-reify - Qiita](https://qiita.com/masahiro_sakai/items/6a989d5b898a08f17821)
 
 ### ソート
 * [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
@@ -121,6 +122,7 @@
 * [Realtime collaborative editor. Algebraic properties of the problem.](http://blog.haskell-exists.com/yuras/posts/realtime-collaborative-editor.html)
 * [Algebraic blindness](https://github.com/quchen/articles/blob/master/algebraic-blindness.md)
 * [Haskellで「ひらけ！ポンキッキ」 (文字列の回転) - Qiita](http://qiita.com/nobsun/items/0f453affdcdd45f2982a)
+* [Haskell上で有限体を使って遊ぶ - Qiita](https://qiita.com/NaOHaq/items/ba490cc1e1ab890cb399)
 
 ### バイナリ
 * [The binary package](https://hackage.haskell.org/package/binary)
