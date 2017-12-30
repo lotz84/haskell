@@ -88,6 +88,7 @@
 * [Relocatable GHC Cross Compiler Binary Distributions](https://medium.com/@zw3rk/relocatable-ghc-cross-compiler-binary-distributions-f55080b837b1)
 * [Building GHC: The Stages – zw3rk – Medium](https://medium.com/@zw3rk/building-ghc-the-stages-2c6cf6fc4b29)
 * [Contributing to GHC – zw3rk – Medium](https://medium.com/@zw3rk/contributing-to-ghc-290653b63147)
+* [GHCでの中置演算子のパース - Qiita](https://qiita.com/takoeight0821/items/9a1c3eb5b0f292026596)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
