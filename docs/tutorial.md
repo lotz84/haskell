@@ -65,6 +65,7 @@
 
 <details>
 <summary>英語チュートリアル</summary>
+* [Haskell Notes for Professionals book](http://books.goalkicker.com/HaskellBook/)
 * [Reading Simple Haskell](https://soupi.github.io/rfc/reading_simple_haskell/)
 * [Keynote: Why Functional Programming Matters - John Hughes, Mary Sheeran (Lambda Days 2017) - YouTube](https://www.youtube.com/watch?v=1qBHf8DrWR8)
 * [Functional Programming in Haskell: Supercharge Your Coding](https://www.futurelearn.com/courses/functional-programming-haskell/1/)
