@@ -45,6 +45,7 @@
 * [AnkiWeb - Haskell lens operators](https://ankiweb.net/shared/info/1994529308)
 * [Quick and easy user-defined operators with Plated](https://qfpl.io/posts/quick-and-easy-user-defined-operators/)
 * [Announcing generic-lens 0.5.0.0 – ( )](http://kcsongor.github.io/generic-lens/)
+* [Oleg's gists - Functor Optics](http://oleg.fi/gists/posts/2017-12-23-functor-optics.html)
 
 > Thus the Yoneda embedding of the functor category leads to the van Laarhoven representation of the lens
 
