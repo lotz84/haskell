@@ -95,6 +95,7 @@ Monad Transformer
 * [Rank 'n Classy Limited Effects](http://www.parsonsmatt.org/2016/07/14/rank_n_classy_limited_effects.html)
 * [Composing Monads Using Coproducts](http://www.informatik.uni-bremen.de/~cxl/papers/icfp02.pdf)
 * [Fusion for Free: Efficient Algebraic Effect Handlers](http://people.cs.kuleuven.be/~tom.schrijvers/portfolio/mpc2015.html)
+* [Continuation passing style Free Monads and direct style Free Monads – Deque](https://deque.blog/2017/12/08/continuation-passing-style-free-monads-and-direct-style-free-monads/)
 
 ## 属性文法
 * [なぜ属性文法は重要か](https://sites.google.com/site/paclearner/why_attribute_grammars_matter)
