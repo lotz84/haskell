@@ -34,6 +34,7 @@ main = print (sum [1..10])
 * [Follow up on mapM_ - Michael Snoyman's blog](http://www.snoyman.com/blog/2017/01/follow-up-mapm)
 * [haskell - Is there any way to inline a recursive function? - Stack Overflow](https://stackoverflow.com/questions/42179783/is-there-any-way-to-inline-a-recursive-function)
 * [余再帰あれこれ](https://gist.github.com/uduki/4030269)
+* [goな関数 - あどけない話](http://d.hatena.ne.jp/kazu-yamamoto/20171212/1513050147)
 
 ## map, filter, foldr
 
