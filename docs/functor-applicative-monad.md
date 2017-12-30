@@ -373,3 +373,6 @@ Reader + Writer + State
 * [Bartosz Milewski - Arrows are strong profunctors](https://www.youtube.com/watch?v=hrNfkP8iKAs)
 * [Higher-order abstract syntax for any CCC!](https://gist.github.com/paf31/5c1279796d66fe04a177e34b0d674ac6)
 * [Arrowを理解する - Qiita](https://qiita.com/Lugendre/items/6b4a8c8a9c85fcdcb292)
+
+### Others
+* [Haskellと層 - Qiita](https://qiita.com/makoraru/items/ab891a60d4dfe4bbf649)
