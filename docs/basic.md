@@ -80,6 +80,7 @@ type a * b = (a, b)
 * [Eastman maximal comma-free codes in Haskell](https://byorgey.wordpress.com/2016/07/07/eastman-maximal-comma-free-codes-in-haskell/)
 * [Descriptive Variable Names: A Code Smell](http://degoes.net/articles/insufficiently-polymorphic)
 * [map関数](http://qiita.com/knknkn1162/items/92de8dd250ff94cd86f1)
+* [zudov/24-days-of-syntactic-witchery: Aligning characters for fun and profit, with Haskell and PureScript](https://github.com/zudov/24-days-of-syntactic-witchery)
 
 ### パターンマッチ
 * [Pattern matching](http://mbps.hatenablog.com/entry/2014/10/04/010000)
