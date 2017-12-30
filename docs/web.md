@@ -401,6 +401,7 @@ Web Application Framework
 * [Adding a very naive in-memory cache to my Haskell web app](https://vadosware.io/post/adding-naive-in-memory-caching-to-my-haskell-webapp/)
 * [servant+persistentを利用する - Qiita](https://qiita.com/jabaraster/items/e8ebbe6d25b535947aba)
 * [Haskell・Servant+Persistent/Esqueletoで作る実用WebAPI (1) Servantの基本 - Qiita](https://qiita.com/cyclone_t/items/52ad44cfbb4603e123f3)
+* [Haskell・Servant+Persistent/Esqueletoで作る実用WebAPI (4) ServantとPersistent/Esqueletoを結合する - Qiita](https://qiita.com/cyclone_t/items/8b5a80162c4dff3a8770)
 
 ### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
