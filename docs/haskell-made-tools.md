@@ -287,6 +287,9 @@ success
 * [Rasa - Modular Text-Editor](https://www.reddit.com/r/haskell/comments/5l0a2i/rasa_modular_texteditor/)
 * <https://github.com/ChrisPenner/rasa>
 
+### vado
+* [chrisdone/vado: A web browser engine written in Haskell](https://github.com/chrisdone/vado)
+
 ### vgrep
 * A pager for grep
 * <https://github.com/fmthoma/vgrep>
