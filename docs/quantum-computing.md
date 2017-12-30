@@ -16,3 +16,4 @@
 * [Haskell で振動子](http://d.hatena.ne.jp/webapp/20110508)
 * [Introducing the Hamilton library](https://blog.jle.im/entry/introducing-the-hamilton-library.html)
 * [Type safe dimensional analysis in Haskell | Stephan Boyer](https://www.stephanboyer.com/post/131/type-safe-dimensional-analysis-in-haskell)
+* [Hamiltonian Dynamics in Haskell · in Code](https://blog.jle.im/entry/hamiltonian-dynamics-in-haskell.html)
