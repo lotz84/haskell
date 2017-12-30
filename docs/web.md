@@ -397,6 +397,7 @@ Web Application Framework
 * [ADDING SQLITE POWERED FTS SEARCH TO A SERVANT POWERED HASKELL APP](https://vadosware.io/post/adding-sqlite-powered-fts-search-to-a-servant-powered-haskell-app/)
 * [Authorization in Servant: Walkthrough (WIP)](https://ibnuda.gitlab.io/636452721192300168_authorizationinservant.html)
 * [ADDING (NAIVE) EMAIL TEMPLATING TO MY SERVANT-POWERED HASKELL WEB APPLICATION](https://vadosware.io/post/adding-email-templating-to-my-servant-app/)
+* [Adding a very naive in-memory cache to my Haskell web app](https://vadosware.io/post/adding-naive-in-memory-caching-to-my-haskell-webapp/)
 
 ### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
