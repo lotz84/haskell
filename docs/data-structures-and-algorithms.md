@@ -221,6 +221,9 @@
 * [Persistent Red Black Trees in Haskell](https://abhiroop.github.io/Haskell-Red-Black-Tree/)
   * [Persistent Red Black Trees in Haskell](https://functional.works-hub.com/blog/Persistent-Red-Black-Trees-in-Haskell)
 
+### Map
+* [tim philip williams :: Functional pearl: Nested Datacubes](http://www.timphilipwilliams.com/posts/2017-04-12-nested-datacubes.html)
+
 ### Graph
 * [FP Graph Algorithms](http://begriffs.com/posts/2015-09-04-pure-functional-graphs.html)
 * [fgl](http://hackage.haskell.org/package/fgl)
