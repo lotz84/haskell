@@ -90,6 +90,7 @@
 * [[Haskell-cafe] [ANN]: fin & vec](https://mail.haskell.org/pipermail/haskell-cafe/2017-November/128195.html)
 * [Dependent Types in Haskell](https://haskell-serbia.com/tutorial/4)
 * [Overlapping and Order-Independent Patterns](https://lirias.kuleuven.be/bitstream/123456789/442509/1/main.pdf)
+* [Introduction to Singletons (Part 1) · in Code](https://blog.jle.im/entry/introduction-to-singletons-1.html)
 
 ```haskell
 data Bottom
