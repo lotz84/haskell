@@ -86,6 +86,7 @@
 * [Existential Quantification Patterns and Antipatterns](https://medium.com/@jonathangfischoff/existential-quantification-patterns-and-antipatterns-3b7b683b7d71)
 * [GHCのforallと多相性への対処 - Qiita](https://qiita.com/ruicc/items/0818dd093349b0b0a838)
 * [Computing with Impossible Types](http://gelisam.blogspot.jp/2017/11/computing-with-impossible-types.html)
+* [Constructing Dependent Vectors](https://ipfs.io/ipfs/QmT9BRYANsGddN52eMsC3JGNwStbda5h8Zirm2gCmyjb8p/blog/constructing-vectors/)
 
 ```haskell
 data Bottom
