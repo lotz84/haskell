@@ -53,6 +53,7 @@ $ alias ghci='stack ghci --'
 * [Vim + Haskell](http://www.sillybytes.net/2016/08/vim-haskell_11.html)
 * [Neovim のプラグインを Haskell で書いてみる - Qiita](http://qiita.com/satosystems/items/da37a583facacc8b597e)
 * [neovim-ghci: a fast and interactive Haskell editing experience - asciinema](https://asciinema.org/a/q9I5eNblDLCoOiQlZjm1ce0ba?size=20&speed=3&theme=tango)
+* [【Haskell (その2) Advent Calendar 2017】Vim から Hoogle の検索が出来るプラグインをつくった【16日目】 - Secret Garden(Instrumental)](http://secret-garden.hatenablog.com/entry/2017/12/16/000000)
 
 ### Emacs
 * [haskell/haskell-mode](https://github.com/haskell/haskell-mode)
