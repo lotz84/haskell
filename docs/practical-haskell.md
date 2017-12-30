@@ -110,6 +110,8 @@
 * [Stack のbenchmarkとtest - Qiita](http://qiita.com/ryamada22/items/b727df8268a4f776197a)
 * [Compose :: Melbourne 2017 - Justin Bedő - BioShake: A Haskell EDSL for Bio-Informatics Pipelines - YouTube](https://www.youtube.com/watch?v=lu90p7EWXJE&feature=youtu.be)
 * [Tweag I/O - Using Stackage for GHC regression testing](http://www.tweag.io/posts/2017-10-27-stackage-head.html)
+* [Haskell Stack とは何をするツールなのか - Qiita](https://qiita.com/usamik26/items/672ed3c4451402bfc275)
+* [Haskellのstackによるプロジェクトについて - Qiita](https://qiita.com/ogata-k/items/2b21326b2b7351bfc28c)
 
 ### 逆引き
 * [Ubuntu 16 で Stack + GHC がライブラリのリンクに失敗する場合の対処法](http://qiita.com/mr_konn/items/13caa82c1118968d3145)
@@ -158,6 +160,7 @@
 * [Shrinking Haskell Docker images using multi-stage builds | Codurance | Craft at Heart | London | Barcelona](https://codurance.com/2017/12/21/docker-multistage-haskell/)
 * [Haskell on Docker で Portable CLI を作ろう - Qiita](https://qiita.com/algas/items/fde155abbc9d8ae3f8c9)
 * [HaskellでもGoみたいにシングルバイナリでアプリケーションをデプロイしたい - Qiita](https://qiita.com/t10471/items/4afa598e1be5d6c7cc1f)
+* [Haskell のアプリケーション向けに軽量の Dockerイメージ を作る (和訳) - Qiita](https://qiita.com/rounddelta/items/d767f36d544427a9c60d)
 
 ## CI
 * [Shake](http://shakebuild.com/)
@@ -210,6 +213,7 @@
 * [Using Haskell in Rust](http://mgattozzi.github.io/2016/10/15/rust-haskell.html)
 * [Calling Haskell from C | Maths, Stats & Functional Programming](https://idontgetoutmuch.wordpress.com/2017/01/14/calling-haskell-from-c/)
 * [Almost Inline ASM in Haskell With Foreign Import Prim - Brandon.Si(mmons)](http://brandon.si/code/almost-inline-asm-in-haskell-with-foreign-import-prim/)
+* [HaskellからRubyを使う - メソッド呼び出し - Qiita](https://qiita.com/nwtgck/items/52a516ca99d27415c74d)
 
 ## JVM
 * [A new ecosystem for Haskell: the JVM](http://blog.tweag.io/posts/2016-10-17-inline-java.html)
@@ -343,4 +347,4 @@
 * [Simon Peyton Jones Getting from A to B fast route finding on slow computers - YouTube](https://www.youtube.com/watch?v=L1XDdy-hOH8)
 * [FunctionalWorks](https://functional.works-hub.com/learn/Functional-Programming-Jargon)
 * [やる気の出ない計算機科学シリーズ その1 初めてのFormura - Qiita](https://qiita.com/hrontan/items/ae8b3d5f8e999525f4b9)
-
+* [パス名がShift_JISで格納されたzipファイルの展開ツールをHaskellで書いた話 - Qiita](https://qiita.com/cobodo/items/a41fa118ec878c8aa606)
