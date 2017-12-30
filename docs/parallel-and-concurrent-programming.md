@@ -58,6 +58,7 @@
 * [Harnessing the Multicores: Nested Data Parallelism in Haskell](https://www.youtube.com/watch?v=kZkO3k9g1ps)
 * [Evaluation of Libraries for Parallel Computing in Haskell](https://www.jstage.jst.go.jp/article/ipsjjip/25/0/25_308/_pdf)
 * [PARALLELISING YOUR ARRAY CODE](http://www.tweag.io/posts/2017-11-16-repa.html)
+* [Reasoning About Program Behavior Algebraically](http://dev.stephendiehl.com/types_behavior.pdf)
 
 ## 並行
 * [RAM footprint per unit of concurrency (approx)](http://bob.ippoli.to/haskell-for-erlangers-2014/#/cost-of-concurrency)
