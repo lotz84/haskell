@@ -223,6 +223,7 @@
 * [tree-diff: Diffing of (expression) trees.](https://hackage.haskell.org/package/tree-diff)
 * [Persistent Red Black Trees in Haskell](https://abhiroop.github.io/Haskell-Red-Black-Tree/)
   * [Persistent Red Black Trees in Haskell](https://functional.works-hub.com/blog/Persistent-Red-Black-Trees-in-Haskell)
+* [Tree: 親子関係の付け替え - Qiita](https://qiita.com/nobsun/items/27fe53516cbb90ba02e2)
 
 ### Map
 * [tim philip williams :: Functional pearl: Nested Datacubes](http://www.timphilipwilliams.com/posts/2017-04-12-nested-datacubes.html)
