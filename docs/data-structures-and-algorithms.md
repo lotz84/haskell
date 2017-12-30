@@ -94,6 +94,7 @@
 * [Java interfaces map to Haskell records](https://chris-martin.org/2017/interfaces-and-records)
 * [Finite-State Machines, Part 1: Modeling with Haskell Data Types](https://wickstrom.tech/finite-state-machines/2017/11/10/finite-state-machines-part-1-modeling-with-haskell.html)
 * [Finite-State Machines, Part 2: Explicit Typed State Transitions](https://wickstrom.tech/finite-state-machines/2017/11/19/finite-state-machines-part-2.html)
+* [文字列と自然数の全単射を構成する - Qiita](https://qiita.com/lambda_x_x/items/22094e2af6df22850532)
 
 ### ソート
 * [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
@@ -176,6 +177,7 @@
 * [A ByteString performance mystery](http://teh.id.au/posts/2017/08/23/bytestring-performance-mystery/index.html)
 * [Haskell の (文字列) 変換パッケージ (convertible, convert, conversion) - Qiita](http://qiita.com/waddlaw/items/36231d95580d73c798b1)
 * [Short ByteString and Text](https://markkarpov.com/post/short-bs-and-text.html)
+* [Haskell で yes コマンドを実装した - Qiita](https://qiita.com/satosystems/items/f034e809882c6695e4ec)
 
 ### リスト
 * [Haskell Data.Listのリスト操作関数（サンプル付き） - Qiita](http://qiita.com/aosho235/items/94787fe0901141598c91)
