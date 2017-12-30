@@ -144,3 +144,5 @@ Passed:
 * [safe-prelude: a thought experiment - Michael Snoyman's blog](http://www.snoyman.com/blog/2017/01/safe-prelude-a-thought-experiment)
 * [MonadMask vs MonadBracket :: FP Complete](https://www.fpcomplete.com/blog/2017/02/monadmask-vs-monadbracket)
 * [Better Exception Messages - Michael Snoyman's blog](http://www.snoyman.com/blog/2017/02/better-exception-messages)
+* [Finding bugs in Haskell code by proving it – Blog – Joachim Breitner's Homepage](https://www.joachim-breitner.de/blog/734-Finding_bugs_in_Haskell_code_by_proving_it)
+* [Pure Functional Validation – Blacklane Engineering – Medium](https://medium.com/blacklane-engineering/pure-functional-validation-64a7885d22ac)
