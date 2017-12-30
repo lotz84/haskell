@@ -59,6 +59,7 @@ Monad Transformer
 * [Monad transformers and comonad transformers](http://dlaing.org/cofun/posts/monad_transformers_and_comonad_transformers.html)
 * [Haskell Application Monad](https://savanni.luminescent-dreams.com/page/haskell-app-monad)
 * [MonadBaseControl in Five Minutes](http://www.parsonsmatt.org/2017/11/21/monadbasecontrol_in_five_minutes.html)
+* [Monad Transformer State - Michael Snoyman - YouTube](https://www.youtube.com/watch?v=KZIN9f9rI34&feature=youtu.be)
 
 ### モナド準同型
 * [The mmorph package](https://hackage.haskell.org/package/mmorph)
