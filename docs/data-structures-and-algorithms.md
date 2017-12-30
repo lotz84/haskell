@@ -292,3 +292,4 @@ main = do
 * [How to prove large software projects correct](http://www.techcast.com/events/bigtechday8/maffei-1450/?q=maffei-1450)
 * [An exercise in equational reasoning](http://myhaskelljournal.com/an-exercise-in-equational-reasoning/)
 * [Why prove programs equivalent when your compiler can do that for you? – Blog – Joachim Breitner's Homepage](http://www.joachim-breitner.de/blog/717-Why_prove_programs_equivalent_when_your_compiler_can_do_that_for_you_)
+* [第三リスト準同型定理 - Qiita](https://qiita.com/muratak/items/216d6d7969aa0a53a52a)
