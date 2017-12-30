@@ -37,6 +37,10 @@
   * [Blog - Haskey: User-defined Schemas, Monad Transformers and Future Work (Summer of Haskell 2017)](https://deliquus.com/posts/2017-09-14-haskey-user-defined-schemas-and-monad-transformers.html)
 * [Comparing Persistent with Ecto and ActiveRecord](http://bitemyapp.com/posts/2017-10-06-persistent-ecto-activerecord.html)
 * [Independent Redis Query Aggregation](https://identicalsnowflake.github.io/QueryAggregation.html)
+* [AWS via Haskell Part 1 (DynamoDB)](http://blog.rcook.org/blog/2017/aws-via-haskell/)
+* [AWS via Haskell Part 2 (S3)](http://blog.rcook.org/blog/2017/aws-via-haskell-s3/)
+* [AWS via Haskell Part 3 (SQS)](http://blog.rcook.org/blog/2017/aws-via-haskell-sqs/)
+* [AWS via Haskell Part 4 (SimpleDB)](http://blog.rcook.org/blog/2017/aws-via-haskell-simpledb/)
 
 Simple Clients
 --------------
