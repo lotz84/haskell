@@ -1,5 +1,6 @@
 * [DataHaskell](https://datahaskell.github.io/)
 * [DataHaskell's knowledge base](http://wiki.datahaskell.org/index.php/Main_Page)
+* [Haskellで機械学習を実装しようと思った過去の自分へ](https://nnwww.github.io/blog/post/haskell_ml/#fnref:ivory)
 * [mikeizbicki/HLearn](https://github.com/mikeizbicki/HLearn/)
   * [Haskellの機械学習ライブラリHLearn](http://qiita.com/nebutalab/items/680203ff3d84cde7c8db)
 * [sarthakbagaria/has-sci](https://github.com/sarthakbagaria/has-sci)
