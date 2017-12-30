@@ -147,3 +147,6 @@ Passed:
 * [Better Exception Messages - Michael Snoyman's blog](http://www.snoyman.com/blog/2017/02/better-exception-messages)
 * [Finding bugs in Haskell code by proving it – Blog – Joachim Breitner's Homepage](https://www.joachim-breitner.de/blog/734-Finding_bugs_in_Haskell_code_by_proving_it)
 * [Pure Functional Validation – Blacklane Engineering – Medium](https://medium.com/blacklane-engineering/pure-functional-validation-64a7885d22ac)
+* [Neil Mitchell's Haskell Blog: Haskell exceptions and FFI wrappers](https://neilmitchell.blogspot.jp/2017/11/haskell-exceptions-and-ffi-wrappers.html)
+* [Exception handling in Haskell Jobs – Lazy Eval – Medium](https://medium.com/lazy-eval/exception-handling-in-haskell-jobs-383835fb73e6)
+
