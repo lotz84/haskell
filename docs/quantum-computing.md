@@ -7,6 +7,7 @@
 * [The Quipper Language](http://www.mathstat.dal.ca/~selinger/quipper/)
 * [Peter Sellinger: "Introduction to Quipper"](https://www.youtube.com/watch?v=59frzb__Eqo)
 * [qchas: A library for implementing Quantum Algorithms](https://hackage.haskell.org/package/qchas)
+* [量子コンピューターにはモナドがよく似合う - Qiita](https://qiita.com/kyamaz/items/67ec5c7d39e62c1de91d)
 
 ## 物理
 * [The units package](https://hackage.haskell.org/package/units)
