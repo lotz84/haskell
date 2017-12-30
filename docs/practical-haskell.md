@@ -332,3 +332,4 @@
 * [ゲーム販売webアプリケーションSYAKERAKEを支える技術,HaskellとYesodで作られています - ncaq](https://www.ncaq.net/2017/12/03/00/00/00/)
 * [Transient: Full Algebraic and monadic composability by Alberto Gómez Corona](https://www.youtube.com/watch?v=wqfEX1big4o)
   * [transient-haskell/transient](https://github.com/transient-haskell/transient)
+* [Growing a software architecture with types](http://ocramz.github.io/haskell/2017/11/30/growing-software-architecture.html)
