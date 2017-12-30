@@ -133,3 +133,4 @@ main = do
 * [Speeding up a distributed computation in Haskell :: FP Complete](https://www.fpcomplete.com/blog/2017/01/speeding-up-distributed-computation)
 * [NicolasT/kontiki](https://github.com/NicolasT/kontiki) - An implementation of the Raft consensus protocol
 * [Distributed Programming with Linear Types | SkillsCast | 12th October 2017](https://skillsmatter.com/skillscasts/10637-distributed-programming-with-linear-types)
+* [Session types in Cloud Haskell : haskell](https://www.reddit.com/r/haskell/comments/7g3ckg/session_types_in_cloud_haskell/)
