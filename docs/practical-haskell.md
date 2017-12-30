@@ -339,3 +339,5 @@
 * [Growing a software architecture with types](http://ocramz.github.io/haskell/2017/11/30/growing-software-architecture.html)
 * [Simon Peyton Jones Getting from A to B fast route finding on slow computers - YouTube](https://www.youtube.com/watch?v=L1XDdy-hOH8)
 * [FunctionalWorks](https://functional.works-hub.com/learn/Functional-Programming-Jargon)
+* [やる気の出ない計算機科学シリーズ その1 初めてのFormura - Qiita](https://qiita.com/hrontan/items/ae8b3d5f8e999525f4b9)
+
