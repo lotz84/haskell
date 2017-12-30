@@ -54,6 +54,7 @@
 * [WAIアプリケーションの単体テスト - Haskell入門より - Qiita](https://qiita.com/hiratara/items/4309484f942043fe4a17)
 * [QuickFuzz Testing for Fun and Profit - YouTube](https://www.youtube.com/watch?v=yVCKp3uSq-Y)
 * [Writing a Concurrency Testing Library (Part 1)](https://www.barrucadu.co.uk/posts/concurrency/2017-10-14-writing-a-concurrency-testing-library-01.html)
+* [Introduction to golden testing](https://ro-che.info/articles/2017-12-04-golden-tests)
 
 ### QuickCheck
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
