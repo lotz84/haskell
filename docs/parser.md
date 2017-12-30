@@ -27,6 +27,7 @@
 * [Higher-order Abstract Syntax for Cartesian Closed Categories](http://blog.functorial.com/posts/2017-10-08-HOAS-CCCs.html)
 * [mvv/data-elf](https://github.com/mvv/data-elf) - ELF data structures for Haskell
 * [How To Write an Interpreter for a Lambda-Calculus-Based Language](http://semantic.org/post/how-to-write-an-interpreter-for-a-lambda-calculus-based-language/)
+* [Haskellのパーサライブラリまとめ - Qiita](https://qiita.com/Mizunashi_Mana/items/115855bf2af9b9970198)
 
 ## 正規表現
 * [関数型的正規表現マッチ](https://research.preferred.jp/2010/11/regexp-play/)
