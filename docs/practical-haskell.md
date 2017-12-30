@@ -32,6 +32,9 @@
 * [Actually Using Haskell!](http://www.oredev.org/2017/sessions/actually-using-haskell)
 * [What Makes Haskell Unique](https://www.snoyman.com/blog/2017/12/what-makes-haskell-unique)
 * [Infinite Negative Utility: Some Notes About How I Write Haskell](https://blog.infinitenegativeutility.com/2017/12/some-notes-about-how-i-write-haskell)
+* [haddock に Grid Table 記法が追加されました](https://haskell.e-bigmoon.com/posts/2017-12-27-haddock-grid-table.html)
+* [Literate Markdown (markdown-unlit の使い方) について](https://haskell.e-bigmoon.com/posts/2017-12-29-literate-markdown)
+* [Haskellや周辺ツールについてのリンク集 - Qiita](https://qiita.com/ogata-k/items/23d70250ec42359b6bb5)
 
 ## GHCi
 * [ghciでマルチバイト文字をエスケープせず表示させる](http://qiita.com/aosho235/items/bdfa4a68b77b9fcc4a35)
@@ -214,6 +217,7 @@
 * [Calling Haskell from C | Maths, Stats & Functional Programming](https://idontgetoutmuch.wordpress.com/2017/01/14/calling-haskell-from-c/)
 * [Almost Inline ASM in Haskell With Foreign Import Prim - Brandon.Si(mmons)](http://brandon.si/code/almost-inline-asm-in-haskell-with-foreign-import-prim/)
 * [HaskellからRubyを使う - メソッド呼び出し - Qiita](https://qiita.com/nwtgck/items/52a516ca99d27415c74d)
+* [GHC 8.2 以前で FFI を使う際に注意すること - Qiita](https://qiita.com/thimura/items/0d289c231f9aceac61dc)
 
 ## JVM
 * [A new ecosystem for Haskell: the JVM](http://blog.tweag.io/posts/2016-10-17-inline-java.html)
@@ -229,6 +233,7 @@
 * [Haskell on Android using Eta - BAM Weblog](https://brianmckenna.org/blog/eta_android)
 * [Integrating Eta Into Your Scala Projects – Eta programming language](https://blog.eta-lang.org/integrating-eta-into-your-scala-projects-a8d494a2c5b0)
 * [A Tour of Eta](https://tour.eta-lang.org/)
+* [あいや☆ぱぶりっしゅぶろぐ！ - Etaで表現されるデータ型としてのJavaクラスとその継承関係](http://aiya000.github.io/posts/2017-12-25-eta-extend.html)
 
 ### Frege
 * [すごい Frege たのしく学ぼう！](http://www.slideshare.net/y_taka_23/frege)
