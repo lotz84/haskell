@@ -51,6 +51,7 @@ $ alias ghci='stack ghci --'
 * [alx741/vim-yesod](https://github.com/alx741/vim-yesod)
 * [Vim + Haskell](http://www.sillybytes.net/2016/08/vim-haskell_11.html)
 * [Neovim のプラグインを Haskell で書いてみる - Qiita](http://qiita.com/satosystems/items/da37a583facacc8b597e)
+* [neovim-ghci: a fast and interactive Haskell editing experience - asciinema](https://asciinema.org/a/q9I5eNblDLCoOiQlZjm1ce0ba?size=20&speed=3&theme=tango)
 
 ### Emacs
 * [haskell/haskell-mode](https://github.com/haskell/haskell-mode)
