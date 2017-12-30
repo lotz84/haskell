@@ -89,6 +89,7 @@ Monad Transformer
 ### チュートリアル
 * [Extensible Effects はモナド変換子に対する救世主になり得るか？](http://konn-san.com/prog/haskell/extensible-effects.html)
 * [Freer Effectsが、だいたいわかった: 0. 導入](http://qiita.com/YoshikuniJujo/items/c71644b5af1f5195cbf3) - 16章まで予定されている
+* [Extensible Effects ステップ・バイ・ステップ](https://matsubara0507.github.io/posts/2017-12-09-extensible-effects-step-by-step.html)
 * [Sandy Maguire: Don't Eff It Up: Free Monads in Action](https://www.youtube.com/watch?v=gUPuWHAt6SA)
   * [Don't Eff It Up](http://reasonablypolymorphic.com/dont-eff-it-up/#/title)
   * [Sandy Maguire: Don't Eff It Up: Free Monads in Action - YouTube](https://www.youtube.com/watch?v=gUPuWHAt6SA)
