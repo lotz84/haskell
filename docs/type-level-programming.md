@@ -85,6 +85,7 @@
 * [Dependent Types in Haskell](https://haskell-serbia.com/tutorial/4)
 * [Overlapping and Order-Independent Patterns](https://lirias.kuleuven.be/bitstream/123456789/442509/1/main.pdf)
 * [Introduction to Singletons (Part 1) · in Code](https://blog.jle.im/entry/introduction-to-singletons-1.html)
+* [しりとりの圏の実装(未完) - Qiita](https://qiita.com/hiratara/items/6265b5d4791144bee33b)
 
 ```haskell
 data Bottom
