@@ -19,7 +19,7 @@
 * [tepf/QuickPlot](https://github.com/tepf/QuickPlot)
 * [Haskell でサムネイル生成](http://qiita.com/satosystems/items/abdb9696185f647b65a2)
 * [Haskell でサムネイル #2](http://qiita.com/satosystems/items/669a8b3fdfa535582cb4)
-* [Blackstar | Raytracing black holes with Haskell](https://flannelhead.github.io/projects/blackstar.html)
+* [Blackstar \| Raytracing black holes with Haskell](https://flannelhead.github.io/projects/blackstar.html)
 * [Image processing with Juicy Pixels and Repa](https://www.stackbuilders.com/tutorials/haskell/image-processing/)
 * [M.M.T Chakravarty - Playing with Graphics and Animations in Haskell](https://www.youtube.com/watch?v=9dk7_GDNocQ)
 * [SVG2 Mesh Gradient rendering in Haskell](https://twinside.github.io/coon_rendering.html)
@@ -31,13 +31,13 @@
 * [ocramz/plot-light: A lightweight plotting library, exporting to SVG](https://github.com/ocramz/plot-light)
 * [Visualizing Graphs in Haskell](http://www.michaelburge.us/2017/09/01/how-to-use-graphviz-in-haskell.html)
 * [Computational Geometry: Set Operations on Polytopes](https://maxow.github.io/posts/computational-geometry-set-operations-on-polytopes.html)
-* [Haskell for Numerics? | Maths, Stats & Functional Programming](https://idontgetoutmuch.wordpress.com/2017/06/02/1090/)
+* [Haskell for Numerics? \| Maths, Stats & Functional Programming](https://idontgetoutmuch.wordpress.com/2017/06/02/1090/)
 
 ## 画像処理
 * [friday: A functional image processing library for Haskell.](https://hackage.haskell.org/package/friday)
 * [An Image Processing Language: External and Shallow/Deep Embeddings](http://www.macs.hw.ac.uk/~rs46/papers/rwdsl2016/rwdsl-2016.pdf)
 * [Twinside/Juicy.Pixels](https://github.com/Twinside/Juicy.Pixels)
-* [hip Haskell package - Graphics | LibHunt](https://haskell.libhunt.com/project/hip-git)
+* [hip Haskell package - Graphics \| LibHunt](https://haskell.libhunt.com/project/hip-git)
 * [Beginner’s Haskell: Creating Bitmap Images - The Mendo Zone](https://mendo.zone/fun/beginners-haskell-bitmap-images/)
 
 ## GUI

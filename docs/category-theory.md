@@ -68,7 +68,7 @@
 * [Basic Category Theory](https://arxiv.org/abs/1612.09375v1)
 * [2017年 圏論に関する参考文献の案内（無料オンライン版含む）](http://d.hatena.ne.jp/m-hiyama/20170104/1483496144)
 * [「圏論」は関数プログラミングの「モナド」に役立つ。入門PDF等のリンク集 - 勉強メモ （大学の講義動画や，資格試験の対策）](http://study-guide.hatenablog.jp/entry/20140403/p1)
-* [Applicative Functors |   Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2017/02/06/applicative-functors/)
+* [Applicative Functors \|   Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2017/02/06/applicative-functors/)
 * [Gabriel Gonzales: Applied category theory and abstract algebra - λC Winter Retreat 2017 - YouTube](https://www.youtube.com/watch?v=WsA7GtUQeB8)
 * [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 * [A Categorical View of Computational Effects - YouTube](https://www.youtube.com/watch?v=6t6bsWVOIzs)

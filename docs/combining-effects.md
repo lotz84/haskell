@@ -51,7 +51,7 @@ Monad Transformer
 * [Monad Transformer Workshop](https://begriffs.com/posts/2017-04-09-monad-tutorial-workshop.html)
 * [If you’re using lift, you’re doing it wrong (probably)](http://blog.ezyang.com/2013/09/if-youre-using-lift-youre-doing-it-wrong-probably/)
 * [A Tale of Two Brackets](https://www.fpcomplete.com/blog/2017/06/tale-of-two-brackets)
-* [A tale of two Monads: Free vs MTL | Front Row](http://tech.frontrowed.com/2017/09/28/benching-free/)
+* [A tale of two Monads: Free vs MTL \| Front Row](http://tech.frontrowed.com/2017/09/28/benching-free/)
 * [lexi-lambda/mtl-style-example](https://github.com/lexi-lambda/mtl-style-example) - A small example of using mtl style to unit test effectful code
 * [Monad Transformer State - Michael Snoyman](https://www.youtube.com/watch?v=KZIN9f9rI34&feature=youtu.be)
 * [モナドをラップする話](http://qiita.com/ruicc/items/175cc23f13d6004d8b3d)
@@ -83,7 +83,7 @@ Monad Transformer
 * [The effin package](https://hackage.haskell.org/package/effin)
 * [The effect-handlers package](https://hackage.haskell.org/package/effect-handlers)
 * [Announcing transformers-eff](https://ocharles.org.uk/blog/posts/2016-04-23-transformers-eff.html)
-* [The world's fastest extensible effects framework - School of Haskell | School of Haskell](https://www.schoolofhaskell.com/user/fumieval/extensible/the-world-s-fastest-extensible-effects-framework)
+* [The world's fastest extensible effects framework - School of Haskell \| School of Haskell](https://www.schoolofhaskell.com/user/fumieval/extensible/the-world-s-fastest-extensible-effects-framework)
 * [freer-effects: Implementation of effect system for Haskell.](https://hackage.haskell.org/package/freer-effects)
 
 ### チュートリアル

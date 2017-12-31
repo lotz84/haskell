@@ -135,7 +135,7 @@
 * [HaskellのFusionがあれば速度と抽象化を両立できる](http://bicycle1885.hatenablog.com/entry/2014/06/10/234448)
 * 🎥 [Dan Doel - Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY)
 * [Natural Transformations as Rewrite Rules and Monad Composition](https://arxiv.org/abs/1612.07273)
-* [An optimization using the foldr fusion law |](http://myhaskelljournal.com/an-optimization-using-foldr-fusion-law/)
+* [An optimization using the foldr fusion law \|](http://myhaskelljournal.com/an-optimization-using-foldr-fusion-law/)
 * [INLIN(E)ing: A case study](http://mpickering.github.io/posts/2017-05-17-inlining-case-study.html)
 * [Speed up your Haskell programs with one weird trick](https://inner-haven.net/posts/2017-05-08-speed-up-haskell-programs-weird-trick.html)
 * [Notes on fusion](http://teh.id.au/posts/2017/06/30/notes-on-fusion/index.html)
@@ -204,7 +204,7 @@ $ stack exec -- <your program> +RTS <profiling options>
 * [GHC Speed – Gipeda](https://perf.haskell.org/ghc/#)
 
 ### GC
-* [Haskell、OCaml、RacketでGCのレイテンシを測る | コンピュータサイエンス | POSTD](http://postd.cc/measuring-gc-latencies-in-haskell-ocaml-racket/)
+* [Haskell、OCaml、RacketでGCのレイテンシを測る \| コンピュータサイエンス \| POSTD](http://postd.cc/measuring-gc-latencies-in-haskell-ocaml-racket/)
 * [Optimising Garbage Collection Overhead in Sigma](https://simonmar.github.io/posts/2015-07-28-optimising-garbage-collection-overhead-in-sigma.html)
 * [Low latency, large working set, and GHC’s garbage collector: pick two of three](https://blog.pusher.com/latency-working-set-ghc-gc-pick-two/)
 

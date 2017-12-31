@@ -25,7 +25,7 @@ instance Show Bool where
 例えば`print :: Show a => a -> IO ()`の型`a`にはShowのインスタンスであれば何でも使うことが出来る。
 
 * [How to make ad-hoc polymorphism less ad-hoc](http://people.csail.mit.edu/dnj/teaching/6898/papers/wadler88.pdf)
-* [型クラスはインターフェースとどう違うのか | プログラミング | POSTD](http://postd.cc/how_do_type_classes_differ_from_interfaces/)
+* [型クラスはインターフェースとどう違うのか \| プログラミング \| POSTD](http://postd.cc/how_do_type_classes_differ_from_interfaces/)
 * [Haskell/Classes and types](https://en.wikibooks.org/wiki/Haskell/Classes_and_types)
 * [The Typeclassopediaを訳しました](http://snak.tdiary.net/20091020.html)
 * [When to use a type class, when to use a type](http://stackoverflow.com/questions/12286315/when-to-use-a-type-class-when-to-use-a-type)
@@ -91,7 +91,7 @@ instance Show Bool where
 * [Algebraic patterns - Monoid](http://philipnilsson.github.io/Badness10k/posts/2016-07-21-functional-patterns-monoid.html)
 * [Electoral vote distributions are Monoids](http://www.haskellforall.com/2016/10/electoral-vote-distributions-are-monoids.html)
 * [Electoral vote distributions are polynomials](https://ro-che.info/articles/2016-10-28-vote-distributions-polynomials)
-* [Monoids on Steroids |   Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2017/02/09/monoids-on-steroids/)
+* [Monoids on Steroids \|   Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2017/02/09/monoids-on-steroids/)
 * [Monoids: what they are, why they are useful, and what they teach us about software](https://deque.blog/2017/09/13/monoids-what-they-are-why-they-are-useful-and-what-they-teach-us-about-software/)
 
 > lists are not free monoids in Haskell.

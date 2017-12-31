@@ -208,7 +208,7 @@ circum (Circle _ _ r) = …
 * [依存型による定理証明Tips: coherenceは型で表せ](http://myuon-myon.hatenablog.com/entry/2016/12/11/204537)
 * [A Specification for Dependently-Typed Haskell (Extended version)](http://www.seas.upenn.edu/~sweirich/papers/systemd-submission.pdf)
 * [A type theory based on indexed equality - Implementation](http://twanvl.nl/blog/hott/indexed-equality-implementation)
-* [Dependent types in Haskell: Progress Report | Types and Kinds](https://typesandkinds.wordpress.com/2016/07/24/dependent-types-in-haskell-progress-report/)
+* [Dependent types in Haskell: Progress Report \| Types and Kinds](https://typesandkinds.wordpress.com/2016/07/24/dependent-types-in-haskell-progress-report/)
 * [Induction is Not Derivable in Second Order Dependent Type Theory](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.26.957)
 * [Practical Dependent Types in Haskell: Type-Safe Neural Networks (Part 1)](https://blog.jle.im/entry/practical-dependent-types-in-haskell-1.html)
 * [Practical Dependent Types in Haskell 2: Existential Neural Networks and Types at Runtime](https://blog.jle.im/entry/practical-dependent-types-in-haskell-2.html)

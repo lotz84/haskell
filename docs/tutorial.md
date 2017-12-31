@@ -229,4 +229,4 @@ main = runSpock 8080 $ spockT id $ do
     </details>
 * [CodinGame](https://www.codingame.com/) - プログラミングでゲームを攻略していく。Haskellにも対応している
 * [Project Euler](https://projecteuler.net/) - 数学とプログラミングを駆使しないと解けない問題が豊富。
-* [Solve Programming Questions | HackerRank](https://www.hackerrank.com/domains)
+* [Solve Programming Questions \| HackerRank](https://www.hackerrank.com/domains)
