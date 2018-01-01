@@ -23,3 +23,4 @@
 * [Liquid Haskell で普通の型システムの上を行け #NGK2017B](https://www.slideshare.net/y_taka_23/liquid-haskell-ngk2017b-83162127)
 * [[1711.03842] Refinement Reflection: Complete Verification with SMT](https://arxiv.org/abs/1711.03842)
 * [LiquidHaskell](https://ucsd-progsys.github.io/liquidhaskell-blog/2017/12/15/splitting-and-splicing-intervals-I.lhs/)
+* [LiquidHaskell](https://ucsd-progsys.github.io/liquidhaskell-blog/2017/12/24/splitting-and-splicing-intervals-II.lhs/)
