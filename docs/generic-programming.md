@@ -14,6 +14,7 @@
 * [Exploring Generic Haskell](https://www.andres-loeh.de/ExploringGH.pdf)
 * [Autobahn: using genetic algorithms to infer strictness annotations](http://dl.acm.org/citation.cfm?id=2976009)
 * [Generic zipWith](https://ro-che.info/articles/2017-04-25-generic-zipWith)
+* [Deriving Bifunctor with Generics – ( )](http://kcsongor.github.io/generic-deriving-bifunctor/)
 
 ## Uniplate
 * [uniplate](https://hackage.haskell.org/package/uniplate)
