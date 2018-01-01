@@ -7,6 +7,7 @@
 * [On sufficiently smart compilers](http://osa1.net/posts/2015-08-09-sufficiently-smart-compiler.html)
 * [Haskellの父Simon PJ氏、GHCの内部実装について日本のHaskellerと激論を交わす](http://itpro.nikkeibp.co.jp/atcl/news/16/092002726/)
 * [SPJとHaskellのエコシステム（和訳） - Qiita](https://qiita.com/reotasosan/items/d9fdfab10e24eabfefda)
+* [翻訳: The Architecture of Open Source Applications (Volume 2): The Glasgow Haskell Compiler](http://blog.nakaji.me/architecture-of-open-source-applications-volume-2-the-glasgow-haskell-compiler/)
 
 ## GHC
 * [GHC](https://wiki.haskell.org/GHC)
