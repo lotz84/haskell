@@ -413,6 +413,8 @@ Web Application Framework
 * [Haskell・Servant+Persistent/Esqueletoで作る実用WebAPI (2) Persistent - Qiita](https://qiita.com/cyclone_t/items/e348e3f58aff7aa1482e)
 * [Haskell・Servant+Persistent/Esqueletoで作る実用WebAPI (3) Esqueleto - Qiita](https://qiita.com/cyclone_t/items/7b18c885a5d1b753a81c)
 * [Haskell・Servant+Persistent/Esqueletoで作る実用WebAPI (4) ServantとPersistent/Esqueletoを結合する - Qiita](https://qiita.com/cyclone_t/items/8b5a80162c4dff3a8770)
+* [Haskell・Servant+Persistent/Esqueletoで作る実用WebAPI (5) 例外処理 - Qiita](https://qiita.com/cyclone_t/items/a38c9dadfc9f7091fa2f)
+* [Haskell・Servant+Persistent/Esqueletoで作る実用WebAPI (6) 共通処理を実装する - Qiita](https://qiita.com/cyclone_t/items/37668d97427c2c618712)
 * [slack-api + bloodhound + servant でbot+αを作る](http://blog.nakaji.me/slack-api-bloodhound-servant/)
 
 ### Yesod
