@@ -80,7 +80,7 @@
 * [Vincent Hanquez 2017-03-20-compilation-cstruct](http://tab.snarc.org/posts/haskell/2017-03-20-compilation-cstruct.html)
 * [Dynamic Dispatch in Haskell, or: How Can I Make My Code Extendable? – Two Wrongs](https://two-wrongs.com/dynamic-dispatch-in-haskell-how-to-make-code-extendable)
 * [Vladimir Slepnev: A puzzle about game review scoring in Haskell](http://slepnev.blogspot.jp/2017/05/a-puzzle-about-game-review-scoring-in.html)
-* [naqsha Haskell package - Geospatial | LibHunt](https://haskell.libhunt.com/project/naqsha)
+* [naqsha Haskell package - Geospatial \| LibHunt](https://haskell.libhunt.com/project/naqsha)
 * [5 ways to manage allocated memory in Haskell](https://ro-che.info/articles/2017-08-06-manage-allocated-memory-haskell)
 * [To Void or to void](https://www.fpcomplete.com/blog/2017/07/to-void-or-to-void)
 * [The Partial Options Monoid – Jonathan Fischoff – Medium](https://medium.com/@jonathangfischoff/the-partial-options-monoid-pattern-31914a71fc67)
@@ -177,7 +177,7 @@
 * [Safer paths, part 2 - Stop, Reconsider, Contribute](http://cs-syd.eu/posts/2016-08-21-safer-paths-part-2---stop-reconsider-contribute.html)
 * [heredocsの紹介](http://qiita.com/cutsea110/items/4eb22cbb3f874436d33f)
 * [Decomposing a string into its elements](https://www.stephanboyer.com/post/126/decomposing-a-string-into-its-elements)
-* [Advent of code #16 solution: an algebra of bitstrings | blog :: Brent -> [String]](https://byorgey.wordpress.com/2017/01/27/advent-of-code-16-solution-an-algebra-of-bitstrings/)
+* [Advent of code #16 solution: an algebra of bitstrings \| blog :: Brent -> [String]](https://byorgey.wordpress.com/2017/01/27/advent-of-code-16-solution-an-algebra-of-bitstrings/)
 * [aelve/fmt: New formatting library](https://github.com/aelve/fmt)
 * [Migrating text metrics to pure Haskell](https://markkarpov.com/post/migrating-text-metrics.html)
 * [A ByteString performance mystery](http://teh.id.au/posts/2017/08/23/bytestring-performance-mystery/index.html)
@@ -259,7 +259,7 @@
 * [Dynamorphism 〜 Haskellでも動的計画法がしたい！ 〜](http://titech-ssr.blog.jp/archives/1047835805.html)
 
 ## オブジェクト
-* [Encoding Objects - School of Haskell | School of Haskell](https://www.schoolofhaskell.com/user/fumieval/encoding-objects)
+* [Encoding Objects - School of Haskell \| School of Haskell](https://www.schoolofhaskell.com/user/fumieval/encoding-objects)
 * [Object-Oriented Haskell](https://programming.tobiasdammers.nl/blog/2017-10-17-object-oriented-haskell)
 * [Haskellでいかに多態を表すか](http://fumieval.hatenablog.com/entry/2015/04/06/173848)
 

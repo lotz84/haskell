@@ -10,10 +10,10 @@
 * [cpeikert/Lol](https://github.com/cpeikert/Lol) - A library for ring-based lattice cryptography
 * [timbod7/secretfs](https://github.com/timbod7/secretfs) - A FUSE file system that interpolates secret information
 * [GaloisInc/saw-script - saw-script/doc/tutorial/tutorial.md](https://github.com/GaloisInc/saw-script/blob/master/doc/tutorial/tutorial.md)
-* [Piyush P Kurur|Adventures in optimising ChaCha20 for Raaz.](http://cse.iitk.ac.in/users/ppk/posts/2017-02-06-Adventures-in-optimising-chacha20.html)
+* [Piyush P Kurur\|Adventures in optimising ChaCha20 for Raaz.](http://cse.iitk.ac.in/users/ppk/posts/2017-02-06-Adventures-in-optimising-chacha20.html)
 * [Episode 11 - Austin Seipp on Security - The Haskell Cast](http://www.haskellcast.com/episode/011-austin-seipp-on-security)
 * [centromere/cacophony: A Haskell library implementing the Noise protocol.](https://github.com/centromere/cacophony)
 * [Cryptographic Hashing in Haskell](https://www.fpcomplete.com/blog/2017/09/cryptographic-hashing-haskell)
-* [SPAKE2 in Haskell: How Haskell Helped - jml :: Jonathan Lange](https://jml.io/2017/10/spake2-how-haskell-helped.html)
+* [SPAKE2 in Haskell: How Haskell Helped - jml :: Jonathan Lange](https://jml.io/2017/10/spake2-how-haskell-helped.html)
 * [On the state of cryptography in Haskell – www.leonmergen.com](https://leonmergen.com/on-the-state-of-cryptography-in-haskell-c272fb0b6478)
 * [Haskell で暗号学的ハッシュを扱う (和訳) - Qiita](https://qiita.com/rounddelta/items/ace180b1b78876f1c190)

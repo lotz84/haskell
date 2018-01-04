@@ -38,7 +38,7 @@
 * [Oleg's gists - Glassery](http://oleg.fi/gists/posts/2017-04-18-glassery.html)
 * [Lost in Technopolis](http://newartisans.com/2017/04/putting-lenses-to-work/)
 * [Oleg's gists - Indexed Profunctor optics](http://oleg.fi/gists/posts/2017-04-26-indexed-poptics.html)
-* [Profunctor Optics: The Categorical View |   Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2017/07/07/profunctor-optics-the-categorical-view/)
+* [Profunctor Optics: The Categorical View \|   Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2017/07/07/profunctor-optics-the-categorical-view/)
 * [mchaver - Lens Tutorial - SimpleLens](http://www.mchaver.com/posts/2017-07-12-lens-tutorial-1.html)
 * [Why Lenses Work](http://blog.vmchale.com/article/why-lenses-work)
 * [hablapps/DontFearTheProfunctorOptics: Don't Fear the Profunctor Optics!](https://github.com/hablapps/DontFearTheProfunctorOptics#readme)

@@ -35,7 +35,7 @@
 * [gochan: Go-style channels](http://hackage.haskell.org/package/gochan-0.0.2)
 * [Mio: A High-Performance Multicore IO Manager for GHC](http://haskell.cs.yale.edu/wp-content/uploads/2013/08/hask035-voellmy.pdf)
 * [Threading responsibly - forkIO considered harmful.](https://mazzo.li/posts/threads-resources.html)
-* [Haxl: Making Concurrency Unreasonably Easy | Big Techday 10 - TNG Technology Consulting](http://events.techcast.com/bigtechday10/Garmisch-1345/?q=Garmisch-1345)
+* [Haxl: Making Concurrency Unreasonably Easy \| Big Techday 10 - TNG Technology Consulting](http://events.techcast.com/bigtechday10/Garmisch-1345/?q=Garmisch-1345)
 * [Haskell における並行処理と並列処理と最適化 - Qiita](http://qiita.com/satosystems/items/e7fb4295598dc61e4c67)
 * [Haskell の並列処理と遅延評価の罠](http://labs.timedia.co.jp/2017/08/cphaskell.html)
 * [A Tour of Go in Haskell](https://a-tour-of-go-in-haskell.syocy.net/ja_JP/index.html)
@@ -135,5 +135,5 @@ main = do
 * [Composing distributed Web applications](https://github.com/agocorona/transient/wiki/Composing--distributed-Web-applications)
 * [Speeding up a distributed computation in Haskell :: FP Complete](https://www.fpcomplete.com/blog/2017/01/speeding-up-distributed-computation)
 * [NicolasT/kontiki](https://github.com/NicolasT/kontiki) - An implementation of the Raft consensus protocol
-* [Distributed Programming with Linear Types | SkillsCast | 12th October 2017](https://skillsmatter.com/skillscasts/10637-distributed-programming-with-linear-types)
+* [Distributed Programming with Linear Types \| SkillsCast \| 12th October 2017](https://skillsmatter.com/skillscasts/10637-distributed-programming-with-linear-types)
 * [Session types in Cloud Haskell : haskell](https://www.reddit.com/r/haskell/comments/7g3ckg/session_types_in_cloud_haskell/)

@@ -454,7 +454,7 @@ Line 6:
 * [The haskeline package](https://hackage.haskell.org/package/haskeline)
 * [The vty package](https://hackage.haskell.org/package/vty)
 * [jtdaugherty/brick](https://github.com/jtdaugherty/brick)
-  * [Brick TUI Library(@brick_haskell)さん | Twitter](https://twitter.com/brick_haskell/)
+  * [Brick TUI Library(@brick_haskell)さん \| Twitter](https://twitter.com/brick_haskell/)
 * Git operations in haskell - [hit](https://hackage.haskell.org/package/hit)
 * [Handling Control-C in Haskell](http://neilmitchell.blogspot.jp/2015/05/handling-control-c-in-haskell.html)
 * [Haskell でシグナルで中断された時にクリーンナップ処理をしてから終了する](http://qiita.com/shuhei/items/d0113e5c2ae592f1181e)

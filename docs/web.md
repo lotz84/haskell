@@ -89,7 +89,7 @@ Client
 * [1 07 High Performance Client Side Web Applications through Haskell EDSLs](https://www.youtube.com/watch?v=gQmDeq9eyF8)
 * [[ANN] bartlett - a simple Jenkins command-line client in Haskell : haskell](https://www.reddit.com/r/haskell/comments/5pzzvh/ann_bartlett_a_simple_jenkins_commandline_client/)
 * Shipwire
-  * [ballast Haskell package - Web | LibHunt](https://haskell.libhunt.com/project/ballast)
+  * [ballast Haskell package - Web \| LibHunt](https://haskell.libhunt.com/project/ballast)
 * [matterhorn-chat/mattermost-api: Client side API for communicating with a mattermost server in Haskell](https://github.com/matterhorn-chat/mattermost-api)
 
 Scraping
@@ -321,7 +321,7 @@ Web Application Framework
 * [On demand image processing with Haskell](https://www.paramander.com/blog/on-demand-image-processing-with-haskell)
 * [scotty-format: A response format helper for the Scotty web framework](http://www.focustheweb.com/2016/11/27/scotty-format-response-format-helper-for-scotty.html)
 * [Scotty による Web アプリ入門 - Qiita](http://qiita.com/ryota-ka/items/b0883ce87d60b9f573e7)
-* [Rest api in Haskell | maciek.io](http://maciek.io/rest-api-in-haskell/)
+* [Rest api in Haskell \| maciek.io](http://maciek.io/rest-api-in-haskell/)
 * [eckyputrady/haskell-scotty-realworld-example-app](https://github.com/eckyputrady/haskell-scotty-realworld-example-app) - Exemplary real world backend API built with Haskell/Scotty
 * [More "RowList" fun with Records in Haskell feat. Scotty Route/Handler pairings & HomeRunWannabe - Qiita](https://qiita.com/kimagure/items/7c3521cfbf00ad173801)
 
@@ -402,7 +402,7 @@ Web Application Framework
 * [Kwang's Haskell Blog - How Servant's type-safe links work](https://kseo.github.io//posts/2017-01-20-how-servant%27s-type-safe-links-work.html)
 * [servant-pushbullet-client: Bindings to the Pushbullet API using servant-client](https://hackage.haskell.org/package/servant-pushbullet-client-0.1.0.0)
 * [Haskell Servant OAuth2.0 for GitHub](https://gist.github.com/freckletonj/17eec8959718cb251f29af3645112f4a)
-* [servant-checked-exceptions Haskell package - servant | LibHunt](https://haskell.libhunt.com/project/servant-checked-exceptions)
+* [servant-checked-exceptions Haskell package - servant \| LibHunt](https://haskell.libhunt.com/project/servant-checked-exceptions)
 * [Moving From Server Side Sessions To Client Side Session Tokens with Servant](https://vadosware.io/post/moving-from-server-side-sessions-to-client-side-session-tokens-with-servant/)
 * [ADDING SQLITE POWERED FTS SEARCH TO A SERVANT POWERED HASKELL APP](https://vadosware.io/post/adding-sqlite-powered-fts-search-to-a-servant-powered-haskell-app/)
 * [Authorization in Servant: Walkthrough (WIP)](https://ibnuda.gitlab.io/636452721192300168_authorizationinservant.html)
@@ -483,7 +483,7 @@ Protocol
 --------
 * [Representing an RPC API](http://petterbergman.se/api.html)
 * [Dropbox Hack Week: GraphQL Server in Haskell](https://chadaustin.me/2016/02/dropbox-hack-week-graphql-server-in-haskell/)
-* [Announcing graphql-api: Haskell library for GraphQL - jml :: Jonathan Lange](https://jml.io/2017/01/graphql-api.html)
+* [Announcing graphql-api: Haskell library for GraphQL - jml :: Jonathan Lange](https://jml.io/2017/01/graphql-api.html)
   * [graphql-api: Write type-safe GraphQL services in Haskell](http://hackage.haskell.org/package/graphql-api-0.1.1)
 * [msgpack/msgpack-haskell](https://github.com/msgpack/msgpack-haskell)
 * [GaloisInc/avro](https://github.com/GaloisInc/avro)

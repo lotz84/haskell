@@ -36,7 +36,7 @@ class Functor f where
 * [Profunctor Polymorphism](https://bartoszmilewski.com/2016/08/16/profunctor-polymorphism/)
 * [Addressing Pieces of State with Profunctors](http://blog.sigfpe.com/2017/01/addressing-pieces-of-state-with.html)
 * [Profunctors, Arrows, & Static Analysis](http://elvishjerricco.github.io/2017/03/10/profunctors-arrows-and-static-analysis.html)
-* [Profunctors for encoding and decoding | Avoltus](https://www.avoltus.com/fi/blog/2017-9-29-profunctors-encoding-and-decoding)
+* [Profunctors for encoding and decoding \| Avoltus](https://www.avoltus.com/fi/blog/2017-9-29-profunctors-encoding-and-decoding)
 
 ### Contravariant
 * [contravariant](https://hackage.haskell.org/package/contravariant)
@@ -78,7 +78,7 @@ class Functor f => Applicative f where
 * [Functorial Blog - Co Finds a Pairing](http://blog.functorial.com/posts/2017-12-10-Co-Finds-A-Pairing.html)
 * [Applicative functors in Haskell – Lazy Eval – Medium](https://medium.com/lazy-eval/applicative-functors-in-haskell-f509e1c764d3)
 * [Applicative Functors and data validation](https://carlosmchica.github.io/applicatives-validation/)
-* [Applicative Functors and data validation | Codurance | Craft at Heart | London | Barcelona](https://codurance.com/2017/11/30/applicatives-validation/)
+* [Applicative Functors and data validation \| Codurance \| Craft at Heart \| London \| Barcelona](https://codurance.com/2017/11/30/applicatives-validation/)
 
 ### Discrimination
 * [discrimination](http://hackage.haskell.org/package/discrimination)
@@ -126,7 +126,7 @@ class Monad m where
 * [Loop School - F-Algebras Part1](http://school.looprecur.com/?video=122715366)
 * [Loop School - F-Algebras Part2](http://school.looprecur.com/?video=122716014)
 * [Loop School - F-Algebras Part3](http://school.looprecur.com/?video=122716071)
-* [モナドって何だろうか | その他ブログ](https://kiwamu.wordpress.com/2017/02/01/%e3%83%a2%e3%83%8a%e3%83%89%e3%81%a3%e3%81%a6%e4%bd%95%e3%81%a0%e3%82%8d%e3%81%86%e3%81%8b/)
+* [モナドって何だろうか \| その他ブログ](https://kiwamu.wordpress.com/2017/02/01/%e3%83%a2%e3%83%8a%e3%83%89%e3%81%a3%e3%81%a6%e4%bd%95%e3%81%a0%e3%82%8d%e3%81%86%e3%81%8b/)
 * [06 Automatically escaping Monads - YouTube](https://www.youtube.com/watch?v=wG8AErq6Bbo#t=356.5936)
 * [DefaultSignaturesを用いたMonadの理想的な定義](http://qiita.com/tanakh/items/27b1c08b9f03d6836c13)
 * [Three Useful Monads](http://adit.io/posts/2013-06-10-three-useful-monads.html)
@@ -188,7 +188,7 @@ class Monad m where
 * [Partial patterns in do blocks: let vs return](https://www.fpcomplete.com/blog/2017/03/partial-patterns-do-blocks)
 * [Obey the (Type) Laws!](https://hackernoon.com/obey-the-type-laws-ffb2fa4e5fe2#.x2lshvr9k)
 * [A Logical Relation for Monadic Encapsulation of State Proving contextual equivalences in the presence of runST](http://iris-project.org/pdfs/runST.pdf)
-* [Badness 10.0000 | Escaping Hell with Monads](https://philipnilsson.github.io/Badness10k/posts/2017-05-07-escaping-hell-with-monads.html)
+* [Badness 10.0000 \| Escaping Hell with Monads](https://philipnilsson.github.io/Badness10k/posts/2017-05-07-escaping-hell-with-monads.html)
 * [[Haskell]結局、モナド則は何を要求しているのか - Qiita](https://qiita.com/tezca686/items/78d099987894ac7bec48)
 * [モナドを使ったモノイドのインスタンス - Qiita](https://qiita.com/hiratara/items/9a78540698943009ebc7)
 * [作って理解する Haskell の Monad - Qiita](https://qiita.com/satosystems/items/e8788f05924cef226493)
@@ -360,7 +360,7 @@ Reader + Writer + State
 ### Indexed Monad
 * [What is indexed monad?](http://stackoverflow.com/questions/28690448/what-is-indexed-monad)
 * [Indexed Monadの世界](http://fumieval.hatenablog.com/entry/2013/05/04/144840)
-* [Motor: Finite-State Machines in Haskell | Func Da World](https://wickstrom.tech/programming/2017/10/27/motor-finite-state-machines-haskell.html)
+* [Motor: Finite-State Machines in Haskell \| Func Da World](https://wickstrom.tech/programming/2017/10/27/motor-finite-state-machines-haskell.html)
 
 ### Super Monad
 * [スーパーモナドについて - Qiita](https://qiita.com/wgag/items/11a6e667011d530832e8)

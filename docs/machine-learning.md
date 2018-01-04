@@ -31,7 +31,7 @@
 * [Decision Trees Are Free Monads Over the Reader Functor](http://clathomasprime.github.io/hask/freeDecision)
 * [tdigest: On-line accumulation of rank-based statistics](https://hackage.haskell.org/package/tdigest)
 * [Recursive Stochastic Processes · jtobin.io](https://jtobin.io/recursive-stochastic-processes)
-* [Haskell: Data Analysis Made Easy | PACKT Books](https://www.packtpub.com/big-data-and-business-intelligence/haskell-data-analysis-made-easy)
+* [Haskell: Data Analysis Made Easy \| PACKT Books](https://www.packtpub.com/big-data-and-business-intelligence/haskell-data-analysis-made-easy)
 * [HaskellでMNISTを使えるようにする - Qiita](http://qiita.com/ku00/items/2a8166735edb32b5766d)
 * [巡回セールスマン問題を遺伝的アルゴリズムを使ってHaskellで解く！ - Qiita](https://qiita.com/v97ug/items/d6dd50a2b6b84a9e4d41)
 
@@ -47,7 +47,7 @@
 * [chatter: A library of simple NLP algorithms.](https://hackage.haskell.org/package/chatter)
 * [The Functional Morphology Library](http://www.cse.chalmers.se/alumni/markus/FM_Tech_Report.pdf)
 * [aneksteind/hext](https://github.com/aneksteind/hext)
-* [duckling Haskell package - Systems | LibHunt](https://haskell.libhunt.com/project/duckling)
+* [duckling Haskell package - Systems \| LibHunt](https://haskell.libhunt.com/project/duckling)
 
 ## 画像解析
 * [haskell-opencv](http://lumiguide.github.io/haskell-opencv/)
@@ -92,7 +92,7 @@ instance Monad Dist where
 [FUNCTIONAL PEARLS: Probabilistic Functional Programming in Haskell](https://web.engr.oregonstate.edu/~erwig/papers/PFP_JFP06.pdf)
 
 ## 確率論的プログラミング
-* [確率的プログラミング | POSTD](http://postd.cc/probabilistic-programming/)
+* [確率的プログラミング \| POSTD](http://postd.cc/probabilistic-programming/)
 * [Probabilistic Programming](https://media.nips.cc/Conferences/2015/tutorialslides/wood-nips-probabilistic-programming-tutorial-2015.pdf)
 * [adscib/monad-bayes](https://github.com/adscib/monad-bayes)
   * [Practical Probabilistic Programming with Monads](https://www.youtube.com/watch?v=hI0ajVy2xEk)

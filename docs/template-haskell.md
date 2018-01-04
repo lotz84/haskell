@@ -12,7 +12,7 @@ Template Haskell はHaskellの言語仕様には無くGHCの独自拡張なの�
 * [What Template Haskell gets wrong and Racket gets right](http://blog.ezyang.com/2016/07/what-template-haskell-gets-wrong-and-racket-gets-right/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+ezyang+%28Inside+245s%29)
 * [functor.tokyo -- Inspecting generated Template Haskell](https://functor.tokyo/blog/2017-01-16-looking-at-generated-template-haskell)
 * [Template Haskellを使って定数をコンパイル時に計算しておく - Qiita](http://qiita.com/aosho235/items/62ca7e5b3135e1f3122d)
-* [Quasiquotes and Template Haskell | Py Py Python](http://www.pypython.site/2017/01/quasiquotes-and-template-haskell.html)
+* [Quasiquotes and Template Haskell \| Py Py Python](http://www.pypython.site/2017/01/quasiquotes-and-template-haskell.html)
 * [maxigit/Metamorphosis: TemplateHaskell functions to generate types and converter function.](https://github.com/maxigit/Metamorphosis)
 * [Template Haskell – zw3rk – Medium](https://medium.com/@zw3rk/template-haskell-75c7b67f9718)
 * [Bloggy Badger: Composing Declarations in Template Haskell](http://gelisam.blogspot.jp/2017/10/composing-declarations-in-template.html)
