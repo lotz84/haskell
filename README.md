@@ -6,6 +6,4 @@
 
 出典: [不完全にしておよそ正しくないプログラミング言語小史](http://www.aoky.net/articles/james_iry/brief-incomplete-and-mostly-wrong.htm)
 
-## Docs
-
-https://lotz84.github.io/haskell
+See. <http://lotz84.github.io/haskell/>
