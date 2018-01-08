@@ -417,6 +417,13 @@ Web Application Framework
 * [Haskell・Servant+Persistent/Esqueletoで作る実用WebAPI (4) ServantとPersistent/Esqueletoを結合する - Qiita](https://qiita.com/cyclone_t/items/8b5a80162c4dff3a8770)
 * [Haskell・Servant+Persistent/Esqueletoで作る実用WebAPI (5) 例外処理 - Qiita](https://qiita.com/cyclone_t/items/a38c9dadfc9f7091fa2f)
 * [Haskell・Servant+Persistent/Esqueletoで作る実用WebAPI (6) 共通処理を実装する - Qiita](https://qiita.com/cyclone_t/items/37668d97427c2c618712)
+* [Haskell・Servant+Persistent/Esqueletoで作る実用WebAPI (7) トランザクション - Qiita](https://qiita.com/cyclone_t/items/8f5166f833aa3d1e44a1)
+* [Haskell・Servant+Persistent/Esqueletoで作る実用WebAPI (8) モデル（テーブル定義） - Qiita](https://qiita.com/cyclone_t/items/3b33ae1550500f9a5dbc)
+* [Haskell・Servant+Persistent/Esqueletoで作る実用WebAPI (9) API戻り値の型 - Qiita](https://qiita.com/cyclone_t/items/217ff1a68de031e338b5)
+* [Haskell・Servant+Persistent/Esqueletoで作る実用WebAPI (10) API入力値の扱い - Qiita](https://qiita.com/cyclone_t/items/692ffe72d03636fd8de7)
+* [Haskell・Servant+Persistent/Esqueletoで作る実用WebAPI (11) Esqueleto:selectの基本 - Qiita](https://qiita.com/cyclone_t/items/cb492e53ad71a56ae321)
+* [Haskell・Servant+Persistent/Esqueletoで作る実用WebAPI (番外編・1) Haskellで作ってみるアプリの題材は？ - Qiita](https://qiita.com/cyclone_t/items/d5d3c63c4d1caabf056d)
+
 * [slack-api + bloodhound + servant でbot+αを作る](http://blog.nakaji.me/slack-api-bloodhound-servant/)
 
 ### Yesod
