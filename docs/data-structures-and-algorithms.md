@@ -100,6 +100,7 @@
 * [区間代数と無限小と無限大 - Qiita](https://qiita.com/makoraru/items/768089b2aab1dde47593)
 * [永続リアルタイムキューのHaskell実装と計算量解析 - autotaker's blog](http://autotaker.hatenablog.com/entry/2017/12/21/125153)
 * [部分構造の共有を観測するdata-reify - Qiita](https://qiita.com/masahiro_sakai/items/6a989d5b898a08f17821)
+* [Haskell containers package — containers 0.5.10.2 documentation](https://m-renaud-haskell-containers.readthedocs.io/en/docs/)
 
 ### ソート
 * [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
