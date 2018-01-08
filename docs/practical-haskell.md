@@ -197,6 +197,7 @@
 * [ZERO TO CONTINUOUS INTEGRATED TESTING A HASKELL PROJECT WITH GITLAB](https://vadosware.io/post/zero-to-continuous-integrated-testing-a-haskell-project-with-gitlab/)
 * [CONTINUOUS INTEGRATION TO CONTINOUS DELIVERY HASKELL PROJECT WITH GITLAB](https://vadosware.io/post/continuous-integration-to-continous-delivery-haskell-project-with-gitlab/)
 * [Zero To Continuous Integrated Testing A Haskell Project With Gitlab](https://vadosware.io/post/zero-to-continuous-integrated-testing-a-haskell-project-with-gitlab/)
+* [CircleCI2.0でHaskellのテストを実行する – PSYENCE:MEDIA](https://tech.recruit-mp.co.jp/dev-tools/post-13981/)
 
 ## FFI
 * [inline-c](https://hackage.haskell.org/package/inline-c)
