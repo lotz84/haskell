@@ -155,6 +155,7 @@ yoneda f = Natural $ \ax -> fmap ax f
 * [Reducing boilerplate in finally tagless style](https://ro-che.info/articles/2016-02-03-finally-tagless-boilerplate)
 * [Typed Tagless Final Bioinformatics](https://www.youtube.com/watch?v=dj4j_3M4K-0)
 * [Free monads are very much `initial’.  Compare the final approach: http://okmij.o… \| Hacker News](https://news.ycombinator.com/item?id=10810309)
+* [Optimizing Tagless Final – The Science of Code](http://lukajcb.github.io/blog/functional/2018/01/03/optimizing-tagless-final.html)
 
 ## Free Arrow
 * [Building free arrows from components](http://blog.sigfpe.com/2017/01/building-free-arrows-from-components.html)
