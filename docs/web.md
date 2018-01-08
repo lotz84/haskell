@@ -221,6 +221,7 @@ Web Server
 * [An Opinionated Survey of Functional Web Development](https://dev.yorhel.nl/doc/funcweb)
 * [ChrisPenner/Firefly](https://github.com/ChrisPenner/firefly) - Simple Haskell http framework
 * [modern-uri: Modern library for working with URIs](https://hackage.haskell.org/package/modern-uri)
+* [Crash Course in Happstack](http://happstack.com/docs/crashcourse/index.html)
 
 ### ネットワークプログラミング
 * [network: Low-level networking interface](https://hackage.haskell.org/package/network)
