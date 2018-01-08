@@ -68,6 +68,7 @@
 * [Haskell 初心者へのアドバイス (和訳) - Qiita](https://qiita.com/rounddelta/items/8b7d2a200a932e761fa3)
 * [なぜ Haskell が好きなのか - 趣味はデバッグ……](http://kakkun61.hatenablog.com/entry/2017/12/25/%E3%81%AA%E3%81%9C_Haskell_%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%AA%E3%81%AE%E3%81%8B)
 * [拙書「Haskell 教養としての関数型プログラミング」の紹介 - Qiita](https://qiita.com/YoshikuniJujo/items/0708f108bf53a216a61a)
+* [Haskell、または関数プログラミングの景色について - Qiita](https://qiita.com/takenobu-hs/items/dc85d455fef41c091383)
 </details>
 
 <details>
