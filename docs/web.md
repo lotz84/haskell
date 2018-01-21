@@ -92,6 +92,7 @@ Client
 * Shipwire
   * [ballast Haskell package - Web \| LibHunt](https://haskell.libhunt.com/project/ballast)
 * [matterhorn-chat/mattermost-api: Client side API for communicating with a mattermost server in Haskell](https://github.com/matterhorn-chat/mattermost-api)
+* [himura/rio: Remote IO - A Tiny HTTP Client](https://github.com/himura/rio)
 
 Scraping
 --------
