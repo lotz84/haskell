@@ -37,6 +37,8 @@
 * [Haskellや周辺ツールについてのリンク集 - Qiita](https://qiita.com/ogata-k/items/23d70250ec42359b6bb5)
 * [Stackage Serverのちょっとした便利な使い方,Hoogleをブラウザのカスタム検索エンジンに追加しましょう,よく使うパッケージをブックマークする時はPackageRのURLにしましょう - ncaq](https://www.ncaq.net/2017/12/04/00/00/00/)
 * [Redesigning Haskell docs - Nuno Alexandre](https://nunoalexandre.com/2018/02/04/redesigning-haskell-docs)
+* [Hash Based Package Downloads - part 1 of 2](https://www.fpcomplete.com/blog/2018/01/hash-based-package-downloads-part-1-of-2#)
+* [Hash Based Package Downloads - part 2 of 2](https://www.fpcomplete.com/blog/2018/01/hash-based-package-downloads-part-2-of-2)
 
 ## GHCi
 * [ghciでマルチバイト文字をエスケープせず表示させる](http://qiita.com/aosho235/items/bdfa4a68b77b9fcc4a35)
