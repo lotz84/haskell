@@ -200,6 +200,7 @@ class Monad m where
 * [Monadic “do” block, yet again – Techscape](https://blog.ramdoot.in/monadic-do-block-yet-again-a98cf0237b25)
 * [What is a Monad? - Computerphile - YouTube](https://www.youtube.com/watch?v=t1e8gqXLbsU)
 * [Haskell副作用ポエム - Qiita](https://qiita.com/Mizunashi_Mana/items/e82214dfae2765c6839a)
+* [Papers We Love San Diego - Monads for Functional Programming - YouTube](https://www.youtube.com/watch?v=kYaowT7wT0E)
 
 ```haskell
 do x <- mx
