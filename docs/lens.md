@@ -65,6 +65,7 @@
 * [Comonads](https://bartoszmilewski.com/2017/01/02/comonads/)
 * [Who needs HashLife when you have comonads?](https://samtay.github.io/posts/comonadic-game-of-life.html)
 * [The Comonad.Reader » The State Comonad](http://comonad.com/reader/2018/the-state-comonad/)
+* [Do disturb me | Cellular Christmas Tree](https://dodisturb.me/posts/2018-01-28-Cellular-Christmas-Tree.html)
 
 ```hs
 class Functor w => Comonad w where
