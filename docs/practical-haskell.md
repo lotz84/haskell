@@ -365,3 +365,4 @@
 * [HaskellのABC(Haskell Advent Calendar 6th) - モナドとわたしとコモナド](http://fumieval.hatenablog.com/entry/2017/12/19/203500)
 * [Weakly Typed Haskell](https://www.fpcomplete.com/blog/2018/01/weakly-typed-haskell?utm_campaign=Service%20-%20Haskell&utm_content=65146654&utm_medium=social&utm_source=twitter)
 * [Professional Haskellers: What are your major pain points? : haskell](https://www.reddit.com/r/haskell/comments/7rwuxb/professional_haskellers_what_are_your_major_pain/)
+* [GHC Infrastructure update - YouTube](https://www.youtube.com/watch?v=J-0W4nbBVjk&list=PLnqUlCo055hUyEP_fcuY0SQMzZp-kyWiD)
