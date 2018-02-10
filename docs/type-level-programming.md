@@ -84,7 +84,6 @@
 * [[Haskell-cafe] [ANN]: fin & vec](https://mail.haskell.org/pipermail/haskell-cafe/2017-November/128195.html)
 * [Dependent Types in Haskell](https://haskell-serbia.com/tutorial/4)
 * [Overlapping and Order-Independent Patterns](https://lirias.kuleuven.be/bitstream/123456789/442509/1/main.pdf)
-* [Introduction to Singletons (Part 1) · in Code](https://blog.jle.im/entry/introduction-to-singletons-1.html)
 * [しりとりの圏の実装(未完) - Qiita](https://qiita.com/hiratara/items/6265b5d4791144bee33b)
 * [しりとりの圏の回答、または定理証明Haskellを少しだけ - Qiita](https://qiita.com/as_capabl/items/2031fe28e577e77dc269)
 * [あいや☆ぱぶりっしゅぶろぐ！ - baseパッケージにある型レベルプログラミング探検の旅](http://aiya000.github.io/posts/2017-12-03-type-programming-in-base.html)
@@ -359,3 +358,5 @@ instance Eval' Hole where
 ### Singleton
 * [singletons](https://hackage.haskell.org/package/singletons)
 * [Singletons](http://mbps.hatenablog.com/entry/2013/05/23/084257)
+* [Introduction to Singletons (Part 1) · in Code](https://blog.jle.im/entry/introduction-to-singletons-1.html)
+* [Introduction to Singletons (Part 2) · in Code](https://blog.jle.im/entry/introduction-to-singletons-2.html)
