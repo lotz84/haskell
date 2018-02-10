@@ -54,6 +54,7 @@ instance Functor f => Monad (Free f) where
 * [Optimising free monad programs using Plated](https://qfpl.io/posts/optimising-free-with-plated/)
 * [Free Monads: from the basics to the implementation of composable and effectful stream processing](https://deque.blog/2017/11/13/free-monads-from-basics-up-to-implementing-composable-and-effectful-stream-processing/)
 * [Free Monads: from the basics to the implementation of composable and effectful stream processing – Deque](https://deque.blog/2017/11/13/free-monads-from-basics-up-to-implementing-composable-and-effectful-stream-processing/)
+* [Tweag I/O - Free monads for cheap interpreters](https://www.tweag.io/posts/2018-02-05-free-monads.html)
 
 ### Coyoneda
 * [Loop School - Coyoneda](http://school.looprecur.com/?video=122708005)
