@@ -138,6 +138,7 @@ Haskellを利用している日本の企業
 * [FP @ FB](http://www.scs.stanford.edu/16wi-cs240h/slides/fb-slides.html)
 * [Haskell positions at Facebook](http://simonmar.github.io/posts/2016-08-24-haskell-positions-at-facebook.html)
 * [Haskell in the Datacentre](http://simonmar.github.io/posts/2016-12-08-Haskell-in-the-datacentre.html)
+* [Hotswapping Haskell · Simon Marlow](http://simonmar.github.io/posts/2017-10-17-hotswapping-haskell.html)
 
 ### Twitter
 * [FUNctional Programming with Haskell - Twitter Tech Talk](https://www.wagonhq.com/blog/twitter-tech-talk)
