@@ -95,6 +95,7 @@ instance Show Bool where
 * [Electoral vote distributions are polynomials](https://ro-che.info/articles/2016-10-28-vote-distributions-polynomials)
 * [Monoids on Steroids \|   Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2017/02/09/monoids-on-steroids/)
 * [Monoids: what they are, why they are useful, and what they teach us about software](https://deque.blog/2017/09/13/monoids-what-they-are-why-they-are-useful-and-what-they-teach-us-about-software/)
+* [An Introduction to Monoids](https://blog.axosoft.com/monoids-practical-category-theory/)
 
 > lists are not free monoids in Haskell.
 
