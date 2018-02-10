@@ -110,6 +110,7 @@ Haskellを利用している日本の企業
 * [ZuriHac 2016: Functional Programming at LumiGuide](https://www.youtube.com/watch?v=IKznN_TYjZk)
 * [Jobs in Haskell](https://www.jobsinnew.tech/langs/haskell/)
 * [Writing Haskell at music start-up? : haskell](https://www.reddit.com/r/haskell/comments/7smr8o/writing_haskell_at_music_startup/)
+* [Haskell job opportunity at Tocoman in Helsinki, Finland : haskell](https://www.reddit.com/r/haskell/comments/7rhfot/haskell_job_opportunity_at_tocoman_in_helsinki/)
 
 ### FPComplete
 * [FPComplete](https://www.fpcomplete.com/)
