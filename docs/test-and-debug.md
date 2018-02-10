@@ -121,6 +121,7 @@ Passed:
 * [Debugging C with Haskell's Divisible](http://www.michaelburge.us/2017/09/27/delta-debugging-in-haskell.html)
 * [bitemyapp - Alternatives to Typed Holes for talking to your compiler](http://bitemyapp.com//posts/2017-09-23-please-stop-using-typed-holes.html)
 * [Neil Mitchell's Haskell Blog: Announcing the 'debug' package](http://neilmitchell.blogspot.jp/2017/12/announcing-debug-package.html)
+* [Haskell でのデバッグ手法あれこれ | 雑記帳](https://blog.miz-ar.info/2018/01/debugging-haskell-program/)
 
 ## 例外処理
 * [エラー処理を書いてはいけない](http://tanakh.jp/pub/pfi-seminar-2011-12-08.html)
