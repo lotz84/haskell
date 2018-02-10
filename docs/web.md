@@ -555,6 +555,7 @@ Others
 * [The resource-pool package](https://hackage.haskell.org/package/resource-pool)
 * [nginx module to enable haskell binding to nginx configuration files](http://lin-techdet.blogspot.jp/2015/12/nginx-module-to-enable-haskell-binding.html)
 * [Тех-Детали: nginx-haskell-module: labeled media routing example](http://lin-techdet.blogspot.jp/2017/01/nginx-haskell-module-labeled-media.html)
+* [Nginx Haskell module (yet another doc with examples)](https://nbviewer.jupyter.org/github/lyokha/nginx-haskell-module/blob/master/docs/yet-another-doc-with-examples/nginx-haskell-module-yadwe.pdf)
 * [ANN: QuickLift](http://www.parsonsmatt.org/2016/01/03/ann_quicklift.html)
 * [liqd/thentos](https://github.com/liqd/thentos)
 * [Tor in Haskell & Other Unikernel Tricks](http://www.infoq.com/presentations/tor-haskell)
