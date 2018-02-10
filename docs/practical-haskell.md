@@ -36,6 +36,7 @@
 * [Literate Markdown (markdown-unlit の使い方) について](https://haskell.e-bigmoon.com/posts/2017-12-29-literate-markdown)
 * [Haskellや周辺ツールについてのリンク集 - Qiita](https://qiita.com/ogata-k/items/23d70250ec42359b6bb5)
 * [Stackage Serverのちょっとした便利な使い方,Hoogleをブラウザのカスタム検索エンジンに追加しましょう,よく使うパッケージをブックマークする時はPackageRのURLにしましょう - ncaq](https://www.ncaq.net/2017/12/04/00/00/00/)
+* [Redesigning Haskell docs - Nuno Alexandre](https://nunoalexandre.com/2018/02/04/redesigning-haskell-docs)
 
 ## GHCi
 * [ghciでマルチバイト文字をエスケープせず表示させる](http://qiita.com/aosho235/items/bdfa4a68b77b9fcc4a35)
