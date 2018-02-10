@@ -62,6 +62,7 @@ $ alias ghci='stack ghci --'
 * [Qiita - Intero for Emacs](http://qiita.com/hiratara/items/a963960f7593db4b43ab)
 * [Intero for Emacs: Changes June–July](https://haskell-lang.org/announcements)
 * [haskellのstackでghc-modを利用時に一部パッケージのimportでエラーとなる](http://qiita.com/katsuyan/items/a132d7bf6817f19af2d6)
+* [気がついたら Emacs の Haskell を勉強する環境が整っていた話 - Diary over Finite Fields](http://blog.515hikaru.net/entry/2016/09/12/021206)
 
 ### Atom
 * [Switching from Vim to Atom (A Haskeller's Perspective)](http://edsko.net/2015/03/07/vim-to-atom/)
