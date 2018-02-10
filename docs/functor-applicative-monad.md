@@ -79,6 +79,7 @@ class Functor f => Applicative f where
 * [Applicative functors in Haskell – Lazy Eval – Medium](https://medium.com/lazy-eval/applicative-functors-in-haskell-f509e1c764d3)
 * [Applicative Functors and data validation](https://carlosmchica.github.io/applicatives-validation/)
 * [Applicative Functors and data validation \| Codurance \| Craft at Heart \| London \| Barcelona](https://codurance.com/2017/11/30/applicatives-validation/)
+* [Applicative Functors and data validation, part II \| Codurance \| Craft at Heart \| London \| Barcelona](https://codurance.com/2018/01/11/applicatives-validation/)
 
 ### Discrimination
 * [discrimination](http://hackage.haskell.org/package/discrimination)
