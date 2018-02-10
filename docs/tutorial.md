@@ -140,6 +140,7 @@
 * [Haskell for all: Advice for Haskell beginners](http://www.haskellforall.com/2017/10/advice-for-haskell-beginners.html)
 * [Haskell without the theory — Haskell without the theory 1.0 documentation](https://www.vacationlabs.com/haskell/index.html)
 * [Haskell for JavaScript programmers : programming](https://www.reddit.com/r/programming/comments/7ri2io/haskell_for_javascript_programmers/)
+ * [argumatronic - The Nesting Instinct](https://argumatronic.com/posts/2018-01-23-the-nesting-instinct.html)
 </details>
 
 ## Examples
