@@ -67,6 +67,7 @@ parse = evalStateT
 * [モナディック・パーサー](http://d.hatena.ne.jp/kazu-yamamoto/20080920/1221881130)
 * [構文解析器結合子](https://www.ipsj.or.jp/07editj/promenade/4702.pdf)
 * [Monadic Parsing in Haskell](http://www.cs.nott.ac.uk/~gmh/pearl.pdf)
+* [Revisiting 'Monadic Parsing in Haskell' - Vaibhav Sagar](http://vaibhavsagar.com/blog/2018/02/04/revisiting-monadic-parsing-haskell/)
 * [Pandoc - a universal document converter](http://pandoc.org/)
   * [Try pandoc!](http://pandoc.org/try/)
   * [markup.rocks](http://markup.rocks/)
