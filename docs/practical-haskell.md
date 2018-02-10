@@ -39,6 +39,8 @@
 * [Redesigning Haskell docs - Nuno Alexandre](https://nunoalexandre.com/2018/02/04/redesigning-haskell-docs)
 * [Hash Based Package Downloads - part 1 of 2](https://www.fpcomplete.com/blog/2018/01/hash-based-package-downloads-part-1-of-2#)
 * [Hash Based Package Downloads - part 2 of 2](https://www.fpcomplete.com/blog/2018/01/hash-based-package-downloads-part-2-of-2)
+* [SLURP](https://www.snoyman.com/blog/2018/01/slurp)
+* [SLURP: a Single Liberal Unified Registry of Haskell Packages by simonmar · Pull Request #4 · haskell/ecosystem-proposals](https://github.com/haskell/ecosystem-proposals/pull/4)
 
 ## GHCi
 * [ghciでマルチバイト文字をエスケープせず表示させる](http://qiita.com/aosho235/items/bdfa4a68b77b9fcc4a35)
@@ -297,6 +299,7 @@
 * [Domain Modelling with Haskell: Accumulating with WriterT | Haskell at Work](https://haskell-at-work.com/episodes/2018-02-02-domain-modelling-with-haskell-accumulating-with-writert.html)
 * [Domain Modelling with Haskell: Generalizing with Foldable and Traversable | Haskell at Work](https://haskell-at-work.com/episodes/2018-01-22-domain-modelling-with-haskell-generalizing-with-foldable-and-traversable.html)
 * [Domain Modelling with Haskell: Data Structures | Haskell at Work](https://haskell-at-work.com/episodes/2018-01-19-domain-modelling-with-haskell-data-structures.html)
+* [Why Take Ecstasy :: Reasonably Polymorphic](http://reasonablypolymorphic.com/blog/why-take-ecstasy)
 
 ----
 
