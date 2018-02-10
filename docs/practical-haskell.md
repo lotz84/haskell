@@ -202,6 +202,15 @@
 * [Zero To Continuous Integrated Testing A Haskell Project With Gitlab](https://vadosware.io/post/zero-to-continuous-integrated-testing-a-haskell-project-with-gitlab/)
 * [CircleCI2.0でHaskellのテストを実行する – PSYENCE:MEDIA](https://tech.recruit-mp.co.jp/dev-tools/post-13981/)
 
+## Another Prelude Libraries
+* [The rebase package](http://hackage.haskell.org/package/rebase)
+* [nikita-volkov/rerebase](https://github.com/nikita-volkov/rerebase)
+* [Base で定義されている演算子の一覧](http://hackage.haskell.org/package/acme-operators/docs/Acme-Operators-Base.html)
+* [The base-prelude package](https://hackage.haskell.org/package/base-prelude)
+* [Foundation](http://tab.snarc.org/posts/haskell/2016-09-09-foundation.html)
+* [commercialhaskell/rio: A standard library for Haskell](https://github.com/commercialhaskell/rio)
+* [serokell/universum: Prelude used in @Serokell](https://github.com/serokell/universum#universum)
+
 ## FFI
 * [inline-c](https://hackage.haskell.org/package/inline-c)
 * [FFI使ってC++バインディングに入門](http://mymo.blog8.fc2.com/blog-entry-52.html)
