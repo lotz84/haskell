@@ -232,6 +232,7 @@
   * [Persistent Red Black Trees in Haskell](https://functional.works-hub.com/blog/Persistent-Red-Black-Trees-in-Haskell)
 * [Tree: 親子関係の付け替え - Qiita](https://qiita.com/nobsun/items/27fe53516cbb90ba02e2)
 * [HaskellでB-treeを実装 - でかいチーズをベーグルする](http://yamaguchiyuto.hatenablog.com/entry/2018/01/03/110000)
+* [radixtree: a prefix-tree parsing library for Haskell](https://quasimal.com/posts/2018-01-08-prefix-tree-parsing.html)
 
 ### Map
 * [tim philip williams :: Functional pearl: Nested Datacubes](http://www.timphilipwilliams.com/posts/2017-04-12-nested-datacubes.html)
