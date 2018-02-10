@@ -176,6 +176,7 @@ HTML Template
 * [Haskell Formlets: Composable web form construction and validation](http://chrisdone.com/posts/haskell-formlets)
 * [Formlets are biapplicative](https://pepeiborra.wordpress.com/2017/09/21/formlets-are-biapplicative/)
 * [type-of-html: High performance type driven html generation.](https://hackage.haskell.org/package/type-of-html)
+* [nice-html: a fast and fancy HTML generation library](https://quasimal.com/posts/2018-01-11-nice-html.html)
 
 ### Lucid
 * [chrisdone/lucid](https://github.com/chrisdone/lucid)
