@@ -10,6 +10,7 @@
 * [Announce: dejafu-0.1.0.0](http://www.barrucadu.co.uk/posts/2015-08-27-announce-dejafu.html)
 * [feuerbach/smallcheck](https://github.com/feuerbach/smallcheck)
 * [Tasty](http://documentup.com/feuerbach/tasty)
+* [Dynamic Test Suites in Haskell using Hspec and Tasty - YouTube](https://www.youtube.com/watch?v=PGsDvgmZF7A&t=3s)
 * [Unit testing IO in Haskell](https://blog.pusher.com/unit-testing-io-in-haskell/)
 * [The webdriver package](https://hackage.haskell.org/package/webdriver)
 * [Hspec: A Testing Framework for Haskell](http://hspec.github.io/index.html)
