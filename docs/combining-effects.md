@@ -29,6 +29,7 @@ Monad Transformer
 * [IO (Maybe a)というタイトルでモナド変換子について学んだことを話した - #LT駆動](http://blog.eiel.info/blog/2016/07/03/ltdd-27-io-maybe/)
 * [IO (Maybe String)を触ってみる](http://qiita.com/eielh/items/2f0f774914431990ec37)
 * [Haskellモナドトランスフォーマー(1)](http://delihiros.hatenablog.jp/entry/2012/04/19/140557)
+* [Monad transformer](https://anhduy.io/posts/2018-02-08-monad-transformer.html)
 
 ### 圏論
 * [Monad transformer](http://mbps.hatenablog.com/entry/2014/06/28/033234)
