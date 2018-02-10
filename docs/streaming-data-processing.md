@@ -102,4 +102,4 @@ main = do
 * [THE EXODUS TO STREAMGARD, AN EPIC POEM](http://www.tweag.io/posts/2017-11-01-streaming-and-foldl.html)
 * [Event Sourcing is a transferable skill \| Arkency Blog](https://blog.arkency.com/event-sourcing-is-a-transferable-skill/)
 * [Exploiting Vector Instructions with Generalized Stream Fusion \| Lambda the Ultimate](http://lambda-the-ultimate.org/node/5485)
-
+* [Drinkery the boozy streaming library - School of Haskell | School of Haskell](https://www.schoolofhaskell.com/user/fumieval/drinkery-the-boozy-streaming-library)
