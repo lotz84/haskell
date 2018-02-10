@@ -110,6 +110,7 @@ class (Functor t, Foldable t) => Traversable t where
 * [Accidentally Quadratic — GHC Derived Foldable and Traversable Instances](https://accidentallyquadratic.tumblr.com/post/134605666547/ghc-derived-foldable-and-traversable-instances)
 * [Traversable: A Remix - The Life Monadic](http://duplode.github.io/posts/traversable-a-remix.html)
 * [Beautiful Aggregations with Haskell \| Front Row](http://tech.frontrowed.com/2017/09/22/aggregations/)
+* [benjamin.pizza - Zip-Folding](https://www.benjamin.pizza/posts/2018-01-10-zip-folding.html)
 
 #### Distributive
 Distributive is the categorical dual of Traversable.
