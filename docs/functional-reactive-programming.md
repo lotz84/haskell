@@ -71,6 +71,7 @@
 * [Queensland FP Lab - Working with the DOM](https://blog.qfpl.io/posts/reflex/basics/dom/)
 * [Queensland FP Lab - Growing a Date Picker in Reflex - Part 1](https://blog.qfpl.io/posts/reflex/widgets/growing-a-date-picker-1/)
 * [An Introduction to Brick+Reflex](http://hexagoxel.de/postsforpublish/posts/2017-10-30-brick-plus-reflex.html)
+* [Semantic UI for Reflex Dom](https://tomsmalley.github.io/semantic-reflex/)
 
 ### Netwire
 * [Today in Code — Almost a Netwire 5 Tutorial](http://todayincode.tumblr.com/post/96914679355/almost-a-netwire-5-tutorial)
