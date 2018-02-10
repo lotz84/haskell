@@ -93,6 +93,7 @@ $ alias ghci='stack ghci --'
 * [VS Code と haskell-ide-engine で Haskell 開発環境を構築する - Qiita](https://qiita.com/waddlaw/items/b83cd10311200095fe87)
 * [VS Code で Ghcid を使う (和訳) - Qiita](https://qiita.com/rounddelta/items/27c12237d9ef1c5569ba)
 * [ott - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=JoeyEremondi.ott)
+* [VisualStudioCode で Haskell のコードを実行するショートカットを設定する - Qiita](https://qiita.com/jnhnd/items/240c41ea5dd7acd9e54c)
 
 ### Yi
 * [YiエディタでVimスタイルをベースに拡張設定する(1)](http://qiita.com/aiya000/items/376a2bed4ddd12433b31)
