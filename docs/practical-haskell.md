@@ -364,3 +364,4 @@
 * [A Tour of Go in Haskellを作ったのと、GoとHaskellの比較 - syocy’s diary](http://syocy.hatenablog.com/entry/a-tour-of-go-in-haskell)
 * [HaskellのABC(Haskell Advent Calendar 6th) - モナドとわたしとコモナド](http://fumieval.hatenablog.com/entry/2017/12/19/203500)
 * [Weakly Typed Haskell](https://www.fpcomplete.com/blog/2018/01/weakly-typed-haskell?utm_campaign=Service%20-%20Haskell&utm_content=65146654&utm_medium=social&utm_source=twitter)
+* [Professional Haskellers: What are your major pain points? : haskell](https://www.reddit.com/r/haskell/comments/7rwuxb/professional_haskellers_what_are_your_major_pain/)
