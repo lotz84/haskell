@@ -284,6 +284,10 @@
 * [The RIO Monad](https://www.fpcomplete.com/blog/2017/07/the-rio-monad)
 * [Functional Design and Architecture : haskell](https://www.reddit.com/r/haskell/comments/6ck72h/functional_design_and_architecture/)
 * [Eventful email signup](https://medium.com/@concertdaw/eventful-email-signup-f0814fc7d7fa)
+* [Design Patterns in Haskell Part 1: The Strategy Pattern](http://storm-country.com/blog/gof-strategy)
+* [Domain Modelling with Haskell: Accumulating with WriterT | Haskell at Work](https://haskell-at-work.com/episodes/2018-02-02-domain-modelling-with-haskell-accumulating-with-writert.html)
+* [Domain Modelling with Haskell: Generalizing with Foldable and Traversable | Haskell at Work](https://haskell-at-work.com/episodes/2018-01-22-domain-modelling-with-haskell-generalizing-with-foldable-and-traversable.html)
+* [Domain Modelling with Haskell: Data Structures | Haskell at Work](https://haskell-at-work.com/episodes/2018-01-19-domain-modelling-with-haskell-data-structures.html)
 
 ----
 
