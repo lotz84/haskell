@@ -87,6 +87,7 @@
 * [Using Haskell in an Xcode Cocoa project](https://wiki.haskell.org/Using_Haskell_in_an_Xcode_Cocoa_project)
 * [A Haskell Cross Compiler for iOS – zw3rk – Medium](https://medium.com/@zw3rk/a-haskell-cross-compiler-for-ios-7cc009abe208)
 * [iOS and Template Haskell – zw3rk – Medium](https://medium.com/@zw3rk/ios-and-template-haskell-6305c105b354)
+* [MobileHaskell（iOS）](https://codetalk.io/posts/2018-02-07-Mobile-Haskell.html)
 
 ## Android
 * [Android](https://wiki.haskell.org/Android)
