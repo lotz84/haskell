@@ -109,6 +109,7 @@ Haskellを利用している日本の企業
 * [Jane Street](https://www.janestreet.com/)
 * [ZuriHac 2016: Functional Programming at LumiGuide](https://www.youtube.com/watch?v=IKznN_TYjZk)
 * [Jobs in Haskell](https://www.jobsinnew.tech/langs/haskell/)
+* [Writing Haskell at music start-up? : haskell](https://www.reddit.com/r/haskell/comments/7smr8o/writing_haskell_at_music_startup/)
 
 ### FPComplete
 * [FPComplete](https://www.fpcomplete.com/)
