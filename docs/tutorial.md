@@ -139,7 +139,7 @@
 * [Learn you a Haskell - In a nutshell](https://gist.github.com/mikehaertl/3258427)
 * [Haskell for all: Advice for Haskell beginners](http://www.haskellforall.com/2017/10/advice-for-haskell-beginners.html)
 * [Haskell without the theory — Haskell without the theory 1.0 documentation](https://www.vacationlabs.com/haskell/index.html)
-
+* [Haskell for JavaScript programmers : programming](https://www.reddit.com/r/programming/comments/7ri2io/haskell_for_javascript_programmers/)
 </details>
 
 ## Examples
