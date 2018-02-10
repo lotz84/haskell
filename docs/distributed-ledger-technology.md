@@ -33,6 +33,9 @@
 
 * [Let's Talk ETC! (Ethereum Classic) #15 - Dr. Duncan Coutts - Provably Secure Smart Contracts - YouTube](https://www.youtube.com/watch?v=XCtfrZitfg4&feature=youtu.be)
 
+## Cardano
+* [wkawin / Ouroboros / ソース / — Bitbucket](https://bitbucket.org/wkawin/ouroboros/src)
+
 ### BlockApps
 * [BlockApps](http://blockapps.net/)
 * <https://github.com/blockapps>
