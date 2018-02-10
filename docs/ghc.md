@@ -257,6 +257,7 @@ $ stack exec -- <your program> +RTS <profiling options>
 * [Haskellの言語拡張たち](http://rf0444.hatenablog.jp/entry/20120513/1336883141)
 * [StrictData拡張について](http://qiita.com/Mizunashi_Mana/items/8edf7781ed4eb4eea4e9)
 * [ApplicativeDo 拡張について](http://qiita.com/thimura/items/120f40c4e49f9154ac8a)
+* [非可述多相に触れる： GHC の ImpredicativeTypes 拡張 - Qiita](https://qiita.com/mod_poppo/items/806c9c3e0ccb46be92ae)
 
 ### Pattern Synonyms
 * [Pattern Synonyms](https://ghc.haskell.org/trac/ghc/wiki/PatternSynonyms)
