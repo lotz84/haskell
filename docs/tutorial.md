@@ -69,10 +69,12 @@
 * [なぜ Haskell が好きなのか - 趣味はデバッグ……](http://kakkun61.hatenablog.com/entry/2017/12/25/%E3%81%AA%E3%81%9C_Haskell_%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%AA%E3%81%AE%E3%81%8B)
 * [拙書「Haskell 教養としての関数型プログラミング」の紹介 - Qiita](https://qiita.com/YoshikuniJujo/items/0708f108bf53a216a61a)
 * [Haskell、または関数プログラミングの景色について - Qiita](https://qiita.com/takenobu-hs/items/dc85d455fef41c091383)
+
 </details>
 
 <details>
 <summary>英語チュートリアル</summary>
+
 * [Haskell Notes for Professionals book](http://books.goalkicker.com/HaskellBook/)
 * [Reading Simple Haskell](https://soupi.github.io/rfc/reading_simple_haskell/)
 * [Keynote: Why Functional Programming Matters - John Hughes, Mary Sheeran (Lambda Days 2017) - YouTube](https://www.youtube.com/watch?v=1qBHf8DrWR8)
@@ -141,6 +143,8 @@
 * [Haskell without the theory — Haskell without the theory 1.0 documentation](https://www.vacationlabs.com/haskell/index.html)
 * [Haskell for JavaScript programmers : programming](https://www.reddit.com/r/programming/comments/7ri2io/haskell_for_javascript_programmers/)
  * [argumatronic - The Nesting Instinct](https://argumatronic.com/posts/2018-01-23-the-nesting-instinct.html)
+ * [Writing Simple Haskell](https://soupi.github.io/rfc/writing_simple_haskell/) - 簡単なTODO管理ツールを作りながらHaskellで実用的なプログラムの書き方を学んでいくチュートリアル
+
 </details>
 
 ## Examples
