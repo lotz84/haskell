@@ -44,6 +44,8 @@
 * [AWS via Haskell Part 5 (Lambda)](http://blog.rcook.org/blog/2017/aws-via-haskell-lambda/)
 * [amazonka-dynamodbで接続先をローカルのDynamoDBにする - Qiita](https://qiita.com/jabaraster/items/45adf8dc82cd4be31036)
 * [Haskell と SQLite - Qiita](https://qiita.com/satosystems/items/32bf104a041c8cc13809)
+* [Queryparser, an Open Source Tool for Parsing and Analyzing SQL](https://eng.uber.com/queryparser/)
+  * [uber/queryparser: Parsing and analysis of Vertica, Hive, and Presto SQL.](https://github.com/uber/queryparser)
 
 Simple Clients
 --------------
