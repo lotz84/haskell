@@ -160,6 +160,7 @@
 * [Haskell Performance Debugging](http://www.parsonsmatt.org/2017/12/18/haskell_performance_debugging.html)
 * [vincenthz/hs-gauge: criterion fork on a diet](https://github.com/vincenthz/hs-gauge)
 * [Haskell のパフォーマンスをデバッグする](https://haskell.e-bigmoon.com/posts/2017-12-27-haskell-performance-debugging)
+* [Fūzetsu's Corner - GHC can output profiling information as JSON and you should use it.](http://fuuzetsu.co.uk/blog/posts/2018-03-02-GHC-can-output-profiles-in-JSON-format.html)
 
 ### スペースリーク
 * [GHC とスペースとリーク](http://d.hatena.ne.jp/kazu-yamamoto/20151217)
