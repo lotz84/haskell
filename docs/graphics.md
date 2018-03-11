@@ -34,6 +34,7 @@
 * [Haskell for Numerics? \| Maths, Stats & Functional Programming](https://idontgetoutmuch.wordpress.com/2017/06/02/1090/)
 * [A Generative Approach to Simulating Watercolor Paints from “Scratch” \| [“turnage”]](https://blog.paytonturnage.com/water_color)
 * [Haskellで二重数を使って自動微分 - Сегодня я узнал](https://genkami.github.io/2018/03/10/02-dual-number-deriv.html)
+* [weeezes/plot: Simple plotting tool for the terminal](https://github.com/weeezes/plot)
 
 ## 画像処理
 * [friday: A functional image processing library for Haskell.](https://hackage.haskell.org/package/friday)
