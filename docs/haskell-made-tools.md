@@ -438,6 +438,14 @@ Line 6:
 * [y-taka-23/thank-you-stars](https://github.com/y-taka-23/thank-you-stars) - Give your dependencies stars on GitHub!
 * [Haskell ライブラリにスターを送るツール thank-you-stars を作ってみました](http://ccvanishing.hateblo.jp/entry/2017/09/14/150435)
 
+### trackit
+* ファイルやディレクトリの変更を検知してコマンドを実行してくれるツール
+* [trackit: A command-line tool for live monitoring](https://hackage.haskell.org/package/trackit)
+
+```shell
+$ trackit --watch-dir=. --command="ls --color"
+```
+
 ### typebot
 * 関数の型を答えてくれるSlack bot
 * <https://github.com/thoughtbot/typebot>
