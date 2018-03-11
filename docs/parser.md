@@ -100,6 +100,8 @@ parse = evalStateT
 * [language-python](https://hackage.haskell.org/package/language-python)
 * [mchakravarty/language-swift-quote](https://github.com/mchakravarty/language-swift-quote)
 * [vincenthz/language-java](https://github.com/vincenthz/language-java)
+* [language-rust: Parsing and pretty printing of Rust code](https://hackage.haskell.org/package/language-rust)
+* [language-c: Analysis and generation of C code](https://hackage.haskell.org/package/language-c)
 
 ## データ構造
 ### バイナリ
