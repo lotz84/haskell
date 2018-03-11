@@ -15,6 +15,7 @@
 * [ghc-proposals/proposals/0000-linear-types.rst](https://github.com/tweag/ghc-proposals/blob/linear-types/proposals/0000-linear-types.rst)
 * [Tweag I/O - Making two garbage collectors be good neighbours <br/> (using linear types)](http://www.tweag.io/posts/2017-11-29-linear-jvm.html)
 * [Linear types can change the world!](http://www.cs.ioc.ee/ewscs/2010/mycroft/linear-2up.pdf)
+* [Tweag I/O - Implementing a safer sort with linear types](https://www.tweag.io/posts/2018-03-08-linear-sort.html)
 
 ## Linear Type as DSL
 * [線形型つきドメイン特化言語 (DSL) を Haskell上に実装する](http://d.hatena.ne.jp/keigoi/20110806/1312604753)
