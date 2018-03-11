@@ -300,6 +300,7 @@
 * [Domain Modelling with Haskell: Generalizing with Foldable and Traversable | Haskell at Work](https://haskell-at-work.com/episodes/2018-01-22-domain-modelling-with-haskell-generalizing-with-foldable-and-traversable.html)
 * [Domain Modelling with Haskell: Data Structures | Haskell at Work](https://haskell-at-work.com/episodes/2018-01-19-domain-modelling-with-haskell-data-structures.html)
 * [Why Take Ecstasy :: Reasonably Polymorphic](http://reasonablypolymorphic.com/blog/why-take-ecstasy)
+* [jaspervdj - Haskell Design Patterns: The Handle Pattern](https://jaspervdj.be/posts/2018-03-08-handle-pattern.html)
 
 ----
 
