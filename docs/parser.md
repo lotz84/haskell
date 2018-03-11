@@ -29,6 +29,7 @@
 * [How To Write an Interpreter for a Lambda-Calculus-Based Language](http://semantic.org/post/how-to-write-an-interpreter-for-a-lambda-calculus-based-language/)
 * [Haskellのパーサライブラリまとめ - Qiita](https://qiita.com/Mizunashi_Mana/items/115855bf2af9b9970198)
 * [Parsing and Tweeting](https://ibnuda.gitlab.io/2018-01-07-parsing-and-tweeting.html)
+* [/usr/sbin - Symbolic Execution: Intuition and Implementation](http://www.usrsb.in/symbolic-execution-intuition-and-implementation.html)
 
 ## 正規表現
 * [関数型的正規表現マッチ](https://research.preferred.jp/2010/11/regexp-play/)
