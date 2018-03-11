@@ -112,6 +112,7 @@ Haskellを利用している日本の企業
 * [Writing Haskell at music start-up? : haskell](https://www.reddit.com/r/haskell/comments/7smr8o/writing_haskell_at_music_startup/)
 * [Haskell job opportunity at Tocoman in Helsinki, Finland : haskell](https://www.reddit.com/r/haskell/comments/7rhfot/haskell_job_opportunity_at_tocoman_in_helsinki/)
 * [[Haskell-cafe] [JOBS] Formal methods positions at Intel](https://mail.haskell.org/pipermail/haskell-cafe/2018-February/128553.html)
+* [QFPL is hiring 5 functional programmers : haskell](https://www.reddit.com/r/haskell/comments/82tj75/qfpl_is_hiring_5_functional_programmers/)
 
 ### FPComplete
 * [FPComplete](https://www.fpcomplete.com/)
