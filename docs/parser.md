@@ -110,6 +110,7 @@ parse = evalStateT
 * [CSV encoding and decoding in Haskell with Cassava](https://www.stackbuilders.com/tutorials/haskell/csv-encoding-decoding/)
 * [CASSAVA MEGAPARSEC LIBRARY RELEASED](https://www.stackbuilders.com/news/cassava-megaparsec-library-released)
 * [readcsv: Lightweight CSV parser/emitter based on ReadP](https://hackage.haskell.org/package/readcsv-0.1)
+* [sv: Encode and decode separated values (CSV, PSV, ...)](https://hackage.haskell.org/package/sv)
 
 ### XML
 * [xml-conduit](https://hackage.haskell.org/package/xml-conduit)
