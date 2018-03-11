@@ -93,6 +93,7 @@
 * [GHCでの中置演算子のパース - Qiita](https://qiita.com/takoeight0821/items/9a1c3eb5b0f292026596)
 * [GHCの中間言語Coreへの脱糖を覗き見る - Hash λ Bye](http://ilyaletre.hatenablog.com/entry/2017/12/10/195016)
 * [Compact Regions: Success, Failure, and Questions | Front Row](http://tech.frontrowed.com/2018/03/06/compact-regions-success-failure-questions/)
+* [Fūzetsu's Corner - Trying out GHC compact regions for improved latency (Pusher case study).](http://fuuzetsu.co.uk/blog/posts/2018-03-03-GHC-compact-regions-for-improved-latency.html)
 * [How QuantifiedConstraints can let us put join back in Monad - Ryan Scott](https://ryanglscott.github.io/2018/03/04/how-quantifiedconstraints-can-let-us-put-join-back-in-monad/)
 
 ### GHC API
