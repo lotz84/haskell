@@ -91,6 +91,7 @@ parse = evalStateT
 * [Package takeover: indents](https://jaspervdj.be/posts/2016-12-22-indents.html)
 * [Modular parser combinators - Coq en Stock](https://ptival.github.io/2017/02/25/modular-parser-combinators/)
 * [Monoidal Parsing—Edward Kmett](https://www.youtube.com/watch?v=Txf7swrcLYs)
+* [パーサー結合子：ハスケル初心者のための解析](https://two-wrongs.com/parser-combinators-parsing-for-haskell-beginners.html)
 
 ### Language
 * [Hackage Search: language](https://hackage.haskell.org/packages/search?terms=language)
