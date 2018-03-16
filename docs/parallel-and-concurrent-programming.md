@@ -118,6 +118,7 @@ main = do
 * [joey/ blog/ entry/ STM Region contents](http://joeyh.name/blog/entry/STM_Region_contents/)
 * [An example of software transactional memory](http://begriffs.com/posts/2013-09-04-an-example-of-software-transactional.html)
 * [Software Transactional Memory](http://begriffs.com/posts/2016-04-02-software-transactional-memory.html)
+* [Improving Haskell STM Performance (2016) : haskell](https://www.reddit.com/r/haskell/comments/80tk0t/improving_haskell_stm_performance_2016/)
 
 ## 分散
 * [分散システム処理モデルに関する動向について（MapReduceからBorgまで）](http://techblog.yahoo.co.jp/architecture/2015_06_ditributed_system/)
