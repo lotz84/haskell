@@ -41,6 +41,7 @@
 * [Hash Based Package Downloads - part 2 of 2](https://www.fpcomplete.com/blog/2018/01/hash-based-package-downloads-part-2-of-2)
 * [SLURP](https://www.snoyman.com/blog/2018/01/slurp)
 * [SLURP: a Single Liberal Unified Registry of Haskell Packages by simonmar · Pull Request #4 · haskell/ecosystem-proposals](https://github.com/haskell/ecosystem-proposals/pull/4)
+* [Tweag I/O - Build large polyglot projects with Bazel... now with Haskell support](https://www.tweag.io/posts/2018-02-28-bazel-haskell.html)
 
 ## GHCi
 * [ghciでマルチバイト文字をエスケープせず表示させる](http://qiita.com/aosho235/items/bdfa4a68b77b9fcc4a35)
