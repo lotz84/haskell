@@ -88,6 +88,7 @@
 * [GameDev in Haskell -- Procedural vs Functional (Part 2)](https://www.youtube.com/watch?v=VxLvaHpAK-U&list=PLguYJK7ydFE7KBfUplAk_qLp--xG6gw3R&index=2)
 * [jonascarpay/phycs - fast 2D game physics](https://github.com/jonascarpay/phycs)
 * [[Part 2] Tic-tac-toe Game in Haskell -- Procedural vs Functional - YouTube](https://www.youtube.com/watch?v=VxLvaHpAK-U&list=PLguYJK7ydFE7KBfUplAk_qLp--xG6gw3R&index=2)
+* [A Game in Haskell - Dino Rush](http://jxv.io/blog/2018-02-28-A-Game-in-Haskell.html)
 
 ## Gloss
 * [gloss](http://hackage.haskell.org/package/gloss)
