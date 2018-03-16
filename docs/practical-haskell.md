@@ -124,6 +124,7 @@
 * [Haskellのstackによるプロジェクトについて - Qiita](https://qiita.com/ogata-k/items/2b21326b2b7351bfc28c)
 * [stack ls コマンドが追加されます](https://haskell.e-bigmoon.com/posts/2017-12-20-stack-ls-command.html)
 * [カスタムスナップショットの紹介](https://haskell.e-bigmoon.com/posts/2017-12-23-stack161.html)
+* [quchen/stackage-everything: »I want Stackage on an airplane and I have only 3 minutes until takeoff«](https://github.com/quchen/stackage-everything)
 
 ### 逆引き
 * [Ubuntu 16 で Stack + GHC がライブラリのリンクに失敗する場合の対処法](http://qiita.com/mr_konn/items/13caa82c1118968d3145)
