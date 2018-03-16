@@ -72,6 +72,7 @@
 * [Queensland FP Lab - Growing a Date Picker in Reflex - Part 1](https://blog.qfpl.io/posts/reflex/widgets/growing-a-date-picker-1/)
 * [An Introduction to Brick+Reflex](http://hexagoxel.de/postsforpublish/posts/2017-10-30-brick-plus-reflex.html)
 * [Semantic UI for Reflex Dom](https://tomsmalley.github.io/semantic-reflex/)
+* [dfordivam' blog - Introducing tenjinreader.com for Haskellers](https://dfordivam.github.io/posts/2018-02-27-introducing-tenjinreader-for-haskellers.html)
 
 ### Netwire
 * [Today in Code — Almost a Netwire 5 Tutorial](http://todayincode.tumblr.com/post/96914679355/almost-a-netwire-5-tutorial)
