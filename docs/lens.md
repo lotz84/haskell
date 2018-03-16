@@ -53,26 +53,6 @@
 
 出典: [From Lenses to Yoneda Embedding](http://bartoszmilewski.com/2015/07/13/from-lenses-to-yoneda-embedding/)
 
-### Comonad
-* [comonad](https://hackage.haskell.org/package/comonad)
-* [Comonads are objects](http://www.haskellforall.com/2013/02/you-could-have-invented-comonads.html)
-* [A whirlwind tour of comonads](http://dlaing.org/cofun/posts/comonads.html)
-* 🎥 [Kenneth Foner - Getting a Quick Fix on Comonads](https://www.youtube.com/watch?v=F7F-BzOB670)
-* [Comonads and Day Convolution](http://blog.functorial.com/posts/2016-08-08-Comonad-And-Day-Convolution.html)
-* [Comonads as Spaces](http://blog.functorial.com/posts/2016-08-07-Comonads-As-Spaces.html)
-* [What are some motivating examples for Cofree CoMonad in Haskell?](http://stackoverflow.com/questions/38816993/what-are-some-motivating-examples-for-cofree-comonad-in-haskell)
-* [Comonadic Collision Resolution](http://reasonablypolymorphic.com//blog/comonadic-physics)
-* [Comonads](https://bartoszmilewski.com/2017/01/02/comonads/)
-* [Who needs HashLife when you have comonads?](https://samtay.github.io/posts/comonadic-game-of-life.html)
-* [The Comonad.Reader » The State Comonad](http://comonad.com/reader/2018/the-state-comonad/)
-* [Do disturb me \| Cellular Christmas Tree](https://dodisturb.me/posts/2018-01-28-Cellular-Christmas-Tree.html)
-
-```hs
-class Functor w => Comonad w where
-  extract :: w a -> a
-  duplicate :: w a -> w (w a)
-```
-
 ### CPS Lens
 * [My new lens idea](http://lpaste.net/128137)
 
