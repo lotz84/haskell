@@ -62,6 +62,7 @@ Monad Transformer
 * [MonadBaseControl in Five Minutes](http://www.parsonsmatt.org/2017/11/21/monadbasecontrol_in_five_minutes.html)
 * [Monad Transformer State - Michael Snoyman - YouTube](https://www.youtube.com/watch?v=KZIN9f9rI34&feature=youtu.be)
 * [いろいろなパッケージから提供されている ListT モナド変換子の違いについて調べてみる - 無駄と文化](http://blog.mudatobunka.org/entry/2018/01/03/233314)
+* [The Comonad.Reader » Monads from Comonads](http://comonad.com/reader/2011/monads-from-comonads/)
 
 ### モナド準同型
 * [The mmorph package](https://hackage.haskell.org/package/mmorph)
