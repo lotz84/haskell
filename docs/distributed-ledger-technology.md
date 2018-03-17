@@ -32,6 +32,7 @@
 > Blockchain上に任意のスクリプトとその実行結果を保存する
 
 * [Let's Talk ETC! (Ethereum Classic) #15 - Dr. Duncan Coutts - Provably Secure Smart Contracts - YouTube](https://www.youtube.com/watch?v=XCtfrZitfg4&feature=youtu.be)
+* [trailofbits/echidna: Ethereum fuzz testing framework](https://github.com/trailofbits/echidna)
 
 ## Cardano
 * [wkawin / Ouroboros / ソース / — Bitbucket](https://bitbucket.org/wkawin/ouroboros/src)
