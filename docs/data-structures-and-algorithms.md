@@ -139,6 +139,7 @@
 * [The Random Access Zipper: Simple, Purely-Functional Sequences](https://arxiv.org/abs/1608.06009)
 * [Encoding arbitrary precision integers in binary](http://kenta.blogspot.jp/2015/12/igptrdec-encoding-arbitrary-precision.html)
 * [Well-Typed - The Haskell Consultants: Binary instances for GADTs<br /> (or: RTTI in Haskell)](http://www.well-typed.com/blog/2017/06/rtti/)
+* [mightybyte/armor: Protect against backwards-incompatible serializations](https://github.com/mightybyte/armor)
 
 ### 数値
 * [Lazy unary numbers](http://www.edofic.com/posts/2015-05-03-unary-numbers.html)
