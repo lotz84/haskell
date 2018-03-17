@@ -130,6 +130,8 @@ yoneda f = Natural $ \ax -> fmap ax f
 * [Free for DSLs, cofree for interpreters](http://dlaing.org/cofun/posts/free_and_cofree.html)
 * [Cofun with Cofree Comonads](https://yow.eventer.com/yow-lambda-jam-2015-1305/cofun-with-cofree-comonads-by-david-laing-1891)
 * [Marcin Szamotulski - Composing Cofree Interpreters](https://www.youtube.com/watch?v=klpKIs84_bU&feature=youtu.be)
+* [The Comonad.Reader » The Cofree Comonad and the Expression Problem](http://comonad.com/reader/2008/the-cofree-comonad-and-the-expression-problem/)
+* [monads - What are some motivating examples for Cofree CoMonad in Haskell? - Stack Overflow](https://stackoverflow.com/questions/38816993/what-are-some-motivating-examples-for-cofree-comonad-in-haskell)
 
 ## EDSL
 * [Domain-specific Languages and Code Synthesis Using Haskell](http://dl.acm.org/citation.cfm?id=2617811)
