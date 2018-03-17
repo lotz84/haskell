@@ -256,6 +256,7 @@
 * [A Tour of Eta](https://tour.eta-lang.org/)
 * [あいや☆ぱぶりっしゅぶろぐ！ - Etaで表現されるデータ型としてのJavaクラスとその継承関係](http://aiya000.github.io/posts/2017-12-25-eta-extend.html)
 * [あいや☆ぱぶりっしゅぶろぐ！ - Haskell (Eta) でJavaFXのEDSLを作る雰囲気を醸し出す](http://aiya000.github.io/posts/2017-12-25-think-eta-javafx-dsl.html)
+* [Haskell + Scala ハイブリッド開発大作戦 #ScalaMatsuri / Operation Haskell + Scala // Speaker Deck](https://speakerdeck.com/ytaka23/operation-haskell-plus-scala)
 
 ### Frege
 * [すごい Frege たのしく学ぼう！](http://www.slideshare.net/y_taka_23/frege)
