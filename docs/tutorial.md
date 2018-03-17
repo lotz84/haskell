@@ -69,6 +69,11 @@
 * [なぜ Haskell が好きなのか - 趣味はデバッグ……](http://kakkun61.hatenablog.com/entry/2017/12/25/%E3%81%AA%E3%81%9C_Haskell_%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%AA%E3%81%AE%E3%81%8B)
 * [拙書「Haskell 教養としての関数型プログラミング」の紹介 - Qiita](https://qiita.com/YoshikuniJujo/items/0708f108bf53a216a61a)
 * [Haskell、または関数プログラミングの景色について - Qiita](https://qiita.com/takenobu-hs/items/dc85d455fef41c091383)
+* [Haskell入門ハンズオン! #3: 当日用資料 1/5 - Qiita](https://qiita.com/YoshikuniJujo/items/436bd6bb2e0a84a61131)
+  * [Haskell入門ハンズオン! #3: 当日用資料 2/5 - Qiita](https://qiita.com/YoshikuniJujo/items/f63c1be3ff07c3048aba)
+  * [Haskell入門ハンズオン! #3: 当日用資料 3/5 - Qiita](https://qiita.com/YoshikuniJujo/items/085fa142b0591cb4cb2b)
+  * [Haskell入門ハンズオン! #3: 当日用資料 4/5 - Qiita](https://qiita.com/YoshikuniJujo/items/8a8a78b637b03771c8d5)
+  * [Haskell入門ハンズオン! #3: 当日用資料 5/5 - Qiita](https://qiita.com/YoshikuniJujo/items/2d2b28598f6dbb45b44a)
 
 </details>
 
