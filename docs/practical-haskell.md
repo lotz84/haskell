@@ -42,6 +42,7 @@
 * [SLURP](https://www.snoyman.com/blog/2018/01/slurp)
 * [SLURP: a Single Liberal Unified Registry of Haskell Packages by simonmar · Pull Request #4 · haskell/ecosystem-proposals](https://github.com/haskell/ecosystem-proposals/pull/4)
 * [Tweag I/O - Build large polyglot projects with Bazel... now with Haskell support](https://www.tweag.io/posts/2018-02-28-bazel-haskell.html)
+* [Tweag I/O - Nix + Bazel = fully reproducible, incremental builds](https://www.tweag.io/posts/2018-03-15-bazel-nix.html)
 
 ## GHCi
 * [ghciでマルチバイト文字をエスケープせず表示させる](http://qiita.com/aosho235/items/bdfa4a68b77b9fcc4a35)
