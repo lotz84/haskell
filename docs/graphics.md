@@ -89,6 +89,7 @@
 * [jonascarpay/phycs - fast 2D game physics](https://github.com/jonascarpay/phycs)
 * [[Part 2] Tic-tac-toe Game in Haskell -- Procedural vs Functional - YouTube](https://www.youtube.com/watch?v=VxLvaHpAK-U&list=PLguYJK7ydFE7KBfUplAk_qLp--xG6gw3R&index=2)
 * [A Game in Haskell - Dino Rush](http://jxv.io/blog/2018-02-28-A-Game-in-Haskell.html)
+* [kindl/Hypatia: A ML-family Language Compiled to Lua](https://github.com/kindl/Hypatia)
 
 ## Gloss
 * [gloss](http://hackage.haskell.org/package/gloss)
