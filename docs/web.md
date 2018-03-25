@@ -44,6 +44,7 @@ Client
   * [#1](https://blog.chaps.io/2015/10/05/torrent-client-in-haskell-1.html)
   * [#2](http://blog.chaps.io/2015/10/13/torrent-client-in-haskell-2.html)
   * [#3](http://blog.chaps.io/2015/11/24/torrent-client-in-haskell-3)
+* [Kuro's Blog: [haskell] http-clientライブラリを利用してHaskellでHTTPクライアント機能を実装する](http://kurokawh.blogspot.jp/2018/03/haskell-http-clienthaskellhttp.html)
 * [HaskellでTwitterにpostする](http://yunomu.hatenablog.jp/entry/2012/05/13/210629)
 * [HaskellからSlackにさくっとPOSTする](http://blog.euphonictech.com/entry/2016/05/08/225740)
 * [HaskellでSlack bot (RTM API) - Qiita](http://qiita.com/kentahama/items/261c9c86d02161680933)
