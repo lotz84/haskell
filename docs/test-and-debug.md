@@ -1,4 +1,5 @@
 ## テスト
+* [ユニットテストあれこれ〜Haskellerの視点から〜](http://www.mew.org/~kazu/material/2018-unit-test.pdf)
 * [Haskellの単体テスト最前線](https://github.com/kazu-yamamoto/unit-test-example/blob/master/markdown/ja/tutorial.md)
 * [Testing](http://www.scs.stanford.edu/14sp-cs240h/slides/testing-slides.html)
 * <https://twitter.com/datgame/status/563269982721941505>
@@ -123,7 +124,8 @@ Passed:
 * [Debugging C with Haskell's Divisible](http://www.michaelburge.us/2017/09/27/delta-debugging-in-haskell.html)
 * [bitemyapp - Alternatives to Typed Holes for talking to your compiler](http://bitemyapp.com//posts/2017-09-23-please-stop-using-typed-holes.html)
 * [Neil Mitchell's Haskell Blog: Announcing the 'debug' package](http://neilmitchell.blogspot.jp/2017/12/announcing-debug-package.html)
-* [Haskell でのデバッグ手法あれこれ | 雑記帳](https://blog.miz-ar.info/2018/01/debugging-haskell-program/)
+* [Haskell でのデバッグ手法あれこれ \| 雑記帳](https://blog.miz-ar.info/2018/01/debugging-haskell-program/)
+* [debug パッケージのアナウンス (翻訳)](https://haskell.e-bigmoon.com/posts/2018-02-26-announcing-the-debug-package)
 
 ## 例外処理
 * [エラー処理を書いてはいけない](http://tanakh.jp/pub/pfi-seminar-2011-12-08.html)
