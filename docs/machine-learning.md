@@ -205,3 +205,4 @@ instance Monad Dist where
 * [mstksg/backprop: Heterogeneous, type-safe automatic backpropagation in Haskell](https://github.com/mstksg/backprop)
 * [Compose :: Melbourne 2017 - Huw Campbell - Grenade - Dependently Typed Neural Networks in Haskell](https://www.youtube.com/watch?v=sPjA6lS0GlQ&feature=youtu.be)
 * [quickdudley/hfnn](https://github.com/quickdudley/hfnn) - Haskell Flexible Neural Networks
+* [Introducing the backprop library · in Code](https://blog.jle.im/entry/introducing-the-backprop-library.html)
