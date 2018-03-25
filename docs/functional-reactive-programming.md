@@ -76,6 +76,7 @@
 
 ### Netwire
 * [Today in Code — Almost a Netwire 5 Tutorial](http://todayincode.tumblr.com/post/96914679355/almost-a-netwire-5-tutorial)
+* [TIL Netwire (FRP library) is basically "deprecated." : haskell](https://www.reddit.com/r/haskell/comments/7yezo2/til_netwire_frp_library_is_basically_deprecated/)
 
 ## 線形時相論理
 * [Haskell Exists: FRP for free](https://haskellexists.blogspot.jp/2016/01/frp-for-free.html)
