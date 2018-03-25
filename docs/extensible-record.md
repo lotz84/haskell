@@ -243,6 +243,7 @@ swan = name @= "swan"
 * [OVERCOMING THE RECORD PROBLEM](http://www.parsonsmatt.org/overcoming-records/#/)
 * [data-diverse: Extensible records and polymorphic variants.](https://hackage.haskell.org/package/data-diverse)
 * [Fun with Records in Haskell by making "RowLists" - Qiita](https://qiita.com/kimagure/items/6a9764966edd6cef497d)
+* [SuperRecord: Anonymous Records for Haskell](https://www.athiemann.net/2017/07/02/superrecord.html)
 
 ## 理論
 * [Records are Sheaves of Types.](http://archive.is/0PM3e)
