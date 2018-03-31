@@ -17,6 +17,7 @@
 * [Glasgow Haskell Compiler Users Guide](http://downloads.haskell.org/~ghc/master/users-guide/)
 * [GHCのこと](http://www.kotha.net/hperf/ghc.html)
 * [栄光のグラスゴーHaskellコンパイルシステム利用の手引き](http://www.kotha.net/ghcguide_ja/latest/)
+* [GHCへの変更提案とパッチ送付の手順例 - Haskell-jp](https://haskell.jp/blog/posts/2018/ghc-proposal-and-patch.html)
 * [def-/ghc-vis](https://github.com/def-/ghc-vis)
 * [Haskell Hierarchical Libraries](https://downloads.haskell.org/~ghc/latest/docs/html/libraries/index.html)
 * [Naïve Haskell data representation](http://www.scs.stanford.edu/14sp-cs240h/slides/memory-slides.html#(11))
