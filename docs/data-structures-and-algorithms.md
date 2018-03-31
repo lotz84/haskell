@@ -202,6 +202,8 @@
 * [subsequencesを紐解く - Qiita](http://qiita.com/kmtoki/items/af4559c072afe5c17a1c)
 * [When You Should Use Lists in Haskell (Mostly, You Should Not)](http://www.imn.htwk-leipzig.de/~waldmann/etc/untutorial/list-or-not-list/)
 * [いつからHaskellの5行クイックソートが遅いと錯覚していた？ - Qiita](https://qiita.com/as_capabl/items/39e55e7a035dea4dc93a)
+* [Monadic List Functions - Donnacha Oisín Kidney](http://doisinkidney.com/posts/2018-02-11-monadic-list.functions.html)
+* [groupBy - Donnacha Oisín Kidney](http://doisinkidney.com/posts/2018-01-07-groupBy.html)
 
 ### 配列
 * [The vector package](https://hackage.haskell.org/package/vector)
