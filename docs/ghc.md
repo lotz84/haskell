@@ -296,5 +296,10 @@ $ stack exec -- <your program> +RTS <profiling options>
 * [ghc-proposals/0000-or-patterns.rst at or_patterns · osa1/ghc-proposals](https://github.com/osa1/ghc-proposals/blob/or_patterns/proposals/0000-or-patterns.rst)
 * [Monad of no return/>> Proposal (MRP)](https://ghc.haskell.org/trac/ghc/wiki/Proposal/MonadOfNoReturn)
 
+### Quantified constraints
+* [Quantified constraints by Gertjan423 · Pull Request #109 · ghc-proposals/ghc-proposals](https://github.com/ghc-proposals/ghc-proposals/pull/109)
+* [Quantified Class Constraints](http://homepages.inf.ed.ac.uk/wadler/papers/quantcc/quantcc.pdf)
+* [How to derive Generic for (some) GADTs using QuantifiedConstraints - Ryan Scott](https://ryanglscott.github.io/2018/02/11/how-to-derive-generic-for-some-gadts/)
+
 ### Another Haskell Compiler
 * [DHC Demo - The following compiles Haskell to WebAssembly and runs it.](https://dhc.dfinity.org/)
