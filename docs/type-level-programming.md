@@ -90,6 +90,7 @@
 * [Kindについて - Qiita](https://qiita.com/ryoppy/items/7156d587da2e6ae7e605)
 * [dbp.io :: How to prove a compiler correct](https://dbp.io/essays/2018-01-16-how-to-prove-a-compiler-correct.html)
 * [Heterogeneous collections](http://www.hsyl20.fr/home/posts/2018-02-21-heterogeneous-collections.html)
+* [Type safe records as an excuse to learn type level programming in Haskell - Entropic ramblings by a Random Agent.](https://rcalsaverini.github.io/posts/2018/02/type-level-excuse)
 
 ```haskell
 data Bottom
