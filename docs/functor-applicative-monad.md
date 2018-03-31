@@ -80,6 +80,7 @@ class Functor f => Applicative f where
 * [Applicative Functors and data validation](https://carlosmchica.github.io/applicatives-validation/)
 * [Applicative Functors and data validation \| Codurance \| Craft at Heart \| London \| Barcelona](https://codurance.com/2017/11/30/applicatives-validation/)
 * [Applicative Functors and data validation, part II \| Codurance \| Craft at Heart \| London \| Barcelona](https://codurance.com/2018/01/11/applicatives-validation/)
+* [Applicative Functors for Fun and Parsing – Arun Raghavan](https://arunraghavan.net/2018/02/applicative-functors-for-fun-and-parsing/)
 
 ### Discrimination
 * [discrimination](http://hackage.haskell.org/package/discrimination)
