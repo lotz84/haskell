@@ -76,4 +76,4 @@
 * [Category Theory in Life - Eugenia Cheng](https://www.youtube.com/watch?v=ho7oagHeqNc)
 * [Category Theory for the Sciences](http://category-theory.mitpress.mit.edu/index.html)
 * [Monads are just monoids in the category of endofunctors](https://blog.merovius.de/2018/01/08/monads-are-just-monoids.html)
-
+* [Free Monoidal Functors \| Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2018/02/17/free-monoidal-functors/)
