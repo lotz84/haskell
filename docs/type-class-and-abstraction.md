@@ -96,6 +96,8 @@ instance Show Bool where
 * [Monoids on Steroids \|   Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2017/02/09/monoids-on-steroids/)
 * [Monoids: what they are, why they are useful, and what they teach us about software](https://deque.blog/2017/09/13/monoids-what-they-are-why-they-are-useful-and-what-they-teach-us-about-software/)
 * [An Introduction to Monoids](https://blog.axosoft.com/monoids-practical-category-theory/)
+* [Haskell for all: The wizard monoid](http://www.haskellforall.com/2018/02/the-wizard-monoid.html)
+
 
 > lists are not free monoids in Haskell.
 
