@@ -71,6 +71,7 @@
 * [TerrorJack/Cabal-playground: Logs the input & output of Cabal hooks. Useful for debugging Cabal build process.](https://github.com/TerrorJack/Cabal-playground)
 * [Better Haskell packages with hpack · taylor.fausak.me](http://taylor.fausak.me/2017/04/12/better-haskell-packages-with-hpack/)
 * [Use Hpack - e.xtendo.org](https://e.xtendo.org/haskell/hpack)
+* [dhall-to-cabal: Compile Dhall expressions to Cabal files](https://hackage.haskell.org/package/dhall-to-cabal)
 
 ## Stack
 * [The Haskell Tool Stack](http://docs.haskellstack.org/en/stable/README.html)
