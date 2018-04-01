@@ -91,6 +91,7 @@
 * [A Game in Haskell - Dino Rush](http://jxv.io/blog/2018-02-28-A-Game-in-Haskell.html)
 * [kindl/Hypatia: A ML-family Language Compiled to Lua](https://github.com/kindl/Hypatia)
 * [dbousamra/hnes: NES Emulator written in Haskell](https://github.com/dbousamra/hnes/)
+* [Jun Inoueさんのツイート: "Haskell で Euler やる人は arithmoi パッケージを入れておきましょう。2009 年ごろまでは一番解いてる Haskeller だった Daniel Fischer が書いたもので、クッソ速い整数冪根とかメビウス変換、ヤコビ記号などが手に入ります。"](https://twitter.com/jun0inoue/status/373434443253305344)
 
 ## Gloss
 * [gloss](http://hackage.haskell.org/package/gloss)
