@@ -331,7 +331,7 @@ Reader + Writer + State
 * [IO Monad Considered Harmful](https://blog.jle.im/entry/io-monad-considered-harmful.html)
 * [Day 1: IO — Our Ugly Friend](https://medium.com/twelve-days-of-monad/day-1-io-our-ugly-friend-e9ddfc621978#.1mhu8uvgr)
 * [Sneaky Implicit Mutation – Fintan Halpenny – Medium](https://medium.com/@fintan.halpenny/sneaky-implicit-mutation-b7302c77983b)
-* [Haskell for all: The wizard monoid](http://www.haskellforall.com/2018/02/the-wizard-monoid.html)
+* [sketches/ann-monad-var at master · effectfully/sketches](https://github.com/effectfully/sketches/tree/master/ann-monad-var)
 
 ### Monad*
 * [2 07 Supermonads: One Notion to Bind them All](https://www.youtube.com/watch?v=HRofw58sySw)
