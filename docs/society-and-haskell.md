@@ -116,6 +116,8 @@ Haskellを利用している日本の企業
 * [Summer 2018 internship opportunity with Tesla, Inc. : haskell](https://www.reddit.com/r/haskell/comments/84r1dp/summer_2018_internship_opportunity_with_tesla_inc/)
 * [Well-Typed - The Haskell Consultants: Haskell development job with Well-Typed](http://www.well-typed.com/blog/2018/03/haskell-development-job-with-well-typed/)
 * [[JOBS] Obsidian Systems is hiring : haskell](https://www.reddit.com/r/haskell/comments/86cg1u/jobs_obsidian_systems_is_hiring/)
+* [Tweag I/O - We are hiring! : haskell](https://www.reddit.com/r/haskell/comments/8806xt/tweag_io_we_are_hiring/)
+* [[JOBS] Capital Match is hiring! [Haskell, Full Stack, Singapore, On Site] : haskell](https://www.reddit.com/r/haskell/comments/87yuhe/jobs_capital_match_is_hiring_haskell_full_stack/)
 
 ### FPComplete
 * [FPComplete](https://www.fpcomplete.com/)
