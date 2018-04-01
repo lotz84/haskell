@@ -115,6 +115,7 @@ Haskellを利用している日本の企業
 * [QFPL is hiring 5 functional programmers : haskell](https://www.reddit.com/r/haskell/comments/82tj75/qfpl_is_hiring_5_functional_programmers/)
 * [Summer 2018 internship opportunity with Tesla, Inc. : haskell](https://www.reddit.com/r/haskell/comments/84r1dp/summer_2018_internship_opportunity_with_tesla_inc/)
 * [Well-Typed - The Haskell Consultants: Haskell development job with Well-Typed](http://www.well-typed.com/blog/2018/03/haskell-development-job-with-well-typed/)
+* [[JOBS] Obsidian Systems is hiring : haskell](https://www.reddit.com/r/haskell/comments/86cg1u/jobs_obsidian_systems_is_hiring/)
 
 ### FPComplete
 * [FPComplete](https://www.fpcomplete.com/)
