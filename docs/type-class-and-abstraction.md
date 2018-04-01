@@ -75,6 +75,7 @@ instance Show Bool where
 * [[Haskell] instance宣言に関するエラーの原因いろいろ - Qiita](https://qiita.com/tezca686/items/1771623c3241d6863e61)
 * [Bloggy Badger: N-ary Functors](http://gelisam.blogspot.jp/2017/12/n-ary-functors.html)
 * [まともな型クラス への入門： 関数型とオブジェクト指向の垣根を越えて](http://d.hatena.ne.jp/m-hiyama/20180109/1515455333)
+* [mpickering - Replacing type classes with records affects optimisation](http://mpickering.github.io/posts/2018-03-20-recordsvstypeclasses.html)
 
 ## 代数的な型クラス
 * [tower](https://tonyday567.github.io/tower/index.html)
