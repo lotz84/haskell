@@ -62,6 +62,7 @@
 * [現在時刻をモックする Haskell ライブラリ time-machine を作ってみました - チェシャ猫の消滅定理](http://ccvanishing.hateblo.jp/entry/2017/11/27/070558)
 * [Lysxia - A quick tour of generic-random](http://blog.poisson.chat/posts/2018-01-05-generic-random-tour.html)
 * [Introducing Toxiproxy Haskell \| Jake Pittis](https://jpittis.ca/posts/introducing-toxiproxy-haskell/)
+* [Haskell Stack + HSpecで特定のモジュールのテストだけ実行 - Qiita](https://qiita.com/nwtgck/items/6b8b372a1b50c517ceee)
 
 ### QuickCheck
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
