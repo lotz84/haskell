@@ -202,6 +202,7 @@ class Monad m where
 * [What is a Monad? - Computerphile - YouTube](https://www.youtube.com/watch?v=t1e8gqXLbsU)
 * [Haskell副作用ポエム - Qiita](https://qiita.com/Mizunashi_Mana/items/e82214dfae2765c6839a)
 * [Papers We Love San Diego - Monads for Functional Programming - YouTube](https://www.youtube.com/watch?v=kYaowT7wT0E)
+* [Haskell: Monadクラスのこれまでとこれから - Qiita](https://qiita.com/mod_poppo/items/8c483951703b5ea0f74e)
 
 ```haskell
 do x <- mx
