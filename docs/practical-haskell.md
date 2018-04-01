@@ -311,6 +311,7 @@
 * [Well-Typed - The Haskell Consultants: Object Oriented Programming in Haskell](http://www.well-typed.com/blog/2018/03/oop-in-haskell/)
 * [Domain Modelling with Haskell - YouTube - YouTube](https://www.youtube.com/playlist?list=PL-ZJ_6bOrbwaGq2PH-9luIH6vl5jL_py-)
   * [Domain Modelling with Haskell: Factoring Out Recursion | Haskell at Work](https://haskell-at-work.com/episodes/2018-02-11-domain-modelling-with-haskell-factoring-out-recursion.html)
+* [Three Layer Haskell Cake](http://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html)
 
 ----
 
