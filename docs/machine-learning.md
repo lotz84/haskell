@@ -73,6 +73,7 @@
 * [naperian tensors](https://tonyday567.github.io/naperian/index.html)
 * [ENTER THE MATRIX, HASKELL STYLE](http://www.tweag.io/posts/2017-08-31-hmatrix.html)
 * [manifolds: Coordinate-free hypersurfaces](http://hackage.haskell.org/package/manifolds)
+* [Haskellの行列計算 - 保存と読み出し、複素行列について - Qiita](https://qiita.com/tkch_pe/items/d6cfbc333d6c60751184)
 
 ## 確率
 * [プログラミングのための確率統計 in Haskell](http://note.golden-lucky.net/2010/12/1-2-3-4-5-6-16-16-16-16-16-16-246-135.html)
