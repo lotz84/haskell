@@ -55,6 +55,7 @@ Client
 * [pontarius/pontarius-xmpp](https://github.com/pontarius/pontarius-xmpp)
 * [Ballast, a library for talking to Shipwire – alexeyzabelin.com](http://alexeyzabelin.com/haskell-api-wrapper)
 * [Studio Ghibli API](https://ghibliapi.herokuapp.com/#)
+* [Haskforce: Haskell Library For Interacting With Salesforce API – Woodson Delhia](https://woodsondelhia.wordpress.com/2018/03/25/haskforce-haskell-library-for-interacting-with-salesforce-api/)
 * HTTP Client
   * [owainlewis/http-dispatch](https://github.com/owainlewis/http-dispatch)
   * [http-client](https://hackage.haskell.org/package/http-client)
