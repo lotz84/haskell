@@ -428,6 +428,7 @@ Web Application Framework
 * [Haskell・Servant+Persistent/Esqueletoで作る実用WebAPI (番外編・1) Haskellで作ってみるアプリの題材は？ - Qiita](https://qiita.com/cyclone_t/items/d5d3c63c4d1caabf056d)
 * [slack-api + bloodhound + servant でbot+αを作る](http://blog.nakaji.me/slack-api-bloodhound-servant/)
 * [Queensland FP Lab - Nested routes in servant](https://qfpl.io/posts/nested-routes-in-servant/)
+* [Servant Route Smooshing](https://www.parsonsmatt.org/2018/03/14/servant_route_smooshing.html)
 
 ### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
