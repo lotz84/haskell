@@ -114,6 +114,7 @@ Haskellを利用している日本の企業
 * [[Haskell-cafe] [JOBS] Formal methods positions at Intel](https://mail.haskell.org/pipermail/haskell-cafe/2018-February/128553.html)
 * [QFPL is hiring 5 functional programmers : haskell](https://www.reddit.com/r/haskell/comments/82tj75/qfpl_is_hiring_5_functional_programmers/)
 * [Summer 2018 internship opportunity with Tesla, Inc. : haskell](https://www.reddit.com/r/haskell/comments/84r1dp/summer_2018_internship_opportunity_with_tesla_inc/)
+* [Well-Typed - The Haskell Consultants: Haskell development job with Well-Typed](http://www.well-typed.com/blog/2018/03/haskell-development-job-with-well-typed/)
 
 ### FPComplete
 * [FPComplete](https://www.fpcomplete.com/)
