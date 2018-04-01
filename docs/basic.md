@@ -126,6 +126,7 @@ uncurry :: (a -> b -> c) -> (a, b) -> c
 * [Visualizing lazy evaluation](http://www.well-typed.com/blog/2017/09/visualize-cbn/)
 * [Adaptive Evaluation of Non-Strict Programs](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/ennals-thesis.pdf)
 * [fixpt - All About Strictness Analysis (part 1)](http://fixpt.de/blog/2017-12-04-strictness-analysis-part-1.html)
+* [Thinking Functionally with Haskell勉強メモ: 第７章１　メモリ、計算量、`seq` - Arantium Maestum](http://zehnpaard.hatenablog.com/entry/2018/04/01/065836)
 
 > One very interesting comparison is that lazy evaluation is to the CPU what garbage collection is to memory.
 
