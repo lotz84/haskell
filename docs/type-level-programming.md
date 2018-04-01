@@ -1,3 +1,4 @@
+* [Haskellにおける型レベルプログラミングの基本(翻訳) - Qiita](https://qiita.com/HirotoShioi/items/39fc492401e4dcbc8cba)
 * [[1610.07978] Dependent Types in Haskell: Theory and Practice](https://arxiv.org/abs/1610.07978)
 * [Kwang's Haskell Blog - Type-level insertion sort](http://kseo.github.io/posts/2017-01-30-type-level-insertion-sort.html)
 * [GHC.TypeLits](https://hackage.haskell.org/package/base/docs/GHC-TypeLits.html)
