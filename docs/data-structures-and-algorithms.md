@@ -240,6 +240,7 @@
 
 ### Map
 * [tim philip williams :: Functional pearl: Nested Datacubes](http://www.timphilipwilliams.com/posts/2017-04-12-nested-datacubes.html)
+* [hashdos脆弱性とunordered-containers - Haskell-jp](https://haskell.jp/blog/posts/2018/unordered-containers-hash-dos.html)
 
 ### Graph
 * [FP Graph Algorithms](http://begriffs.com/posts/2015-09-04-pure-functional-graphs.html)
