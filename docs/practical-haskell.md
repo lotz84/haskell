@@ -392,3 +392,4 @@
 * [Professional Haskellers: What are your major pain points? : haskell](https://www.reddit.com/r/haskell/comments/7rwuxb/professional_haskellers_what_are_your_major_pain/)
 * [GHC Infrastructure update - YouTube](https://www.youtube.com/watch?v=J-0W4nbBVjk&list=PLnqUlCo055hUyEP_fcuY0SQMzZp-kyWiD)
 * [Benjamin Kovach - Generating artwork with Haskell](http://www.kovach.me/posts/2018-03-07-generating-art.html)
+* [拡張可能タングルでDo記法レスプログラミング♪ (Haskell)](https://matsubara0507.github.io/posts/2018-02-22-fun-of-extensible-3.html)
