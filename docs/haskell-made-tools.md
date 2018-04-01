@@ -56,6 +56,9 @@ variance introduced by outliers: 81% (severely inflated)
 * fish shell のプラグインマネージャー
 * <https://github.com/kinoru/chips>
 
+### clifm
+* [pasqu4le/clifm: Command Line Interface File Manager](https://github.com/pasqu4le/clifm)
+
 ### command-line-tweeter
 * [vmchale/command-line-tweeter: Tweets in from a pipe](https://github.com/vmchale/command-line-tweeter)
 
