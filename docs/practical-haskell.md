@@ -258,6 +258,7 @@
 * [あいや☆ぱぶりっしゅぶろぐ！ - Etaで表現されるデータ型としてのJavaクラスとその継承関係](http://aiya000.github.io/posts/2017-12-25-eta-extend.html)
 * [あいや☆ぱぶりっしゅぶろぐ！ - Haskell (Eta) でJavaFXのEDSLを作る雰囲気を醸し出す](http://aiya000.github.io/posts/2017-12-25-think-eta-javafx-dsl.html)
 * [Haskell + Scala ハイブリッド開発大作戦 #ScalaMatsuri / Operation Haskell + Scala // Speaker Deck](https://speakerdeck.com/ytaka23/operation-haskell-plus-scala)
+* [チェシャ猫さんのツイート: "先日の #ScalaMatsuri の録画が公開されました。JVM 上で動く #Haskell、@eta_lang の仕組みを解説しています。継承を表現するために TypeFamilies を使っていて、さほど難しくないので型レベルプログラミングに興味がある人は実装を読んでみても面白いかもしれません。 https://t.co/plceVT3qIS"](https://twitter.com/y_taka_23/status/978995304312668162)
 
 ### Frege
 * [すごい Frege たのしく学ぼう！](http://www.slideshare.net/y_taka_23/frege)
