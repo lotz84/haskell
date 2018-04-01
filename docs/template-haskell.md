@@ -21,6 +21,7 @@ Template Haskell はHaskellの言語仕様には無くGHCの独自拡張なの�
 * [Template Haskell でコンパイル時 FizzBuzz](http://ryota-ka.hatenablog.com/entry/2018/01/25/031605)
 * [Template Haskell でコード中に JSON を埋め込んだりコンパイル時にファイルから型安全に読み込んだりする](http://ryota-ka.hatenablog.com/entry/2018/02/14/103000)
 * [Haskellの実行バイナリにファイルを埋め込む - syocy’s diary](http://syocy.hatenablog.com/entry/2018/02/14/160833)
+* [任意の関数をTemplateHaskellでコンパイル時に実行して安全性を確保する - Qiita](https://qiita.com/nwtgck/items/b6d048c2730c37be0870)
 
 ```haskell
 {-# LANGUAGE QuasiQuotes #-}
