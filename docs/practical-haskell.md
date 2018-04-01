@@ -156,6 +156,7 @@
 * [How I use nix for Haskell development - YouTube](https://www.youtube.com/watch?v=G9yiJ7d5LeI)
 * [Haskell(stack)のEmacs環境 on NixOS - Qiita](https://qiita.com/emanon_was/items/69a1be2c3f60fbcdba88)
 * [mpickering - Using a development version of GHC with nix](http://mpickering.github.io/posts/2018-01-05-ghchead-nix.html)
+* [Nix: Under the hood by Gabriel Gonzalez - YouTube](https://www.youtube.com/watch?v=GMQPzv3Sx58)
 
 ## Docker
 * [Dockerfile Linter](http://hadolint.lukasmartinelli.ch/)
