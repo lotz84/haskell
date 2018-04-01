@@ -30,6 +30,8 @@
 * [Haskellのパーサライブラリまとめ - Qiita](https://qiita.com/Mizunashi_Mana/items/115855bf2af9b9970198)
 * [Parsing and Tweeting](https://ibnuda.gitlab.io/2018-01-07-parsing-and-tweeting.html)
 * [/usr/sbin - Symbolic Execution: Intuition and Implementation](http://www.usrsb.in/symbolic-execution-intuition-and-implementation.html)
+* [Typing Haskell in Haskell](https://web.cecs.pdx.edu/~mpj/thih/thih.pdf)
+* [Typing Haskell in Haskellを読んでみる - Qiita](https://qiita.com/nka0i/items/d44f0c6d4df1ef582fd3)
 
 ## 正規表現
 * [関数型的正規表現マッチ](https://research.preferred.jp/2010/11/regexp-play/)
