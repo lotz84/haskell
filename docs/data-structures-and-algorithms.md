@@ -237,6 +237,7 @@
 * [HaskellでB-treeを実装 - でかいチーズをベーグルする](http://yamaguchiyuto.hatenablog.com/entry/2018/01/03/110000)
 * [radixtree: a prefix-tree parsing library for Haskell](https://quasimal.com/posts/2018-01-08-prefix-tree-parsing.html)
 * [patrickdoc/hash-graph: A hashing-based graph implementation in Haskell](https://github.com/patrickdoc/hash-graph)
+* [[ANN] tree-traversals-0.1.0.0 : haskell](https://www.reddit.com/r/haskell/comments/87x2qz/ann_treetraversals0100/)
 
 ### Map
 * [tim philip williams :: Functional pearl: Nested Datacubes](http://www.timphilipwilliams.com/posts/2017-04-12-nested-datacubes.html)
