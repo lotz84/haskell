@@ -48,6 +48,7 @@
 * [Oleg's gists - Functor Optics](http://oleg.fi/gists/posts/2017-12-23-functor-optics.html)
 * [あいや☆ぱぶりっしゅぶろぐ！ - lensの演算子と等価な関数の対応表](http://aiya000.github.io/posts/2017-09-10-lens-operator-to-func.html)
 * [あいや☆ぱぶりっしゅぶろぐ！ - lens（のMonadState演算子など）で自己に言及したい時はidを使う](http://aiya000.github.io/posts/2017-10-29-identity-in-lens-monadstate.html)
+* [Free Lenses for Higher-Kinded Data :: Reasonably Polymorphic](http://reasonablypolymorphic.com/blog/free-lenses)
 
 > Thus the Yoneda embedding of the functor category leads to the van Laarhoven representation of the lens
 
