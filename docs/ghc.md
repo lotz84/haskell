@@ -96,6 +96,7 @@
 * [Compact Regions: Success, Failure, and Questions | Front Row](http://tech.frontrowed.com/2018/03/06/compact-regions-success-failure-questions/)
 * [Fūzetsu's Corner - Trying out GHC compact regions for improved latency (Pusher case study).](http://fuuzetsu.co.uk/blog/posts/2018-03-03-GHC-compact-regions-for-improved-latency.html)
 * [How QuantifiedConstraints can let us put join back in Monad - Ryan Scott](https://ryanglscott.github.io/2018/03/04/how-quantifiedconstraints-can-let-us-put-join-back-in-monad/)
+* [osa1 - Three runtime optimizations done by GHC's GC](http://osa1.net/posts/2018-03-16-gc-optimizations.html)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
