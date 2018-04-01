@@ -23,6 +23,7 @@ main = do
 ```
 
 * [How to build library-agnostic streaming sources](http://www.haskellforall.com/2014/11/how-to-build-library-agnostic-streaming.html)
+* [composewell/streaming-benchmarks: Benchmarks to compare Haskell streaming library performance](https://github.com/composewell/streaming-benchmarks)
 
 ### History
 * ✕ Lazy IO
