@@ -267,6 +267,7 @@ $ stack exec -- <your program> +RTS <profiling options>
 * [ApplicativeDo 拡張について](http://qiita.com/thimura/items/120f40c4e49f9154ac8a)
 * [非可述多相に触れる： GHC の ImpredicativeTypes 拡張 - Qiita](https://qiita.com/mod_poppo/items/806c9c3e0ccb46be92ae)
 * [LambdaCase in the wild](http://storm-country.com/blog/LambdaCase)
+* [Deriving Via](https://www.kosmikus.org/DerivingVia/deriving-via-paper.pdf)
 
 ### Pattern Synonyms
 * [Pattern Synonyms](https://ghc.haskell.org/trac/ghc/wiki/PatternSynonyms)
