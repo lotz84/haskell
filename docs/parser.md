@@ -32,6 +32,7 @@
 * [/usr/sbin - Symbolic Execution: Intuition and Implementation](http://www.usrsb.in/symbolic-execution-intuition-and-implementation.html)
 * [Typing Haskell in Haskell](https://web.cecs.pdx.edu/~mpj/thih/thih.pdf)
 * [Typing Haskell in Haskellを読んでみる - Qiita](https://qiita.com/nka0i/items/d44f0c6d4df1ef582fd3)
+* [ASTs with Fix and Free](http://chrispenner.ca/posts/asts-with-fix-and-free)
 
 ## 正規表現
 * [関数型的正規表現マッチ](https://research.preferred.jp/2010/11/regexp-play/)
