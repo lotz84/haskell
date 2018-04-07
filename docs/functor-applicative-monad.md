@@ -37,6 +37,7 @@ class Functor f where
 * [Addressing Pieces of State with Profunctors](http://blog.sigfpe.com/2017/01/addressing-pieces-of-state-with.html)
 * [Profunctors, Arrows, & Static Analysis](http://elvishjerricco.github.io/2017/03/10/profunctors-arrows-and-static-analysis.html)
 * [Profunctors for encoding and decoding \| Avoltus](https://www.avoltus.com/fi/blog/2017-9-29-profunctors-encoding-and-decoding)
+* [Profunctors](https://typeclasses.com/profunctors)
 
 ### Contravariant
 * [contravariant](https://hackage.haskell.org/package/contravariant)
