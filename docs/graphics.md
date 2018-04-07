@@ -35,6 +35,7 @@
 * [A Generative Approach to Simulating Watercolor Paints from “Scratch” \| [“turnage”]](https://blog.paytonturnage.com/water_color)
 * [Haskellで二重数を使って自動微分 - Сегодня я узнал](https://genkami.github.io/2018/03/10/02-dual-number-deriv.html)
 * [weeezes/plot: Simple plotting tool for the terminal](https://github.com/weeezes/plot)
+* [Jun Inoueさんのツイート: "Haskell で Euler やる人は arithmoi パッケージを入れておきましょう。2009 年ごろまでは一番解いてる Haskeller だった Daniel Fischer が書いたもので、クッソ速い整数冪根とかメビウス変換、ヤコビ記号などが手に入ります。"](https://twitter.com/jun0inoue/status/373434443253305344)
 
 ## 画像処理
 * [friday: A functional image processing library for Haskell.](https://hackage.haskell.org/package/friday)
@@ -91,7 +92,7 @@
 * [A Game in Haskell - Dino Rush](http://jxv.io/blog/2018-02-28-A-Game-in-Haskell.html)
 * [kindl/Hypatia: A ML-family Language Compiled to Lua](https://github.com/kindl/Hypatia)
 * [dbousamra/hnes: NES Emulator written in Haskell](https://github.com/dbousamra/hnes/)
-* [Jun Inoueさんのツイート: "Haskell で Euler やる人は arithmoi パッケージを入れておきましょう。2009 年ごろまでは一番解いてる Haskeller だった Daniel Fischer が書いたもので、クッソ速い整数冪根とかメビウス変換、ヤコビ記号などが手に入ります。"](https://twitter.com/jun0inoue/status/373434443253305344)
+* [Andre's Blog - Haskell roguelike](http://www.andrevdm.com/posts/2018-04-02-haskell-rogue-like.html)
 
 ## Gloss
 * [gloss](http://hackage.haskell.org/package/gloss)
@@ -140,6 +141,6 @@
 * [not-gloss: Painless 3D graphics, no affiliation with gloss](https://hackage.haskell.org/package/not-gloss)
 * [achirkin/vulkan: Low-level low-overhead haskell bindings to vulkan API](https://github.com/achirkin/vulkan)
 
-###Game Engine
+### Game Engine
 * [Helm - A functionally reactive game engine](http://helm-engine.org/)
 * [lukexi/halive](https://github.com/lukexi/halive)
