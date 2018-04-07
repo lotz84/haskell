@@ -401,3 +401,4 @@
 * [GHC Infrastructure update - YouTube](https://www.youtube.com/watch?v=J-0W4nbBVjk&list=PLnqUlCo055hUyEP_fcuY0SQMzZp-kyWiD)
 * [Benjamin Kovach - Generating artwork with Haskell](http://www.kovach.me/posts/2018-03-07-generating-art.html)
 * [拡張可能タングルでDo記法レスプログラミング♪ (Haskell)](https://matsubara0507.github.io/posts/2018-02-22-fun-of-extensible-3.html)
+* [[1803.06960] Ready, Set, Verify! Applying hs-to-coq to real-world Haskell code](https://arxiv.org/abs/1803.06960)
