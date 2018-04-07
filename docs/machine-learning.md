@@ -207,3 +207,4 @@ instance Monad Dist where
 * [Compose :: Melbourne 2017 - Huw Campbell - Grenade - Dependently Typed Neural Networks in Haskell](https://www.youtube.com/watch?v=sPjA6lS0GlQ&feature=youtu.be)
 * [quickdudley/hfnn](https://github.com/quickdudley/hfnn) - Haskell Flexible Neural Networks
 * [Introducing the backprop library · in Code](https://blog.jle.im/entry/introducing-the-backprop-library.html)
+* [saschagrunert/nn: A tiny neural network 🧠](https://github.com/saschagrunert/nn)
