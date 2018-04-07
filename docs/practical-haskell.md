@@ -209,6 +209,7 @@
 * [CONTINUOUS INTEGRATION TO CONTINOUS DELIVERY HASKELL PROJECT WITH GITLAB](https://vadosware.io/post/continuous-integration-to-continous-delivery-haskell-project-with-gitlab/)
 * [Zero To Continuous Integrated Testing A Haskell Project With Gitlab](https://vadosware.io/post/zero-to-continuous-integrated-testing-a-haskell-project-with-gitlab/)
 * [CircleCI2.0でHaskellのテストを実行する – PSYENCE:MEDIA](https://tech.recruit-mp.co.jp/dev-tools/post-13981/)
+* [harendra-kumar/packcheck: Universal build and CI testing for Haskell packages](https://github.com/harendra-kumar/packcheck)
 
 ## Another Prelude Libraries
 * [The rebase package](http://hackage.haskell.org/package/rebase)
