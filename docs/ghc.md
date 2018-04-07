@@ -97,6 +97,7 @@
 * [Fūzetsu's Corner - Trying out GHC compact regions for improved latency (Pusher case study).](http://fuuzetsu.co.uk/blog/posts/2018-03-03-GHC-compact-regions-for-improved-latency.html)
 * [How QuantifiedConstraints can let us put join back in Monad - Ryan Scott](https://ryanglscott.github.io/2018/03/04/how-quantifiedconstraints-can-let-us-put-join-back-in-monad/)
 * [osa1 - Three runtime optimizations done by GHC's GC](http://osa1.net/posts/2018-03-16-gc-optimizations.html)
+* [Sequent Calculus as a Compiler Intermediate Language](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/04/sequent-calculus-icfp16.pdf)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
