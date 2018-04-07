@@ -151,6 +151,7 @@
 * [Haskell for JavaScript programmers : programming](https://www.reddit.com/r/programming/comments/7ri2io/haskell_for_javascript_programmers/)
  * [argumatronic - The Nesting Instinct](https://argumatronic.com/posts/2018-01-23-the-nesting-instinct.html)
  * [Writing Simple Haskell](https://soupi.github.io/rfc/writing_simple_haskell/) - 簡単なTODO管理ツールを作りながらHaskellで実用的なプログラムの書き方を学んでいくチュートリアル
+ * [Demystifying Functional Programming — Building intuition by teaching through examples and design patterns/idiomatic solutions : haskell](https://www.reddit.com/r/haskell/comments/89gv6a/demystifying_functional_programming_building/)
 
 </details>
 
