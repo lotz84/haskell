@@ -281,6 +281,7 @@ $ stack exec -- <your program> +RTS <profiling options>
 * [Designing the Backpack signature ecosystem : Inside 214-1E](http://blog.ezyang.com/2017/03/designing-the-backpack-signature-ecosystem/)
 * [Backpack to Work: Towards Practical Mixin Linking for Haskell](http://research.microsoft.com/en-us/um/people/simonpj/papers/modules/backpack-2016.pdf)
 * [Haskell Backpack 覚え書き](https://matsubara0507.github.io/posts/2017-12-12-backpack-memo.html)
+* [Queensland FP Lab - Backpack for initial and final encodings](http://qfpl.io/posts/backpack-for-initial-and-final-encodings/)
 
 ### 正格評価
 * [StrictData拡張について](http://qiita.com/Mizunashi_Mana/items/8edf7781ed4eb4eea4e9)
