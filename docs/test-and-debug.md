@@ -65,6 +65,7 @@
 * [Haskell Stack + HSpecで特定のモジュールのテストだけ実行 - Qiita](https://qiita.com/nwtgck/items/6b8b372a1b50c517ceee)
 * [jship - Type-level Unit Testing in Haskell](https://jship.github.io/posts/2018-03-21-type-level-unit-testing-in-haskell.html)
 * [Fake: Generating Realistic Test Data in Haskell](http://softwaresimply.blogspot.jp/2018/03/fake-generating-realistic-test-data-in.html)
+* [Testing Failure with Either Instead of Exception | Haskell at Work](https://haskell-at-work.com/episodes/2018-03-18-testing-failure-with-either-instead-of-exception.html)
 
 ### QuickCheck
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
