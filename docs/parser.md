@@ -124,6 +124,7 @@ parse = evalStateT
 * [The hxt package](https://hackage.haskell.org/package/hxt)
 * [New XML Parser, Hexml](http://neilmitchell.blogspot.jp/2016/12/new-xml-parser-hexml.html)
 * [ocramz/xeno: Fast Haskell XML parser](https://github.com/ocramz/xeno)
+* [4e6/haskell-perf-xml - Simple benchmarks for XML parsing libraries](https://github.com/4e6/haskell-perf-xml)
 
 ### HTML
 * [A taste of tag soup](http://codekinder.com/wordpress/a-taste-of-tag-soup)
