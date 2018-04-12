@@ -82,6 +82,7 @@ instance Show Bool where
 
 ### Num
 * [Haskell の Num クラスに対する不満](http://d-poppo.nazo.cc/blog/2016/06/haskell-num-class/)
+* [tonyday567/numhask - A haskell numeric prelude, providing a clean structure for numbers and operations that combine them.](https://github.com/tonyday567/numhask)
 
 ### Semigroup
 * [Algebraic patterns - Semigroup](http://philipnilsson.github.io/Badness10k/posts/2016-07-14-functional-patterns-semigroup.html)
