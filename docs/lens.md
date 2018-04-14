@@ -50,6 +50,10 @@
 * [あいや☆ぱぶりっしゅぶろぐ！ - lens（のMonadState演算子など）で自己に言及したい時はidを使う](http://aiya000.github.io/posts/2017-10-29-identity-in-lens-monadstate.html)
 * [Free Lenses for Higher-Kinded Data :: Reasonably Polymorphic](http://reasonablypolymorphic.com/blog/free-lenses)
 * [HKD: Less Terrible than You Might Expect :: Reasonably Polymorphic](http://reasonablypolymorphic.com/blog/hkd-not-terrible)
+* [高談活論: 双方向変換の原理と実践](https://www.jstage.jst.go.jp/article/jssst/31/2/31_2_44/_pdf)
+  * [b18n-combined: Combining Syntactic and Semantic Bidirectionalization](http://www2.sf.ecei.tohoku.ac.jp/~kztk/b18n-combined/desc.html)
+  * [bff: Bidirectionalization for Free! (POPL'09)](https://hackage.haskell.org/package/bff-0.3.1.2)
+  
 
 > Thus the Yoneda embedding of the functor category leads to the van Laarhoven representation of the lens
 
