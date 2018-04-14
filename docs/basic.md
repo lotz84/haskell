@@ -69,6 +69,7 @@ type a * b = (a, b)
 * [syz](https://hackage.haskell.org/package/syz)
 * [Zipper関連のパッケージ](http://d.hatena.ne.jp/debug-ito/20161016/1476587232)
 * [Zipperに挑む](https://qiita.com/Aruneko/items/dee20161358e7c39e27a)
+* [Derivatives of Containers](http://www.cs.le.ac.uk/people/mabbott/docs/derivative.pdf)
 
 ### カインド
 * [About kind system of Haskell (Part 1)](https://haskell.jp/blog/posts/2017/10-about-kind-system-part1.html)
