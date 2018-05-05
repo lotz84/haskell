@@ -163,3 +163,4 @@ class Functor g => Distributive g where
 * [somehow-morphisms on fixed point written in Haskell](https://qiita.com/cutsea110/items/69889a99d30b627bc04a)
 * [Stalking a Hylomorphism in the Wild |   Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2017/12/29/stalking-a-hylomorphism-in-the-wild/)
 * [Program Reduction: A Win for Recursion Schemes](http://newartisans.com/2018/04/win-for-recursion-schemes/)
+* [Recursion Schemes, Part V: Hello, Hylomorphisms](http://blog.sumtypeofway.com/recursion-schemes-part-v/)
