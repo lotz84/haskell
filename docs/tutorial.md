@@ -22,6 +22,7 @@
 * [Twitterを巡回していてわかったHaskell初心者が躓きやすいポイント8つ](http://qiita.com/lotz/items/5cbaca19d90cd168ab43)
 * [Haskell 超入門](http://qiita.com/7shi/items/145f1234f8ec2af923ef) - 長編だが丁寧に書いてあってわかりやすい
 * [Layout ルール， Haskell のオフサイドルールについて](https://bydriv.github.io/blog/layout.html)
+* [初心者卒業試験のブラックジャック作成に挑戦してみました（Haskell編） - Qiita](https://qiita.com/KNaito/items/385fb1701f70ffb8ffd4)
 
 <details>
 <summary>日本語チュートリアル</summary>
