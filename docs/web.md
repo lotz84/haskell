@@ -341,6 +341,7 @@ Web Application Framework
 * [ZuriHac 2016: Spock - Powerful Elegant Web Applications](https://www.youtube.com/watch?v=-b-Oz6y-n_Y)
 * [tolysz/spock-ghcjs-sample](https://github.com/tolysz/spock-ghcjs-sample)
 * [Building a REST API](https://www.spock.li/tutorials/rest-api)
+* [Your First Web Application with Spock | Haskell at Work](https://haskell-at-work.com/episodes/2018-04-09-your-first-web-application-with-spock.html)
 
 ### Rest
 * [Rest for Haskell](http://silkapp.github.io/rest/)
