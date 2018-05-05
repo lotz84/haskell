@@ -79,3 +79,4 @@
 * [Free Monoidal Functors \| Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2018/02/17/free-monoidal-functors/)
 * [[1803.05316] Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/abs/1803.05316)
   * [Applied Category Theory – Online Course | Azimuth](https://johncarlosbaez.wordpress.com/2018/03/26/seven-sketches-in-compositionality/)
+* [[1803.05316] Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/abs/1803.05316)
