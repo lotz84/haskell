@@ -53,7 +53,7 @@
 * [高談活論: 双方向変換の原理と実践](https://www.jstage.jst.go.jp/article/jssst/31/2/31_2_44/_pdf)
   * [b18n-combined: Combining Syntactic and Semantic Bidirectionalization](http://www2.sf.ecei.tohoku.ac.jp/~kztk/b18n-combined/desc.html)
   * [bff: Bidirectionalization for Free! (POPL'09)](https://hackage.haskell.org/package/bff-0.3.1.2)
-  
+* [Deciphering lens error messages, part 1 – Urbint Engineering – Medium](https://medium.com/urbint-engineering/deciphering-lens-error-messages-part-1-75627c440090)
 
 > Thus the Yoneda embedding of the functor category leads to the van Laarhoven representation of the lens
 
