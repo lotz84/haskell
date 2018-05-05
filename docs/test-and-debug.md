@@ -165,3 +165,4 @@ Passed:
 * [Neil Mitchell's Haskell Blog: Haskell exceptions and FFI wrappers](https://neilmitchell.blogspot.jp/2017/11/haskell-exceptions-and-ffi-wrappers.html)
 * [Exception handling in Haskell Jobs – Lazy Eval – Medium](https://medium.com/lazy-eval/exception-handling-in-haskell-jobs-383835fb73e6)
 * [Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell)
+* [Rethinking MonadError – The Science of Code](https://lukajcb.github.io/blog/functional/2018/04/15/rethinking-monaderror.html)
