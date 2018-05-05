@@ -139,3 +139,4 @@ main = do
 * [NicolasT/kontiki](https://github.com/NicolasT/kontiki) - An implementation of the Raft consensus protocol
 * [Distributed Programming with Linear Types \| SkillsCast \| 12th October 2017](https://skillsmatter.com/skillscasts/10637-distributed-programming-with-linear-types)
 * [Session types in Cloud Haskell : haskell](https://www.reddit.com/r/haskell/comments/7g3ckg/session_types_in_cloud_haskell/)
+* [Using Cloud Haskell to write a type-safe distributed chat - Tutorials](https://www.stackbuilders.com/tutorials/haskell/cloud-haskell/)
