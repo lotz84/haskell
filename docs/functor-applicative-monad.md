@@ -240,6 +240,7 @@ instance Monad [] where
 * [Backtracking, Interleaving, and Terminating Monad Transformers](http://okmij.org/ftp/Computation/LogicT.pdf)
 * [The logict package](http://hackage.haskell.org/package/logict)
 * [BACKTRACKING, INTERLEAVING, AND TERMINATING MONAD TRANSFORMERS](http://halcat.org/oleg.html#/)
+* [/usr/sbin - Expanding Regular Expressions with LogicT](http://www.usrsb.in/logic-regex.html)
 
 ### Reader Monad
 
