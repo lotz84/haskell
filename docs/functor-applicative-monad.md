@@ -89,6 +89,7 @@ class Functor f => Applicative f where
 * [ekmett先生のdiscriminationというライブラリの動画を見たので雑に要約してみた]()
 * [Radix sort](http://lukahorvat.github.io/programming/2015/06/07/sorting/)
 * [Why does `sort` in Data.Discrimination claim to be O(n)?](https://www.reddit.com/r/haskell/comments/3brce1/why_does_sort_in_datadiscrimination_claim_to_be_on/)
+* [mysterious-incomposability-of-decidable](http://h2.jaguarpaw.co.uk/posts/mysterious-incomposability-of-decidable/)
 
 ## 自然変換
 
