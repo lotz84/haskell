@@ -213,6 +213,10 @@
 * [CircleCI2.0でHaskellのテストを実行する – PSYENCE:MEDIA](https://tech.recruit-mp.co.jp/dev-tools/post-13981/)
 * [harendra-kumar/packcheck: Universal build and CI testing for Haskell packages](https://github.com/harendra-kumar/packcheck)
 
+## Workflow
+* [tweag/funflow: Functional workflows](https://github.com/tweag/funflow)
+* [Tweag I/O - Funflow: typed resumable workflows](https://www.tweag.io/posts/2018-04-25-funflow.html)
+
 ## Another Prelude Libraries
 * [The rebase package](http://hackage.haskell.org/package/rebase)
 * [nikita-volkov/rerebase](https://github.com/nikita-volkov/rerebase)
