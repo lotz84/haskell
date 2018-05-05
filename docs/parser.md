@@ -33,6 +33,7 @@
 * [Typing Haskell in Haskell](https://web.cecs.pdx.edu/~mpj/thih/thih.pdf)
 * [Typing Haskell in Haskellを読んでみる - Qiita](https://qiita.com/nka0i/items/d44f0c6d4df1ef582fd3)
 * [ASTs with Fix and Free](http://chrispenner.ca/posts/asts-with-fix-and-free)
+* [HaskellでC言語コンパイラ動かしたり、関数化しやすくして再利用性を高めたりしてみたよ - Qiita](https://qiita.com/nwtgck/items/49373211cc14322ee59b)
 
 ## 正規表現
 * [関数型的正規表現マッチ](https://research.preferred.jp/2010/11/regexp-play/)
