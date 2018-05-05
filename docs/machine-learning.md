@@ -209,3 +209,4 @@ instance Monad Dist where
 * [quickdudley/hfnn](https://github.com/quickdudley/hfnn) - Haskell Flexible Neural Networks
 * [Introducing the backprop library · in Code](https://blog.jle.im/entry/introducing-the-backprop-library.html)
 * [saschagrunert/nn: A tiny neural network 🧠](https://github.com/saschagrunert/nn)
+* [Haskellでニューラルネットを実装して、MNISTを学習してみた - Qiita](https://qiita.com/chupaaaaaaan/items/7954f30fc4262fe84c2d)
