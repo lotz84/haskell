@@ -106,6 +106,7 @@ $ alias ghci='stack ghci --'
 * [IntelliJ (with Stack) as Haskell IDE - YouTube](https://www.youtube.com/watch?v=KXd8mV7Vzhc)
 * [IntelliJでHaskellを実行する（haskell stackプロジェクト） - Qiita](http://qiita.com/nwtgck/items/d64647c05a0ba52db63c)
 * [HaskellをIntelliJで使えるようになりました！ - Qiita](http://qiita.com/v97ug/items/245faeb80abea19886e8)
+* [IntelliJで"Haskell module can not be created"となるときの対処法 - Qiita](https://qiita.com/nwtgck/items/5b08ad3ede058d67b3f9)
 
 ### Others
 * [Leksah](http://leksah.org/)
