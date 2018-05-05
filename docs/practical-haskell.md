@@ -131,6 +131,8 @@
 * [quchen/stackage-everything: »I want Stackage on an airplane and I have only 3 minutes until takeoff«](https://github.com/quchen/stackage-everything)
 * [The Task abstraction \| no time](https://blogs.ncl.ac.uk/andreymokhov/the-task-abstraction/)
 * [Haskell Stack のグローバル環境を雑に使う - Qiita](https://qiita.com/keigoi/items/4aaa6090361b53cce24a)
+* [Haskell Stackでエラー "openFile: inappropriate type (Is a directory) when using mirror " が出るときの対処法 - Qiita](https://qiita.com/nwtgck/items/36feb22bb194f0c01493)
+* [Stack (Haskell): Could not find moduleと言われたときの対処 2018年春版 - Qiita](https://qiita.com/sky_y/items/6712c3609a8e690e0dd3)
 
 ### 逆引き
 * [Ubuntu 16 で Stack + GHC がライブラリのリンクに失敗する場合の対処法](http://qiita.com/mr_konn/items/13caa82c1118968d3145)
@@ -410,3 +412,4 @@
 * [Benjamin Kovach - Generating artwork with Haskell](http://www.kovach.me/posts/2018-03-07-generating-art.html)
 * [拡張可能タングルでDo記法レスプログラミング♪ (Haskell)](https://matsubara0507.github.io/posts/2018-02-22-fun-of-extensible-3.html)
 * [[1803.06960] Ready, Set, Verify! Applying hs-to-coq to real-world Haskell code](https://arxiv.org/abs/1803.06960)
+* [Haskellでコンパイル時に「(ファイル名):L(現在の行）」を埋め込む - Qiita](https://qiita.com/aiya000/items/7efdfd1102ffd5712422)
