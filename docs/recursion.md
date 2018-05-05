@@ -164,3 +164,4 @@ class Functor g => Distributive g where
 * [Stalking a Hylomorphism in the Wild |   Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2017/12/29/stalking-a-hylomorphism-in-the-wild/)
 * [Program Reduction: A Win for Recursion Schemes](http://newartisans.com/2018/04/win-for-recursion-schemes/)
 * [Recursion Schemes, Part V: Hello, Hylomorphisms](http://blog.sumtypeofway.com/recursion-schemes-part-v/)
+* [A Simple Hylomorphism Example – Colour Coding](https://colourcoding.net/2018/04/12/a-simple-hylomorphism-example/)
