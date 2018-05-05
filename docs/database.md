@@ -46,6 +46,8 @@
 * [Haskell と SQLite - Qiita](https://qiita.com/satosystems/items/32bf104a041c8cc13809)
 * [Queryparser, an Open Source Tool for Parsing and Analyzing SQL](https://eng.uber.com/queryparser/)
   * [uber/queryparser: Parsing and analysis of Vertica, Hive, and Presto SQL.](https://github.com/uber/queryparser)
+* [fpco/odbc: Haskell ODBC binding with SQLServer support](https://github.com/fpco/odbc)
+  * [A new Haskell library for talking to ODBC databases](https://www.fpcomplete.com/blog/2018/05/haskell-library-talking-odbc-databases)
 
 Simple Clients
 --------------
