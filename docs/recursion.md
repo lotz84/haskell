@@ -165,3 +165,4 @@ class Functor g => Distributive g where
 * [Program Reduction: A Win for Recursion Schemes](http://newartisans.com/2018/04/win-for-recursion-schemes/)
 * [Recursion Schemes, Part V: Hello, Hylomorphisms](http://blog.sumtypeofway.com/recursion-schemes-part-v/)
 * [A Simple Hylomorphism Example – Colour Coding](https://colourcoding.net/2018/04/12/a-simple-hylomorphism-example/)
+* [A catamorphic lambda-calculus interpreter](https://www.michaelpj.com/blog/2018/04/08/catamorphic-lc-interpreter.html)
