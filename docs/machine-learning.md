@@ -35,6 +35,7 @@
 * [HaskellでMNISTを使えるようにする - Qiita](http://qiita.com/ku00/items/2a8166735edb32b5766d)
 * [巡回セールスマン問題を遺伝的アルゴリズムを使ってHaskellで解く！ - Qiita](https://qiita.com/v97ug/items/d6dd50a2b6b84a9e4d41)
 * [PythonからHaskell関数を呼ぶ - Qiita](https://qiita.com/A_kirisaki/items/3f69e6add075795b02fa)
+* [Travis Athougies - The monadic structure of combinatorial optimization](http://travis.athougies.net/posts/2018-04-23-combinatorial-optimization.html)
 
 ## HaskellR
 * [HaskellR](http://tweag.github.io/HaskellR/)
