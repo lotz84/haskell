@@ -66,6 +66,7 @@
 * [jship - Type-level Unit Testing in Haskell](https://jship.github.io/posts/2018-03-21-type-level-unit-testing-in-haskell.html)
 * [Fake: Generating Realistic Test Data in Haskell](http://softwaresimply.blogspot.jp/2018/03/fake-generating-realistic-test-data-in.html)
 * [Testing Failure with Either Instead of Exception | Haskell at Work](https://haskell-at-work.com/episodes/2018-03-18-testing-failure-with-either-instead-of-exception.html)
+* [David Peter: Interactive Tests and Documentation via QuickCheck style Declarations - λC 2016 - YouTube](https://www.youtube.com/watch?v=iTSosG7vUyI)
 
 ### QuickCheck
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
