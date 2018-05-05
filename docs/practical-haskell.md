@@ -256,6 +256,7 @@
 * [思ったほど怖くない！ Haskell on JVM 超入門](https://www.slideshare.net/y_taka_23/haskell-on-jvm-jjugccc-cccl8)
 * [Tweag I/O - Java from Haskell: a tutorial](http://www.tweag.io/posts/2017-09-15-inline-java-tutorial.html)
 * [GHC COMPILER PLUGINS IN THE WILD: TYPING JAVA](http://www.tweag.io/posts/2017-09-22-inline-java-ghc-plugin.html)
+* [Lambda Days 2018 - Jarek Ratajski - Beauty and the beast Haskell on JVM - YouTube](https://www.youtube.com/watch?v=Sc5xzyDWU64&feature=youtu.be)
 
 ### Eta
 * [Eta](http://eta-lang.org/)
