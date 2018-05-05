@@ -76,6 +76,7 @@ instance Show Bool where
 * [Bloggy Badger: N-ary Functors](http://gelisam.blogspot.jp/2017/12/n-ary-functors.html)
 * [まともな型クラス への入門： 関数型とオブジェクト指向の垣根を越えて](http://d.hatena.ne.jp/m-hiyama/20180109/1515455333)
 * [mpickering - Replacing type classes with records affects optimisation](http://mpickering.github.io/posts/2018-03-20-recordsvstypeclasses.html)
+* [Algorithmically Scrapping Your Typeclasses :: Reasonably Polymorphic](http://reasonablypolymorphic.com/blog/algorithmic-sytc/)
 
 ## 代数的な型クラス
 * [tower](https://tonyday567.github.io/tower/index.html)
