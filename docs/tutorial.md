@@ -23,6 +23,7 @@
 * [Haskell 超入門](http://qiita.com/7shi/items/145f1234f8ec2af923ef) - 長編だが丁寧に書いてあってわかりやすい
 * [Layout ルール， Haskell のオフサイドルールについて](https://bydriv.github.io/blog/layout.html)
 * [初心者卒業試験のブラックジャック作成に挑戦してみました（Haskell編） - Qiita](https://qiita.com/KNaito/items/385fb1701f70ffb8ffd4)
+* [Haskellでマインスイーパーを作る - YouTube](https://www.youtube.com/watch?v=E5skmV4fpcc&feature=youtu.be)
 
 <details>
 <summary>日本語チュートリアル</summary>
