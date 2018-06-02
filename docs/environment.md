@@ -38,6 +38,7 @@ $ alias ghci='stack ghci --'
 * [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures
 * [[Haskell] [ANN] HyperHaskell -- the strongly hyped Haskell	interpreter](https://mail.haskell.org/pipermail/haskell/2016-October/025010.html)
 * [repl.it - Introducing Haskell](https://repl.it/site/blog/haskell)
+* [ghcid for the win!](http://www.parsonsmatt.org/2018/05/19/ghcid_for_the_win.html)
 
 ### Vim
 * [begriffs/haskell-vim-now](https://github.com/begriffs/haskell-vim-now?hr=2)
