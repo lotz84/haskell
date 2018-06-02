@@ -1,5 +1,6 @@
 * [Tutorial] [Building a Redis clone in Haskell](https://honza.ca/2015/09/building-a-redis-clone-in-haskell)
 * [Haxl - Haskellを使った暗黙的な並列データアクセス](http://www.infoq.com/jp/news/2014/06/haxl)
+  * [Haxl 2.0 released on hackage: A Haskell library for efficient, concurrent, and concise data access. : haskell](https://www.reddit.com/r/haskell/comments/8kd7lb/haxl_20_released_on_hackage_a_haskell_library_for/)
 * [Fun With Haxl (Part 1)](http://simonmar.github.io/posts/2015-10-20-Fun-With-Haxl-1.html)
 * ["Haxl: A Big Hammer for Concurrency" by Simon Marlow - YouTube](https://www.youtube.com/watch?v=sT6VJkkhy0o&feature=youtu.be)
 * [hasql](http://hackage.haskell.org/package/hasql)
