@@ -41,6 +41,7 @@ fac = facCps id
 newtype Cont r a = Cont { runCont :: (a -> r) -> r }
 ```
 
+* [継続モナドについて - Qiita](https://qiita.com/sgmryk/items/cb274102cb1062c9158d)
 * [継続モナドによるリソース管理](http://qiita.com/tanakh/items/81fc1a0d9ae0af3865cb)
 * [Continuation Passing Style in Haskell](http://begriffs.com/posts/2015-06-03-haskell-continuations.html)
 * [無限ループから抜け出すプログラム](http://qiita.com/lotz/items/a1ff5725e918e216940e)
