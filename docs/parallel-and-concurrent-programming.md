@@ -92,6 +92,7 @@
 ### MVar
 * [Control.Concurrent.MVar](https://hackage.haskell.org/package/base/docs/Control-Concurrent-MVar.html)
 * [Common Concurrency Abstractions in Haskell, MVar](http://www.kuznero.com/posts/haskell/2015-07-31-common-concurrency-abstractions-MVar-part-2.html)
+* [MVarとTVar - Qiita](https://qiita.com/taashi/items/13cba99ccb8b7ccfbac8)
 
 ```haskell
 import Control.Concurrent
