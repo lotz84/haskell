@@ -433,6 +433,9 @@ Line 6:
 ### mega-sdist
 * [mega-sdist: the mega repo helper](https://www.yesodweb.com/blog/2017/11/mega-sdist)
 
+### self-extract
+* [brandonchinn178/self-extract: A Haskell library to make self-extracting executables](https://github.com/brandonchinn178/self-extract)
+
 ### staversion
 * [staversion: What version is the package X in stackage lts-Y.ZZ?](https://hackage.haskell.org/package/staversion)
 * [stackageの特定のresolverに上がっているパッケージバージョンを調べるツール](http://d.hatena.ne.jp/debug-ito/20161016/1476603444)
