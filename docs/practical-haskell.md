@@ -73,6 +73,7 @@
 * [Better Haskell packages with hpack · taylor.fausak.me](http://taylor.fausak.me/2017/04/12/better-haskell-packages-with-hpack/)
 * [Use Hpack - e.xtendo.org](https://e.xtendo.org/haskell/hpack)
 * [dhall-to-cabal: Compile Dhall expressions to Cabal files](https://hackage.haskell.org/package/dhall-to-cabal)
+* [Introduction to Cabal \| Haskell at Work](https://haskell-at-work.com/episodes/2018-05-13-introduction-to-cabal.html)
 
 ## Stack
 * [The Haskell Tool Stack](http://docs.haskellstack.org/en/stable/README.html)
