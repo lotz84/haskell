@@ -102,6 +102,7 @@ $ alias ghci='stack ghci --'
 * [Yiエディタでtagsを読み込む](http://qiita.com/aiya000/items/01f03a203cbc702aff80)
 
 ### IntelliJ
+* [Docker + IntelliJ で楽に実行環境を構築する - Qiita](https://qiita.com/Mulyu/items/35d1348a009260fd4827)
 * [IntelliJでHaskell](http://qiita.com/eielh/items/f121fbd2def8c887405f)
 * [IntelliJ (with Stack) as Haskell IDE - YouTube](https://www.youtube.com/watch?v=KXd8mV7Vzhc)
 * [IntelliJでHaskellを実行する（haskell stackプロジェクト） - Qiita](http://qiita.com/nwtgck/items/d64647c05a0ba52db63c)
