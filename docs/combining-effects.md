@@ -34,6 +34,7 @@ Monad Transformer
 * [モナド変換子(その１: 基本） - Qiita](https://qiita.com/HirotoShioi/items/8a6107434337b30ce457)
 * [モナド変換子 (その２:課題を通じてライブラリに触れてみる) - Qiita](https://qiita.com/HirotoShioi/items/ac75b97aa52f9db9c472)
 * [モナド変換子 (その3: 課題の解答) - Qiita](https://qiita.com/HirotoShioi/items/6faaf8babb23bb2f3485)
+* [AceHack-Practical Monad Transformers](https://sakshamsharma.com/2018/03/monadt/)
 
 ### 圏論
 * [Monad transformer](http://mbps.hatenablog.com/entry/2014/06/28/033234)
