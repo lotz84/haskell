@@ -169,3 +169,4 @@ parse = evalStateT
 * [crjdt-haskell Haskell package - Data \| LibHunt](https://haskell.libhunt.com/project/crjdt-haskell)
 * [Playing with lens-aeson](https://www.snoyman.com/blog/2017/05/playing-with-lens-aeson)
 * [Migrating JSON with lens and foci :: Capital Match Tech Blog](https://tech-blog.capital-match.com/posts/4-json-migration.html)
+* [ParsecでJSONパーサの作成 - Qiita](https://qiita.com/penguinshunya/items/bf4e8b2527a7a2846940)
