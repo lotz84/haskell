@@ -18,6 +18,7 @@ Monad Transformer
 * [Documentation.Layers.Overview](http://hackage.haskell.org/package/layers/docs/Documentation-Layers-Overview.html)
 
 ### 入門／チュートリアル
+* [Maybe と IO を一緒に使いたくなったら - ryota-ka's blog](https://ryota-ka.hatenablog.com/entry/2018/05/26/193220)
 * [モナドトランスフォーマーとその周辺](http://qiita.com/ruicc/items/7512c990a1835bba444a)
 * [Haskell モナド変換子 超入門](http://qiita.com/7shi/items/4408b76624067c17e933)
 * [モナドトランスフォーマー・ステップ・バイ・ステップ](http://bicycle1885.hatenablog.com/entry/2012/12/08/165236)
