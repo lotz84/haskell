@@ -256,6 +256,7 @@ $ stack exec -- <your program> +RTS <profiling options>
 * [llvm-hs/llvm-hs](https://github.com/llvm-hs/llvm-hs) - Haskell bindings for LLVM
 
 ### 言語拡張
+* [GHC拡張ノック(Part 1) - Haskell-jp](https://haskell.jp/blog/posts/2018/about-ghc-exts-1.html)
 * [Language.Haskell.Extension](http://downloads.haskell.org/~ghc/latest/docs/html/libraries/Cabal-1.22.4.0/Language-Haskell-Extension.html)
 * [GHCanIUse](http://damianfral.github.io/ghcaniuse/)
 * [24 Days of GHC Extensions](https://ocharles.org.uk/blog/pages/2014-12-01-24-days-of-ghc-extensions.html)
