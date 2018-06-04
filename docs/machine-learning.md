@@ -123,6 +123,9 @@ instance Monad Dist where
 * [The Applicative Structure of the Giry Monad · jtobin.io](https://jtobin.io/giry-monad-applicative)
 * [Practical Probabilistic Programming with Monads を読む (1) : とりあえずサイコロを振る - Qiita](http://qiita.com/lesguillemets/items/bf005952cf87480215c9)
 * [The Probability Monad](https://www.youtube.com/watch?v=qZ4O-1VYv4c)
+* [A Purely Functional Typed Approach to Trainable Models (Part 1) · in Code](https://blog.jle.im/entry/purely-functional-typed-models-1.html)
+* [A Purely Functional Typed Approach to Trainable Models (Part 2) · in Code](https://blog.jle.im/entry/purely-functional-typed-models-2.html)
+* [A Purely Functional Typed Approach to Trainable Models (Part 3) · in Code](https://blog.jle.im/entry/purely-functional-typed-models-3.html)
 
 ### Hakaru
 * [Hakaru](http://hakaru-dev.github.io/)
