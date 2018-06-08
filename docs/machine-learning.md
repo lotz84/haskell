@@ -38,6 +38,9 @@
 * [Travis Athougies - The monadic structure of combinatorial optimization](http://travis.athougies.net/posts/2018-04-23-combinatorial-optimization.html)
 * [Dockerを利用してjupyterにhaskellを構築した - Qiita](https://qiita.com/yunisef99/items/cde1d0947a9824093804)
 * [Cartography in Haskell \| Maths, Stats & Functional Programming](https://idontgetoutmuch.wordpress.com/2018/05/19/cartography-in-haskell/)
+* [A Purely Functional Typed Approach to Trainable Models (Part 1) · in Code](https://blog.jle.im/entry/purely-functional-typed-models-1.html)
+* [A Purely Functional Typed Approach to Trainable Models (Part 2) · in Code](https://blog.jle.im/entry/purely-functional-typed-models-2.html)
+* [A Purely Functional Typed Approach to Trainable Models (Part 3) · in Code](https://blog.jle.im/entry/purely-functional-typed-models-3.html)
 
 ## HaskellR
 * [HaskellR](http://tweag.github.io/HaskellR/)
@@ -123,9 +126,6 @@ instance Monad Dist where
 * [The Applicative Structure of the Giry Monad · jtobin.io](https://jtobin.io/giry-monad-applicative)
 * [Practical Probabilistic Programming with Monads を読む (1) : とりあえずサイコロを振る - Qiita](http://qiita.com/lesguillemets/items/bf005952cf87480215c9)
 * [The Probability Monad](https://www.youtube.com/watch?v=qZ4O-1VYv4c)
-* [A Purely Functional Typed Approach to Trainable Models (Part 1) · in Code](https://blog.jle.im/entry/purely-functional-typed-models-1.html)
-* [A Purely Functional Typed Approach to Trainable Models (Part 2) · in Code](https://blog.jle.im/entry/purely-functional-typed-models-2.html)
-* [A Purely Functional Typed Approach to Trainable Models (Part 3) · in Code](https://blog.jle.im/entry/purely-functional-typed-models-3.html)
 
 ### Hakaru
 * [Hakaru](http://hakaru-dev.github.io/)
