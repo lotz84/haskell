@@ -141,6 +141,7 @@
 * [HaskellでOpenGLのサンプルを動かす - IT練習ノート](http://naotoogawa.hatenablog.jp/entry/2017/02/01/Haskell%E3%81%A7OpenGL%E3%81%AE%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99)
 * [not-gloss: Painless 3D graphics, no affiliation with gloss](https://hackage.haskell.org/package/not-gloss)
 * [achirkin/vulkan: Low-level low-overhead haskell bindings to vulkan API](https://github.com/achirkin/vulkan)
+* [Postmodern Haskell and OpenGL: Introducing vinyl-gl](https://www.arcadianvisions.com/blog/2013/introducing-vinyl-gl.html)
 
 ### Game Engine
 * [Helm - A functionally reactive game engine](http://helm-engine.org/)
