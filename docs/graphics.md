@@ -43,6 +43,7 @@
 * [Twinside/Juicy.Pixels](https://github.com/Twinside/Juicy.Pixels)
 * [hip Haskell package - Graphics \| LibHunt](https://haskell.libhunt.com/project/hip-git)
 * [Beginner’s Haskell: Creating Bitmap Images - The Mendo Zone](https://mendo.zone/fun/beginners-haskell-bitmap-images/)
+* [Realistic Single-Server Raster Processing](https://www.fosskers.ca/blog/mapalgebra-en.html)
 
 ## GUI
 * [fltkhs](http://hackage.haskell.org/package/fltkhs)
