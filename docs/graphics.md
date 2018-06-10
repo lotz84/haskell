@@ -142,6 +142,7 @@
 * [not-gloss: Painless 3D graphics, no affiliation with gloss](https://hackage.haskell.org/package/not-gloss)
 * [achirkin/vulkan: Low-level low-overhead haskell bindings to vulkan API](https://github.com/achirkin/vulkan)
 * [Postmodern Haskell and OpenGL: Introducing vinyl-gl](https://www.arcadianvisions.com/blog/2013/introducing-vinyl-gl.html)
+* [chrisdone/sdl2-sprite: Create and animate sprites easily with sdl2 (Haskell)](https://github.com/chrisdone/sdl2-sprite)
 
 ### Game Engine
 * [Helm - A functionally reactive game engine](http://helm-engine.org/)
