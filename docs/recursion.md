@@ -35,6 +35,7 @@ main = print (sum [1..10])
 * [haskell - Is there any way to inline a recursive function? - Stack Overflow](https://stackoverflow.com/questions/42179783/is-there-any-way-to-inline-a-recursive-function)
 * [余再帰あれこれ](https://gist.github.com/uduki/4030269)
 * [goな関数 - あどけない話](http://d.hatena.ne.jp/kazu-yamamoto/20171212/1513050147)
+* [Travis Athougies - Dynamic Programming in Haskell is Just Recursion](http://travis.athougies.net/posts/2018-05-05-dynamic-programming-is-recursion.html)
 
 ## map, filter, foldr
 
