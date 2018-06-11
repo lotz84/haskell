@@ -93,6 +93,7 @@
 * [Heterogeneous collections](http://www.hsyl20.fr/home/posts/2018-02-21-heterogeneous-collections.html)
 * [Type safe records as an excuse to learn type level programming in Haskell - Entropic ramblings by a Random Agent.](https://rcalsaverini.github.io/posts/2018/02/type-level-excuse)
 * [The HKD pattern and type-level SKI](http://h2.jaguarpaw.co.uk/posts/hkd-pattern-type-level-ski/)
+* [Type-Level Induction in Haskell - Donnacha Oisín Kidney](https://doisinkidney.com/posts/2018-05-05-induction.html)
 
 ```haskell
 data Bottom
