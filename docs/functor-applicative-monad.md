@@ -206,6 +206,7 @@ class Monad m where
 * [Haskell副作用ポエム - Qiita](https://qiita.com/Mizunashi_Mana/items/e82214dfae2765c6839a)
 * [Papers We Love San Diego - Monads for Functional Programming - YouTube](https://www.youtube.com/watch?v=kYaowT7wT0E)
 * [Haskell: Monadクラスのこれまでとこれから - Qiita](https://qiita.com/mod_poppo/items/8c483951703b5ea0f74e)
+* [Burritos for the Hungry Mathematician](http://emorehouse.web.wesleyan.edu/silliness/burrito_monads.pdf)
 
 ```haskell
 do x <- mx
