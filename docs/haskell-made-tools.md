@@ -62,6 +62,9 @@ variance introduced by outliers: 81% (severely inflated)
 ### command-line-tweeter
 * [vmchale/command-line-tweeter: Tweets in from a pipe](https://github.com/vmchale/command-line-tweeter)
 
+### curl-runnings
+* [aviaviavi/curl-runnings: A framework for writing declarative, curl based tests for your APIs](https://github.com/aviaviavi/curl-runnings)
+
 ### Ec2-unikernel
 * Tool for uploading unikernels into EC2
 * [Ec2-unikernel: One step unikernel -> Amazon EC2 AMI](https://devel.unikernel.org/t/ec2-unikernel-one-step-unikernel-amazon-ec2-ami/167)
