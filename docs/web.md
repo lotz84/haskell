@@ -71,6 +71,7 @@ Client
   * [github package](https://hackage.haskell.org/package/github)
   * [github-types](https://hackage.haskell.org/package/github-types)
   * [github-webhook-handler](https://hackage.haskell.org/package/github-webhook-handler)
+  * [github-webhooks: Aeson instances for GitHub Webhook payloads.](https://hackage.haskell.org/package/github-webhooks)
 * AWS
   * [aristidb/aws](https://github.com/aristidb/aws)
   * [brendanhay/amazonka](https://github.com/brendanhay/amazonka)
