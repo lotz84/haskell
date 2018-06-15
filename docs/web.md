@@ -128,6 +128,7 @@ Front end
 * [contivero/hasmin: Hasmin - A Haskell CSS Minifier](https://github.com/contivero/hasmin)
 * [BOB 2017 - Alexander Thiemann: The Future of Front-end Development: A comparison - YouTube](https://www.youtube.com/watch?v=BZfvoW8wixU)
 * [Miso: A tasty Haskell front-end framework](https://haskell-miso.org/)
+* [Elm が苦手なことは Haskell にやらせよう](https://speakerdeck.com/ytaka23/we-are-javascripters-19th)
 
 Haskell to JavaScript compiler
 ------------------------------
