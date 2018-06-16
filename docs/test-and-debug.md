@@ -133,6 +133,7 @@ Passed:
 * [Neil Mitchell's Haskell Blog: Announcing the 'debug' package](http://neilmitchell.blogspot.jp/2017/12/announcing-debug-package.html)
 * [Haskell でのデバッグ手法あれこれ \| 雑記帳](https://blog.miz-ar.info/2018/01/debugging-haskell-program/)
 * [debug パッケージのアナウンス (翻訳)](https://haskell.e-bigmoon.com/posts/2018-02-26-announcing-the-debug-package)
+* [Moving Towards Dialogue: Collaborating with your computer using typed holes! by Vaibhav Sagar - YouTube](https://www.youtube.com/watch?v=0oo8wIi2qBE)
 
 ## 例外処理
 * [エラー処理を書いてはいけない](http://tanakh.jp/pub/pfi-seminar-2011-12-08.html)
