@@ -68,6 +68,7 @@
 * [Testing Failure with Either Instead of Exception | Haskell at Work](https://haskell-at-work.com/episodes/2018-03-18-testing-failure-with-either-instead-of-exception.html)
 * [David Peter: Interactive Tests and Documentation via QuickCheck style Declarations - λC 2016 - YouTube](https://www.youtube.com/watch?v=iTSosG7vUyI)
 * [Property based integration testing using Haskell!](https://functional.works-hub.com/learn/property-based-integration-testing-using-haskell-6c25c?utm_source=reddit&utm_campaign=Walkies&utm_content=Hask%2Fblog)
+* [[1803.07130] A promise checked is a promise kept: Inspection Testing](https://arxiv.org/abs/1803.07130)
 
 ### QuickCheck
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
