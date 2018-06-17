@@ -112,6 +112,7 @@ class (Functor t, Foldable t) => Traversable t where
 * [Traversable: A Remix - The Life Monadic](http://duplode.github.io/posts/traversable-a-remix.html)
 * [Beautiful Aggregations with Haskell \| Front Row](http://tech.frontrowed.com/2017/09/22/aggregations/)
 * [benjamin.pizza - Zip-Folding](https://www.benjamin.pizza/posts/2018-01-10-zip-folding.html)
+* [Polymorphic `mono-traversable`](https://github.com/effectfully/sketches/tree/master/poly-traversable)
 
 #### Distributive
 Distributive is the categorical dual of Traversable.
