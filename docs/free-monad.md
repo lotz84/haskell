@@ -134,6 +134,7 @@ yoneda f = Natural $ \ax -> fmap ax f
 * [Marcin Szamotulski - Composing Cofree Interpreters](https://www.youtube.com/watch?v=klpKIs84_bU&feature=youtu.be)
 * [The Comonad.Reader » The Cofree Comonad and the Expression Problem](http://comonad.com/reader/2008/the-cofree-comonad-and-the-expression-problem/)
 * [monads - What are some motivating examples for Cofree CoMonad in Haskell? - Stack Overflow](https://stackoverflow.com/questions/38816993/what-are-some-motivating-examples-for-cofree-comonad-in-haskell)
+* [Cofree will tear us apart - Murat Kasimov](https://iokasimov.github.io/posts/2018/05/cofree-will-tear-us-apart)
 
 ## EDSL
 * [Domain-specific Languages and Code Synthesis Using Haskell](http://dl.acm.org/citation.cfm?id=2617811)
