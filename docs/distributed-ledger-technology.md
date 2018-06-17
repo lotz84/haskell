@@ -38,6 +38,7 @@
 ## Cardano
 * [wkawin / Ouroboros / ソース / — Bitbucket](https://bitbucket.org/wkawin/ouroboros/src)
 * [Formal specification for a Cardano wallet - Cardano](https://cardanodocs.com/technical/formal-specification-for-a-cardano-wallet/)
+* [Well-Typed - The Haskell Consultants: Semi-Formal Development: The Cardano Wallet](http://www.well-typed.com/blog/2018/05/semi-formal-development/)
 
 ### BlockApps
 * [BlockApps](http://blockapps.net/)
