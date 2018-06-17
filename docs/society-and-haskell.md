@@ -119,6 +119,7 @@ Haskellを利用している日本の企業
 * [Tweag I/O - We are hiring! : haskell](https://www.reddit.com/r/haskell/comments/8806xt/tweag_io_we_are_hiring/)
 * [[JOBS] Capital Match is hiring! [Haskell, Full Stack, Singapore, On Site] : haskell](https://www.reddit.com/r/haskell/comments/87yuhe/jobs_capital_match_is_hiring_haskell_full_stack/)
 * [Co—Star Astrology is hiring a Haskell developer in NY! : haskell](https://www.reddit.com/r/haskell/comments/8953h8/costar_astrology_is_hiring_a_haskell_developer_in/)
+* [Haskell job in Bangalore, India (Remote/In-office) : haskell](https://www.reddit.com/r/haskell/comments/8qzbpp/haskell_job_in_bangalore_india_remoteinoffice/)
 
 ### FPComplete
 * [FPComplete](https://www.fpcomplete.com/)
