@@ -239,6 +239,11 @@ $ hobbes "*.hs" | xargs -n1 ghc --make
 * <http://pandoc.org/>
 * [Convert documents (doc, odt, html, epub, etc.) in Shell with pandoc](https://www.youtube.com/watch?v=BkTYHChkDoE)
 
+### PaperBoy
+* [2mol/pboy: a small .pdf management utility](https://github.com/2mol/pboy)
+
+> This tool helps renaming those files without too much fuss. It will rename/move documents to a specified folder, and it even gives some filename suggestions by looking at the file content and the pdf metadata.
+
 ### par
 * Linuxのコマンドを簡単に並列実行させられるコマンド
 * [k-bx/par](https://github.com/k-bx/par)
