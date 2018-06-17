@@ -8,6 +8,7 @@ Index
     * [GHC JS](https://github.com/lotz84/haskell/blob/master/docs/web.md#ghc-js)
     * [Haste](https://github.com/lotz84/haskell/blob/master/docs/web.md#haste)
     * [fay](https://github.com/lotz84/haskell/blob/master/docs/web.md#fay)
+  * [WebAssembly](https://github.com/lotz84/haskell/blob/master/docs/web.md#webassembly)
   * [HTML Template](https://github.com/lotz84/haskell/blob/master/docs/web.md#html-template)
     * [Lucid](https://github.com/lotz84/haskell/blob/master/docs/web.md#lucid)
 * [Back end](https://github.com/lotz84/haskell/blob/master/docs/web.md#back-end)
@@ -162,6 +163,11 @@ Haskell to JavaScript compiler
 
 ### fay
 * [faylang/fay](https://github.com/faylang/fay)
+
+WebAssembly
+-----------
+* [tweag/asterius: A Haskell to WebAssembly compiler](https://github.com/tweag/asterius)
+* [Tweag I/O - Fibonacci compiles end-to-end — Haskell to WebAssembly via GHC](https://www.tweag.io/posts/2018-05-29-hello-asterius.html)
 
 HTML Template
 -------------
