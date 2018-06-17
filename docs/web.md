@@ -341,6 +341,7 @@ Web Application Framework
 * [Rest api in Haskell \| maciek.io](http://maciek.io/rest-api-in-haskell/)
 * [eckyputrady/haskell-scotty-realworld-example-app](https://github.com/eckyputrady/haskell-scotty-realworld-example-app) - Exemplary real world backend API built with Haskell/Scotty
 * [More "RowList" fun with Records in Haskell feat. Scotty Route/Handler pairings & HomeRunWannabe - Qiita](https://qiita.com/kimagure/items/7c3521cfbf00ad173801)
+* [Read you a Scotty](http://devanla.com/read-you-a-scotty.html)
 
 ### Spock
 * [Spock Web Framework](https://www.spock.li/)
