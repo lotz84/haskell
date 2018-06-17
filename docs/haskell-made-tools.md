@@ -2,6 +2,9 @@
 
 ----
 
+### animate-frames
+* [jxv/animate-frames: 🎞️ Sprite frames to spritesheet & metadata](https://github.com/jxv/animate-frames)
+
 ### antigen-hs
 * zsh のプラグインマネージャー
 * <https://github.com/Tarrasch/antigen-hs>
