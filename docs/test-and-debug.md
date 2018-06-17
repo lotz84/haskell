@@ -169,3 +169,4 @@ Passed:
 * [Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell)
 * [Rethinking MonadError – The Science of Code](https://lukajcb.github.io/blog/functional/2018/04/15/rethinking-monaderror.html)
 * [Async Exception Handling in Haskell - YouTube](https://www.youtube.com/watch?v=T5y8sFmCFnA)
+* [Rethinking MonadError – The Science of Code](https://lukajcb.github.io/blog/functional/2018/04/15/rethinking-monaderror.html)
