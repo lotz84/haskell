@@ -2,6 +2,7 @@
 * [SamuelSchlesinger/Gaia](https://github.com/SamuelSchlesinger/Gaia) - An experiment in functional interface design
 * [Haskell - $の仕組みを覗いてみよう - Qiita](https://qiita.com/grainrigi/items/f45b586b4013ffc3814e)
 * [Idiomatic Haskell : haskell](https://www.reddit.com/r/haskell/comments/84qs5x/idiomatic_haskell/)
+* [Haskell/GHC symbol search cheatsheet](https://github.com/takenobu-hs/haskell-symbol-search-cheatsheet)
 
 ## 型
 * [What is the difference between an Algebraic Data Type and an Abstract Data Type?](http://www.reddit.com/r/haskell/comments/38grqx/what_is_the_difference_between_an_algebraic_data/)
