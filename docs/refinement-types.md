@@ -1,3 +1,5 @@
+LiquidHaskell
+--------------
 * [入門LiquidHaskell−篩型による静的コード解析−](https://taimen.jp/f/389)
 * [LiquidHaskell](https://ucsd-progsys.github.io/liquidhaskell-blog/)
 * [Announcing the refinement types library](http://nikita-volkov.github.io/refined/)
@@ -25,3 +27,11 @@
 * [LiquidHaskell](https://ucsd-progsys.github.io/liquidhaskell-blog/2017/12/15/splitting-and-splicing-intervals-I.lhs/)
 * [LiquidHaskell](https://ucsd-progsys.github.io/liquidhaskell-blog/2017/12/24/splitting-and-splicing-intervals-II.lhs/)
 * [Liquid Haskell Tutorial](https://liquid.kosmikus.org/01-intro.html)
+
+refined
+-------
+* [refined: Refinement types with static and runtime checking](https://hackage.haskell.org/package/refined)
+
+Others
+------
+* [Smart constructors that cannot fail](https://markkarpov.com/post/smart-constructors-that-cannot-fail.html)
