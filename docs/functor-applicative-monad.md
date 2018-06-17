@@ -302,6 +302,7 @@ instance Monad (State s) where
 * [Stateモナドを理解する - Qiita](http://qiita.com/ku00/items/12221793dbb51f16a2d6)
 * [HaskellのStateの必要性が,プログラミング言語の処理系を書いた時にわかったので,Stateの良さを語ります](https://www.ncaq.net/2017/12/01/00/00/01/)
 * [Stateモナドを数学的に実装する - Qiita](https://qiita.com/sg-matsumoto/items/de6874149ccbeaedac3e)
+* [Turning bottom-up into top-down with Reverse State - ielliott.io](http://blog.ielliott.io/topsy-turvy-reverse-state/)
 
 ### RWS Monad
 Reader + Writer + State
