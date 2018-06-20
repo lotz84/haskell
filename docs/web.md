@@ -443,6 +443,7 @@ Web Application Framework
 * [slack-api + bloodhound + servant でbot+αを作る](http://blog.nakaji.me/slack-api-bloodhound-servant/)
 * [Queensland FP Lab - Nested routes in servant](https://qfpl.io/posts/nested-routes-in-servant/)
 * [Servant Route Smooshing](https://www.parsonsmatt.org/2018/03/14/servant_route_smooshing.html)
+* [Implementation of Elasticsearch bulk index API in Haskell Servant in 5 mins - YouTube](https://www.youtube.com/watch?v=-g91NGFGMlg)
 
 ### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
