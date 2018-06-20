@@ -17,6 +17,7 @@
 * [2017 state of Haskell survey results](http://taylor.fausak.me/2017/11/15/2017-state-of-haskell-survey-results/)
 * [[Slides] Joy & frustration of putting 34,000 lines of Haskell into production](https://www.reddit.com/r/haskell/comments/7e8bom/slides_joy_frustration_of_putting_34000_lines_of/)
 * [Functional Programming Languages and the Pursuit of Laziness with Dr. Simon Peyton Jones](https://www.microsoft.com/en-us/research/blog/functional-programming-languages-pursuit-laziness-dr-simon-peyton-jones/)
+* [Haskell Adoption and User Satisfaction Growing](https://www.infoq.com/news/2018/05/haskell-user-survey-2018)
 
 ## コミュニティ
 * [Haskell Communities and Activities Report](https://wiki.haskell.org/Haskell_Communities_and_Activities_Report)
