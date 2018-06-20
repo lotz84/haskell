@@ -55,6 +55,7 @@
   * [bff: Bidirectionalization for Free! (POPL'09)](https://hackage.haskell.org/package/bff-0.3.1.2)
 * [Deciphering lens error messages, part 1 – Urbint Engineering – Medium](https://medium.com/urbint-engineering/deciphering-lens-error-messages-part-1-75627c440090)
 * [Lysxia - Monadic profunctors for bidirectional programming](https://blog.poisson.chat/posts/2017-01-01-monadic-profunctors.html)
+* [Lenses embody Products, Prisms embody Sums · in Code](https://blog.jle.im/entry/lenses-products-prisms-sums.html)
 
 > Thus the Yoneda embedding of the functor category leads to the van Laarhoven representation of the lens
 
