@@ -57,6 +57,7 @@ type a * b = (a, b)
 * [Overcoming Boolean blindness with Evidence](http://cs-syd.eu/posts/2016-07-24-overcoming-boolean-blindness-evidence.html)
 * [代数的データ型のデータのとりうる数を微分すると１穴空きデータ型の数になる話 - Qiita](http://qiita.com/mittyantest/items/f8783834e6bb48baf2c8)
 * [代数的データ型とF代数 - Qiita](http://qiita.com/karrym/items/62c46a2c7640912a1a28)
+* [Adαm Schønemαnn - Pattern matching ADTs](https://adamschoenemann.dk/posts/2018-05-29-pattern-matching.html)
 
 ### Codata
 * [Codata](http://types2004.lri.fr/SLIDES/altenkirch.pdf)
