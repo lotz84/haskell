@@ -263,6 +263,7 @@
 * [hellerve/Data.DDate](https://github.com/hellerve/Data.DDate)
 * [System.Timeを使うときは気をつけよう](http://qiita.com/watertight/items/294d2ebb73c54d046f63) - `Data.Time`を使おう
 * [The hourglass package](http://hackage.haskell.org/package/hourglass)
+* [Template Haskell でいい感じに時間の長さを書けるライブラリ duration を作った - ryota-ka's blog](https://ryota-ka.hatenablog.com/entry/2018/06/09/210456)
 
 ### 動的計画法
 * [Haskell で動的計画法を書くための3つの方針](http://d.hatena.ne.jp/toslunar/20100408/1270719176)
