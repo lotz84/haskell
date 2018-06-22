@@ -304,6 +304,9 @@ success
 * [Rasa - Modular Text-Editor](https://www.reddit.com/r/haskell/comments/5l0a2i/rasa_modular_texteditor/)
 * <https://github.com/ChrisPenner/rasa>
 
+### require
+* [require - Scrap your qualified import clutter](https://theam.github.io/require/index.html)
+
 ### vado
 * [chrisdone/vado: A web browser engine written in Haskell](https://github.com/chrisdone/vado)
 
