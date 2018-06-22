@@ -229,6 +229,7 @@ circum (Circle _ _ r) = …
 
 > Why use a dependent pair? A part from more advanced uses such as proof construction, online tutorials cite dependent typing as a way to make programs more correct (e.g., avoiding access to zero sized vector). Others say that dependent types allow to describe more precisely the intended behavior of programs. The way I see it is that they can reduce the combinatorial space of cases to consider when building a function.  
 > [Vittorio Zaccaria - Home page](http://www.vittoriozaccaria.net/#/blog/2018/01/27/what-i-whish-i-knew-haskell-and-dependent-pairs.html)
+* [Richard Eisenberg speaks on Dependent Types : haskell](https://www.reddit.com/r/haskell/comments/8lkv6l/richard_eisenberg_speaks_on_dependent_types/)
 
 ```haskell
 {-# LANGUAGE GADTs, DataKinds, KindSignatures, TypeFamilies #-}
