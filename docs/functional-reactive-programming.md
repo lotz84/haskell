@@ -74,6 +74,7 @@
 * [Semantic UI for Reflex Dom](https://tomsmalley.github.io/semantic-reflex/)
 * [dfordivam' blog - Introducing tenjinreader.com for Haskellers](https://dfordivam.github.io/posts/2018-02-27-introducing-tenjinreader-for-haskellers.html)
 * [gonimo/Gonimo-Architecture.md at master · gonimo/gonimo](https://github.com/gonimo/gonimo/blob/master/front/doc/Gonimo-Architecture.md)
+* [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk)
 
 ### Netwire
 * [Today in Code — Almost a Netwire 5 Tutorial](http://todayincode.tumblr.com/post/96914679355/almost-a-netwire-5-tutorial)
