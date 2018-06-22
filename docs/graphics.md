@@ -95,6 +95,7 @@
 * [kindl/Hypatia: A ML-family Language Compiled to Lua](https://github.com/kindl/Hypatia)
 * [dbousamra/hnes: NES Emulator written in Haskell](https://github.com/dbousamra/hnes/)
 * [Andre's Blog - Haskell roguelike](http://www.andrevdm.com/posts/2018-04-02-haskell-rogue-like.html)
+* [Fluxを再発明する - The curse of λ](https://myuon.github.io/posts/refluxible-library/)
 
 ## Gloss
 * [gloss](http://hackage.haskell.org/package/gloss)
