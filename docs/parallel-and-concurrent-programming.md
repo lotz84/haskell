@@ -42,6 +42,7 @@
 * [A Tour of Go in Haskellを作ったのと、GoとHaskellの比較 - syocy’s diary](http://syocy.hatenablog.com/entry/a-tour-of-go-in-haskell)
 * [Merritt Blog - Getting Started with OpenCL in Haskell](https://lancelet.github.io/posts/2017-12-26-opencl-helloworld.html)
 * [Introduction · Capataz](https://romanandreg.gitbooks.io/capataz/content/)
+* [マルチコアでスケールするようになったHaskell \| IIJの技術 \| インターネットイニシアティブ（IIJ）](https://www.iij.ad.jp/dev/tech/activities/haskell/)
 
 ## 並列
 * [monad-par](https://hackage.haskell.org/package/monad-par)
