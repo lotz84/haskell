@@ -218,6 +218,7 @@
 * [CircleCI2.0でHaskellのテストを実行する – PSYENCE:MEDIA](https://tech.recruit-mp.co.jp/dev-tools/post-13981/)
 * [harendra-kumar/packcheck: Universal build and CI testing for Haskell packages](https://github.com/harendra-kumar/packcheck)
 * [Thoughts Heap — Lightning fast CI for Haskell projects](https://blog.roman-gonzalez.ca/post/172746394387/lightning-fast-ci-for-haskell-projects)
+* [CS Syd - Research as a build system with Shake](https://cs-syd.eu/posts/2018-05-28-research-as-a-build-system)
 
 ## Workflow
 * [tweag/funflow: Functional workflows](https://github.com/tweag/funflow)
