@@ -202,6 +202,7 @@ instance Monad Dist where
 * [ThoughtWorksInc/DeepDarkFantasy: A Programming Language for Deep Learning](https://github.com/ThoughtWorksInc/DeepDarkFantasy)
 * [Generating Simple Haskell Programs With Deep Learning](http://www.samcoope.com/posts/deep_code_generation)
 * [GU-CLASP/TypedFlow](https://github.com/GU-CLASP/TypedFlow) - Typed frontend to TensorFlow and higher-order deep learning
+* [pfnet-research/menoh-haskell: Haskell binding for Menoh DNN inference library](https://github.com/pfnet-research/menoh-haskell)
 
 ### Neural Network
 * [jbarrow/LambdaNet](https://github.com/jbarrow/LambdaNet)
