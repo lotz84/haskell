@@ -58,6 +58,7 @@
   * [ACM SIGPLAN Haskell Symposium 2017](https://www.haskell.org/haskell-symposium/2017/index.html)
 * [ZuriHac 2016](https://www.youtube.com/playlist?list=PLSIUOFhnxEiCyRYbinK7Nv6ImUc4mzJGN)
 * [TNG Technology Consulting GmbH](https://www.youtube.com/channel/UCxaV-Pd-SZAgP-G1Mni47Hw)
+* [BayHac 2018 - YouTube](https://www.youtube.com/playlist?list=PL5lgjzYOvyYMvAEXok1tLpBBtOOlfBYIU)
 
 ## Advent Calendar
 * 2016
