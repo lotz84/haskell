@@ -457,6 +457,12 @@ Line 6:
 * [staversion: What version is the package X in stackage lts-Y.ZZ?](https://hackage.haskell.org/package/staversion)
 * [stackageの特定のresolverに上がっているパッケージバージョンを調べるツール](http://d.hatena.ne.jp/debug-ito/20161016/1476603444)
 
+### tintin
+> A softer alternative to Haddock
+
+* [tintin - Home](https://theam.github.io/tintin/)
+
+
 ### thank-you-stars
 * [y-taka-23/thank-you-stars](https://github.com/y-taka-23/thank-you-stars) - Give your dependencies stars on GitHub!
 * [Haskell ライブラリにスターを送るツール thank-you-stars を作ってみました](http://ccvanishing.hateblo.jp/entry/2017/09/14/150435)
