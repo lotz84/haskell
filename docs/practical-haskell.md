@@ -134,6 +134,7 @@
 * [Haskell Stack のグローバル環境を雑に使う - Qiita](https://qiita.com/keigoi/items/4aaa6090361b53cce24a)
 * [Haskell Stackでエラー "openFile: inappropriate type (Is a directory) when using mirror " が出るときの対処法 - Qiita](https://qiita.com/nwtgck/items/36feb22bb194f0c01493)
 * [Stack (Haskell): Could not find moduleと言われたときの対処 2018年春版 - Qiita](https://qiita.com/sky_y/items/6712c3609a8e690e0dd3)
+* [Dear Haskell it's not you, it's your tooling.](https://avi-d-coder.github.io/post/dear_haskell/)
 
 ### 逆引き
 * [Ubuntu 16 で Stack + GHC がライブラリのリンクに失敗する場合の対処法](http://qiita.com/mr_konn/items/13caa82c1118968d3145)
