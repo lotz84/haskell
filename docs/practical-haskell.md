@@ -418,3 +418,4 @@
 * [拡張可能タングルでDo記法レスプログラミング♪ (Haskell)](https://matsubara0507.github.io/posts/2018-02-22-fun-of-extensible-3.html)
 * [[1803.06960] Ready, Set, Verify! Applying hs-to-coq to real-world Haskell code](https://arxiv.org/abs/1803.06960)
 * [Haskellでコンパイル時に「(ファイル名):L(現在の行）」を埋め込む - Qiita](https://qiita.com/aiya000/items/7efdfd1102ffd5712422)
+* [Nothing Unusual - Cloning FluxBB](https://siskam.link/2018-04-14-cloning-fluxbb.html)
