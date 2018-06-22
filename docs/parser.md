@@ -36,6 +36,7 @@
 * [HaskellでC言語コンパイラ動かしたり、関数化しやすくして再利用性を高めたりしてみたよ - Qiita](https://qiita.com/nwtgck/items/49373211cc14322ee59b)
 * [Stitch: The Sound Type-Indexed Type Checker (Author’s Cut)](https://cs.brynmawr.edu/~rae/papers/2018/stitch/stitch.pdf)
 * [Announcing GHC syntax highlighter](https://markkarpov.com/post/announcing-ghc-syntax-highlighter.html)
+* [Happyでパースエラーで列行番号とどんなミスマッチが起こったか報告する - Qiita](https://qiita.com/aiya000/items/7cdc843972c8bd9da04e)
 
 ## 正規表現
 * [関数型的正規表現マッチ](https://research.preferred.jp/2010/11/regexp-play/)
