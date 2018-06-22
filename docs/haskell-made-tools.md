@@ -62,6 +62,9 @@ variance introduced by outliers: 81% (severely inflated)
 ### clifm
 * [pasqu4le/clifm: Command Line Interface File Manager](https://github.com/pasqu4le/clifm)
 
+### clone-all
+* [silky/clone-all: clone all the github repositories of a particular user.](https://github.com/silky/clone-all)
+
 ### command-line-tweeter
 * [vmchale/command-line-tweeter: Tweets in from a pipe](https://github.com/vmchale/command-line-tweeter)
 
