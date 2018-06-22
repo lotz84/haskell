@@ -74,6 +74,7 @@
 * [Use Hpack - e.xtendo.org](https://e.xtendo.org/haskell/hpack)
 * [dhall-to-cabal: Compile Dhall expressions to Cabal files](https://hackage.haskell.org/package/dhall-to-cabal)
 * [Introduction to Cabal \| Haskell at Work](https://haskell-at-work.com/episodes/2018-05-13-introduction-to-cabal.html)
+* [Haskell: Build Tools](https://kowainik.github.io/posts/2018-06-21-haskell-build-tools.html)
 
 ## Stack
 * [The Haskell Tool Stack](http://docs.haskellstack.org/en/stable/README.html)
