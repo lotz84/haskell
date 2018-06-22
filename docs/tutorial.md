@@ -78,6 +78,7 @@
   * [Haskell入門ハンズオン! #3: 当日用資料 4/5 - Qiita](https://qiita.com/YoshikuniJujo/items/8a8a78b637b03771c8d5)
   * [Haskell入門ハンズオン! #3: 当日用資料 5/5 - Qiita](https://qiita.com/YoshikuniJujo/items/2d2b28598f6dbb45b44a)
 * [AtCoder に登録したら解くべき精選過去問 10 問を Haskell で解いてみた - Qiita](https://qiita.com/hsjoihs/items/25a08b426196ab2b9bb0)
+* [すごいH本が楽しかったのでまとめた - Qiita](https://qiita.com/ta-ka/items/8679737ac70cf1dc1d78)
 
 </details>
 
