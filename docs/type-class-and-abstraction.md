@@ -77,6 +77,7 @@ instance Show Bool where
 * [まともな型クラス への入門： 関数型とオブジェクト指向の垣根を越えて](http://d.hatena.ne.jp/m-hiyama/20180109/1515455333)
 * [mpickering - Replacing type classes with records affects optimisation](http://mpickering.github.io/posts/2018-03-20-recordsvstypeclasses.html)
 * [Algorithmically Scrapping Your Typeclasses :: Reasonably Polymorphic](http://reasonablypolymorphic.com/blog/algorithmic-sytc/)
+* [Haskellの関数に等価性を定義したい！ - Qiita](https://qiita.com/nwtgck/items/8371855594e6e1b2aca6)
 
 ## 代数的な型クラス
 * [tower](https://tonyday567.github.io/tower/index.html)
