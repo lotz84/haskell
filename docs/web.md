@@ -149,6 +149,10 @@ Haskell to JavaScript compiler
 * [eamsden/dom-gnats: A binding to ghcjs-vdom for time-flies](https://github.com/eamsden/dom-gnats)
 * [ghcjs/jsaddle: JavaScript interface that works with GHCJS or GHC](https://github.com/ghcjs/jsaddle)
 
+#### miso
+* [Tehnix/miso-isomorphic-stack: An example of an "isomorphic" Miso server set up with stack](https://github.com/Tehnix/miso-isomorphic-stack)
+* [y-taka-23/miso-tutorial-app: An example GHCJS + Miso single page application.](https://github.com/y-taka-23/miso-tutorial-app)
+
 ### Haste
 * [Haskell + Haste で Fourier 級数の可視化](http://qiita.com/lesguillemets/items/dbd928237be3e6a1221d)
 * [Haste + Parsec でブラウザ上で動く電卓をつくる](http://qiita.com/lesguillemets/items/b58e684a773fb4b5e4aa)
@@ -236,7 +240,6 @@ Web Server
 * [Crash Course in Happstack](http://happstack.com/docs/crashcourse/index.html)
 * [Generate Typesafe APIs with Fluid Pt.1](http://jxv.io/blog/2018-03-23-Generate-Typesafe-APIs-with-Fluid-Pt1.html)
 * [[ANN] rowdy, the web routing DSL : haskell](https://www.reddit.com/r/haskell/comments/88wcxv/ann_rowdy_the_web_routing_dsl/)
-* [Tehnix/miso-isomorphic-stack: An example of an "isomorphic" Miso server set up with stack](https://github.com/Tehnix/miso-isomorphic-stack)
 
 ### ネットワークプログラミング
 * [network: Low-level networking interface](https://hackage.haskell.org/package/network)
