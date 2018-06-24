@@ -5,17 +5,6 @@ Monad Transformer
 * [The transformers package](https://hackage.haskell.org/package/transformers)
 * [The mtl package](https://hackage.haskell.org/package/mtl)
 * [The monads-tf package](http://hackage.haskell.org/package/monads-tf)
-* [Announcing: the new unliftio library](https://www.fpcomplete.com/blog/2017/07/announcing-new-unliftio-library)
-* [monad-control](https://hackage.haskell.org/package/monad-control)
-  * [モナドトランスフォーマーとmonad-control](http://maoe.hatenadiary.jp/entry/20111207/1323185162)
-* [lifted-base](https://hackage.haskell.org/package/lifted-base)
-* [resource-simple](https://hackage.haskell.org/package/resource-simple)
-  * [Understanding ResourceT](https://www.fpcomplete.com/blog/2017/06/understanding-resourcet)
-* [monad-levels](http://hackage.haskell.org/package/monad-levels)
-  * [Monadic yak shaving](https://ivanmiljenovic.wordpress.com/2015/02/02/monadic-yak-shaving/)
-* [Monatron](https://hackage.haskell.org/package/Monatron)
-* [Announcing: monad-unlift](https://www.fpcomplete.com/blog/2015/04/announcing-monad-unlift)
-* [Documentation.Layers.Overview](http://hackage.haskell.org/package/layers/docs/Documentation-Layers-Overview.html)
 
 ### 入門／チュートリアル
 * [Maybe と IO を一緒に使いたくなったら - ryota-ka's blog](https://ryota-ka.hatenablog.com/entry/2018/05/26/193220)
@@ -36,13 +25,30 @@ Monad Transformer
 * [モナド変換子 (その3: 課題の解答) - Qiita](https://qiita.com/HirotoShioi/items/6faaf8babb23bb2f3485)
 * [AceHack-Practical Monad Transformers](https://sakshamsharma.com/2018/03/monadt/)
 
+### MonadControl/MonadTransUnlift
+`MonadTrans`の`lift`がモナドをモナドスタックの中で実行できるようにするのとは逆に、モナドスタックをベースとなるモナドの中で実行する仕組みを提供する。
+
+* [モナドトランスフォーマーとmonad-control](http://maoe.hatenadiary.jp/entry/20111207/1323185162)
+* [monad-control](https://hackage.haskell.org/package/monad-control)
+* [lifted-base](https://hackage.haskell.org/package/lifted-base)
+* [MonadBaseControl in Five Minutes](http://www.parsonsmatt.org/2017/11/21/monadbasecontrol_in_five_minutes.html)
+* [Announcing: monad-unlift](https://www.fpcomplete.com/blog/2015/04/announcing-monad-unlift)
+* [Announcing: the new unliftio library](https://www.fpcomplete.com/blog/2017/07/announcing-new-unliftio-library)
+
 ### 圏論
 * [Monad transformer](http://mbps.hatenablog.com/entry/2014/06/28/033234)
 * [Adjunction からの monad transformer](http://mbps.hatenablog.com/entry/2014/11/25/220948)
 * [Monad からの monad transformer](http://mbps.hatenablog.com/entry/2014/12/11/112455)
+* [Proper Treatment 正當作法/blog/posts/Monad transformers](http://conway.rutgers.edu/~ccshan/wiki/blog/posts/Monad_transformers/)
+
+### モナド準同型
+* [The mmorph package](https://hackage.haskell.org/package/mmorph)
+* [モナドモナド (LT没ネタ)](http://qiita.com/hiratara/items/65fcf38070def7e5a918)
+* [ZuriHac 2016: Monad Homomorphisms](https://www.youtube.com/watch?v=YTaNkWjd-ac)
+* [テンソル積の作り方](http://d.hatena.ne.jp/m-hiyama/20160829/1472445276)
+* [テンソル積の作り方 2： 双加群の場合、小さい圏の場合](http://d.hatena.ne.jp/m-hiyama/20160830/1472527717)
 
 ### Others
-* [Proper Treatment 正當作法/blog/posts/Monad transformers](http://conway.rutgers.edu/~ccshan/wiki/blog/posts/Monad_transformers/)
 * [Wrangling Monad Transformer Stacks](https://www.youtube.com/watch?v=8t8fjkISjus)
 * [ContEitherT](https://iteratee.wordpress.com/2015/10/01/conteithert/)
 * [Monad transformers, free monads, mtl, laws and a new approach](https://ocharles.org.uk/blog/posts/2016-01-26-transformers-free-monads-mtl-laws.html)
@@ -64,18 +70,15 @@ Monad Transformer
 * [Ether - Monad Transformers and Classes](https://int-index.github.io/ether/)
 * [Monad transformers and comonad transformers](http://dlaing.org/cofun/posts/monad_transformers_and_comonad_transformers.html)
 * [Haskell Application Monad](https://savanni.luminescent-dreams.com/page/haskell-app-monad)
-* [MonadBaseControl in Five Minutes](http://www.parsonsmatt.org/2017/11/21/monadbasecontrol_in_five_minutes.html)
 * [Monad Transformer State - Michael Snoyman - YouTube](https://www.youtube.com/watch?v=KZIN9f9rI34&feature=youtu.be)
 * [いろいろなパッケージから提供されている ListT モナド変換子の違いについて調べてみる - 無駄と文化](http://blog.mudatobunka.org/entry/2018/01/03/233314)
 * [The Comonad.Reader » Monads from Comonads](http://comonad.com/reader/2011/monads-from-comonads/)
 * [Transforming Transformers](http://www.parsonsmatt.org/2018/04/10/transforming_transformers.html)
-
-### モナド準同型
-* [The mmorph package](https://hackage.haskell.org/package/mmorph)
-* [モナドモナド (LT没ネタ)](http://qiita.com/hiratara/items/65fcf38070def7e5a918)
-* [ZuriHac 2016: Monad Homomorphisms](https://www.youtube.com/watch?v=YTaNkWjd-ac)
-* [テンソル積の作り方](http://d.hatena.ne.jp/m-hiyama/20160829/1472445276)
-* [テンソル積の作り方 2： 双加群の場合、小さい圏の場合](http://d.hatena.ne.jp/m-hiyama/20160830/1472527717)
+* [resource-simple](https://hackage.haskell.org/package/resource-simple)
+  * [Understanding ResourceT](https://www.fpcomplete.com/blog/2017/06/understanding-resourcet)
+* [Monadic yak shaving](https://ivanmiljenovic.wordpress.com/2015/02/02/monadic-yak-shaving/)
+* [Monatron](https://hackage.haskell.org/package/Monatron)
+* [Documentation.Layers.Overview](http://hackage.haskell.org/package/layers/docs/Documentation-Layers-Overview.html)
 
 ## Extensible Effects
 * [Extensible Effects: an alternative to Monad Transformers](http://okmij.org/ftp/Haskell/extensible/)
