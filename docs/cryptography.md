@@ -17,3 +17,4 @@
 * [SPAKE2 in Haskell: How Haskell Helped - jml :: Jonathan Lange](https://jml.io/2017/10/spake2-how-haskell-helped.html)
 * [On the state of cryptography in Haskell – www.leonmergen.com](https://leonmergen.com/on-the-state-of-cryptography-in-haskell-c272fb0b6478)
 * [Haskell で暗号学的ハッシュを扱う (和訳) - Qiita](https://qiita.com/rounddelta/items/ace180b1b78876f1c190)
+* [Secure Password Storage in Go, Python, Ruby, Java, Haskell, and NodeJS](https://www.praetorian.com/blog/secure-password-storage-in-go-python-ruby-java-haskell-and-nodejs)
