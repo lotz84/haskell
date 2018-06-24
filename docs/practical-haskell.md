@@ -1,55 +1,70 @@
 [Haskell 2010 言語報告書](http://www.sampou.org/haskell/haskell2010-report-htja/)
 
-* [Hoogle](https://www.haskell.org/hoogle/) - [README](https://github.com/ndmitchell/hoogle/blob/master/README.md)
-  * [Easy Hoogle usage from bash](http://przybyszd.blogspot.jp/2016/01/easy-hoogle-usage-from-bash.html)
-  * [Hoogle検索をラクにするChrome拡張を作りました！](http://yu-i9.hatenablog.com/entry/hoogleswitcher)
-* [Hayoo!](http://hayoo.fh-wedel.de/)
 * [STANDARDIZED LADDER OF FUNCTIONAL PROGRAMMING](https://pbs.twimg.com/media/CydL5EYUsAAI-61.jpg:large)
 * [Anatomy of a Haskell-based Application](http://abailly.github.io/posts/cm-arch-design.html)
-* [dkubb/haskell-builder](https://github.com/dkubb/haskell-builder)
 * [How to contribute to the Haskell ecosystem](http://www.haskellforall.com/2015/12/how-to-contribute-to-haskell-ecosystem.html)
-* [Secure Password Storage in Go, Python, Ruby, Java, Haskell, and NodeJS](https://www.praetorian.com/blog/secure-password-storage-in-go-python-ruby-java-haskell-and-nodejs)
 * [Worst practices should be hard](http://www.haskellforall.com/2016/04/worst-practices-should-be-hard.html)
 * [Simple Unique IP System Script](http://www.latermuse.com/static/ron-simpleuniqueipsystemscript.html)
-* [最近のHaskell製パッケージのドキュメント事情について簡単に](http://qiita.com/igrep/items/e7926ef2d015ca85c18e)
-* [How do you find a function that…](http://myhaskelljournal.com/how-do-you-find-a-function-that/)
-* [Haddock at your fingertips](http://hao.codes/docsets.html)
-* [Continuous Haddocks](https://chromabits.com/posts/2016/07/04/haddock-travis/)
-* [Let's Write Documentation for Haskell](http://lwm.github.io/posts/html/document-haskell.html)
 * [Measuring Software Fragility](http://softwaresimply.blogspot.jp/2016/08/measuring-software-fragility.html)
 * [The Four Flaws of Haskell](http://neilmitchell.blogspot.jp/2016/08/the-four-flaws-of-haskell.html)
 * [Practical Haskell: Simple File Mirror (Part 1)](https://www.fpcomplete.com/blog/2016/09/practical-haskell-simple-file-mirror-1)
 * [Practical Haskell: Simple File Mirror (Part 2)](https://www.fpcomplete.com/blog/2016/09/practical-haskell-simple-file-mirror-2)
-* [N Haskell Tools & Packages I wish someone had told me about](http://get-finch.com/2016/10/10/haskell-tools.html)
-* [Haskell package checklist](http://taylor.fausak.me/2016/12/05/haskell-package-checklist/)
-* [Version SAT](https://research.swtch.com/version-sat)
-* [Problematic versioning policy](http://taylor.fausak.me/2016/12/28/problematic-versioning-policy/)
-* [Rapid](https://hackage.haskell.org/package/rapid-0.1.3/docs/Rapid.html) - This module provides a rapid prototyping suite for GHCi that can be used standalone or integrated into editors.
-* [Conflicting Module Names](http://www.snoyman.com/blog/2017/01/conflicting-module-names)
-* [Dear package managers: dependency resolution results should be in version control](https://blog.ometer.com/2017/01/10/dear-package-managers-dependency-resolution-results-should-be-in-version-control/)
 * [Monitoring the popularity and the development of GitHub projects](http://gittrends.io/#/explore?page=1&language=Haskell&domain=All&growth=All) - GitHub上の活発なHaskellのプロジェクトを表示
-* [Search - haskell \| Unixstickers](http://www.unixstickers.com/index.php?route=product/search&filter_name=haskell)
 * [Actually Using Haskell!](http://www.oredev.org/2017/sessions/actually-using-haskell)
 * [What Makes Haskell Unique](https://www.snoyman.com/blog/2017/12/what-makes-haskell-unique)
 * [Infinite Negative Utility: Some Notes About How I Write Haskell](https://blog.infinitenegativeutility.com/2017/12/some-notes-about-how-i-write-haskell)
-* [haddock に Grid Table 記法が追加されました](https://haskell.e-bigmoon.com/posts/2017-12-27-haddock-grid-table.html)
 * [Literate Markdown (markdown-unlit の使い方) について](https://haskell.e-bigmoon.com/posts/2017-12-29-literate-markdown)
 * [Haskellや周辺ツールについてのリンク集 - Qiita](https://qiita.com/ogata-k/items/23d70250ec42359b6bb5)
-* [Stackage Serverのちょっとした便利な使い方,Hoogleをブラウザのカスタム検索エンジンに追加しましょう,よく使うパッケージをブックマークする時はPackageRのURLにしましょう - ncaq](https://www.ncaq.net/2017/12/04/00/00/00/)
-* [Redesigning Haskell docs - Nuno Alexandre](https://nunoalexandre.com/2018/02/04/redesigning-haskell-docs)
-* [Hash Based Package Downloads - part 1 of 2](https://www.fpcomplete.com/blog/2018/01/hash-based-package-downloads-part-1-of-2#)
-* [Hash Based Package Downloads - part 2 of 2](https://www.fpcomplete.com/blog/2018/01/hash-based-package-downloads-part-2-of-2)
-* [SLURP](https://www.snoyman.com/blog/2018/01/slurp)
-* [SLURP: a Single Liberal Unified Registry of Haskell Packages by simonmar · Pull Request #4 · haskell/ecosystem-proposals](https://github.com/haskell/ecosystem-proposals/pull/4)
-* [Tweag I/O - Build large polyglot projects with Bazel... now with Haskell support](https://www.tweag.io/posts/2018-02-28-bazel-haskell.html)
-* [Tweag I/O - Nix + Bazel = fully reproducible, incremental builds](https://www.tweag.io/posts/2018-03-15-bazel-nix.html)
 * [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
-* [Build Systems à la Carte](https://www.microsoft.com/en-us/research/uploads/prod/2018/03/build-systems.pdf)
+
+## Preludeを置き換える
+### Preludeの問題点
+* `base`は最小限に作られているためよく使う`directory`や`transformers`といったライブラリが入っていない
+* そのため、初学者には目的に対してどのライブラリが標準的に使われているのかが判断しにくい
+* さらによく使うライブラリは毎回依存関係を記述する必要があるため冗長だし、面倒さにより自分で再実装してしまう危険もある
+
+### RIO
+Stack開発の知見が集められたライブラリ
+
+* よく設計され信頼できるライブラリを集めている
+* 使い勝手の良い`Prelude`の置き換えである
+* プロダウション品質のHaskellコードを書くためのベストプラクティスを集めたもの
+
+という特徴がある。
+
+* [The RIO Monad](https://www.fpcomplete.com/blog/2017/07/the-rio-monad)
+* [commercialhaskell/rio: A standard library for Haskell](https://github.com/commercialhaskell/rio)
+* [rio ライブラリを試す その１](https://matsubara0507.github.io/posts/2018-04-13-try-rio-1.html)
+
+### その他のライブラリ
+* [The rebase package](http://hackage.haskell.org/package/rebase)
+* [nikita-volkov/rerebase](https://github.com/nikita-volkov/rerebase)
+* [The base-prelude package](https://hackage.haskell.org/package/base-prelude)
+* [Foundation](http://tab.snarc.org/posts/haskell/2016-09-09-foundation.html)
+* [serokell/universum: Prelude used in @Serokell](https://github.com/serokell/universum#universum)
+
+## 検索
+* [Hoogle](https://www.haskell.org/hoogle/) - [README](https://github.com/ndmitchell/hoogle/blob/master/README.md)
+  * [Easy Hoogle usage from bash](http://przybyszd.blogspot.jp/2016/01/easy-hoogle-usage-from-bash.html)
+  * [Hoogle検索をラクにするChrome拡張を作りました！](http://yu-i9.hatenablog.com/entry/hoogleswitcher)
+* [Hayoo!](http://hayoo.fh-wedel.de/)
+* [Base で定義されている演算子の一覧](http://hackage.haskell.org/package/acme-operators/docs/Acme-Operators-Base.html)
+* [How do you find a function that…](http://myhaskelljournal.com/how-do-you-find-a-function-that/)
+* [Search - haskell \| Unixstickers](http://www.unixstickers.com/index.php?route=product/search&filter_name=haskell)* [Stackage Serverのちょっとした便利な使い方,Hoogleをブラウザのカスタム検索エンジンに追加しましょう,よく使うパッケージをブックマークする時はPackageRのURLにしましょう - ncaq](https://www.ncaq.net/2017/12/04/00/00/00/)
+
+## Haddoc
+* [Continuous Haddocks](https://chromabits.com/posts/2016/07/04/haddock-travis/)
+* [最近のHaskell製パッケージのドキュメント事情について簡単に](http://qiita.com/igrep/items/e7926ef2d015ca85c18e)
+* [Haddock at your fingertips](http://hao.codes/docsets.html)
+* [Let's Write Documentation for Haskell](http://lwm.github.io/posts/html/document-haskell.html)
+* [haddock に Grid Table 記法が追加されました](https://haskell.e-bigmoon.com/posts/2017-12-27-haddock-grid-table.html)
+* [Redesigning Haskell docs - Nuno Alexandre](https://nunoalexandre.com/2018/02/04/redesigning-haskell-docs)
 
 ## GHCi
 * [ghciでマルチバイト文字をエスケープせず表示させる](http://qiita.com/aosho235/items/bdfa4a68b77b9fcc4a35)
 * [Haskell初心者が直面するghciで起こしがちなエラー4選とその対処法 - Qiita](http://qiita.com/tacke_jp/items/bb714f22eb8762d6e8ee)
 * [ghciでの関数定義 - Qiita](http://qiita.com/smellman/items/708be678df00d4f7529c)
+* [Rapid](https://hackage.haskell.org/package/rapid-0.1.3/docs/Rapid.html) - This module provides a rapid prototyping suite for GHCi that can be used standalone or integrated into editors.
 
 ## Cabal
 * [Hackage](http://hackage.haskell.org/)
@@ -75,6 +90,16 @@
 * [dhall-to-cabal: Compile Dhall expressions to Cabal files](https://hackage.haskell.org/package/dhall-to-cabal)
 * [Introduction to Cabal \| Haskell at Work](https://haskell-at-work.com/episodes/2018-05-13-introduction-to-cabal.html)
 * [Haskell: Build Tools](https://kowainik.github.io/posts/2018-06-21-haskell-build-tools.html)
+* [Hash Based Package Downloads - part 1 of 2](https://www.fpcomplete.com/blog/2018/01/hash-based-package-downloads-part-1-of-2#)
+* [Hash Based Package Downloads - part 2 of 2](https://www.fpcomplete.com/blog/2018/01/hash-based-package-downloads-part-2-of-2)
+* [SLURP](https://www.snoyman.com/blog/2018/01/slurp)
+* [SLURP: a Single Liberal Unified Registry of Haskell Packages by simonmar · Pull Request #4 · haskell/ecosystem-proposals](https://github.com/haskell/ecosystem-proposals/pull/4)
+* [N Haskell Tools & Packages I wish someone had told me about](http://get-finch.com/2016/10/10/haskell-tools.html)
+* [Haskell package checklist](http://taylor.fausak.me/2016/12/05/haskell-package-checklist/)
+* [Version SAT](https://research.swtch.com/version-sat)
+* [Problematic versioning policy](http://taylor.fausak.me/2016/12/28/problematic-versioning-policy/)
+* [Conflicting Module Names](http://www.snoyman.com/blog/2017/01/conflicting-module-names)
+* [Dear package managers: dependency resolution results should be in version control](https://blog.ometer.com/2017/01/10/dear-package-managers-dependency-resolution-results-should-be-in-version-control/)
 
 ## Stack
 * [The Haskell Tool Stack](http://docs.haskellstack.org/en/stable/README.html)
@@ -221,19 +246,14 @@
 * [harendra-kumar/packcheck: Universal build and CI testing for Haskell packages](https://github.com/harendra-kumar/packcheck)
 * [Thoughts Heap — Lightning fast CI for Haskell projects](https://blog.roman-gonzalez.ca/post/172746394387/lightning-fast-ci-for-haskell-projects)
 * [CS Syd - Research as a build system with Shake](https://cs-syd.eu/posts/2018-05-28-research-as-a-build-system)
+* [Tweag I/O - Build large polyglot projects with Bazel... now with Haskell support](https://www.tweag.io/posts/2018-02-28-bazel-haskell.html)
+* [Tweag I/O - Nix + Bazel = fully reproducible, incremental builds](https://www.tweag.io/posts/2018-03-15-bazel-nix.html)
+* [Build Systems à la Carte](https://www.microsoft.com/en-us/research/uploads/prod/2018/03/build-systems.pdf)
+* [dkubb/haskell-builder](https://github.com/dkubb/haskell-builder)
 
 ## Workflow
 * [tweag/funflow: Functional workflows](https://github.com/tweag/funflow)
 * [Tweag I/O - Funflow: typed resumable workflows](https://www.tweag.io/posts/2018-04-25-funflow.html)
-
-## Another Prelude Libraries
-* [The rebase package](http://hackage.haskell.org/package/rebase)
-* [nikita-volkov/rerebase](https://github.com/nikita-volkov/rerebase)
-* [Base で定義されている演算子の一覧](http://hackage.haskell.org/package/acme-operators/docs/Acme-Operators-Base.html)
-* [The base-prelude package](https://hackage.haskell.org/package/base-prelude)
-* [Foundation](http://tab.snarc.org/posts/haskell/2016-09-09-foundation.html)
-* [commercialhaskell/rio: A standard library for Haskell](https://github.com/commercialhaskell/rio)
-* [serokell/universum: Prelude used in @Serokell](https://github.com/serokell/universum#universum)
 
 ## FFI
 * [inline-c](https://hackage.haskell.org/package/inline-c)
