@@ -4,23 +4,11 @@
    * [pdf](http://community.haskell.org/~simonmar/par-tutorial.pdf)
 * [Concurrency](http://www.scs.stanford.edu/14sp-cs240h/slides/concurrency-slides.html)
 * [Memory](http://www.scs.stanford.edu/14sp-cs240h/slides/memory-slides.html)
-* [criterion performance measurements](https://tvh.github.io/refs-bench.html)
-* [関数型プログラミング言語における通信記述の型付け](http://ir.nul.nagoya-u.ac.jp/jspui/handle/2237/16436)
-* [The Art of Multiprocessor Programming](http://www.e-reading.club/bookreader.php/134637/Herlihy_-_The_art_of_multiprocessor_programming.pdf)
-    * [sile/amp1-2.md](https://gist.github.com/sile/3130042)
-    * [sile/AMP-CH2.md](https://gist.github.com/sile/8097704)
-    * [sile/amp-3-5.md](https://gist.github.com/sile/3568187)
-    * [sile/amp-4-8.md](https://gist.github.com/sile/3762308)
-    * [sile/AMP-CH7-a.md](https://gist.github.com/sile/6a0fd3da6fb2f02ef163)
-    * [sile/AMP-CH10.md](https://gist.github.com/sile/2d50fc54fa25e55da139)
-    * [sile/AMP-CH13.md](https://gist.github.com/sile/83593f59c7f3e205fb8b)
-    * [sile/AMP-CH18-SUMMARY.md](https://gist.github.com/sile/1dc1a595e2c4c998b6b6)
 * [Multithreaded Computer Architecture: A Summary of the State of the ART](http://link.springer.com/book/10.1007/978-1-4615-2698-8)
 * [Parallel Computing Technologies](http://link.springer.com/book/10.1007/978-3-540-45145-7)
 * [並列処理の理論とホモトピー](http://pantodon.shinshu-u.ac.jp/topology/literature/concurrency.html)
 * [高速WebサーバMighttpdのアーキテクチャ](http://www.iij.ad.jp/company/development/tech/activities/mighttpd/)
 * [Edward Kmett - Propagators - Boston Haskell](https://www.youtube.com/watch?v=DyPzPeOPgUE)
-* [マルチプロセッサ用リアルタイムOSの解説](http://www.nces.is.nagoya-u.ac.jp/NEXCESS/blog/index.php?catid=44&blogid=5)
 * [Parallel-Haskell-1-1](https://www.youtube.com/watch?v=N6sOMGYsvFA)
   * [Haskell-1-2](https://www.youtube.com/watch?v=ybba5tcOeEY)
   * [Haskell-2-1](https://www.youtube.com/watch?v=oQ4fvA1OEcY)
@@ -124,22 +112,24 @@ main = do
 * [Improving Haskell STM Performance (2016) : haskell](https://www.reddit.com/r/haskell/comments/80tk0t/improving_haskell_stm_performance_2016/)
 
 ## 分散
-* [分散システム処理モデルに関する動向について（MapReduceからBorgまで）](http://techblog.yahoo.co.jp/architecture/2015_06_ditributed_system/)
+* [Speeding up a distributed computation in Haskell :: FP Complete](https://www.fpcomplete.com/blog/2017/01/speeding-up-distributed-computation)
+* [Distributed Programming with Linear Types \| SkillsCast \| 12th October 2017](https://skillsmatter.com/skillscasts/10637-distributed-programming-with-linear-types)
+
+### Raft
+* [chrisnc/tangaroa](https://github.com/chrisnc/tangaroa)
+* [NicolasT/kontiki](https://github.com/NicolasT/kontiki) - An implementation of the Raft consensus protocol
+
+### Transient
+* [agocorona/transient](https://github.com/agocorona/transient)
+* [agocorona/transient-universe](https://github.com/agocorona/transient-universe)
+* [Moving Haskell processes between nodes (Transient effects IV)](https://www.fpcomplete.com/user/agocorona/moving-haskell-processes-between-nodes-transient-effects-iv)
+* [Estimation of π using distributed computing. Streaming. Transient effects VI](https://www.fpcomplete.com/user/agocorona/estimation-of-using-distributed-computing-streaming-transient-effects-vi-1)
+* [Composing distributed Web applications](https://github.com/agocorona/transient/wiki/Composing--distributed-Web-applications)
+
+### Cloud Haskell
 * [Cloud Haskell](http://haskell-distributed.github.io/)
 * [distributed-process](https://hackage.haskell.org/package/distributed-process)
-* [ZuriHac 2015 - Distributed Programming in Haskell](https://www.youtube.com/watch?v=qlnU73a3Cw0)
-* [Estimation of π using distributed computing. Streaming. Transient effects VI](https://www.fpcomplete.com/user/agocorona/estimation-of-using-distributed-computing-streaming-transient-effects-vi-1)
-* [Moving Haskell processes between nodes (Transient effects IV)](https://www.fpcomplete.com/user/agocorona/moving-haskell-processes-between-nodes-transient-effects-iv)
-  * [agocorona/transient](https://github.com/agocorona/transient)
-* [Haskell meets large scale distributed analytics](http://www.tweag.io/blog/haskell-meets-large-scale-distributed-analytics)
-* [agocorona/transient-universe](https://github.com/agocorona/transient-universe)
-* [chrisnc/tangaroa](https://github.com/chrisnc/tangaroa)
-  * [Paxos](http://www.slideshare.net/pfi/paxos-13615514?ref=http://open-groove.net/all-things-technology/paxos/)
-  * [Raft](http://www.slideshare.net/pfi/raft-36155398)
 * [Distributed Systems in Haskell](http://yager.io/Distributed/Distributed.html)
-* [Composing distributed Web applications](https://github.com/agocorona/transient/wiki/Composing--distributed-Web-applications)
-* [Speeding up a distributed computation in Haskell :: FP Complete](https://www.fpcomplete.com/blog/2017/01/speeding-up-distributed-computation)
-* [NicolasT/kontiki](https://github.com/NicolasT/kontiki) - An implementation of the Raft consensus protocol
-* [Distributed Programming with Linear Types \| SkillsCast \| 12th October 2017](https://skillsmatter.com/skillscasts/10637-distributed-programming-with-linear-types)
-* [Session types in Cloud Haskell : haskell](https://www.reddit.com/r/haskell/comments/7g3ckg/session_types_in_cloud_haskell/)
 * [Using Cloud Haskell to write a type-safe distributed chat - Tutorials](https://www.stackbuilders.com/tutorials/haskell/cloud-haskell/)
+* [ZuriHac 2015 - Distributed Programming in Haskell](https://www.youtube.com/watch?v=qlnU73a3Cw0)
+* [Session types in Cloud Haskell : haskell](https://www.reddit.com/r/haskell/comments/7g3ckg/session_types_in_cloud_haskell/)
