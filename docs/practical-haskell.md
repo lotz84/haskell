@@ -42,6 +42,7 @@ Stack開発の知見が集められたライブラリ
 * [The base-prelude package](https://hackage.haskell.org/package/base-prelude)
 * [Foundation](http://tab.snarc.org/posts/haskell/2016-09-09-foundation.html)
 * [serokell/universum: Prelude used in @Serokell](https://github.com/serokell/universum#universum)
+* [safe-prelude: a thought experiment - Michael Snoyman's blog](http://www.snoyman.com/blog/2017/01/safe-prelude-a-thought-experiment)
 
 ## 検索
 * [Hoogle](https://www.haskell.org/hoogle/) - [README](https://github.com/ndmitchell/hoogle/blob/master/README.md)
