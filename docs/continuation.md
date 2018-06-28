@@ -46,6 +46,7 @@ newtype Cont r a = Cont { runCont :: (a -> r) -> r }
 * [Continuation Passing Style in Haskell](http://begriffs.com/posts/2015-06-03-haskell-continuations.html)
 * [無限ループから抜け出すプログラム](http://qiita.com/lotz/items/a1ff5725e918e216940e)
 * [Tweet](https://twitter.com/cdepillabout/status/972515871301120000)
+* [ContT を使ってコードを綺麗にしよう！](https://haskell.e-bigmoon.com/posts/2018/06-26-cont-param.html)
 
 ### 継続による計算の効率化
 継続を使って短絡評価が実装できる  
