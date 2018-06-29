@@ -127,9 +127,16 @@ main = do
 * [Composing distributed Web applications](https://github.com/agocorona/transient/wiki/Composing--distributed-Web-applications)
 
 ### Cloud Haskell
+型付けされたメッセージを備えたErlangライクなアクターモデル
+
 * [Cloud Haskell](http://haskell-distributed.github.io/)
 * [distributed-process](https://hackage.haskell.org/package/distributed-process)
 * [Distributed Systems in Haskell](http://yager.io/Distributed/Distributed.html)
 * [Using Cloud Haskell to write a type-safe distributed chat - Tutorials](https://www.stackbuilders.com/tutorials/haskell/cloud-haskell/)
 * [ZuriHac 2015 - Distributed Programming in Haskell](https://www.youtube.com/watch?v=qlnU73a3Cw0)
 * [Session types in Cloud Haskell : haskell](https://www.reddit.com/r/haskell/comments/7g3ckg/session_types_in_cloud_haskell/)
+* [Well-Typed - The Haskell Consultants: A Cloud Haskell Appetiser (Parallel Haskell Digest 11)](http://www.well-typed.com/blog/68/)
+* [Well-Typed - The Haskell Consultants: Communication Patterns in Cloud Haskell (Part 1)](http://www.well-typed.com/blog/71/)
+* [Well-Typed - The Haskell Consultants: Communication Patterns in Cloud Haskell (Part 2)](http://www.well-typed.com/blog/72/)
+* [Well-Typed - The Haskell Consultants: Communication Patterns in Cloud Haskell (Part 3)](http://www.well-typed.com/blog/73/)
+* [Well-Typed - The Haskell Consultants: Communication Patterns in Cloud Haskell (Part 4)](http://www.well-typed.com/blog/74/)
