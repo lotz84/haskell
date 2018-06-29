@@ -42,6 +42,7 @@
 * [A Purely Functional Typed Approach to Trainable Models (Part 2) · in Code](https://blog.jle.im/entry/purely-functional-typed-models-2.html)
 * [A Purely Functional Typed Approach to Trainable Models (Part 3) · in Code](https://blog.jle.im/entry/purely-functional-typed-models-3.html)
 * [Easytensor: flexible type-indexed array DataFrame (t :: l) (ds :: [k]) : haskell](https://www.reddit.com/r/haskell/comments/8ie4mk/easytensor_flexible_typeindexed_array_dataframe_t/)
+* [Tweag I/O - Haskell meets large scaledistributed analytics](https://www.tweag.io/posts/2016-02-25-hello-sparkle.html)
 
 ## HaskellR
 * [HaskellR](http://tweag.github.io/HaskellR/)
