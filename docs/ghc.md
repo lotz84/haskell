@@ -102,6 +102,7 @@
 * [libuv based I/O manager - YouTube](https://www.youtube.com/watch?v=2J0fGMpFA_w&feature=youtu.be)
 * [Introduction to Vectorization : haskell](https://www.reddit.com/r/haskell/comments/8iamm1/introduction_to_vectorization/)
 * [Oleg's gists - Idiom brackets via source plugin](http://oleg.fi/gists/posts/2018-07-06-idiom-brackets-via-source-pluging.html)
+* [Stop supporting older GHCs](https://www.snoyman.com/blog/2018/07/stop-supporting-older-ghcs)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
