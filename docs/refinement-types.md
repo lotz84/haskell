@@ -27,6 +27,7 @@ LiquidHaskell
 * [LiquidHaskell](https://ucsd-progsys.github.io/liquidhaskell-blog/2017/12/15/splitting-and-splicing-intervals-I.lhs/)
 * [LiquidHaskell](https://ucsd-progsys.github.io/liquidhaskell-blog/2017/12/24/splitting-and-splicing-intervals-II.lhs/)
 * [Liquid Haskell Tutorial](https://liquid.kosmikus.org/01-intro.html)
+* [Liquid Haskell by Niki Vazou : haskell](https://www.reddit.com/r/haskell/comments/8tlgfn/liquid_haskell_by_niki_vazou/)
 
 refined
 -------
