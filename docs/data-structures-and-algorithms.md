@@ -102,6 +102,7 @@
 * [部分構造の共有を観測するdata-reify - Qiita](https://qiita.com/masahiro_sakai/items/6a989d5b898a08f17821)
 * [Haskell containers package — containers 0.5.10.2 documentation](https://m-renaud-haskell-containers.readthedocs.io/en/docs/)
 * [unpacked-containers: Unpacked containers via backpack](https://hackage.haskell.org/package/unpacked-containers)
+* [Fast and Parallel State Machines by Gabriel Gonzalez : haskell](https://www.reddit.com/r/haskell/comments/8uiaob/fast_and_parallel_state_machines_by_gabriel/)
 
 ### ソート
 * [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
