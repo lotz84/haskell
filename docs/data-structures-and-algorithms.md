@@ -104,6 +104,7 @@
 * [unpacked-containers: Unpacked containers via backpack](https://hackage.haskell.org/package/unpacked-containers)
 * [Fast and Parallel State Machines by Gabriel Gonzalez : haskell](https://www.reddit.com/r/haskell/comments/8uiaob/fast_and_parallel_state_machines_by_gabriel/)
 * [Fast Sudoku Solver in Haskell #1: A Simple Solution | abhinavsarkar.net](https://abhinavsarkar.net/posts/fast-sudoku-solver-in-haskell-1/)
+* [Edward Kmett - Revisiting Combinators ("upgrade your video driver to type check") : haskell](https://www.reddit.com/r/haskell/comments/8tpgjj/edward_kmett_revisiting_combinators_upgrade_your/)
 
 ### ソート
 * [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
