@@ -16,6 +16,7 @@
 * [Literate Markdown (markdown-unlit の使い方) について](https://haskell.e-bigmoon.com/posts/2017-12-29-literate-markdown)
 * [Haskellや周辺ツールについてのリンク集 - Qiita](https://qiita.com/ogata-k/items/23d70250ec42359b6bb5)
 * [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
+* [Dhallによるリッチな設定ファイル体験 - Speaker Deck](https://speakerdeck.com/syocy/dhallniyoruritutinashe-ding-huairuti-yan)
 
 ## Preludeを置き換える
 ### Preludeの問題点
