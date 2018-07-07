@@ -353,6 +353,10 @@ Stack開発の知見が集められたライブラリ
   * [Domain Modelling with Haskell: Factoring Out Recursion | Haskell at Work](https://haskell-at-work.com/episodes/2018-02-11-domain-modelling-with-haskell-factoring-out-recursion.html)
 * [Three Layer Haskell Cake](http://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html)
 
+## Dependency Injection
+* [HaskellでDIする - The curse of λ](https://myuon.github.io/posts/haskell-di/)
+* [Extensible EffectsとTagless Finalで実装するDI - Qiita](https://qiita.com/lotz/items/a903d3b2aec0c1d4f3ce)
+
 ----
 
 * [dcfl is a parallelized constraint solving library for Haskell.](http://poincare.github.io/DCFL/)
