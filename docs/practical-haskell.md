@@ -447,3 +447,4 @@ Stack開発の知見が集められたライブラリ
 * [Nothing Unusual - Cloning FluxBB](https://siskam.link/2018-04-14-cloning-fluxbb.html)
 * [New ICFP functional pearl on subtracting bijections | blog :: Brent -> [String]](https://byorgey.wordpress.com/2018/06/23/new-icfp-functional-pearl-on-subtracting-bijections/)
 * [Redis Data Modeling with Rank 2 Types](https://identicalsnowflake.github.io/Rank2Modeling.html)
+* [Coercions and Roles for Dummies :: Reasonably Polymorphic](http://reasonablypolymorphic.com/blog/roles/)
