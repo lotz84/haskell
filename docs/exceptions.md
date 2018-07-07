@@ -19,6 +19,7 @@
 * [Better Exception Messages - Michael Snoyman's blog](http://www.snoyman.com/blog/2017/02/better-exception-messages)
 * [Exception handling in Haskell Jobs – Lazy Eval – Medium](https://medium.com/lazy-eval/exception-handling-in-haskell-jobs-383835fb73e6)
 * [Rethinking MonadError – The Science of Code](https://lukajcb.github.io/blog/functional/2018/04/15/rethinking-monaderror.html)
+* [On EitherT \| Perpetually Curious](http://lambdafoo.com/blog/2018/06/22/transformers-either/)
 
 ### safe-exceptions
 * [fpco/safe-exceptions](https://github.com/fpco/safe-exceptions)
