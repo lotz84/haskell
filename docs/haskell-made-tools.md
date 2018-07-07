@@ -218,6 +218,9 @@ $ hobbes "*.hs" | xargs -n1 ghc --make
 * lamdu - towards the next generation IDE
 * <https://github.com/lamdu/lamdu>
 
+### life-sync
+* [kowainik/life-sync: 🔄 Synchronize personal configs across multiple machines](https://github.com/kowainik/life-sync)
+
 ### link
 * A simple multithreded chat server in haskell
 * <https://github.com/abhin4v/link>
