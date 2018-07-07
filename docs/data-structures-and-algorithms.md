@@ -103,6 +103,7 @@
 * [Haskell containers package — containers 0.5.10.2 documentation](https://m-renaud-haskell-containers.readthedocs.io/en/docs/)
 * [unpacked-containers: Unpacked containers via backpack](https://hackage.haskell.org/package/unpacked-containers)
 * [Fast and Parallel State Machines by Gabriel Gonzalez : haskell](https://www.reddit.com/r/haskell/comments/8uiaob/fast_and_parallel_state_machines_by_gabriel/)
+* [Fast Sudoku Solver in Haskell #1: A Simple Solution | abhinavsarkar.net](https://abhinavsarkar.net/posts/fast-sudoku-solver-in-haskell-1/)
 
 ### ソート
 * [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
