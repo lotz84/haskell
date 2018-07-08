@@ -104,6 +104,7 @@
 * [Oleg's gists - Idiom brackets via source plugin](http://oleg.fi/gists/posts/2018-07-06-idiom-brackets-via-source-pluging.html)
 * [Stop supporting older GHCs](https://www.snoyman.com/blog/2018/07/stop-supporting-older-ghcs)
 * [GHC-Core-Literature-Review/doc.pdf at master · xnning/GHC-Core-Literature-Review](https://github.com/xnning/GHC-Core-Literature-Review/blob/master/doc/doc.pdf)
+* [Rethinking Static Reference Tables in GHC · Simon Marlow](http://simonmar.github.io/posts/2018-06-22-New-SRTs.html)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
