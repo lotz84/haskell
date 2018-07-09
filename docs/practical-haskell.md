@@ -193,6 +193,7 @@ Stack開発の知見が集められたライブラリ
 * [mpickering - Using a development version of GHC with nix](http://mpickering.github.io/posts/2018-01-05-ghchead-nix.html)
 * [Nix: Under the hood by Gabriel Gonzalez - YouTube](https://www.youtube.com/watch?v=GMQPzv3Sx58)
 * [mpickering - Nix scaffolding for running Haskell plugins](http://mpickering.github.io/posts/2018-06-24-haskell-nix-plugins.html)
+* [Nix, Docker and Haskell](https://cs-syd.eu/posts/2018-07-14-nix-docker-haskell)
 
 ## Docker
 * [Dockerfile Linter](http://hadolint.lukasmartinelli.ch/)
