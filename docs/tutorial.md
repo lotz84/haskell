@@ -24,6 +24,7 @@
 * [Layout ルール， Haskell のオフサイドルールについて](https://bydriv.github.io/blog/layout.html)
 * [初心者卒業試験のブラックジャック作成に挑戦してみました（Haskell編） - Qiita](https://qiita.com/KNaito/items/385fb1701f70ffb8ffd4)
 * [Haskellでマインスイーパーを作る - YouTube](https://www.youtube.com/watch?v=E5skmV4fpcc&feature=youtu.be)
+* [Haskell入門ハンズオン〜REPLで始めるHaskell生活〜](https://speakerdeck.com/aruneko/haskellru-men-hansuon)
 
 <details>
 <summary>日本語チュートリアル</summary>
