@@ -132,6 +132,7 @@ instance (HasField x r a) => IsLabel x (r -> a) where
 * [Vinyl: Records in Haskell and Type Theory](https://vimeo.com/102785458)
 * [Constant-time <code>vinyl</code> Field Getters](http://www.arcadianvisions.com/blog/2018/vinyl-arec.html)
 * [Deriving Vinyl Representation from Plain Haskell Records](https://www.gagandeepbhatia.com/blog/deriving-vinyl-representation-from-plain-haskell-records/)
+* [Scrap your Nils](https://github.com/morphismtech/squeal/blob/master/scrap-your-nils.md)
 
 ### record
 レコードを表す独自の文法を定義しコンパイル時のプリプロセッサ [`record-preprocessor`](http://hackage.haskell.org/package/record-preprocessor) を走らせることを前提としている。
