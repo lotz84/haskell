@@ -34,6 +34,7 @@
 * [Let's Talk ETC! (Ethereum Classic) #15 - Dr. Duncan Coutts - Provably Secure Smart Contracts - YouTube](https://www.youtube.com/watch?v=XCtfrZitfg4&feature=youtu.be)
 * [trailofbits/echidna: Ethereum fuzz testing framework](https://github.com/trailofbits/echidna)
 * [takenobu-hs/haskell-ethereum-assembly: EVM (Ethereum virtual machine) Assembly on Haskell DSL](https://github.com/takenobu-hs/haskell-ethereum-assembly)
+* [airalab/hs-web3 - Ethereum API for Haskell](https://github.com/airalab/hs-web3)
 
 ## Cardano
 * [wkawin / Ouroboros / ソース / — Bitbucket](https://bitbucket.org/wkawin/ouroboros/src)
