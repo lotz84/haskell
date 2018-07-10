@@ -209,6 +209,7 @@ class Monad m where
 * [Haskell: Monadクラスのこれまでとこれから - Qiita](https://qiita.com/mod_poppo/items/8c483951703b5ea0f74e)
 * [Burritos for the Hungry Mathematician](http://emorehouse.web.wesleyan.edu/silliness/burrito_monads.pdf)
 * [モナド則とプログラミング - Qiita](https://qiita.com/ruicc/items/109692ea1df502d20666)
+* [なぜモナドが必要なのか？ - Qiita](https://qiita.com/watanany/items/91c5fcb088128e9cabe3)
 
 ```haskell
 do x <- mx
