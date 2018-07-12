@@ -258,6 +258,7 @@ Stack開発の知見が集められたライブラリ
 ## Workflow
 * [tweag/funflow: Functional workflows](https://github.com/tweag/funflow)
 * [Tweag I/O - Funflow: typed resumable workflows](https://www.tweag.io/posts/2018-04-25-funflow.html)
+* [FUNFLOW EXAMPLE: EMULATING MAKE](https://www.tweag.io/posts/2018-07-10-funflow-make.html)
 
 ## FFI
 * [inline-c](https://hackage.haskell.org/package/inline-c)
