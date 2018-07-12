@@ -96,6 +96,7 @@
 * [The HKD pattern and type-level SKI](http://h2.jaguarpaw.co.uk/posts/hkd-pattern-type-level-ski/)
 * [Type-Level Induction in Haskell - Donnacha Oisín Kidney](https://doisinkidney.com/posts/2018-05-05-induction.html)
 * [Lysxia - Heterogeneous lists with dependent types in Haskell](http://blog.poisson.chat/posts/2018-06-06-hlists-dependent-haskell.html)
+* [TYPEREP-MAP STEP BY STEP](https://kowainik.github.io/posts/2018-07-11-typerep-map-step-by-step.html)
 
 ```haskell
 data Bottom
