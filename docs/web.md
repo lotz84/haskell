@@ -449,6 +449,7 @@ Web Application Framework
 * [Implementation of Elasticsearch bulk index API in Haskell Servant in 5 mins - YouTube](https://www.youtube.com/watch?v=-g91NGFGMlg)
 * [Pragmatic Haskell: Simple servant web server / Jappie](https://jappieklooster.nl/pragmatic-haskell-simple-servant-web-server.html)
 * [Pragmatic Haskell II: IO Webservant / Jappie](https://jappieklooster.nl/pragmatic-haskell-ii-io-webservant.html)
+* [Why is servant a type-level DSL?](https://haskell-servant.github.io/posts/2018-07-12-servant-dsl-typelevel.html)
 
 ### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
