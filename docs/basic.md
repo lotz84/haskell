@@ -36,6 +36,7 @@
 * [HaskellでUnion typeを実現するopen-unionを使ってみました - Qiita](https://qiita.com/nwtgck/items/03e0817ceda5c4b60957)
 * [QuasiQuoteでopen-unionを書きやすくするライブラリを作ってみました - Qiita](https://qiita.com/nwtgck/items/002817daa0e90e72870b)
 * [人間が型だけ書けば実装を意識しないでもよくなる未来 - Qiita](https://qiita.com/arowM/items/b92075627ddb4ad92d1e)
+* [Type Isomorphism](https://kseo.github.io/posts/2016-12-25-type-isomorphism.html)
 
 ### 代数的データ型
 代数的データ型とは"足し算"と"掛け算"が出来るような型のこと。"足し算"と"掛け算"はそれぞれ**直和**, **直積** と呼ばれる。
