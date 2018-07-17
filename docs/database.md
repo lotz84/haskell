@@ -49,6 +49,7 @@
   * [uber/queryparser: Parsing and analysis of Vertica, Hive, and Presto SQL.](https://github.com/uber/queryparser)
 * [fpco/odbc: Haskell ODBC binding with SQLServer support](https://github.com/fpco/odbc)
   * [A new Haskell library for talking to ODBC databases](https://www.fpcomplete.com/blog/2018/05/haskell-library-talking-odbc-databases)
+* [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant GraphQL APIs on Postgres with fine grained access control
 
 Simple Clients
 --------------
