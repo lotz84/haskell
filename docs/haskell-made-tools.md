@@ -86,6 +86,9 @@ variance introduced by outliers: 81% (severely inflated)
 * Translates a plain text description of a relational database schema to a graphical entity-relationship diagram.
 * <https://github.com/BurntSushi/erd>
 
+### fpsheet
+* [RKlompUU/fpsheet](https://github.com/RKlompUU/fpsheet) - FPSheet: A Spreadsheet program with Haskell as the scripting language
+
 ### gitit
 * [jgm/gitit](https://github.com/jgm/gitit) - A wiki using HAppS, pandoc, and git
 * [WikiサーバGititの省メモリ運営](http://qiita.com/pjmtdw/items/7ade90ba18182e493fa5)
