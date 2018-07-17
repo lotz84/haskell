@@ -102,6 +102,7 @@ Stack開発の知見が集められたライブラリ
 * [Problematic versioning policy](http://taylor.fausak.me/2016/12/28/problematic-versioning-policy/)
 * [Conflicting Module Names](http://www.snoyman.com/blog/2017/01/conflicting-module-names)
 * [Dear package managers: dependency resolution results should be in version control](https://blog.ometer.com/2017/01/10/dear-package-managers-dependency-resolution-results-should-be-in-version-control/)
+* [Steps for Releasing a Haskell Package to Hackage](https://functor.tokyo/blog/2018-07-16-release-haskell-packages-to-hackage)
 
 ## Stack
 * [The Haskell Tool Stack](http://docs.haskellstack.org/en/stable/README.html)
