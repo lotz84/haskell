@@ -100,6 +100,7 @@ parse = evalStateT
 * [Modular parser combinators - Coq en Stock](https://ptival.github.io/2017/02/25/modular-parser-combinators/)
 * [Monoidal Parsing—Edward Kmett](https://www.youtube.com/watch?v=Txf7swrcLYs)
 * [パーサー結合子：ハスケル初心者のための解析](https://two-wrongs.com/parser-combinators-parsing-for-haskell-beginners.html)
+* [Parsing list comprehensions is hard](http://www.rntz.net/post/2018-07-10-parsing-list-comprehensions.html)
 
 ### Language
 * [Hackage Search: language](https://hackage.haskell.org/packages/search?terms=language)
@@ -174,3 +175,4 @@ parse = evalStateT
 * [Playing with lens-aeson](https://www.snoyman.com/blog/2017/05/playing-with-lens-aeson)
 * [Migrating JSON with lens and foci :: Capital Match Tech Blog](https://tech-blog.capital-match.com/posts/4-json-migration.html)
 * [ParsecでJSONパーサの作成 - Qiita](https://qiita.com/penguinshunya/items/bf4e8b2527a7a2846940)
+* [Type-driven safe derivation of ToJSON and FromJSON, using DerivingVia in GHC 8.6 and some type-level hacks](https://www.reddit.com/r/haskell/comments/8y98yt/typedriven_safe_derivation_of_tojson_and_fromjson/)
