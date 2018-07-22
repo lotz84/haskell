@@ -454,3 +454,4 @@ Stack開発の知見が集められたライブラリ
 * [New ICFP functional pearl on subtracting bijections | blog :: Brent -> [String]](https://byorgey.wordpress.com/2018/06/23/new-icfp-functional-pearl-on-subtracting-bijections/)
 * [Redis Data Modeling with Rank 2 Types](https://identicalsnowflake.github.io/Rank2Modeling.html)
 * [Coercions and Roles for Dummies :: Reasonably Polymorphic](http://reasonablypolymorphic.com/blog/roles/)
+* [Some History of Functional Programming Languages](https://www.cs.kent.ac.uk/people/staff/dat/tfp12/tfp12.pdf)
