@@ -240,6 +240,7 @@ Web Server
 * [Crash Course in Happstack](http://happstack.com/docs/crashcourse/index.html)
 * [Generate Typesafe APIs with Fluid Pt.1](http://jxv.io/blog/2018-03-23-Generate-Typesafe-APIs-with-Fluid-Pt1.html)
 * [[ANN] rowdy, the web routing DSL : haskell](https://www.reddit.com/r/haskell/comments/88wcxv/ann_rowdy_the_web_routing_dsl/)
+* [abhin4v/hastatic: hastatic is a tiny static web server for Docker](https://github.com/abhin4v/hastatic)
 
 ### ネットワークプログラミング
 * [network: Low-level networking interface](https://hackage.haskell.org/package/network)
