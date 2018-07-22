@@ -27,6 +27,7 @@
 * [Smart Contracts and Formal Verification with Z3 with Pact - YouTube](https://www.youtube.com/watch?v=l7XuSuEe-Yg)
 * [Simplicity: A New Language for Blockchains](https://blockstream.com/simplicity.pdf)
 * [作って学ぶBitcoin！ゼロから作るSPVウォレット - Qiita](https://qiita.com/lotz/items/1aa6cf18aa193f40c647)
+* [Introducing the Pact property checker \| Monic Blog](https://blog.monic.co/introducing-the-pact-property-checker/)
 
 ## Ethereum
 > Blockchain上に任意のスクリプトとその実行結果を保存する
