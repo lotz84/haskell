@@ -16,6 +16,7 @@
 * [Generic zipWith](https://ro-che.info/articles/2017-04-25-generic-zipWith)
 * [Deriving Bifunctor with Generics](http://kcsongor.github.io/generic-deriving-bifunctor/)
 * [Higher-Kinded Data :: Reasonably Polymorphic](http://reasonablypolymorphic.com/blog/higher-kinded-data)
+* [[1805.06798] Generic Deriving of Generic Traversals](https://arxiv.org/abs/1805.06798)
 
 ## Uniplate
 * [uniplate](https://hackage.haskell.org/package/uniplate)
