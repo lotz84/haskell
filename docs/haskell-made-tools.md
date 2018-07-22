@@ -355,6 +355,9 @@ Line 6:
 ### slacky
 * <https://github.com/mitchellwrosen/slacky/wiki>
 
+### Slick
+* [ChrisPenner/Slick: Static site generator build on Shake configured in Haskell](https://github.com/ChrisPenner/slick)
+
 ### sprinkles
 * Web Development without programming
 * [tdammers/sprinkles](https://github.com/tdammers/sprinkles)
