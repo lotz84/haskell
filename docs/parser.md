@@ -123,6 +123,7 @@ parse = evalStateT
 * [readcsv: Lightweight CSV parser/emitter based on ReadP](https://hackage.haskell.org/package/readcsv-0.1)
 * [sv: Encode and decode separated values (CSV, PSV, ...)](https://hackage.haskell.org/package/sv)
 * [haskell-perf/csv: Simple comparative benchmarks for CSV parsing libraries](https://github.com/haskell-perf/csv#file-space)
+* [Queensland FP Lab - Announcing sv 1.0](https://qfpl.io/posts/sv-1.0/)
 
 ### XML
 * [xml-conduit](https://hackage.haskell.org/package/xml-conduit)
