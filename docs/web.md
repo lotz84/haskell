@@ -148,6 +148,7 @@ Haskell to JavaScript compiler
 * [Functional Reactive Web Interfaces with GHCJS and sodium](http://weblog.luite.com/wordpress/)
 * [eamsden/dom-gnats: A binding to ghcjs-vdom for time-flies](https://github.com/eamsden/dom-gnats)
 * [ghcjs/jsaddle: JavaScript interface that works with GHCJS or GHC](https://github.com/ghcjs/jsaddle)
+* [WebGL, Fragment Shader, GHCJS and reflex-dom – Blog – Joachim Breitner's Homepage](https://www.joachim-breitner.de/blog/742-WebGL%2C_Fragment_Shader%2C_GHCJS_and_reflex-dom)
 
 #### miso
 * [Tehnix/miso-isomorphic-stack: An example of an "isomorphic" Miso server set up with stack](https://github.com/Tehnix/miso-isomorphic-stack)
