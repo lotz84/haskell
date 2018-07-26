@@ -101,6 +101,7 @@ instance Show Bool where
 * [Monoids: what they are, why they are useful, and what they teach us about software](https://deque.blog/2017/09/13/monoids-what-they-are-why-they-are-useful-and-what-they-teach-us-about-software/)
 * [An Introduction to Monoids](https://blog.axosoft.com/monoids-practical-category-theory/)
 * [Haskell for all: The wizard monoid](http://www.haskellforall.com/2018/02/the-wizard-monoid.html)
+* [Monoidal Sorting](https://chrispenner.ca/posts/monoid-sort)
 
 
 > lists are not free monoids in Haskell.
