@@ -1,44 +1,37 @@
-## 環境構築
-* [The Haskell User Experience](http://rickdzekman.com/thoughts/the-haskell-user-experience/)
-* [Easy universal Haskell development environment](http://achernyak.me/universal-haskell-dev-enviornment)
-* [The Haskell Development Environment](http://lambdaschool.com/lesson2)
+# Haskellを書き始めるにあたって
+手っ取り早くHaskellを書いて試すにはWeb上で実装されたREPLを利用するのが便利でしょう。
+
+* [Wandbox](https://wandbox.org/)
+* [repl.it](https://repl.it/)
+
+以上のサービスはHaskellに対応しています。
+
+ローカル環境でHaskellを実行するにはstackを導入するのが王道です。
+
+* [The Haskell Tool Stack](https://docs.haskellstack.org/en/stable/README/)
+
+インストール方法は上記リンク先に書いてありますが、Mac OSXであれば
 
 ```bash
-$ # on Mac OSX
 $ brew install haskell-stack
-$ stack setup
-$ alias ghc='stack ghc --'
-$ alias ghci='stack ghci --'
 ```
 
+のようにbrewを使っていれるのが簡単です。
+
 * [WindowsでのHaskell開発環境構築(2017年秋版) - モナドとわたしとコモナド](http://fumieval.hatenablog.com/entry/2017/10/11/230117)
-* [commercialhaskell/jump](https://github.com/commercialhaskell/jump)
-* [Haskell Pad](http://www.haskellpad.org/)
 
-## Formatter
-* [lspitzner/brittany](https://github.com/lspitzner/brittany)
-* [tibbe/haskell-style-guide](https://github.com/tibbe/haskell-style-guide/blob/master/haskell-style.md)
-* [インデントで悩まないための単純な指針](http://d.hatena.ne.jp/mkotha/20111226/1324909427)
+## エディタ
 
-## Lint
-* [Haskellの静的解析ツール HLint を使おう](http://qiita.com/suzuki-hoge/items/6d101e523620178c6f7b)
-* [functor.tokyo -- GHC Warnings You Should Use in Addition to -Wall](https://functor.tokyo/blog/2017-07-28-ghc-warnings-you-should-enable)
-* [Understanding HLint rules](http://neilmitchell.blogspot.jp/2017/11/understanding-hlint-rules.html)
-
-## IHaskell
-* [iHaskellを試してみる](http://qiita.com/eielh/items/a35b3d51056c1031f4d0)
-* [Install IHaskell on Ubuntu 14.04 with Stack](http://remusao.github.io/install-ihaskell-on-ubuntu-1404-with-stack.html)
-* [IHaskell Online: Help Choose Demo Code Snippets!](http://www.reddit.com/r/haskell/comments/37uqqk/ihaskell_online_help_choose_demo_code_snippets/)
-* [Demo of IHaskell Notebook](http://begriffs.com/posts/2016-01-20-ihaskell-notebook.html)
-
-## Editor
-* [State of Haskell editor/IDE support](https://github.com/rainbyte/haskell-ide-chart)
-* [Which tab width do you prefer for Haskell code?](http://doodle.com/poll/82xf854t9mmuv22h)
-* [Explicit vertical alignment in Haskell](http://www.joachim-breitner.de/blog/704-Explicit_vertical_alignment_in_Haskell)
-* [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures
-* [[Haskell] [ANN] HyperHaskell -- the strongly hyped Haskell	interpreter](https://mail.haskell.org/pipermail/haskell/2016-October/025010.html)
-* [repl.it - Introducing Haskell](https://repl.it/site/blog/haskell)
-* [ghcid for the win!](http://www.parsonsmatt.org/2018/05/19/ghcid_for_the_win.html)
+### Visual Studio Code
+* [VS CodeでHaskellの簡単な環境を作る](http://azaika.hateblo.jp/entry/2015/12/19/151554)
+* [VisualStduioCodeでHaskell開発環境を整える](http://qiita.com/DUxCA/items/8e7a68ffee522bdd8918)
+* [Haskero - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Vans.haskero)
+* [Introducing Haskelly – Haskell extension for Visual Studio Code – Microsoft Faculty Connection](https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/02/13/introducing-haskelly-extension-for-visual-studio-code/)
+* [[Visual Studio Code][Haskell] VSCodeでHaskellの開発環境を整える - Qiita](http://qiita.com/koara-local/items/06d57fd7fe4adc72f2b6)
+* [VS Code と haskell-ide-engine で Haskell 開発環境を構築する - Qiita](https://qiita.com/waddlaw/items/b83cd10311200095fe87)
+* [VS Code で Ghcid を使う (和訳) - Qiita](https://qiita.com/rounddelta/items/27c12237d9ef1c5569ba)
+* [ott - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=JoeyEremondi.ott)
+* [VisualStudioCode で Haskell のコードを実行するショートカットを設定する - Qiita](https://qiita.com/jnhnd/items/240c41ea5dd7acd9e54c)
 
 ### Vim
 * [begriffs/haskell-vim-now](https://github.com/begriffs/haskell-vim-now?hr=2)
@@ -85,17 +78,6 @@ $ alias ghci='stack ghci --'
 * [Haskell for Mac でちょっと Haskell をさわってみる](http://qiita.com/usamik26/items/d99bf694150a549b5078)
 * [Inspecting HTML documents in Haskell playgrounds](http://blog.haskellformac.com/blog/inspecting-html-documents-in-haskell-playgrounds)
 
-### Visual Studio Code
-* [VS CodeでHaskellの簡単な環境を作る](http://azaika.hateblo.jp/entry/2015/12/19/151554)
-* [VisualStduioCodeでHaskell開発環境を整える](http://qiita.com/DUxCA/items/8e7a68ffee522bdd8918)
-* [Haskero - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Vans.haskero)
-* [Introducing Haskelly – Haskell extension for Visual Studio Code – Microsoft Faculty Connection](https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/02/13/introducing-haskelly-extension-for-visual-studio-code/)
-* [[Visual Studio Code][Haskell] VSCodeでHaskellの開発環境を整える - Qiita](http://qiita.com/koara-local/items/06d57fd7fe4adc72f2b6)
-* [VS Code と haskell-ide-engine で Haskell 開発環境を構築する - Qiita](https://qiita.com/waddlaw/items/b83cd10311200095fe87)
-* [VS Code で Ghcid を使う (和訳) - Qiita](https://qiita.com/rounddelta/items/27c12237d9ef1c5569ba)
-* [ott - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=JoeyEremondi.ott)
-* [VisualStudioCode で Haskell のコードを実行するショートカットを設定する - Qiita](https://qiita.com/jnhnd/items/240c41ea5dd7acd9e54c)
-
 ### Yi
 * [YiエディタでVimスタイルをベースに拡張設定する(1)](http://qiita.com/aiya000/items/376a2bed4ddd12433b31)
 * [YiでEditorM aの状態を変更したい時はMonadEditor使えば](http://qiita.com/aiya000/items/f6893ec511977be28a9f)
@@ -127,3 +109,21 @@ $ alias ghci='stack ghci --'
 * [transient-haskell/transient - Running example(s)](https://github.com/transient-haskell/transient/wiki/Running-example(s))
 * [theam/haskell-do: The Haskell code editor focused on interactive development.](https://github.com/theam/haskell-do)
 * [私のHaskellコーディングスタイルガイド,改行出来るポイントを紹介 - ncaq](https://www.ncaq.net/2017/12/02/00/00/00/)
+* [State of Haskell editor/IDE support](https://github.com/rainbyte/haskell-ide-chart)
+* [Which tab width do you prefer for Haskell code?](http://doodle.com/poll/82xf854t9mmuv22h)
+* [Explicit vertical alignment in Haskell](http://www.joachim-breitner.de/blog/704-Explicit_vertical_alignment_in_Haskell)
+* [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures
+* [[Haskell] [ANN] HyperHaskell -- the strongly hyped Haskell	interpreter](https://mail.haskell.org/pipermail/haskell/2016-October/025010.html)
+* [ghcid for the win!](http://www.parsonsmatt.org/2018/05/19/ghcid_for_the_win.html)
+
+## Formatter/Linter
+* [Haskellの静的解析ツール HLint を使おう](http://qiita.com/suzuki-hoge/items/6d101e523620178c6f7b)
+* [functor.tokyo -- GHC Warnings You Should Use in Addition to -Wall](https://functor.tokyo/blog/2017-07-28-ghc-warnings-you-should-enable)
+* [Understanding HLint rules](http://neilmitchell.blogspot.jp/2017/11/understanding-hlint-rules.html)
+* [lspitzner/brittany](https://github.com/lspitzner/brittany)
+* [tibbe/haskell-style-guide](https://github.com/tibbe/haskell-style-guide/blob/master/haskell-style.md)
+* [インデントで悩まないための単純な指針](http://d.hatena.ne.jp/mkotha/20111226/1324909427)
+
+----
+
+* [The Haskell User Experience](http://rickdzekman.com/thoughts/the-haskell-user-experience/)
