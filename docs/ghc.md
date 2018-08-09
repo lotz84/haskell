@@ -153,6 +153,7 @@
 * [INLIN(E)ing: A case study](http://mpickering.github.io/posts/2017-05-17-inlining-case-study.html)
 * [Speed up your Haskell programs with one weird trick](https://inner-haven.net/posts/2017-05-08-speed-up-haskell-programs-weird-trick.html)
 * [Notes on fusion](http://teh.id.au/posts/2017/06/30/notes-on-fusion/index.html)
+* [GHC, One compiler to RULE them all \| Alexandre Moine’s blog](https://blog.nyarlathotep.one/2018/07/ghc-one-compiler-to-rule-them-all/)
 
 ### パフォーマンス
 * [Haskell で高速なプログラムを書くときに注意すること](http://d-poppo.nazo.cc/blog/2016/06/writing-efficient-program-with-haskell/)
