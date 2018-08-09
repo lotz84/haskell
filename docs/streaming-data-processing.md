@@ -104,3 +104,4 @@ main = do
 * [Event Sourcing is a transferable skill \| Arkency Blog](https://blog.arkency.com/event-sourcing-is-a-transferable-skill/)
 * [Exploiting Vector Instructions with Generalized Stream Fusion \| Lambda the Ultimate](http://lambda-the-ultimate.org/node/5485)
 * [Drinkery the boozy streaming library - School of Haskell | School of Haskell](https://www.schoolofhaskell.com/user/fumieval/drinkery-the-boozy-streaming-library)
+* [Event Sourcing, Functionally - Arnaud Bailly (2017) : haskell](https://www.reddit.com/r/haskell/comments/94timd/event_sourcing_functionally_arnaud_bailly_2017/)
