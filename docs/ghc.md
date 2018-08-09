@@ -276,6 +276,7 @@ $ stack exec -- <your program> +RTS <profiling options>
 * [LambdaCase in the wild](http://storm-country.com/blog/LambdaCase)
 * [Deriving Via](https://www.kosmikus.org/DerivingVia/deriving-via-paper.pdf)
 * [Popularity of Haskell Extensions](https://gist.github.com/atondwal/ee869b951b5cf9b6653f7deda0b7dbd8)
+* [A Guide to GHC's Extensions - Jannis' Word Discounter](https://limperg.de/ghc-extensions/)
 
 ### Pattern Synonyms
 * [Pattern Synonyms](https://ghc.haskell.org/trac/ghc/wiki/PatternSynonyms)
