@@ -98,6 +98,7 @@
 * [Lysxia - Heterogeneous lists with dependent types in Haskell](http://blog.poisson.chat/posts/2018-06-06-hlists-dependent-haskell.html)
 * [TYPEREP-MAP STEP BY STEP](https://kowainik.github.io/posts/2018-07-11-typerep-map-step-by-step.html)
 * [named: Named parameters (keyword arguments) for Haskell](https://hackage.haskell.org/package/named)
+* [Verified AVL Trees in Haskell and Agda - Donnacha Oisín Kidney](https://doisinkidney.com/posts/2018-07-30-verified-avl.html)
 
 ```haskell
 data Bottom
