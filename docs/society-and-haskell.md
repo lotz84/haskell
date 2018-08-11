@@ -18,6 +18,7 @@
 * [[Slides] Joy & frustration of putting 34,000 lines of Haskell into production](https://www.reddit.com/r/haskell/comments/7e8bom/slides_joy_frustration_of_putting_34000_lines_of/)
 * [Functional Programming Languages and the Pursuit of Laziness with Dr. Simon Peyton Jones](https://www.microsoft.com/en-us/research/blog/functional-programming-languages-pursuit-laziness-dr-simon-peyton-jones/)
 * [Haskellの採用とユーザ満足度が向上](https://www.infoq.com/jp/news/2018/07/haskell-user-survey-2018#)
+* [YOW! Lambda Jam 2018 - Ryan Trinkle - Full-Stack Haskell, from Prototype to Production : haskell](https://www.reddit.com/r/haskell/comments/91z4ty/yow_lambda_jam_2018_ryan_trinkle_fullstack/)
 
 ## コミュニティ
 * [Haskell Communities and Activities Report](https://wiki.haskell.org/Haskell_Communities_and_Activities_Report)
