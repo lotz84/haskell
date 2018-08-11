@@ -105,3 +105,4 @@ main = do
 * [Exploiting Vector Instructions with Generalized Stream Fusion \| Lambda the Ultimate](http://lambda-the-ultimate.org/node/5485)
 * [Drinkery the boozy streaming library - School of Haskell | School of Haskell](https://www.schoolofhaskell.com/user/fumieval/drinkery-the-boozy-streaming-library)
 * [Event Sourcing, Functionally - Arnaud Bailly (2017) : haskell](https://www.reddit.com/r/haskell/comments/94timd/event_sourcing_functionally_arnaud_bailly_2017/)
+* [Streaming UTF-8 in Haskell and Rust](https://www.fpcomplete.com/blog/2018/07/streaming-utf8-haskell-rust)
