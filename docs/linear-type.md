@@ -17,6 +17,7 @@
 * [Linear types can change the world!](http://www.cs.ioc.ee/ewscs/2010/mycroft/linear-2up.pdf)
 * [Tweag I/O - Implementing a safer sort with linear types](https://www.tweag.io/posts/2018-03-08-linear-sort.html)
 * [Tweag I/O - Streaming with linear types](https://www.tweag.io/posts/2018-06-21-linear-streams.html)
+* [Simon Peyton Jones - Linear Haskell: practical linearity in a higher-order polymorphic language : haskell](https://www.reddit.com/r/haskell/comments/91p0hb/simon_peyton_jones_linear_haskell_practical/)
 
 ## Linear Type as DSL
 * [線形型つきドメイン特化言語 (DSL) を Haskell上に実装する](http://d.hatena.ne.jp/keigoi/20110806/1312604753)
