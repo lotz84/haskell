@@ -325,6 +325,7 @@ p_ :: Term arg result => arg -> result
 * [決定性有限オートマトンを実装する - データ族の使用例 - Qiita](https://qiita.com/YoshikuniJujo/items/6e8155bd3a52290e6a5b)
 * [Bloggy Badger: Computing with Impossible Types](http://gelisam.blogspot.jp/2017/11/computing-with-impossible-types.html)
 * [TypeFamilyDependencies の実用的な例を考える - ryota-ka's blog](https://ryota-ka.hatenablog.com/entry/2018/03/10/205817)
+* [Lysxia - Haskell with only one type family](http://blog.poisson.chat/posts/2018-08-06-one-type-family.html)
 
 ```haskell
 -- https://www.youtube.com/watch?v=snOBI8PcbMQ
