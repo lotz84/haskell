@@ -395,6 +395,10 @@ Line 6:
 * webfont generator - converts ttf to woff, eot and svg
 * <https://github.com/ananthakumaran/webify>
 
+### wire
+* [Wire · The most secure collaboration platform](https://wire.com/en/)
+* [wireapp/wire-server: 🇪🇺 Wire back-end services](https://github.com/wireapp/wire-server)
+
 ### wrecker
 * `wrecker` is an HTTP benchmarking library and executable for profiling several API actions.
 * <https://github.com/skedgeme/wrecker>
