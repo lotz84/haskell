@@ -39,6 +39,7 @@
 * [Type Isomorphism](https://kseo.github.io/posts/2016-12-25-type-isomorphism.html)
 * [Compose Tetris](https://medium.com/@fintan.halpenny/compose-tetris-196b70035aff)
 * [本当はすごい newtype - Speaker Deck](https://speakerdeck.com/konn/ben-dang-hasugoi-newtype)
+* [すごいH本で見落としがちだが実は重要な機能：newtype - Qiita](https://qiita.com/HirotoShioi/items/70cd235e93dee99bf8e8)
 
 ### 代数的データ型
 代数的データ型とは"足し算"と"掛け算"が出来るような型のこと。"足し算"と"掛け算"はそれぞれ**直和**, **直積** と呼ばれる。
