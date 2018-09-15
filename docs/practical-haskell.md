@@ -18,6 +18,7 @@
 * [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
 * [Dhallによるリッチな設定ファイル体験](http://syocy.hatenablog.com/entry/2018/07/14/195255)
   * [Dhallによるリッチな設定ファイル体験 - Speaker Deck](https://speakerdeck.com/syocy/dhallniyoruritutinashe-ding-huairuti-yan)
+* [Dhall で Kubernetes の YAML 管理をスマートにやっていく - ryota-ka's blog](https://ryota-ka.hatenablog.com/entry/2018/08/27/110000)
 
 ## Preludeを置き換える
 ### Preludeの問題点
