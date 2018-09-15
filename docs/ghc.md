@@ -133,6 +133,7 @@
 * [veggies: Haskell code generation from scratch – Blog – Joachim Breitner's Homepage](http://www.joachim-breitner.de/blog/719-veggies__Haskell_code_generation_from_scratch)
 * [Announcing simplexhc](https://pixel-druid.com/blog/announcing-simplexhc/)
 * [HaskellのSTG言語 - 純粋技術メモ](http://fujiy.hatenablog.com/entry/2017/12/30/192025)
+* [C--で末尾再帰の最適化を試してみる - Qiita](https://qiita.com/YoshikuniJujo/items/3ec1f2a0e3a05859f380)
 
 ### Runtime System
 * [Haskell Compiler (rts)](http://www.scs.stanford.edu/14sp-cs240h/slides/ghc-rts.pdf)
