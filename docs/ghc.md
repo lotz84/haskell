@@ -298,6 +298,7 @@ $ stack exec -- <your program> +RTS <profiling options>
 * [Backpack to Work: Towards Practical Mixin Linking for Haskell](http://research.microsoft.com/en-us/um/people/simonpj/papers/modules/backpack-2016.pdf)
 * [Haskell Backpack 覚え書き](https://matsubara0507.github.io/posts/2017-12-12-backpack-memo.html)
 * [Queensland FP Lab - Backpack for initial and final encodings](http://qfpl.io/posts/backpack-for-initial-and-final-encodings/)
+* [Picnic: put containers into a backpack](https://kowainik.github.io/posts/2018-08-19-picnic-put-containers-into-a-backpack)
 
 ### 正格評価
 * [StrictData拡張について](http://qiita.com/Mizunashi_Mana/items/8edf7781ed4eb4eea4e9)
