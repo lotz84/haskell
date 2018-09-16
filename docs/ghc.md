@@ -107,6 +107,7 @@
 * [Rethinking Static Reference Tables in GHC · Simon Marlow](http://simonmar.github.io/posts/2018-06-22-New-SRTs.html)
 * [GHCinception: Running GHCi in GHCi](https://mgsloan.com/posts/ghcinception/)
 * [Enable All The Warnings – Mercury – Medium](https://medium.com/mercury-bank/enable-all-the-warnings-a0517bc081c3)
+* [GHC Commentary: The Layout of Heap Objects](https://ghc.haskell.org/trac/ghc/wiki/Commentary/Rts/Storage/HeapObjects)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
