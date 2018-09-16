@@ -133,6 +133,7 @@ $ gifcurry_cli ./in.mp4 ./out.gif start_second duration quality 'Optional top te
 * [Blog Rewrite with Hakyll and Purescript](https://blog.jle.im/entry/blog-rewrite-with-hakyll-and-purescript.html)
 * [Compiling SCSS and JavaScript in Hakyll](https://codetalk.io/posts/2016-05-10-compiling-scss-and-js-in-hakyll.html)
 * [Hakyllで前後の記事へのリンクを設置する - Qiita](https://qiita.com/mod_poppo/items/e0f981f3a2cb04dc6e3f)
+* [How to Hakyll CircleCI 2.0 @ Nazarii Bardiuk's blog](https://nazarii.bardiuk.com/posts/hakyll-circle.html)
 
 ### haskell-player
 * A terminal music player based on afplay
