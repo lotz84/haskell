@@ -194,7 +194,7 @@ instance Monad Dist where
 * [確率的勾配降下法をadで実装してみた](http://qiita.com/lotz/items/9e2ae06925906e3c67b0)
 * [Daniel Brice - Automatic Differentiation in Haskell](https://www.youtube.com/watch?v=q1DUKEOUoxA&feature=share)
 * [Not-o-matic Differentiation \| Volts, Sheaves, and Trees](https://ajknapp.github.io/2018/08/14/notomatic-differentiation.html)
-* [[1804.00746] The simple essence of automatic differentiation](https://arxiv.org/abs/1804.00746)
+* [The simple essence of automatic differentiation](http://conal.net/papers/essence-of-ad/)
 
 ## Deep Learning
 * [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/)
@@ -226,3 +226,5 @@ instance Monad Dist where
 * [Introducing the backprop library · in Code](https://blog.jle.im/entry/introducing-the-backprop-library.html)
 * [saschagrunert/nn: A tiny neural network 🧠](https://github.com/saschagrunert/nn)
 * [Haskellでニューラルネットを実装して、MNISTを学習してみた - Qiita](https://qiita.com/chupaaaaaaan/items/7954f30fc4262fe84c2d)
+* [backprop as functor · Issue #9 · mstksg/backprop](https://github.com/mstksg/backprop/issues/9)
+* [Lenses for philosophers – Jules Hedges](https://julesh.com/2018/08/16/lenses-for-philosophers/)
