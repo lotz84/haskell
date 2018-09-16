@@ -193,6 +193,8 @@ instance Monad Dist where
 * [Yo Dawg We Heard You Like Derivatives](https://jtobin.io/ad-via-recursion-schemes)
 * [確率的勾配降下法をadで実装してみた](http://qiita.com/lotz/items/9e2ae06925906e3c67b0)
 * [Daniel Brice - Automatic Differentiation in Haskell](https://www.youtube.com/watch?v=q1DUKEOUoxA&feature=share)
+* [Not-o-matic Differentiation \| Volts, Sheaves, and Trees](https://ajknapp.github.io/2018/08/14/notomatic-differentiation.html)
+* [[1804.00746] The simple essence of automatic differentiation](https://arxiv.org/abs/1804.00746)
 
 ## Deep Learning
 * [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/)
