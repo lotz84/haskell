@@ -1,3 +1,4 @@
+* [functor.tokyo -- How to get into Machine Learning for a Haskeller](https://functor.tokyo/blog/2018-08-21-machine-learning-for-haskellers)
 * [DataHaskell](https://datahaskell.github.io/)
 * [DataHaskell's knowledge base](http://wiki.datahaskell.org/index.php/Main_Page)
 * [Haskellで機械学習を実装しようと思った過去の自分へ](https://nnwww.github.io/blog/post/haskell_ml/#fnref:ivory)
