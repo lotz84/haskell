@@ -114,6 +114,7 @@ Monad Transformer
 * [Fusion for Free: Efficient Algebraic Effect Handlers](http://people.cs.kuleuven.be/~tom.schrijvers/portfolio/mpc2015.html)
 * [Continuation passing style Free Monads and direct style Free Monads – Deque](https://deque.blog/2017/12/08/continuation-passing-style-free-monads-and-direct-style-free-monads/)
 * [Extensible EffectsとTagless Finalで実装するDI - Qiita](https://qiita.com/lotz/items/a903d3b2aec0c1d4f3ce)
+* [Parametric Effect Monads and Semantics of Effect Systems](http://www.kurims.kyoto-u.ac.jp/~sinya/paper/ppl2014.pdf)
 
 ## 属性文法
 * [なぜ属性文法は重要か](https://sites.google.com/site/paclearner/why_attribute_grammars_matter)
