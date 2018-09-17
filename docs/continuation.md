@@ -47,6 +47,8 @@ newtype Cont r a = Cont { runCont :: (a -> r) -> r }
 * [無限ループから抜け出すプログラム](http://qiita.com/lotz/items/a1ff5725e918e216940e)
 * [Tweet](https://twitter.com/cdepillabout/status/972515871301120000)
 * [ContT を使ってコードを綺麗にしよう！](https://haskell.e-bigmoon.com/posts/2018/06-26-cont-param.html)
+* [Forking and ContT (I)](https://hexagoxel.de/postsforpublish/posts/2018-09-09-cont-part-one.html)
+* [ContT, withLifted and resetContIO (II)](https://hexagoxel.de/postsforpublish/posts/2018-09-12-cont-part-two.html)
 
 ### 継続による計算の効率化
 継続を使って短絡評価が実装できる  
