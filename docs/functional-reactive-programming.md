@@ -32,6 +32,7 @@
 * [FRP - Events & Behaviour, Part 1 - David Laing - BFPG 2016-09](https://www.youtube.com/watch?v=GXW1jBijhlk)
 * [Reactive Sheets: an intuitive approach to functional‐reactive computing](https://www.youtube.com/watch?v=9qBYatgAzXg)
 * [YampaでFunctional Reactiveな認知行動療法ボット - Qiita](https://qiita.com/makoraru/items/596729de09d6aeb81e5a)
+* [Rhine - FRP with type-level clocks](https://www.manuelbaerenz.de/sites/default/files/Rhine_0.pdf)
 
 ## ライブラリ
 * 比較: [gelisam/frp-zoo](https://github.com/gelisam/frp-zoo)
