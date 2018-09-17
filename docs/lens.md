@@ -69,6 +69,8 @@
 
 出典: [From Lenses to Yoneda Embedding](http://bartoszmilewski.com/2015/07/13/from-lenses-to-yoneda-embedding/)
 
+* [[1809.00738] Categories of Optics](https://arxiv.org/abs/1809.00738)
+
 ### CPS Lens
 * [My new lens idea](http://lpaste.net/128137)
 
@@ -80,7 +82,7 @@
 
 <https://www.youtube.com/watch?v=GZPup5Iuaqw>
 
-##Iso
+## Iso
 [Data.Text.Lens](https://hackage.haskell.org/package/lens/docs/Data-Text-Lens.html)
 
 ```haskell
