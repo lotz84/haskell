@@ -1,6 +1,13 @@
-> いわゆるgetter/setterの圏論による表現。
+> いわゆるgetter/setterの圏論による表現。  
+> [Lens](http://mbps.hatenablog.com/entry/2014/10/28/152931)
 
-出典: [Lens](http://mbps.hatenablog.com/entry/2014/10/28/152931)
+> `Lens' s a`: given a type `s` that always has an `a` in it, a `Lens' s a` is a way of getting and setting that `a` inside of `s`  
+> `Prism' s a`: given a type `s` that might have an `a` in it, a `Prism' s a` is a way of extracting the `a` if it exists, and being able to create an `s` given an `a`  
+> `Traversal' s a`: target many `a`s which may or may not exist inside of an `s`  
+> `Iso' s a` : says that `s` and `a` are different representations of the same type  
+> All `Lens`es are `Traversal`s and all `Prism`s are also `Traversal`s. Not all `Traversal`s are `Lens`es or `Prism`s though.  
+> <https://www.reddit.com/r/haskell/comments/9ded97/is_learning_how_to_use_the_lens_library_worth_it/e5hf9ai/>
+
 
 * [microlens](http://hackage.haskell.org/package/microlens)
 * [lens](https://hackage.haskell.org/package/lens)
