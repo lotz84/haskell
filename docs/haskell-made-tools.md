@@ -118,6 +118,10 @@ $ gifcurry_cli ./in.mp4 ./out.gif start_second duration quality 'Optional top te
 * コマンドライン上でgifを探して表示できるコマンド
 * <https://github.com/passy/givegif>
 
+### goat-guardian
+* Reverse proxy that handles authentication
+* [arow-oss/goat-guardian: Reverse proxy that handles authentication](https://github.com/arow-oss/goat-guardian)
+
 ### Hakyll
 * 静的サイトジェネレータ
 * <https://jaspervdj.be/hakyll/>
