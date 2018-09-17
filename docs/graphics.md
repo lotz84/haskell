@@ -61,6 +61,7 @@
 * [Creating a GUI application in Haskell](https://www.stackbuilders.com/tutorials/haskell/gui-application/)
 * [deech/webkitfltkhs](https://github.com/deech/webkitfltkhs)
 * [Qtah](http://khumba.net/projects/qtah/)
+* [Declarative GTK+ Programming with Haskell \| Func Da World](https://wickstrom.tech/programming/2018/09/04/declarative-gtk-programming-with-haskell.html)
 
 ## Game
 * [Asset management in a real time 3D engine in Haskell](http://phaazon.blogspot.fr/2015/06/asset-management-in-real-time-3d-engine.html)
