@@ -347,6 +347,7 @@ Web Application Framework
 * [eckyputrady/haskell-scotty-realworld-example-app](https://github.com/eckyputrady/haskell-scotty-realworld-example-app) - Exemplary real world backend API built with Haskell/Scotty
 * [More "RowList" fun with Records in Haskell feat. Scotty Route/Handler pairings & HomeRunWannabe - Qiita](https://qiita.com/kimagure/items/7c3521cfbf00ad173801)
 * [Read you a Scotty](http://devanla.com/read-you-a-scotty.html)
+* [Building a Blog Part 2: Creating an HTTP API with Scotty and Beam](https://gaumala.com/posts/2018-09-12-creating-an-http-api-with-scotty-and-beam.html)
 
 ### Spock
 * [Spock Web Framework](https://www.spock.li/)
