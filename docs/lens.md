@@ -64,6 +64,7 @@
 * [Lysxia - Monadic profunctors for bidirectional programming](https://blog.poisson.chat/posts/2017-01-01-monadic-profunctors.html)
 * [Lenses embody Products, Prisms embody Sums · in Code](https://blog.jle.im/entry/lenses-products-prisms-sums.html)
 * [Haskell Lens Operator Onboarding – Urbint Engineering – Medium](https://medium.com/urbint-engineering/haskell-lens-operator-onboarding-a235481e8fac)
+* [Well-Typed - The Haskell Consultants: Compositional zooming for <tt>StateT</tt> and <tt>ReaderT</tt> using <tt>lens</tt>](http://www.well-typed.com/blog/2018/09/compositional-zooming/)
 
 > Thus the Yoneda embedding of the functor category leads to the van Laarhoven representation of the lens
 
