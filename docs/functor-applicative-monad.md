@@ -312,6 +312,7 @@ instance Monad (State s) where
 * [Turning bottom-up into top-down with Reverse State - ielliott.io](http://blog.ielliott.io/topsy-turvy-reverse-state/)
 * [The Curious Time-Traveling Reverse State Monad](https://tech-blog.capital-match.com/posts/5-the-reverse-state-monad.html)
 * [世界一わかりやすいStateモナドのしくみ、あるいは猫でもわからないモナドのおはなし - Qiita](https://qiita.com/acple@github/items/779792002ba67161d37c)
+* [Update Monads: Variation on State Monads](https://chrispenner.ca/posts/update-monad)
 
 ### RWS Monad
 Reader + Writer + State
