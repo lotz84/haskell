@@ -53,6 +53,7 @@
 * [Fast, Elegant Regexes in Haskell](https://begriffs.com/posts/2016-06-27-fast-haskell-regexes.html)
 * [2016 11 24 - Herrmann - Compiling a Simple language to LLVM](https://www.youtube.com/watch?v=Re3XgFfflzg&feature=youtu.be)
 * [IRIS Connect Engineers' Blog - regex: A Toolkit for regex-base](http://engineers.irisconnect.net/posts/2017-03-07-regex.html)
+* [Regular Expressions of Types – Oleg Grenrus - SmallFP 2018-09-13 : haskell](https://www.reddit.com/r/haskell/comments/9gmpzc/regular_expressions_of_types_oleg_grenrus_smallfp/)
 
 ## パーサーコンビネータ
 * [JavaScriptでパーサコンビネータのコンセプトを理解する](http://blog.anatoo.jp/entry/2015/04/26/220026)
