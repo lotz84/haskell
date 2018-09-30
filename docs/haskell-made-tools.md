@@ -218,6 +218,10 @@ $ hobbes "*.hs" | xargs -n1 ghc --make
 * An absolutely simple & terse CLI app to manipulate JSON data
 * <goldenlynx/jsn>
 
+### KOMPOSITION
+* The video editor built for screencasters
+* [Komposition](https://owickstrom.github.io/komposition/)
+
 ### LambdaCms
 * Haskell製のCMS
 * [LambdaCms](http://lambdacms.org/)
