@@ -173,6 +173,7 @@ WebAssembly
 -----------
 * [tweag/asterius: A Haskell to WebAssembly compiler](https://github.com/tweag/asterius)
 * [Tweag I/O - Fibonacci compiles end-to-end — Haskell to WebAssembly via GHC](https://www.tweag.io/posts/2018-05-29-hello-asterius.html)
+* [Tweag I/O - Haskell WebAssembly calling JavaScript and back again](https://www.tweag.io/posts/2018-09-12-asterius-ffi.html)
 
 HTML Template
 -------------
