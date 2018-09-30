@@ -19,3 +19,4 @@
 * [Introducing the Hamilton library](https://blog.jle.im/entry/introducing-the-hamilton-library.html)
 * [Type safe dimensional analysis in Haskell \| Stephan Boyer](https://www.stephanboyer.com/post/131/type-safe-dimensional-analysis-in-haskell)
 * [Hamiltonian Dynamics in Haskell · in Code](https://blog.jle.im/entry/hamiltonian-dynamics-in-haskell.html)
+* [[1611.09471] Learn Quantum Mechanics with Haskell](https://arxiv.org/abs/1611.09471)
