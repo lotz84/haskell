@@ -326,6 +326,7 @@ Web Application Framework
 * [The katip package](http://hackage.haskell.org/package/katip)
 * [The monad-log package](http://hackage.haskell.org/package/monad-log)
 * [HaskellのロガーKatipを試す](http://syocy.hatenablog.com/entry/2016/10/31/025512)
+* [co-log: Composable Contravariant Combinatorial Comonadic Configurable Convenient Logging](https://kowainik.github.io/posts/2018-09-25-co-log)
 
 ### デプロイ
 * [snoyberg/keter](https://github.com/snoyberg/keter)
