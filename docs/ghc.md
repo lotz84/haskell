@@ -108,6 +108,7 @@
 * [GHCinception: Running GHCi in GHCi](https://mgsloan.com/posts/ghcinception/)
 * [Enable All The Warnings – Mercury – Medium](https://medium.com/mercury-bank/enable-all-the-warnings-a0517bc081c3)
 * [GHC Commentary: The Layout of Heap Objects](https://ghc.haskell.org/trac/ghc/wiki/Commentary/Rts/Storage/HeapObjects)
+* [mpickering - Plugins](http://mpickering.github.io/plugins.html)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
