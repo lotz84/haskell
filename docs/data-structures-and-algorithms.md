@@ -194,6 +194,7 @@
 * [Haskell の (文字列) 変換パッケージ (convertible, convert, conversion) - Qiita](http://qiita.com/waddlaw/items/36231d95580d73c798b1)
 * [Short ByteString and Text](https://markkarpov.com/post/short-bs-and-text.html)
 * [Haskell で yes コマンドを実装した - Qiita](https://qiita.com/satosystems/items/f034e809882c6695e4ec)
+* [Haskell Works Blog - Rechunking lazy bytestrings](https://haskell-works.github.io/posts/2018-09-21-rechunking-lazy-bytestrings.html)
 
 ### リスト
 * [Haskell Data.Listのリスト操作関数（サンプル付き） - Qiita](http://qiita.com/aosho235/items/94787fe0901141598c91)
