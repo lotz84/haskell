@@ -107,6 +107,7 @@
 * [Fast Sudoku Solver in Haskell #2: A 200x Faster Solution](https://abhinavsarkar.net/posts/fast-sudoku-solver-in-haskell-2/)
 * [Edward Kmett - Revisiting Combinators ("upgrade your video driver to type check") : haskell](https://www.reddit.com/r/haskell/comments/8tpgjj/edward_kmett_revisiting_combinators_upgrade_your/)
 * [Lamping's Abstract Algorithm](https://github.com/MaiaVictor/absal-ex)
+* [What the heck is Typeable !?](https://sras.me/haskell/what-the-heck-is-typeable.html)
 
 ### ソート
 * [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
