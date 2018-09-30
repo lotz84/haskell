@@ -17,6 +17,7 @@
 * [Deriving Bifunctor with Generics](http://kcsongor.github.io/generic-deriving-bifunctor/)
 * [Higher-Kinded Data :: Reasonably Polymorphic](http://reasonablypolymorphic.com/blog/higher-kinded-data)
 * [[1805.06798] Generic Deriving of Generic Traversals](https://arxiv.org/abs/1805.06798)
+* [Generic programming of all kinds](https://dl.acm.org/citation.cfm?id=3242745)
 
 ## Uniplate
 * [uniplate](https://hackage.haskell.org/package/uniplate)
