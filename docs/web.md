@@ -130,6 +130,7 @@ Front end
 * [BOB 2017 - Alexander Thiemann: The Future of Front-end Development: A comparison - YouTube](https://www.youtube.com/watch?v=BZfvoW8wixU)
 * [Miso: A tasty Haskell front-end framework](https://haskell-miso.org/)
 * [Elm が苦手なことは Haskell にやらせよう](https://speakerdeck.com/ytaka23/we-are-javascripters-19th)
+* [Haskellのフロントエンド開発をEDSLでモダンにする - Qiita](https://qiita.com/peus/items/8badef3e6e0b03b1e790)
 
 Haskell to JavaScript compiler
 ------------------------------
