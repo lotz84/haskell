@@ -377,3 +377,5 @@ instance Eval' Hole where
 * [Singletons](http://mbps.hatenablog.com/entry/2013/05/23/084257)
 * [Introduction to Singletons (Part 1) · in Code](https://blog.jle.im/entry/introduction-to-singletons-1.html)
 * [Introduction to Singletons (Part 2) · in Code](https://blog.jle.im/entry/introduction-to-singletons-2.html)
+* [Introduction to Singletons (Part 3) · in Code](https://blog.jle.im/entry/introduction-to-singletons-3.html)
+* [Introduction to Singletons (Part 4) · in Code](https://blog.jle.im/entry/introduction-to-singletons-4.html)
