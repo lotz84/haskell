@@ -110,6 +110,7 @@ main = do
 * [An example of software transactional memory](http://begriffs.com/posts/2013-09-04-an-example-of-software-transactional.html)
 * [Software Transactional Memory](http://begriffs.com/posts/2016-04-02-software-transactional-memory.html)
 * [Improving Haskell STM Performance (2016) : haskell](https://www.reddit.com/r/haskell/comments/80tk0t/improving_haskell_stm_performance_2016/)
+* [TChan vs TQueue: What's the difference?](https://www.parsonsmatt.org/2018/10/12/tchan_vs_tqueue.html)
 
 ## 分散
 * [Speeding up a distributed computation in Haskell :: FP Complete](https://www.fpcomplete.com/blog/2017/01/speeding-up-distributed-computation)
