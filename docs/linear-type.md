@@ -32,3 +32,4 @@
 * [線形論理の誕生](http://www.kurims.kyoto-u.ac.jp/~terui/birth.pdf)
 * [15-816 Linear Logic](http://www.cs.cmu.edu/~./fp/courses/15816-f01/index.html)
 * [15-816 Linear Logic / Schedule](http://www.cs.cmu.edu/~fp/courses/15816-s12/schedule.html)
+* [Linear Logic and Linear Algebra](http://www.cs.bham.ac.uk/~drg/bll/steve.pdf)
