@@ -167,6 +167,7 @@ Stack開発の知見が集められたライブラリ
 * [カスタムスナップショットの紹介](https://haskell.e-bigmoon.com/posts/2017-12-23-stack161.html)
 * [quchen/stackage-everything: »I want Stackage on an airplane and I have only 3 minutes until takeoff«](https://github.com/quchen/stackage-everything)
 * [The Task abstraction \| no time](https://blogs.ncl.ac.uk/andreymokhov/the-task-abstraction/)
+* [[VIDEO] Build Systems à la Carte by Simon Peyton Jones at ICFP 2018 : haskell](https://www.reddit.com/r/haskell/comments/9l2shn/video_build_systems_%C3%A0_la_carte_by_simon_peyton/)
 * [Haskell Stack のグローバル環境を雑に使う - Qiita](https://qiita.com/keigoi/items/4aaa6090361b53cce24a)
 * [Haskell Stackでエラー "openFile: inappropriate type (Is a directory) when using mirror " が出るときの対処法 - Qiita](https://qiita.com/nwtgck/items/36feb22bb194f0c01493)
 * [Stack (Haskell): Could not find moduleと言われたときの対処 2018年春版 - Qiita](https://qiita.com/sky_y/items/6712c3609a8e690e0dd3)
