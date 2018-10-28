@@ -82,6 +82,7 @@ type a * b = (a, b)
 ### カインド
 * [About kind system of Haskell (Part 1)](https://haskell.jp/blog/posts/2017/10-about-kind-system-part1.html)
 * [Haskellの種(kind)について (Part 2)](https://haskell.jp/blog/posts/2017/13-about-kind-system-part2.html)
+* [Haskell's kind system - a primer · dcastro](https://diogocastro.com/blog/2018/10/17/haskells-kind-system-a-primer/)
 
 ## 関数
 * [A simple Haskell function](http://neilmitchell.blogspot.jp/2016/01/a-simple-haskell-function.html)
