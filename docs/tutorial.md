@@ -160,6 +160,7 @@
  * [uku - A Haskell CLI tool to display Ukulele fingering charts | Adrian Sieber's Website](https://adriansieber.com/ukulele-fingering-chart-cli-tool-in-haskell/)
  * [Wise Man’s Haskell](https://anchpop.github.io/wise_mans_haskell/)
  * [Practical Haskell programs from scratch](https://www.ahri.net/practical-haskell-programs-from-scratch/)
+ * [Haskell for all: Detailed walkthrough for a beginner Haskell program](http://www.haskellforall.com/2018/10/detailed-walkthrough-for-beginner.html)
 
 </details>
 
