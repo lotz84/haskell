@@ -158,6 +158,7 @@
  * [Demystifying Functional Programming — Building intuition by teaching through examples and design patterns/idiomatic solutions : haskell](https://www.reddit.com/r/haskell/comments/89gv6a/demystifying_functional_programming_building/)
  * [Learning Haskell - Miscellaneous Enlightenments](https://sras.me/haskell/miscellaneous-enlightenments.html)
  * [uku - A Haskell CLI tool to display Ukulele fingering charts | Adrian Sieber's Website](https://adriansieber.com/ukulele-fingering-chart-cli-tool-in-haskell/)
+ * [Wise Man’s Haskell](https://anchpop.github.io/wise_mans_haskell/)
 
 </details>
 
