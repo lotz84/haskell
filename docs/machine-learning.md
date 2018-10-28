@@ -196,6 +196,8 @@ instance Monad Dist where
 * [Daniel Brice - Automatic Differentiation in Haskell](https://www.youtube.com/watch?v=q1DUKEOUoxA&feature=share)
 * [Not-o-matic Differentiation \| Volts, Sheaves, and Trees](https://ajknapp.github.io/2018/08/14/notomatic-differentiation.html)
 * [The simple essence of automatic differentiation](http://conal.net/papers/essence-of-ad/)
+* [Reverse Mode Auto Differentiation is Kind of Like a Lens - Hey There Buddo!](http://www.philipzucker.com/reverse-mode-auto-differentiation-kind-like-lens/)
+* [Reverse Mode Differentiation is Kind of Like a Lens II - Hey There Buddo!](http://www.philipzucker.com/reverse-mode-differentiation-is-kind-of-like-a-lens-ii/)
 
 ## Deep Learning
 * [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/)
