@@ -74,12 +74,15 @@ Monad Transformer
 * [いろいろなパッケージから提供されている ListT モナド変換子の違いについて調べてみる - 無駄と文化](http://blog.mudatobunka.org/entry/2018/01/03/233314)
 * [The Comonad.Reader » Monads from Comonads](http://comonad.com/reader/2011/monads-from-comonads/)
 * [Transforming Transformers](http://www.parsonsmatt.org/2018/04/10/transforming_transformers.html)
+* [ResourceT: A necessary evil](https://www.fpcomplete.com/blog/2018/10/resourcet-necessary-evil)
 * [resource-simple](https://hackage.haskell.org/package/resource-simple)
   * [Understanding ResourceT](https://www.fpcomplete.com/blog/2017/06/understanding-resourcet)
+* [RAII is better than the bracket pattern](https://www.snoyman.com/blog/2018/10/raii-better-than-bracket-pattern)
 * [Monadic yak shaving](https://ivanmiljenovic.wordpress.com/2015/02/02/monadic-yak-shaving/)
 * [Monatron](https://hackage.haskell.org/package/Monatron)
 * [Documentation.Layers.Overview](http://hackage.haskell.org/package/layers/docs/Documentation-Layers-Overview.html)
 * [Mocking Effects using Constraints and Phantom Data Kinds](https://chrispenner.ca/posts/mock-effects-with-data-kinds)
+* [Tweag I/O - capability: the ReaderT pattern without boilerplate](https://www.tweag.io/posts/2018-10-04-capability.html)
 
 ## Extensible Effects
 * [Extensible Effects: an alternative to Monad Transformers](http://okmij.org/ftp/Haskell/extensible/)
