@@ -212,6 +212,7 @@ class Monad m where
 * [モナド則とプログラミング - Qiita](https://qiita.com/ruicc/items/109692ea1df502d20666)
 * [なぜモナドが必要なのか？ - Qiita](https://qiita.com/watanany/items/91c5fcb088128e9cabe3)
 * [Dan Ghica's Blog: Haskell: If monads are the solution, what is the problem?](http://danghica.blogspot.com/2018/07/haskell-if-monads-are-solution-what-is.html)
+* [[Haskell] 爆速でモナドを理解する - Qiita](https://qiita.com/tezca686/items/73d135e372d547ad7266)
 
 ```haskell
 do x <- mx
