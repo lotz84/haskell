@@ -79,6 +79,7 @@
 * [QuickCheck is fun, deal with it – Deque](https://deque.blog/2017/02/17/quickcheck-is-fun-deal-with-it/)
 * [Code your own QuickCheck (Shrink) – Deque](https://deque.blog/2017/02/10/code-your-own-quickcheck-shrink/)
 * [QuickCheck experiments on a DSL – Deque](https://deque.blog/2017/02/14/quickcheck-in-action/)
+* [HaskellでのQuickCheckとData.ByteString.Char8の罠 - Qiita](https://qiita.com/A_kirisaki/items/ae8ac60ead2e17a87bad)
 
 ```haskell
 import Data.List
