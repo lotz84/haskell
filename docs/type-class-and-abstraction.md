@@ -103,6 +103,7 @@ instance Show Bool where
 * [An Introduction to Monoids](https://blog.axosoft.com/monoids-practical-category-theory/)
 * [Haskell for all: The wizard monoid](http://www.haskellforall.com/2018/02/the-wizard-monoid.html)
 * [Monoidal Sorting](https://chrispenner.ca/posts/monoid-sort)
+* [Comprehending Monoids with Class](https://lptk.github.io/programming/2018/10/04/comprehending-monoids-with-class.html)
 
 
 > lists are not free monoids in Haskell.
