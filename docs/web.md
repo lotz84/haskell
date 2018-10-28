@@ -456,6 +456,7 @@ Web Application Framework
 * [Pragmatic Haskell: Simple servant web server / Jappie](https://jappieklooster.nl/pragmatic-haskell-simple-servant-web-server.html)
 * [Pragmatic Haskell II: IO Webservant / Jappie](https://jappieklooster.nl/pragmatic-haskell-ii-io-webservant.html)
 * [Why is servant a type-level DSL?](https://haskell-servant.github.io/posts/2018-07-12-servant-dsl-typelevel.html)
+* [REST-ish Services in Haskell: Part 1](https://vadosware.io/post/rest-ish-services-in-haskell-part-1/)
 
 ### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
