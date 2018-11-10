@@ -14,20 +14,23 @@
 > [Haskell Maxims and Arrows](https://gist.github.com/lotz84/b94f03c4a83cb54dfefb26d2256cae0f)
 
 * [なぜHaskellを学ぶと良いか](http://qiita.com/arowM/items/0305d4f439752f285438)
+* [Try Haskell](https://tryhaskell.org/) - ブラウザ上でHaskellのコードを実行しなが学べる
+* [Haskell入門ハンズオン〜REPLで始めるHaskell生活〜](https://speakerdeck.com/aruneko/haskellru-men-hansuon) - REPLはHaskellの理解への近道
+* [ウォークスルー Haskell](http://walk.wgag.net/haskell/) - 諸概念について簡潔にまとまっている
 * [Haskellらしさって？「型」と「関数」の基本を解説！【第二言語としてのHaskell】](https://employment.en-japan.com/engineerhub/entry/2017/08/25/110000)
   * [実践編！Haskellらしいアプリケーション開発。まず型を定義すべし【第二言語としてのHaskell】](https://employment.en-japan.com/engineerhub/entry/2017/09/11/110000)
   * [発展編！ Haskellで「型」のポテンシャルを最大限に引き出すには？【第二言語としてのHaskell】 - エンジニアHub｜若手Webエンジニアのキャリアを考える！](https://employment.en-japan.com/engineerhub/entry/2017/10/03/110000)
-* [Try Haskell](https://tryhaskell.org/) - ブラウザ上でHaskellのコードを実行しなが学べる
-* [ウォークスルー Haskell](http://walk.wgag.net/haskell/) - 諸概念について簡潔にまとまっている
+* [Make Mistakes to Learn Haskell - 失敗しながら学ぶHaskell入門](https://github.com/haskell-jp/makeMistakesToLearnHaskell)
 * [Twitterを巡回していてわかったHaskell初心者が躓きやすいポイント8つ](http://qiita.com/lotz/items/5cbaca19d90cd168ab43)
 * [Haskell 超入門](http://qiita.com/7shi/items/145f1234f8ec2af923ef) - 長編だが丁寧に書いてあってわかりやすい
-* [Layout ルール， Haskell のオフサイドルールについて](https://bydriv.github.io/blog/layout.html)
-* [初心者卒業試験のブラックジャック作成に挑戦してみました（Haskell編） - Qiita](https://qiita.com/KNaito/items/385fb1701f70ffb8ffd4)
-* [Haskellでマインスイーパーを作る - YouTube](https://www.youtube.com/watch?v=E5skmV4fpcc&feature=youtu.be)
-* [Haskell入門ハンズオン〜REPLで始めるHaskell生活〜](https://speakerdeck.com/aruneko/haskellru-men-hansuon)
+* [Hikers Guide to Haskell](https://wiki.haskell.jp/Hikers%20Guide%20to%20Haskell) - Haskellの歩き方
+* [Haskellの入門から中級者になるまでの指針 - Qiita](https://qiita.com/Lugendre/items/70e517e59698e0e435f5)
 
 ### 日本語チュートリアル
 
+* [Haskell、または関数プログラミングの景色について - Qiita](https://qiita.com/takenobu-hs/items/dc85d455fef41c091383)
+* [Haskell の難しさを分割し、理解していく](http://qiita.com/t9md/items/529a4297e841f330ee98)
+* [なぜ Haskell が好きなのか - 趣味はデバッグ……](http://kakkun61.hatenablog.com/entry/2017/12/25/%E3%81%AA%E3%81%9C_Haskell_%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%AA%E3%81%AE%E3%81%8B)
 * [こわくないHaskell入門 初級](http://qiita.com/arowM/items/9ebfb7cafecd99290663)
   * [初級その2](http://qiita.com/arowM/items/33245802f9305a73082e)
 * Haskell個人メモ
@@ -39,48 +42,37 @@
 * [Rubyistに贈るHaskell入門](http://qiita.com/techno-tanoC/items/1549d0efc044faf16c36)
   * ["Rubyistに贈るHaskell入門"がちょっと微妙だったので補足記事その1](http://qiita.com/nobkz/items/1ed1600bb2f0268070b3)
   * [「Rubyistに贈るHaskell入門」 again](http://qiita.com/geshi/items/5450343f93c9dbaec2b8)
-* [Haskell チュートリアル (Haskell Day 2016)](http://qiita.com/hiratara/items/169b5cb83b0adbfda764)
-  * [準備](http://qiita.com/hiratara/items/7d5456eb5ae239de34a8)
-* [Haskell講習会スライド](https://github.com/mt-caret/intro-to-haskell/blob/master/slides.pdf)
 * [安定結婚問題を解きながらHaskellプログラミングを紹介しつつ恋愛について学ぶ](http://qiita.com/cutsea110/items/27d9f6db834b70e52dd9)
 * [Haskellでポーカーを作ろう〜第一回 リストのシャッフルとカードの定義〜](http://tune.hateblo.jp/entry/2015/05/12/023112)
 * [Haskellプログラミングのコツのようなもの](http://qiita.com/nobsun/items/ed33c22203734e706e9b)
-* [【関数型言語Haskellの基本】高階関数map,reduceを使って遊んでみた](https://codeiq.jp/magazine/2016/02/31747/)
-* [Haskell の難しさを分割し、理解していく](http://qiita.com/t9md/items/529a4297e841f330ee98)
-* [Haskell入門](http://qiita.com/airtoxin/items/e231ad70d5be3650e424)
-* [Haskellの世界](http://skami.iocikun.jp/computer/haskell)
-* [すごいHaskell つくばで学ぼう！](https://github.com/nushio3/learn-haskell/blob/master/Tsukuba-2016.pdf)
 * [What I Wish I Knew When Learning Haskell](https://github.com/Kinokkory/wiwinwlh-jp/wiki)
 * [Haskellチートシート(翻訳)](http://qiita.com/techno-tanoC/items/1fa1c65db08da2440fc4)
-* [注目ワード“高階プログラミング”って何だ？](http://ascii.jp/elem/000/000/157/157495/)
 * [プログラム・プロムナード／Haskellプログラミング](https://www.ipsj.or.jp/magazine/promenade.html)
-* [Haskell 初心者が ライフゲーム 書いた](http://qiita.com/DUxCA/items/9facbd4fe4937650e1f4)
-* [Haskell Note](http://qiita.com/0918nobita/items/f1756ab0e804efc863b5)
-* [Haskell入門（雑）その1](http://qiita.com/Lischero/items/5a067a168c66e1e08207)
 * [お気楽 Haskell プログラミング入門](http://www.geocities.jp/m_hiroi/func/haskell.html)
 * [やさしい Haskell 入門 (バージョン98)](http://www.sampou.org/haskell/tutorial-j/index.html)
-* [All about Prelude #Haskell - Qiita](http://qiita.com/Tatsuki-I/items/210ca6ce3337105fed98#%E5%9F%BA%E6%9C%AC%E5%85%A5%E5%87%BA%E5%8A%9B)
+* [AtCoder に登録したら解くべき精選過去問 10 問を Haskell で解いてみた - Qiita](https://qiita.com/hsjoihs/items/25a08b426196ab2b9bb0)
+
+#### 講演資料
+* [すごいHaskell つくばで学ぼう！](https://github.com/nushio3/learn-haskell/blob/master/Tsukuba-2016.pdf)
+* [Haskell チュートリアル (Haskell Day 2016)](http://qiita.com/hiratara/items/169b5cb83b0adbfda764)
+  * [準備](http://qiita.com/hiratara/items/7d5456eb5ae239de34a8)
 * [「Haskell入門ハンズオン!」事前資料 - 1/3 - Qiita](http://qiita.com/YoshikuniJujo/items/11d532719bc64f883386)
   * [2/3](http://qiita.com/YoshikuniJujo/items/088a7caea9bd3fe59e3a)
   * [3/3](http://qiita.com/YoshikuniJujo/items/12555f599b5aceac7940)
 * [「Haskell入門ハンズオン #2」の当日用の資料(1) - Qiita](https://qiita.com/YoshikuniJujo/items/55f6163ff1897d791ed6)
   * [「Haskell入門ハンズオン #2」の当日用の資料(2) - Qiita](https://qiita.com/YoshikuniJujo/items/6575706cf79f7260539c)
   * [「Haskell入門ハンズオン #2」の当日用資料(3) - Qiita](https://qiita.com/YoshikuniJujo/items/9b4aeab57e8f0175f7b8)
-* [Haskellの入門から中級者になるまでの指針 - Qiita](https://qiita.com/Lugendre/items/70e517e59698e0e435f5)
-* [これから Haskell を学ぶ人のための書籍紹介 - Qiita](https://qiita.com/waddlaw/items/dd926462d398c4cbd019)
-* [Haskell 初心者へのアドバイス (和訳) - Qiita](https://qiita.com/rounddelta/items/8b7d2a200a932e761fa3)
-* [なぜ Haskell が好きなのか - 趣味はデバッグ……](http://kakkun61.hatenablog.com/entry/2017/12/25/%E3%81%AA%E3%81%9C_Haskell_%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%AA%E3%81%AE%E3%81%8B)
-* [拙書「Haskell 教養としての関数型プログラミング」の紹介 - Qiita](https://qiita.com/YoshikuniJujo/items/0708f108bf53a216a61a)
-* [Haskell、または関数プログラミングの景色について - Qiita](https://qiita.com/takenobu-hs/items/dc85d455fef41c091383)
 * [Haskell入門ハンズオン! #3: 当日用資料 1/5 - Qiita](https://qiita.com/YoshikuniJujo/items/436bd6bb2e0a84a61131)
   * [Haskell入門ハンズオン! #3: 当日用資料 2/5 - Qiita](https://qiita.com/YoshikuniJujo/items/f63c1be3ff07c3048aba)
   * [Haskell入門ハンズオン! #3: 当日用資料 3/5 - Qiita](https://qiita.com/YoshikuniJujo/items/085fa142b0591cb4cb2b)
   * [Haskell入門ハンズオン! #3: 当日用資料 4/5 - Qiita](https://qiita.com/YoshikuniJujo/items/8a8a78b637b03771c8d5)
   * [Haskell入門ハンズオン! #3: 当日用資料 5/5 - Qiita](https://qiita.com/YoshikuniJujo/items/2d2b28598f6dbb45b44a)
-* [AtCoder に登録したら解くべき精選過去問 10 問を Haskell で解いてみた - Qiita](https://qiita.com/hsjoihs/items/25a08b426196ab2b9bb0)
+* [Haskell講習会スライド](https://github.com/mt-caret/intro-to-haskell/blob/master/slides.pdf)
+
+#### 書籍
 * [すごいH本が楽しかったのでまとめた - Qiita](https://qiita.com/ta-ka/items/8679737ac70cf1dc1d78)
-* [Hikers Guide to Haskell](https://wiki.haskell.jp/Hikers%20Guide%20to%20Haskell)
-* [haskell-jp/makeMistakesToLearnHaskell: Make Mistakes to Learn Haskell - 失敗しながら学ぶHaskell入門](https://github.com/haskell-jp/makeMistakesToLearnHaskell)
+* [拙書「Haskell 教養としての関数型プログラミング」の紹介 - Qiita](https://qiita.com/YoshikuniJujo/items/0708f108bf53a216a61a)
+* [これから Haskell を学ぶ人のための書籍紹介 - Qiita](https://qiita.com/waddlaw/items/dd926462d398c4cbd019)
 
 ### 英語チュートリアル
 
