@@ -26,8 +26,7 @@
 * [Haskellでマインスイーパーを作る - YouTube](https://www.youtube.com/watch?v=E5skmV4fpcc&feature=youtu.be)
 * [Haskell入門ハンズオン〜REPLで始めるHaskell生活〜](https://speakerdeck.com/aruneko/haskellru-men-hansuon)
 
-<details>
-<summary>日本語チュートリアル</summary>
+### 日本語チュートリアル
 
 * [こわくないHaskell入門 初級](http://qiita.com/arowM/items/9ebfb7cafecd99290663)
   * [初級その2](http://qiita.com/arowM/items/33245802f9305a73082e)
@@ -80,11 +79,10 @@
   * [Haskell入門ハンズオン! #3: 当日用資料 5/5 - Qiita](https://qiita.com/YoshikuniJujo/items/2d2b28598f6dbb45b44a)
 * [AtCoder に登録したら解くべき精選過去問 10 問を Haskell で解いてみた - Qiita](https://qiita.com/hsjoihs/items/25a08b426196ab2b9bb0)
 * [すごいH本が楽しかったのでまとめた - Qiita](https://qiita.com/ta-ka/items/8679737ac70cf1dc1d78)
+* [Hikers Guide to Haskell](https://wiki.haskell.jp/Hikers%20Guide%20to%20Haskell)
+* [haskell-jp/makeMistakesToLearnHaskell: Make Mistakes to Learn Haskell - 失敗しながら学ぶHaskell入門](https://github.com/haskell-jp/makeMistakesToLearnHaskell)
 
-</details>
-
-<details>
-<summary>英語チュートリアル</summary>
+### 英語チュートリアル
 
 * [Haskell Notes for Professionals book](http://books.goalkicker.com/HaskellBook/)
 * [Reading Simple Haskell](https://soupi.github.io/rfc/reading_simple_haskell/)
@@ -161,8 +159,6 @@
  * [Wise Man’s Haskell](https://anchpop.github.io/wise_mans_haskell/)
  * [Practical Haskell programs from scratch](https://www.ahri.net/practical-haskell-programs-from-scratch/)
  * [Haskell for all: Detailed walkthrough for a beginner Haskell program](http://www.haskellforall.com/2018/10/detailed-walkthrough-for-beginner.html)
-
-</details>
 
 ## Examples
 
