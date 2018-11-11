@@ -160,6 +160,7 @@
 * [Notes on fusion](http://teh.id.au/posts/2017/06/30/notes-on-fusion/index.html)
 * [GHC, One compiler to RULE them all \| Alexandre Moine’s blog](https://blog.nyarlathotep.one/2018/07/ghc-one-compiler-to-rule-them-all/)
 * [Henri's Blog - Making Haskell as fast as C: Imperative programming in Haskell](https://deliquus.com/posts/2018-07-30-imperative-programming-in-haskell.html)
+* [Haskell: journey from 144 min to 17 min · pl-rants](https://pl-rants.net/posts/haskell-opt-journey/)
 
 ### パフォーマンス
 * [Haskell で高速なプログラムを書くときに注意すること](http://d-poppo.nazo.cc/blog/2016/06/writing-efficient-program-with-haskell/)
