@@ -3,7 +3,8 @@
 > * Unchecked+Impure: IO
 > * Checked+Pure: Either
 > * Unchecked+Pure: BAD (not in type) 
-<https://twitter.com/GabrielG439/status/656202814121574400>
+> 
+> <https://twitter.com/GabrielG439/status/656202814121574400>
 
 * [エラー処理を書いてはいけない](http://tanakh.jp/pub/pfi-seminar-2011-12-08.html)
 * [Haskell での例外処理](http://d.hatena.ne.jp/kazu-yamamoto/20120604/1338802792)
@@ -41,3 +42,5 @@
 * [Error handling is code too!](http://cs-syd.eu/posts/2016-03-13-error-handling-is-code-too.html)
 * [Finding bugs in Haskell code by proving it – Blog – Joachim Breitner's Homepage](https://www.joachim-breitner.de/blog/734-Finding_bugs_in_Haskell_code_by_proving_it)
 * [Pure Functional Validation – Blacklane Engineering – Medium](https://medium.com/blacklane-engineering/pure-functional-validation-64a7885d22ac)
+* [The Trouble with Typed Errors](https://www.parsonsmatt.org/2018/11/03/trouble_with_typed_errors.html)
+* [An answer to "The Trouble with Typed Errors"](http://www.sylvain-henry.info/home/posts/2018-11-04-trouble-with-typed-errors.html)
