@@ -137,3 +137,4 @@ Passed:
 * [Haskell でのデバッグ手法あれこれ \| 雑記帳](https://blog.miz-ar.info/2018/01/debugging-haskell-program/)
 * [debug パッケージのアナウンス (翻訳)](https://haskell.e-bigmoon.com/posts/2018-02-26-announcing-the-debug-package)
 * [Moving Towards Dialogue: Collaborating with your computer using typed holes! by Vaibhav Sagar - YouTube](https://www.youtube.com/watch?v=0oo8wIi2qBE)
+* [Typed-Holes and Valid Hole Fits \| Octopi](https://octopi.chalmers.se/2018/11/08/typed-holes/)
