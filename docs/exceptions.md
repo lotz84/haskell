@@ -22,6 +22,7 @@
 * [Rethinking MonadError – The Science of Code](https://lukajcb.github.io/blog/functional/2018/04/15/rethinking-monaderror.html)
 * [On EitherT \| Perpetually Curious](http://lambdafoo.com/blog/2018/06/22/transformers-either/)
 * [Roll your own stack traces](https://www.michaelpj.com/blog/2018/09/16/roll-your-own-stacktraces.html)
+* [[1810.13430] Exceptionally Monadic Error Handling](https://arxiv.org/abs/1810.13430)
 
 ### safe-exceptions
 * [fpco/safe-exceptions](https://github.com/fpco/safe-exceptions)
