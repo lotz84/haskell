@@ -180,3 +180,4 @@ parse = evalStateT
 * [Migrating JSON with lens and foci :: Capital Match Tech Blog](https://tech-blog.capital-match.com/posts/4-json-migration.html)
 * [ParsecでJSONパーサの作成 - Qiita](https://qiita.com/penguinshunya/items/bf4e8b2527a7a2846940)
 * [Type-driven safe derivation of ToJSON and FromJSON, using DerivingVia in GHC 8.6 and some type-level hacks](https://www.reddit.com/r/haskell/comments/8y98yt/typedriven_safe_derivation_of_tojson_and_fromjson/)
+* [Queensland FP Lab - Waargonaut The JSONer](http://qfpl.io/posts/waargonaut-the-jsoner/)
