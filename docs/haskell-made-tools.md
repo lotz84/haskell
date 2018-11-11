@@ -221,6 +221,7 @@ $ hobbes "*.hs" | xargs -n1 ghc --make
 ### KOMPOSITION
 * The video editor built for screencasters
 * [Komposition](https://owickstrom.github.io/komposition/)
+* [Writing a Screencast Video Editor in Haskell \| Func Da World](https://wickstrom.tech/programming/2018/10/26/writing-a-screencast-video-editor-in-haskell.html)
 
 ### LambdaCms
 * Haskell製のCMS
