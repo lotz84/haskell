@@ -171,3 +171,5 @@ class Functor g => Distributive g where
 * [A catamorphic lambda-calculus interpreter](https://www.michaelpj.com/blog/2018/04/08/catamorphic-lc-interpreter.html)
 * [Program Reduction: A Win for Recursion Schemes](http://newartisans.com/2018/04/win-for-recursion-schemes/)
 * [Fixpoints in Haskell – Chris Smith – Medium](https://medium.com/@cdsmithus/fixpoints-in-haskell-294096a9fc10)
+* [Haskell at Barclays: Exotic tools for exotic trades](http://www.timphilipwilliams.com/slides/HaskellAtBarclays.pdf)
+* [Don't fear the cat-amorphism (nor the hylomorphism)](http://fho.f12n.de/posts/2014-05-07-dont-fear-the-cat.html)
