@@ -95,7 +95,6 @@ unpack x ≡ x ^. from packed
 
 ## Traversal
 * [Reducer transformers can definitely be encoded in a lens-like shape](https://www.reddit.com/r/haskell/comments/2cv6l4/clojures_transducers_are_perverse_lenses/cjjfrxt)
-* ~~[TraversableがなければTraversalを使えばいいじゃない](http://qiita.com/hiyakashi_/items/f272e73161a89df31bda)~~
 
 ## Classy Optics
 * [lensのmakeClassyで型を合成する](http://tune.hateblo.jp/entry/2014/09/27/191008)
