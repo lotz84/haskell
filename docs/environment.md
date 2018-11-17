@@ -29,7 +29,6 @@ $ brew install haskell-stack
 * [Introducing Haskelly – Haskell extension for Visual Studio Code – Microsoft Faculty Connection](https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/02/13/introducing-haskelly-extension-for-visual-studio-code/)
 * [[Visual Studio Code][Haskell] VSCodeでHaskellの開発環境を整える - Qiita](http://qiita.com/koara-local/items/06d57fd7fe4adc72f2b6)
 * [VS Code と haskell-ide-engine で Haskell 開発環境を構築する - Qiita](https://qiita.com/waddlaw/items/b83cd10311200095fe87)
-* [VS Code で Ghcid を使う (和訳) - Qiita](https://qiita.com/rounddelta/items/27c12237d9ef1c5569ba)
 * [ott - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=JoeyEremondi.ott)
 * [VisualStudioCode で Haskell のコードを実行するショートカットを設定する - Qiita](https://qiita.com/jnhnd/items/240c41ea5dd7acd9e54c)
 
@@ -76,10 +75,8 @@ $ brew install haskell-stack
 ### Haskell for Mac
 * [Haskell for Mac](http://haskellformac.com/)
 * [Haskell for Mac でちょっと Haskell をさわってみる](http://qiita.com/usamik26/items/d99bf694150a549b5078)
-* [Inspecting HTML documents in Haskell playgrounds](http://blog.haskellformac.com/blog/inspecting-html-documents-in-haskell-playgrounds)
 
 ### Yi
-* [YiエディタでVimスタイルをベースに拡張設定する(1)](http://qiita.com/aiya000/items/376a2bed4ddd12433b31)
 * [YiでEditorM aの状態を変更したい時はMonadEditor使えば](http://qiita.com/aiya000/items/f6893ec511977be28a9f)
 * [Yiと7時間ずっと向き合い続けた僕が出したYiの設定方法](http://qiita.com/aiya000/items/5627f938e215fad156d3)
 * [Yiエディタでtagsを読み込む](http://qiita.com/aiya000/items/01f03a203cbc702aff80)
@@ -103,7 +100,6 @@ $ brew install haskell-stack
 * [ndmitchell/ghcid](https://github.com/ndmitchell/ghcid)
 * [Project Proposal](http://stefanj.me/funblocks/2016/05/23/project-proposal/)
 * [Hello World](http://stefanj.me/funblocks/2016/05/24/hello-world/)
-* [Haskell-tools](http://haskelltools.org/)
 * [Another Web-based Haskell IDE](http://jpmoresmau.blogspot.jp/2016/07/another-web-based-haskell-ide.html)
 * [Tidalでライブコーディング! - セットアップ編](http://qiita.com/yoppa/items/41805cc6af62b1047a34)
 * [transient-haskell/transient - Running example(s)](https://github.com/transient-haskell/transient/wiki/Running-example(s))
