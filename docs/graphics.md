@@ -12,7 +12,6 @@
 * [smoothie](https://hackage.haskell.org/package/smoothie)
 * [Constraint Solver](http://www.mattkeeter.com/projects/constraints/)
 * [Floating Point: A Faustian Bargain?](https://idontgetoutmuch.wordpress.com/2015/11/12/floating-point-a-faustian-bargain/)
-* [Comonad and Sierpinski gasket](http://nbviewer.ipython.org/urls/gist.githubusercontent.com/miguel-negrao/571be4120ebecdbb3e26/raw/b740adc557fe097f9c6ff66ff7349bbf0a095091/gistfile1.txt)
 * [Haphviz: Graphviz code generation with Haskell](http://cs-syd.eu/posts/2015-12-20-haphviz-graphviz-code-generation-with-haskell.html)
 * [The graphviz package](http://hackage.haskell.org/package/graphviz)
 * [swift-nav/plover](https://github.com/swift-nav/plover)
@@ -37,6 +36,7 @@
 * [weeezes/plot: Simple plotting tool for the terminal](https://github.com/weeezes/plot)
 * [Jun Inoueさんのツイート: "Haskell で Euler やる人は arithmoi パッケージを入れておきましょう。2009 年ごろまでは一番解いてる Haskeller だった Daniel Fischer が書いたもので、クッソ速い整数冪根とかメビウス変換、ヤコビ記号などが手に入ります。"](https://twitter.com/jun0inoue/status/373434443253305344)
 * [Generating Art With Haskell](https://paytonturnage.com/writing/2018-06-05-generating-art-with-haskell/)
+* [BEAUTIFUL CODE, COMPELLING EVIDENCE](https://www.renci.org/wp-content/pub/tutorials/BeautifulCode.pdf)
 
 ## 画像処理
 * [friday: A functional image processing library for Haskell.](https://hackage.haskell.org/package/friday)
