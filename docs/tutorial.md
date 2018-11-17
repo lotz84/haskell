@@ -118,9 +118,7 @@
 * [Happy Learn Haskell Tutorial Volume 1](https://leanpub.com/happylearnhaskelltutorialvol1)
 * [In Haskell, less is more](https://www.youtube.com/watch?v=NHRIV7UNiPU)
 * [Anatomy of Programming Languages](http://www.cs.utexas.edu/~wcook/anatomy/anatomy.htm)
-* [BEAUTIFUL CODE , COMPELLING EVIDENCE](http://vis.renci.org/jeff/wp-content/uploads/2009/01/beautifulcode.pdf)
 * [For Most Programmers, Learning Haskell Haskell Will Be No Panic...(... Unless They Read This Tutorial First!)](http://lisperati.com/haskell/hasktut.pdf)
-* [CIS 194: Home](http://www.seas.upenn.edu/~cis194/lectures.html)
 * [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)
 * [The Haskell Road to Logic, Math and Programming](https://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf)
 * [Functional Programming in Haskell: Supercharge Your Coding](https://www.futurelearn.com/courses/functional-programming-haskell)
@@ -180,9 +178,7 @@ sieve (p:xs) = p : sieve [x | x <- xs, x `mod` p /= 0]
 <summary>エラトステネスの篩</summary>
 
 * [The Genuine Sieve of Eratosthenes](http://www.cs.hmc.edu/~oneill/papers/Sieve-JFP.pdf)
-* [The Genuine Sieve of Eratosthenes](http://vicarie.in/posts/sieve-of-eratos.html)
 * [Haskell programmers are liars](http://www.garrisonjensen.com/2015/05/13/haskell-programs-are-lies.html)
-* [An Optimal Haskell Quicksort](https://gautamcgoel.wordpress.com/2015/08/27/an-optimal-haskell-quicksort/)
 </details>
 
 ----
