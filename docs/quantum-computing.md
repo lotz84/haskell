@@ -9,6 +9,7 @@
 * [qchas: A library for implementing Quantum Algorithms](https://hackage.haskell.org/package/qchas)
 * [量子コンピューターにはモナドがよく似合う - Qiita](https://qiita.com/kyamaz/items/67ec5c7d39e62c1de91d)
 * [[quant-ph/0307150] A Lambda Calculus for Quantum Computation](https://arxiv.org/abs/quant-ph/0307150)
+* [Picturing Quantum Processes](https://www.cs.ox.ac.uk/ss2014/programme/Bob.pdf)
 
 ## 物理
 * [The units package](https://hackage.haskell.org/package/units)
