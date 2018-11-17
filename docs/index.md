@@ -41,7 +41,7 @@
     6.  [暗号技術](cryptography)
     7.  [Graphics/Game](graphics)
     8.  [IoT/Mobile](mobile)
-    9.  [機械学習](machine-learning)
+    9.  [データサイエンス](data-science)
     10. [量子コンピュータ](quantum-computing)
 3. [**プログラミングを支える数学**](math)
     1. [ラムダ計算](lambda-calculus)
