@@ -109,28 +109,19 @@ instance Monad Dist where
 [FUNCTIONAL PEARLS: Probabilistic Functional Programming in Haskell](https://web.engr.oregonstate.edu/~erwig/papers/PFP_JFP06.pdf)
 
 ## 確率論的プログラミング
-* [確率的プログラミング \| POSTD](http://postd.cc/probabilistic-programming/)
-* [Probabilistic Programming](https://media.nips.cc/Conferences/2015/tutorialslides/wood-nips-probabilistic-programming-tutorial-2015.pdf)
+* [確率とモナドと確率論的プログラミング](http://qiita.com/lotz/items/7c7df718d1a596cac920)
 * [adscib/monad-bayes](https://github.com/adscib/monad-bayes)
   * [Practical Probabilistic Programming with Monads](https://www.youtube.com/watch?v=hI0ajVy2xEk)
   * [Practical probabilistic programming with Monads](http://mlg.eng.cam.ac.uk/pub/pdf/SciGhaGor15.pdf)
 * [A Simple Embedded Probabilistic Programming Language](https://medium.com/@jaredtobin/a-simple-embedded-probabilistic-programming-language-17bdaa08ed99#.tt9iikeo6)  
 * [Building a probabilistic programming interpreter](http://www.zinkov.com/posts/2015-08-25-building-a-probabilisitic-interpreter/)
 * [Comonadic Markov Chain Monte Carlo](https://jtobin.io/comonadic-mcmc)
-* Oleg Kiselyov and Chung-chieh Shan - [Embedded Probabilistic Programming](http://okmij.org/ftp/kakuritu/dsl-paper.pdf)
-* [Learning Probabilistic Programs](http://arxiv.org/abs/1407.2646)
-* Ken Friis Larsen - [Memory Efficient Implementation of Probability Monads](http://www.diku.dk/hjemmesider/ansatte/kflarsen/t/ProbMonad-unpublished.pdf)
-* Frank Wood, Jan Willem van de Meent and Vikash Mansinghka - [A New Approach to Probabilistic Programming Inference](http://www.robots.ox.ac.uk/~fwood/assets/pdf/Wood-AISTATS-2014.pdf)
+* [Memory Efficient Implementation of Probability Monads](http://hjemmesider.diku.dk/~kflarsen/t/ProbMonad-unpublished.pdf)
+* [Practical Probabilistic Programming with Monads](http://mlg.eng.cam.ac.uk/pub/pdf/SciGhaGor15.pdf)
 * [FMFMFMF: Free Monads For Making Fast Models, Functionally.](http://statusfailed.com/blog/2015/09/04/free-monads-for-making-fast-models.html)
-* [Simplifying Probabilistic Programs Using Computer Algebra](http://www.cs.indiana.edu/ftp/techreports/TR719.pdf)
-* [Encoding Statistical Independence, Statically](http://jtobin.ca/encoding-independence-statically)
-* Tom Rainforth, Jan-Willem van de Meent, Michael A. Osborne and Frank Wood - [Bayesian Optimization for Probabilistic Programs](http://www.blackboxworkshop.org/pdf/rainforth2015BOPP.pdf)
-  * Michael A. Osborne, Roman Garnett, and Stephen J. Roberts - [Gaussian Processes for Global Optimization](http://www.robots.ox.ac.uk/~parg/pubs/OsborneGarnettRobertsGPGO.pdf)
+* [Encoding Statistical Independence, Statically – Jared Tobin – Medium](https://medium.com/@jaredtobin/encoding-statistical-independence-statically-ec6a714cf24a)
 * [Deriving a Probability Density Calculator (Functional Pearl)](http://homes.soic.indiana.edu/ccshan/rational/pearl.pdf)
 * [BAli-Phy](http://www.bali-phy.org/)
-* [確率とモナドと確率論的プログラミング](http://qiita.com/lotz/items/7c7df718d1a596cac920)
-* [[1701.03757] Deep Probabilistic Programming](https://arxiv.org/abs/1701.03757)
-* [Foundations of the Giry Monad · jtobin.io](https://jtobin.io/giry-monad-foundations)
 * [Implementing the Giry Monad · jtobin.io](https://jtobin.io/giry-monad-implementation)
 * [The Applicative Structure of the Giry Monad · jtobin.io](https://jtobin.io/giry-monad-applicative)
 * [Practical Probabilistic Programming with Monads を読む (1) : とりあえずサイコロを振る - Qiita](http://qiita.com/lesguillemets/items/bf005952cf87480215c9)
@@ -141,44 +132,6 @@ instance Monad Dist where
   * old - [Hakaru: An embedded probabilistic programming language for Haskell.](http://indiana.edu/~ppaml/)
 * [Probabilistic inference by program transformation in Hakaru (system description)](http://homes.soic.indiana.edu/ccshan/rational/system.pdf)
 * [Abstract Binding Trees in Hakaru](http://winterkoninkje.dreamwidth.org/103978.html)
-
-### 量子論理
-* [quantum logic](https://ncatlab.org/nlab/show/quantum+logic)
-* [量子集合論と量子力学の解釈問題](http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1525-6.pdf)
-* [量子論理は論理か](https://www.jstage.jst.go.jp/article/jpssj1968/14/0/14_0_21/_pdf)
-* [古典論理・量子論理・実在 Ⅰ](http://repository.ris.ac.jp/dspace/bitstream/11266/4838/1/KJ00005613226.pdf)
-* [論理の中の量子](http://pssj.info/program/program_data/40/ws/watanabe.pdf)
-* [量子論理に基づくHilbert空間形式の量子力学の再構成とその応用](http://bayes.sigmath.es.osaka-u.ac.jp/ftanaka/workshop/r14s/koga.pdf)
-* [論理・集合・実数・物理・測定 : 量子集合論と量子力学の観測問題 (非可換解析とミクロ・マクロ双対性)](http://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/140895/1/1658-22.pdf)
-
-### Effectus Theory
-* [An Introduction to Effectus Theory](https://arxiv.org/abs/1512.05813)
-* [Effectus Theory, and Beyond](http://www.cs.ru.nl/B.Jacobs/TALKS/effectus.pdf)
-* [Total and Partial Computation in Categorical Quantum Foundations](https://arxiv.org/pdf/1511.01569.pdf)
-* [Quotient–Comprehension Chains](http://arxiv.org/pdf/1511.01570.pdf)
-* [NEW DIRECTIONS IN CATEGORICAL LOGIC, FOR CLASSICAL, PROBABILISTIC AND QUANTUM LOGIC](https://arxiv.org/pdf/1205.3940.pdf)
-* [States of Convex Sets](http://www.cs.ru.nl/B.Jacobs/PAPERS/convex-states.pdf)
-
-### Stochastic Lambda Calculus
-* [Scott's stochastic lambda calculi](http://cstheory.stackexchange.com/questions/25998/scotts-stochastic-lambda-calculi)
-* [Stochastic Lambda Calculus and Monads of Probability Distributions](https://www.cs.tufts.edu/~nr/pubs/pmonad.pdf)
-
-### Categorical Probability Theory
-* [Categorical Probability Theory](https://arxiv.org/abs/1406.6030)
-* [Giry monad](https://ncatlab.org/nlab/show/Giry+monad)
-* [A CATEGORICAL FOUNDATION FOR BAYESIAN PROBABILITY](https://arxiv.org/pdf/1205.1488.pdf)
-* [A Type Theory for Probabilistic and Bayesian Reasoning](https://arxiv.org/abs/1511.09230)
-* [A Categorical Basis for Conditional Probability](http://www.cs.ru.nl/B.Jacobs/PAPERS/cat-prob-th.pdf)
-* [[1701.02547] A Convenient Category for Higher-Order Probability Theory](https://arxiv.org/abs/1701.02547)
-* [「確率変数」の正体は米田埋め込み - 檜山正幸のキマイラ飼育記](http://d.hatena.ne.jp/m-hiyama/20170228/1488276250)
-* [「確率変数」の変種：測度に縛られない確率変数 - 檜山正幸のキマイラ飼育記](http://d.hatena.ne.jp/m-hiyama/20170302/1488423997)
-* [「確率変数」の一般論は可能か - 檜山正幸のキマイラ飼育記](http://d.hatena.ne.jp/m-hiyama/20170303/1488525802)
-* [確率・統計の「分布」の意味と使用法 - 檜山正幸のキマイラ飼育記](http://d.hatena.ne.jp/m-hiyama/20170308/1488931387)
-* [心が安らぐ「分布の空間」を定義してみる - 檜山正幸のキマイラ飼育記](http://d.hatena.ne.jp/m-hiyama/20170313/1489368546)
-* [同時確率分布の圏 - 檜山正幸のキマイラ飼育記](http://d.hatena.ne.jp/m-hiyama/20170329/1490772264)
-* [同時確率分布の圏の使用例：超具体的 - 檜山正幸のキマイラ飼育記](http://d.hatena.ne.jp/m-hiyama/20170330/1490834604)
-* [アブダクションと確率的推論 - 檜山正幸のキマイラ飼育記](http://d.hatena.ne.jp/m-hiyama/20170411/1491880515)
-* [確率的推論・判断の計算法：マルコフ・テンソル絵算 - 檜山正幸のキマイラ飼育記](http://d.hatena.ne.jp/m-hiyama/20170419/1492587609)
 
 ## 自動微分
 * [[1502.05767] Automatic differentiation in machine learning: a survey](https://arxiv.org/abs/1502.05767)
@@ -201,7 +154,6 @@ instance Monad Dist where
 * [Reverse Mode Differentiation is Kind of Like a Lens II - Hey There Buddo!](http://www.philipzucker.com/reverse-mode-differentiation-is-kind-of-like-a-lens-ii/)
 * [symbolic-expressions-can-be-automatically-differentiated](http://h2.jaguarpaw.co.uk/posts/symbolic-expressions-can-be-automatically-differentiated/)
 * [[1804.00746] The simple essence of automatic differentiation](https://arxiv.org/abs/1804.00746)
-
 
 ## Deep Learning
 * [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/)
