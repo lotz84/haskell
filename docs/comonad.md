@@ -129,3 +129,4 @@ class ComonadTrans t where
 
 * [jaspervdj - Image Processing with Comonads](https://jaspervdj.be/posts/2014-11-27-comonads-image-processing.html)
 * 🎥 [Kenneth Foner - Getting a Quick Fix on Comonads](https://www.youtube.com/watch?v=F7F-BzOB670)
+* [Comonad and Sierpinski gasket](http://nbviewer.ipython.org/urls/gist.githubusercontent.com/miguel-negrao/571be4120ebecdbb3e26/raw/b740adc557fe097f9c6ff66ff7349bbf0a095091/gistfile1.txt)
