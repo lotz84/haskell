@@ -128,8 +128,6 @@ instance (HasField x r a) => IsLabel x (r -> a) where
 > Extensible records for Haskell with lenses.
 
 * [vinyl](https://hackage.haskell.org/package/vinyl)
-* [Programming in Vinyl / BayHac 2014](https://vimeo.com/95694918)
-* [Vinyl: Records in Haskell and Type Theory](https://vimeo.com/102785458)
 * [Constant-time <code>vinyl</code> Field Getters](http://www.arcadianvisions.com/blog/2018/vinyl-arec.html)
 * [Deriving Vinyl Representation from Plain Haskell Records](https://www.gagandeepbhatia.com/blog/deriving-vinyl-representation-from-plain-haskell-records/)
 * [Scrap your Nils](https://github.com/morphismtech/squeal/blob/master/scrap-your-nils.md)
