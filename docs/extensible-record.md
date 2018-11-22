@@ -182,7 +182,6 @@ julian = emptyBook
 -- "Julian K. Arni"
 ```
 
-* [Bookkeeper](https://turingjump.com/blog/bookkeeper/)
 * [Bookkeeper.Permissions](https://hackage.haskell.org/package/bookkeeper-permissions-0.1.0.0/docs/Bookkeeper-Permissions.html)
 
 ### rawr
