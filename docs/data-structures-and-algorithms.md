@@ -66,7 +66,7 @@
 * [Splitting](http://lpaste.net/6349157219174449152)
 * [たくさんのファイルから重複した行の塊を見つける](http://qiita.com/igrep/items/cc23dbc13448b973bc39)
 * [Rotating Squares](https://jtobin.io/rotating-squares)
-* [Simple RNA folding in 130 lines of Haskell](http://michaeljflynn.net/2017/01/09/simple-rna-folding-in-130-lines-of-haskell/)
+* [Simple RNA folding in 130 lines of Haskell - SAOWEN](https://tw.saowen.com/a/4a88d56dfb583c76866521124afd0eb3519b369e871ba6309a75a26e53bcd456)
 * [How much space does an 8-bit integer occupy in C and Haskell?](https://ro-che.info/articles/2017-01-25-word8-space)
 * [Abstract Nonsense](http://www.kovach.me/posts/2017-01-30-haskell-bits-randomness.html)
 * [zstd: Haskell bindings to the Zstandard compression algorithm](http://hackage.haskell.org/package/zstd)
