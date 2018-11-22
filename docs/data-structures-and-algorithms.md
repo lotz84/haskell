@@ -63,7 +63,6 @@
 * [Haskell div mod – Cyclical Division, Modulus Visualised](http://www.prigrammer.com/?p=321)
 * [「Haskell」で「Look and Say 数列」を生成してみた](http://zodi-g12.hatenablog.com/entry/2016/11/07/065219)
 * [Constant-time Find First Set](http://www.hedonisticlearning.com/posts/find-first-set.html)
-* [Splitting](http://lpaste.net/6349157219174449152)
 * [たくさんのファイルから重複した行の塊を見つける](http://qiita.com/igrep/items/cc23dbc13448b973bc39)
 * [Rotating Squares](https://jtobin.io/rotating-squares)
 * [Simple RNA folding in 130 lines of Haskell - SAOWEN](https://tw.saowen.com/a/4a88d56dfb583c76866521124afd0eb3519b369e871ba6309a75a26e53bcd456)
