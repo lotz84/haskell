@@ -2,6 +2,7 @@
 * [Types & Kinds](http://slpopejoy.github.io/2015/04/10/Types/)
 * [Another Approach to Default Function Parameters](https://ocharles.org.uk/blog/posts/2015-07-23-another-approach-to-default-variables.html)
 * [The vacuum-cairo package](https://hackage.haskell.org/package/vacuum-cairo)
+* [Haskell Skyline](https://pykello.github.io/haskell-skyline)
 * [Algorithms for Computer Algebra](http://link.springer.com/book/10.1007/b102438)
 * [haskell-foundation/foundation](https://github.com/haskell-foundation/foundation)
 
