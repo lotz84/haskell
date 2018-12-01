@@ -106,6 +106,7 @@
 * [Edward Kmett - Revisiting Combinators ("upgrade your video driver to type check") : haskell](https://www.reddit.com/r/haskell/comments/8tpgjj/edward_kmett_revisiting_combinators_upgrade_your/)
 * [Lamping's Abstract Algorithm](https://github.com/MaiaVictor/absal-ex)
 * [What the heck is Typeable !?](https://sras.me/haskell/what-the-heck-is-typeable.html)
+* [だれも Data.Maybe を教えてくれなかった - Qiita](https://qiita.com/mtsugawa/items/e410812567e8b5b1690c)
 
 ### ソート
 * [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
