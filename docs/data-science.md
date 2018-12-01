@@ -138,19 +138,26 @@ instance Monad Dist where
 * [ad](https://hackage.haskell.org/package/ad)
   * <https://twitter.com/GabrielG439/status/647601518871359489>
   * [Beautiful differentiation](http://conal.net/blog/posts/beautiful-differentiation)
-* [Computing symbolic gradient vectors with plain Haskell](http://blog.aloni.org/posts/symbolic-gradients-with-plain-haskell/)
-* [Reverse mode Automatic Differentiation](http://h2.jaguarpaw.co.uk/posts/reverse-mode-automatic-differentiation/)
 * [Backpropogation is Just Steepest Descent with Automatic Differentiation](https://idontgetoutmuch.wordpress.com/2013/10/13/backpropogation-is-just-steepest-descent-with-automatic-differentiation-2/)
 * [Automatic Propagation of Uncertainty with AD](https://blog.jle.im/entry/automatic-propagation-of-uncertainty-with-ad.html)
-* [Symbolic Calculus in Haskell](http://5outh.blogspot.in/2013/05/symbolic-calculus-in-haskell.html)
-* [Automasymbolic Differentiation · jtobin.io](https://jtobin.io/automasymbolic-differentiation)
-* [Yo Dawg We Heard You Like Derivatives](https://jtobin.io/ad-via-recursion-schemes)
 * [確率的勾配降下法をadで実装してみた](http://qiita.com/lotz/items/9e2ae06925906e3c67b0)
 * [Not-o-matic Differentiation \| Volts, Sheaves, and Trees](https://ajknapp.github.io/2018/08/14/notomatic-differentiation.html)
+* [[1804.00746] The simple essence of automatic differentiation](https://arxiv.org/abs/1804.00746)
+* [Differentiating regions](http://conway.rutgers.edu/~ccshan/wiki/blog/posts/Differentiation/)
+
+### フォワードモード
+* [Automatic Differentiation is Trivial in Haskell - DanielBrice.net](http://www.danielbrice.net/blog/automatic-differentiation-is-trivial-in-haskell/)
+* [symbolic-expressions-can-be-automatically-differentiated](http://h2.jaguarpaw.co.uk/posts/symbolic-expressions-can-be-automatically-differentiated/)
+* [Yo Dawg We Heard You Like Derivatives](https://jtobin.io/ad-via-recursion-schemes)
+* [Symbolic Calculus in Haskell](http://5outh.blogspot.in/2013/05/symbolic-calculus-in-haskell.html)
+* [Automasymbolic Differentiation · jtobin.io](https://jtobin.io/automasymbolic-differentiation)
+* [Conal Elliott » Beautiful differentiation](http://conal.net/blog/posts/beautiful-differentiation)
+
+### リバースモード
+* [Computing symbolic gradient vectors with plain Haskell](http://blog.aloni.org/posts/symbolic-gradients-with-plain-haskell/)
+* [Reverse mode Automatic Differentiation](http://h2.jaguarpaw.co.uk/posts/reverse-mode-automatic-differentiation/)
 * [Reverse Mode Auto Differentiation is Kind of Like a Lens - Hey There Buddo!](http://www.philipzucker.com/reverse-mode-auto-differentiation-kind-like-lens/)
 * [Reverse Mode Differentiation is Kind of Like a Lens II - Hey There Buddo!](http://www.philipzucker.com/reverse-mode-differentiation-is-kind-of-like-a-lens-ii/)
-* [symbolic-expressions-can-be-automatically-differentiated](http://h2.jaguarpaw.co.uk/posts/symbolic-expressions-can-be-automatically-differentiated/)
-* [[1804.00746] The simple essence of automatic differentiation](https://arxiv.org/abs/1804.00746)
 
 ## Deep Learning
 * [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/)
