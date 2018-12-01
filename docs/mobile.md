@@ -89,6 +89,7 @@
 * [iOS and Template Haskell – zw3rk – Medium](https://medium.com/@zw3rk/ios-and-template-haskell-6305c105b354)
 * [MobileHaskell（iOS）](https://codetalk.io/posts/2018-02-07-Mobile-Haskell.html)
 * [nanotech/swift-haskell-tutorial: Integrating Haskell with Swift Mac Apps](https://github.com/nanotech/swift-haskell-tutorial)
+* [HaskellでHello Worldしてみました（Mobile Haskell/iOS) - Qiita](https://qiita.com/ken_hamada/items/0f4f305675d4cc397e36)
 
 ## Android
 * [Android](https://wiki.haskell.org/Android)
