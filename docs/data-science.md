@@ -152,9 +152,9 @@ instance Monad Dist where
 * [Symbolic Calculus in Haskell](http://5outh.blogspot.in/2013/05/symbolic-calculus-in-haskell.html)
 * [Automasymbolic Differentiation · jtobin.io](https://jtobin.io/automasymbolic-differentiation)
 * [Conal Elliott » Beautiful differentiation](http://conal.net/blog/posts/beautiful-differentiation)
+* [Computing symbolic gradient vectors with plain Haskell](http://blog.aloni.org/posts/symbolic-gradients-with-plain-haskell/)
 
 ### リバースモード
-* [Computing symbolic gradient vectors with plain Haskell](http://blog.aloni.org/posts/symbolic-gradients-with-plain-haskell/)
 * [Reverse mode Automatic Differentiation](http://h2.jaguarpaw.co.uk/posts/reverse-mode-automatic-differentiation/)
 * [Reverse Mode Auto Differentiation is Kind of Like a Lens - Hey There Buddo!](http://www.philipzucker.com/reverse-mode-auto-differentiation-kind-like-lens/)
 * [Reverse Mode Differentiation is Kind of Like a Lens II - Hey There Buddo!](http://www.philipzucker.com/reverse-mode-differentiation-is-kind-of-like-a-lens-ii/)
