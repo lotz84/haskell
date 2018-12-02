@@ -107,6 +107,7 @@
 * [Lamping's Abstract Algorithm](https://github.com/MaiaVictor/absal-ex)
 * [What the heck is Typeable !?](https://sras.me/haskell/what-the-heck-is-typeable.html)
 * [だれも Data.Maybe を教えてくれなかった - Qiita](https://qiita.com/mtsugawa/items/e410812567e8b5b1690c)
+* [A Very Simple Prime Sieve in Haskell - Donnacha Oisín Kidney](https://doisinkidney.com/posts/2018-11-10-a-very-simple-prime-sieve.html)
 
 ### ソート
 * [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
