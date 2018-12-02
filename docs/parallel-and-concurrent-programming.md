@@ -31,6 +31,7 @@
 * [Merritt Blog - Getting Started with OpenCL in Haskell](https://lancelet.github.io/posts/2017-12-26-opencl-helloworld.html)
 * [Introduction · Capataz](https://romanandreg.gitbooks.io/capataz/content/)
 * [マルチコアでスケールするようになったHaskell \| IIJの技術 \| インターネットイニシアティブ（IIJ）](https://www.iij.ad.jp/dev/tech/activities/haskell/)
+* [並列並行言語Haskell - Speaker Deck](https://speakerdeck.com/syocy/bing-lie-bing-xing-yan-yu-haskell)
 
 ## 並列
 * [monad-par](https://hackage.haskell.org/package/monad-par)
