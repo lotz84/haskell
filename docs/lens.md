@@ -67,6 +67,7 @@
 * [Well-Typed - The Haskell Consultants: Compositional zooming for <tt>StateT</tt> and <tt>ReaderT</tt> using <tt>lens</tt>](http://www.well-typed.com/blog/2018/09/compositional-zooming/)
 * [Lenses for philosophers – Jules Hedges](https://julesh.com/2018/08/16/lenses-for-philosophers/)
 * [A clear picture of lens laws —Functional Pearl—](http://research.nii.ac.jp/~hu/pub/mpc15.pdf)
+* [Lens By Example - Writing Traversals](https://lens-by-example.chrispenner.ca/articles/traversals/writing-traversals)
 
 > Thus the Yoneda embedding of the functor category leads to the van Laarhoven representation of the lens
 
