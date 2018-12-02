@@ -120,6 +120,7 @@ main = do
 ### Raft
 * [chrisnc/tangaroa](https://github.com/chrisnc/tangaroa)
 * [NicolasT/kontiki](https://github.com/NicolasT/kontiki) - An implementation of the Raft consensus protocol
+* [adjoint-io/raft: Raft Consensus Algorithm](https://github.com/adjoint-io/raft)
 
 ### Transient
 * [agocorona/transient](https://github.com/agocorona/transient)
