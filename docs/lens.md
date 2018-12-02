@@ -65,6 +65,8 @@
 * [Lenses embody Products, Prisms embody Sums · in Code](https://blog.jle.im/entry/lenses-products-prisms-sums.html)
 * [Haskell Lens Operator Onboarding – Urbint Engineering – Medium](https://medium.com/urbint-engineering/haskell-lens-operator-onboarding-a235481e8fac)
 * [Well-Typed - The Haskell Consultants: Compositional zooming for <tt>StateT</tt> and <tt>ReaderT</tt> using <tt>lens</tt>](http://www.well-typed.com/blog/2018/09/compositional-zooming/)
+* [Lenses for philosophers – Jules Hedges](https://julesh.com/2018/08/16/lenses-for-philosophers/)
+* [A clear picture of lens laws —Functional Pearl—](http://research.nii.ac.jp/~hu/pub/mpc15.pdf)
 
 > Thus the Yoneda embedding of the functor category leads to the van Laarhoven representation of the lens
 
