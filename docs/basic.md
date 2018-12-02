@@ -78,6 +78,7 @@ type a * b = (a, b)
 * [Zipper関連のパッケージ](http://d.hatena.ne.jp/debug-ito/20161016/1476587232)
 * [Zipperに挑む](https://qiita.com/Aruneko/items/dee20161358e7c39e27a)
 * [Derivatives of Containers](http://www.cs.le.ac.uk/people/mabbott/docs/derivative.pdf)
+* [Dan Ghica's Blog: Zippers for non-inductive types](http://danghica.blogspot.com/2018/11/zippers-for-non-inductive-types.html)
 
 ### カインド
 * [About kind system of Haskell (Part 1)](https://haskell.jp/blog/posts/2017/10-about-kind-system-part1.html)
