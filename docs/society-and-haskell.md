@@ -61,6 +61,7 @@
 * [ZuriHac 2016](https://www.youtube.com/playlist?list=PLSIUOFhnxEiCyRYbinK7Nv6ImUc4mzJGN)
 * [TNG Technology Consulting GmbH](https://www.youtube.com/channel/UCxaV-Pd-SZAgP-G1Mni47Hw)
 * [BayHac 2018 - YouTube](https://www.youtube.com/playlist?list=PL5lgjzYOvyYMvAEXok1tLpBBtOOlfBYIU)
+* [Haskell Day 2018 開催レポート - Haskell-jp](https://haskell.jp/blog/posts/2018/haskell-day-2018.html)
 
 ## Advent Calendar
 * 2016
