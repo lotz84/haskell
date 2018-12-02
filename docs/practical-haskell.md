@@ -25,6 +25,7 @@
 * [Bowl Full of Lentils](https://functional.works-hub.com/learn/bowl-full-of-lentils-fcbf3)
 * [Dhall to HLint: Using Dhall to generate HLint rules](https://kowainik.github.io/posts/2018-09-09-dhall-to-hlint.html)
 * [HaskellでDhallをExtensibleのレコードとして読み込めるようにする - Qiita](https://qiita.com/A_kirisaki/items/a72cb21be08c6dd7cf92)
+* [Dhall: Haskellの新たなキラーアプリ - Speaker Deck](https://speakerdeck.com/syocy/dhall-haskellfalsexin-tanakiraapuri)
 
 ## Preludeを置き換える
 ### Preludeの問題点
