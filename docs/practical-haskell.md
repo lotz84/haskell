@@ -371,6 +371,7 @@ Stack開発の知見が集められたライブラリ
   * [Domain Modelling with Haskell: Factoring Out Recursion | Haskell at Work](https://haskell-at-work.com/episodes/2018-02-11-domain-modelling-with-haskell-factoring-out-recursion.html)
 * [Three Layer Haskell Cake](http://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html)
 * [thma/LtuPatternFactory: Lambda the ultimate Pattern Factory: FP, Haskell, Typeclassopedia vs Software Design Patterns](https://github.com/thma/LtuPatternFactory)
+* [Haskellの新世代フレームワーク Tonatona - Qiita](https://qiita.com/arowM/items/14169b412a7de8a0d514)
 
 ## Dependency Injection
 * [HaskellでDIする - The curse of λ](https://myuon.github.io/posts/haskell-di/)
