@@ -139,6 +139,7 @@ uncurry :: (a -> b -> c) -> (a, b) -> c
 * [fixpt - All About Strictness Analysis (part 1)](http://fixpt.de/blog/2017-12-04-strictness-analysis-part-1.html)
 * [Thinking Functionally with Haskell勉強メモ: 第７章１　メモリ、計算量、`seq` - Arantium Maestum](http://zehnpaard.hatenablog.com/entry/2018/04/01/065836)
 * [正格性のすべて (翻訳)](https://haskell.e-bigmoon.com/posts/2018/06-25-all-about-strictness)
+* [Laziness Quiz](https://www.parsonsmatt.org/2018/12/04/laziness_quiz.html)
 
 > One very interesting comparison is that lazy evaluation is to the CPU what garbage collection is to memory.
 
