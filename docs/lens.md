@@ -68,6 +68,10 @@
 * [Lenses for philosophers – Jules Hedges](https://julesh.com/2018/08/16/lenses-for-philosophers/)
 * [A clear picture of lens laws —Functional Pearl—](http://research.nii.ac.jp/~hu/pub/mpc15.pdf)
 * [Lens By Example - Writing Traversals](https://lens-by-example.chrispenner.ca/articles/traversals/writing-traversals)
+* [Yoneda](https://gist.github.com/Icelandjack/aecf49b75afcfcee9ead29d27cc234d5)
+* [Yoneda Intuition from Humble Beginnings](https://gist.github.com/Icelandjack/02069708bc75f4284ac625cd0e2ec81f)
+* [Functional Works - Yo, Yoneda!](https://functional.works-hub.com/learn/yo-yoneda-a2965)
+* [What You Needa Know about Yoneda](https://www.cs.ox.ac.uk/jeremy.gibbons/publications/proyo.pdf)
 
 > Thus the Yoneda embedding of the functor category leads to the van Laarhoven representation of the lens
 
