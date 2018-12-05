@@ -215,6 +215,7 @@
 * [いつからHaskellの5行クイックソートが遅いと錯覚していた？ - Qiita](https://qiita.com/as_capabl/items/39e55e7a035dea4dc93a)
 * [Monadic List Functions - Donnacha Oisín Kidney](http://doisinkidney.com/posts/2018-02-11-monadic-list.functions.html)
 * [groupBy - Donnacha Oisín Kidney](http://doisinkidney.com/posts/2018-01-07-groupBy.html)
+* [My favorite Haskell function](https://github.com/quchen/articles/blob/master/2018-11-22_zipWith_const.md)
 
 ### 配列
 * [The vector package](https://hackage.haskell.org/package/vector)
