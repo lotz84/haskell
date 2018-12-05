@@ -101,6 +101,7 @@
 * [Verified AVL Trees in Haskell and Agda - Donnacha Oisín Kidney](https://doisinkidney.com/posts/2018-07-30-verified-avl.html)
 * [Typesafe Versioned APIs](https://chrispenner.ca/posts/typesafe-api-versioning)
 * [jaspervdj - Dependent Types in Haskell: Binomial Heaps 101](https://jaspervdj.be/posts/2018-09-04-binomial-heaps-101.html)
+* [Existential quantification](https://markkarpov.com/post/existential-quantification.html)
 
 ```haskell
 data Bottom
