@@ -17,6 +17,7 @@
 * [Haskellや周辺ツールについてのリンク集 - Qiita](https://qiita.com/ogata-k/items/23d70250ec42359b6bb5)
 * [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
 * [Haskell package checklist \| Write better Haskell packages](http://taylor.fausak.me/haskell-package-checklist/)
+* [Haskell Bazaar](https://www.haskellbazaar.com/#/)
 
 ## Dhall
 * [Dhallによるリッチな設定ファイル体験](http://syocy.hatenablog.com/entry/2018/07/14/195255)
