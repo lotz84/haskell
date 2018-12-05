@@ -20,6 +20,7 @@
 * [Haskellの採用とユーザ満足度が向上](https://www.infoq.com/jp/news/2018/07/haskell-user-survey-2018#)
 * [YOW! Lambda Jam 2018 - Ryan Trinkle - Full-Stack Haskell, from Prototype to Production : haskell](https://www.reddit.com/r/haskell/comments/91z4ty/yow_lambda_jam_2018_ryan_trinkle_fullstack/)
 * [Haskell in production: A GHC upgrade success story \| ITProTV](https://engineering.itpro.tv/2018/09/28/haskell-in-production-a-ghc-upgrade-success-story/)
+* [2018 state of Haskell survey results · taylor.fausak.me](https://taylor.fausak.me/2018/11/18/2018-state-of-haskell-survey-results/#question-077)
 
 ## コミュニティ
 * [Haskell Communities and Activities Report](https://wiki.haskell.org/Haskell_Communities_and_Activities_Report)
