@@ -1,4 +1,5 @@
 * [型システム入門 −プログラミング言語と型の理論](http://www.amazon.co.jp/dp/4274069117)
+* [From Type Theory to Haskell in 10 Minutes](https://www.stackbuilders.com/news/from-type-theory-to-haskell-in-10-minutes)
 * [THE TYPE THEORY PODCAST](http://typetheorypodcast.com/)
 * [Making Sense of Subtypes](http://languagengine.co/blog/making-sense-of-subtypes/)
 * [Propositions as Types](http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf)
