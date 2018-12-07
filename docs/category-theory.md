@@ -80,3 +80,4 @@
 * [[1803.05316] Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/abs/1803.05316)
   * [Applied Category Theory – Online Course | Azimuth](https://johncarlosbaez.wordpress.com/2018/03/26/seven-sketches-in-compositionality/)
 * [[1803.05316] Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/abs/1803.05316)
+* [アプリカティブ関手ってなに？モノイド圏との関係は？調べてみました！ \| 雑記帳](https://blog.miz-ar.info/2018/12/applicative-functor/)
