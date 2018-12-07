@@ -175,6 +175,7 @@ instance Monad Dist where
 * [Generating Simple Haskell Programs With Deep Learning](http://www.samcoope.com/posts/deep_code_generation)
 * [GU-CLASP/TypedFlow](https://github.com/GU-CLASP/TypedFlow) - Typed frontend to TensorFlow and higher-order deep learning
 * [pfnet-research/menoh-haskell: Haskell binding for Menoh DNN inference library](https://github.com/pfnet-research/menoh-haskell)
+* [hasktorch/hasktorch: Tensors and neural networks in Haskell](https://github.com/hasktorch/hasktorch)
 
 ### Neural Network
 * [jbarrow/LambdaNet](https://github.com/jbarrow/LambdaNet)
