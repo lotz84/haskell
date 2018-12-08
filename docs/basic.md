@@ -44,6 +44,7 @@
 * [「混ぜられない数」をHaskell/GHCの型を使って手軽につくる - Qiita](https://qiita.com/takenobu-hs/items/14101cabf313e6d594ca)
 * [Keep your types small...](http://www.parsonsmatt.org/2018/10/02/small_types.html)
 * [だれも Data.Maybe を教えてくれなかった - Qiita](https://qiita.com/mtsugawa/items/e410812567e8b5b1690c)
+* [意外と知らないType defaulting - Qiita](https://qiita.com/takoeight0821/items/6cf286bf29479698e977)
 
 ### 代数的データ型
 代数的データ型とは"足し算"と"掛け算"が出来るような型のこと。"足し算"と"掛け算"はそれぞれ**直和**, **直積** と呼ばれる。
