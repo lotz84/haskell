@@ -180,6 +180,7 @@
 * [vincenthz/hs-gauge: criterion fork on a diet](https://github.com/vincenthz/hs-gauge)
 * [Haskell のパフォーマンスをデバッグする](https://haskell.e-bigmoon.com/posts/2017-12-27-haskell-performance-debugging)
 * [Fūzetsu's Corner - GHC can output profiling information as JSON and you should use it.](http://fuuzetsu.co.uk/blog/posts/2018-03-02-GHC-can-output-profiles-in-JSON-format.html)
+* [Compact Regionsについて軽く - Qiita](https://qiita.com/ruicc/items/c955e794c5dc74c4cb58)
 
 ### スペースリーク
 * [GHC とスペースとリーク](http://d.hatena.ne.jp/kazu-yamamoto/20151217)
