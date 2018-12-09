@@ -79,9 +79,6 @@
 
 * [[1809.00738] Categories of Optics](https://arxiv.org/abs/1809.00738)
 
-### CPS Lens
-* [My new lens idea](http://lpaste.net/128137)
-
 ### Lens Libraries
 * [yaml-light-lens](https://hackage.haskell.org/package/yaml-light-lens)
 
