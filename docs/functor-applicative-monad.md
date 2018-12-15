@@ -302,7 +302,6 @@ instance Monad (State s) where
 * [Stateモナドによる逆ポーランド記法の処理](http://qiita.com/7shi/items/0494704d00396687458f)
 * [Stateモナドによる中置記法の処理](http://qiita.com/7shi/items/ee5afe4f088f0a1fc8c2)
 * [Haskellでスタックを利用した加減乗除の計算機を作ってみる](http://kzfm.github.io/laskell/stackCalc.html)
-* [逆Stateモナド](http://qiita.com/hiyakashi_/items/afee12104237e0ae2161)
 * [Haskell has no state monad](http://www.cse.chalmers.se/)
 * [Stateモナドが便利に使えた！](http://qiita.com/lotz/items/503ef04b03433d29f77c)
 * [How does the State monad work?](http://yawar.blogspot.ca/2015/12/how-does-state-monad-work.html)
