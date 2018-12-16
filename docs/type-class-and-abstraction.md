@@ -24,7 +24,7 @@ instance Show Bool where
 これで`Bool`型はShowのインスタンスになる。
 例えば`print :: Show a => a -> IO ()`の型`a`にはShowのインスタンスであれば何でも使うことが出来る。
 
-* [How to make ad-hoc polymorphism less ad-hoc](http://people.csail.mit.edu/dnj/teaching/6898/papers/wadler88.pdf)
+* [邦訳： How to make ad-hoc polymorphism less ad hoc](https://uhideyuki.sakura.ne.jp/studs/index.cgi/ja/wadler88_ja)
 * [型クラスはインターフェースとどう違うのか \| プログラミング \| POSTD](http://postd.cc/how_do_type_classes_differ_from_interfaces/)
 * [Haskell/Classes and types](https://en.wikibooks.org/wiki/Haskell/Classes_and_types)
 * [The Typeclassopediaを訳しました](http://snak.tdiary.net/20091020.html)
