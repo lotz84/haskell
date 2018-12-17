@@ -449,6 +449,7 @@ Web Application Framework
 * [Haskell・Servant+Persistent/Esqueletoで作る実用WebAPI (9) API戻り値の型 - Qiita](https://qiita.com/cyclone_t/items/217ff1a68de031e338b5)
 * [Haskell・Servant+Persistent/Esqueletoで作る実用WebAPI (10) API入力値の扱い - Qiita](https://qiita.com/cyclone_t/items/692ffe72d03636fd8de7)
 * [Haskell・Servant+Persistent/Esqueletoで作る実用WebAPI (11) Esqueleto:selectの基本 - Qiita](https://qiita.com/cyclone_t/items/cb492e53ad71a56ae321)
+* [Haskell・Servant+Persistent/Esqueletoで作る実用WebAPI (13) Esqueleto:INNER JOINを使ったSELECT](https://qiita.com/cyclone_t/items/31b249621aa176a2d52d)
 * [Haskell・Servant+Persistent/Esqueletoで作る実用WebAPI (番外編・1) Haskellで作ってみるアプリの題材は？ - Qiita](https://qiita.com/cyclone_t/items/d5d3c63c4d1caabf056d)
 * [slack-api + bloodhound + servant でbot+αを作る](http://blog.nakaji.me/slack-api-bloodhound-servant/)
 * [Queensland FP Lab - Nested routes in servant](https://qfpl.io/posts/nested-routes-in-servant/)
