@@ -172,3 +172,4 @@ class Functor g => Distributive g where
 * [Fixpoints in Haskell – Chris Smith – Medium](https://medium.com/@cdsmithus/fixpoints-in-haskell-294096a9fc10)
 * [Haskell at Barclays: Exotic tools for exotic trades](http://www.timphilipwilliams.com/slides/HaskellAtBarclays.pdf)
 * [Don't fear the cat-amorphism (nor the hylomorphism)](http://fho.f12n.de/posts/2014-05-07-dont-fear-the-cat.html)
+* [ASTのための高階代数を元にした recursion schemes - Qiita](https://qiita.com/Mizunashi_Mana/items/d73162057ff276a3238a)
