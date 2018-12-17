@@ -470,3 +470,5 @@ Stack開発の知見が集められたライブラリ
 * [Redis Data Modeling with Rank 2 Types](https://identicalsnowflake.github.io/Rank2Modeling.html)
 * [Coercions and Roles for Dummies :: Reasonably Polymorphic](http://reasonablypolymorphic.com/blog/roles/)
 * [Some History of Functional Programming Languages](https://www.cs.kent.ac.uk/people/staff/dat/tfp12/tfp12.pdf)
+* [Haskellでオンラインジャッジに取り組むときの入出力（前編：標準入力の受け方）](https://qiita.com/TTsurutani/items/26220ac2c184de774658)
+* [Haskellでオンラインジャッジに取り組むときの入出力（後編：標準出力への出し方）](https://qiita.com/TTsurutani/items/42c5a1e00ef8036e8fcc)
