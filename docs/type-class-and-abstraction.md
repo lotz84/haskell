@@ -105,6 +105,7 @@ instance Show Bool where
 * [Monoidal Sorting](https://chrispenner.ca/posts/monoid-sort)
 * [Comprehending Monoids with Class](https://lptk.github.io/programming/2018/10/04/comprehending-monoids-with-class.html)
 * [Monoid と DerivingVia - Qiita](https://qiita.com/waddlaw/items/f349bd363963d59e9ef5)
+* [United Monoids \| no time](https://blogs.ncl.ac.uk/andreymokhov/united-monoids/)
 
 > lists are not free monoids in Haskell.
 
