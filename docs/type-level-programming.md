@@ -103,6 +103,7 @@
 * [jaspervdj - Dependent Types in Haskell: Binomial Heaps 101](https://jaspervdj.be/posts/2018-09-04-binomial-heaps-101.html)
 * [Existential quantification](https://markkarpov.com/post/existential-quantification.html)
 * [Parsing type-level strings in Haskell](https://kcsongor.github.io/symbol-parsing-haskell/)
+* [RankNTypes と型レベルリストと extensible - Qiita](https://qiita.com/waddlaw/items/b49e9daa02b2d254fba3)
 
 ```haskell
 data Bottom
