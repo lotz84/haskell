@@ -270,6 +270,7 @@
 * [snowleopard/alga: Algebraic graphs](https://github.com/snowleopard/alga)
 * [Functional programming with graphs](https://futtetennismo.me/posts/algorithms-and-data-structures/2017-12-08-functional-graphs.html)
 * [グラフ代数 \| POSTD](https://postd.cc/an-algebra-of-graphs/)
+* [[論文/ライブラリ紹介] Algebraic graphs with class (functional pearl) - Qiita](https://qiita.com/maton/items/f4cd308b1c389661d1e9)
 
 ### Time
 * [A Haskell Time Library Tutorial](http://two-wrongs.com/haskell-time-library-tutorial)
