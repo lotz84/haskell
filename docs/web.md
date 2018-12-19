@@ -602,3 +602,4 @@ Others
 * [Dokku環境を構築してHaskellのアプリケーションをデプロイする - Qiita](https://qiita.com/yukiasai/items/248294a871d40c0dcef6)
 * [お天気Bot で理解する Haskell の便利パッケージ - Qiita](https://qiita.com/rounddelta/items/807866bdaa81c3057ac0)
 * [On anonymous networking in Haskell: announcing Tor and I2P for Haskell](https://leonmergen.com/on-anonymous-networking-in-haskell-announcing-tor-and-i2p-for-haskell-f1e30f52294f)
+* [Getting Started with the Haskell AWS Lambda Runtime](https://medium.com/the-theam-journey/getting-started-with-the-haskell-aws-lambda-runtime-951b2322c7a3)
