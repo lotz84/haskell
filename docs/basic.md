@@ -95,6 +95,7 @@ type a * b = (a, b)
 * [map関数](http://qiita.com/knknkn1162/items/92de8dd250ff94cd86f1)
 * [zudov/24-days-of-syntactic-witchery: Aligning characters for fun and profit, with Haskell and PureScript](https://github.com/zudov/24-days-of-syntactic-witchery)
 * [美術の人が考える Haskell - Qiita](https://qiita.com/hitsujisanmeme/items/e14972cfd349c1149d58)
+* [Haskellの($)と(.)の違い - Qiita](https://qiita.com/TTsurutani/items/201200c1f288b0d03e78)
 
 ### パターンマッチ
 * [Pattern matching](http://mbps.hatenablog.com/entry/2014/10/04/010000)
