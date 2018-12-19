@@ -40,6 +40,7 @@
 * [Code Generation with llvm-hs by Stephen Diehl : haskell](https://www.reddit.com/r/haskell/comments/8trfl7/code_generation_with_llvmhs_by_stephen_diehl/)
 * [Email message parsing in Haskell in 2018](https://gist.github.com/chrisdone/47a9e22672b54dedc87dec8b415e8127)
 * [Haskell Works Blog - Introduction to SIMD with linecount](https://haskell-works.github.io/posts/2018-09-03-simd-with-linecount.html)
+* [Haskell の Fixity Resolution を試してみる - Qiita](https://qiita.com/wgag/items/2967ea6994832d2232f8)
 
 ## 正規表現
 * [関数型的正規表現マッチ](https://research.preferred.jp/2010/11/regexp-play/)
