@@ -203,6 +203,7 @@ circum (Circle _ _ r) = …
 * [Djinn](http://www.hedonisticlearning.com/djinn/)
 
 ## Dependent Types
+* [Why Dependent Haskell is the Future of Software Development - Serokell](https://serokell.io/blog/2018/12/17/why-dependent-haskell)
 * [実世界を扱う依存型プログラミングのたぶん基本～外界から安全な世界までの道](http://notogawa.hatenablog.com/entry/2016/10/20/001812)
 * [Dependent Types](https://cubeoflambda.wordpress.com/2011/12/03/dependent-types/)
 * [Fixed-Length Vector Types in Haskell, 2015](http://blog.jle.im/entry/fixed-length-vector-types-in-haskell-2015)
