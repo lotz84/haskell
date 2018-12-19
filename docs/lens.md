@@ -72,6 +72,7 @@
 * [Yoneda Intuition from Humble Beginnings](https://gist.github.com/Icelandjack/02069708bc75f4284ac625cd0e2ec81f)
 * [Functional Works - Yo, Yoneda!](https://functional.works-hub.com/learn/yo-yoneda-a2965)
 * [What You Needa Know about Yoneda](https://www.cs.ox.ac.uk/jeremy.gibbons/publications/proyo.pdf)
+* [Oleg's gists - Finding correct (lens) laws](http://oleg.fi/gists/posts/2018-12-12-find-correct-laws.html)
 
 > Thus the Yoneda embedding of the functor category leads to the van Laarhoven representation of the lens
 
