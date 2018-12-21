@@ -69,14 +69,7 @@ parse = evalStateT
 ```
 
 * [The parsec package](https://hackage.haskell.org/package/parsec)
-* [Megaparsec](https://mrkkrp.github.io/megaparsec/)
-  * [Tutorials](https://mrkkrp.github.io/megaparsec/tutorials.html)
-  * [Announcing Megaparsec 5](https://mrkkrp.github.io/posts/announcing-megaparsec-5.html)
-  * [Latest additions to Megaparsec](https://mrkkrp.github.io/posts/latest-additions-to-megaparsec.html)
-  * [Beginner's guide to Megaparsec](http://akashagrawal.me/beginners-guide-to-megaparsec/)
-* [The attoparsec package](http://hackage.haskell.org/package/attoparsec)
 * [[ANN] binary-parsers 0.1.0.0](https://www.reddit.com/r/haskell/comments/53m6cc/ann_binaryparsers_0100/)
-* [The trifecta package](https://hackage.haskell.org/package/trifecta)
 * [The parsers package](http://hackage.haskell.org/package/parsers)
 * [モナディック・パーサー](http://d.hatena.ne.jp/kazu-yamamoto/20080920/1221881130)
 * [構文解析器結合子](https://www.ipsj.or.jp/07editj/promenade/4702.pdf)
@@ -95,7 +88,6 @@ parse = evalStateT
 * [High-performance Log Parsing in Haskell: Part Two](https://www.safaribooksonline.com/blog/2015/12/14/high-performance-log-parsing-in-haskell-part-two/)
 * [Parser Combinators: Parsing for Haskell Beginners](http://two-wrongs.com/parser-combinators-parsing-for-haskell-beginners)
 * [What's in a parser combinator?](http://remusao.github.io/whats-in-a-parser-combinator.html)
-* [Megaparsec 4 and 5](https://mrkkrp.github.io/posts/megaparsec-4-and-5.html)
 * [OpenFlowの可変長フィールドをAttoparsecで解析する](http://qiita.com/ilyaletre/items/b0e77aeb67914aec60be)
 * [Parser Combinators](http://athiemann.net/2016/05/27/parser-combinators.html)
 * [えっ!?　１時間でオリジナルのプログラミング言語の開発を構文解析から!?](http://qiita.com/hiruberuto/items/160fe92376e795168acd)
@@ -106,6 +98,21 @@ parse = evalStateT
 * [Monoidal Parsing—Edward Kmett](https://www.youtube.com/watch?v=Txf7swrcLYs)
 * [パーサー結合子：ハスケル初心者のための解析](https://two-wrongs.com/parser-combinators-parsing-for-haskell-beginners.html)
 * [Parsing list comprehensions is hard](http://www.rntz.net/post/2018-07-10-parsing-list-comprehensions.html)
+
+### attoparsec
+* [The attoparsec package](http://hackage.haskell.org/package/attoparsec)
+
+### Megaparsec
+* [Megaparsec](https://mrkkrp.github.io/megaparsec/)
+  * [Tutorials](https://mrkkrp.github.io/megaparsec/tutorials.html)
+  * [Announcing Megaparsec 5](https://mrkkrp.github.io/posts/announcing-megaparsec-5.html)
+  * [Latest additions to Megaparsec](https://mrkkrp.github.io/posts/latest-additions-to-megaparsec.html)
+  * [Beginner's guide to Megaparsec](http://akashagrawal.me/beginners-guide-to-megaparsec/)
+* [Megaparsec 4 and 5](https://mrkkrp.github.io/posts/megaparsec-4-and-5.html)
+
+### Terifecta
+* [The trifecta package](https://hackage.haskell.org/package/trifecta)
+* [Trifecta で拡張可能パーサを作る - Qiita](https://qiita.com/Mizunashi_Mana/items/064531eb4aeacb5a7c63)
 
 ### Language
 * [Hackage Search: language](https://hackage.haskell.org/packages/search?terms=language)
