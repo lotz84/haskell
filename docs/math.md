@@ -31,6 +31,7 @@
 * [代数的視点からの論理へのアプローチ](http://www.jaist.ac.jp/~mizuhito/ppl_ss07/OHP/msj07.pdf)
 * [東京大学数理科学研究科「数学基礎論・数理科学続論D」の講義資料](http://researchmap.jp/mur789p4c-121/)
 * [Understanding Constructive Galois Connections](http://prl.ccs.neu.edu/blog/2016/11/16/understanding-constructive-galois-connections/)
+* [Classical Logic in Haskell - SAOWEN](https://hk.saowen.com/a/1df28680b9dedfb78b3fd547639d1edc0657c838cc79381dac82ceac8fdf97cf)
 
 ## 代数
 * [「代数学入門」入門としての普遍代数学](http://www.kurims.kyoto-u.ac.jp/~terui/koukai2018c.pdf)
