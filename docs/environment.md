@@ -111,6 +111,7 @@ $ brew install haskell-stack
 * [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures
 * [[Haskell] [ANN] HyperHaskell -- the strongly hyped Haskell	interpreter](https://mail.haskell.org/pipermail/haskell/2016-October/025010.html)
 * [ghcid for the win!](http://www.parsonsmatt.org/2018/05/19/ghcid_for_the_win.html)
+* [kazu-yamamoto/hhp: Happy Haskell Programming](https://github.com/kazu-yamamoto/hhp)
 
 ## Formatter/Linter
 * [Haskellの静的解析ツール HLint を使おう](http://qiita.com/suzuki-hoge/items/6d101e523620178c6f7b)
