@@ -110,6 +110,7 @@
 * [GHC Commentary: The Layout of Heap Objects](https://ghc.haskell.org/trac/ghc/wiki/Commentary/Rts/Storage/HeapObjects)
 * [mpickering - Plugins](http://mpickering.github.io/plugins.html)
 * [GHC Source Plugin 作ってみた - Qiita](https://qiita.com/waddlaw/items/65b57517f105fcbbe724)
+* [GHC 8.x 勉強会に行ってきた](https://matsubara0507.github.io/posts/2018-12-18-ghc8x.html)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
