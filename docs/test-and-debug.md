@@ -142,3 +142,4 @@ Passed:
 * [Typed-Holes and Valid Hole Fits \| Octopi](https://octopi.chalmers.se/2018/11/08/typed-holes/)
 * [Moving Towards Dialogue - Vaibhav Sagar](https://vaibhavsagar.com/blog/2018/11/03/moving-towards-dialogue/index.html)
 * [Detecting the undetectable: custom type errors for stuck type families – ( )](https://kcsongor.github.io/report-stuck-families/)
+* [Valid Hole Fits](https://wataru86.github.io/slides/vhs/)
