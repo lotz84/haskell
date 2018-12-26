@@ -300,6 +300,7 @@ Stack開発の知見が集められたライブラリ
 * [Almost Inline ASM in Haskell With Foreign Import Prim - Brandon.Si(mmons)](http://brandon.si/code/almost-inline-asm-in-haskell-with-foreign-import-prim/)
 * [HaskellからRubyを使う - メソッド呼び出し - Qiita](https://qiita.com/nwtgck/items/52a516ca99d27415c74d)
 * [GHC 8.2 以前で FFI を使う際に注意すること - Qiita](https://qiita.com/thimura/items/0d289c231f9aceac61dc)
+* [libdw で遊ぶ - Qiita](https://qiita.com/thimura/items/632be5385fc7eb1ef4bf)
 
 ## JVM
 * [A new ecosystem for Haskell: the JVM](http://blog.tweag.io/posts/2016-10-17-inline-java.html)
