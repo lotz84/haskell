@@ -214,6 +214,7 @@ class Monad m where
 * [Dan Ghica's Blog: Haskell: If monads are the solution, what is the problem?](http://danghica.blogspot.com/2018/07/haskell-if-monads-are-solution-what-is.html)
 * [[Haskell] 爆速でモナドを理解する - Qiita](https://qiita.com/tezca686/items/73d135e372d547ad7266)
 * [HaskellのMonadお気持ちチュートリアル - Qiita](https://qiita.com/Mizunashi_Mana/items/74be5bf4da078e8246d0)
+* [二分木をモナドにする - Qiita](https://qiita.com/cutsea110/items/b99b20cfc10dfbeca24b)
 
 ```haskell
 do x <- mx
