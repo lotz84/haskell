@@ -98,6 +98,7 @@ parse = evalStateT
 * [Monoidal Parsing—Edward Kmett](https://www.youtube.com/watch?v=Txf7swrcLYs)
 * [パーサー結合子：ハスケル初心者のための解析](https://two-wrongs.com/parser-combinators-parsing-for-haskell-beginners.html)
 * [Parsing list comprehensions is hard](http://www.rntz.net/post/2018-07-10-parsing-list-comprehensions.html)
+* [「正規表現はあんまり使わないかな。パーサー使うから」っていう人の気持ちがわかった！ - Qiita](https://qiita.com/aiya000/items/82f432a4b19c60561c01)
 
 ### attoparsec
 * [The attoparsec package](http://hackage.haskell.org/package/attoparsec)
