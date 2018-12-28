@@ -111,6 +111,7 @@
 * [mpickering - Plugins](http://mpickering.github.io/plugins.html)
 * [GHC Source Plugin 作ってみた - Qiita](https://qiita.com/waddlaw/items/65b57517f105fcbbe724)
 * [GHC 8.x 勉強会に行ってきた](https://matsubara0507.github.io/posts/2018-12-18-ghc8x.html)
+* [‪Type Theory Behind Glasgow Haskell Compiler Internals : haskell](https://www.reddit.com/r/haskell/comments/a89q1r/type_theory_behind_glasgow_haskell_compiler/)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
