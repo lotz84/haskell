@@ -45,6 +45,8 @@
 * [hip Haskell package - Graphics \| LibHunt](https://haskell.libhunt.com/project/hip-git)
 * [Beginner’s Haskell: Creating Bitmap Images - The Mendo Zone](https://mendo.zone/fun/beginners-haskell-bitmap-images/)
 * [Realistic Single-Server Raster Processing](https://www.fosskers.ca/blog/mapalgebra-en.html)
+* [Juicy Draw](https://blog.rcook.org/blog/2018/juicy-draw/)
+* [Xiaolin Wu’s fast antialiased line drawing algorithm in Haskell](https://blog.rcook.org/blog/2018/xiaolin-wu-algorithm/)
 
 ## GUI
 * [fltkhs](http://hackage.haskell.org/package/fltkhs)
