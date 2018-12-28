@@ -112,6 +112,8 @@
 * [Solving Planning Problems with Fast Downward and Haskell](https://ocharles.org.uk/blog/posts/2018-12-25-fast-downward.html)
 * [Do disturb me \| The Essence of Datalog](https://dodisturb.me/posts/2018-12-25-The-Essence-of-Datalog.html)
 * [郵便番号データのつくりかた - Qiita](https://qiita.com/yhosok/items/bb7fa9ff0254d20ad279)
+* [合成数列の和 in Haskell - Qiita](https://qiita.com/jkr_2255/items/02cfb1b644dda294b5ff)
+* [Elias-Fano encoding: 単調増加する数列をほぼ簡潔に表現する - モナドとわたしとコモナド](http://fumieval.hatenablog.com/entry/2018/12/21/201108)
 
 ### ソート
 * [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
