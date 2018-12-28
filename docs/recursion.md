@@ -174,3 +174,5 @@ class Functor g => Distributive g where
 * [Don't fear the cat-amorphism (nor the hylomorphism)](http://fho.f12n.de/posts/2014-05-07-dont-fear-the-cat.html)
 * [ASTのための高階代数を元にした recursion schemes - Qiita](https://qiita.com/Mizunashi_Mana/items/d73162057ff276a3238a)
 * [Recursion Schemes By Example](https://recursion-schemes-by-example.chrispenner.ca/articles/recursive/basic-catamorphisms)
+* [Peeling the Banana: Recursion Schemes from First Principles - Zainab Ali : haskell](https://www.reddit.com/r/haskell/comments/a8ee31/peeling_the_banana_recursion_schemes_from_first/)
+* [Transforming Real-World Languages with Coproducts and Recursion Schemes [video] : haskell](https://www.reddit.com/r/haskell/comments/a8edjc/transforming_realworld_languages_with_coproducts/)
