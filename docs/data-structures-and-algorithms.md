@@ -110,6 +110,7 @@
 * [A Very Simple Prime Sieve in Haskell - Donnacha Oisín Kidney](https://doisinkidney.com/posts/2018-11-10-a-very-simple-prime-sieve.html)
 * [HaskellでDammアルゴリズムを実装する - Qiita](https://qiita.com/cyclone_t/items/e277417fdada1dd81f44)
 * [Solving Planning Problems with Fast Downward and Haskell](https://ocharles.org.uk/blog/posts/2018-12-25-fast-downward.html)
+* [Do disturb me \| The Essence of Datalog](https://dodisturb.me/posts/2018-12-25-The-Essence-of-Datalog.html)
 
 ### ソート
 * [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
