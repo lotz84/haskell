@@ -230,6 +230,7 @@ Stack開発の知見が集められたライブラリ
 * [Haskell on Docker で Portable CLI を作ろう - Qiita](https://qiita.com/algas/items/fde155abbc9d8ae3f8c9)
 * [HaskellでもGoみたいにシングルバイナリでアプリケーションをデプロイしたい - Qiita](https://qiita.com/t10471/items/4afa598e1be5d6c7cc1f)
 * [Haskell のアプリケーション向けに軽量の Dockerイメージ を作る (和訳) - Qiita](https://qiita.com/rounddelta/items/d767f36d544427a9c60d)
+* [HaskellとstackとDockerと - Qiita](https://qiita.com/A_kirisaki/items/0f4a51a02934709124c4)
 
 ## CI
 * [Shake](http://shakebuild.com/)
