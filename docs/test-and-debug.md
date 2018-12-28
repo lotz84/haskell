@@ -125,6 +125,7 @@ Passed:
 * [2.5. GHCiデバッガ](http://www.kotha.net/ghcguide_ja/latest/ghci-debugger.html)
 * [criterion](http://hackage.haskell.org/package/criterion)
 * [A criterion tutorial](http://www.serpentine.com/criterion/tutorial.html)
+* [Tweag I/O - DIY benchmark history with Criterion and Shiny](https://www.tweag.io/posts/2018-12-12-benchgraph.html)
 * [Perf for low-level profiling](https://www.fpcomplete.com/user/bitonic/perf-for-low-level-profiling)
 * [Control.Exception.Base (assert)](http://hackage.haskell.org/package/base-4.8.1.0/docs/Control-Exception-Base.html#v:assert)
 * [【Haskell】Debug.Traceとプロファイリングで幸せなデバッグ生活](http://yu-i9.hatenablog.com/entry/2014/09/04/000000)
