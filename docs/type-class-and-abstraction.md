@@ -80,6 +80,7 @@ instance Show Bool where
 * [Algorithmically Scrapping Your Typeclasses :: Reasonably Polymorphic](http://reasonablypolymorphic.com/blog/algorithmic-sytc/)
 * [Haskellの関数に等価性を定義したい！ - Qiita](https://qiita.com/nwtgck/items/8371855594e6e1b2aca6)
 * [Improving Typeclass Relations by Being Open](https://www.fceia.unr.edu.ar/~mauro/pubs/cm-conf.pdf)
+* [Fluent Polymorphism with Visible Type Applications](https://blog.sumtypeofway.com/fluent-polymorphism-with-visible-type-applications/)
 
 ## 代数的な型クラス
 * [tower](https://tonyday567.github.io/tower/index.html)
