@@ -385,6 +385,7 @@ Reader + Writer + State
 * [What is indexed monad?](http://stackoverflow.com/questions/28690448/what-is-indexed-monad)
 * [Indexed Monadの世界](http://fumieval.hatenablog.com/entry/2013/05/04/144840)
 * [Motor: Finite-State Machines in Haskell \| Func Da World](https://wickstrom.tech/programming/2017/10/27/motor-finite-state-machines-haskell.html)
+* [モナドの新しい力！スーパープリキュアモナド！ ～タイプセーフプリキュア！を支える技術 その4～](https://haskell.jp/blog/posts/2018/super-precure-monad.html)
 
 ### Super Monad
 * [スーパーモナドについて - Qiita](https://qiita.com/wgag/items/11a6e667011d530832e8)
