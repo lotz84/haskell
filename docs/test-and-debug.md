@@ -72,6 +72,7 @@
 * [Keep Your Laziness in Check](http://very.science/pdf/StrictCheck_arxiv.pdf)
 * [Queensland FP Lab - Introduction to state machine testing: part 1](http://qfpl.io/posts/intro-to-state-machine-testing-1/)
 * [Queensland FP Lab - Introduction to state machine testing: part 2](http://qfpl.io/posts/intro-to-state-machine-testing-2/)
+* [Philip Cunningham - Testing distributed-process Apps Using Hspec](https://filib.io/posts/2018-12-24-testing-distributed-process-apps-with-hspec.html)
 
 ### QuickCheck
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
