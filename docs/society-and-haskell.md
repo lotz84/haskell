@@ -22,6 +22,7 @@
 * [Haskell in production: A GHC upgrade success story \| ITProTV](https://engineering.itpro.tv/2018/09/28/haskell-in-production-a-ghc-upgrade-success-story/)
 * [2018 state of Haskell survey results · taylor.fausak.me](https://taylor.fausak.me/2018/11/18/2018-state-of-haskell-survey-results/#question-077)
 * [最近のHaskell案件事情について - Qiita](https://qiita.com/reotasosan/items/e80ab706baefa5b536fd)
+* [HIW 2018・Haskell Symposium 2018に行ってきた \| IIJ Engineers Blog](https://eng-blog.iij.ad.jp/archives/2125)
 
 ## コミュニティ
 * [Haskell Communities and Activities Report](https://wiki.haskell.org/Haskell_Communities_and_Activities_Report)
