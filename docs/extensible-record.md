@@ -236,6 +236,7 @@ swan = #name @= "swan"
 * [Extensible Records Explained](https://www.schoolofhaskell.com/user/fumieval/extensible-records)
 * [波打たせるものの正体(エクステンシブル・タングル)](http://fumieval.hatenablog.com/entry/2016/12/18/181540)
 * [extensible-0.4.9 がリリースされました。](https://haskell.e-bigmoon.com/posts/2018/05-14-release-extensible-049.html)
+* [extensible攻略Wiki](https://wiki.hask.moe/)
 
 ### Others
 * [ruin](https://hackage.haskell.org/package/ruin)
