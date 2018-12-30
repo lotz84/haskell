@@ -42,6 +42,7 @@
 * [A Purely Functional Typed Approach to Trainable Models (Part 2) · in Code](https://blog.jle.im/entry/purely-functional-typed-models-2.html)
 * [A Purely Functional Typed Approach to Trainable Models (Part 3) · in Code](https://blog.jle.im/entry/purely-functional-typed-models-3.html)
 * [Tweag I/O - Haskell meets large scaledistributed analytics](https://www.tweag.io/posts/2016-02-25-hello-sparkle.html)
+* [gym-http-api: REST client to the gym-http-api project](https://hackage.haskell.org/package/gym-http-api)
 
 ## DataFrame
 * [Frames: Data frames For working with tabular data files](http://hackage.haskell.org/package/Frames)
