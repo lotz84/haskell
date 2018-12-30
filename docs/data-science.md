@@ -15,8 +15,6 @@
 * [関数型言語Haskellを用いた役割指向エージェントベースシミュレーションシステムのプロトタイプ開発](http://repo.lib.hosei.ac.jp/handle/10114/11016)
 * [HuwCampbell/grenade](https://github.com/HuwCampbell/grenade)
 * [Get a Brain](http://www-cs-students.stanford.edu/~blynn//haskell/brain.html)
-* [Frames: Data frames For working with tabular data files](http://hackage.haskell.org/package/Frames)
-* [Frames Tutorial](http://acowley.github.io/Frames/)
 * [[ANN] colonnade : haskell](https://www.reddit.com/r/haskell/comments/5vga82/ann_colonnade/)
 * [Fast Nearest Neighbor Queries in Haskell](https://izbicki.me/blog/fast-nearest-neighbor-queries-in-haskell.html)
 * [Example: The K-Means Problem](http://chimera.labs.oreilly.com/books/1230000000929/ch03.html#sec_using-parlist)
@@ -43,8 +41,12 @@
 * [A Purely Functional Typed Approach to Trainable Models (Part 1) · in Code](https://blog.jle.im/entry/purely-functional-typed-models-1.html)
 * [A Purely Functional Typed Approach to Trainable Models (Part 2) · in Code](https://blog.jle.im/entry/purely-functional-typed-models-2.html)
 * [A Purely Functional Typed Approach to Trainable Models (Part 3) · in Code](https://blog.jle.im/entry/purely-functional-typed-models-3.html)
-* [Easytensor: flexible type-indexed array DataFrame (t :: l) (ds :: [k]) : haskell](https://www.reddit.com/r/haskell/comments/8ie4mk/easytensor_flexible_typeindexed_array_dataframe_t/)
 * [Tweag I/O - Haskell meets large scaledistributed analytics](https://www.tweag.io/posts/2016-02-25-hello-sparkle.html)
+
+## DataFrame
+* [Frames: Data frames For working with tabular data files](http://hackage.haskell.org/package/Frames)
+* [Frames Tutorial](http://acowley.github.io/Frames/)
+* [Easytensor: flexible type-indexed array DataFrame (t :: l) (ds :: [k]) : haskell](https://www.reddit.com/r/haskell/comments/8ie4mk/easytensor_flexible_typeindexed_array_dataframe_t/)
 
 ## HaskellR
 * [HaskellR](http://tweag.github.io/HaskellR/)
