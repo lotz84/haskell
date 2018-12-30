@@ -213,7 +213,7 @@ foo = R ( #a := 42, #b := True )
 ### extensible
 
 ```hs
-mkField "name collective cry"
+{-# LANGUAGE OverloadedLabels #-}
 
 type Animal = Record
   [ "name" :> String
@@ -222,12 +222,12 @@ type Animal = Record
   ]
 
 swan :: Animal
-swan = name @= "swan"
-  <: collective @= "lamentation"
-  <: cry @= Nothing
-  <: Nil
-  
--- > swan ^. name
+swan = #name @= "swan"
+  <: #collective @= "lamentation"
+  <: #cry @= Nothing
+  <: nil
+
+-- > swan ^. #name
 -- "swan"
 ```
 
