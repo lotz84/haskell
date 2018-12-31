@@ -237,6 +237,7 @@ swan = #name @= "swan"
 * [波打たせるものの正体(エクステンシブル・タングル)](http://fumieval.hatenablog.com/entry/2016/12/18/181540)
 * [extensible-0.4.9 がリリースされました。](https://haskell.e-bigmoon.com/posts/2018/05-14-release-extensible-049.html)
 * [extensible攻略Wiki](https://wiki.hask.moe/)
+* [拡張可能レコードでレコード型を拡縮する (Haskell)](https://matsubara0507.github.io/posts/2017-11-28-fun-of-extensible-1.html)
 
 ### Others
 * [ruin](https://hackage.haskell.org/package/ruin)
