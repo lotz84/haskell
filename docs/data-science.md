@@ -1,5 +1,7 @@
 * [DataHaskell](https://datahaskell.github.io/)
 * [DataHaskell's knowledge base](http://www.datahaskell.org/docs/community/current-environment.html)
+* [mltool: Machine Learning Toolbox](https://hackage.haskell.org/package/mltool)
+* [statistics: A library of statistical types, data, and functions](https://hackage.haskell.org/package/statistics)
 * [When Is Haskell More Useful Than R Or Python In Data Science?](https://www.forbes.com/sites/quora/2018/01/24/when-is-haskell-more-useful-than-r-or-python-in-data-science/amp/)
 * [functor.tokyo -- How to get into Machine Learning for a Haskeller](https://functor.tokyo/blog/2018-08-21-machine-learning-for-haskellers)
 * [Haskellで機械学習を実装しようと思った過去の自分へ](https://nnwww.github.io/blog/post/haskell_ml/#fnref:ivory)
