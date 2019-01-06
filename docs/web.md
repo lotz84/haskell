@@ -132,6 +132,7 @@ Front end
 * [Miso: A tasty Haskell front-end framework](https://haskell-miso.org/)
 * [Elm が苦手なことは Haskell にやらせよう](https://speakerdeck.com/ytaka23/we-are-javascripters-19th)
 * [Haskellのフロントエンド開発をEDSLでモダンにする - Qiita](https://qiita.com/peus/items/8badef3e6e0b03b1e790)
+* [isovector/suavemente: an applicative functor that seamlessly talks to HTML inputs](https://github.com/isovector/suavemente)
 
 Haskell to JavaScript compiler
 ------------------------------
