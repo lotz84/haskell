@@ -87,6 +87,15 @@ type a * b = (a, b)
 * [Haskellの種(kind)について (Part 2)](https://haskell.jp/blog/posts/2017/13-about-kind-system-part2.html)
 * [Haskell's kind system - a primer · dcastro](https://diogocastro.com/blog/2018/10/17/haskells-kind-system-a-primer/)
 
+### 型付け
+
+> 1. Type annotations for an external function may require not only its type structure, but also references to the type names or implementations (i.e. import of modules where these types are declared).
+> 2. Partial type signatures still require the type structure of the function (making use of the scaffold of the type signature).
+> 3. Visible type applications is the tersest and cleanest way to annotate an external function’s type. It does not require re-building of the type signature in case of ambiguity.
+> 
+> [Тех-Детали: Type annotations vs partial type signatures vs visible type applications](https://lin-techdet.blogspot.com/2018/12/type-annotations-vs-partial-type.html)
+
+
 ## 関数
 * [A simple Haskell function](http://neilmitchell.blogspot.jp/2016/01/a-simple-haskell-function.html)
 * [Composing bijections, surjections, and injections](https://gist.github.com/rampion/f20ffd6386269e6f7e41fae15d208e12)
