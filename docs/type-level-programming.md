@@ -87,7 +87,6 @@
 * [Dependent Types in Haskell](https://haskell-serbia.com/tutorial/4)
 * [Overlapping and Order-Independent Patterns](https://lirias.kuleuven.be/bitstream/123456789/442509/1/main.pdf)
 * [しりとりの圏の実装(未完) - Qiita](https://qiita.com/hiratara/items/6265b5d4791144bee33b)
-* [しりとりの圏の回答、または定理証明Haskellを少しだけ - Qiita](https://qiita.com/as_capabl/items/2031fe28e577e77dc269)
 * [あいや☆ぱぶりっしゅぶろぐ！ - baseパッケージにある型レベルプログラミング探検の旅](http://aiya000.github.io/posts/2017-12-03-type-programming-in-base.html)
 * [Kindについて - Qiita](https://qiita.com/ryoppy/items/7156d587da2e6ae7e605)
 * [dbp.io :: How to prove a compiler correct](https://dbp.io/essays/2018-01-16-how-to-prove-a-compiler-correct.html)
@@ -202,6 +201,12 @@ circum (Circle _ _ r) = …
 * [Parametricity and excluded middle](http://homotopytypetheory.org/2016/02/24/parametricity-and-excluded-middle/)
 * [Djinn](http://www.hedonisticlearning.com/djinn/)
 
+## 定理証明
+* [定理証明リンク集 - The curse of λ](https://myuon.github.io/posts/start-learning-proof-assistant/)
+* [しりとりの圏の回答、または定理証明Haskellを少しだけ - Qiita](https://qiita.com/as_capabl/items/2031fe28e577e77dc269)
+* [定理証明系 Haskell](http://konn-san.com/prog/2013-advent-calendar.html)
+* [依存型による定理証明Tips: coherenceは型で表せ](http://myuon-myon.hatenablog.com/entry/2016/12/11/204537)
+
 ## Dependent Types
 * [Why Dependent Haskell is the Future of Software Development - Serokell](https://serokell.io/blog/2018/12/17/why-dependent-haskell)
 * [実世界を扱う依存型プログラミングのたぶん基本～外界から安全な世界までの道](http://notogawa.hatenablog.com/entry/2016/10/20/001812)
@@ -210,7 +215,6 @@ circum (Circle _ _ r) = …
 * [Fixed-Length Vector Types in Haskell (an Update for 2017) · in Code](https://blog.jle.im/entry/fixed-length-vector-types-in-haskell.html)
 * [Smarter conditionals with dependent types: a quick case study](http://lambda.jstolarek.com/2015/04/smarter-conditionals-with-dependent-types-a-quick-case-study/)
 * [Hasochism](http://homepages.inf.ed.ac.uk/slindley/papers/hasochism.pdf)
-* [定理証明系 Haskell](http://konn-san.com/prog/2013-advent-calendar.html)
 * [Approximate Dependent-Type Programming](http://okmij.org/ftp/Haskell/dependent-types.html)
 * [Chris Casinghino - Making Dependent Types Practical](https://www.youtube.com/watch?v=_2jrmgO_Gq0)
 * [System FC with Explicit Kind Equality](http://www.seas.upenn.edu/~sweirich/papers/fckinds.pdf)
@@ -222,7 +226,6 @@ circum (Circle _ _ r) = …
 * [Stephanie Weirich on Dependent Typing, Extending Haskell, Type System Research](http://www.infoq.com/interviews/weirich-haskell-dependent-types)
 * [First Experiments With Dependent Types In GHC](http://sylvain-henry.info/home/posts/2016-03-18-first-experiments-with-dependent-types.html)
 * [11 Levity Polymorphism In Dependent Haskell](https://www.youtube.com/watch?v=gn_ho6amc7U)
-* [依存型による定理証明Tips: coherenceは型で表せ](http://myuon-myon.hatenablog.com/entry/2016/12/11/204537)
 * [A Specification for Dependently-Typed Haskell (Extended version)](http://www.seas.upenn.edu/~sweirich/papers/systemd-submission.pdf)
 * [A type theory based on indexed equality - Implementation](http://twanvl.nl/blog/hott/indexed-equality-implementation)
 * [Dependent types in Haskell: Progress Report \| Types and Kinds](https://typesandkinds.wordpress.com/2016/07/24/dependent-types-in-haskell-progress-report/)
