@@ -41,6 +41,7 @@
 * [wkawin / Ouroboros / ソース / — Bitbucket](https://bitbucket.org/wkawin/ouroboros/src)
 * [Formal specification for a Cardano wallet - Cardano](https://cardanodocs.com/technical/formal-specification-for-a-cardano-wallet/)
 * [Well-Typed - The Haskell Consultants: Semi-Formal Development: The Cardano Wallet](http://www.well-typed.com/blog/2018/05/semi-formal-development/)
+* [Philip Wadler Interview \| IOHK PlutusFest 2018 - YouTube](https://www.youtube.com/watch?time_continue=883&v=REt32COgF28)
 
 ### BlockApps
 * [BlockApps](http://blockapps.net/)
