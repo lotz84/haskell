@@ -102,6 +102,7 @@ parse = evalStateT
 
 ### attoparsec
 * [The attoparsec package](http://hackage.haskell.org/package/attoparsec)
+* [The blog of wjwh - Parsing infinite streams with attoparsec](http://www.wjwh.eu/posts/2019-01-01-parsing-infinite-streams.html)
 
 ### Megaparsec
 * [Megaparsec](https://mrkkrp.github.io/megaparsec/)
