@@ -181,6 +181,10 @@ fib n = fibs !! (n-1) + fibs !! (n-2)
 * [Haskellでメモ化を行うもう一つの方法](http://d.hatena.ne.jp/tanakh/20100411)
 * [Kwang's Haskell Blog - Memoization in Haskell](https://kseo.github.io//posts/2017-01-14-memoization-in-hasekll.html)
 
+### 正格評価
+* [fixpt - All About Strictness Analysis (part 1)](http://fixpt.de/blog/2017-12-04-strictness-analysis-part-1.html)
+* [fixpt - All About Strictness Analysis (part 2)](http://fixpt.de/blog/2018-12-30-strictness-analysis-part-2.html)
+
 ### 部分関数
 * [Partial Function Considered Harmful](http://tanakh.jp/posts/2011-12-25-partial-function-considered-harmful.html)
 * <https://twitter.com/GabrielG439/status/671803691591077888>
