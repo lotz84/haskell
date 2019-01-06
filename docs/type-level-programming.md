@@ -104,6 +104,7 @@
 * [Parsing type-level strings in Haskell](https://kcsongor.github.io/symbol-parsing-haskell/)
 * [RankNTypes と型レベルリストと extensible - Qiita](https://qiita.com/waddlaw/items/b49e9daa02b2d254fba3)
 * [Typeable — A long journey to type-safe dynamic type representation](https://medium.com/@hgiasac/typeable-a-long-journey-to-type-safe-dynamic-type-representation-9070eac2cf8b)
+* [Experimenting with Kleisli instance of kind-indexed Category (relies on not-yet merged Visible Kind Applications) : haskell](https://www.reddit.com/r/haskell/comments/abxem5/experimenting_with_kleisli_instance_of/)
 
 ```haskell
 data Bottom
