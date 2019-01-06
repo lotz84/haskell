@@ -103,6 +103,7 @@
 * [Existential quantification](https://markkarpov.com/post/existential-quantification.html)
 * [Parsing type-level strings in Haskell](https://kcsongor.github.io/symbol-parsing-haskell/)
 * [RankNTypes と型レベルリストと extensible - Qiita](https://qiita.com/waddlaw/items/b49e9daa02b2d254fba3)
+* [Typeable — A long journey to type-safe dynamic type representation](https://medium.com/@hgiasac/typeable-a-long-journey-to-type-safe-dynamic-type-representation-9070eac2cf8b)
 
 ```haskell
 data Bottom
