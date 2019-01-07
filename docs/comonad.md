@@ -17,6 +17,8 @@ class Functor w => Comonad w where
 
 * コモナドは基点付き空間 - [Functorial Blog - Comonads as Spaces](http://blog.functorial.com/posts/2016-08-07-Comonads-As-Spaces.html)
 * コモナドはオブジェクト - [Haskell for all: Comonads are objects](http://www.haskellforall.com/2013/02/you-could-have-invented-comonads.html)
+* [コモナドを使った抽象化の威力をライフゲームで試してみた - Qiita](https://qiita.com/lotz/items/fbc4788b8ea8313cbf76)
+* [トーラス上のライフゲームを、List Zipperを使用して実装してみた - Qiita](https://qiita.com/chupaaaaaaan/items/709b6e241468e3f2dd1c)
 
 ## 代表的なコモナド
 参考: [Comonads in Haskell](https://www.slideshare.net/davidoverton/comonad)
