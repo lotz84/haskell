@@ -41,11 +41,6 @@
 * [5 ways to manage allocated memory in Haskell](https://ro-che.info/articles/2017-08-06-manage-allocated-memory-haskell)
 * [To Void or to void](https://www.fpcomplete.com/blog/2017/07/to-void-or-to-void)
 * [The Partial Options Monoid – Jonathan Fischoff – Medium](https://medium.com/@jonathangfischoff/the-partial-options-monoid-pattern-31914a71fc67)
-* [Adler-32: 関数scanlを使ってみる - Qiita](http://qiita.com/YoshikuniJujo/items/d41ad5cc8f1d63754ea7)
-* [spanの小ネタ(使い方編) - Qiita](https://qiita.com/nobsun/items/9608ae73ee374c12e965)
-* [spanの小ネタ(再帰パターン編) - Qiita](https://qiita.com/nobsun/items/88ebbfc0e3663e75f44f)
-* [spanの小ネタ(変奏編) - Qiita](https://qiita.com/nobsun/items/52d75d312187e7adc5a1)
-* [Differentiating Functional Programs](http://languagengine.co/blog/differentiating-functional-programs/)
 * [帰納関数プログラミングシステム MagicHaskeller](http://nautilus.cs.miyazaki-u.ac.jp/~skata/MagicHaskeller-j.html)
 * [Less parentheses](http://www.joachim-breitner.de/blog/730-Less_parentheses)
 * [Haskell で Simpath を実装してみる - Qiita](http://qiita.com/yasuabe1362/items/f23b1d644d8aede87d97)
@@ -189,6 +184,10 @@
 * [groupBy - Donnacha Oisín Kidney](http://doisinkidney.com/posts/2018-01-07-groupBy.html)
 * [My favorite Haskell function](https://github.com/quchen/articles/blob/master/2018-11-22_zipWith_const.md)
 * [What does this list permutations implementation in Haskell exactly do?](http://stackoverflow.com/questions/24484348/what-does-this-list-permutations-implementation-in-haskell-exactly-do)
+* [Adler-32: 関数scanlを使ってみる - Qiita](http://qiita.com/YoshikuniJujo/items/d41ad5cc8f1d63754ea7)
+* [spanの小ネタ(使い方編) - Qiita](https://qiita.com/nobsun/items/9608ae73ee374c12e965)
+* [spanの小ネタ(再帰パターン編) - Qiita](https://qiita.com/nobsun/items/88ebbfc0e3663e75f44f)
+* [spanの小ネタ(変奏編) - Qiita](https://qiita.com/nobsun/items/52d75d312187e7adc5a1)
 
 ### 配列
 * [The vector package](https://hackage.haskell.org/package/vector)
