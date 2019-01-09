@@ -48,6 +48,7 @@
 * [The Basic, Practical Benefits of the Haskell Type System](http://mechanical-elephant.com/thoughts/2015-08-10-the-pratical-benefits-of-haskell-typesystem/)
 * [Types & Kinds](http://slpopejoy.github.io/2015/04/10/Types/)
 * [Tag, don't type](https://github.com/quchen/articles/blob/master/tag-dont-type.md)
+* [On Ad-hoc Datatypes](https://jaspervdj.be/posts/2016-05-11-ad-hoc-datatypes.html)
 
 ### 代数的データ型
 代数的データ型とは"足し算"と"掛け算"が出来るような型のこと。"足し算"と"掛け算"はそれぞれ**直和**, **直積** と呼ばれる。
