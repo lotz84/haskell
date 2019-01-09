@@ -353,6 +353,9 @@ Reader + Writer + State
 * [Scheduling Effects - Donnacha Oisín Kidney](https://doisinkidney.com/posts/2018-06-23-scheduling-effects.html)
 * [HANGMAN: IMPERATIVE FUNCTIONAL PROGRAMMING](http://www.stackbuilders.com/news/hangman-imperative-functional-programming)
 
+#### 乱数
+* [Haskellの乱数事情](http://qiita.com/philopon/items/8f647fc8dafe66b7381b)
+
 ### Monad*
 * [2 07 Supermonads: One Notion to Bind them All](https://www.youtube.com/watch?v=HRofw58sySw)
 
