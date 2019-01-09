@@ -192,6 +192,7 @@ instance Monad Dist where
 * [Differentiating regions](http://conway.rutgers.edu/~ccshan/wiki/blog/posts/Differentiation/)
 
 ### フォワードモード
+* [自動微分を実装して理解する（前編） - Qiita](https://qiita.com/lotz/items/39c52f08cc9b5d8439ca)
 * [Automatic Differentiation is Trivial in Haskell - DanielBrice.net](http://www.danielbrice.net/blog/automatic-differentiation-is-trivial-in-haskell/)
 * [symbolic-expressions-can-be-automatically-differentiated](http://h2.jaguarpaw.co.uk/posts/symbolic-expressions-can-be-automatically-differentiated/)
 * [Yo Dawg We Heard You Like Derivatives](https://jtobin.io/ad-via-recursion-schemes)
@@ -201,6 +202,7 @@ instance Monad Dist where
 * [Computing symbolic gradient vectors with plain Haskell](http://blog.aloni.org/posts/symbolic-gradients-with-plain-haskell/)
 
 ### リバースモード
+* [自動微分を実装して理解する（後編） - Qiita](https://qiita.com/lotz/items/f1d4ab1d83dc13a5d81a)
 * [Reverse mode Automatic Differentiation](http://h2.jaguarpaw.co.uk/posts/reverse-mode-automatic-differentiation/)
 * [Reverse Mode Auto Differentiation is Kind of Like a Lens - Hey There Buddo!](http://www.philipzucker.com/reverse-mode-auto-differentiation-kind-like-lens/)
 * [Reverse Mode Differentiation is Kind of Like a Lens II - Hey There Buddo!](http://www.philipzucker.com/reverse-mode-differentiation-is-kind-of-like-a-lens-ii/)
