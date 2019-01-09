@@ -147,6 +147,7 @@
 
 ### 最適化
 * [GHC optimisations](https://wiki.haskell.org/GHC_optimisations)
+* [Memory footprints of some common data types](http://blog.johantibell.com/2011/06/memory-footprints-of-some-common-data.html)
 * [Fun with RULES Pragma](http://www.christian-fania.de/blog/FunWithRULES.html)
 * [Rewrite Rulesについて軽く](http://qiita.com/ruicc/items/4c33fe2501fa956cd9a5)
 * [mpickering - Inlining and Specialisation](http://mpickering.github.io/posts/2017-03-20-inlining-and-specialisation.html)
