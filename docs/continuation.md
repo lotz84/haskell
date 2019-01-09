@@ -19,6 +19,8 @@
 * [Resource Management in Haskell](http://aherrmann.github.io/programming/2016/01/04/resource-management-in-haskell/)
 * [データ型のCPS変換について](http://myuon-myon.hatenablog.com/entry/2016/05/11/215734)
 * [Continuations all the way down](http://teh.id.au/posts/2017/05/10/lambdajam-slides/index.html)
+* [Chris Dumas - Church-encoded datatypes in Haskell](http://www.cbdumas.com/posts/church_encoding.html)
+* [Chris Dumas - Church-encoded datatypes in Haskell, part 2](http://www.cbdumas.com/posts/church_encoding2.html)
 
 
 ```haskell
