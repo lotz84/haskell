@@ -46,6 +46,7 @@
 * [だれも Data.Maybe を教えてくれなかった - Qiita](https://qiita.com/mtsugawa/items/e410812567e8b5b1690c)
 * [意外と知らないType defaulting - Qiita](https://qiita.com/takoeight0821/items/6cf286bf29479698e977)
 * [The Basic, Practical Benefits of the Haskell Type System](http://mechanical-elephant.com/thoughts/2015-08-10-the-pratical-benefits-of-haskell-typesystem/)
+* [Types & Kinds](http://slpopejoy.github.io/2015/04/10/Types/)
 
 ### 代数的データ型
 代数的データ型とは"足し算"と"掛け算"が出来るような型のこと。"足し算"と"掛け算"はそれぞれ**直和**, **直積** と呼ばれる。
@@ -106,6 +107,7 @@ type a * b = (a, b)
 * [zudov/24-days-of-syntactic-witchery: Aligning characters for fun and profit, with Haskell and PureScript](https://github.com/zudov/24-days-of-syntactic-witchery)
 * [美術の人が考える Haskell - Qiita](https://qiita.com/hitsujisanmeme/items/e14972cfd349c1149d58)
 * [Haskellの($)と(.)の違い - Qiita](https://qiita.com/TTsurutani/items/201200c1f288b0d03e78)
+* [Another Approach to Default Function Parameters](https://ocharles.org.uk/blog/posts/2015-07-23-another-approach-to-default-variables.html)
 
 ### パターンマッチ
 * [Pattern matching](http://mbps.hatenablog.com/entry/2014/10/04/010000)
