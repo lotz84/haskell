@@ -376,6 +376,7 @@ Stack開発の知見が集められたライブラリ
 * [Three Layer Haskell Cake](http://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html)
 * [thma/LtuPatternFactory: Lambda the ultimate Pattern Factory: FP, Haskell, Typeclassopedia vs Software Design Patterns](https://github.com/thma/LtuPatternFactory)
 * [Haskellの新世代フレームワーク Tonatona - Qiita](https://qiita.com/arowM/items/14169b412a7de8a0d514)
+* [HASKELL AND DOMAIN DRIVEN DESIGN (DDD)](http://zenhackers.net/blog/?p=106)
 
 ## Dependency Injection
 * [HaskellでDIする - The curse of λ](https://myuon.github.io/posts/haskell-di/)
