@@ -90,6 +90,7 @@ class Foldable t where
 
 * [Data.Foldable](https://hackage.haskell.org/package/base/docs/Data-Foldable.html)
 * [Foldable with metadata](http://kenta.blogspot.jp/2015/08/clomduww-foldable-with-metadata.html)
+* [The reducers package](https://hackage.haskell.org/package/reducers)
 
 ### Traversable
 
