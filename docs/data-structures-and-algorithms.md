@@ -160,6 +160,7 @@
 * [Lazy unary numbers](http://www.edofic.com/posts/2015-05-03-unary-numbers.html)
 * [Exact Real Arithmetic in Haskell](https://www.youtube.com/watch?v=LJQgYBQFtSE)
 * [backprop: Heterogeneous, type-safe automatic backpropagation in Haskell](http://hackage.haskell.org/package/backprop)
+* [理想の浮動小数点数である「浜田のURR」を理解する - Qiita](https://qiita.com/YoshikuniJujo/items/6e92a82a1d9fdb6a4b5a)
 
 ### 文字列
 * [Haskell String Types](http://www.alexeyshmalko.com/2015/haskell-string-types/)
