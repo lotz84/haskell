@@ -18,6 +18,7 @@
 * [Higher-Kinded Data :: Reasonably Polymorphic](http://reasonablypolymorphic.com/blog/higher-kinded-data)
 * [[1805.06798] Generic Deriving of Generic Traversals](https://arxiv.org/abs/1805.06798)
 * [Generic programming of all kinds](https://dl.acm.org/citation.cfm?id=3242745)
+* [Typeable and Data in Haskell](http://chrisdone.com/posts/data-typeable)
 
 ## Uniplate
 * [uniplate](https://hackage.haskell.org/package/uniplate)
