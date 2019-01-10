@@ -111,6 +111,7 @@
 * [The Functional Morphology Library](http://www.cse.chalmers.se/alumni/markus/FM_Tech_Report.pdf)
 * [aneksteind/hext](https://github.com/aneksteind/hext)
 * [duckling Haskell package - Systems \| LibHunt](https://haskell.libhunt.com/project/duckling)
+* [Haskellで自然言語処理100本ノックの第2章を解いてみる。【前編】 - Qiita](https://qiita.com/ayase/items/a03e9e8484b492e6bc08)
 
 ## 画像解析
 * [haskell-opencv](http://lumiguide.github.io/haskell-opencv/)
