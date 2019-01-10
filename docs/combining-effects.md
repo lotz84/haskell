@@ -83,6 +83,7 @@ Monad Transformer
 * [Documentation.Layers.Overview](http://hackage.haskell.org/package/layers/docs/Documentation-Layers-Overview.html)
 * [Mocking Effects using Constraints and Phantom Data Kinds](https://chrispenner.ca/posts/mock-effects-with-data-kinds)
 * [Tweag I/O - capability: the ReaderT pattern without boilerplate](https://www.tweag.io/posts/2018-10-04-capability.html)
+* [High-Performance Functional Programming Through Effect Rotation – John A De Goes](http://degoes.net/articles/rotating-effects)
 
 ## Extensible Effects
 * [Extensible Effects: an alternative to Monad Transformers](http://okmij.org/ftp/Haskell/extensible/)
