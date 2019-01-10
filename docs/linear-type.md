@@ -2,6 +2,7 @@
 
 出典: [課題４](http://web.yl.is.s.u-tokyo.ac.jp/kobalab/kadai99/kadai4.html)
 
+* [GHCの線形型プロトタイプを試すだけ - syocy’s diary](http://syocy.hatenablog.com/entry/try-linear-types)
 * [LinearTypes – GHC](https://ghc.haskell.org/trac/ghc/wiki/LinearTypes)
 * [Linear resources in Haskell](http://axman6.com/posts/2016-07-10-Linear-resources-in-haskell.html)
 * [Linearity, Uniqueness, and Haskell](http://edsko.net/2017/01/08/linearity-in-haskell/)
