@@ -161,6 +161,7 @@
 * [Haskell で yes コマンドを実装した - Qiita](https://qiita.com/satosystems/items/f034e809882c6695e4ec)
 * [Haskell Works Blog - Rechunking lazy bytestrings](https://haskell-works.github.io/posts/2018-09-21-rechunking-lazy-bytestrings.html)
 * [パッケージnowdocの紹介 - Qiita](https://qiita.com/YoshikuniJujo/items/a8d199a8a73a11120225)
+* [Strings – Haskell – Aelve Guide](https://guide.aelve.com/haskell/strings-o62hqc69)
 
 ### 集合
 * [24 days of Hackage, 2015: day 8: multiset; I wish this were in the standard containers package](http://conscientiousprogrammer.com/blog/2015/12/08/24-days-of-hackage-2015-day-8-multiset-i-wish-this-were-in-the-standard-containers-package/)
