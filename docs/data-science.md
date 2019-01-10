@@ -45,6 +45,7 @@
 * [A Purely Functional Typed Approach to Trainable Models (Part 3) · in Code](https://blog.jle.im/entry/purely-functional-typed-models-3.html)
 * [Tweag I/O - Haskell meets large scaledistributed analytics](https://www.tweag.io/posts/2016-02-25-hello-sparkle.html)
 * [gym-http-api: REST client to the gym-http-api project](https://hackage.haskell.org/package/gym-http-api)
+* [hpython: Python language tools](https://hackage.haskell.org/package/hpython)
 
 ## 数値計算・可視化
 * [scientific](https://hackage.haskell.org/package/scientific)
