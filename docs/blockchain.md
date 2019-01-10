@@ -42,6 +42,7 @@
 * [Formal specification for a Cardano wallet - Cardano](https://cardanodocs.com/technical/formal-specification-for-a-cardano-wallet/)
 * [Well-Typed - The Haskell Consultants: Semi-Formal Development: The Cardano Wallet](http://www.well-typed.com/blog/2018/05/semi-formal-development/)
 * [Philip Wadler Interview \| IOHK PlutusFest 2018 - YouTube](https://www.youtube.com/watch?time_continue=883&v=REt32COgF28)
+* [ブロックチェーンを用いた新たなスマート・コントラクト技術Plutus（プルータス）とは？ - CNET Japan](https://japan.cnet.com/article/35130700/)
 
 ### BlockApps
 * [BlockApps](http://blockapps.net/)
