@@ -355,6 +355,7 @@ Reader + Writer + State
 
 #### 乱数
 * [Haskellの乱数事情](http://qiita.com/philopon/items/8f647fc8dafe66b7381b)
+* [Haskell Bits #1: Randomness　- Benjamin Kovach](https://www.kovach.me/posts/2017-01-30-haskell-bits-randomness.html)
 
 ### Monad*
 * [2 07 Supermonads: One Notion to Bind them All](https://www.youtube.com/watch?v=HRofw58sySw)
