@@ -50,6 +50,7 @@
 * [Tag, don't type](https://github.com/quchen/articles/blob/master/tag-dont-type.md)
 * [On Ad-hoc Datatypes](https://jaspervdj.be/posts/2016-05-11-ad-hoc-datatypes.html)
 * [Ken's blog: [fltalwhq] integerLog2 and an introduction to unboxed types](http://kenta.blogspot.com/2016/09/fltalwhq-integerlog2-and-introduction.html)
+* [Dynamic Dispatch in Haskell, or: How Can I Make My Code Extendable? – Two Wrongs](https://two-wrongs.com/dynamic-dispatch-in-haskell-how-to-make-code-extendable)
 
 ### 代数的データ型
 代数的データ型とは"足し算"と"掛け算"が出来るような型のこと。"足し算"と"掛け算"はそれぞれ**直和**, **直積** と呼ばれる。
