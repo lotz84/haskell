@@ -1,44 +1,21 @@
-## データ構造とアルゴリズム
+# データ構造とアルゴリズム
 * [Haskell Skyline](https://pykello.github.io/haskell-skyline)
 * [巡回冗長検査(CRC-32)のHaskellでの実装](http://qiita.com/YoshikuniJujo/items/687ad7cb6f6e97725121)
 * [Solving the GCHQ puzzle "by hand"](http://neilmitchell.blogspot.jp/2015/12/solving-gchq-puzzle-by-hand.html)
-* [The grid package](http://hackage.haskell.org/package/grid)
-* [純粋関数型データ構造](https://asciidwango.jp/post/160831986220/%E7%B4%94%E7%B2%8B%E9%96%A2%E6%95%B0%E5%9E%8B%E3%83%87%E3%83%BC%E3%82%BF%E6%A7%8B%E9%80%A0)（[英語版PDF](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)）
-* [Part 1: Leonardo Random Access Lists - School of Haskell \| School of Haskell](https://www.schoolofhaskell.com/user/edwardk/fibonacci/leonardo)
-* [Part 2: Open-Ended Fibonacci Search - School of Haskell \| School of Haskell](https://www.schoolofhaskell.com/user/edwardk/fibonacci/search)
 * [Moore for Less](https://www.fpcomplete.com/user/edwardk/moore)
-* [Cellular Automata - School of Haskell \| School of Haskell](https://www.schoolofhaskell.com/user/edwardk/cellular-automata)
-* [bollu/cellularAutomata](https://github.com/bollu/cellularAutomata)
 * [Transducers: Why and How?](http://beerendlauwers.be/posts/2015-12-09-transducers.html)
 * [lotz84/transducer-survey.md](https://gist.github.com/lotz84/0cbe22416319b6caf2e1)
 * [Löb and möb: strange loops in Haskell](https://github.com/quchen/articles/blob/master/loeb-moeb.md)
 * [Löb with error handling](https://gist.github.com/PkmX/182c6c5444b695d9a794)
-* [ekmett/ersatz](https://github.com/ekmett/ersatz)
 * [Rubik's cube combinations](http://kenta.blogspot.jp/2016/04/vcppbmdn-rubiks-cube-combinations.html)
 * [ナップザック問題をHaskellで解いてみる](http://qiita.com/ttatsf/items/40da0ca54f257926e733)
-* [The nested-sequence package](http://hackage.haskell.org/package/nested-sequence)
-* [Bound](https://www.schoolofhaskell.com/user/edwardk/bound)
-* [「組合せ最適化でグループ分け」Haskellでやってみた](http://qiita.com/ttatsf/items/3789159bc4e880cc07bc)
-* [拡張されたユークリッドの互除法](http://qiita.com/bra_cat_ket/items/205c19611e21f3d422b7)
-* [[fltalwhq] integerLog2 and an introduction to unboxed types](http://kenta.blogspot.jp/2016/09/fltalwhq-integerlog2-and-introduction.html)
 * [Adventures in enumerating balanced brackets](https://byorgey.wordpress.com/2016/10/25/adventures-in-enumerating-balanced-brackets/)
-* [Haskell div mod – Cyclical Division, Modulus Visualised](http://www.prigrammer.com/?p=321)
-* [「Haskell」で「Look and Say 数列」を生成してみた](http://zodi-g12.hatenablog.com/entry/2016/11/07/065219)
-* [Constant-time Find First Set](http://www.hedonisticlearning.com/posts/find-first-set.html)
 * [たくさんのファイルから重複した行の塊を見つける](http://qiita.com/igrep/items/cc23dbc13448b973bc39)
 * [Rotating Squares](https://jtobin.io/rotating-squares)
 * [Simple RNA folding in 130 lines of Haskell - SAOWEN](https://tw.saowen.com/a/4a88d56dfb583c76866521124afd0eb3519b369e871ba6309a75a26e53bcd456)
-* [How much space does an 8-bit integer occupy in C and Haskell?](https://ro-che.info/articles/2017-01-25-word8-space)
-* [Abstract Nonsense](http://www.kovach.me/posts/2017-01-30-haskell-bits-randomness.html)
-* [zstd: Haskell bindings to the Zstandard compression algorithm](http://hackage.haskell.org/package/zstd)
-* [Haskell 順列・組み合わせ - Qiita](http://qiita.com/aosho235/items/65fba14703471947bb53)
 * [Nicolas Mattia](http://www.nmattia.com/posts/2016-07-31-bfs-tree.html)
 * [関数プログラミングの気分（『多段階選抜』問題を題材にして） - Qiita](http://qiita.com/nobsun/items/4562b728ecd560557bd2)
-* [Vincent Hanquez 2017-03-20-compilation-cstruct](http://tab.snarc.org/posts/haskell/2017-03-20-compilation-cstruct.html)
-* [Dynamic Dispatch in Haskell, or: How Can I Make My Code Extendable? – Two Wrongs](https://two-wrongs.com/dynamic-dispatch-in-haskell-how-to-make-code-extendable)
 * [Vladimir Slepnev: A puzzle about game review scoring in Haskell](http://slepnev.blogspot.jp/2017/05/a-puzzle-about-game-review-scoring-in.html)
-* [naqsha Haskell package - Geospatial \| LibHunt](https://haskell.libhunt.com/project/naqsha)
-* [5 ways to manage allocated memory in Haskell](https://ro-che.info/articles/2017-08-06-manage-allocated-memory-haskell)
 * [To Void or to void](https://www.fpcomplete.com/blog/2017/07/to-void-or-to-void)
 * [The Partial Options Monoid – Jonathan Fischoff – Medium](https://medium.com/@jonathangfischoff/the-partial-options-monoid-pattern-31914a71fc67)
 * [帰納関数プログラミングシステム MagicHaskeller](http://nautilus.cs.miyazaki-u.ac.jp/~skata/MagicHaskeller-j.html)
@@ -49,14 +26,9 @@
 * [Java interfaces map to Haskell records](https://chris-martin.org/2017/interfaces-and-records)
 * [Finite-State Machines, Part 1: Modeling with Haskell Data Types](https://wickstrom.tech/finite-state-machines/2017/11/10/finite-state-machines-part-1-modeling-with-haskell.html)
 * [Finite-State Machines, Part 2: Explicit Typed State Transitions](https://wickstrom.tech/finite-state-machines/2017/11/19/finite-state-machines-part-2.html)
-* [文字列と自然数の全単射を構成する - Qiita](https://qiita.com/lambda_x_x/items/22094e2af6df22850532)
 * [探索問題を Haskell で解く - Qiita](https://qiita.com/ryohji/items/d8bdba1648978c308cdd)
-* [カタラン数は語る（Haskell で Catalan数的組み合わせを生成する関数） - Qiita](https://qiita.com/lambda_x_x/items/4dc64bf12353dab55950)
 * [区間代数と無限小と無限大 - Qiita](https://qiita.com/makoraru/items/768089b2aab1dde47593)
-* [永続リアルタイムキューのHaskell実装と計算量解析 - autotaker's blog](http://autotaker.hatenablog.com/entry/2017/12/21/125153)
 * [部分構造の共有を観測するdata-reify - Qiita](https://qiita.com/masahiro_sakai/items/6a989d5b898a08f17821)
-* [Haskell containers package — containers 0.5.10.2 documentation](https://m-renaud-haskell-containers.readthedocs.io/en/docs/)
-* [unpacked-containers: Unpacked containers via backpack](https://hackage.haskell.org/package/unpacked-containers)
 * [Fast and Parallel State Machines by Gabriel Gonzalez : haskell](https://www.reddit.com/r/haskell/comments/8uiaob/fast_and_parallel_state_machines_by_gabriel/)
 * [Fast Sudoku Solver in Haskell #1: A Simple Solution | abhinavsarkar.net](https://abhinavsarkar.net/posts/fast-sudoku-solver-in-haskell-1/)
 * [Fast Sudoku Solver in Haskell #2: A 200x Faster Solution](https://abhinavsarkar.net/posts/fast-sudoku-solver-in-haskell-2/)
@@ -72,17 +44,35 @@
 * [合成数列の和 in Haskell - Qiita](https://qiita.com/jkr_2255/items/02cfb1b644dda294b5ff)
 * [Elias-Fano encoding: 単調増加する数列をほぼ簡潔に表現する - モナドとわたしとコモナド](http://fumieval.hatenablog.com/entry/2018/12/21/201108)
 
-### ソート
+## Hackage
+* [The grid package](http://hackage.haskell.org/package/grid)
+* [ekmett/ersatz](https://github.com/ekmett/ersatz)
+* [zstd: Haskell bindings to the Zstandard compression algorithm](http://hackage.haskell.org/package/zstd)
+* [Haskell containers package — containers 0.5.10.2 documentation](https://m-renaud-haskell-containers.readthedocs.io/en/docs/)
+* [unpacked-containers: Unpacked containers via backpack](https://hackage.haskell.org/package/unpacked-containers)
+* [naqsha Alternatives - Geospatial \| LibHunt](https://haskell.libhunt.com/naqsha-alternatives)
+
+## 純粋関数型データ構造
+* [純粋関数型データ構造](https://asciidwango.jp/post/160831986220/%E7%B4%94%E7%B2%8B%E9%96%A2%E6%95%B0%E5%9E%8B%E3%83%87%E3%83%BC%E3%82%BF%E6%A7%8B%E9%80%A0)（[英語版PDF](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)）
+* [Part 1: Leonardo Random Access Lists - School of Haskell \| School of Haskell](https://www.schoolofhaskell.com/user/edwardk/fibonacci/leonardo)
+* [Part 2: Open-Ended Fibonacci Search - School of Haskell \| School of Haskell](https://www.schoolofhaskell.com/user/edwardk/fibonacci/search)
+
+## セルオートマトン
+* [Cellular Automata - School of Haskell \| School of Haskell](https://www.schoolofhaskell.com/user/edwardk/cellular-automata)
+* [bollu/cellularAutomata](https://github.com/bollu/cellularAutomata)
+
+## ソート
 * [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
 * [Descending sort in Haskell](https://ro-che.info/articles/2016-04-02-descending-sort-haskell)
 * [vectorを使ったData.List.sortより４倍速いsortアルゴリズムの実装 - autotaker's blog](http://autotaker.hatenablog.com/entry/2016/04/04/140744)
 
-### Queue
+## Queue
 * [bttr/psqueues](https://github.com/bttr/psqueues)
 * [Efficient Amortised and Real-Time Queues in Haskell](http://www.well-typed.com/blog/2016/01/efficient-queues/)
 * [Queueing and Glueing for Optimal Partitioning](http://www.iis.sinica.edu.tw/~scm/pub/queueing-glueing.pdf)
+* [永続リアルタイムキューのHaskell実装と計算量解析 - autotaker's blog](http://autotaker.hatenablog.com/entry/2017/12/21/125153)
 
-### 代数構造
+## 代数構造
 * [The magma package](http://hackage.haskell.org/package/magma)
 * [24 days of Hackage, 2015: day 7: semigroups; NonEmpty list and a case study of types and tests](http://conscientiousprogrammer.com/blog/2015/12/07/24-days-of-hackage-2015-day-7-semigroups-nonempty-list-and-a-case-study-of-types-and-tests/)
 * [You know more about presheaves than you think](https://derekelkins.github.io/posts/you-know-more-about-presheaves-than-you-think.html)
@@ -95,7 +85,7 @@
 * [Haskellで「ひらけ！ポンキッキ」 (文字列の回転) - Qiita](http://qiita.com/nobsun/items/0f453affdcdd45f2982a)
 * [Haskell上で有限体を使って遊ぶ - Qiita](https://qiita.com/NaOHaq/items/ba490cc1e1ab890cb399)
 
-### バイナリ
+## バイナリ
 * [The binary package](https://hackage.haskell.org/package/binary)
 * [Better, faster binary serialization](https://github.com/meiersi/HaskellerZ/blob/master/meetups/20150529-ZuriHac2015_Duncan_Coutts-Better_Faster_Binary_Serialization/binary.pdf)
 * [Fast way to serialize Haskell objects](https://www.reddit.com/r/haskell/comments/3u5ryh/fast_way_to_serialize_haskell_objects/cxcijmn)
@@ -113,13 +103,17 @@
 * [fumieval/winery: Compact and sustainable serialisation format](https://github.com/fumieval/winery)
 * [Haskell Works Blog - Data-Parallel Rank-Select Bit-String construction](https://haskell-works.github.io/posts/2018-08-08-data-parallel-rank-select-bit-string-construction.html)
 
-### 数値
+## 数値
 * [Lazy unary numbers](http://www.edofic.com/posts/2015-05-03-unary-numbers.html)
 * [Exact Real Arithmetic in Haskell](https://www.youtube.com/watch?v=LJQgYBQFtSE)
 * [backprop: Heterogeneous, type-safe automatic backpropagation in Haskell](http://hackage.haskell.org/package/backprop)
 * [理想の浮動小数点数である「浜田のURR」を理解する - Qiita](https://qiita.com/YoshikuniJujo/items/6e92a82a1d9fdb6a4b5a)
+* [拡張されたユークリッドの互除法](http://qiita.com/bra_cat_ket/items/205c19611e21f3d422b7)
+* [「Haskell」で「Look and Say 数列」を生成してみた](http://zodi-g12.hatenablog.com/entry/2016/11/07/065219)
+* [Constant-time Binary Logarithm](https://www.hedonisticlearning.com/posts/find-first-set.html)
+* [カタラン数は語る（Haskell で Catalan数的組み合わせを生成する関数） - Qiita](https://qiita.com/lambda_x_x/items/4dc64bf12353dab55950)
 
-### 文字列
+## 文字列
 * [Haskell String Types](http://www.alexeyshmalko.com/2015/haskell-string-types/)
 * [bytestring](https://hackage.haskell.org/package/bytestring)
 * [The utf8-string package](https://hackage.haskell.org/package/utf8-string)
@@ -162,11 +156,12 @@
 * [Haskell Works Blog - Rechunking lazy bytestrings](https://haskell-works.github.io/posts/2018-09-21-rechunking-lazy-bytestrings.html)
 * [パッケージnowdocの紹介 - Qiita](https://qiita.com/YoshikuniJujo/items/a8d199a8a73a11120225)
 * [Strings – Haskell – Aelve Guide](https://guide.aelve.com/haskell/strings-o62hqc69)
+* [文字列と自然数の全単射を構成する - Qiita](https://qiita.com/lambda_x_x/items/22094e2af6df22850532)
 
-### 集合
+## 集合
 * [24 days of Hackage, 2015: day 8: multiset; I wish this were in the standard containers package](http://conscientiousprogrammer.com/blog/2015/12/08/24-days-of-hackage-2015-day-8-multiset-i-wish-this-were-in-the-standard-containers-package/)
 
-### リスト
+## リスト
 * [Haskell Data.Listのリスト操作関数（サンプル付き） - Qiita](http://qiita.com/aosho235/items/94787fe0901141598c91)
 * [Haskellで無限個の無限リストをソートされた形で結合する](http://itchyny.hatenablog.com/entry/2016/01/17/120000)
 * [Haskellで直角三角形のタプルをつくる](http://qiita.com/toshikin/items/e54142d828162e16a246)
@@ -189,8 +184,10 @@
 * [spanの小ネタ(使い方編) - Qiita](https://qiita.com/nobsun/items/9608ae73ee374c12e965)
 * [spanの小ネタ(再帰パターン編) - Qiita](https://qiita.com/nobsun/items/88ebbfc0e3663e75f44f)
 * [spanの小ネタ(変奏編) - Qiita](https://qiita.com/nobsun/items/52d75d312187e7adc5a1)
+* [The nested-sequence package](http://hackage.haskell.org/package/nested-sequence)
+* [Haskell 順列・組み合わせ - Qiita](http://qiita.com/aosho235/items/65fba14703471947bb53)
 
-### 配列
+## 配列
 * [The vector package](https://hackage.haskell.org/package/vector)
 * [The array package](https://hackage.haskell.org/package/array)
 * [すごい配列楽しく学ぼう](http://www.slideshare.net/xenophobia__/ss-14558187)
@@ -209,7 +206,7 @@
 * [Tweag I/O - Array fusion with vector](http://www.tweag.io/posts/2017-10-12-vector-package.html)
 * [Unlifted Structures - School of Haskell | School of Haskell](https://www.schoolofhaskell.com/user/edwardk/unlifted-structures)
 
-### 木
+## 木
 * [Haskell Tutorial: Implementing highly efficient data structures with Monoids and Fingertrees](https://www.codementor.io/haskell/tutorial/monoids-fingertrees-implement-abstract-data)
 * [Palindromic tree](http://adilet.org/blog/25-09-14/)
 * [HASKELL BINARY SEARCH TREE (BST) EXAMPLE](http://haskelle.blogspot.jp/2015/06/haskell-binary-search-tree-bst-example.html)
@@ -227,7 +224,7 @@
 * [A Practical Introduction to Finger Trees](https://chrispenner.ca/posts/intro-to-finger-trees)
 * [HAMTs from Scratch - Vaibhav Sagar](https://vaibhavsagar.com/blog/2018/07/29/hamts-from-scratch/)
 
-### Map
+## Map
 * [tim philip williams :: Functional pearl: Nested Datacubes](http://www.timphilipwilliams.com/posts/2017-04-12-nested-datacubes.html)
 * [hashdos脆弱性とunordered-containers - Haskell-jp](https://haskell.jp/blog/posts/2018/unordered-containers-hash-dos.html)
 * [Follow the Denotation :: Reasonably Polymorphic](http://reasonablypolymorphic.com/blog/follow-the-denotation/)
@@ -235,7 +232,7 @@
 * [hashtables](https://hackage.haskell.org/package/hashtables)
 * [The hetero-dict package](http://hackage.haskell.org/package/hetero-dict)
 
-### Graph
+## Graph
 * [FP Graph Algorithms](http://begriffs.com/posts/2015-09-04-pure-functional-graphs.html)
 * [fgl](http://hackage.haskell.org/package/fgl)
 * [Generating Mazes with Inductive Graphs](http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/)
@@ -248,7 +245,7 @@
 * [グラフ代数 \| POSTD](https://postd.cc/an-algebra-of-graphs/)
 * [[論文/ライブラリ紹介] Algebraic graphs with class (functional pearl) - Qiita](https://qiita.com/maton/items/f4cd308b1c389661d1e9)
 
-### Time
+## Time
 * [A Haskell Time Library Tutorial](http://two-wrongs.com/haskell-time-library-tutorial)
 * [The unix-time package](https://hackage.haskell.org/package/unix-time)
 * [Haskellで処理時間を測るために、](https://plus.google.com/+MasahiroSakai/posts/AY7uqu6S9X7)
@@ -258,8 +255,9 @@
 * [Template Haskell でいい感じに時間の長さを書けるライブラリ duration を作った - ryota-ka's blog](https://ryota-ka.hatenablog.com/entry/2018/06/09/210456)
 * [time パッケージの使い方](https://haskell.e-bigmoon.com/posts/2018/09-17-time-package.html)
 
-### 動的計画法
+## 動的計画法
 * [Haskell で動的計画法を書くための3つの方針](http://d.hatena.ne.jp/toslunar/20100408/1270719176)
+* [「組合せ最適化でグループ分け」Haskellでやってみた](http://qiita.com/ttatsf/items/3789159bc4e880cc07bc)
 * [Dynamorphism 〜 Haskellでも動的計画法がしたい！ 〜](http://titech-ssr.blog.jp/archives/1047835805.html)
 
 ## オブジェクト
