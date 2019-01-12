@@ -160,10 +160,17 @@ uncurry :: (a -> b -> c) -> (a, b) -> c
 * [正格性のすべて (翻訳)](https://haskell.e-bigmoon.com/posts/2018/06-25-all-about-strictness)
 * [Laziness Quiz](https://www.parsonsmatt.org/2018/12/04/laziness_quiz.html)
 * [Haskellにおいて遅延評価は諸刃の剣であり、注意すべきであるという話 - Qiita](https://qiita.com/HirotoShioi/items/2adca7fa238c5abad6ef)
+* [The Incomplete Guide to Lazy Evaluation (in Haskell)](https://hackhands.com/guide-lazy-evaluation-haskell/)
+* [If Haskell were strict, what would the laziness be like?](http://nikita-volkov.github.io/if-haskell-were-strict/)
+* [How to force a list](https://ro-che.info/articles/2015-05-28-force-list)
+* [Thinking with Laziness](http://begriffs.com/posts/2015-06-17-thinking-with-laziness.html)
+* [How Laziness Works](http://two-wrongs.com/how-laziness-works)
 
 > One very interesting comparison is that lazy evaluation is to the CPU what garbage collection is to memory.
 
 出典: <http://scott.sauyet.com/Javascript/Talk/2014/01/FuncProgTalk/#slide-40>
+
+### メモ化
 
 **遅延評価を利用したメモ化の実装例**
 
@@ -179,11 +186,6 @@ fib n = fibs !! (n-1) + fibs !! (n-2)
 
 参考: [Can someone explain the concept behind Haskell's memoization?](http://programmers.stackexchange.com/questions/220746/can-someone-explain-the-concept-behind-haskells-memoization)
 
-* [The Incomplete Guide to Lazy Evaluation (in Haskell)](https://hackhands.com/guide-lazy-evaluation-haskell/)
-* [If Haskell were strict, what would the laziness be like?](http://nikita-volkov.github.io/if-haskell-were-strict/)
-* [How to force a list](https://ro-che.info/articles/2015-05-28-force-list)
-* [Thinking with Laziness](http://begriffs.com/posts/2015-06-17-thinking-with-laziness.html)
-* [How Laziness Works](http://two-wrongs.com/how-laziness-works)
 * [Haskell memoization](http://lukahorvat.github.io/programming/2014/11/18/haskell-memoization/)
 * [Haskellでメモ化を行うもう一つの方法](http://d.hatena.ne.jp/tanakh/20100411)
 * [Kwang's Haskell Blog - Memoization in Haskell](https://kseo.github.io//posts/2017-01-14-memoization-in-hasekll.html)
