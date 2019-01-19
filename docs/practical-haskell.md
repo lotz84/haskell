@@ -28,6 +28,7 @@
 * [HaskellでDhallをExtensibleのレコードとして読み込めるようにする - Qiita](https://qiita.com/A_kirisaki/items/a72cb21be08c6dd7cf92)
 * [Dhall: Haskellの新たなキラーアプリ - Speaker Deck](https://speakerdeck.com/syocy/dhall-haskellfalsexin-tanakiraapuri)
 * [Dhall を試して物足りない部分を補うツールを自作した](https://matsubara0507.github.io/posts/2018-12-05-create-dhall-ex.html)
+* [Haskell for all: Dhall - Year in review (2018-2019)](http://www.haskellforall.com/2019/01/dhall-year-in-review-2018-2019.html)
 
 ## Preludeを置き換える
 ### Preludeの問題点
