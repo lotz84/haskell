@@ -141,14 +141,15 @@
 * [Haskell for all: Advice for Haskell beginners](http://www.haskellforall.com/2017/10/advice-for-haskell-beginners.html)
 * [Haskell without the theory — Haskell without the theory 1.0 documentation](https://www.vacationlabs.com/haskell/index.html)
 * [Haskell for JavaScript programmers : programming](https://www.reddit.com/r/programming/comments/7ri2io/haskell_for_javascript_programmers/)
- * [argumatronic - The Nesting Instinct](https://argumatronic.com/posts/2018-01-23-the-nesting-instinct.html)
- * [Writing Simple Haskell](https://soupi.github.io/rfc/writing_simple_haskell/) - 簡単なTODO管理ツールを作りながらHaskellで実用的なプログラムの書き方を学んでいくチュートリアル
- * [Demystifying Functional Programming — Building intuition by teaching through examples and design patterns/idiomatic solutions : haskell](https://www.reddit.com/r/haskell/comments/89gv6a/demystifying_functional_programming_building/)
- * [Learning Haskell - Miscellaneous Enlightenments](https://sras.me/haskell/miscellaneous-enlightenments.html)
- * [uku - A Haskell CLI tool to display Ukulele fingering charts | Adrian Sieber's Website](https://adriansieber.com/ukulele-fingering-chart-cli-tool-in-haskell/)
- * [Wise Man’s Haskell](https://anchpop.github.io/wise_mans_haskell/)
- * [Practical Haskell programs from scratch](https://www.ahri.net/practical-haskell-programs-from-scratch/)
- * [Haskell for all: Detailed walkthrough for a beginner Haskell program](http://www.haskellforall.com/2018/10/detailed-walkthrough-for-beginner.html)
+* [argumatronic - The Nesting Instinct](https://argumatronic.com/posts/2018-01-23-the-nesting-instinct.html)
+* [Writing Simple Haskell](https://soupi.github.io/rfc/writing_simple_haskell/) - 簡単なTODO管理ツールを作りながらHaskellで実用的なプログラムの書き方を学んでいくチュートリアル
+* [Demystifying Functional Programming — Building intuition by teaching through examples and design patterns/idiomatic solutions : haskell](https://www.reddit.com/r/haskell/comments/89gv6a/demystifying_functional_programming_building/)
+* [Learning Haskell - Miscellaneous Enlightenments](https://sras.me/haskell/miscellaneous-enlightenments.html)
+* [uku - A Haskell CLI tool to display Ukulele fingering charts | Adrian Sieber's Website](https://adriansieber.com/ukulele-fingering-chart-cli-tool-in-haskell/)
+* [Wise Man’s Haskell](https://anchpop.github.io/wise_mans_haskell/)
+* [Practical Haskell programs from scratch](https://www.ahri.net/practical-haskell-programs-from-scratch/)
+* [Haskell for all: Detailed walkthrough for a beginner Haskell program](http://www.haskellforall.com/2018/10/detailed-walkthrough-for-beginner.html)
+* [Haskell for Readers](http://haskell-for-readers.nomeata.de/)
 
 ## Examples
 
