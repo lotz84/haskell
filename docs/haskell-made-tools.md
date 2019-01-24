@@ -551,6 +551,7 @@ $ trackit --watch-dir=. --command="ls --color"
 * [Compose :: Melbourne 2017 - Andrew McCluskey - Your first Haskell app - YouTube](https://www.youtube.com/watch?v=lUibiSzIgG4&feature=youtu.be)
 * [Haskellでコマンドライン引数を受け取る - Qiita](https://qiita.com/taashi/items/d48e6cb875930538a302)
 * [functor.tokyo -- Termonad: A Terminal Emulator Configurable in Haskell](https://functor.tokyo/blog/2018-11-15-termonad)
+* [Haskell で Ctrl-C を制御する（Windows） - 趣味はデバッグ……](http://kakkun61.hatenablog.com/entry/2019/01/25/Haskell_%E3%81%A7_Ctrl-C_%E3%82%92%E5%88%B6%E5%BE%A1%E3%81%99%E3%82%8B%EF%BC%88Windows%EF%BC%89)
 
 ### オプションパーサー
 * [HaskellのSystem.Console.ParseArgs](http://yu-i9.hatenablog.com/entry/2014/08/29/135253)
