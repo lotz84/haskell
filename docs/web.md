@@ -134,6 +134,7 @@ Front end
 * [Elm が苦手なことは Haskell にやらせよう](https://speakerdeck.com/ytaka23/we-are-javascripters-19th)
 * [Haskellのフロントエンド開発をEDSLでモダンにする - Qiita](https://qiita.com/peus/items/8badef3e6e0b03b1e790)
 * [isovector/suavemente: an applicative functor that seamlessly talks to HTML inputs](https://github.com/isovector/suavemente)
+ * [State of WebGHC, January 2019 \| webghc.github.io](https://webghc.github.io/2019/01/18/state-of-webghc-january-2019.html)
 
 Haskell to JavaScript compiler
 ------------------------------
