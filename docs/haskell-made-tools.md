@@ -510,6 +510,9 @@ $ trackit --watch-dir=. --command="ls --color"
 * Universal and robust reloading for Haskell web applications
 * <https://github.com/sol/reserve>
 
+### vabal
+* [vabal/vabal: cabal in Valle](https://github.com/vabal/vabal)
+
 ### Weeder
 * [ndmitchell/weeder: Detect dead exports or package imports](https://github.com/ndmitchell/weeder)
 
