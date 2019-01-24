@@ -139,6 +139,8 @@ $ gifcurry_cli ./in.mp4 ./out.gif start_second duration quality 'Optional top te
 * [Hakyllで前後の記事へのリンクを設置する - Qiita](https://qiita.com/mod_poppo/items/e0f981f3a2cb04dc6e3f)
 * [How to Hakyll CircleCI 2.0 @ Nazarii Bardiuk's blog](https://nazarii.bardiuk.com/posts/hakyll-circle.html)
 * [Taeer Bar-Yam - Hakyll + TikZ](https://taeer.bar-yam.me/blog/posts/hakyll-tikz/)
+* [Hakyll Pt. 3 – Generating RSS and Atom XML Feeds](https://robertwpearce.com/hakyll-pt-3-generating-rss-and-atom-xml-feeds.html)
+* [tejasbubane/hakyll-css: Drop-in CSS themes for syntax highlighting in Hakyll](https://github.com/tejasbubane/hakyll-css)
 
 ### haskell-player
 * A terminal music player based on afplay
