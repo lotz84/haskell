@@ -215,6 +215,7 @@ class Monad m where
 * [[Haskell] 爆速でモナドを理解する - Qiita](https://qiita.com/tezca686/items/73d135e372d547ad7266)
 * [HaskellのMonadお気持ちチュートリアル - Qiita](https://qiita.com/Mizunashi_Mana/items/74be5bf4da078e8246d0)
 * [二分木をモナドにする - Qiita](https://qiita.com/cutsea110/items/b99b20cfc10dfbeca24b)
+* [モナドって結局何なのよ? — join to Monad v0.1.3 documentation](https://3f2cm.github.io/join_to_Monad/join_to_Monad.html)
 
 ```haskell
 do x <- mx
