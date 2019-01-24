@@ -46,6 +46,7 @@
 * [Tweag I/O - Haskell meets large scaledistributed analytics](https://www.tweag.io/posts/2016-02-25-hello-sparkle.html)
 * [gym-http-api: REST client to the gym-http-api project](https://hackage.haskell.org/package/gym-http-api)
 * [hpython: Python language tools](https://hackage.haskell.org/package/hpython)
+* [Tweag I/O - Towards Interactive Data Science in Haskell:Haskell in JupyterLab](https://www.tweag.io/posts/2019-01-23-jupyterlab-ihaskell.html)
 
 ## 数値計算・可視化
 * [scientific](https://hackage.haskell.org/package/scientific)
