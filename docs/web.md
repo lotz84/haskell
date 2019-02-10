@@ -258,6 +258,9 @@ Web Server
 * [vincenthz/hs-connection](https://github.com/vincenthz/hs-connection)
 * TLS/SSL implementation in haskell - [vincenthz/hs-tls](https://github.com/vincenthz/hs-tls)
 
+* [Haskell network library version 3.0 - あどけない話](https://kazu-yamamoto.hatenablog.jp/entry/2019/02/08/162027) - networkライブラリの歴史とv3.0のデザインについて
+
+
 ### WAI/Warp
 * [Haskell版フォルダを指定してhttpで公開する簡易Webサーバー](http://qiita.com/saturday06/items/fad44a9bc49b2f387bde)
 * [wai](https://hackage.haskell.org/package/wai)
