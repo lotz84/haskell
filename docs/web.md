@@ -257,7 +257,6 @@ Web Server
 * [socket](https://hackage.haskell.org/package/socket)
 * [vincenthz/hs-connection](https://github.com/vincenthz/hs-connection)
 * TLS/SSL implementation in haskell - [vincenthz/hs-tls](https://github.com/vincenthz/hs-tls)
-
 * [Haskell network library version 3.0 - あどけない話](https://kazu-yamamoto.hatenablog.jp/entry/2019/02/08/162027) - networkライブラリの歴史とv3.0のデザインについて
 
 
