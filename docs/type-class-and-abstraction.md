@@ -82,6 +82,7 @@ instance Show Bool where
 * [Improving Typeclass Relations by Being Open](https://www.fceia.unr.edu.ar/~mauro/pubs/cm-conf.pdf)
 * [Fluent Polymorphism with Visible Type Applications](https://blog.sumtypeofway.com/fluent-polymorphism-with-visible-type-applications/)
 * [Haskellで型クラス制約の和を表現する - Qiita](https://qiita.com/mod_poppo/items/166e28b12d3331ade275)
+* [Proxy arguments in class methods: a comparative analysis - Ryan Scott](https://ryanglscott.github.io/2019/02/06/proxy-arguments-in-class-methods/) - 型の情報しか使わない型クラスのメソッドをどうデザインするのが良いのか
 
 ## 代数的な型クラス
 * [tower](https://tonyday567.github.io/tower/index.html)
