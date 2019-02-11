@@ -115,6 +115,7 @@
 * [‪Type Theory Behind Glasgow Haskell Compiler Internals : haskell](https://www.reddit.com/r/haskell/comments/a89q1r/type_theory_behind_glasgow_haskell_compiler/)
 * [How much space does an 8-bit integer occupy in C and Haskell?](https://ro-che.info/articles/2017-01-25-word8-space)
 * [6 ways to manage allocated memory in Haskell](https://ro-che.info/articles/2017-08-06-manage-allocated-memory-haskell)
+* [Neil Mitchell's Haskell Blog: Announcing ghc-lib](https://neilmitchell.blogspot.com/2019/02/announcing-ghc-lib.html)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
