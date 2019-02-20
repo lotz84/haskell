@@ -140,6 +140,7 @@ $ gifcurry_cli ./in.mp4 ./out.gif start_second duration quality 'Optional top te
 * [How to Hakyll CircleCI 2.0 @ Nazarii Bardiuk's blog](https://nazarii.bardiuk.com/posts/hakyll-circle.html)
 * [Taeer Bar-Yam - Hakyll + TikZ](https://taeer.bar-yam.me/blog/posts/hakyll-tikz/)
 * [Hakyll Pt. 3 – Generating RSS and Atom XML Feeds](https://robertwpearce.com/hakyll-pt-3-generating-rss-and-atom-xml-feeds.html)
+* [Hakyll Pt. 4 – Copying Static Files For Your Build](https://robertwpearce.com/hakyll-pt-4-copying-static-files-for-your-build.html)
 * [tejasbubane/hakyll-css: Drop-in CSS themes for syntax highlighting in Hakyll](https://github.com/tejasbubane/hakyll-css)
 
 ### haskell-player
