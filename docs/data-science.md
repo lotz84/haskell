@@ -209,6 +209,7 @@ instance Monad Dist where
 * [Reverse mode Automatic Differentiation](http://h2.jaguarpaw.co.uk/posts/reverse-mode-automatic-differentiation/)
 * [Reverse Mode Auto Differentiation is Kind of Like a Lens - Hey There Buddo!](http://www.philipzucker.com/reverse-mode-auto-differentiation-kind-like-lens/)
 * [Reverse Mode Differentiation is Kind of Like a Lens II - Hey There Buddo!](http://www.philipzucker.com/reverse-mode-differentiation-is-kind-of-like-a-lens-ii/)
+* [Applicative Bidirectional Programming and Automatic Differentiation - Hey There Buddo!](http://www.philipzucker.com/bidirectional-applicative-programming-and-automatic-differentation/)
 
 ## Deep Learning
 * [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/)
