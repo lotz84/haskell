@@ -224,6 +224,7 @@
 * [Trees That Shrink - Vaibhav Sagar](https://vaibhavsagar.com/blog/2018/06/19/trees-that-shrink/)
 * [A Practical Introduction to Finger Trees](https://chrispenner.ca/posts/intro-to-finger-trees)
 * [HAMTs from Scratch - Vaibhav Sagar](https://vaibhavsagar.com/blog/2018/07/29/hamts-from-scratch/)
+* [Visualizing Prequel Meme Prefix Tries with Recursion Schemes · in Code](https://blog.jle.im/entry/tries-with-recursion-schemes.html)
 
 ## Map
 * [tim philip williams :: Functional pearl: Nested Datacubes](http://www.timphilipwilliams.com/posts/2017-04-12-nested-datacubes.html)
