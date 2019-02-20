@@ -57,6 +57,7 @@
 * [The Rust Programming Language](http://doc.rust-lang.org/stable/book/README.html)
 * [Introduction Rust for Creating Your Operating System](http://qiita.com/mopp/items/9c816d58104752180207)
 * [mgattozzi/curryrs](https://github.com/mgattozzi/curryrs) - Bridge the gap between Haskell and Rust
+* [When Rust is safer than Haskell - FP Complete](https://www.fpcomplete.com/blog/when-rust-is-safer-than-haskell)
 
 ## Kinect
 * [chrisdone/freenect](https://github.com/chrisdone/freenect)
