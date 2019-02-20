@@ -245,6 +245,9 @@ instance Monad [] where
 * [Day 2: [] — Seeing the rest of a program run](https://medium.com/@benclifford/day-2-seeing-the-rest-of-a-program-run-84a1928ce200#.dljrdm7ip)
 * [How the List Monad helped me better understand Non-deterministic Polynomial time complexity](https://deque.blog/2017/09/04/list-monad-and-np-complexity/)
 * [A Very Small SAT Solver](http://www.cse.chalmers.se/~algehed/blogpostsHTML/SAT.html)
+* [Fractals and Monads \| Simplicity](https://dkwise.wordpress.com/2019/01/18/fractals-and-monads/)
+* [Fractals and Monads – Part 2 \| Simplicity](https://dkwise.wordpress.com/2019/01/30/fractals-and-monads-part-2/)
+* [Fractals and Monads – Part 3 \| Simplicity](https://dkwise.wordpress.com/2019/02/19/fractals-and-monads-part-3/)
 
 #### LogicT
 * [リストモナドとLogicモナド](http://qiita.com/fumieval/items/794a85e2d7497b2463ba)
