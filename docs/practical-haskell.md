@@ -272,6 +272,7 @@ Stack開発の知見が集められたライブラリ
 * [dkubb/haskell-builder](https://github.com/dkubb/haskell-builder)
 * [Circle CI 2.0 の設定](https://haskell.e-bigmoon.com/posts/2018/07-21-circleci-2.html)
 * [Building a Blog Part 5: Continuous integration with CircleCI](https://gaumala.com/posts/2019-01-22-continuous-integration-with-circle-ci.html)
+* [You should try Hadrian \| no time](https://blogs.ncl.ac.uk/andreymokhov/you-should-try-hadrian/)
 
 ## Workflow
 * [tweag/funflow: Functional workflows](https://github.com/tweag/funflow)
