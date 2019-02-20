@@ -51,6 +51,7 @@
 * [PARALLELISING YOUR ARRAY CODE](http://www.tweag.io/posts/2017-11-16-repa.html)
 * [Reasoning About Program Behavior Algebraically](http://dev.stephendiehl.com/types_behavior.pdf)
 * [The Haskell Concurrency Primitive Shootout – codeburst](https://codeburst.io/the-haskell-concurrency-primitive-shootout-538c21993f1c)
+* [Finding Parallel Functional Pearls: Automatic Parallel Recursion Scheme Detection in Haskell Functions via Anti-Unification](https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/15729/Barwell_2017_FGCS_ParallelFunctionalPearls_AAM.pdf?sequence=1&isAllowed=y)
 
 ## 並行
 * [RAM footprint per unit of concurrency (approx)](http://bob.ippoli.to/haskell-for-erlangers-2014/#/cost-of-concurrency)
