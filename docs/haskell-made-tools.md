@@ -46,6 +46,9 @@ variance introduced by outliers: 81% (severely inflated)
 * A Haskell implementation of OpenID Connect.
 * <https://github.com/tekul/broch>
 
+### cabasa
+* [bradrn/cabasa: A generic 2D cellular automaton simulator](https://github.com/bradrn/cabasa#readme)
+
 ### carettah
 * carettah: A presentation tool written with Haskell.
 * <https://hackage.haskell.org/package/carettah>
