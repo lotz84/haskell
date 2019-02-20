@@ -68,6 +68,11 @@
   * [Haskell入門ハンズオン! #3: 当日用資料 3/5 - Qiita](https://qiita.com/YoshikuniJujo/items/085fa142b0591cb4cb2b)
   * [Haskell入門ハンズオン! #3: 当日用資料 4/5 - Qiita](https://qiita.com/YoshikuniJujo/items/8a8a78b637b03771c8d5)
   * [Haskell入門ハンズオン! #3: 当日用資料 5/5 - Qiita](https://qiita.com/YoshikuniJujo/items/2d2b28598f6dbb45b44a)
+* [Haskell入門ハンズオン! #5 - 当日用資料 (1/5) - Qiita](https://qiita.com/YoshikuniJujo/items/94647877c6bc02beb961#_reference-0feae16207cc35e4f20b)
+* [Haskell入門ハンズオン! #5 - 当日用資料 (2/5) - Qiita](https://qiita.com/YoshikuniJujo/items/ad584549cf75c5d28745)
+* [Haskell入門ハンズオン! #5 - 当日用資料 (3/5) - Qiita](https://qiita.com/YoshikuniJujo/items/a6ccda2b7ce06480ed72)
+* [Haskell入門ハンズオン! #5 - 当日用資料 (4/5) - Qiita](https://qiita.com/YoshikuniJujo/items/9b6bec1aa74ccf36bdef)
+* [Haskell入門ハンズオン #5 - 当日用資料 (5/5) - Qiita](https://qiita.com/YoshikuniJujo/items/f601195d44aeafc0fadb)
 * [Haskell講習会スライド](https://github.com/mt-caret/intro-to-haskell/blob/master/slides.pdf)
 
 #### 書籍
@@ -117,6 +122,7 @@
 * [Real World Haskell](http://book.realworldhaskell.org/read/)
   * [Real World Haskell の古いところ](http://d.hatena.ne.jp/kazu-yamamoto/20140206/1391666962)
   * [Re: Real World Haskellの古いところ](http://maoe.hatenadiary.jp/entry/2014/02/06/195156)
+  * [オンライン版『Real World Haskell』読書会 2019年1月30日 - Qiita](https://qiita.com/yuyakato/items/1d472c954603b1350274)
 * [Happy Learn Haskell Tutorial Volume 1](https://leanpub.com/happylearnhaskelltutorialvol1)
 * [In Haskell, less is more](https://www.youtube.com/watch?v=NHRIV7UNiPU)
 * [Anatomy of Programming Languages](http://www.cs.utexas.edu/~wcook/anatomy/anatomy.htm)
