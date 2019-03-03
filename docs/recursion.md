@@ -72,6 +72,7 @@ evenElements xs = filter even xs
 * [The Magic of Folds](http://www.parsonsmatt.org/2016/03/24/the_magic_of_folds.html)
 * [effectfully/prefolds](https://github.com/effectfully/prefolds)
 * [foldl vs foldl'](http://kseo.github.io/posts/2016-12-21-foldl-vs-foldl%27.html)
+* [foldl vs. foldl'に終止符を打つ - Qiita](https://qiita.com/autotaker1984/items/09c5ceaa13e9077f5359)
 * [Fold and Unfold for Program Semantics](http://www.cs.nott.ac.uk/~pszgmh/semantics.pdf)
 
 ## リスト
