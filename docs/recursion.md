@@ -143,6 +143,7 @@ class Functor g => Distributive g where
    * [Recursion Schemes, Part IV: Time is of the Essence](http://blog.sumtypeofway.com/recursion-schemes-part-iv-time-is-of-the-essence/)
    * [Recursion Schemes, Part 4½: Better Living Through Base Functors](http://blog.sumtypeofway.com/recursion-schemes-part-41-2-better-living-through-base-functors/)
 * [Recursion Schemes, Part 2: A Mob of Morphisms](http://blog.sumtypeofway.com/recursion-schemes-part-2/)
+* [Recursion Schemes, Part VI: Comonads, Composition, and Generality](https://blog.sumtypeofway.com/recursion-schemes-part-6-comonads-composition-and-generality/)
 * [Hylomorphism](http://mbps.hatenablog.com/entry/2014/10/17/010205)
 * [ITERATION AND PRIMITIVE RECURSION IN CATEGORICAL TERMS](http://www.cs.ru.nl/barendregt60/essays/geuvers_poll/art08_geuvers_poll.pdf)
 * [CATEGORICAL PROGRAMMING WITH INDUCTIVE AND COINDUCTIVE TYPES](http://kodu.ut.ee/~varmo/papers/thesis.pdf)
