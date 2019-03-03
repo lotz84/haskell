@@ -273,6 +273,7 @@ Stack開発の知見が集められたライブラリ
 * [Circle CI 2.0 の設定](https://haskell.e-bigmoon.com/posts/2018/07-21-circleci-2.html)
 * [Building a Blog Part 5: Continuous integration with CircleCI](https://gaumala.com/posts/2019-01-22-continuous-integration-with-circle-ci.html)
 * [You should try Hadrian \| no time](https://blogs.ncl.ac.uk/andreymokhov/you-should-try-hadrian/)
+* [Dead simple Haskell Travis settings for cabal and stack](https://chshersh.github.io/posts/2019-02-25-haskell-travis)
 
 ## Workflow
 * [tweag/funflow: Functional workflows](https://github.com/tweag/funflow)
