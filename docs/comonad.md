@@ -19,6 +19,7 @@ class Functor w => Comonad w where
 * コモナドはオブジェクト - [Haskell for all: Comonads are objects](http://www.haskellforall.com/2013/02/you-could-have-invented-comonads.html)
 * [コモナドを使った抽象化の威力をライフゲームで試してみた - Qiita](https://qiita.com/lotz/items/fbc4788b8ea8313cbf76)
 * [トーラス上のライフゲームを、List Zipperを使用して実装してみた - Qiita](https://qiita.com/chupaaaaaaan/items/709b6e241468e3f2dd1c)
+* [コモナドを攻略する - bitterharvest’s diary](http://bitterharvest.hatenablog.com/entry/2019/02/05/110340)
 
 ## 代表的なコモナド
 参考: [Comonads in Haskell](https://www.slideshare.net/davidoverton/comonad)
