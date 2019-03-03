@@ -112,6 +112,7 @@ parse = evalStateT
   * [Latest additions to Megaparsec](https://mrkkrp.github.io/posts/latest-additions-to-megaparsec.html)
   * [Beginner's guide to Megaparsec](http://akashagrawal.me/beginners-guide-to-megaparsec/)
 * [Megaparsec 4 and 5](https://mrkkrp.github.io/posts/megaparsec-4-and-5.html)
+* [Megaparsec tutorial from IH book](https://markkarpov.com/megaparsec/megaparsec.html)
 
 ### Terifecta
 * [The trifecta package](https://hackage.haskell.org/package/trifecta)
