@@ -117,6 +117,7 @@
 * [6 ways to manage allocated memory in Haskell](https://ro-che.info/articles/2017-08-06-manage-allocated-memory-haskell)
 * [Neil Mitchell's Haskell Blog: Announcing ghc-lib](https://neilmitchell.blogspot.com/2019/02/announcing-ghc-lib.html)
 * [GHC/RTSのGCについて - Qiita](https://qiita.com/autotaker1984/items/258ed186383a1e5c58d6)
+* [Levity polymorphism対応の型クラスと、定数メソッド - Qiita](https://qiita.com/mod_poppo/items/cae309c1d43727bec354)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
