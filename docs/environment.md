@@ -1,8 +1,8 @@
 # Haskellを書き始めるにあたって
 手っ取り早くHaskellを書いて試すにはWeb上で実装されたREPLを利用するのが便利でしょう。
 
-* [Wandbox](https://wandbox.org/)
 * [repl.it](https://repl.it/)
+* [Wandbox](https://wandbox.org/)
 
 以上のサービスはHaskellに対応しています。
 
@@ -90,6 +90,7 @@ $ brew install haskell-stack
 * [HaskellをIntelliJで使えるようになりました！ - Qiita](http://qiita.com/v97ug/items/245faeb80abea19886e8)
 * [IntelliJで"Haskell module can not be created"となるときの対処法 - Qiita](https://qiita.com/nwtgck/items/5b08ad3ede058d67b3f9)
 * [Another IDEa: Haskell and IntelliJ! — Monday Morning Haskell](https://mmhaskell.com/blog/2019/2/25/another-idea-haskell-and-intellij)
+* [intellij-haskell 1.0-beta44 : haskell](https://www.reddit.com/r/haskell/comments/aq8o4f/intellijhaskell_10beta44/)
 
 ### Others
 * [Leksah](http://leksah.org/)
