@@ -88,6 +88,7 @@
 * [Haskellで「ひらけ！ポンキッキ」 (文字列の回転) - Qiita](http://qiita.com/nobsun/items/0f453affdcdd45f2982a)
 * [Haskell上で有限体を使って遊ぶ - Qiita](https://qiita.com/NaOHaq/items/ba490cc1e1ab890cb399)
 * [Haskellの代数的構造入門　半群・モノイド・環とは何か？ - ログミーTech](https://logmi.jp/tech/articles/320848)
+* [Haskellerのためのモノイド完全ガイド \| 雑記帳](https://blog.miz-ar.info/2019/02/monoid-for-haskellers/)
 
 ## バイナリ
 * [The binary package](https://hackage.haskell.org/package/binary)
