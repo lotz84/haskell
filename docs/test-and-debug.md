@@ -86,6 +86,7 @@
 * [Code your own QuickCheck (Shrink) – Deque](https://deque.blog/2017/02/10/code-your-own-quickcheck-shrink/)
 * [QuickCheck experiments on a DSL – Deque](https://deque.blog/2017/02/14/quickcheck-in-action/)
 * [HaskellでのQuickCheckとData.ByteString.Char8の罠 - Qiita](https://qiita.com/A_kirisaki/items/ae8ac60ead2e17a87bad)
+* [QuickCheck, Hedgehog, Validity](https://www.fpcomplete.com/blog/quickcheck-hedgehog-validity)
 
 ```haskell
 import Data.List
