@@ -320,6 +320,7 @@ success
 * [PureScript for the Haskeller](http://www.arow.info/blog/posts/2015-12-17-purescript-intro.html)
 * [kRITZCREEK/psc-ide](https://github.com/kRITZCREEK/psc-ide)
 * [Type-safe client-server communication with PureScript](http://frigoeu.github.io/phantomtypes.html)
+* [【翻訳】PureScriptとHaskellの違い　＋α - Qiita](https://qiita.com/hiruberuto/items/3eb21ef81b3d9ac5a930)
 
 ### qhs
 * [CSVファイルをSQLのクエリで集計できるqコマンドをHaskellで実装してみました！](http://itchyny.hatenablog.com/entry/2016/08/08/100000)
