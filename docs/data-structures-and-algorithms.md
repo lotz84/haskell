@@ -249,6 +249,7 @@
 * [グラフ代数 \| POSTD](https://postd.cc/an-algebra-of-graphs/)
 * [[論文/ライブラリ紹介] Algebraic graphs with class (functional pearl) - Qiita](https://qiita.com/maton/items/f4cd308b1c389661d1e9)
 * [jaspervdj - Dynamic Graphs](https://jaspervdj.be/posts/2019-01-11-dynamic-graphs.html)
+* [alx741/graphite: Haskell graphs and networks library](https://github.com/alx741/graphite#readme)
 
 ## Time
 * [A Haskell Time Library Tutorial](http://two-wrongs.com/haskell-time-library-tutorial)
