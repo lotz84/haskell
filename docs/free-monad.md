@@ -58,6 +58,7 @@ instance Functor f => Monad (Free f) where
 * [Oleg's gists - Free Monad and Free Applicative using single Free type](http://oleg.fi/gists/posts/2018-02-21-single-free.html)
 * [mtl-style-for-free](http://h2.jaguarpaw.co.uk/posts/mtl-style-for-free/)
 * [Static Analysis of Free Monads](http://reasonablypolymorphic.com/blog/prospecting-free-monads/)
+* [Freer Monads: Too Fast, Too Free :: Reasonably Polymorphic](https://reasonablypolymorphic.com/blog/too-fast-too-free/)
 
 ### Coyoneda
 * [Loop School - Coyoneda](http://school.looprecur.com/?video=122708005)
