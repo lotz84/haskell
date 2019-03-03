@@ -123,6 +123,7 @@ $ brew install haskell-stack
 * [tibbe/haskell-style-guide](https://github.com/tibbe/haskell-style-guide/blob/master/haskell-style.md)
 * [インデントで悩まないための単純な指針](http://d.hatena.ne.jp/mkotha/20111226/1324909427)
 * [memfrob.de - Announcing Floskell](https://memfrob.de/posts/announcing-floskell/)
+* [Haskell Style Guide](https://kowainik.github.io/posts/2019-02-06-style-guide)
 
 ----
 
