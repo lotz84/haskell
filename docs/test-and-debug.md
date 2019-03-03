@@ -75,6 +75,7 @@
 * [Philip Cunningham - Testing distributed-process Apps Using Hspec](https://filib.io/posts/2018-12-24-testing-distributed-process-apps-with-hspec.html)
 * [Haskell で doctest（unittest）と QuickCheck（Property-based Testing） - ペンギン村 Tech Blog](http://blog.penginmura.tech/entry/2018/12/31/154536)
 * [Well-Typed - The Haskell Consultants: An in-depth look at <tt>quickcheck-state-machine</tt>](http://www.well-typed.com/blog/2019/01/qsm-in-depth/)
+* [psibi/fakedata: Haskell Library for producing quality fake data](https://github.com/psibi/fakedata)
 
 ### QuickCheck
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
