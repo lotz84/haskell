@@ -87,6 +87,7 @@
 * [Jun Inoueさんのツイート: "Haskell で Euler やる人は arithmoi パッケージを入れておきましょう。2009 年ごろまでは一番解いてる Haskeller だった Daniel Fischer が書いたもので、クッソ速い整数冪根とかメビウス変換、ヤコビ記号などが手に入ります。"](https://twitter.com/jun0inoue/status/373434443253305344)
 * [Generating Art With Haskell](https://paytonturnage.com/writing/2018-06-05-generating-art-with-haskell/)
 * [BEAUTIFUL CODE, COMPELLING EVIDENCE](https://www.renci.org/wp-content/pub/tutorials/BeautifulCode.pdf)
+* [Lemmih/reanimate: Reactive framework for animating SVG graphics.](https://github.com/Lemmih/reanimate)
 
 ## DataFrame
 * [Frames: Data frames For working with tabular data files](http://hackage.haskell.org/package/Frames)
