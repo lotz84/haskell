@@ -89,6 +89,7 @@ $ brew install haskell-stack
 * [IntelliJでHaskellを実行する（haskell stackプロジェクト） - Qiita](http://qiita.com/nwtgck/items/d64647c05a0ba52db63c)
 * [HaskellをIntelliJで使えるようになりました！ - Qiita](http://qiita.com/v97ug/items/245faeb80abea19886e8)
 * [IntelliJで"Haskell module can not be created"となるときの対処法 - Qiita](https://qiita.com/nwtgck/items/5b08ad3ede058d67b3f9)
+* [Another IDEa: Haskell and IntelliJ! — Monday Morning Haskell](https://mmhaskell.com/blog/2019/2/25/another-idea-haskell-and-intellij)
 
 ### Others
 * [Leksah](http://leksah.org/)
