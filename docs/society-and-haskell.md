@@ -36,6 +36,7 @@
 * [Functional Geekery Episode 72 – Gabriel Gonzalez](https://www.functionalgeekery.com/episode-72-gabriel-gonzalez/)
 * [The Haskell Website Working Group](https://neilmitchell.blogspot.jp/2016/11/the-haskellorg-website-working-group.html)
 * [BayHac 2017 - YouTube](https://www.youtube.com/playlist?list=PL5lgjzYOvyYNchlkMzvDqd1F6gS-COCDo)
+* [Discourse - Haskell Community](https://discourse.haskell.org/)
 
 ### 日本
 * [Tokyo Haskell Meetup](http://www.meetup.com/Tokyo-Haskell-Meetup/)
