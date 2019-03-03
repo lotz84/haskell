@@ -193,3 +193,4 @@ parse = evalStateT
 * [ParsecでJSONパーサの作成 - Qiita](https://qiita.com/penguinshunya/items/bf4e8b2527a7a2846940)
 * [Type-driven safe derivation of ToJSON and FromJSON, using DerivingVia in GHC 8.6 and some type-level hacks](https://www.reddit.com/r/haskell/comments/8y98yt/typedriven_safe_derivation_of_tojson_and_fromjson/)
 * [Queensland FP Lab - Waargonaut The JSONer](http://qfpl.io/posts/waargonaut-the-jsoner/)
+* [Aeson's mysterious lazy parsing \| Winter's Land](http://winterland.me/2019/03/05/aeson's-mysterious-lazy-parsing/)
