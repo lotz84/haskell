@@ -158,6 +158,7 @@ Haskell to JavaScript compiler
 #### miso
 * [Tehnix/miso-isomorphic-stack: An example of an "isomorphic" Miso server set up with stack](https://github.com/Tehnix/miso-isomorphic-stack)
 * [y-taka-23/miso-tutorial-app: An example GHCJS + Miso single page application.](https://github.com/y-taka-23/miso-tutorial-app)
+* [ISOMORPHIC WEB APPS IN HASKELL](https://juliendehos.gitlab.io/lillefp-2019-isomorphic/)
 
 ### Haste
 * [Haskell + Haste で Fourier 級数の可視化](http://qiita.com/lesguillemets/items/dbd928237be3e6a1221d)
