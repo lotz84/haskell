@@ -85,6 +85,7 @@ class Functor f => Applicative f where
 * [Applicative Functors for Fun and Parsing – Arun Raghavan](https://arunraghavan.net/2018/02/applicative-functors-for-fun-and-parsing/)
 * [The Const Applicative and Monoids · in Code](https://blog.jle.im/entry/const-applicative-and-monoids.html)
 * [Selective applicative functors \| no time](https://blogs.ncl.ac.uk/andreymokhov/selective/)
+* [Selective Applicative Functors](https://www.staff.ncl.ac.uk/andrey.mokhov/selective-functors.pdf)
 
 ### Discrimination
 * [discrimination](http://hackage.haskell.org/package/discrimination)
