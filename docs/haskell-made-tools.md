@@ -68,6 +68,9 @@ variance introduced by outliers: 81% (severely inflated)
 ### clone-all
 * [silky/clone-all: clone all the github repositories of a particular user.](https://github.com/silky/clone-all)
 
+### cmt
+* [smallhadroncollider/cmt: Write consistent git commit messages](https://github.com/smallhadroncollider/cmt)
+
 ### command-line-tweeter
 * [vmchale/command-line-tweeter: Tweets in from a pipe](https://github.com/vmchale/command-line-tweeter)
 
