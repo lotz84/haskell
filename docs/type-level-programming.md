@@ -107,6 +107,7 @@
 * [Experimenting with Kleisli instance of kind-indexed Category (relies on not-yet merged Visible Kind Applications) : haskell](https://www.reddit.com/r/haskell/comments/abxem5/experimenting_with_kleisli_instance_of/)
 * [Cooper Storage and Type-Level Haskell — Alex Drummond](https://adrummond.net/posts/cooper)
 * [Typeable and Data in Haskell](https://chrisdone.com/posts/data-typeable)
+* [Higher-order type-level programming in Haskell - Microsoft Research](https://www.microsoft.com/en-us/research/publication/higher-order-type-level-programming-in-haskell/)
 
 ```haskell
 data Bottom
