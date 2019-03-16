@@ -113,6 +113,7 @@ type a * b = (a, b)
 * [美術の人が考える Haskell - Qiita](https://qiita.com/hitsujisanmeme/items/e14972cfd349c1149d58)
 * [Haskellの($)と(.)の違い - Qiita](https://qiita.com/TTsurutani/items/201200c1f288b0d03e78)
 * [Another Approach to Default Function Parameters](https://ocharles.org.uk/blog/posts/2015-07-23-another-approach-to-default-variables.html)
+* [Ceci n'est pas un default](https://gallais.github.io/blog/ceci-pas-default)
 
 ### パターンマッチ
 * [Pattern matching](http://mbps.hatenablog.com/entry/2014/10/04/010000)
