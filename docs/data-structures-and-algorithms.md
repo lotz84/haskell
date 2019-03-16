@@ -163,6 +163,7 @@
 * [パッケージnowdocの紹介 - Qiita](https://qiita.com/YoshikuniJujo/items/a8d199a8a73a11120225)
 * [Strings – Haskell – Aelve Guide](https://guide.aelve.com/haskell/strings-o62hqc69)
 * [文字列と自然数の全単射を構成する - Qiita](https://qiita.com/lambda_x_x/items/22094e2af6df22850532)
+* [Channable - How we made Haskell search strings as fast as Rust](https://tech.channable.com/posts/2019-03-13-how-we-made-haskell-search-strings-as-fast-as-rust.html)
 
 ## 集合
 * [24 days of Hackage, 2015: day 8: multiset; I wish this were in the standard containers package](http://conscientiousprogrammer.com/blog/2015/12/08/24-days-of-hackage-2015-day-8-multiset-i-wish-this-were-in-the-standard-containers-package/)
@@ -192,6 +193,7 @@
 * [spanの小ネタ(変奏編) - Qiita](https://qiita.com/nobsun/items/52d75d312187e7adc5a1)
 * [The nested-sequence package](http://hackage.haskell.org/package/nested-sequence)
 * [Haskell 順列・組み合わせ - Qiita](http://qiita.com/aosho235/items/65fba14703471947bb53)
+* [Worstsort \| blog :: Brent -> [String]](https://byorgey.wordpress.com/2019/02/16/worstsort/)
 
 ## 配列
 * [The vector package](https://hackage.haskell.org/package/vector)
