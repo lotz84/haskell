@@ -125,6 +125,7 @@ Monad Transformer
 * [simple-effects: A simple effect system that integrates with MTL](https://hackage.haskell.org/package/simple-effects)
 * [Freer doesn’t come for free – barely-functional – Medium](https://medium.com/barely-functional/freer-doesnt-come-for-free-c9fade793501)
 * [Freer Monads, More Better Programs :: Reasonably Polymorphic](https://reasonablypolymorphic.com/blog/freer-monads/)
+* [Freer, yet Too Costly Higher-order Effects :: Reasonably Polymorphic](https://reasonablypolymorphic.com/blog/freer-yet-too-costly/)
 
 ## 属性文法
 * [なぜ属性文法は重要か](https://sites.google.com/site/paclearner/why_attribute_grammars_matter)
