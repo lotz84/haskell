@@ -106,6 +106,7 @@
 * [Typeable — A long journey to type-safe dynamic type representation](https://medium.com/@hgiasac/typeable-a-long-journey-to-type-safe-dynamic-type-representation-9070eac2cf8b)
 * [Experimenting with Kleisli instance of kind-indexed Category (relies on not-yet merged Visible Kind Applications) : haskell](https://www.reddit.com/r/haskell/comments/abxem5/experimenting_with_kleisli_instance_of/)
 * [Cooper Storage and Type-Level Haskell — Alex Drummond](https://adrummond.net/posts/cooper)
+* [Typeable and Data in Haskell](https://chrisdone.com/posts/data-typeable)
 
 ```haskell
 data Bottom
@@ -244,6 +245,7 @@ circum (Circle _ _ r) = …
 * [依存型の紹介と応用としてのClashの紹介 - Qiita](https://qiita.com/junjihashimoto@github/items/31f245f5e0138e5fac7e)
 * [Variable-arity zipWith in terms of Applicative ZipList](https://gist.github.com/Icelandjack/e4c86ba4d6219ad9e44a68f99319b3fa)
 * [liftAN - Donnacha Oisín Kidney](https://doisinkidney.com/snippets/nary-uncurry.html)
+* [Visible dependent quantification in Haskell - Ryan Scott](https://ryanglscott.github.io/2019/03/15/visible-dependent-quantification-in-haskell/)
 
 > Why use a dependent pair? A part from more advanced uses such as proof construction, online tutorials cite dependent typing as a way to make programs more correct (e.g., avoiding access to zero sized vector). Others say that dependent types allow to describe more precisely the intended behavior of programs. The way I see it is that they can reduce the combinatorial space of cases to consider when building a function.  
 > [Vittorio Zaccaria - Home page](http://www.vittoriozaccaria.net/#/blog/2018/01/27/what-i-whish-i-knew-haskell-and-dependent-pairs.html)
