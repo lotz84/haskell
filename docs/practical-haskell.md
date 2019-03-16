@@ -124,6 +124,7 @@ Stack開発の知見が集められたライブラリ
    * [Announcing stackage-update](http://www.yesodweb.com/blog/2015/04/announcing-stackage-update)
    * [Stackage Badges](https://www.fpcomplete.com/blog/2015/10/stackage-badges)
 * [Haskellのビルドツール"stack"の紹介](http://qiita.com/tanakh/items/6866d0f570d0547df026)
+* [Stack cookbook – Haskell – Aelve Guide](https://guide.aelve.com/haskell/stack-cookbook-ai0adh03)
 * [Stackでやる最速Haskell Hello world! (GHCのインストール付き！)](http://qiita.com/igrep/items/da1d8df6d40eb001a561)
 * [Stackを使って楽しくHaskellスクリプティング](http://qiita.com/tanakh/items/1ca4ba9e1f5006a30106)
 * [stack/GUIDE.md](https://github.com/commercialhaskell/stack/blob/guide/GUIDE.md)
