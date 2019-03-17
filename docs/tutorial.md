@@ -52,6 +52,7 @@
 * [やさしい Haskell 入門 (バージョン98)](http://www.sampou.org/haskell/tutorial-j/index.html)
 * [AtCoder に登録したら解くべき精選過去問 10 問を Haskell で解いてみた - Qiita](https://qiita.com/hsjoihs/items/25a08b426196ab2b9bb0)
 * [Haskellにおける周辺概念をざっくり説明してみる (入門者向け) - Qiita](https://qiita.com/mitubaEX328/items/adb2fc8227c8635a257b)
+* [» プログラム言語の歴史　＜Haskell編＞](https://magazine.techcareer.jp/programming/haskell/4300/?doing_wp_cron=1552811660.4620618820190429687500)
 
 #### 講演資料
 * [すごいHaskell つくばで学ぼう！](https://github.com/nushio3/learn-haskell/blob/master/Tsukuba-2016.pdf)
