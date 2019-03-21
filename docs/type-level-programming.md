@@ -108,6 +108,7 @@
 * [Cooper Storage and Type-Level Haskell — Alex Drummond](https://adrummond.net/posts/cooper)
 * [Typeable and Data in Haskell](https://chrisdone.com/posts/data-typeable)
 * [Higher-order type-level programming in Haskell - Microsoft Research](https://www.microsoft.com/en-us/research/publication/higher-order-type-level-programming-in-haskell/)
+* [コンパイル時に素数判定を行ってみた - Qiita](https://qiita.com/autotaker1984/items/f5cc8914e051563a86f9)
 
 ```haskell
 data Bottom
