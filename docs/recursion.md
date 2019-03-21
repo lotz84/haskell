@@ -181,3 +181,4 @@ class Functor g => Distributive g where
 * [Peeling the Banana: Recursion Schemes from First Principles - Zainab Ali : haskell](https://www.reddit.com/r/haskell/comments/a8ee31/peeling_the_banana_recursion_schemes_from_first/)
 * [Transforming Real-World Languages with Coproducts and Recursion Schemes [video] : haskell](https://www.reddit.com/r/haskell/comments/a8edjc/transforming_realworld_languages_with_coproducts/)
 * [Advent of Schemes](https://functional.works-hub.com/learn/advent-of-schemes-f2821)
+* [Compdata Trees and Catamorphisms](https://blaxill.org/posts/compdata-trees-and-catamorphisms/)
