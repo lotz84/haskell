@@ -59,6 +59,7 @@ instance Functor f => Monad (Free f) where
 * [mtl-style-for-free](http://h2.jaguarpaw.co.uk/posts/mtl-style-for-free/)
 * [Static Analysis of Free Monads](http://reasonablypolymorphic.com/blog/prospecting-free-monads/)
 * [Freer Monads: Too Fast, Too Free :: Reasonably Polymorphic](https://reasonablypolymorphic.com/blog/too-fast-too-free/)
+* [Tweag I/O - Capability is about free monads. It's a bird… It's a plane… It's a free monad!](https://www.tweag.io/posts/2019-03-20-capability-free-monad.html)
 
 ### Coyoneda
 * [Loop School - Coyoneda](http://school.looprecur.com/?video=122708005)
@@ -167,6 +168,7 @@ yoneda f = Natural $ \ax -> fmap ax f
 * [Optimizing Tagless Final – The Science of Code](http://lukajcb.github.io/blog/functional/2018/01/03/optimizing-tagless-final.html)
 * [Introduction to Tagless Final - Serokell](https://serokell.io/blog/2018/12/07/tagless-final)
 * [Magnus web site \| Random stuff](http://magnus.therning.org/posts/2019-02-02-000-the-readert-design-pattern-or-tagless-final-.html)
+* [Tagless Final Encoding in Haskell](https://jproyo.github.io/posts/2019-03-17-tagless-final-haskell.html)
 
 ## Free Arrow
 * [Building free arrows from components](http://blog.sigfpe.com/2017/01/building-free-arrows-from-components.html)
