@@ -242,6 +242,7 @@ Stack開発の知見が集められたライブラリ
 * [New Shake with better wildcard patterns](http://neilmitchell.blogspot.jp/2016/04/new-shake-with-better-wildcard-patterns.html)
 * [24 days of Hackage, 2015: day 22: Shake: the dynamic build system](http://conscientiousprogrammer.com/blog/2015/12/22/24-days-of-hackage-2015-day-22-shake-the-dynamic-build-system/)
 * [Upgrading Shake :: Capital Match Tech Blog](https://tech-blog.capital-match.com/posts/5-upgrading-shake.html)
+* [Neil Mitchell's Haskell Blog: GHC Rebuild Times - Shake profiling](https://neilmitchell.blogspot.com/2019/03/ghc-rebuild-times-shake-profiling.html)
 * [ndmitchell/bake](https://github.com/ndmitchell/bake)
 * [hvr/multi-ghc-travis](https://github.com/hvr/multi-ghc-travis)
 * [phadej/travis-meta-yaml](https://github.com/phadej/travis-meta-yaml)
