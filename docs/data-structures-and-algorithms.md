@@ -108,6 +108,7 @@
 * [fumieval/winery: Compact and sustainable serialisation format](https://github.com/fumieval/winery)
 * [Haskell Works Blog - Data-Parallel Rank-Select Bit-String construction](https://haskell-works.github.io/posts/2018-08-08-data-parallel-rank-select-bit-string-construction.html)
 * [Haskellで、バイナリ表現の値を手軽に処理する - Qiita](https://qiita.com/takenobu-hs/items/1c49ba51f06d1777dadc)
+* [特級シリアライズライブラリ、winery 1.0解禁 - モナドとわたしとコモナド](http://fumieval.hatenablog.com/entry/2019/03/21/172101)
 
 ## 数値
 * [Lazy unary numbers](http://www.edofic.com/posts/2015-05-03-unary-numbers.html)
