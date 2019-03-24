@@ -259,14 +259,12 @@
 * [alx741/graphite: Haskell graphs and networks library](https://github.com/alx741/graphite#readme)
 
 ## Time
-* [A Haskell Time Library Tutorial](http://two-wrongs.com/haskell-time-library-tutorial)
-* [The unix-time package](https://hackage.haskell.org/package/unix-time)
-* [Haskellで処理時間を測るために、](https://plus.google.com/+MasahiroSakai/posts/AY7uqu6S9X7)
-* [hellerve/Data.DDate](https://github.com/hellerve/Data.DDate)
-* [System.Timeを使うときは気をつけよう](http://qiita.com/watertight/items/294d2ebb73c54d046f63) - `Data.Time`を使おう
-* [The hourglass package](http://hackage.haskell.org/package/hourglass)
-* [Template Haskell でいい感じに時間の長さを書けるライブラリ duration を作った - ryota-ka's blog](https://ryota-ka.hatenablog.com/entry/2018/06/09/210456)
+* [time: A time library](http://hackage.haskell.org/package/time)
 * [time パッケージの使い方](https://haskell.e-bigmoon.com/posts/2018/09-17-time-package.html)
+* [A Haskell Time Library Tutorial](http://two-wrongs.com/haskell-time-library-tutorial)
+* [The hourglass package](http://hackage.haskell.org/package/hourglass)
+* [System.Timeを使うときは気をつけよう](http://qiita.com/watertight/items/294d2ebb73c54d046f63) - `Data.Time`を使おう
+* [Template Haskell でいい感じに時間の長さを書けるライブラリ duration を作った - ryota-ka's blog](https://ryota-ka.hatenablog.com/entry/2018/06/09/210456)
 
 ## オブジェクト
 * [Encoding Objects - School of Haskell \| School of Haskell](https://www.schoolofhaskell.com/user/fumieval/encoding-objects)
