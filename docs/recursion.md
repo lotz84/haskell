@@ -161,6 +161,12 @@ class Functor g => Distributive g where
 * [Promorphisms, Pre and Post](https://jtobin.io/promorphisms-pre-post)
 * [somehow-morphisms on fixed point written in Haskell](https://qiita.com/cutsea110/items/69889a99d30b627bc04a)
 
+### 動的計画法
+* [Haskell で動的計画法を書くための3つの方針](http://d.hatena.ne.jp/toslunar/20100408/1270719176)
+* [「組合せ最適化でグループ分け」Haskellでやってみた](http://qiita.com/ttatsf/items/3789159bc4e880cc07bc)
+* [Dynamorphism 〜 Haskellでも動的計画法がしたい！ 〜](http://titech-ssr.blog.jp/archives/1047835805.html)
+* [動的計画法にData.Vector.constructNは使うべきではない。 - Qiita](https://qiita.com/autotaker1984/items/6e15bd36e1de50a0ad1d)
+
 ### 応用例
 * [Program Reduction: A Win for Recursion Schemes](http://newartisans.com/2018/04/win-for-recursion-schemes/)
 * [A Simple Hylomorphism Example – Colour Coding](https://colourcoding.net/2018/04/12/a-simple-hylomorphism-example/)
