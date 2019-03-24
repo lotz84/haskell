@@ -268,12 +268,6 @@
 * [Template Haskell でいい感じに時間の長さを書けるライブラリ duration を作った - ryota-ka's blog](https://ryota-ka.hatenablog.com/entry/2018/06/09/210456)
 * [time パッケージの使い方](https://haskell.e-bigmoon.com/posts/2018/09-17-time-package.html)
 
-## 動的計画法
-* [Haskell で動的計画法を書くための3つの方針](http://d.hatena.ne.jp/toslunar/20100408/1270719176)
-* [「組合せ最適化でグループ分け」Haskellでやってみた](http://qiita.com/ttatsf/items/3789159bc4e880cc07bc)
-* [Dynamorphism 〜 Haskellでも動的計画法がしたい！ 〜](http://titech-ssr.blog.jp/archives/1047835805.html)
-* [動的計画法にData.Vector.constructNは使うべきではない。 - Qiita](https://qiita.com/autotaker1984/items/6e15bd36e1de50a0ad1d)
-
 ## オブジェクト
 * [Encoding Objects - School of Haskell \| School of Haskell](https://www.schoolofhaskell.com/user/fumieval/encoding-objects)
 * [Object-Oriented Haskell](https://programming.tobiasdammers.nl/blog/2017-10-17-object-oriented-haskell)
