@@ -129,6 +129,7 @@ class Functor g => Distributive g where
 ## Recursion Schemes
 * [Recursion-scheme-generator](http://vmchale.com/recursion-scheme-generator/index.html)
 * [recursion-schemes: Representing common recursion patterns as higher-order functions](http://hackage.haskell.org/package/recursion-schemes)
+* [n番煎じのrecursion-scheme - The curse of λ](https://myuon.github.io/posts/recursion-scheme/)
 * [CATEGORICAL PROGRAMMING WITH INDUCTIVE AND COINDUCTIVE TYPES](http://kodu.ut.ee/~varmo/papers/thesis.pdf)
 
 ### F始代数
