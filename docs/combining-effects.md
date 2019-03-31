@@ -126,6 +126,7 @@ Monad Transformer
 * [Freer doesn’t come for free – barely-functional – Medium](https://medium.com/barely-functional/freer-doesnt-come-for-free-c9fade793501)
 * [Freer Monads, More Better Programs :: Reasonably Polymorphic](https://reasonablypolymorphic.com/blog/freer-monads/)
 * [Freer, yet Too Costly Higher-order Effects :: Reasonably Polymorphic](https://reasonablypolymorphic.com/blog/freer-yet-too-costly/)
+* [Algebraic Effects](https://www.dropbox.com/s/srtatw1ynp80sp2/Tokyo_Seminar.pdf?dl=0)
 
 ## 属性文法
 * [なぜ属性文法は重要か](https://sites.google.com/site/paclearner/why_attribute_grammars_matter)
