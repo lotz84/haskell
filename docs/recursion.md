@@ -151,6 +151,8 @@ class Functor g => Distributive g where
 * [Stalking a Hylomorphism in the Wild \| Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2017/12/29/stalking-a-hylomorphism-in-the-wild/)
 * [Don't fear the cat-amorphism (nor the hylomorphism)](http://fho.f12n.de/posts/2014-05-07-dont-fear-the-cat.html)
 * [Recursion Schemes By Example](https://recursion-schemes-by-example.chrispenner.ca/articles/recursive/basic-catamorphisms)
+* [Sorting with Style · jtobin.io](https://jtobin.io/sorting-with-style) - hyloを使ってmergeソートを実装する
+* [Sorting Slower with Style · jtobin.io](https://jtobin.io/sorting-slower-with-style) - apoを使って挿入ソートを実装する
 
 ### 融合変換
 * [Theory and Practice of Fusion](http://www.cs.ox.ac.uk/ralf.hinze/publications/IFL10.pdf)
