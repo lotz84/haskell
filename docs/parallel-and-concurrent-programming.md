@@ -81,6 +81,7 @@
 * [Mutable State in Haskell - Jakub Arnold Blog](http://blog.jakubarnold.cz/2014/07/20/mutable-state-in-haskell.html)
 * [Pinpointing deadlocks in Haskell](https://www.fpcomplete.com/blog/2018/05/pinpointing-deadlocks-in-haskell)
 * [Тех-Детали: Masking async tasks in the wild](https://lin-techdet.blogspot.com/2019/02/masking-async-tasks-in-wild.html)
+* [scheduler: Work stealing scheduler.](https://hackage.haskell.org/package/scheduler)
 
 ### MVar
 * [Control.Concurrent.MVar](https://hackage.haskell.org/package/base/docs/Control-Concurrent-MVar.html)
