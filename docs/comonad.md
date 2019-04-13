@@ -20,6 +20,7 @@ class Functor w => Comonad w where
 * [コモナドを使った抽象化の威力をライフゲームで試してみた - Qiita](https://qiita.com/lotz/items/fbc4788b8ea8313cbf76)
 * [トーラス上のライフゲームを、List Zipperを使用して実装してみた - Qiita](https://qiita.com/chupaaaaaaan/items/709b6e241468e3f2dd1c)
 * [コモナドを攻略する - bitterharvest’s diary](http://bitterharvest.hatenablog.com/entry/2019/02/05/110340)
+* [Comonadic builders](https://chshersh.github.io/posts/2019-03-25-comonadic-builders)
 
 ## 代表的なコモナド
 参考: [Comonads in Haskell](https://www.slideshare.net/davidoverton/comonad)
