@@ -196,6 +196,7 @@
 * [The nested-sequence package](http://hackage.haskell.org/package/nested-sequence)
 * [Haskell 順列・組み合わせ - Qiita](http://qiita.com/aosho235/items/65fba14703471947bb53)
 * [Worstsort \| blog :: Brent -> [String]](https://byorgey.wordpress.com/2019/02/16/worstsort/)
+* [vrom911/slist: ♾️ Sized list](https://github.com/vrom911/slist)
 
 ## 配列
 * [The vector package](https://hackage.haskell.org/package/vector)
