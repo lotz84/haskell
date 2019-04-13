@@ -162,6 +162,7 @@
 * [Haskell for all: Detailed walkthrough for a beginner Haskell program](http://www.haskellforall.com/2018/10/detailed-walkthrough-for-beginner.html)
 * [Haskell for Readers](http://haskell-for-readers.nomeata.de/)
 * [Build Haskell stuff in your browser](https://2mol.github.io/posts/replit-haskell/)
+* [To Kata Haskellen Evangelion](https://cosmius.bitbucket.io/tkhe/)
 
 ## Examples
 
