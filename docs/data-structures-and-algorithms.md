@@ -277,6 +277,7 @@
 * [Data.Dynamic](https://hackage.haskell.org/package/base/docs/Data-Dynamic.html)
 * [Dynamic Typing in GHC](https://www.youtube.com/watch?v=asdABzBUoGM)
 * [Typed reflection in Haskell](https://www.microsoft.com/en-us/research/publication/typed-reflection-in-haskell/)
+* [chrisdone/dynamic: Dynamic typing in Haskell](https://github.com/chrisdone/dynamic)
 
 ```haskell
 import Data.Dynamic
