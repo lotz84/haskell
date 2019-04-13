@@ -3,6 +3,7 @@
 * [paramanders/mollie-api-haskell](https://github.com/paramanders/mollie-api-haskell)
 * [safe-money: Money in the type system where it belongs](https://ren.zone/articles/safe-money)
 * [Understanding Simplicity: implementing a smart contract language in 30 lines of Haskell](https://medium.com/@danrobinson/understanding-simplicity-implementing-a-smart-contract-language-in-30-lines-of-haskell-827521bfeb4d)
+* [Announcing DAML - a Haskell-based smart contract development language : haskell](https://www.reddit.com/r/haskell/comments/b9cja6/announcing_daml_a_haskellbased_smart_contract/)
 
 ## Blockchain
 > 特定の中央機関を必要とせずにP2Pネットワーク上で合意形成をする技術
