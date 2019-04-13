@@ -78,6 +78,7 @@
 * [psibi/fakedata: Haskell Library for producing quality fake data](https://github.com/psibi/fakedata)
 * [A gentle introduction to symbolic execution \| Monic Blog](https://blog.monic.co/a-gentle-introduction-to-symbolic-execution/)
 * [Property-Based Testing in a Screencast Editor, Case Study 1: Timeline Flattening \| Oskar Wickström](https://wickstrom.tech/programming/2019/03/24/property-based-testing-in-a-screencast-editor-case-study-1.html)
+* [HSpec と ghcid でHaskellの快適なTDD環境を構築する - Qiita](https://qiita.com/spinylobster/items/268d2053b711f1ccc415)
 
 ### QuickCheck
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
