@@ -76,6 +76,7 @@
 * [Haskell で doctest（unittest）と QuickCheck（Property-based Testing） - ペンギン村 Tech Blog](http://blog.penginmura.tech/entry/2018/12/31/154536)
 * [Well-Typed - The Haskell Consultants: An in-depth look at <tt>quickcheck-state-machine</tt>](http://www.well-typed.com/blog/2019/01/qsm-in-depth/)
 * [psibi/fakedata: Haskell Library for producing quality fake data](https://github.com/psibi/fakedata)
+* [A gentle introduction to symbolic execution \| Monic Blog](https://blog.monic.co/a-gentle-introduction-to-symbolic-execution/)
 
 ### QuickCheck
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
@@ -149,3 +150,4 @@ Passed:
 * [Moving Towards Dialogue - Vaibhav Sagar](https://vaibhavsagar.com/blog/2018/11/03/moving-towards-dialogue/index.html)
 * [Detecting the undetectable: custom type errors for stuck type families – ( )](https://kcsongor.github.io/report-stuck-families/)
 * [Valid Hole Fits](https://wataru86.github.io/slides/vhs/)
+* [github/deli](https://github.com/github/deli)
