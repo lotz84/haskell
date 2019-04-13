@@ -197,6 +197,7 @@ fib n = fibs !! (n-1) + fibs !! (n-2)
 ### 正格評価
 * [fixpt - All About Strictness Analysis (part 1)](http://fixpt.de/blog/2017-12-04-strictness-analysis-part-1.html)
 * [fixpt - All About Strictness Analysis (part 2)](http://fixpt.de/blog/2018-12-30-strictness-analysis-part-2.html)
+* [Strict拡張でハマったお話 - Qiita](https://qiita.com/pxfnc/items/a26bda6d11402daba675)
 
 ### 部分関数
 * [Partial Function Considered Harmful](http://tanakh.jp/posts/2011-12-25-partial-function-considered-harmful.html)
