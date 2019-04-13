@@ -256,6 +256,9 @@ $ hobbes "*.hs" | xargs -n1 ghc --make
 ### mdviewer
 * [agustinmista/mdviewer: Minimalistic Markdown viewer/converter with built-in Css stylesheets support.](https://github.com/agustinmista/mdviewer)
 
+### mios
+* [shnarazk/mios: A SAT solver written in Haskell.](https://github.com/shnarazk/mios)
+
 ### Movie Monad
 * [lettier/movie-monad: A desktop video player built with Haskell that uses GStreamer and GTK+.](https://github.com/lettier/movie-monad)
 * [Let's make a GTK Video Player with Haskell](https://lettier.github.io/posts/2017-08-30-haskell-gtk-video-player.html)
