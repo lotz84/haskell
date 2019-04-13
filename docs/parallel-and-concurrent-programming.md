@@ -82,6 +82,7 @@
 * [Pinpointing deadlocks in Haskell](https://www.fpcomplete.com/blog/2018/05/pinpointing-deadlocks-in-haskell)
 * [Тех-Детали: Masking async tasks in the wild](https://lin-techdet.blogspot.com/2019/02/masking-async-tasks-in-wild.html)
 * [scheduler: Work stealing scheduler.](https://hackage.haskell.org/package/scheduler)
+* [asyncでお手軽非同期プログラミング with Haskell - Qiita](https://qiita.com/pxfnc/items/fbf8f91f1eb90c9e32b8)
 
 ### MVar
 * [Control.Concurrent.MVar](https://hackage.haskell.org/package/base/docs/Control-Concurrent-MVar.html)
