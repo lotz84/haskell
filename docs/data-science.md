@@ -47,6 +47,11 @@
 * [gym-http-api: REST client to the gym-http-api project](https://hackage.haskell.org/package/gym-http-api)
 * [hpython: Python language tools](https://hackage.haskell.org/package/hpython)
 * [Tweag I/O - Towards Interactive Data Science in Haskell:Haskell in JupyterLab](https://www.tweag.io/posts/2019-01-23-jupyterlab-ihaskell.html)
+* [Girsanov’s Theorem \| Maths, Stats & Functional Programming](https://idontgetoutmuch.wordpress.com/2015/10/31/girsanovs-theorem/)
+* [Haskell - Get a Brain](http://www-cs-students.stanford.edu/~blynn//haskell/brain.html)
+* [CS Syd - Testing the Super User Spark with HSpec](https://cs-syd.eu/posts/2016-02-28-testing-the-super-user-spark-with-hspec.html)
+* [tweag/sparkle: Haskell on Apache Spark.](https://github.com/tweag/sparkle)
+* [Bounded Variation by boundedvariation](http://boundedvariation.github.io/)
 
 ## 数値計算・可視化
 * [scientific](https://hackage.haskell.org/package/scientific)
