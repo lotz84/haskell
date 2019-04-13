@@ -87,6 +87,7 @@
 * [Reading Simple Haskell](https://soupi.github.io/rfc/reading_simple_haskell/)
 * [Keynote: Why Functional Programming Matters - John Hughes, Mary Sheeran (Lambda Days 2017) - YouTube](https://www.youtube.com/watch?v=1qBHf8DrWR8)
 * [Functional Programming in Haskell: Supercharge Your Coding](https://www.futurelearn.com/courses/functional-programming-haskell/1/)
+* [A Type of Programming](https://atypeofprogramming.com/)
 * [google/haskell-trainings: Haskell 101 and 102: slides and codelabs](https://github.com/google/haskell-trainings)
 * [Learning Real Haskell Incrementally](http://begriffs.com/posts/2015-10-24-learning-haskell-incrementally.html)
 * [Design Patterns in Haskell](http://blog.ezyang.com/2010/05/design-patterns-in-haskel/)
