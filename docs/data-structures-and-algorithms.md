@@ -46,6 +46,7 @@
 * [A Binomial Urn - Donnacha Oisín Kidney](https://doisinkidney.com/posts/2019-01-15-binomial-urn.html)
 * [Haskellで10桁のISBNを13桁に変換する - Qiita](https://qiita.com/waddlaw/items/746765b2af929722baf5)
 * [ポインタを使ったデータ構造をHaskellの代数的データ型と相互変換したい \| Aqueos Sodium Hydroxide](https://naohaq.github.io/haskell/2019/01/28/haskell-data-to-ptr.html)
+* [AtCoderの入力処理コードを自動生成してみた - Qiita](https://qiita.com/autotaker1984/items/78a35becf99b803c7c97)
 
 ## Hackage
 * [The grid package](http://hackage.haskell.org/package/grid)
