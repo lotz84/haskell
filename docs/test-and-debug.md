@@ -77,6 +77,7 @@
 * [Well-Typed - The Haskell Consultants: An in-depth look at <tt>quickcheck-state-machine</tt>](http://www.well-typed.com/blog/2019/01/qsm-in-depth/)
 * [psibi/fakedata: Haskell Library for producing quality fake data](https://github.com/psibi/fakedata)
 * [A gentle introduction to symbolic execution \| Monic Blog](https://blog.monic.co/a-gentle-introduction-to-symbolic-execution/)
+* [Property-Based Testing in a Screencast Editor, Case Study 1: Timeline Flattening \| Oskar Wickström](https://wickstrom.tech/programming/2019/03/24/property-based-testing-in-a-screencast-editor-case-study-1.html)
 
 ### QuickCheck
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
