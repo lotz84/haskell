@@ -20,6 +20,8 @@
 * [GHCの最新のソースコードをビルドし、すこしいじる - Qiita](https://qiita.com/YoshikuniJujo/items/980775598e65fda36d33)
 * [GHCへの変更提案とパッチ送付の手順例 - Haskell-jp](https://haskell.jp/blog/posts/2018/ghc-proposal-and-patch.html)
 * [GHC(Haskell)の上流リポジトリ等がGitLabに移行しました - Qiita](https://qiita.com/takenobu-hs/items/a2eeb327088bb1d2fe77)
+* [GHCのソースコードのノートを読むやつを作った - The curse of λ](https://myuon.github.io/posts/ghc-compiler-notes/)
+* [続くといいな日記 – GHC のノートコメントについてのあれこれ](https://mizunashi-mana.github.io/blog/posts/2019/04/ghc-compiler-notes/)
 * [def-/ghc-vis](https://github.com/def-/ghc-vis)
 * [Haskell Hierarchical Libraries](https://downloads.haskell.org/~ghc/latest/docs/html/libraries/index.html)
 * [Naïve Haskell data representation](http://www.scs.stanford.edu/14sp-cs240h/slides/memory-slides.html#(11))
