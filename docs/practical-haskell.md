@@ -127,6 +127,7 @@ Stack開発の知見が集められたライブラリ
 * [Stack cookbook – Haskell – Aelve Guide](https://guide.aelve.com/haskell/stack-cookbook-ai0adh03)
 * [Stackでやる最速Haskell Hello world! (GHCのインストール付き！)](http://qiita.com/igrep/items/da1d8df6d40eb001a561)
 * [Stackを使って楽しくHaskellスクリプティング](http://qiita.com/tanakh/items/1ca4ba9e1f5006a30106)
+* [AceHack-Structuring your first Haskell project with Stack](https://sakshamsharma.com/2018/03/haskell-proj-struct/)
 * [stack/GUIDE.md](https://github.com/commercialhaskell/stack/blob/guide/GUIDE.md)
 * [Stack at Front Row Education](http://tech.frontrowed.com/post/122556313986/stack-at-front-row-education)
 * [Migrating a Project to stack](http://duplode.github.io/posts/migrating-a-project-to-stack.html)
