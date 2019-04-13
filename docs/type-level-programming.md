@@ -151,6 +151,7 @@ data HList (as :: [*]) where
 * [【幽霊型トリック集】キェェ！幽霊型でバグを呪い殺すのじゃ！【呪術プログラミング】](http://akabe.github.io/2015/12/PhantomTypeTricks/)
 * [Kwang's Haskell Blog - Data.Proxy](https://kseo.github.io//posts/2017-01-15-data-proxy.html)
 * [で、出たー！幽霊型だー！(Phantom Type) - Qiita](https://qiita.com/HirotoShioi/items/3444e215070144b8ca0f)
+* [Oleg's gists - Flag, a tagged Bool](http://oleg.fi/gists/posts/2019-03-21-flag.html)
 
 ```haskell
 data Circle
