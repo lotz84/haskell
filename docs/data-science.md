@@ -52,17 +52,10 @@
 * [CS Syd - Testing the Super User Spark with HSpec](https://cs-syd.eu/posts/2016-02-28-testing-the-super-user-spark-with-hspec.html)
 * [tweag/sparkle: Haskell on Apache Spark.](https://github.com/tweag/sparkle)
 * [Bounded Variation by boundedvariation](http://boundedvariation.github.io/)
+* [Jun Inoueさんのツイート: "Haskell で Euler やる人は arithmoi パッケージを入れておきましょう。2009 年ごろまでは一番解いてる Haskeller だった Daniel Fischer が書いたもので、クッソ速い整数冪根とかメビウス変換、ヤコビ記号などが手に入ります。"](https://twitter.com/jun0inoue/status/373434443253305344)
 
 ## 数値計算・可視化
 * [scientific](https://hackage.haskell.org/package/scientific)
-* [timbod7/haskell-chart](https://github.com/timbod7/haskell-chart)
-* [diagrams](http://projects.haskell.org/diagrams/)
-  * [Diagrams: Composition, Envelopes and Alignment Part 1](https://www.youtube.com/watch?v=5_fCUSOn7m0)
-  * [Diagrams: Composition, Envelopes and Alignment Part 2](https://www.youtube.com/watch?v=nZCzsBOYdis)
-  * [prowdsponsor/diagrams-qrcode](https://github.com/prowdsponsor/diagrams-qrcode)
-  * [Diagrams - Diagrams 1.4](http://projects.haskell.org/diagrams/blog/2017-01-03-diagrams-1.4.html)
-* [plots: Diagrams based plotting library.](https://hackage.haskell.org/package/plots)
-* [Recreating OTAS Stamps in Haskell](https://blog.otastech.com/2016/02/recreating-otas-stamps-in-haskell/)
 * [Interactive and composable charts](http://www.haskellforall.com/2015/11/interactive-and-composable-charts.html)
 * [smoothie](https://hackage.haskell.org/package/smoothie)
 * [Constraint Solver](http://www.mattkeeter.com/projects/constraints/)
@@ -87,12 +80,24 @@
 * [Computational Geometry: Set Operations on Polytopes](https://maxow.github.io/posts/computational-geometry-set-operations-on-polytopes.html)
 * [Haskell for Numerics? \| Maths, Stats & Functional Programming](https://idontgetoutmuch.wordpress.com/2017/06/02/1090/)
 * [A Generative Approach to Simulating Watercolor Paints from “Scratch” \| [“turnage”]](https://blog.paytonturnage.com/water_color)
-* [Haskellで二重数を使って自動微分 - Сегодня я узнал](https://genkami.github.io/2018/03/10/02-dual-number-deriv.html)
 * [weeezes/plot: Simple plotting tool for the terminal](https://github.com/weeezes/plot)
-* [Jun Inoueさんのツイート: "Haskell で Euler やる人は arithmoi パッケージを入れておきましょう。2009 年ごろまでは一番解いてる Haskeller だった Daniel Fischer が書いたもので、クッソ速い整数冪根とかメビウス変換、ヤコビ記号などが手に入ります。"](https://twitter.com/jun0inoue/status/373434443253305344)
 * [Generating Art With Haskell](https://paytonturnage.com/writing/2018-06-05-generating-art-with-haskell/)
 * [BEAUTIFUL CODE, COMPELLING EVIDENCE](https://www.renci.org/wp-content/pub/tutorials/BeautifulCode.pdf)
 * [Lemmih/reanimate: Reactive framework for animating SVG graphics.](https://github.com/Lemmih/reanimate)
+
+### diagrams
+SVGを扱うためのライブラリ
+
+* [diagrams](http://projects.haskell.org/diagrams/)
+  * [Diagrams: Composition, Envelopes and Alignment Part 1](https://www.youtube.com/watch?v=5_fCUSOn7m0)
+  * [Diagrams: Composition, Envelopes and Alignment Part 2](https://www.youtube.com/watch?v=nZCzsBOYdis)
+  * [prowdsponsor/diagrams-qrcode](https://github.com/prowdsponsor/diagrams-qrcode)
+  * [Diagrams - Diagrams 1.4](http://projects.haskell.org/diagrams/blog/2017-01-03-diagrams-1.4.html)
+
+### Chart
+2Dグラフ描画ライブラリ
+* [haskell-chart](https://github.com/timbod7/haskell-chart/wiki)
+* [timbod7/haskell-chart](https://github.com/timbod7/haskell-chart)
 
 ## DataFrame
 * [Frames: Data frames For working with tabular data files](http://hackage.haskell.org/package/Frames)
@@ -199,6 +204,7 @@ instance Monad Dist where
 * [Not-o-matic Differentiation \| Volts, Sheaves, and Trees](https://ajknapp.github.io/2018/08/14/notomatic-differentiation.html)
 * [[1804.00746] The simple essence of automatic differentiation](https://arxiv.org/abs/1804.00746)
 * [Differentiating regions](http://conway.rutgers.edu/~ccshan/wiki/blog/posts/Differentiation/)
+* [Haskellで二重数を使って自動微分 - Сегодня я узнал](https://genkami.github.io/2018/03/10/02-dual-number-deriv.html)
 
 ### フォワードモード
 * [自動微分を実装して理解する（前編） - Qiita](https://qiita.com/lotz/items/39c52f08cc9b5d8439ca)
