@@ -69,6 +69,7 @@
 * [Haskellクイックソート計測大会2016](http://qiita.com/as_capabl/items/6919e338340690f37a92)
 * [Descending sort in Haskell](https://ro-che.info/articles/2016-04-02-descending-sort-haskell)
 * [vectorを使ったData.List.sortより４倍速いsortアルゴリズムの実装 - autotaker's blog](http://autotaker.hatenablog.com/entry/2016/04/04/140744)
+* [Permutations By Sorting - Donnacha Oisín Kidney](https://doisinkidney.com/posts/2019-03-24-permutations-by-sorting.html)
 
 ## Queue
 * [bttr/psqueues](https://github.com/bttr/psqueues)
@@ -268,6 +269,7 @@
 * [The hourglass package](http://hackage.haskell.org/package/hourglass)
 * [System.Timeを使うときは気をつけよう](http://qiita.com/watertight/items/294d2ebb73c54d046f63) - `Data.Time`を使おう
 * [Template Haskell でいい感じに時間の長さを書けるライブラリ duration を作った - ryota-ka's blog](https://ryota-ka.hatenablog.com/entry/2018/06/09/210456)
+* [Haskellの時間系ライブラリ time が提供する型 - Qiita](https://qiita.com/lotz/items/f42d8dec1cfe713f6127)
 
 ## オブジェクト
 * [Encoding Objects - School of Haskell \| School of Haskell](https://www.schoolofhaskell.com/user/fumieval/encoding-objects)
