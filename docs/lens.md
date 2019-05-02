@@ -75,6 +75,7 @@
 * [Oleg's gists - Finding correct (lens) laws](http://oleg.fi/gists/posts/2018-12-12-find-correct-laws.html)
 * [TemplateHaskell不要なレコードアクセサgeneric-lens🙄 - Qiita](https://qiita.com/aiya000/items/778308345bc863f55d26)
 * [Lens into wrapped newtypes / Jappie](https://jappieklooster.nl/lens-into-wrapped-newtypes.html)
+* [Exercises for understanding lenses \| William Yao](https://williamyaoh.com/posts/2019-04-25-lens-exercises.html)
 
 > Thus the Yoneda embedding of the functor category leads to the van Laarhoven representation of the lens
 
