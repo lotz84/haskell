@@ -128,6 +128,8 @@ Monad Transformer
 * [Freer, yet Too Costly Higher-order Effects :: Reasonably Polymorphic](https://reasonablypolymorphic.com/blog/freer-yet-too-costly/)
 * [Algebraic Effects](https://www.dropbox.com/s/srtatw1ynp80sp2/Tokyo_Seminar.pdf?dl=0)
 * [[ANN] polysemy: Higher-order, no-boilerplate, zero-cost free monads : haskell](https://www.reddit.com/r/haskell/comments/bbqzrd/ann_polysemy_higherorder_noboilerplate_zerocost/)
+* [Polysemy: Chasing Performance in Free Monads - Sandy Maguire - YouTube](https://www.youtube.com/watch?v=-dHFOjcK6pA)
+* [Do we need effects to get abstraction? – barely-functional – Medium](https://medium.com/barely-functional/do-we-need-effects-to-get-abstraction-7d5dc0edfbef)
 
 ## 属性文法
 * [なぜ属性文法は重要か](https://sites.google.com/site/paclearner/why_attribute_grammars_matter)
