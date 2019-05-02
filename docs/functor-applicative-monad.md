@@ -220,6 +220,7 @@ class Monad m where
 * [モナドって結局何なのよ? — join to Monad v0.1.3 documentation](https://3f2cm.github.io/join_to_Monad/join_to_Monad.html)
 * [具体的な値でモナド則を確認する - Maybe編 - Qiita](https://qiita.com/eielh/items/cc4293ffefb1730f044b)
 * [具体的な値でモナド則を確認する - List編 - Qiita](https://qiita.com/eielh/items/f8cead2b81f6a56bdb72)
+* [Selectionモナド入門 - Qiita](https://qiita.com/lotz/items/22c60ea59e0a510738de)
 
 ```haskell
 do x <- mx
