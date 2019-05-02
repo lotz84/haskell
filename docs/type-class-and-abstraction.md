@@ -111,6 +111,7 @@ instance Show Bool where
 * [Comprehending Monoids with Class](https://lptk.github.io/programming/2018/10/04/comprehending-monoids-with-class.html)
 * [Monoid と DerivingVia - Qiita](https://qiita.com/waddlaw/items/f349bd363963d59e9ef5)
 * [United Monoids \| no time](https://blogs.ncl.ac.uk/andreymokhov/united-monoids/)
+* [Magical Monoids – Ceci n’est pas une pile. – Medium](https://medium.com/@stackdoesnotwork/magical-monoids-50da92b069f4)
 
 > lists are not free monoids in Haskell.
 
