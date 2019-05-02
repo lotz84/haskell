@@ -287,6 +287,7 @@ Web Application Framework
 * [agrafix/users](https://github.com/agrafix/users)
 * [nikita-volkov/strelka](https://github.com/nikita-volkov/strelka)
 * [fast-and-fearless-evolution-of-server-side-webapps/slides-handouts.pdf at master · owickstrom/fast-and-fearless-evolution-of-server-side-webapps](https://github.com/owickstrom/fast-and-fearless-evolution-of-server-side-webapps/blob/master/slides/slides-handouts.pdf)
+* [Polimorphic.com -- Haskell Web Development using Miso in Production : haskell](https://www.reddit.com/r/haskell/comments/bco8he/polimorphiccom_haskell_web_development_using_miso/)
 
 ### 比較
 | Framework        | Latest Release | Version   | Star | Contributors |
