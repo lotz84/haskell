@@ -50,6 +50,7 @@ Stack開発の知見が集められたライブラリ
 * [The RIO Monad](https://www.fpcomplete.com/blog/2017/07/the-rio-monad)
 * [commercialhaskell/rio: A standard library for Haskell](https://github.com/commercialhaskell/rio)
 * [rio ライブラリを試す その１](https://matsubara0507.github.io/posts/2018-04-13-try-rio-1.html)
+* [Evaluating RIO \| Freckle Education](https://tech.freckle.com/2019/04/16/evaluating-rio/)
 
 ### その他のライブラリ
 * [The rebase package](http://hackage.haskell.org/package/rebase)
@@ -182,6 +183,7 @@ Stack開発の知見が集められたライブラリ
 * [Haskell Stackでエラー "openFile: inappropriate type (Is a directory) when using mirror " が出るときの対処法 - Qiita](https://qiita.com/nwtgck/items/36feb22bb194f0c01493)
 * [Stack (Haskell): Could not find moduleと言われたときの対処 2018年春版 - Qiita](https://qiita.com/sky_y/items/6712c3609a8e690e0dd3)
 * [Dear Haskell it's not you, it's your tooling.](https://avi-d-coder.github.io/post/dear_haskell/)
+* [Why Stack is moving its CI to Azure Pipelines](https://www.fpcomplete.com/blog/why-stack-is-moving-its-ci-to-azure-pipelines)
 
 ### 逆引き
 * [Ubuntu 16 で Stack + GHC がライブラリのリンクに失敗する場合の対処法](http://qiita.com/mr_konn/items/13caa82c1118968d3145)
@@ -213,6 +215,8 @@ Stack開発の知見が集められたライブラリ
 * [Nix: Under the hood by Gabriel Gonzalez - YouTube](https://www.youtube.com/watch?v=GMQPzv3Sx58)
 * [mpickering - Nix scaffolding for running Haskell plugins](http://mpickering.github.io/posts/2018-06-24-haskell-nix-plugins.html)
 * [Nix, Docker and Haskell](https://cs-syd.eu/posts/2018-07-14-nix-docker-haskell)
+* [Exploring Nix & Haskell Part 2: Dev Tools & IDE Integration – Christian Henry](https://cah6.github.io/technology/nix-haskell-2/)
+* [Exploring Nix & Haskell Part 3: Less Nix, More Reflex – Christian Henry](https://cah6.github.io/technology/nix-haskell-3/)
 
 ## Docker
 * [Dockerfile Linter](http://hadolint.lukasmartinelli.ch/)
