@@ -8,6 +8,7 @@
 * [Call-by-Value is Dual to Call-by-Name](http://homepages.inf.ed.ac.uk/wadler/papers/dual/dual.pdf)
 * [Call-by-Value is Dual to Call-by-Name, Reloaded](http://homepages.inf.ed.ac.uk/wadler/papers/dual-reloaded/dual-reloaded.pdf)
 * [Call-By-Push-Value](http://link.springer.com/book/10.1007/978-94-007-0954-6)
+* [A tutorial on call-by-push-value](https://www.cs.bham.ac.uk/~pbl/papers/cbpvefftt.pdf)
 * [Alternative to the Church, Scott and Parigot encodings of data on the Lambda Calculus.](http://maiavictor.github.io/2015/11/18/church-scott-perigot-encodings/)
 * [The Y Combinator (no, not that one)](https://medium.com/@ayanonagon/the-y-combinator-no-not-that-one-7268d8d9c46#.plyiyxsq1)
 * [λ-Calculus and Computer Science Theory](http://link.springer.com/book/10.1007/BFb0029515)
