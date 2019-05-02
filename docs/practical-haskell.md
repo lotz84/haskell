@@ -18,6 +18,7 @@
 * [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
 * [Haskell package checklist \| Write better Haskell packages](http://taylor.fausak.me/haskell-package-checklist/)
 * [Haskell Bazaar](https://www.haskellbazaar.com/#/)
+* [litxio/ptghci: High-powered REPL for Haskell, inspired by IPython](https://github.com/litxio/ptghci)
 
 ## Dhall
 * [Dhallによるリッチな設定ファイル体験](http://syocy.hatenablog.com/entry/2018/07/14/195255)
