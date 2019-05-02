@@ -58,6 +58,9 @@ variance introduced by outliers: 81% (severely inflated)
 * プログラムの構造を意識したgrepが出来るコマンド
 * <https://github.com/awgn/cgrep>
 
+### cherchord
+* [Aearnus/cherchord: 🎸 Find chords for any string instrument quicky & easily 🎸](https://github.com/Aearnus/cherchord)
+
 ### chips
 * fish shell のプラグインマネージャー
 * <https://github.com/kinoru/chips>
