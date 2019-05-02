@@ -120,6 +120,7 @@
 * [Neil Mitchell's Haskell Blog: Announcing ghc-lib](https://neilmitchell.blogspot.com/2019/02/announcing-ghc-lib.html)
 * [GHC/RTSのGCについて - Qiita](https://qiita.com/autotaker1984/items/258ed186383a1e5c58d6)
 * [Levity polymorphism対応の型クラスと、定数メソッド - Qiita](https://qiita.com/mod_poppo/items/cae309c1d43727bec354)
+* [Stack: building GHC from source](https://hsyl20.fr/home/posts/2019-04-17-ghc-hacking-with-stack.html)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
@@ -195,6 +196,7 @@
 * [Haskell のパフォーマンスをデバッグする](https://haskell.e-bigmoon.com/posts/2017-12-27-haskell-performance-debugging)
 * [Fūzetsu's Corner - GHC can output profiling information as JSON and you should use it.](http://fuuzetsu.co.uk/blog/posts/2018-03-02-GHC-can-output-profiles-in-JSON-format.html)
 * [Compact Regionsについて軽く - Qiita](https://qiita.com/ruicc/items/c955e794c5dc74c4cb58)
+* [Haskellで解くAtCoder - The curse of λ](https://myuon.github.io/posts/haskell-atcoder/)
 
 ### スペースリーク
 * [GHC とスペースとリーク](http://d.hatena.ne.jp/kazu-yamamoto/20151217)
