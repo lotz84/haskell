@@ -32,6 +32,7 @@
 * [Introduction · Capataz](https://romanandreg.gitbooks.io/capataz/content/)
 * [マルチコアでスケールするようになったHaskell \| IIJの技術 \| インターネットイニシアティブ（IIJ）](https://www.iij.ad.jp/dev/tech/activities/haskell/)
 * [並列並行言語Haskell - Speaker Deck](https://speakerdeck.com/syocy/bing-lie-bing-xing-yan-yu-haskell)
+* [並行並列言語Haskellの基本と特徴 - ログミーTech](https://logmi.jp/tech/articles/321095)
 
 ## 並列
 * [monad-par](https://hackage.haskell.org/package/monad-par)
@@ -83,6 +84,7 @@
 * [Тех-Детали: Masking async tasks in the wild](https://lin-techdet.blogspot.com/2019/02/masking-async-tasks-in-wild.html)
 * [scheduler: Work stealing scheduler.](https://hackage.haskell.org/package/scheduler)
 * [asyncでお手軽非同期プログラミング with Haskell - Qiita](https://qiita.com/pxfnc/items/fbf8f91f1eb90c9e32b8)
+* [asyncでお手軽非同期プログラミング with Haskell その2 - Qiita](https://qiita.com/pxfnc/items/4e77812db82c79e55c33)
 
 ### MVar
 * [Control.Concurrent.MVar](https://hackage.haskell.org/package/base/docs/Control-Concurrent-MVar.html)
