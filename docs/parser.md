@@ -197,3 +197,4 @@ parse = evalStateT
 * [Queensland FP Lab - Waargonaut The JSONer](http://qfpl.io/posts/waargonaut-the-jsoner/)
 * [Aeson's mysterious lazy parsing \| Winter's Land](http://winterland.me/2019/03/05/aeson's-mysterious-lazy-parsing/)
 * [obsidiansystems/aeson-gadt-th: Template Haskell for generating ToJSON and FromJSON instances for GADTs](https://github.com/obsidiansystems/aeson-gadt-th)
+* [Vlix/safe-json: Automatic versioning of JSON formats for Haskell data types (with backwards compatibility)](https://github.com/Vlix/safe-json)
