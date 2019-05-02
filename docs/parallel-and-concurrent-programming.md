@@ -33,6 +33,7 @@
 * [マルチコアでスケールするようになったHaskell \| IIJの技術 \| インターネットイニシアティブ（IIJ）](https://www.iij.ad.jp/dev/tech/activities/haskell/)
 * [並列並行言語Haskell - Speaker Deck](https://speakerdeck.com/syocy/bing-lie-bing-xing-yan-yu-haskell)
 * [並行並列言語Haskellの基本と特徴 - ログミーTech](https://logmi.jp/tech/articles/321095)
+* [Haskellによる並列・並行プログラミング(12.3) チャットサーバを写経 & network-3.0対応 - Qiita](https://qiita.com/keiSunagawa/items/95a6d714e7d73b7f8923)
 
 ## 並列
 * [monad-par](https://hackage.haskell.org/package/monad-par)
