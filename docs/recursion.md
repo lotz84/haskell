@@ -74,6 +74,8 @@ evenElements xs = filter even xs
 * [foldl vs foldl'](http://kseo.github.io/posts/2016-12-21-foldl-vs-foldl%27.html)
 * [foldl vs. foldl'に終止符を打つ - Qiita](https://qiita.com/autotaker1984/items/09c5ceaa13e9077f5359)
 * [Fold and Unfold for Program Semantics](http://www.cs.nott.ac.uk/~pszgmh/semantics.pdf)
+* [aymannadeem/foldilocks: Tutorial using ghci to make folds easier. Come for the tutorial, stay for the fold puns.](https://github.com/aymannadeem/foldilocks)
+* [Rewriting functions with fold and reduce \| Max Strübing](https://maex.me/2019/04/rewriting-functions-with-fold-and-reduce/)
 
 ## リスト
 * [(cons cat (cons cat nil))](https://twitter.com/lvsn/status/533685461957349376)
@@ -92,6 +94,8 @@ class Foldable t where
 * [Data.Foldable](https://hackage.haskell.org/package/base/docs/Data-Foldable.html)
 * [Foldable with metadata](http://kenta.blogspot.jp/2015/08/clomduww-foldable-with-metadata.html)
 * [The reducers package](https://hackage.haskell.org/package/reducers)
+* [Data.Foldableの正体 - Qiita](https://qiita.com/lotz/items/424abee02fe598c60247)
+* [パラメトリシティを使って自由モノイドが構成できることの証明 - Qiita](https://qiita.com/mkotha/items/8096d6ec527c9b4f21e0)
 
 ### Traversable
 
