@@ -28,6 +28,7 @@ class Functor f where
 * [rampion/conkin](https://github.com/rampion/conkin) - Tools for functors from Hask^k to Hask
 * [Functor Functors](https://www.benjamin.pizza/posts/2017-12-15-functor-functors.html)
 * [Deriving not-so-complex types – Techscape](https://blog.ramdoot.in/deriving-not-so-complex-types-ec5987f6d95c)
+* [Functor-Of](https://cvlad.info/functor-of/)
 
 ### Bifunctor
 * [bifunctor](https://hackage.haskell.org/package/bifunctors)
