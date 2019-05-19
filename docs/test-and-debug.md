@@ -90,6 +90,7 @@
 * [QuickCheck experiments on a DSL – Deque](https://deque.blog/2017/02/14/quickcheck-in-action/)
 * [HaskellでのQuickCheckとData.ByteString.Char8の罠 - Qiita](https://qiita.com/A_kirisaki/items/ae8ac60ead2e17a87bad)
 * [QuickCheck, Hedgehog, Validity](https://www.fpcomplete.com/blog/quickcheck-hedgehog-validity)
+* [Well-Typed - The Haskell Consultants: Integrated versus Manual Shrinking](http://www.well-typed.com/blog/2019/05/integrated-shrinking/)
 
 ```haskell
 import Data.List
