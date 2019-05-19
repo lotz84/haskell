@@ -494,3 +494,4 @@ Stack開発の知見が集められたライブラリ
 * [Haskellでオンラインジャッジに取り組むときの入出力（前編：標準入力の受け方）](https://qiita.com/TTsurutani/items/26220ac2c184de774658)
 * [Haskellでオンラインジャッジに取り組むときの入出力（後編：標準出力への出し方）](https://qiita.com/TTsurutani/items/42c5a1e00ef8036e8fcc)
 * [Duckling (•ө•) を使って時間、日付抽出をしてみた！ - Qiita](https://qiita.com/reotasosan/items/f131f0e5eba5fbddc256)
+* [「アンダースタンディング コンピュテーション」を Haskell でやってみた - Qiita](https://qiita.com/spinylobster/items/6323f2ad37cdd96da7be)
