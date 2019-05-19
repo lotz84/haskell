@@ -184,6 +184,7 @@ Stack開発の知見が集められたライブラリ
 * [Stack (Haskell): Could not find moduleと言われたときの対処 2018年春版 - Qiita](https://qiita.com/sky_y/items/6712c3609a8e690e0dd3)
 * [Dear Haskell it's not you, it's your tooling.](https://avi-d-coder.github.io/post/dear_haskell/)
 * [Why Stack is moving its CI to Azure Pipelines](https://www.fpcomplete.com/blog/why-stack-is-moving-its-ci-to-azure-pipelines)
+* [stack new叩いたらすぐhspecが使えるようにする - Qiita](https://qiita.com/jnuank/items/9b5cf42161be3954afac)
 
 ### 逆引き
 * [Ubuntu 16 で Stack + GHC がライブラリのリンクに失敗する場合の対処法](http://qiita.com/mr_konn/items/13caa82c1118968d3145)
