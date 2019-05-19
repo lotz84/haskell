@@ -340,6 +340,7 @@ Web Application Framework
 * [The monad-log package](http://hackage.haskell.org/package/monad-log)
 * [HaskellのロガーKatipを試す](http://syocy.hatenablog.com/entry/2016/10/31/025512)
 * [co-log: Composable Contravariant Combinatorial Comonadic Configurable Convenient Logging](https://kowainik.github.io/posts/2018-09-25-co-log)
+* [co-log logging library with polysemy for extensible effects and chronos for fast time : haskell](https://www.reddit.com/r/haskell/comments/blr8op/colog_logging_library_with_polysemy_for/)
 
 ### デプロイ
 * [snoyberg/keter](https://github.com/snoyberg/keter)
