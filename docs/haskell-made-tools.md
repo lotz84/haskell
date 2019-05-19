@@ -534,6 +534,9 @@ $ trackit --watch-dir=. --command="ls --color"
 ### vabal
 * [vabal/vabal: cabal in Valle](https://github.com/vabal/vabal)
 
+### webshow
+* [chrisdone/webshow: Show programming language printed values in a web UI](https://github.com/chrisdone/webshow)
+
 ### Weeder
 * [ndmitchell/weeder: Detect dead exports or package imports](https://github.com/ndmitchell/weeder)
 
