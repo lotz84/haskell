@@ -419,6 +419,7 @@ Reader + Writer + State
 * [Arrowを理解する - Qiita](https://qiita.com/Lugendre/items/6b4a8c8a9c85fcdcb292)
 * [ZedneWeb: Arrow is more than Strong and Category](https://www.eyrie.org/~zednenem/2017/07/twist)
 * [Haskell におけるモナドとアローの同値性](http://ziphil.com/file/mathematics/14.pdf)
+* [Haskell/Understanding arrows - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Haskell/Understanding_arrows)
 
 ### Others
 * [Haskellと層 - Qiita](https://qiita.com/makoraru/items/ab891a60d4dfe4bbf649)
