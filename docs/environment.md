@@ -32,6 +32,7 @@ $ brew install haskell-stack
 * [VS Code と haskell-ide-engine で Haskell 開発環境を構築する - Qiita](https://qiita.com/waddlaw/items/b83cd10311200095fe87)
 * [ott - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=JoeyEremondi.ott)
 * [VisualStudioCode で Haskell のコードを実行するショートカットを設定する - Qiita](https://qiita.com/jnhnd/items/240c41ea5dd7acd9e54c)
+* [macOSでVS CodeのHaskellの環境構築で嵌った点 - Qiita](https://qiita.com/dsm/items/861d08844b1fba32f07b)
 
 ### Vim
 * [begriffs/haskell-vim-now](https://github.com/begriffs/haskell-vim-now?hr=2)
@@ -50,6 +51,7 @@ $ brew install haskell-stack
 * [【Haskell (その2) Advent Calendar 2017】Vim から Hoogle の検索が出来るプラグインをつくった【16日目】 - Secret Garden(Instrumental)](http://secret-garden.hatenablog.com/entry/2017/12/16/000000)
 * [Neovim for Haskell Development - The Mendo Zone](https://mendo.zone/fun/neovim-setup-haskell/)
 * [Haskell, Nix and Vim: Getting started · tblog](http://www.tpflug.me/2019/01/14/haskell-nix-vim/)
+* [= ale.vimとQuickRunでstack環境を使う - Qiita](https://qiita.com/Cj-bc/items/481bb0449648047653b3)
 
 ### Emacs
 * [haskell/haskell-mode](https://github.com/haskell/haskell-mode)
