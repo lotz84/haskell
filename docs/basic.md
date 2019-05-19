@@ -115,6 +115,8 @@ type a * b = (a, b)
 * [Another Approach to Default Function Parameters](https://ocharles.org.uk/blog/posts/2015-07-23-another-approach-to-default-variables.html)
 * [Ceci n'est pas un default](https://gallais.github.io/blog/ceci-pas-default)
 * [Return a Function to Avoid Effects](https://www.parsonsmatt.org/2019/03/22/return_a_function_to_avoid_effects.html)
+* [Haskell で「エラトステネスの篩」 その１ - Qiita](https://qiita.com/little_Haskeller/items/e73d54835b5772a55e81)
+* [Haskell で「エラトステネスの篩」 その２ - Qiita](https://qiita.com/little_Haskeller/items/a3ec4c82c7099f1c9cf1)
 
 ### パターンマッチ
 * [Pattern matching](http://mbps.hatenablog.com/entry/2014/10/04/010000)
