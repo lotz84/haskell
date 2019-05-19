@@ -76,6 +76,7 @@ type a * b = (a, b)
 ### Codata
 * [Codata](http://types2004.lri.fr/SLIDES/altenkirch.pdf)
 * [Data and Codata](http://blog.sigfpe.com/2007/07/data-and-codata.html)
+* [Co-data 【新歓ブログリレー2017 21日目】 | 東京工業大学デジタル創作同好会traP](https://trap.jp/post/199/)
 
 ### Zipper
 * [zipper](https://hackage.haskell.org/package/zipper)
