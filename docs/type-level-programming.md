@@ -110,6 +110,7 @@
 * [Higher-order type-level programming in Haskell - Microsoft Research](https://www.microsoft.com/en-us/research/publication/higher-order-type-level-programming-in-haskell/)
 * [コンパイル時に素数判定を行ってみた - Qiita](https://qiita.com/autotaker1984/items/f5cc8914e051563a86f9)
 * [Lysxia - Higher-rank types in Standard Haskell](https://blog.poisson.chat/posts/2019-03-25-higher-rank-types.html)
+* [Discovering DataKinds at Runtime - Programmable Computer](https://programmable.computer/posts/datakinds_runtime.html)
 
 ```haskell
 data Bottom
