@@ -586,3 +586,4 @@ $ trackit --watch-dir=. --command="ls --color"
 * [optparse-applicativeとoptparse-simple入門](http://qiita.com/Mizunashi_Mana/items/1ed25496d8e36a1c7f02)
 * [optparse-applicative quick start](https://ro-che.info/articles/2016-12-30-optparse-applicative-quick-start)
 * [GetOpt and extensible records](https://www.schoolofhaskell.com/user/fumieval/extensible/getopt-and-extensible-records)
+* [Higher Kinded Option Parsing](https://chrispenner.ca/posts/hkd-options)
