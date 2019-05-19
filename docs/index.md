@@ -73,3 +73,4 @@
 * [Reflecting on Haskell in 2017](http://www.stephendiehl.com/posts/haskell_2018.html)
 * [2017 state of Haskell survey results · taylor.fausak.me](http://taylor.fausak.me/2017/11/15/2017-state-of-haskell-survey-results/)
 * [Popular blogs – Haskell – Aelve Guide](https://guide.aelve.com/haskell/popular-blogs-dila2lox)
+* [cohomolo-gy/haskell-resources: A List of Foundational Haskell Papers](https://github.com/cohomolo-gy/haskell-resources)
