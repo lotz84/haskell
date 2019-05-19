@@ -122,6 +122,7 @@
 * [Levity polymorphism対応の型クラスと、定数メソッド - Qiita](https://qiita.com/mod_poppo/items/cae309c1d43727bec354)
 * [Stack: building GHC from source](https://hsyl20.fr/home/posts/2019-04-17-ghc-hacking-with-stack.html)
 * [Initial Hacking of GHC for GCC Link-time Optimization - Brandon.Si(mmons)](http://brandon.si/code/initial-hacking-of-ghc-for-gcc-link-time-optimization/)
+* [GHC's Specializer: Much More Than You Wanted to Know :: Reasonably Polymorphic](https://reasonablypolymorphic.com/blog/specialization/)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
