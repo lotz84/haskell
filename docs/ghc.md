@@ -123,6 +123,7 @@
 * [Stack: building GHC from source](https://hsyl20.fr/home/posts/2019-04-17-ghc-hacking-with-stack.html)
 * [Initial Hacking of GHC for GCC Link-time Optimization - Brandon.Si(mmons)](http://brandon.si/code/initial-hacking-of-ghc-for-gcc-link-time-optimization/)
 * [GHC's Specializer: Much More Than You Wanted to Know :: Reasonably Polymorphic](https://reasonablypolymorphic.com/blog/specialization/)
+* [A modern look at GRIN, an optimizing functional language back end](https://nbviewer.jupyter.org/github/Anabra/grin/blob/fd9de6d3b9c7ec5f4aa7d6be41285359a73494e3/papers/stcs-2019/article/tex/main.pdf)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
