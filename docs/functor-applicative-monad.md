@@ -222,6 +222,7 @@ class Monad m where
 * [具体的な値でモナド則を確認する - Maybe編 - Qiita](https://qiita.com/eielh/items/cc4293ffefb1730f044b)
 * [具体的な値でモナド則を確認する - List編 - Qiita](https://qiita.com/eielh/items/f8cead2b81f6a56bdb72)
 * [Selectionモナド入門 - Qiita](https://qiita.com/lotz/items/22c60ea59e0a510738de)
+* [A Basis For Sequential Execution: Monads, Arrows, and More \| Aearnus’ Realm](https://aearnus.github.io/2019/05/10/a-basis-for-sequential-execution-monads-arrows-and-more)
 
 ```haskell
 do x <- mx
