@@ -365,6 +365,7 @@ Reader + Writer + State
 * [Scheduling Effects - Donnacha Oisín Kidney](https://doisinkidney.com/posts/2018-06-23-scheduling-effects.html)
 * [HANGMAN: IMPERATIVE FUNCTIONAL PROGRAMMING](http://www.stackbuilders.com/news/hangman-imperative-functional-programming)
 * [stdio - A simple and high-performance IO toolkit for Haskell \| Winter's Land](http://winterland.me/2019/02/17/stdio-A-simple-and-high-performance-IO%20toolkit-for-Haskell/)
+* [続くといいな日記 – GHC IO モナドの中身](https://mizunashi-mana.github.io/blog/posts/2019/05/ghc-io-inside/)
 
 #### 乱数
 * [Haskellの乱数事情](http://qiita.com/philopon/items/8f647fc8dafe66b7381b)
