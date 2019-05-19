@@ -2,6 +2,8 @@ LiquidHaskell
 --------------
 * [入門LiquidHaskell−篩型による静的コード解析−](https://taimen.jp/f/389)
 * [LiquidHaskell 入門 その1 - 存在と一意性の証明](https://forestaa.github.io/blog/posts/liquidhaskell1/)
+* [LiquidHaskell 入門 その2 - 存在と一意性の証明](https://forestaa.github.io/blog/posts/liquidhaskell2/)
+* [LiquidHaskell 入門 その3 - 存在と一意性の証明](https://forestaa.github.io/blog/posts/liquidhaskell3/)
 * [LiquidHaskell](https://ucsd-progsys.github.io/liquidhaskell-blog/)
 * [Announcing the refinement types library](http://nikita-volkov.github.io/refined/)
 * [Program Synthesis from Polymorphic Refinement Types](http://arxiv.org/abs/1510.08419)
