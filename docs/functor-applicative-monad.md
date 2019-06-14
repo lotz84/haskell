@@ -76,7 +76,6 @@ class Functor f => Applicative f where
 * [Showcasing Applicative](http://www.joachim-breitner.de/blog/710-Showcasing_Applicative)
 * [Day convolution intuition](http://math.stackexchange.com/questions/1650786/day-convolution-intuition/1651127#1651127)
 * [Refactoring with Applicatives in Haskell](http://www.bbenson.co/post/refactoring-with-applicatives-in-haskell/)
-* [Applicative Sorting](http://elvishjerricco.github.io/2017/03/23/applicative-sorting.html)
 * [LambdaCast 17: Applicative Functors](https://soundcloud.com/lambda-cast/17-applicative-functors)
 * [Applicative スタイル `f <$> m1 <*> m2` を読み解く - Qiita](http://qiita.com/DUxCA/items/2f2bb996ba4b5a2e4f07)
 * [Functorial Blog - Co Finds a Pairing](http://blog.functorial.com/posts/2017-12-10-Co-Finds-A-Pairing.html)
