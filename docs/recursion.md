@@ -121,6 +121,8 @@ class (Functor t, Foldable t) => Traversable t where
 * [Breadth-First Traversals in Far Too Much Detail - Donnacha Oisín Kidney](https://doisinkidney.com/posts/2018-06-03-breadth-first-traversals-in-too-much-detail.html)
 * [Traversable のための圏論 - Hexirp's Blog](https://hexirp.github.io/blog/articles/category_theory_for_traversable)
 * [Implicit Corecursive Queues - Donnacha Oisín Kidney](https://doisinkidney.com/posts/2019-05-14-corecursive-implicit-queues.html)
+* [Applicative Sorting](http://elvishjerricco.github.io/2017/03/23/applicative-sorting.html)
+* [treeowl/sort-traversable - Sort any Traversable container](https://github.com/treeowl/sort-traversable)
 
 #### Distributive
 Distributive is the categorical dual of Traversable.
