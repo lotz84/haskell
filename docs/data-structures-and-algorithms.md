@@ -308,6 +308,9 @@ main = do
     -- This is Bool!: True
 ```
 
+## Higher-Kinded Data
+* [i-am-tom/higgledy: Higher-kinded data via generics](https://github.com/i-am-tom/higgledy)
+
 ## 等式論証
 * [運算の楽しみ](http://qiita.com/nobsun/items/7f6b94fde0c09ed3ed6b)
 * [Equational reasoning](http://www.haskellforall.com/2013/12/equational-reasoning.html)
