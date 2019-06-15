@@ -61,6 +61,7 @@ instance Functor f => Monad (Free f) where
 * [Freer Monads: Too Fast, Too Free :: Reasonably Polymorphic](https://reasonablypolymorphic.com/blog/too-fast-too-free/)
 * [Tweag I/O - Capability is about free monads. It's a bird… It's a plane… It's a free monad!](https://www.tweag.io/posts/2019-03-20-capability-free-monad.html)
 * [任意の数の引数を取れる関数のデータ型を考えてたらモナドになった - Qiita](https://qiita.com/sgmryk/items/4f86ceb82d862cf57636)
+* [Lysxia - Free monads of free monads](https://blog.poisson.chat/posts/2019-06-09-free-monads-free-monads.html)
 
 ### Coyoneda
 * [Loop School - Coyoneda](http://school.looprecur.com/?video=122708005)
