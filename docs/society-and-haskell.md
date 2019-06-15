@@ -24,6 +24,7 @@
 * [最近のHaskell案件事情について - Qiita](https://qiita.com/reotasosan/items/e80ab706baefa5b536fd)
 * [HIW 2018・Haskell Symposium 2018に行ってきた \| IIJ Engineers Blog](https://eng-blog.iij.ad.jp/archives/2125)
 * [Brave New World - tales of PureScript and Haskell in production - Felix Mulder : haskell](https://www.reddit.com/r/haskell/comments/bvfj2e/brave_new_world_tales_of_purescript_and_haskell/)
+* [The Good, the Bad, and the Ugly: Haskell in Enterprise : haskell](https://www.reddit.com/r/haskell/comments/bscon6/the_good_the_bad_and_the_ugly_haskell_in/)
 
 ## コミュニティ
 * [Haskell Communities and Activities Report](https://wiki.haskell.org/Haskell_Communities_and_Activities_Report)
