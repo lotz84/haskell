@@ -23,6 +23,7 @@
 * [2018 state of Haskell survey results · taylor.fausak.me](https://taylor.fausak.me/2018/11/18/2018-state-of-haskell-survey-results/#question-077)
 * [最近のHaskell案件事情について - Qiita](https://qiita.com/reotasosan/items/e80ab706baefa5b536fd)
 * [HIW 2018・Haskell Symposium 2018に行ってきた \| IIJ Engineers Blog](https://eng-blog.iij.ad.jp/archives/2125)
+* [Brave New World - tales of PureScript and Haskell in production - Felix Mulder : haskell](https://www.reddit.com/r/haskell/comments/bvfj2e/brave_new_world_tales_of_purescript_and_haskell/)
 
 ## コミュニティ
 * [Haskell Communities and Activities Report](https://wiki.haskell.org/Haskell_Communities_and_Activities_Report)
