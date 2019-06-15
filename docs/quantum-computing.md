@@ -13,6 +13,12 @@
 * [A Touch of Topological Quantum Computation in Haskell Pt. I - Hey There Buddo!](http://www.philipzucker.com/a-touch-of-topological-quantum-computation-in-haskell-pt-i/)
 * [A Touch of Topological Quantum Computation in Haskell Pt. II: Automating Drudgery - Hey There Buddo!](http://www.philipzucker.com/a-touch-of-topological-quantum-computation-in-haskell-pt-ii-automating-drudgery/)
 
+## Formura
+* [格子計算プログラム生成言語Formuraを使ってみる その1 - Qiita](https://qiita.com/kaityo256/items/8b6c9ca1abeeef64f414)
+* [格子計算プログラム生成言語Formuraを使ってみる その2 - Qiita](https://qiita.com/kaityo256/items/7ff1fb39986414654824)
+* [格子計算プログラム生成言語Formuraを使ってみる その3 - Qiita](https://qiita.com/kaityo256/items/bfd327ecf4e79b8ab83d)
+* [格子計算プログラム生成言語Formuraを使ってみる その4 - Qiita](https://qiita.com/kaityo256/items/2dd11363769cb5f29bc2)
+
 ## 物理
 * [The units package](https://hackage.haskell.org/package/units)
 * [Haskellで物理を殴ってレベルが上がった話](http://qiita.com/nushio/items/7d534a08e5c30bae32d0)
