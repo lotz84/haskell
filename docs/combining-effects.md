@@ -88,6 +88,7 @@ Monad Transformer
 * [High-Performance Functional Programming Through Effect Rotation – John A De Goes](http://degoes.net/articles/rotating-effects)
 * [ReaderT パターン(翻訳) - LugendrePublic](https://scrapbox.io/LugendrePublic/ReaderT_%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3(%E7%BF%BB%E8%A8%B3))
 
+
 ## Extensible Effects
 * [Extensible Effects: an alternative to Monad Transformers](http://okmij.org/ftp/Haskell/extensible/)
 
@@ -105,6 +106,7 @@ Monad Transformer
 * [Announcing transformers-eff](https://ocharles.org.uk/blog/posts/2016-04-23-transformers-eff.html)
 * [The world's fastest extensible effects framework - School of Haskell \| School of Haskell](https://www.schoolofhaskell.com/user/fumieval/extensible/the-world-s-fastest-extensible-effects-framework)
 * [freer-effects: Implementation of effect system for Haskell.](https://hackage.haskell.org/package/freer-effects)
+* [Polysemy Internals: Freer Interpretations of Higher-Order Effects :: Reasonably Polymorphic](https://reasonablypolymorphic.com/blog/freer-higher-order-effects/)
 
 ### チュートリアル
 * [Extensible Effects はモナド変換子に対する救世主になり得るか？](http://konn-san.com/prog/haskell/extensible-effects.html)
