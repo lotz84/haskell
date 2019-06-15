@@ -126,6 +126,7 @@
 * [A modern look at GRIN, an optimizing functional language back end](https://nbviewer.jupyter.org/github/Anabra/grin/blob/fd9de6d3b9c7ec5f4aa7d6be41285359a73494e3/papers/stcs-2019/article/tex/main.pdf)
 * [GHC LLVM LTO Experiments Scratch Notes](http://brandon.si/code/ghc-llvm-lto-experiments-scratch-notes/)
 * [Oleg's gists - Compatibility packages](https://oleg.fi/gists/posts/2019-06-03-compat-packages.html)
+* [HaskellでAtCoderの問題を解く（入力の高速化編） - Qiita](https://qiita.com/hnw/items/3f7d27b742c5a1a99a9a)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
