@@ -537,6 +537,7 @@ Web Application Framework
 * [reneklacan/yesod-heroku-example](https://github.com/reneklacan/yesod-heroku-example) - Minimal example of a pipeline for deploying Yesod app to Heroku through CircleCI.
 * [ゲーム販売webアプリケーションSYAKERAKEを支える技術,HaskellとYesodで作られています - ncaq](https://www.ncaq.net/2017/12/03/00/00/00/)
 * [Yesodで作る，業務外社内ツール - wvogel日記](http://d.hatena.ne.jp/wvogel00/20171222/1513924995)
+* [Vagrant仮想環境に Yesod-MySQL をインストール - Qiita](https://qiita.com/rs06042/items/5424538a5769c51fab3c)
 
 Protocol
 --------
