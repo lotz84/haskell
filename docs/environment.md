@@ -128,6 +128,7 @@ $ brew install haskell-stack
 * [インデントで悩まないための単純な指針](http://d.hatena.ne.jp/mkotha/20111226/1324909427)
 * [memfrob.de - Announcing Floskell](https://memfrob.de/posts/announcing-floskell/)
 * [Haskell Style Guide](https://kowainik.github.io/posts/2019-02-06-style-guide)
+* [Tweag I/O - Ormolu: Format Haskell code like never before](https://www.tweag.io/posts/2019-05-27-ormolu.html)
 
 ----
 
