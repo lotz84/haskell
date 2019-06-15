@@ -58,6 +58,7 @@
 * [Regular Expressions of Types – Oleg Grenrus - SmallFP 2018-09-13 : haskell](https://www.reddit.com/r/haskell/comments/9gmpzc/regular_expressions_of_types_oleg_grenrus_smallfp/)
 * [先読み付き正規表現の微分について](https://makenowjust-labo.github.io/rewla/langimpl-ac2018.html)
 * [Applicative Regular Expressions using the Free Alternative · in Code](https://blog.jle.im/entry/free-alternative-regexp.html)
+* [ChrisPenner/lens-regex-pcre: Text lenses using PCRE regexes](https://github.com/ChrisPenner/lens-regex-pcre)
 
 ## パーサーコンビネータ
 * [JavaScriptでパーサコンビネータのコンセプトを理解する](http://blog.anatoo.jp/entry/2015/04/26/220026)
