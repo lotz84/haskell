@@ -112,6 +112,7 @@
 * [Lysxia - Higher-rank types in Standard Haskell](https://blog.poisson.chat/posts/2019-03-25-higher-rank-types.html)
 * [Discovering DataKinds at Runtime - Programmable Computer](https://programmable.computer/posts/datakinds_runtime.html)
 * [[1905.13706] A Role for Dependent Types in Haskell (Extended version)](https://arxiv.org/abs/1905.13706)
+* [Type-level FizzBuzz feat. UnsaturatedTypeFamilies](https://twitter.com/am_i_tom/status/1137120103764566016?s=09)
 
 ```haskell
 data Bottom
