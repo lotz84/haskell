@@ -228,6 +228,7 @@
 * [nomeata/ghc-heap-view](https://github.com/nomeata/ghc-heap-view)
 * [Time and allocation profiling in Haskell](http://marcjuch.li/blog/2015/05/19/time-allocation-profiling-in-haskell/)
 * [Top tips and tools for optimising Haskell](https://blog.pusher.com/top-tips-and-tools-for-optimising-haskell/)
+* [Profiling in Haskell for a 10x Speedup - Bits, Bytes, and Words](https://blog.jez.io/profiling-in-haskell/)
 
 ```bash
 $ # To build with profiling enabled:
