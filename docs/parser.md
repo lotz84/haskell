@@ -42,6 +42,7 @@
 * [Haskell Works Blog - Introduction to SIMD with linecount](https://haskell-works.github.io/posts/2018-09-03-simd-with-linecount.html)
 * [Haskell の Fixity Resolution を試してみる - Qiita](https://qiita.com/wgag/items/2967ea6994832d2232f8)
 * [Parsing and generating ABIF files (DNA chromatograms)](https://www.andrevdm.com/posts/2019-01-09-abif-chromatograms.html)
+* [github/semantic: Parsing, analyzing, and comparing source code across many languages](https://github.com/github/semantic)
 
 ## 正規表現
 * [関数型的正規表現マッチ](https://research.preferred.jp/2010/11/regexp-play/)
