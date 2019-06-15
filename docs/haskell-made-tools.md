@@ -408,6 +408,10 @@ Line 6:
 ### Taskell
 * [smallhadroncollider/taskell: A command line task manager written in Haskell](https://github.com/smallhadroncollider/taskell)
 
+### TaskLite
+* [Introduction - TaskLite Documentation](http://tasklite.ad-si.com/)
+* > TaskLite is a CLI task manager built with Haskell and SQLite.
+
 ### ThreadScope
 * A graphical tool for profiling parallel Haskell programs
 * <https://github.com/haskell/ThreadScope>
