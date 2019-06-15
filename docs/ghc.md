@@ -203,6 +203,7 @@
 * [Fūzetsu's Corner - GHC can output profiling information as JSON and you should use it.](http://fuuzetsu.co.uk/blog/posts/2018-03-02-GHC-can-output-profiles-in-JSON-format.html)
 * [Compact Regionsについて軽く - Qiita](https://qiita.com/ruicc/items/c955e794c5dc74c4cb58)
 * [Haskellで解くAtCoder - The curse of λ](https://myuon.github.io/posts/haskell-atcoder/)
+* [HaskellでAtCoderに参戦して水色になった \| 雑記帳](https://blog.miz-ar.info/2019/05/atcoder-with-haskell/)
 * [【低レベルHaskell】Haskell (GHC) でもインラインアセンブリに肉薄したい！ - Qiita](https://qiita.com/mod_poppo/items/793fdb08e62591d6f3fb)
 
 ### スペースリーク
