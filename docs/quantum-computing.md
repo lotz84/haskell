@@ -24,3 +24,4 @@
 * [Hamiltonian Dynamics in Haskell · in Code](https://blog.jle.im/entry/hamiltonian-dynamics-in-haskell.html)
 * [[1611.09471] Learn Quantum Mechanics with Haskell](https://arxiv.org/abs/1611.09471)
 * [physics: dimensions, quantities and constants](https://hackage.haskell.org/package/physics)
+* [Dimensions and Haskell: Introduction - Serokell](https://serokell.io/blog/dimensions-and-haskell-introduction)
