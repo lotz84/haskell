@@ -1,4 +1,5 @@
 [Haskell 2010 言語報告書](http://www.sampou.org/haskell/haskell2010-report-htja/)
+[Why Haskell - why GitHub use Haskell for their newly released Semantic package](https://github.com/github/semantic/blob/master/docs/why-haskell.md)
 
 * [STANDARDIZED LADDER OF FUNCTIONAL PROGRAMMING](https://pbs.twimg.com/media/CydL5EYUsAAI-61.jpg:large)
 * [Anatomy of a Haskell-based Application](http://abailly.github.io/posts/cm-arch-design.html)
