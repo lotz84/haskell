@@ -169,6 +169,7 @@
 * [Strings – Haskell – Aelve Guide](https://guide.aelve.com/haskell/strings-o62hqc69)
 * [文字列と自然数の全単射を構成する - Qiita](https://qiita.com/lambda_x_x/items/22094e2af6df22850532)
 * [Channable - How we made Haskell search strings as fast as Rust](https://tech.channable.com/posts/2019-03-13-how-we-made-haskell-search-strings-as-fast-as-rust.html)
+* [String interpolation and overlapping instances 101 \| William Yao](https://williamyaoh.com/posts/2019-05-27-string-interpolation-and-overlapping-instances.html)
 
 ## 集合
 * [24 days of Hackage, 2015: day 8: multiset; I wish this were in the standard containers package](http://conscientiousprogrammer.com/blog/2015/12/08/24-days-of-hackage-2015-day-8-multiset-i-wish-this-were-in-the-standard-containers-package/)
