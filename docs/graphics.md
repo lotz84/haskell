@@ -63,6 +63,7 @@
 * [dbousamra/hnes: NES Emulator written in Haskell](https://github.com/dbousamra/hnes/)
 * [Andre's Blog - Haskell roguelike](http://www.andrevdm.com/posts/2018-04-02-haskell-rogue-like.html)
 * [Fluxを再発明する - The curse of λ](https://myuon.github.io/posts/refluxible-library/)
+* [Purely Functional Games / _gilmi](https://soupi.github.io/rfc/pfgames/)
 
 ## Gloss
 * [gloss](http://hackage.haskell.org/package/gloss)
