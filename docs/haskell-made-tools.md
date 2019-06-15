@@ -223,6 +223,9 @@ $ hobbes "*.hs" | xargs -n1 ghc --make
 * ghciベースのプレゼンテーションツール
 * <https://github.com/fokot/howerpoint>
 
+### hsp
+* [bawolk/hsp: Haskell command line text stream processor](https://github.com/bawolk/hsp#readme)
+
 ### identicon
 * Flexible generation of identicons in Haskell
 * <https://github.com/mrkkrp/identicon>
