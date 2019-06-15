@@ -77,6 +77,7 @@ type a * b = (a, b)
 * [Codata](http://types2004.lri.fr/SLIDES/altenkirch.pdf)
 * [Data and Codata](http://blog.sigfpe.com/2007/07/data-and-codata.html)
 * [Co-data 【新歓ブログリレー2017 21日目】 | 東京工業大学デジタル創作同好会traP](https://trap.jp/post/199/)
+* [Codata in action, or how to connect Functional Programming and Object Oriented Programming](http://www.javiercasas.com/articles/codata-in-action)
 
 ### Zipper
 * [zipper](https://hackage.haskell.org/package/zipper)
