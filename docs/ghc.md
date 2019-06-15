@@ -124,6 +124,8 @@
 * [Initial Hacking of GHC for GCC Link-time Optimization - Brandon.Si(mmons)](http://brandon.si/code/initial-hacking-of-ghc-for-gcc-link-time-optimization/)
 * [GHC's Specializer: Much More Than You Wanted to Know :: Reasonably Polymorphic](https://reasonablypolymorphic.com/blog/specialization/)
 * [A modern look at GRIN, an optimizing functional language back end](https://nbviewer.jupyter.org/github/Anabra/grin/blob/fd9de6d3b9c7ec5f4aa7d6be41285359a73494e3/papers/stcs-2019/article/tex/main.pdf)
+* [GHC LLVM LTO Experiments Scratch Notes](http://brandon.si/code/ghc-llvm-lto-experiments-scratch-notes/)
+* [Oleg's gists - Compatibility packages](https://oleg.fi/gists/posts/2019-06-03-compat-packages.html)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
