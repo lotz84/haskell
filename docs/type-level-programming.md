@@ -113,6 +113,7 @@
 * [Discovering DataKinds at Runtime - Programmable Computer](https://programmable.computer/posts/datakinds_runtime.html)
 * [[1905.13706] A Role for Dependent Types in Haskell (Extended version)](https://arxiv.org/abs/1905.13706)
 * [Type-level FizzBuzz feat. UnsaturatedTypeFamilies](https://twitter.com/am_i_tom/status/1137120103764566016?s=09)
+* [On the arity of type families - Ryan Scott](https://ryanglscott.github.io/2019/05/26/on-the-arity-of-type-families/)
 
 ```haskell
 data Bottom
