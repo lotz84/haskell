@@ -442,6 +442,9 @@ Line 6:
 * `wrecker` is an HTTP benchmarking library and executable for profiling several API actions.
 * <https://github.com/skedgeme/wrecker>
 
+### wstunnel
+* [erebe/wstunnel: Tunneling over websocket protocol - Static binary available](https://github.com/erebe/wstunnel)
+
 ### xmonad
 * X11のウィンドウマネージャ
 * <http://xmonad.org/>
