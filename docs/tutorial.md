@@ -163,6 +163,8 @@
 * [Haskell for Readers](http://haskell-for-readers.nomeata.de/)
 * [Build Haskell stuff in your browser](https://2mol.github.io/posts/replit-haskell/)
 * [To Kata Haskellen Evangelion](https://cosmius.bitbucket.io/tkhe/)
+* [thomashartmann.dev::Let's read: Haskell Programming from First Principles, pt I](https://thomashartmann.dev/blog/lets-read-haskell-programming-from-first-principles-pt-i/)
+* [thomashartmann.dev::Let's read: Haskell Programming from First Principles, pt II](https://thomashartmann.dev/blog/lets-read-haskell-programming-from-first-principles-pt-ii/)
 
 ## Examples
 
