@@ -91,6 +91,7 @@
 * [HaskellでのQuickCheckとData.ByteString.Char8の罠 - Qiita](https://qiita.com/A_kirisaki/items/ae8ac60ead2e17a87bad)
 * [QuickCheck, Hedgehog, Validity](https://www.fpcomplete.com/blog/quickcheck-hedgehog-validity)
 * [Well-Typed - The Haskell Consultants: Integrated versus Manual Shrinking](http://www.well-typed.com/blog/2019/05/integrated-shrinking/)
+* [How to Specify it!](https://www.dropbox.com/s/tx2b84kae4bw1p4/paper.pdf?dl=0)
 
 ```haskell
 import Data.List
