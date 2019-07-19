@@ -165,6 +165,7 @@
 * [To Kata Haskellen Evangelion](https://cosmius.bitbucket.io/tkhe/)
 * [thomashartmann.dev::Let's read: Haskell Programming from First Principles, pt I](https://thomashartmann.dev/blog/lets-read-haskell-programming-from-first-principles-pt-i/)
 * [thomashartmann.dev::Let's read: Haskell Programming from First Principles, pt II](https://thomashartmann.dev/blog/lets-read-haskell-programming-from-first-principles-pt-ii/)
+* [jamesdbrock/learn-you-a-haskell-notebook](https://gke.mybinder.org/v2/gh/jamesdbrock/learn-you-a-haskell-notebook/master?urlpath=lab/tree/learn_you_a_haskell/00-preface.ipynb)
 
 ## Examples
 
