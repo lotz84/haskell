@@ -115,6 +115,7 @@
 * [Type-level FizzBuzz feat. UnsaturatedTypeFamilies](https://twitter.com/am_i_tom/status/1137120103764566016?s=09)
 * [On the arity of type families - Ryan Scott](https://ryanglscott.github.io/2019/05/26/on-the-arity-of-type-families/)
 * [Faking Fundeps with Typechecker Plugins :: Reasonably Polymorphic](https://reasonablypolymorphic.com/blog/faking-fundeps/)
+* [chshersh/type-errors-pretty: Combinators for writing pretty type errors easily](https://github.com/chshersh/type-errors-pretty)
 
 ```haskell
 data Bottom
