@@ -28,3 +28,4 @@
 * [DEPENDENT TYPES IN HASKELL: THEORY AND PRACTICE](http://www.cis.upenn.edu/~sweirich/papers/eisenberg-thesis.pdf)
 * [Bound](https://www.schoolofhaskell.com/user/edwardk/bound)
 * [Writing a simple evaluator and type-checker in Haskell \| bor0's blog](https://bor0.wordpress.com/2019/03/15/writing-a-simple-evaluator-and-type-checker-in-haskell/)
+* [Lambda calculus - Lambda Calculus](https://crypto.stanford.edu/~blynn/lambda/)
