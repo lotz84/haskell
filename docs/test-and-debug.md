@@ -157,4 +157,4 @@ Passed:
 * [github/deli](https://github.com/github/deli)
 * [When children processes exit - a debugging story](https://www.fpcomplete.com/blog/when-children-processes-exit-debugging-story)
 * [🚰 Hunting leaks with GDB](https://lukelau.me/haskell/posts/leak/)
-
+* [Implement With Types, Not Your Brain! :: Reasonably Polymorphic](https://reasonablypolymorphic.com/blog/typeholes/)
