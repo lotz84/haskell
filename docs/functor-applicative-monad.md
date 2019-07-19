@@ -87,6 +87,7 @@ class Functor f => Applicative f where
 * [The Const Applicative and Monoids · in Code](https://blog.jle.im/entry/const-applicative-and-monoids.html)
 * [Selective applicative functors \| no time](https://blogs.ncl.ac.uk/andreymokhov/selective/)
 * [Selective Applicative Functors](https://www.staff.ncl.ac.uk/andrey.mokhov/selective-functors.pdf)
+* [An Applicative for Transactional Validation - Lumi Engineering](https://www.lumi.dev/blog/an-applicative-for-transactional-validation)
 
 ### Discrimination
 * [discrimination](http://hackage.haskell.org/package/discrimination)
