@@ -220,6 +220,7 @@ Stack開発の知見が集められたライブラリ
 * [Exploring Nix & Haskell Part 2: Dev Tools & IDE Integration – Christian Henry](https://cah6.github.io/technology/nix-haskell-2/)
 * [Exploring Nix & Haskell Part 3: Less Nix, More Reflex – Christian Henry](https://cah6.github.io/technology/nix-haskell-3/)
 * [fghibellini/nix-haskell-monorepo: Pragmatic tutorial on how to use nix with a haskell monorepo](https://github.com/fghibellini/nix-haskell-monorepo)
+* [Haskell - Haskell Fan Site](http://www-cs-students.stanford.edu/~blynn/haskell/)
 
 ## Docker
 * [Dockerfile Linter](http://hadolint.lukasmartinelli.ch/)
