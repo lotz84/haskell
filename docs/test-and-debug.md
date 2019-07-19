@@ -155,3 +155,4 @@ Passed:
 * [Detecting the undetectable: custom type errors for stuck type families – ( )](https://kcsongor.github.io/report-stuck-families/)
 * [Valid Hole Fits](https://wataru86.github.io/slides/vhs/)
 * [github/deli](https://github.com/github/deli)
+* [When children processes exit - a debugging story](https://www.fpcomplete.com/blog/when-children-processes-exit-debugging-story)
