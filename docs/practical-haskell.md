@@ -499,3 +499,4 @@ Stack開発の知見が集められたライブラリ
 * [Duckling (•ө•) を使って時間、日付抽出をしてみた！ - Qiita](https://qiita.com/reotasosan/items/f131f0e5eba5fbddc256)
 * [「アンダースタンディング コンピュテーション」を Haskell でやってみた - Qiita](https://qiita.com/spinylobster/items/6323f2ad37cdd96da7be)
 * [「サイゼリヤで1000円あれば最大何kcal摂れるのか」をSMTソルバー(Z3)で解いてみた。 - Qiita](https://qiita.com/tanakh/items/a1fb13f78e0576415de3)
+* [Global Implicit Parameters – ( )](https://kcsongor.github.io/global-implicit-parameters/)
