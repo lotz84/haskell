@@ -143,6 +143,7 @@ parse = evalStateT
 * [sv: Encode and decode separated values (CSV, PSV, ...)](https://hackage.haskell.org/package/sv)
 * [haskell-perf/csv: Simple comparative benchmarks for CSV parsing libraries](https://github.com/haskell-perf/csv#file-space)
 * [Queensland FP Lab - Announcing sv 1.0](https://qfpl.io/posts/sv-1.0/)
+* [Oleg's gists - Fancy types for CSV library](https://oleg.fi/gists/posts/2019-07-15-fancy-types-for-cassava.html)
 
 ### XML
 * [xml-conduit](https://hackage.haskell.org/package/xml-conduit)
