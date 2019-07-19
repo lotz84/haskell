@@ -116,6 +116,7 @@
 * [On the arity of type families - Ryan Scott](https://ryanglscott.github.io/2019/05/26/on-the-arity-of-type-families/)
 * [Faking Fundeps with Typechecker Plugins :: Reasonably Polymorphic](https://reasonablypolymorphic.com/blog/faking-fundeps/)
 * [chshersh/type-errors-pretty: Combinators for writing pretty type errors easily](https://github.com/chshersh/type-errors-pretty)
+* [The surprising rigidness of higher-rank kinds - Ryan Scott](https://ryanglscott.github.io/2019/07/10/the-surprising-rigidness-of-higher-rank-kinds/)
 
 ```haskell
 data Bottom
