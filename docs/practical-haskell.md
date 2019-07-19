@@ -243,6 +243,7 @@ Stack開発の知見が集められたライブラリ
 * [HaskellでもGoみたいにシングルバイナリでアプリケーションをデプロイしたい - Qiita](https://qiita.com/t10471/items/4afa598e1be5d6c7cc1f)
 * [Haskell のアプリケーション向けに軽量の Dockerイメージ を作る (和訳) - Qiita](https://qiita.com/rounddelta/items/d767f36d544427a9c60d)
 * [HaskellとstackとDockerと - Qiita](https://qiita.com/A_kirisaki/items/0f4a51a02934709124c4)
+* [Oleg's gists - Multi-stage docker build of Haskell webapp](http://oleg.fi/gists/posts/2019-07-04-docker-haskell-example.html)
 
 ## CI
 * [Shake](http://shakebuild.com/)
