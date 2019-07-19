@@ -77,6 +77,7 @@
 * [Lens into wrapped newtypes / Jappie](https://jappieklooster.nl/lens-into-wrapped-newtypes.html)
 * [Exercises for understanding lenses \| William Yao](https://williamyaoh.com/posts/2019-04-25-lens-exercises.html)
 * [Lens as a Divisibility Relation: Goofin' Off With the Algebra of Types - Hey There Buddo!](http://www.philipzucker.com/lens-as-a-divisibility-relation-goofin-off-with-the-algebra-of-types/)
+* [ChrisPenner/lens-errors: Handling errors which occur deep inside lens-chains](https://github.com/ChrisPenner/lens-errors#readme)
 
 > Thus the Yoneda embedding of the functor category leads to the van Laarhoven representation of the lens
 
