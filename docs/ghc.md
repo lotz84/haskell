@@ -23,6 +23,7 @@
 * [GHCのソースコードのノートを読むやつを作った - The curse of λ](https://myuon.github.io/posts/ghc-compiler-notes/)
 * [続くといいな日記 – GHC のノートコメントについてのあれこれ](https://mizunashi-mana.github.io/blog/posts/2019/04/ghc-compiler-notes/)
 * [def-/ghc-vis](https://github.com/def-/ghc-vis)
+* [Hacking on GHC Has Never Been Easier! - Vaibhav Sagar](https://vaibhavsagar.com/blog/2019/06/22/easy-ghc-hacking/)
 * [Haskell Hierarchical Libraries](https://downloads.haskell.org/~ghc/latest/docs/html/libraries/index.html)
 * [Naïve Haskell data representation](http://www.scs.stanford.edu/14sp-cs240h/slides/memory-slides.html#(11))
 * [Haskell Compiler (compiler)](http://www.scs.stanford.edu/14sp-cs240h/slides/ghc-compiler-slides.html)
