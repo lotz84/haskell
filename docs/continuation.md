@@ -52,6 +52,7 @@ newtype Cont r a = Cont { runCont :: (a -> r) -> r }
 * [Forking and ContT (I)](https://hexagoxel.de/postsforpublish/posts/2018-09-09-cont-part-one.html)
 * [ContT, withLifted and resetContIO (II)](https://hexagoxel.de/postsforpublish/posts/2018-09-12-cont-part-two.html)
 * [Fun fact: The continuation monad `Cont r a` has an equality instance when `r` is finite. : haskell](https://www.reddit.com/r/haskell/comments/ahu6jp/fun_fact_the_continuation_monad_cont_r_a_has_an/)
+* [Why would you use ContT?](https://ro-che.info/articles/2019-06-07-why-use-contt)
 
 ### 継続による計算の効率化
 継続を使って短絡評価が実装できる  
