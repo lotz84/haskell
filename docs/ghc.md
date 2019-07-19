@@ -127,6 +127,7 @@
 * [GHC LLVM LTO Experiments Scratch Notes](http://brandon.si/code/ghc-llvm-lto-experiments-scratch-notes/)
 * [Oleg's gists - Compatibility packages](https://oleg.fi/gists/posts/2019-06-03-compat-packages.html)
 * [HaskellでAtCoderの問題を解く（入力の高速化編） - Qiita](https://qiita.com/hnw/items/3f7d27b742c5a1a99a9a)
+* [How I Intend to Help Steer GHC :: Reasonably Polymorphic](https://reasonablypolymorphic.com/blog/steering/)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
