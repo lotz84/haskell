@@ -430,6 +430,9 @@ Line 6:
 * A command line tool to identify unused code.
 * <https://github.com/joshuaclayton/unused>
 
+### waymonad
+* [waymonad/waymonad: A wayland compositor based on ideas from and inspired by xmonad](https://github.com/waymonad/waymonad)
+
 ### webify
 * webfont generator - converts ttf to woff, eot and svg
 * <https://github.com/ananthakumaran/webify>
