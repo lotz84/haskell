@@ -29,6 +29,7 @@ class Functor f where
 * [Functor Functors](https://www.benjamin.pizza/posts/2017-12-15-functor-functors.html)
 * [Deriving not-so-complex types – Techscape](https://blog.ramdoot.in/deriving-not-so-complex-types-ec5987f6d95c)
 * [Functor-Of](https://cvlad.info/functor-of/)
+* [The Functor Combinatorpedia · in Code](https://blog.jle.im/entry/functor-combinatorpedia.html)
 
 ### Bifunctor
 * [bifunctor](https://hackage.haskell.org/package/bifunctors)
