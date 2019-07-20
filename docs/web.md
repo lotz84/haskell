@@ -83,6 +83,7 @@ Client
   * [seek-oss/serverless-haskell: Deploying Haskell applications to AWS Lambda with Serverless](https://github.com/seek-oss/serverless-haskell)
   * [Nike-Inc/hal: hal provides an AWS Lambda Custom Runtime environment for your Haskell applications.](https://github.com/Nike-Inc/hal)
   * [Releasing AWS Lambda Haskell Runtime v2 - The Agile Monkeys Journey - Medium](https://medium.com/the-theam-journey/releasing-aws-lambda-haskell-runtime-v2-94e7d5add938)
+  * [Slack の スラッシュコマンドを Lambda 上の Haskell で書いてみる - Qiita](https://qiita.com/yasuabe2613/items/0f15e261d1893b9476f8)
 * Reddit - [reddit](https://hackage.haskell.org/package/reddit)
 * IRC - [glguy/irc-core](https://github.com/glguy/irc-core)
 * Twilio - [steven777400/TwilioIVR](https://github.com/steven777400/TwilioIVR/)
