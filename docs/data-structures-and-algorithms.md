@@ -205,7 +205,7 @@
 * [vrom911/slist: ♾️ Sized list](https://github.com/vrom911/slist)
 * [Haskell のリストを左結合で連結すると効率が悪い理由 - Qiita](https://qiita.com/spinylobster/items/713c3777374c02af6896)
 
-## 配列
+## array/vector
 * [The vector package](https://hackage.haskell.org/package/vector)
 * [The array package](https://hackage.haskell.org/package/array)
 * [すごい配列楽しく学ぼう](http://www.slideshare.net/xenophobia__/ss-14558187)
@@ -223,6 +223,7 @@
 * [Tweag I/O - Immutability and unboxing in array programming](http://www.tweag.io/posts/2017-09-27-array-package.html)
 * [Tweag I/O - Array fusion with vector](http://www.tweag.io/posts/2017-10-12-vector-package.html)
 * [Unlifted Structures - School of Haskell | School of Haskell](https://www.schoolofhaskell.com/user/edwardk/unlifted-structures)
+* [unboxing-vectorの紹介：newtypeフレンドリーなunboxed vector - Qiita](https://qiita.com/mod_poppo/items/cf6b66ff16464c170ac2)
 
 ## 木
 * [Haskell Tutorial: Implementing highly efficient data structures with Monoids and Fingertrees](https://www.codementor.io/haskell/tutorial/monoids-fingertrees-implement-abstract-data)
