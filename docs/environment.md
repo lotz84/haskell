@@ -118,6 +118,7 @@ $ brew install haskell-stack
 * [[Haskell] [ANN] HyperHaskell -- the strongly hyped Haskell	interpreter](https://mail.haskell.org/pipermail/haskell/2016-October/025010.html)
 * [ghcid for the win!](http://www.parsonsmatt.org/2018/05/19/ghcid_for_the_win.html)
 * [kazu-yamamoto/hhp: Happy Haskell Programming](https://github.com/kazu-yamamoto/hhp)
+* [hieのインストールに苦労した（Windows10) - Qiita](https://qiita.com/oze/items/6313604c37844c1f2dcd)
 
 ## Formatter/Linter
 * [Haskellの静的解析ツール HLint を使おう](http://qiita.com/suzuki-hoge/items/6d101e523620178c6f7b)
