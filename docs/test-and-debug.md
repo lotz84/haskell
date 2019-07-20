@@ -158,3 +158,4 @@ Passed:
 * [When children processes exit - a debugging story](https://www.fpcomplete.com/blog/when-children-processes-exit-debugging-story)
 * [🚰 Hunting leaks with GDB](https://lukelau.me/haskell/posts/leak/)
 * [Implement With Types, Not Your Brain! :: Reasonably Polymorphic](https://reasonablypolymorphic.com/blog/typeholes/)
+* [GHCiでHaskellデバッグ チートシート - Qiita](https://qiita.com/kekeho/items/a794fc165fd8e9517479)
