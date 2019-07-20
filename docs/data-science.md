@@ -53,6 +53,7 @@
 * [tweag/sparkle: Haskell on Apache Spark.](https://github.com/tweag/sparkle)
 * [Bounded Variation by boundedvariation](http://boundedvariation.github.io/)
 * [Jun Inoueさんのツイート: "Haskell で Euler やる人は arithmoi パッケージを入れておきましょう。2009 年ごろまでは一番解いてる Haskeller だった Daniel Fischer が書いたもので、クッソ速い整数冪根とかメビウス変換、ヤコビ記号などが手に入ります。"](https://twitter.com/jun0inoue/status/373434443253305344)
+* [Dimensions and Haskell: Singletons in Action - Serokell](https://serokell.io/blog/dimensions-haskell-singletons)
 
 ## 数値計算・可視化
 * [scientific](https://hackage.haskell.org/package/scientific)
