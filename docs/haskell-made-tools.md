@@ -247,6 +247,7 @@ $ hobbes "*.hs" | xargs -n1 ghc --make
 ### lamdu
 * lamdu - towards the next generation IDE
 * <https://github.com/lamdu/lamdu>
+* [Lamdu - 次世代のライブコーディング環境 MOONGIFT](https://www.moongift.jp/2019/07/lamdu-%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%96%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E7%92%B0%E5%A2%83/)
 
 ### life-sync
 * [kowainik/life-sync: 🔄 Synchronize personal configs across multiple machines](https://github.com/kowainik/life-sync)
