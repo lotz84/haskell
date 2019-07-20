@@ -387,6 +387,9 @@ Line 6:
 ### Simula
 * [SimulaVR/Simula](https://github.com/SimulaVR/Simula) - 3D Window Manager for Linux
 
+### SitePipe
+* [ChrisPenner/SitePipe: Yet another static site generator - non-opinionated, value-level. Less magic == easier to understand](https://github.com/chrispenner/sitepipe)
+
 ### slacky
 * <https://github.com/mitchellwrosen/slacky/wiki>
 
