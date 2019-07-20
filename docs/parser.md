@@ -103,6 +103,7 @@ parse = evalStateT
 * [パーサー結合子：ハスケル初心者のための解析](https://two-wrongs.com/parser-combinators-parsing-for-haskell-beginners.html)
 * [Parsing list comprehensions is hard](http://www.rntz.net/post/2018-07-10-parsing-list-comprehensions.html)
 * [「正規表現はあんまり使わないかな。パーサー使うから」っていう人の気持ちがわかった！ - Qiita](https://qiita.com/aiya000/items/82f432a4b19c60561c01)
+* [【Haskell】Persistentをstack installするときに発生するエラー対処。>=0.9.0 is required but it could not be found. - Qiita](https://qiita.com/moriwm77/items/aebda67739d8651ae21f)
 
 ### attoparsec
 * [The attoparsec package](http://hackage.haskell.org/package/attoparsec)
