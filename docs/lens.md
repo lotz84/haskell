@@ -13,6 +13,7 @@
 * [lens](https://hackage.haskell.org/package/lens)
 * [Control.Lens.Tutorial](https://hackage.haskell.org/package/lens-tutorial/docs/Control-Lens-Tutorial.html)
 * [Lensってなに？どういう仕組みなの？](http://qiita.com/cormojs/items/f94be4300b5cc60a9de0)
+* [Lensの仕組みがわかった - Qiita](https://qiita.com/sgmryk/items/c467af40c6c9df0f95a1)
 * [Kinokkory/lens-japanese](https://github.com/Kinokkory/lens-japanese/wiki)
 * [lensパッケージのオプティクス(弱い順)](http://fumieval.hatenablog.com/entry/2015/07/14/223329)
 * [A Clear Intro to Lenses](http://begriffs.com/posts/2016-01-07-clear-intro-to-lenses.html)
