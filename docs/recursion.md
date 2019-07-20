@@ -36,6 +36,7 @@ main = print (sum [1..10])
 * [余再帰あれこれ](https://gist.github.com/uduki/4030269)
 * [goな関数 - あどけない話](http://d.hatena.ne.jp/kazu-yamamoto/20171212/1513050147)
 * [Travis Athougies - Dynamic Programming in Haskell is Just Recursion](http://travis.athougies.net/posts/2018-05-05-dynamic-programming-is-recursion.html)
+* [不動点コンビネータで無名再帰を作る流れをおさらい - Qiita](https://qiita.com/todays-mitsui/items/a1cd29974ced3f011515)
 
 ## map, filter, foldr
 
