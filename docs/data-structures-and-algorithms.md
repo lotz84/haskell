@@ -48,6 +48,8 @@
 * [ポインタを使ったデータ構造をHaskellの代数的データ型と相互変換したい \| Aqueos Sodium Hydroxide](https://naohaq.github.io/haskell/2019/01/28/haskell-data-to-ptr.html)
 * [AtCoderの入力処理コードを自動生成してみた - Qiita](https://qiita.com/autotaker1984/items/78a35becf99b803c7c97)
 * [Bodigrim/poly](https://github.com/Bodigrim/poly)
+* [動的計画法を実現する代数〜トロピカル演算でグラフの最短経路を計算する〜 - Qiita](https://qiita.com/lotz/items/094bffd77b24e37bf20e)
+* [カタンの最長交易路(Longest Road)を探すために半環を考える - Qiita](https://qiita.com/tezca686/items/596ed7673a078170551f)
 
 ## Hackage
 * [The grid package](http://hackage.haskell.org/package/grid)
