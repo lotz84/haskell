@@ -119,6 +119,7 @@ type a * b = (a, b)
 * [Return a Function to Avoid Effects](https://www.parsonsmatt.org/2019/03/22/return_a_function_to_avoid_effects.html)
 * [Haskell で「エラトステネスの篩」 その１ - Qiita](https://qiita.com/little_Haskeller/items/e73d54835b5772a55e81)
 * [Haskell で「エラトステネスの篩」 その２ - Qiita](https://qiita.com/little_Haskeller/items/a3ec4c82c7099f1c9cf1)
+* [Haskellの関数の型とかカリー化とか #Haskell - Qiita](https://qiita.com/Tatsuki-I/items/d1d122107da8c1ee121f)
 
 ### パターンマッチ
 * [Pattern matching](http://mbps.hatenablog.com/entry/2014/10/04/010000)
