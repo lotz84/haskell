@@ -27,7 +27,6 @@
 * [Haskellの入門から中級者になるまでの指針 - Qiita](https://qiita.com/Lugendre/items/70e517e59698e0e435f5)
 
 ### 日本語チュートリアル
-
 * [Haskell、または関数プログラミングの景色について - Qiita](https://qiita.com/takenobu-hs/items/dc85d455fef41c091383)
 * [Haskell の難しさを分割し、理解していく](http://qiita.com/t9md/items/529a4297e841f330ee98)
 * [なぜ Haskell が好きなのか - 趣味はデバッグ……](http://kakkun61.hatenablog.com/entry/2017/12/25/%E3%81%AA%E3%81%9C_Haskell_%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%AA%E3%81%AE%E3%81%8B)
@@ -53,6 +52,7 @@
 * [AtCoder に登録したら解くべき精選過去問 10 問を Haskell で解いてみた - Qiita](https://qiita.com/hsjoihs/items/25a08b426196ab2b9bb0)
 * [Haskellにおける周辺概念をざっくり説明してみる (入門者向け) - Qiita](https://qiita.com/mitubaEX328/items/adb2fc8227c8635a257b)
 * [» プログラム言語の歴史　＜Haskell編＞](https://magazine.techcareer.jp/programming/haskell/4300/?doing_wp_cron=1552811660.4620618820190429687500)
+* [「Haskell入門」を読んで - hioki-daichi’s blog](https://hioki-daichi.hatenablog.com/entry/2018/03/18/103026)
 
 #### 講演資料
 * [すごいHaskell つくばで学ぼう！](https://github.com/nushio3/learn-haskell/blob/master/Tsukuba-2016.pdf)
@@ -82,7 +82,6 @@
 * [これから Haskell を学ぶ人のための書籍紹介 - Qiita](https://qiita.com/waddlaw/items/dd926462d398c4cbd019)
 
 ### 英語チュートリアル
-
 * [Haskell Notes for Professionals book](http://books.goalkicker.com/HaskellBook/)
 * [Reading Simple Haskell](https://soupi.github.io/rfc/reading_simple_haskell/)
 * [Keynote: Why Functional Programming Matters - John Hughes, Mary Sheeran (Lambda Days 2017) - YouTube](https://www.youtube.com/watch?v=1qBHf8DrWR8)
