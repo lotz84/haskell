@@ -89,6 +89,9 @@ instance Show Bool where
 ## 代数的な型クラス
 * [tower](https://tonyday567.github.io/tower/index.html)
 
+### Ord
+* [HaskellでOrdインスタンスを書くときの小技3選 - Qiita](https://qiita.com/mod_poppo/items/13becbf8ee20f487d3e8)
+
 ### Num
 * [Haskell の Num クラスに対する不満](http://d-poppo.nazo.cc/blog/2016/06/haskell-num-class/)
 * [tonyday567/numhask - A haskell numeric prelude, providing a clean structure for numbers and operations that combine them.](https://github.com/tonyday567/numhask)
