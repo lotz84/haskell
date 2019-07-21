@@ -80,6 +80,7 @@
 * [Lens as a Divisibility Relation: Goofin' Off With the Algebra of Types - Hey There Buddo!](http://www.philipzucker.com/lens-as-a-divisibility-relation-goofin-off-with-the-algebra-of-types/)
 * [ChrisPenner/lens-errors: Handling errors which occur deep inside lens-chains](https://github.com/ChrisPenner/lens-errors#readme)
 * [ChrisPenner/lens-filesystem: Lens interface for your filesystem; still a bit experimental](https://github.com/ChrisPenner/lens-filesystem)
+* [Profunctor Optics and the Yoneda Lemma](https://ifipwg21wiki.cs.kuleuven.be/pub/IFIP21/Brandenburg/wg21m77.pdf)
 
 > Thus the Yoneda embedding of the functor category leads to the van Laarhoven representation of the lens
 
