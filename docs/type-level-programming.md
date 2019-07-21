@@ -120,6 +120,7 @@
 * [functor.tokyo -- Open Sum Types in Haskell with world-peace](https://functor.tokyo/blog/2019-07-11-announcing-world-peace)
 * [A story told by Type Errors](https://kodimensional.dev/type-errors)
 * [isovector/type-errors: tools for writing better type errors](https://github.com/isovector/type-errors)
+* [８つの質問で、GHC の type-level language 業界の現状を知る - konn-san.com](https://konn-san.com/articles/2013-03-20-eight-questions-for-typelevel-programmer.html)
 
 ```haskell
 data Bottom
