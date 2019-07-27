@@ -132,21 +132,21 @@ parse = evalStateT
 * [language-rust: Parsing and pretty printing of Rust code](https://hackage.haskell.org/package/language-rust)
 * [language-c: Analysis and generation of C code](https://hackage.haskell.org/package/language-c)
 
-## データ構造
-### バイナリ
+## バイナリ
 * [Haskellでバイナリをパースする その１(たぶん続かない)](http://qiita.com/AyachiGin/items/4f9a0afea548288bfc87)
 
-### CSV
+## CSV
+* ベンチマーク
+  * https://github.com/haskell-perf/csv
 * [cassava](https://hackage.haskell.org/package/cassava)
-* [CSV encoding and decoding in Haskell with Cassava](https://www.stackbuilders.com/tutorials/haskell/csv-encoding-decoding/)
-* [CASSAVA MEGAPARSEC LIBRARY RELEASED](https://www.stackbuilders.com/news/cassava-megaparsec-library-released)
-* [readcsv: Lightweight CSV parser/emitter based on ReadP](https://hackage.haskell.org/package/readcsv-0.1)
+  * [CSV encoding and decoding in Haskell with Cassava](https://www.stackbuilders.com/tutorials/haskell/csv-encoding-decoding/)
+  * [CASSAVA MEGAPARSEC LIBRARY RELEASED](https://www.stackbuilders.com/news/cassava-megaparsec-library-released)
 * [sv: Encode and decode separated values (CSV, PSV, ...)](https://hackage.haskell.org/package/sv)
-* [haskell-perf/csv: Simple comparative benchmarks for CSV parsing libraries](https://github.com/haskell-perf/csv#file-space)
-* [Queensland FP Lab - Announcing sv 1.0](https://qfpl.io/posts/sv-1.0/)
+  * [Queensland FP Lab - Announcing sv 1.0](https://qfpl.io/posts/sv-1.0/)
+* [readcsv: Lightweight CSV parser/emitter based on ReadP](https://hackage.haskell.org/package/readcsv-0.1)
 * [Oleg's gists - Fancy types for CSV library](https://oleg.fi/gists/posts/2019-07-15-fancy-types-for-cassava.html)
 
-### XML
+## XML
 * [xml-conduit](https://hackage.haskell.org/package/xml-conduit)
   * [xml-lens](https://hackage.haskell.org/package/xml-lens)
 * [The hxt package](https://hackage.haskell.org/package/hxt)
@@ -154,29 +154,29 @@ parse = evalStateT
 * [ocramz/xeno: Fast Haskell XML parser](https://github.com/ocramz/xeno)
 * [4e6/haskell-perf-xml - Simple benchmarks for XML parsing libraries](https://github.com/4e6/haskell-perf-xml)
 
-### HTML
+## HTML
 * [A taste of tag soup](http://codekinder.com/wordpress/a-taste-of-tag-soup)
 * [How to write a simple MarkDown to inline-Styled HTml tool with Haskell](http://qiita.com/kimagure/items/97e8d7b9cb318ba7ebef)
 
-### Excel
+## Excel
 * [xlsx](https://hackage.haskell.org/package/xlsx)
 
-### PDF
+## PDF
 * [詳細PDF入門 ー 実装して学ぼう！PDFファイルの構造とその書き方読み方](http://itchyny.hatenablog.com/entry/2015/09/16/100000)
 
-### YAML
+## YAML
 * [yamadapc/haskell-frontmatter](https://github.com/yamadapc/haskell-frontmatter)
 * [YAML + Aeson Lenses](http://mojobojo.com/posts/2016-03-31-yaml-aeson-lenses.html)
 
-### RDF
+## RDF
 * [rdf4h RDF for Haskell](http://robstewart57.github.io/rdf4h/)
 
-### Markdown
+## Markdown
 * [snoyberg/markdown](https://github.com/snoyberg/markdown)
 * [cmark: Fast, accurate CommonMark (Markdown) parser and renderer](https://hackage.haskell.org/package/cmark)
 * [Announcing MMark](https://markkarpov.com/post/announcing-mmark.html)
 
-### JSON
+## JSON
 * [HaskellとJSON、そしてレコード型](http://syocy.hatenablog.com/entry/2017/08/14/235830)
 * [aeson](http://hackage.haskell.org/package/aeson)
   * [Aeson: the tutorial](http://artyom.me/aeson)
