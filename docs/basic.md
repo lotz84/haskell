@@ -198,6 +198,7 @@ fib n = fibs !! (n-1) + fibs !! (n-2)
 * [Haskell memoization](http://lukahorvat.github.io/programming/2014/11/18/haskell-memoization/)
 * [Haskellでメモ化を行うもう一つの方法](http://d.hatena.ne.jp/tanakh/20100411)
 * [Kwang's Haskell Blog - Memoization in Haskell](https://kseo.github.io//posts/2017-01-14-memoization-in-hasekll.html)
+* [関数のメモ化](https://kakkun61.hatenablog.com/entry/2019/07/29/%E9%96%A2%E6%95%B0%E3%81%AE%E3%83%A1%E3%83%A2%E5%8C%96)
 
 ### 正格評価
 * [fixpt - All About Strictness Analysis (part 1)](http://fixpt.de/blog/2017-12-04-strictness-analysis-part-1.html)
