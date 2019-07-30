@@ -281,6 +281,12 @@
 * [Haskellの時間系ライブラリ time が提供する型 - Qiita](https://qiita.com/lotz/items/f42d8dec1cfe713f6127)
 
 ## オブジェクト
+
+> オブジェクト指向は、ステートマシンを組み合わせてシステムを構築するものです。  
+> 関数型は普通のやつです。  
+> -- ゆかたゆ (@yukata_yu) July 28, 2019  
+> https://twitter.com/yukata_yu/status/1155406739233103873
+
 * [Encoding Objects - School of Haskell \| School of Haskell](https://www.schoolofhaskell.com/user/fumieval/encoding-objects)
 * [Object-Oriented Haskell](https://programming.tobiasdammers.nl/blog/2017-10-17-object-oriented-haskell)
 * [Haskellでいかに多態を表すか](http://fumieval.hatenablog.com/entry/2015/04/06/173848)
