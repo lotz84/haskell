@@ -103,6 +103,8 @@ Client
 * [himura/rio: Remote IO - A Tiny HTTP Client](https://github.com/himura/rio)
 * [ボットをHaskellで書きたくて、フレームワークから作ってみた \| IIJ Engineers Blog](https://eng-blog.iij.ad.jp/archives/2888)
 * [bitemyapp/bloodhound](https://github.com/bitemyapp/bloodhound) - Haskell Elasticsearch client and query DSL
+* [CS Syd - Testing the Super User Spark with HSpec](https://cs-syd.eu/posts/2016-02-28-testing-the-super-user-spark-with-hspec.html)
+* [tweag/sparkle: Haskell on Apache Spark.](https://github.com/tweag/sparkle)
 
 Scraping
 --------
