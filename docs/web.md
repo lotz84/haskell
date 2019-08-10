@@ -207,6 +207,7 @@ HTML Template
 * [Formlets are biapplicative](https://pepeiborra.wordpress.com/2017/09/21/formlets-are-biapplicative/)
 * [type-of-html: High performance type driven html generation.](https://hackage.haskell.org/package/type-of-html)
 * [nice-html: a fast and fancy HTML generation library](https://quasimal.com/posts/2018-01-11-nice-html.html)
+* [[ANN] colonnade : haskell](https://www.reddit.com/r/haskell/comments/5vga82/ann_colonnade/)
 
 ### Lucid
 * [chrisdone/lucid](https://github.com/chrisdone/lucid)
