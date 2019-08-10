@@ -53,6 +53,7 @@
 * [Haskellにおける周辺概念をざっくり説明してみる (入門者向け) - Qiita](https://qiita.com/mitubaEX328/items/adb2fc8227c8635a257b)
 * [» プログラム言語の歴史　＜Haskell編＞](https://magazine.techcareer.jp/programming/haskell/4300/?doing_wp_cron=1552811660.4620618820190429687500)
 * [「Haskell入門」を読んで - hioki-daichi’s blog](https://hioki-daichi.hatenablog.com/entry/2018/03/18/103026)
+* [Haskellを使おう (hiratara) - builderscon tokyo 2017 - YouTube](https://www.youtube.com/watch?v=2HVrFBYVNkI)
 
 #### 講演資料
 * [すごいHaskell つくばで学ぼう！](https://github.com/nushio3/learn-haskell/blob/master/Tsukuba-2016.pdf)
