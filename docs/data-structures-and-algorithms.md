@@ -334,3 +334,8 @@ main = do
 * [Why prove programs equivalent when your compiler can do that for you? – Blog – Joachim Breitner's Homepage](http://www.joachim-breitner.de/blog/717-Why_prove_programs_equivalent_when_your_compiler_can_do_that_for_you_)
 * [第三リスト準同型定理 - Qiita](https://qiita.com/muratak/items/216d6d7969aa0a53a52a)
 * [OBVERSE AND REVERSE](http://www.stackbuilders.com/news/obverse-and-reverse)
+
+## FFT
+* [Simple FFT in Haskell](https://ro-che.info/articles/2015-12-04-fft)
+* [Testing FFT with R](https://ro-che.info/articles/2015-12-05-testing-fft)
+* [conal/talk-2016-generic-fft](https://github.com/conal/talk-2016-generic-fft)
