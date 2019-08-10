@@ -12,6 +12,7 @@
 * [Picturing Quantum Processes](https://www.cs.ox.ac.uk/ss2014/programme/Bob.pdf)
 * [A Touch of Topological Quantum Computation in Haskell Pt. I - Hey There Buddo!](http://www.philipzucker.com/a-touch-of-topological-quantum-computation-in-haskell-pt-i/)
 * [A Touch of Topological Quantum Computation in Haskell Pt. II: Automating Drudgery - Hey There Buddo!](http://www.philipzucker.com/a-touch-of-topological-quantum-computation-in-haskell-pt-ii-automating-drudgery/)
+* [Scientific Computation and Functional Programming](https://karczmarczuk.users.greyc.fr/arpap/quantfun.pdf)
 
 ## Formura
 * [格子計算プログラム生成言語Formuraを使ってみる その1 - Qiita](https://qiita.com/kaityo256/items/8b6c9ca1abeeef64f414)
