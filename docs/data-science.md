@@ -11,7 +11,6 @@
 * [Jun Inoueさんのツイート: "Haskell で Euler やる人は arithmoi パッケージを入れておきましょう。2009 年ごろまでは一番解いてる Haskeller だった Daniel Fischer が書いたもので、クッソ速い整数冪根とかメビウス変換、ヤコビ記号などが手に入ります。"](https://twitter.com/jun0inoue/status/373434443253305344)
 * [statistics: A library of statistical types, data, and functions](https://hackage.haskell.org/package/statistics)
 * [Bounded Variation by boundedvariation](http://boundedvariation.github.io/)
-* [Dimensions and Haskell: Singletons in Action - Serokell](https://serokell.io/blog/dimensions-haskell-singletons)
 
 ## 機械学習
 * [mltool: Machine Learning Toolbox](https://hackage.haskell.org/package/mltool)
@@ -33,6 +32,8 @@
 * [Kalman filters and functional programming](http://www.johndcook.com/blog/2016/07/14/kalman-filters-and-functional-programming/)
 * [haskell-kalman-filter/Main.hs](https://github.com/akawashiro/haskell-kalman-filter/blob/master/Main.hs)
 * [gym-http-api: REST client to the gym-http-api project](https://hackage.haskell.org/package/gym-http-api)
+* [Dimensions and Haskell: Introduction - Serokell](https://serokell.io/blog/dimensions-and-haskell-introduction)
+* [Dimensions and Haskell: Singletons in Action - Serokell](https://serokell.io/blog/dimensions-haskell-singletons)
 
 ## 数値計算・可視化
 * [scientific](https://hackage.haskell.org/package/scientific)
