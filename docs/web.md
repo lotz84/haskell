@@ -102,6 +102,7 @@ Client
 * [matterhorn-chat/mattermost-api: Client side API for communicating with a mattermost server in Haskell](https://github.com/matterhorn-chat/mattermost-api)
 * [himura/rio: Remote IO - A Tiny HTTP Client](https://github.com/himura/rio)
 * [ボットをHaskellで書きたくて、フレームワークから作ってみた \| IIJ Engineers Blog](https://eng-blog.iij.ad.jp/archives/2888)
+* [bitemyapp/bloodhound](https://github.com/bitemyapp/bloodhound) - Haskell Elasticsearch client and query DSL
 
 Scraping
 --------
