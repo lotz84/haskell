@@ -72,6 +72,7 @@ type a * b = (a, b)
 * [代数的データ型のデータのとりうる数を微分すると１穴空きデータ型の数になる話 - Qiita](http://qiita.com/mittyantest/items/f8783834e6bb48baf2c8)
 * [代数的データ型とF代数 - Qiita](http://qiita.com/karrym/items/62c46a2c7640912a1a28)
 * [Adαm Schønemαnn - Pattern matching ADTs](https://adamschoenemann.dk/posts/2018-05-29-pattern-matching.html)
+* [代数的データ型と初等代数学 - ryota-ka's blog](https://ryota-ka.hatenablog.com/entry/2018/07/09/110000)
 
 ### Codata
 * [Codata](http://types2004.lri.fr/SLIDES/altenkirch.pdf)
