@@ -291,6 +291,10 @@ Stack開発の知見が集められたライブラリ
 * [You should try Hadrian \| no time](https://blogs.ncl.ac.uk/andreymokhov/you-should-try-hadrian/)
 * [Dead simple Haskell Travis settings for cabal and stack](https://chshersh.github.io/posts/2019-02-25-haskell-travis)
 
+## Hadrian
+* [HSoC — Hadrian Optimisation: First GHC Contribution (Update 4)](https://medium.com/@ratherforky/hsoc-hadrian-optimisation-update-4-47ab2b62b15a)
+
+
 ## Workflow
 * [tweag/funflow: Functional workflows](https://github.com/tweag/funflow)
 * [Tweag I/O - Funflow: typed resumable workflows](https://www.tweag.io/posts/2018-04-25-funflow.html)
