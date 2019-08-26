@@ -96,6 +96,7 @@ type a * b = (a, b)
 * [About kind system of Haskell (Part 1)](https://haskell.jp/blog/posts/2017/10-about-kind-system-part1.html)
 * [Haskellの種(kind)について (Part 2)](https://haskell.jp/blog/posts/2017/13-about-kind-system-part2.html)
 * [Haskell's kind system - a primer · dcastro](https://diogocastro.com/blog/2018/10/17/haskells-kind-system-a-primer/)
+* [Kind Inference for Datatypes](https://richarde.dev/papers/2019/kind-inference/kind-inference.pdf)
 
 ### 型付け
 
