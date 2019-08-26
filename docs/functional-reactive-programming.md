@@ -77,6 +77,7 @@
 * [gonimo/Gonimo-Architecture.md at master · gonimo/gonimo](https://github.com/gonimo/gonimo/blob/master/front/doc/Gonimo-Architecture.md)
 * [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk)
 * [Functional Reactive Programming with Reflex and CodeWorld](https://medium.com/@cdsmithus/functional-reactive-programming-with-reflex-and-codeworld-85495360f1b7)
+* [Atidot/reflex-widgets: Atidot Reflex FRP widgets](https://github.com/Atidot/reflex-widgets)
 
 ### Netwire
 * [Today in Code — Almost a Netwire 5 Tutorial](http://todayincode.tumblr.com/post/96914679355/almost-a-netwire-5-tutorial)
