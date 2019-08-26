@@ -119,6 +119,7 @@
 * [特級シリアライズライブラリ、winery 1.0解禁 - モナドとわたしとコモナド](http://fumieval.hatenablog.com/entry/2019/03/21/172101)
 * [bitvec: Unboxed bit vectors](https://hackage.haskell.org/package/bitvec)
 * [i-am-tom/higgledy - Higher-kinded data via generics](https://github.com/i-am-tom/higgledy)
+* [Insane in the Membrain](https://kowainik.github.io/posts/membrain)
 
 ## 数値
 * [Lazy unary numbers](http://www.edofic.com/posts/2015-05-03-unary-numbers.html)
