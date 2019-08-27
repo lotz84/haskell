@@ -195,4 +195,5 @@ class Functor g => Distributive g where
 * [累積百ます計算,パスカルの三角形,関・ベルヌーイ数を計算する - Qiita](https://qiita.com/cutsea110/items/6a28049337166d4d9c3f)
 
 ### その他
+* [Practical deforestation for fixed-point structures – introducing tungsten \| Alexandre Moine’s blog](https://blog.nyarlathotep.one/2019/07/practical-deforestation-for-fixed-point-structures/)
 * [ASTのための高階代数を元にした recursion schemes - Qiita](https://qiita.com/Mizunashi_Mana/items/d73162057ff276a3238a)
