@@ -405,6 +405,7 @@ Stack開発の知見が集められたライブラリ
 * [thma/LtuPatternFactory: Lambda the ultimate Pattern Factory: FP, Haskell, Typeclassopedia vs Software Design Patterns](https://github.com/thma/LtuPatternFactory)
 * [Haskellの新世代フレームワーク Tonatona - Qiita](https://qiita.com/arowM/items/14169b412a7de8a0d514)
 * [HASKELL AND DOMAIN DRIVEN DESIGN (DDD)](http://zenhackers.net/blog/?p=106)
+* [Practical event driven & sourced programs in Haskell](https://www.ahri.net/2019/07/practical-event-driven-and-sourced-programs-in-haskell/)
 
 ## Dependency Injection
 * [HaskellでDIする - The curse of λ](https://myuon.github.io/posts/haskell-di/)
