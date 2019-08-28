@@ -26,6 +26,9 @@
 * [Hikers Guide to Haskell](https://wiki.haskell.jp/Hikers%20Guide%20to%20Haskell) - Haskellの歩き方
 * [Haskellの入門から中級者になるまでの指針 - Qiita](https://qiita.com/Lugendre/items/70e517e59698e0e435f5)
 
+## なぜHaskellを学ぶのか
+* [Yes silver bullet](https://blog.ploeh.dk/2019/07/01/yes-silver-bullet/)
+
 ### 日本語チュートリアル
 * [Haskell、または関数プログラミングの景色について - Qiita](https://qiita.com/takenobu-hs/items/dc85d455fef41c091383)
 * [Haskell の難しさを分割し、理解していく](http://qiita.com/t9md/items/529a4297e841f330ee98)
