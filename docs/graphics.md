@@ -66,6 +66,7 @@
 * [Fluxを再発明する - The curse of λ](https://myuon.github.io/posts/refluxible-library/)
 * [Purely Functional Games / gilmi](https://soupi.github.io/rfc/pfgames/)
 * [Peoplemon by Alex Stuart](https://linearity.itch.io/peoplemon)
+* [tim philip williams :: Generating castles for Minecraft™ using Haskell](http://www.timphilipwilliams.com/posts/2019-07-25-minecraft.html)
 
 ## Gloss
 * [gloss](http://hackage.haskell.org/package/gloss)
