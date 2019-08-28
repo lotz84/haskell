@@ -145,6 +145,8 @@ Front end
 
 Haskell to JavaScript compiler
 ------------------------------
+* [Client-side web programming in Haskell: A retrospective](https://chrisdone.com/posts/clientside-programming-haskell/)
+
 ### GHC JS
 * [ghcjs/ghcjs](https://github.com/ghcjs/ghcjs)
 * [ghcjs/ghcjs-dom](https://github.com/ghcjs/ghcjs-dom)
