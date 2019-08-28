@@ -130,6 +130,7 @@
 * [HaskellでAtCoderの問題を解く（入力の高速化編） - Qiita](https://qiita.com/hnw/items/3f7d27b742c5a1a99a9a)
 * [How I Intend to Help Steer GHC :: Reasonably Polymorphic](https://reasonablypolymorphic.com/blog/steering/)
 * [Improvements in GHC's testsuite infrastructure — The Glasgow Haskell Compiler](https://www.haskell.org/ghc/blog/20190708-testsuite-work.html)
+* [Writing efficient free variable traversals — The Glasgow Haskell Compiler](https://www.haskell.org/ghc/blog/20190728-free-variable-traversals.html)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
