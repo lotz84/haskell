@@ -170,6 +170,7 @@
 * [thomashartmann.dev::Let's read: Haskell Programming from First Principles, pt II](https://thomashartmann.dev/blog/lets-read-haskell-programming-from-first-principles-pt-ii/)
 * [jamesdbrock/learn-you-a-haskell-notebook](https://gke.mybinder.org/v2/gh/jamesdbrock/learn-you-a-haskell-notebook/master?urlpath=lab/tree/learn_you_a_haskell/00-preface.ipynb)
 * [not-a-blog/opinionated-haskell-guide-2019.md at master · theindigamer/not-a-blog](https://github.com/theindigamer/not-a-blog/blob/master/opinionated-haskell-guide-2019.md#an-opinionated-beginners-guide-to-haskell-in-mid-2019)
+* [The Haskell Phrasebook](https://typeclasses.com/phrasebook)
 
 ## Examples
 
