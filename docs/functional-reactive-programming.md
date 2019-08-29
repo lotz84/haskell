@@ -78,6 +78,7 @@
 * [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk)
 * [Functional Reactive Programming with Reflex and CodeWorld](https://medium.com/@cdsmithus/functional-reactive-programming-with-reflex-and-codeworld-85495360f1b7)
 * [Atidot/reflex-widgets: Atidot Reflex FRP widgets](https://github.com/Atidot/reflex-widgets)
+* [reflex-frp/reflex-vty: Reflex library for building functional reactive terminal applications](https://github.com/reflex-frp/reflex-vty)
 
 ### Netwire
 * [Today in Code — Almost a Netwire 5 Tutorial](http://todayincode.tumblr.com/post/96914679355/almost-a-netwire-5-tutorial)
