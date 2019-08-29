@@ -294,7 +294,7 @@ Stack開発の知見が集められたライブラリ
 
 ## Hadrian
 * [HSoC — Hadrian Optimisation: First GHC Contribution (Update 4)](https://medium.com/@ratherforky/hsoc-hadrian-optimisation-update-4-47ab2b62b15a)
-
+* [Well-Typed - The Haskell Consultants: Exploring Cloud Builds in Hadrian](https://well-typed.com/blog/2019/08/exploring-cloud-builds-in-hadrian/)
 
 ## Workflow
 * [tweag/funflow: Functional workflows](https://github.com/tweag/funflow)
