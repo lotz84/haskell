@@ -107,6 +107,7 @@ Monad Transformer
 * [The world's fastest extensible effects framework - School of Haskell \| School of Haskell](https://www.schoolofhaskell.com/user/fumieval/extensible/the-world-s-fastest-extensible-effects-framework)
 * [freer-effects: Implementation of effect system for Haskell.](https://hackage.haskell.org/package/freer-effects)
 * [Polysemy Internals: Freer Interpretations of Higher-Order Effects :: Reasonably Polymorphic](https://reasonablypolymorphic.com/blog/freer-higher-order-effects/)
+* [Haskell Explained · Polysemy is fun! - Part 1](https://haskell-explained.gitlab.io/blog/posts/2019/07/28/polysemy-is-cool-part-1/)
 
 ### チュートリアル
 * [Extensible Effects はモナド変換子に対する救世主になり得るか？](http://konn-san.com/prog/haskell/extensible-effects.html)
