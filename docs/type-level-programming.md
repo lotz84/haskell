@@ -225,6 +225,7 @@ circum (Circle _ _ r) = …
 * [しりとりの圏の回答、または定理証明Haskellを少しだけ - Qiita](https://qiita.com/as_capabl/items/2031fe28e577e77dc269)
 * [定理証明系 Haskell](http://konn-san.com/prog/2013-advent-calendar.html)
 * [依存型による定理証明Tips: coherenceは型で表せ](http://myuon-myon.hatenablog.com/entry/2016/12/11/204537)
+* [Verifying Effectful Haskell Programs in Coq](https://www-ps.informatik.uni-kiel.de/~sad/haskell2019-preprint.pdf)
 
 ## Dependent Types
 * [Why Dependent Haskell is the Future of Software Development - Serokell](https://serokell.io/blog/2018/12/17/why-dependent-haskell)
