@@ -46,3 +46,4 @@
 * [Pure Functional Validation – Blacklane Engineering – Medium](https://medium.com/blacklane-engineering/pure-functional-validation-64a7885d22ac)
 * [The Trouble with Typed Errors](https://www.parsonsmatt.org/2018/11/03/trouble_with_typed_errors.html)
 * [An answer to "The Trouble with Typed Errors"](http://www.sylvain-henry.info/home/posts/2018-11-04-trouble-with-typed-errors.html)
+* [Control.Monad.Validate](https://hackage.haskell.org/package/monad-validate-1.1.0.0/docs/Control-Monad-Validate.html)
