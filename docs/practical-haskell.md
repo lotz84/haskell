@@ -188,6 +188,7 @@ Stack開発の知見が集められたライブラリ
 * [Dear Haskell it's not you, it's your tooling.](https://avi-d-coder.github.io/post/dear_haskell/)
 * [Why Stack is moving its CI to Azure Pipelines](https://www.fpcomplete.com/blog/why-stack-is-moving-its-ci-to-azure-pipelines)
 * [stack new叩いたらすぐhspecが使えるようにする - Qiita](https://qiita.com/jnuank/items/9b5cf42161be3954afac)
+* [中国でStackを使うには？ - Qiita](https://qiita.com/sio-funmatsu/items/16bc8125d2ce27b8e90f)
 
 ### 逆引き
 * [Ubuntu 16 で Stack + GHC がライブラリのリンクに失敗する場合の対処法](http://qiita.com/mr_konn/items/13caa82c1118968d3145)
@@ -224,6 +225,8 @@ Stack開発の知見が集められたライブラリ
 * [fghibellini/nix-haskell-monorepo: Pragmatic tutorial on how to use nix with a haskell monorepo](https://github.com/fghibellini/nix-haskell-monorepo)
 * [Haskell - Haskell Fan Site](http://www-cs-students.stanford.edu/~blynn/haskell/)
 * [Nix で Haskell IDE Engine をシュッと入れる - ryota-ka's blog](https://ryota-ka.hatenablog.com/entry/2019/07/15/120000)
+* [NixOSことはじめ　 - Qiita](https://qiita.com/yakotokay/items/0003cef60e2f8700a320)
+* [ぼくが普段使っているOS - NixOSの話 - dely engineering blog](https://tech.dely.jp/entry/2018/12/03/110227)
 
 ## Docker
 * [Dockerfile Linter](http://hadolint.lukasmartinelli.ch/)
