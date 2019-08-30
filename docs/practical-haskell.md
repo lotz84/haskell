@@ -121,6 +121,7 @@ Stack開発の知見が集められたライブラリ
 * [Dear package managers: dependency resolution results should be in version control](https://blog.ometer.com/2017/01/10/dear-package-managers-dependency-resolution-results-should-be-in-version-control/)
 * [Steps for Releasing a Haskell Package to Hackage](https://functor.tokyo/blog/2018-07-16-release-haskell-packages-to-hackage)
 * [Why Not Both? – fommil – Medium](https://medium.com/@fommil/why-not-both-8adadb71a5ed)
+* [Oleg's gists - ANN: cabal-fmt](http://oleg.fi/gists/posts/2019-08-11-cabal-fmt.html)
 
 ## Stack
 * [The Haskell Tool Stack](http://docs.haskellstack.org/en/stable/README.html)
