@@ -24,6 +24,7 @@
 * [Roll your own stack traces](https://www.michaelpj.com/blog/2018/09/16/roll-your-own-stacktraces.html)
 * [[1810.13430] Exceptionally Monadic Error Handling](https://arxiv.org/abs/1810.13430)
 * [Exceptions tutorial from IH book](https://markkarpov.com/tutorial/exceptions.html)
+* [fallibleというパッケージをリリースしました - Haskell-jp](https://haskell.jp/blog/posts/2019/fallible.html)
 
 ### safe-exceptions
 * [fpco/safe-exceptions](https://github.com/fpco/safe-exceptions)
