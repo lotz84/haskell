@@ -262,6 +262,7 @@ circum (Circle _ _ r) = …
 * [Variable-arity zipWith in terms of Applicative ZipList](https://gist.github.com/Icelandjack/e4c86ba4d6219ad9e44a68f99319b3fa)
 * [liftAN - Donnacha Oisín Kidney](https://doisinkidney.com/snippets/nary-uncurry.html)
 * [Visible dependent quantification in Haskell - Ryan Scott](https://ryanglscott.github.io/2019/03/15/visible-dependent-quantification-in-haskell/)
+* [Dependently typed Haskell in industry (experience report)](https://dl.acm.org/citation.cfm?id=3341704)
 
 > Why use a dependent pair? A part from more advanced uses such as proof construction, online tutorials cite dependent typing as a way to make programs more correct (e.g., avoiding access to zero sized vector). Others say that dependent types allow to describe more precisely the intended behavior of programs. The way I see it is that they can reduce the combinatorial space of cases to consider when building a function.  
 > [Vittorio Zaccaria - Home page](http://www.vittoriozaccaria.net/#/blog/2018/01/27/what-i-whish-i-knew-haskell-and-dependent-pairs.html)
