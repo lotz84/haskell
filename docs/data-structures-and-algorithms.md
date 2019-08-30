@@ -75,6 +75,8 @@
 * [vectorを使ったData.List.sortより４倍速いsortアルゴリズムの実装 - autotaker's blog](http://autotaker.hatenablog.com/entry/2016/04/04/140744)
 * [Permutations By Sorting - Donnacha Oisín Kidney](https://doisinkidney.com/posts/2019-03-24-permutations-by-sorting.html)
 * [sortByMを実装して、ぼくの好きなお酒ランキングを作る - Qiita](https://qiita.com/tezca686/items/f6c62caae9cc189a7902)
+* [O(n)時間でソートが終了するバケットソートをHaskellで実装する (1) - Qiita](https://qiita.com/YoshikuniJujo/items/0ffbcc2e6e5dca35f6a0)
+* [O(n)時間でソートが完了するバケットソートをHaskellで実装する (2) - Qiita](https://qiita.com/YoshikuniJujo/items/58a5f9bb2921c14617bb)
 
 ## Queue
 * [bttr/psqueues](https://github.com/bttr/psqueues)
