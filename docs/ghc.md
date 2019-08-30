@@ -131,6 +131,7 @@
 * [How I Intend to Help Steer GHC :: Reasonably Polymorphic](https://reasonablypolymorphic.com/blog/steering/)
 * [Improvements in GHC's testsuite infrastructure — The Glasgow Haskell Compiler](https://www.haskell.org/ghc/blog/20190708-testsuite-work.html)
 * [Writing efficient free variable traversals — The Glasgow Haskell Compiler](https://www.haskell.org/ghc/blog/20190728-free-variable-traversals.html)
+* [gc-benchmarks/README.md at master · pepeiborra/gc-benchmarks](https://github.com/pepeiborra/gc-benchmarks/blob/master/README.md)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
