@@ -362,6 +362,10 @@ success
 
 ![](https://i.gyazo.com/de527076bbfd5bcfd3424f0028e58316.png)
 
+### Scarf
+* [Scarf](https://scarf.sh/)
+* [aviaviavi/scarf: Helping open-source developers distribute and monetize their software](https://github.com/aviaviavi/scarf)
+
 ### ShellCheck
 * シェルスクリプトのバグなどをチェックしてくれるツール
 * [ShellCheck](http://www.shellcheck.net/)
