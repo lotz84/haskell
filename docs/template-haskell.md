@@ -25,6 +25,7 @@ Template Haskell はHaskellの言語仕様には無くGHCの独自拡張なの�
 * [mpickering - Source Plugins: Four ways to build a typechecked Haskell expression](http://mpickering.github.io/posts/2018-06-11-source-plugins.html)
 * [Template Haskellでコンパイル時にFizzBuzz - Qiita](https://qiita.com/YoshikuniJujo/items/a8373c1bd1986ced9d5d)
 * [Fast file embedding with GHC!](https://hsyl20.fr/home/posts/2019-01-15-fast-file-embedding-with-ghc.html)
+* [Static Smart Constructors with Double Splices](https://chrisdone.com/posts/static-smart-constructors/)
 
 ```haskell
 {-# LANGUAGE QuasiQuotes #-}
