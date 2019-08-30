@@ -28,6 +28,7 @@
 
 ## なぜHaskellを学ぶのか
 * [Yes silver bullet](https://blog.ploeh.dk/2019/07/01/yes-silver-bullet/)
+* [プログラミングとは ― 最強のカレーレシピ ― - golden-luckyの日記](https://golden-lucky.hatenablog.com/entry/2019/08/24/212553)
 
 ### 日本語チュートリアル
 * [Haskell、または関数プログラミングの景色について - Qiita](https://qiita.com/takenobu-hs/items/dc85d455fef41c091383)
@@ -57,6 +58,7 @@
 * [» プログラム言語の歴史　＜Haskell編＞](https://magazine.techcareer.jp/programming/haskell/4300/?doing_wp_cron=1552811660.4620618820190429687500)
 * [「Haskell入門」を読んで - hioki-daichi’s blog](https://hioki-daichi.hatenablog.com/entry/2018/03/18/103026)
 * [Haskellを使おう (hiratara) - builderscon tokyo 2017 - YouTube](https://www.youtube.com/watch?v=2HVrFBYVNkI)
+* [Haskell社内勉強会とHaskell学習ツールの紹介 \| IIJ Engineers Blog](https://eng-blog.iij.ad.jp/archives/3467)
 
 #### 講演資料
 * [すごいHaskell つくばで学ぼう！](https://github.com/nushio3/learn-haskell/blob/master/Tsukuba-2016.pdf)
@@ -84,6 +86,9 @@
 * [すごいH本が楽しかったのでまとめた - Qiita](https://qiita.com/ta-ka/items/8679737ac70cf1dc1d78)
 * [拙書「Haskell 教養としての関数型プログラミング」の紹介 - Qiita](https://qiita.com/YoshikuniJujo/items/0708f108bf53a216a61a)
 * [これから Haskell を学ぶ人のための書籍紹介 - Qiita](https://qiita.com/waddlaw/items/dd926462d398c4cbd019)
+* [プログラミングHaskell第2版を翻訳しました - あどけない話](https://kazu-yamamoto.hatenablog.jp/entry/2019/08/13/152802)
+* [プログラミングHaskell第2版の補足 - あどけない話](https://kazu-yamamoto.hatenablog.jp/entry/2019/08/15/120137)
+* [Haskell 解説本 小史 - golden-luckyの日記](https://golden-lucky.hatenablog.com/entry/2019/08/02/181821)
 
 ### 英語チュートリアル
 * [Haskell Notes for Professionals book](http://books.goalkicker.com/HaskellBook/)
