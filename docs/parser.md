@@ -43,6 +43,7 @@
 * [Haskell の Fixity Resolution を試してみる - Qiita](https://qiita.com/wgag/items/2967ea6994832d2232f8)
 * [Parsing and generating ABIF files (DNA chromatograms)](https://www.andrevdm.com/posts/2019-01-09-abif-chromatograms.html)
 * [github/semantic: Parsing, analyzing, and comparing source code across many languages](https://github.com/github/semantic)
+* [『形式意味論入門』を Haskell に書き下す (前編) - ryota-ka's blog](https://ryota-ka.hatenablog.com/entry/2019/08/15/213000)
 
 ## 正規表現
 * [関数型的正規表現マッチ](https://research.preferred.jp/2010/11/regexp-play/)
