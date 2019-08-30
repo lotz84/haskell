@@ -360,6 +360,7 @@ p_ :: Term arg result => arg -> result
 * [Bloggy Badger: Computing with Impossible Types](http://gelisam.blogspot.jp/2017/11/computing-with-impossible-types.html)
 * [TypeFamilyDependencies の実用的な例を考える - ryota-ka's blog](https://ryota-ka.hatenablog.com/entry/2018/03/10/205817)
 * [Lysxia - Haskell with only one type family](http://blog.poisson.chat/posts/2018-08-06-one-type-family.html)
+* [Functional Dependencies & Type Families • gvolpe's blog](https://gvolpe.github.io/blog/functional-dependencies-and-type-families/)
 
 ```haskell
 -- https://www.youtube.com/watch?v=snOBI8PcbMQ
