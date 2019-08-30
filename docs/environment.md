@@ -52,6 +52,7 @@ $ brew install haskell-stack
 * [Neovim for Haskell Development - The Mendo Zone](https://mendo.zone/fun/neovim-setup-haskell/)
 * [Haskell, Nix and Vim: Getting started · tblog](http://www.tpflug.me/2019/01/14/haskell-nix-vim/)
 * [= ale.vimとQuickRunでstack環境を使う - Qiita](https://qiita.com/Cj-bc/items/481bb0449648047653b3)
+* [Vim and Haskell in 2019 \| Repeat Until Keypressed](http://marco-lopes.com/articles/Vim-and-Haskell-in-2019/)
 
 ### Emacs
 * [haskell/haskell-mode](https://github.com/haskell/haskell-mode)
