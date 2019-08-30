@@ -65,6 +65,7 @@
 * [BEAUTIFUL CODE, COMPELLING EVIDENCE](https://www.renci.org/wp-content/pub/tutorials/BeautifulCode.pdf)
 * [Lemmih/reanimate: Reactive framework for animating SVG graphics.](https://github.com/Lemmih/reanimate)
 * [Cartography in Haskell \| Maths, Stats & Functional Programming](https://idontgetoutmuch.wordpress.com/2018/05/19/cartography-in-haskell/)
+* [オイラー法でローレンツアトラクタが見たい on Haskell - 置き去りになったメモ](https://yakituka.hateblo.jp/entry/2019/08/26/193907)
 
 ### diagrams
 SVGを扱うためのライブラリ
