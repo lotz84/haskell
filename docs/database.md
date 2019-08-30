@@ -111,3 +111,4 @@ SQL DSL
 * [relational-record を MySQL で使ってみた](http://qiita.com/lotz/items/3aa65852bf75f3538d11)
 * [Haskell で relational-record を使って MySQL に繋いでみた - 締思之記](http://na4zagin3.hatenablog.com/entry/2017/12/28/224653)
 * [業務でHaskellを導入した理由と、Haskell Relational Recordについて解説](https://logmi.jp/tech/articles/320396)
+* [HRRを使うHaskellアプリケーションのDockerコンテナを作る - Qiita](https://qiita.com/peus/items/cda49133e7e7300d550c)
