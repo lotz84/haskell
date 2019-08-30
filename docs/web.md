@@ -487,6 +487,7 @@ Web Application Framework
 * [Haskell/Servantで行う安全かつ高速なAPI開発 - Speaker Deck](https://speakerdeck.com/daishi/servantdexing-uan-quan-katugao-su-naapikai-fa)
 * [Deprecating API endpoints with Servant – Co–Star Engineering – Medium](https://medium.com/co-star-engineering/deprecating-api-endpoints-with-servant-1c00f8a211ca)
 * [Dead-simple TCP/IP services using servant · in Code](https://blog.jle.im/entry/simple-tcpip-services-servant.html)
+* [Who Authorized These Ghosts!?](https://ocharles.org.uk/blog/posts/2019-08-09-who-authorized-these-ghosts.html)
 
 ### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
