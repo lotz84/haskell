@@ -225,6 +225,7 @@ class Monad m where
 * [Selectionモナド入門 - Qiita](https://qiita.com/lotz/items/22c60ea59e0a510738de)
 * [A Basis For Sequential Execution: Monads, Arrows, and More \| Aearnus’ Realm](https://aearnus.github.io/2019/05/10/a-basis-for-sequential-execution-monads-arrows-and-more)
 * [[1903.01237] Dijkstra Monads for All](https://arxiv.org/abs/1903.01237)
+* [Monads as a Programming Pattern](https://samgrayson.me/2019-08-06-monads-as-a-programming-pattern/)
 
 ```haskell
 do x <- mx
