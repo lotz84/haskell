@@ -120,6 +120,7 @@ $ brew install haskell-stack
 * [ghcid for the win!](http://www.parsonsmatt.org/2018/05/19/ghcid_for_the_win.html)
 * [kazu-yamamoto/hhp: Happy Haskell Programming](https://github.com/kazu-yamamoto/hhp)
 * [hieのインストールに苦労した（Windows10) - Qiita](https://qiita.com/oze/items/6313604c37844c1f2dcd)
+* [fairy-tale-agi-solutions/haskell-editor-setup: Instructions for setting up Haskell editors/IDEs](https://github.com/fairy-tale-agi-solutions/haskell-editor-setup)
 
 ## Formatter/Linter
 * [Haskellの静的解析ツール HLint を使おう](http://qiita.com/suzuki-hoge/items/6d101e523620178c6f7b)
