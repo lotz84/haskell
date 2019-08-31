@@ -412,3 +412,4 @@ instance Eval' Hole where
 * [Introduction to Singletons (Part 2) · in Code](https://blog.jle.im/entry/introduction-to-singletons-2.html)
 * [Introduction to Singletons (Part 3) · in Code](https://blog.jle.im/entry/introduction-to-singletons-3.html)
 * [Introduction to Singletons (Part 4) · in Code](https://blog.jle.im/entry/introduction-to-singletons-4.html)
+* [How GHC 8.8 nearly killed singletons - Ryan Scott](https://ryanglscott.github.io/2019/08/29/how-ghc-8-8-nearly-killed-singletons/)
