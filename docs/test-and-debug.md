@@ -160,3 +160,4 @@ Passed:
 * [🚰 Hunting leaks with GDB](https://lukelau.me/haskell/posts/leak/)
 * [Implement With Types, Not Your Brain! :: Reasonably Polymorphic](https://reasonablypolymorphic.com/blog/typeholes/)
 * [GHCiでHaskellデバッグ チートシート - Qiita](https://qiita.com/kekeho/items/a794fc165fd8e9517479)
+* [ghc-debug/call-for-participation.md at master · bgamari/ghc-debug](https://github.com/bgamari/ghc-debug/blob/master/call-for-participation.md)
