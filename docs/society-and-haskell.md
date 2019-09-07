@@ -27,6 +27,7 @@
 * [The Good, the Bad, and the Ugly: Haskell in Enterprise : haskell](https://www.reddit.com/r/haskell/comments/bscon6/the_good_the_bad_and_the_ugly_haskell_in/)
 * [Holmusk \| Haskell - An Experience Summary](https://holmusk.dev/blog/2019-03-29-experience-summary.html#the-cons)
 * [Karol Kuczmarski's Blog – A Haskell retrospective](http://xion.io/post/programming/haskell-retrospective.html)
+* [Haskell-Disappointment.md](https://gist.github.com/nrinaudo/b02d0d17f62b6babea60cb0b52ded287)
 
 ## コミュニティ
 * [Haskell Communities and Activities Report](https://wiki.haskell.org/Haskell_Communities_and_Activities_Report)
