@@ -13,6 +13,7 @@
 * [Bounded Variation by boundedvariation](http://boundedvariation.github.io/)
 * [datasets: Classical data sets for statistics and machine learning](https://hackage.haskell.org/package/datasets-0.4.0)
 * [ocramz/record-encode: Generic encoding of record types](https://github.com/ocramz/record-encode)
+* [HaskellDo](http://haskell.do/)
 
 ## 機械学習
 * [mltool: Machine Learning Toolbox](https://hackage.haskell.org/package/mltool)
@@ -41,6 +42,7 @@
 * [dpkatz/HaskellGBM: A Haskell wrapper around LightGBM](https://github.com/dpkatz/HaskellGBM)
 * [kalman: Kalman and particle filters and smoothers](https://hackage.haskell.org/package/kalman)
 * [paulrzcz/HSvm: Haskell bindings of libsvm library](https://github.com/paulrzcz/HSvm)
+* [Shimuuar/monoid-statistics](https://github.com/shimuuar/monoid-statistics)
 
 ## 数値計算・可視化
 * [scientific](https://hackage.haskell.org/package/scientific)
@@ -206,6 +208,7 @@ instance Monad Dist where
 * [型を使って書く機械学習:Hasktorchの紹介 - Qiita](https://qiita.com/junjihashimoto@github/items/ecf5d0a4e62645c2b2cc)
 * [dnngraph](http://ajtulloch.github.io/dnngraph/) - A DSL for deep neural networks, supporting Caffe and Torch
 * [HuwCampbell/grenade](https://github.com/HuwCampbell/grenade) - Deep Learning in Haskell
+* [Grenade! Dependently Typed Neural Networks — Monday Morning Haskell](https://mmhaskell.com/blog/2017/9/25/grenade-dependently-typed-neural-networks)
 * [GU-CLASP/TypedFlow](https://github.com/GU-CLASP/TypedFlow) - Typed frontend to TensorFlow and higher-order deep learning
 * [pfnet-research/menoh-haskell: Haskell binding for Menoh DNN inference library](https://github.com/pfnet-research/menoh-haskell)
 * [tensorflow/haskell](https://github.com/tensorflow/haskell)
