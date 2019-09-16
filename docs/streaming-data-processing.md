@@ -108,3 +108,4 @@ main = do
 * [Streaming UTF-8 in Haskell and Rust](https://www.fpcomplete.com/blog/2018/07/streaming-utf8-haskell-rust)
 * [Faster Coroutine Pipelines \| University of Oxford Podcasts - Audio and Video Lectures](http://podcasts.ox.ac.uk/faster-coroutine-pipelines)
 * [ssadler/piped: Haskell streaming library targeting Conduit API while being smaller and faster](https://github.com/ssadler/piped)
+* [streaming: an elementary streaming prelude and general stream type.](https://hackage.haskell.org/package/streaming)
