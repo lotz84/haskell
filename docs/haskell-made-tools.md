@@ -131,6 +131,9 @@ $ gifcurry_cli ./in.mp4 ./out.gif start_second duration quality 'Optional top te
 * Reverse proxy that handles authentication
 * [arow-oss/goat-guardian: Reverse proxy that handles authentication](https://github.com/arow-oss/goat-guardian)
 
+### franz
+* [単純で頑強なメッセージングシステム、franz - モナドとわたしとコモナド](http://fumieval.hatenablog.com/entry/2019/09/07/115437)
+
 ### Hakyll
 * 静的サイトジェネレータ
 * <https://jaspervdj.be/hakyll/>
