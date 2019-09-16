@@ -91,6 +91,7 @@
 * [Haskell 解説本 小史 - golden-luckyの日記](https://golden-lucky.hatenablog.com/entry/2019/08/02/181821)
 
 ### 英語チュートリアル
+* [Tweag I/O - Why Haskell is important](https://www.tweag.io/posts/2019-09-06-why-haskell-is-important.html)
 * [Haskell Notes for Professionals book](http://books.goalkicker.com/HaskellBook/)
 * [Reading Simple Haskell](https://soupi.github.io/rfc/reading_simple_haskell/)
 * [Keynote: Why Functional Programming Matters - John Hughes, Mary Sheeran (Lambda Days 2017) - YouTube](https://www.youtube.com/watch?v=1qBHf8DrWR8)
