@@ -56,6 +56,7 @@
 * [Finding Parallel Functional Pearls: Automatic Parallel Recursion Scheme Detection in Haskell Functions via Anti-Unification](https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/15729/Barwell_2017_FGCS_ParallelFunctionalPearls_AAM.pdf?sequence=1&isAllowed=y)
 * [lts-13.19でaccelerate-llvmを使う時の備忘録 - Qiita](https://qiita.com/A_kirisaki/items/f558daa4ca72d9d36371)
 * [Accelerateとglossで作るライフゲーム - Qiita](https://qiita.com/A_kirisaki/items/b45b127adb7d2d91e7f6)
+* [Evaluation of Libraries for Parallel Computing in Haskell](https://www.jstage.jst.go.jp/article/ipsjjip/25/0/25_308/_pdf)
 
 ## 並行
 * [RAM footprint per unit of concurrency (approx)](http://bob.ippoli.to/haskell-for-erlangers-2014/#/cost-of-concurrency)
