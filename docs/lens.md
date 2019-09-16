@@ -8,7 +8,7 @@
 > All `Lens`es are `Traversal`s and all `Prism`s are also `Traversal`s. Not all `Traversal`s are `Lens`es or `Prism`s though.  
 > <https://www.reddit.com/r/haskell/comments/9ded97/is_learning_how_to_use_the_lens_library_worth_it/e5hf9ai/>
 
-
+* [Well-Typed - The Haskell Consultants: Announcing the optics library](https://www.well-typed.com/blog/2019/09/announcing-the-optics-library/)
 * [microlens](http://hackage.haskell.org/package/microlens)
 * [lens](https://hackage.haskell.org/package/lens)
 * [Control.Lens.Tutorial](https://hackage.haskell.org/package/lens-tutorial/docs/Control-Lens-Tutorial.html)
