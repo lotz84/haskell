@@ -14,6 +14,18 @@
 * [datasets: Classical data sets for statistics and machine learning](https://hackage.haskell.org/package/datasets-0.4.0)
 * [ocramz/record-encode: Generic encoding of record types](https://github.com/ocramz/record-encode)
 * [HaskellDo](http://haskell.do/)
+* [static-tensor: Tensors of statically known size](https://hackage.haskell.org/package/static-tensor)
+* [albertoruiz/hTensor: Multidimensional arrays and simple tensor computations](https://github.com/AlbertoRuiz/hTensor)
+* [Introduction to hTensor](http://dis.um.es/profesores/alberto/material/hTensor.pdf)
+* [HeinrichApfelmus/hyper-haskell: The strongly hyped Haskell interpreter.](https://github.com/HeinrichApfelmus/hyper-haskell/)
+* [mstksg/tensor-ops: Type-safe tensor manipulation operations in Haskell with tensorflow-style automatic differentiation](https://github.com/mstksg/tensor-ops)
+* [easytensor: Pure, type-indexed haskell vector, matrix, and tensor library.](http://hackage.haskell.org/package/easytensor-2.0.1.0)
+* [foldl-statistics: Statistical functions from the statistics package implemented as Folds.](http://hackage.haskell.org/package/foldl-statistics)
+* [sparse-linear-algebra: Numerical computing in native Haskell](http://hackage.haskell.org/package/sparse-linear-algebra)
+* [sparse-lin-alg: Effective linear algebra on sparse matrices](http://hackage.haskell.org/package/sparse-lin-alg)
+* [sparse: A playground of sparse linear algebra primitives using Morton ordering](http://hackage.haskell.org/package/sparse)
+* [Radix Sort, Trie Trees, and Maps from Representable Functors](https://chrispenner.ca/posts/representable-discrimination)
+
 
 ## 機械学習
 * [mltool: Machine Learning Toolbox](https://hackage.haskell.org/package/mltool)
@@ -43,6 +55,12 @@
 * [kalman: Kalman and particle filters and smoothers](https://hackage.haskell.org/package/kalman)
 * [paulrzcz/HSvm: Haskell bindings of libsvm library](https://github.com/paulrzcz/HSvm)
 * [Shimuuar/monoid-statistics](https://github.com/shimuuar/monoid-statistics)
+* [Markov Chains à la Carte - Jared Tobin - Medium](https://medium.com/@jaredtobin/markov-chains-a-la-carte-3fc40df45592)
+* [Sentenai/reinforce: Reinforcement learning in haskell](https://github.com/Sentenai/reinforce)
+* [manifolds: Coordinate-free hypersurfaces](http://hackage.haskell.org/package/manifolds)
+* [ocramz/sde: Numerical experiments with stochastic differential equations in Haskell](https://github.com/ocramz/sde)
+* [mdibaiee/sibe: Experimental Haskell machine learning library](https://github.com/mdibaiee/sibe)
+* [online \| Online statistics](https://tonyday567.github.io/online/index.html)
 
 ## 数値計算・可視化
 * [scientific](https://hackage.haskell.org/package/scientific)
@@ -75,6 +93,7 @@
 * [Lemmih/reanimate: Reactive framework for animating SVG graphics.](https://github.com/Lemmih/reanimate)
 * [Cartography in Haskell \| Maths, Stats & Functional Programming](https://idontgetoutmuch.wordpress.com/2018/05/19/cartography-in-haskell/)
 * [オイラー法でローレンツアトラクタが見たい on Haskell - 置き去りになったメモ](https://yakituka.hateblo.jp/entry/2019/08/26/193907)
+* [DataHaskell/numeric-libs-benchmarks: - An overview of Haskell numerical libraries](https://github.com/DataHaskell/numeric-libs-benchmarks)
 
 ### diagrams
 SVGを扱うためのライブラリ
@@ -160,6 +179,7 @@ instance Monad Dist where
 * [Practical Probabilistic Programming with Monads を読む (1) : とりあえずサイコロを振る - Qiita](http://qiita.com/lesguillemets/items/bf005952cf87480215c9)
 * [The Probability Monad](https://www.youtube.com/watch?v=qZ4O-1VYv4c)
 * [Recursive Stochastic Processes · jtobin.io](https://jtobin.io/recursive-stochastic-processes)
+* [jtobin/deanie: An embedded probabilistic programming language.](https://github.com/jtobin/deanie)
 
 ### Hakaru
 * [Hakaru](http://hakaru-dev.github.io/)
@@ -202,6 +222,7 @@ instance Monad Dist where
 * [cuda: FFI binding to the CUDA interface for programming NVIDIA GPUs](https://hackage.haskell.org/package/cuda)
 
 ## Deep Learning
+* [austinvhuang/awesome-haskell-deep-learning: In the tradition of "awesome" (curated) lists, this is a list of references and code for doing deep learning in Haskell.](https://github.com/austinvhuang/awesome-haskell-deep-learning)
 * [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/)
 * [hasktorch/hasktorch: Tensors and neural networks in Haskell](https://github.com/hasktorch/hasktorch)
 * [2018-11-02-hasktorch-release.md](https://github.com/stites/stites.github.io/blob/master/posts/2018-11-02-hasktorch-release.md)
