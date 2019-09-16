@@ -11,6 +11,8 @@
 * [Jun Inoueさんのツイート: "Haskell で Euler やる人は arithmoi パッケージを入れておきましょう。2009 年ごろまでは一番解いてる Haskeller だった Daniel Fischer が書いたもので、クッソ速い整数冪根とかメビウス変換、ヤコビ記号などが手に入ります。"](https://twitter.com/jun0inoue/status/373434443253305344)
 * [statistics: A library of statistical types, data, and functions](https://hackage.haskell.org/package/statistics)
 * [Bounded Variation by boundedvariation](http://boundedvariation.github.io/)
+* [datasets: Classical data sets for statistics and machine learning](https://hackage.haskell.org/package/datasets-0.4.0)
+* [ocramz/record-encode: Generic encoding of record types](https://github.com/ocramz/record-encode)
 
 ## 機械学習
 * [mltool: Machine Learning Toolbox](https://hackage.haskell.org/package/mltool)
@@ -34,6 +36,11 @@
 * [gym-http-api: REST client to the gym-http-api project](https://hackage.haskell.org/package/gym-http-api)
 * [Dimensions and Haskell: Introduction - Serokell](https://serokell.io/blog/dimensions-and-haskell-introduction)
 * [Dimensions and Haskell: Singletons in Action - Serokell](https://serokell.io/blog/dimensions-haskell-singletons)
+* [tsoernes/haskelldca: Dynamic Channel Allocation by Reinforcement Learning](https://github.com/tsoernes/haskelldca)
+* [decision-trees/DecisionTrees.hs at master · ocramz/decision-trees](https://github.com/ocramz/decision-trees/blob/master/src/Numeric/Classification/DecisionTrees.hs)
+* [dpkatz/HaskellGBM: A Haskell wrapper around LightGBM](https://github.com/dpkatz/HaskellGBM)
+* [kalman: Kalman and particle filters and smoothers](https://hackage.haskell.org/package/kalman)
+* [paulrzcz/HSvm: Haskell bindings of libsvm library](https://github.com/paulrzcz/HSvm)
 
 ## 数値計算・可視化
 * [scientific](https://hackage.haskell.org/package/scientific)
@@ -170,6 +177,7 @@ instance Monad Dist where
 * [[1804.00746] The simple essence of automatic differentiation](https://arxiv.org/abs/1804.00746)
 * [Differentiating regions](http://conway.rutgers.edu/~ccshan/wiki/blog/posts/Differentiation/)
 * [Haskellで二重数を使って自動微分 - Сегодня я узнал](https://genkami.github.io/2018/03/10/02-dual-number-deriv.html)
+* [o1lo01ol1o/diffhask: DSL for forward and reverse mode automatic differentiation in Haskell. Port of DiffSharp.](https://github.com/o1lo01ol1o/diffhask)
 
 ### フォワードモード
 * [自動微分を実装して理解する（前編） - Qiita](https://qiita.com/lotz/items/39c52f08cc9b5d8439ca)
@@ -187,6 +195,9 @@ instance Monad Dist where
 * [Reverse Mode Auto Differentiation is Kind of Like a Lens - Hey There Buddo!](http://www.philipzucker.com/reverse-mode-auto-differentiation-kind-like-lens/)
 * [Reverse Mode Differentiation is Kind of Like a Lens II - Hey There Buddo!](http://www.philipzucker.com/reverse-mode-differentiation-is-kind-of-like-a-lens-ii/)
 * [Applicative Bidirectional Programming and Automatic Differentiation - Hey There Buddo!](http://www.philipzucker.com/bidirectional-applicative-programming-and-automatic-differentation/)
+
+## GPU
+* [cuda: FFI binding to the CUDA interface for programming NVIDIA GPUs](https://hackage.haskell.org/package/cuda)
 
 ## Deep Learning
 * [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/)
@@ -212,6 +223,7 @@ instance Monad Dist where
 * [jbarrow/LambdaNet](https://github.com/jbarrow/LambdaNet)
 * [alpmestan/hnn](https://github.com/alpmestan/hnn)
 * [Neural networks in Haskell (Lynn)](https://twitter.com/mcarberg/status/664750004742000640)
+* [rc: Reservoir Computing, fast RNNs](http://hackage.haskell.org/package/rc)
 * [Haskellでニューラルネットワーク](http://imokuri123.com/blog/2015/07/neural-network-in-haskell.html)
 * [Practical Dependent Types in Haskell: Type-Safe Neural Networks (Part 1) · in Code](https://blog.jle.im/entry/practical-dependent-types-in-haskell-1.html)
 * [mstksg/backprop: Heterogeneous, type-safe automatic backpropagation in Haskell](https://github.com/mstksg/backprop)
