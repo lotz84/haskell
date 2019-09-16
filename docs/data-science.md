@@ -25,6 +25,7 @@
 * [sparse-lin-alg: Effective linear algebra on sparse matrices](http://hackage.haskell.org/package/sparse-lin-alg)
 * [sparse: A playground of sparse linear algebra primitives using Morton ordering](http://hackage.haskell.org/package/sparse)
 * [Radix Sort, Trie Trees, and Maps from Representable Functors](https://chrispenner.ca/posts/representable-discrimination)
+* [APLicative Programming with Naperian Functors](http://www.cs.ox.ac.uk/people/jeremy.gibbons/publications/apl-extabs.pdf)
 
 
 ## 機械学習
