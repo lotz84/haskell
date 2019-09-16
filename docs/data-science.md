@@ -120,6 +120,7 @@ SVGを扱うためのライブラリ
 * [Randomness in Haskell](http://jtobin.ca/randomness-in-haskell)
 * [A Probabilistic Functional Programming Library for Haskell](https://web.engr.oregonstate.edu/~erwig/pfp/)
 * [Markov Chains à la Carte - Jared Tobin - Medium](https://medium.com/@jaredtobin/markov-chains-a-la-carte-3fc40df45592)
+* [declarative: DIY Markov Chains.](http://hackage.haskell.org/package/declarative)
 
 ```hs
 type Probability = Double
@@ -134,8 +135,8 @@ instance Monad Dist where
 ## 確率論的プログラミング
 * [確率とモナドと確率論的プログラミング](http://qiita.com/lotz/items/7c7df718d1a596cac920)
 * [adscib/monad-bayes](https://github.com/adscib/monad-bayes)
-  * [Practical Probabilistic Programming with Monads](https://www.youtube.com/watch?v=hI0ajVy2xEk)
-  * [Practical probabilistic programming with Monads](http://mlg.eng.cam.ac.uk/pub/pdf/SciGhaGor15.pdf)
+  * [[Youtube]Practical Probabilistic Programming with Monads](https://www.youtube.com/watch?v=hI0ajVy2xEk)
+  * [[PDF]Practical probabilistic programming with Monads](http://mlg.eng.cam.ac.uk/pub/pdf/SciGhaGor15.pdf)
 * [A Simple Embedded Probabilistic Programming Language](https://medium.com/@jaredtobin/a-simple-embedded-probabilistic-programming-language-17bdaa08ed99#.tt9iikeo6)  
 * [Building a probabilistic programming interpreter](http://www.zinkov.com/posts/2015-08-25-building-a-probabilisitic-interpreter/)
 * [Comonadic Markov Chain Monte Carlo](https://jtobin.io/comonadic-mcmc)
@@ -189,12 +190,13 @@ instance Monad Dist where
 
 ## Deep Learning
 * [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/)
+* [hasktorch/hasktorch: Tensors and neural networks in Haskell](https://github.com/hasktorch/hasktorch)
+* [2018-11-02-hasktorch-release.md](https://github.com/stites/stites.github.io/blob/master/posts/2018-11-02-hasktorch-release.md)
+* [型を使って書く機械学習:Hasktorchの紹介 - Qiita](https://qiita.com/junjihashimoto@github/items/ecf5d0a4e62645c2b2cc)
 * [dnngraph](http://ajtulloch.github.io/dnngraph/) - A DSL for deep neural networks, supporting Caffe and Torch
 * [HuwCampbell/grenade](https://github.com/HuwCampbell/grenade) - Deep Learning in Haskell
-* [hasktorch/hasktorch: Tensors and neural networks in Haskell](https://github.com/hasktorch/hasktorch)
 * [GU-CLASP/TypedFlow](https://github.com/GU-CLASP/TypedFlow) - Typed frontend to TensorFlow and higher-order deep learning
 * [pfnet-research/menoh-haskell: Haskell binding for Menoh DNN inference library](https://github.com/pfnet-research/menoh-haskell)
-* [型を使って書く機械学習:Hasktorchの紹介 - Qiita](https://qiita.com/junjihashimoto@github/items/ecf5d0a4e62645c2b2cc)
 * [tensorflow/haskell](https://github.com/tensorflow/haskell)
 * [DeepLearning(1): まずは順伝播(上)](http://qiita.com/eijian/items/06b1ba1276d1bfd77b93)
 * [DeepLearning(2): まずは順伝播(下)](http://qiita.com/eijian/items/24d7e6aee332d59509ec)
