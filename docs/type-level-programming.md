@@ -121,6 +121,7 @@
 * [A story told by Type Errors](https://kodimensional.dev/type-errors)
 * [isovector/type-errors: tools for writing better type errors](https://github.com/isovector/type-errors)
 * [８つの質問で、GHC の type-level language 業界の現状を知る - konn-san.com](https://konn-san.com/articles/2013-03-20-eight-questions-for-typelevel-programmer.html)
+* [Juvix: dependent-linearly-typed core language with optimal reduction and interaction nets : haskell](https://www.reddit.com/r/haskell/comments/czierr/juvix_dependentlinearlytyped_core_language_with/)
 
 ```haskell
 data Bottom
