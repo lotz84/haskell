@@ -49,9 +49,26 @@ class Functor f where
 * [Contravariance and luminance to add safety to uniforms](http://phaazon.blogspot.jp/2015/08/contravariance-and-luminance-to-add.html)
 
 ### Representable Functor
+
+```math
+class Functor f => Representable f where
+  type Log f
+  lookup   :: f a -> (Log f -> a)
+  tabulate :: (Log f -> a) -> f a
+
+  -- 米田の補題によりtabulateと同型
+  positions :: f (Log f)
+  tabulate h = fmap h positions
+  positions  = tabulate id
+```
+
+* [The Comonad.Reader » Representing Applicatives](http://comonad.com/reader/2013/representing-applicatives/)
 * [Data.Functor.Rep](https://hackage.haskell.org/package/adjunctions/docs/Data-Functor-Rep.html)
-* [naperian tensors](https://tonyday567.github.io/naperian/index.html)
 * [Radix Sort, Trie Trees, and Maps from Representable Functors](http://chrispenner.ca/posts/representable-discrimination)
+* [Memoizing polymorphic functions via unmemoization](http://conal.net/blog/posts/memoizing-polymorphic-functions-via-unmemoization)
+* [Memoizing Polymorphic Functions with High School Algebra and Quantifiers](http://blog.sigfpe.com/2009/11/memoizing-polymorphic-functions-with.html)
+* [APLicative Programming with Naperian Functors](https://www.cs.ox.ac.uk/people/jeremy.gibbons/publications/aplicative.pdf)
+* [naperian tensors](https://tonyday567.github.io/naperian/index.html)
 
 ## Applicative Functor
 
