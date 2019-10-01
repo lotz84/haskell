@@ -1,4 +1,5 @@
 * [An informal introduction to Lambda Calculus.](https://medium.com/@Sudhagar/an-informal-introduction-to-lambda-calculus-51c637f35f7d#.vsy3u1aex)
+* [Lecture Notes on the Lambda Calculus](https://www.irif.fr/~mellies/mpri/mpri-ens/biblio/Selinger-Lambda-Calculus-Notes.pdf)
 * [Alligator Eggs](http://www.jmuk.org/AlligatorEggs.html)
 * [Lambda Calculi with Types](http://ttic.uchicago.edu/~dreyer/course/papers/barendregt.pdf)
 * [A natural counting of Lambda terms](http://arxiv.org/abs/1506.02367)
