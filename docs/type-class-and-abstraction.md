@@ -87,6 +87,7 @@ instance Show Bool where
 * [simplifying-typeclasses](http://h2.jaguarpaw.co.uk/posts/simplifying-typeclasses/)
 * [Which typeclass are you? [impurepics quiz]](https://impurepics.com/quiz/)
 * [Inspecting Haskell Instance Resolution](https://mgsloan.com/posts/inspecting-haskell-instance-resolution/)
+* [Nicer Data Types a la Carte with DefaultSignatures](https://yairchu.github.io/posts/dtalc-with-defaultsigs.html)
 
 ## 代数的な型クラス
 * [tower](https://tonyday567.github.io/tower/index.html)
