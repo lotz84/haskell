@@ -180,6 +180,8 @@
 * [文字列と自然数の全単射を構成する - Qiita](https://qiita.com/lambda_x_x/items/22094e2af6df22850532)
 * [Channable - How we made Haskell search strings as fast as Rust](https://tech.channable.com/posts/2019-03-13-how-we-made-haskell-search-strings-as-fast-as-rust.html)
 * [String interpolation and overlapping instances 101 \| William Yao](https://williamyaoh.com/posts/2019-05-27-string-interpolation-and-overlapping-instances.html)
+* [ふみさんはTwitterを使っています: 「Haskellの文字列関連の型をまとめた(修正版) https://t.co/ASfyX1ulAV」 / Twitter](https://twitter.com/fumieval/status/1180763933986045953)
+* [だめぽラボ@技術書典7 し03DさんはTwitterを使っています: 「自分が類似の図を作るなら、「バイト文字列」と「Unicode文字列」で区画を分けてしまうかな。区画をまたぐにはエンコーディングとか変換失敗とかも考慮しないといけない、的な話もあるし https://t.co/ZvcpQHo87E」 / Twitter](https://twitter.com/mod_poppo/status/1180767612076036097)
 
 ## 集合
 * [24 days of Hackage, 2015: day 8: multiset; I wish this were in the standard containers package](http://conscientiousprogrammer.com/blog/2015/12/08/24-days-of-hackage-2015-day-8-multiset-i-wish-this-were-in-the-standard-containers-package/)
