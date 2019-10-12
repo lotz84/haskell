@@ -35,6 +35,7 @@
 * [Cross Compiling Yesod to Raspberry Pi – zw3rk – Medium](https://medium.com/@zw3rk/cross-compiling-yesod-to-raspberry-pi-f14de6fdbf06)
 * [Building a CPU with Haskell - Part 1 :: Will Yager](http://yager.io/CPU/CPU1.html)
 * [gergoerdi/clash-spaceinvaders: Intel 8080-based Space Invaders arcade machine implemented on an FPGA, written in CLaSH](https://github.com/gergoerdi/clash-spaceinvaders)
+* [Haskell on Raspberry PI 4 - Vaclav Svejcar](https://svejcar.dev/posts/2019/09/23/haskell-on-raspberry-pi-4/)
 
 ## 高位合成
 * [Domain-specific Languages and Code Synthesis Using Haskell](http://queue.acm.org/detail.cfm?id=2617811)
