@@ -85,6 +85,7 @@ instance Show Bool where
 * [Proxy arguments in class methods: a comparative analysis - Ryan Scott](https://ryanglscott.github.io/2019/02/06/proxy-arguments-in-class-methods/) - 型の情報しか使わない型クラスのメソッドをどうデザインするのが良いのか
 * [Haskellの型クラスについて - Qiita](https://qiita.com/mrsekut/items/779034c7df1e1a2a309e)
 * [simplifying-typeclasses](http://h2.jaguarpaw.co.uk/posts/simplifying-typeclasses/)
+* [Which typeclass are you? [impurepics quiz]](https://impurepics.com/quiz/)
 
 ## 代数的な型クラス
 * [tower](https://tonyday567.github.io/tower/index.html)
