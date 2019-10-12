@@ -190,6 +190,7 @@ Stack開発の知見が集められたライブラリ
 * [Why Stack is moving its CI to Azure Pipelines](https://www.fpcomplete.com/blog/why-stack-is-moving-its-ci-to-azure-pipelines)
 * [stack new叩いたらすぐhspecが使えるようにする - Qiita](https://qiita.com/jnuank/items/9b5cf42161be3954afac)
 * [中国でStackを使うには？ - Qiita](https://qiita.com/sio-funmatsu/items/16bc8125d2ce27b8e90f)
+* [しょぼいメモリ環境で Haskell stack build用にswap領域を増やす - Qiita](https://qiita.com/jdoiWork/items/ad6a94fafc33b3dd1b16)
 
 ### 逆引き
 * [Ubuntu 16 で Stack + GHC がライブラリのリンクに失敗する場合の対処法](http://qiita.com/mr_konn/items/13caa82c1118968d3145)
