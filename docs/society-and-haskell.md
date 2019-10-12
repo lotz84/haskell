@@ -28,6 +28,7 @@
 * [Holmusk \| Haskell - An Experience Summary](https://holmusk.dev/blog/2019-03-29-experience-summary.html#the-cons)
 * [Karol Kuczmarski's Blog – A Haskell retrospective](http://xion.io/post/programming/haskell-retrospective.html)
 * [Haskell-Disappointment.md](https://gist.github.com/nrinaudo/b02d0d17f62b6babea60cb0b52ded287)
+* [Channable - Why we decided to go for the Big Rewrite](https://tech.channable.com/posts/2019-10-04-why-we-decided-to-go-for-the-big-rewrite.html)
 
 ## コミュニティ
 * [Haskell Communities and Activities Report](https://wiki.haskell.org/Haskell_Communities_and_Activities_Report)
