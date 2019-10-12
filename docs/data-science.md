@@ -62,6 +62,7 @@
 * [ocramz/sde: Numerical experiments with stochastic differential equations in Haskell](https://github.com/ocramz/sde)
 * [mdibaiee/sibe: Experimental Haskell machine learning library](https://github.com/mdibaiee/sibe)
 * [online \| Online statistics](https://tonyday567.github.io/online/index.html)
+* [テンソルを実装するのに表現可能関手がとても便利な件 - Qiita](https://qiita.com/lotz/items/5a1a05c0dae1133a5f44)
 
 ## 数値計算・可視化
 * [scientific](https://hackage.haskell.org/package/scientific)
