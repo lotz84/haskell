@@ -284,6 +284,7 @@
 * [System.Timeを使うときは気をつけよう](http://qiita.com/watertight/items/294d2ebb73c54d046f63) - `Data.Time`を使おう
 * [Template Haskell でいい感じに時間の長さを書けるライブラリ duration を作った - ryota-ka's blog](https://ryota-ka.hatenablog.com/entry/2018/06/09/210456)
 * [Haskellの時間系ライブラリ time が提供する型 - Qiita](https://qiita.com/lotz/items/f42d8dec1cfe713f6127)
+* [A cheatsheet to the time library \| William Yao](https://williamyaoh.com/posts/2019-09-16-time-cheatsheet.html)
 
 ## オブジェクト
 
