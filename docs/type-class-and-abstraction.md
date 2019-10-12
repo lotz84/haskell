@@ -86,6 +86,7 @@ instance Show Bool where
 * [Haskellの型クラスについて - Qiita](https://qiita.com/mrsekut/items/779034c7df1e1a2a309e)
 * [simplifying-typeclasses](http://h2.jaguarpaw.co.uk/posts/simplifying-typeclasses/)
 * [Which typeclass are you? [impurepics quiz]](https://impurepics.com/quiz/)
+* [Inspecting Haskell Instance Resolution](https://mgsloan.com/posts/inspecting-haskell-instance-resolution/)
 
 ## 代数的な型クラス
 * [tower](https://tonyday567.github.io/tower/index.html)
