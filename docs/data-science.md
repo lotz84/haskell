@@ -141,6 +141,7 @@ SVGを扱うためのライブラリ
 * [Haskellの行列計算 - 保存と読み出し、複素行列について - Qiita](https://qiita.com/tkch_pe/items/d6cfbc333d6c60751184)
 * [Saulzar/Tensor.hs](https://gist.github.com/Saulzar/568665c16506cbe2068123350cee9904) - Attempts at static tensor dimensioning
 * [repa](https://hackage.haskell.org/package/repa)
+* [Linear Algebra of Types - Hey There Buddo!](http://www.philipzucker.com/linear-algebra-of-types/)
 
 ## 確率
 * [プログラミングのための確率統計 in Haskell](http://note.golden-lucky.net/2010/12/1-2-3-4-5-6-16-16-16-16-16-16-246-135.html)
