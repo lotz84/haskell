@@ -34,6 +34,9 @@ $ brew install haskell-stack
 * [ott - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=JoeyEremondi.ott)
 * [VisualStudioCode で Haskell のコードを実行するショートカットを設定する - Qiita](https://qiita.com/jnhnd/items/240c41ea5dd7acd9e54c)
 * [macOSでVS CodeのHaskellの環境構築で嵌った点 - Qiita](https://qiita.com/dsm/items/861d08844b1fba32f07b)
+* [VSCodeでHaskell Language Serverが動かない（Windows 10） - Qiita](https://qiita.com/yutasth/items/03e2cc6148f2406d0d8a)
+* [VSCodeでCouldn't start client Haskell IDEが出る（Windows 10） - Qiita](https://qiita.com/yutasth/items/28af2eb0371f6457e0bb)
+* [Haskell IDE Engineのインストールに苦労した (Windows 10) - Qiita](https://qiita.com/yutasth/items/9df6e2c3937edad24aee)
 
 ### Vim
 * [begriffs/haskell-vim-now](https://github.com/begriffs/haskell-vim-now?hr=2)
