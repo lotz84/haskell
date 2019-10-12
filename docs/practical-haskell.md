@@ -384,6 +384,7 @@ Stack開発の知見が集められたライブラリ
 * [Functional Works - Music, Haskell... and Westeros](https://functional.works-hub.com/blog/Music-Haskell...-and-Westeros)
 * [karya - overview.md –](http://ofb.net/~elaforge/karya/doc/overview.md.html)
 * [Tidal (Haskell DSL) in action at GitHub Universe 2018 : haskell](https://www.reddit.com/r/haskell/comments/aiekrg/tidal_haskell_dsl_in_action_at_github_universe/)
+* [Interesting Music in Four Lines of Code – Donya Quick's Website](http://donyaquick.com/interesting-music-in-four-lines-of-code/)
 
 ## アプリケーション・アーキテクチャ
 * [DDDをHaskellで考える 業務ロジックとシステムロジック](http://qiita.com/suzuki-hoge/items/82229b903655ca4b5c9b)
