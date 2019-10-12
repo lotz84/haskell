@@ -21,6 +21,7 @@
 * [Haskell Bazaar](https://www.haskellbazaar.com/#/)
 * [litxio/ptghci: High-powered REPL for Haskell, inspired by IPython](https://github.com/litxio/ptghci)
 * [Build Haskell fast](https://haskell.build/)
+* [Queensland FP Lab - Managing GHC versions with ghcup](https://qfpl.io/posts/multiple-ghcs-ghcup/)
 
 ## Dhall
 * [Dhallによるリッチな設定ファイル体験](http://syocy.hatenablog.com/entry/2018/07/14/195255)
