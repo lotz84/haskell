@@ -491,6 +491,7 @@ Web Application Framework
 * [Dead-simple TCP/IP services using servant · in Code](https://blog.jle.im/entry/simple-tcpip-services-servant.html)
 * [Who Authorized These Ghosts!?](https://ocharles.org.uk/blog/posts/2019-08-09-who-authorized-these-ghosts.html)
 * [servant-haskellをCloud Runにのせて結び目不変量を求めるWebアプリを作る - Qiita](https://qiita.com/ayanamizuta/items/33a48b5693f8662a6895)
+* [Unifying Servant server error responses](https://lukwagoallan.com/posts/unifying-servant-server-error-responses)
 
 ### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
