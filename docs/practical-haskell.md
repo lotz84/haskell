@@ -338,6 +338,7 @@ Stack開発の知見が集められたライブラリ
 * [libdw で遊ぶ - Qiita](https://qiita.com/thimura/items/632be5385fc7eb1ef4bf)
 * [How to use Foreign Function Interface with Stack: Part I](https://medium.com/@sbarr_67566/how-to-use-foreign-function-interface-with-stack-part-i-9ca1074c7fb)
 * [Tweag I/O - inline-js:seamless JavaScript/Haskell interop](https://www.tweag.io/posts/2019-05-09-inline-js.html)
+* [HaskellからC言語の「値」や「関数形式マクロ」をお手軽に使うための言語拡張CApiFFI - Qiita](https://qiita.com/YoshikuniJujo/items/bba99f7ff0c4a68d6666)
 
 ## JVM
 * [A new ecosystem for Haskell: the JVM](http://blog.tweag.io/posts/2016-10-17-inline-java.html)
