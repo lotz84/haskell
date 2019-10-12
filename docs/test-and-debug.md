@@ -94,6 +94,7 @@
 * [QuickCheck, Hedgehog, Validity](https://www.fpcomplete.com/blog/quickcheck-hedgehog-validity)
 * [Well-Typed - The Haskell Consultants: Integrated versus Manual Shrinking](http://www.well-typed.com/blog/2019/05/integrated-shrinking/)
 * [How to Specify it!](https://www.dropbox.com/s/tx2b84kae4bw1p4/paper.pdf?dl=0)
+* [Do disturb me \| Verifying the Titular Properties of a Leftist Heap](https://dodisturb.me/posts/2019-10-03-Verifying-the-Titular-Properties-of-a-Leftist-Heap.html)
 
 ```haskell
 import Data.List
