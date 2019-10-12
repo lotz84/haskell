@@ -135,6 +135,7 @@
 * [GHC Development](https://ghc.dev/)
 * [Andreas Klebingers Blog - Opinion piece on GHC backends.](https://andreaspk.github.io/posts/2019-08-25-Opinion%20piece%20on%20GHC%20backends.html)
 * [Haskell compilation pipeline and STG language - Superstring Theory - Medium](https://medium.com/superstringtheory/haskell-compilation-pipeline-and-stg-language-7fe5bb4ed2de)
+* [Well-Typed - The Haskell Consultants: Eventful GHC](http://www.well-typed.com/blog/2019/09/eventful-ghc/)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
