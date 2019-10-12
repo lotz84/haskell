@@ -602,6 +602,7 @@ $ trackit --watch-dir=. --command="ls --color"
 * [Anardil — Haskell coreutils - cat](https://anardil.net/2019/haskell-coreutils-cat.html)
 * [termbox-banana: reactive-banana + termbox](https://hackage.haskell.org/package/termbox-banana)
 * [Patterns of Functional Programming: Functional Core - Imperative Shell](http://www.javiercasas.com/articles/functional-programming-patterns-functional-core-imperative-shell)
+* [blog/Haskell static code analysis software.md at master · razvan-flavius-panda/blog](https://github.com/razvan-flavius-panda/blog/blob/master/Haskell%20static%20code%20analysis%20software.md#haskell-static-code-analysis-software)
 
 ### オプションパーサー
 * [HaskellのSystem.Console.ParseArgs](http://yu-i9.hatenablog.com/entry/2014/08/29/135253)
