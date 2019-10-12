@@ -136,6 +136,7 @@
 * [Andreas Klebingers Blog - Opinion piece on GHC backends.](https://andreaspk.github.io/posts/2019-08-25-Opinion%20piece%20on%20GHC%20backends.html)
 * [Haskell compilation pipeline and STG language - Superstring Theory - Medium](https://medium.com/superstringtheory/haskell-compilation-pipeline-and-stg-language-7fe5bb4ed2de)
 * [Well-Typed - The Haskell Consultants: Eventful GHC](http://www.well-typed.com/blog/2019/09/eventful-ghc/)
+* [HIW 2019で発表された、GHC 8.8で導入された機能 - Haskell-jp](https://haskell.jp/blog/posts/2019/hiw-ghc8.8.html)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
@@ -365,3 +366,4 @@ $ stack exec -- <your program> +RTS <profiling options>
 
 ### Another Haskell Compiler
 * [DHC Demo - The following compiles Haskell to WebAssembly and runs it.](https://dhc.dfinity.org/)
+* [HIW 2019で発表された、Gibbonコンパイラーについて - Haskell-jp](https://haskell.jp/blog/posts/2019/hiw-gibbon.html)
