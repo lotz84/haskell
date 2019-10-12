@@ -19,6 +19,7 @@ $ brew install haskell-stack
 のようにbrewを使っていれるのが簡単です。
 
 * [WindowsでのHaskell開発環境構築(2017年秋版) - モナドとわたしとコモナド](http://fumieval.hatenablog.com/entry/2017/10/11/230117)
+* [The easiest way to setup a Haskell environment on Windows](https://hub.zhox.com/posts/introducing-haskell-dev/)
 * [Haskell-Guide/DevelopmentEnvironment.md at master · lambdaheart/Haskell-Guide](https://github.com/lambdaheart/Haskell-Guide/blob/master/DevelopmentEnvironment.md)
 
 ## エディタ
