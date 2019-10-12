@@ -106,6 +106,7 @@ SVGを扱うためのライブラリ
   * [Diagrams: Composition, Envelopes and Alignment Part 2](https://www.youtube.com/watch?v=nZCzsBOYdis)
   * [prowdsponsor/diagrams-qrcode](https://github.com/prowdsponsor/diagrams-qrcode)
   * [Diagrams - Diagrams 1.4](http://projects.haskell.org/diagrams/blog/2017-01-03-diagrams-1.4.html)
+* [Haskellで図を作成してみましょう （その１） - 朝日ネット　技術者ブログ](https://techblog.asahi-net.co.jp/entry/2019/09/18/152022)
 
 ### Chart
 2Dグラフ描画ライブラリ
