@@ -82,6 +82,7 @@
 * [ChrisPenner/lens-filesystem: Lens interface for your filesystem; still a bit experimental](https://github.com/ChrisPenner/lens-filesystem)
 * [Profunctor Optics and the Yoneda Lemma](https://ifipwg21wiki.cs.kuleuven.be/pub/IFIP21/Brandenburg/wg21m77.pdf)
 * [Optics + Regex: Greater than the sum of their parts](https://chrispenner.ca/posts/lens-regex-pcre)
+* [Building Lenses](https://vitez.me/building-lenses)
 
 > Thus the Yoneda embedding of the functor category leads to the van Laarhoven representation of the lens
 
