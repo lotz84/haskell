@@ -29,6 +29,7 @@
 * [Karol Kuczmarski's Blog – A Haskell retrospective](http://xion.io/post/programming/haskell-retrospective.html)
 * [Haskell-Disappointment.md](https://gist.github.com/nrinaudo/b02d0d17f62b6babea60cb0b52ded287)
 * [Channable - Why we decided to go for the Big Rewrite](https://tech.channable.com/posts/2019-10-04-why-we-decided-to-go-for-the-big-rewrite.html)
+* [HaskellとElmの会社をつぶしてUXハッカーになった話 - Qiita](https://qiita.com/arowM/items/9eddd10d531154cbc065)
 
 ## コミュニティ
 * [Haskell Communities and Activities Report](https://wiki.haskell.org/Haskell_Communities_and_Activities_Report)
