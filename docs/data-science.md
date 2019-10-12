@@ -184,6 +184,7 @@ instance Monad Dist where
 * [The Probability Monad](https://www.youtube.com/watch?v=qZ4O-1VYv4c)
 * [Recursive Stochastic Processes · jtobin.io](https://jtobin.io/recursive-stochastic-processes)
 * [jtobin/deanie: An embedded probabilistic programming language.](https://github.com/jtobin/deanie)
+* [Tweag I/O - Probabilistic Programming with monad‑bayes, Part 1: First Steps](https://www.tweag.io/posts/2019-09-20-monad-bayes-1.html)
 
 ### Hakaru
 * [Hakaru](http://hakaru-dev.github.io/)
