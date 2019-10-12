@@ -152,6 +152,7 @@ data HList (as :: [*]) where
 * [mikeizbicki/ifcxt](https://github.com/mikeizbicki/ifcxt)
 * [Monads Made Difficult](http://www.stephendiehl.com/posts/monads.html)
 * [Infinite Negative Utility: Haskell Type Equality Constraints](http://blog.infinitenegativeutility.com/2017/1/haskell-type-equality-constraints)
+* [Opaque constraint synonyms – ( )](https://kcsongor.github.io/opaque-constraint-synonyms/)
 
 ## Phantom Type
 * [Phantom Types and Subtyping](http://www.cs.rit.edu/~mtf/research/phantom-subtyping/jfp06/jfp06.pdf)
