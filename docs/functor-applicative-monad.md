@@ -404,6 +404,7 @@ Reader + Writer + State
 
 #### MonadBase
 * [transformars-base](https://hackage.haskell.org/package/transformers-base)
+* [Demystifying `MonadBaseControl`](https://lexi-lambda.github.io/blog/2019/09/07/demystifying-monadbasecontrol/)
 
 #### MonadIO
 * [Control.Monad.IO.Class](https://hackage.haskell.org/package/transformers/docs/Control-Monad-IO-Class.html)
