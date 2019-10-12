@@ -92,6 +92,7 @@
 
 ### 英語チュートリアル
 * [Tweag I/O - Why Haskell is important](https://www.tweag.io/posts/2019-09-06-why-haskell-is-important.html)
+* [What is Good About Haskell? - Donnacha Oisín Kidney](https://doisinkidney.com/posts/2019-10-02-what-is-good-about-haskell.html)
 * [morgenthum.dev - software development and architecture](https://morgenthum.dev/articles/why-prefer-fp)
 * [Haskell Notes for Professionals book](http://books.goalkicker.com/HaskellBook/)
 * [Reading Simple Haskell](https://soupi.github.io/rfc/reading_simple_haskell/)
