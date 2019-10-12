@@ -95,6 +95,7 @@
 * [Cartography in Haskell \| Maths, Stats & Functional Programming](https://idontgetoutmuch.wordpress.com/2018/05/19/cartography-in-haskell/)
 * [オイラー法でローレンツアトラクタが見たい on Haskell - 置き去りになったメモ](https://yakituka.hateblo.jp/entry/2019/08/26/193907)
 * [DataHaskell/numeric-libs-benchmarks: - An overview of Haskell numerical libraries](https://github.com/DataHaskell/numeric-libs-benchmarks)
+* [interactive-plot: Interactive quick time series plotting](https://hackage.haskell.org/package/interactive-plot)
 
 ### diagrams
 SVGを扱うためのライブラリ
