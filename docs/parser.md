@@ -44,6 +44,7 @@
 * [Parsing and generating ABIF files (DNA chromatograms)](https://www.andrevdm.com/posts/2019-01-09-abif-chromatograms.html)
 * [github/semantic: Parsing, analyzing, and comparing source code across many languages](https://github.com/github/semantic)
 * [『形式意味論入門』を Haskell に書き下す (前編) - ryota-ka's blog](https://ryota-ka.hatenablog.com/entry/2019/08/15/213000)
+* [Learn Functional Programming by writing a Scheme in Haskell :: 0x0f0f0f](https://0x0f0f0f.github.io/posts/2019/09/learn-functional-programming-by-writing-a-scheme-in-haskell/)
 
 ## 正規表現
 * [関数型的正規表現マッチ](https://research.preferred.jp/2010/11/regexp-play/)
