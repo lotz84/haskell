@@ -51,6 +51,7 @@
 * [動的計画法を実現する代数〜トロピカル演算でグラフの最短経路を計算する〜 - Qiita](https://qiita.com/lotz/items/094bffd77b24e37bf20e)
 * [カタンの最長交易路(Longest Road)を探すために半環を考える - Qiita](https://qiita.com/tezca686/items/596ed7673a078170551f)
 * [Exploratory Haskell](http://www.parsonsmatt.org/2015/12/09/exploratory_haskell.html)
+* [ChrisPenner/astar-monad: A smart A* search monad transformer which supports backtracking user-state!](https://github.com/ChrisPenner/astar-monad)
 
 ## Hackage
 * [The grid package](http://hackage.haskell.org/package/grid)
