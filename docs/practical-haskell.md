@@ -297,6 +297,7 @@ Stack開発の知見が集められたライブラリ
 * [Building a Blog Part 5: Continuous integration with CircleCI](https://gaumala.com/posts/2019-01-22-continuous-integration-with-circle-ci.html)
 * [You should try Hadrian \| no time](https://blogs.ncl.ac.uk/andreymokhov/you-should-try-hadrian/)
 * [Dead simple Haskell Travis settings for cabal and stack](https://chshersh.github.io/posts/2019-02-25-haskell-travis)
+* [HaskellとHspecでBuddy CI - Qiita](https://qiita.com/jdoiWork/items/1cc09a1d375a038ac400)
 
 ## Hadrian
 * [HSoC — Hadrian Optimisation: First GHC Contribution (Update 4)](https://medium.com/@ratherforky/hsoc-hadrian-optimisation-update-4-47ab2b62b15a)
