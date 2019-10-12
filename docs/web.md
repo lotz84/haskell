@@ -274,6 +274,7 @@ Web Server
 * [vincenthz/hs-connection](https://github.com/vincenthz/hs-connection)
 * TLS/SSL implementation in haskell - [vincenthz/hs-tls](https://github.com/vincenthz/hs-tls)
 * [Haskell network library version 3.0 - あどけない話](https://kazu-yamamoto.hatenablog.jp/entry/2019/02/08/162027) - networkライブラリの歴史とv3.0のデザインについて
+* [Implementing graceful-close in Haskell network library - あどけない話](https://kazu-yamamoto.hatenablog.jp/entry/2019/09/20/165939)
 
 
 ### WAI/Warp
