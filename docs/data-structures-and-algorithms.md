@@ -232,6 +232,7 @@
 * [Tweag I/O - Array fusion with vector](http://www.tweag.io/posts/2017-10-12-vector-package.html)
 * [Unlifted Structures - School of Haskell | School of Haskell](https://www.schoolofhaskell.com/user/edwardk/unlifted-structures)
 * [unboxing-vectorの紹介：newtypeフレンドリーなunboxed vector - Qiita](https://qiita.com/mod_poppo/items/cf6b66ff16464c170ac2)
+* [Bodigrim/bitvec: Bit vectors library for Haskell](https://github.com/Bodigrim/bitvec)
 
 ## 木
 * [Haskell Tutorial: Implementing highly efficient data structures with Monoids and Fingertrees](https://www.codementor.io/haskell/tutorial/monoids-fingertrees-implement-abstract-data)
