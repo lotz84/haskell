@@ -206,6 +206,7 @@ circum (Circle _ _ r) = …
 * [Haskellの型システムを書く(1) - 純粋技術メモ](http://fujiy.hatenablog.com/entry/type-inference-1)
 * [型システムを学ぼう！](https://uhideyuki.sakura.ne.jp/studs/index.cgi/ja/HindleyMilnerInHaskell)
 * [A reckless introduction to Hindley-Milner type inference](http://reasonableapproximation.net/2019/05/05/hindley-milner.html)
+* [Tripping up type inference – ( )](https://kcsongor.github.io/ambiguous-tags/)
 
 ## Parametricity
 * [Theorems for free!](http://www.cs.sfu.ca/CourseCentral/831/burton/Notes/July14/free.pdf)
