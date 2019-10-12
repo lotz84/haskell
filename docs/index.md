@@ -21,7 +21,7 @@
     12. [継続](continuation)
     13. [例外処理](exceptions)
     14. [デバッグ・テスト](test-and-debug)
-    15. [Lens](lens)
+    15. [Optics](optics)
     16. [構文解析器](parser)
     17. [並列・並行・分散](parallel-and-concurrent-programming)
     18. [ストリーム処理](streaming-data-processing)
