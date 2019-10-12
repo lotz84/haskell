@@ -83,3 +83,4 @@
 * [[1803.05316] Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/abs/1803.05316)
 * [アプリカティブ関手ってなに？モノイド圏との関係は？調べてみました！ \| 雑記帳](https://blog.miz-ar.info/2018/12/applicative-functor/)
 * [Programming with Universal Constructions \| Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2019/07/03/programming-with-universal-constructions/)
+* [もう諦めない圏論付録―ストリング・ダイアグラム― - Qiita](https://qiita.com/norkron/items/e55a39c22288955689f9)
