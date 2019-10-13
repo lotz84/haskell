@@ -75,3 +75,4 @@
 * [Popular blogs – Haskell – Aelve Guide](https://guide.aelve.com/haskell/popular-blogs-dila2lox)
 * [cohomolo-gy/haskell-resources: A List of Foundational Haskell Papers](https://github.com/cohomolo-gy/haskell-resources)
 * [Haskell - Read Me](https://crypto.stanford.edu/~blynn/haskell/papers.html)
+* [saurabhkukade/haskell_study: Collections of papers and books about Haskell, Type Theory and Category Theory](https://github.com/saurabhkukade/haskell_study)
