@@ -215,6 +215,7 @@
 * [Haskellで解くAtCoder - The curse of λ](https://myuon.github.io/posts/haskell-atcoder/)
 * [HaskellでAtCoderに参戦して水色になった \| 雑記帳](https://blog.miz-ar.info/2019/05/atcoder-with-haskell/)
 * [【低レベルHaskell】Haskell (GHC) でもインラインアセンブリに肉薄したい！ - Qiita](https://qiita.com/mod_poppo/items/793fdb08e62591d6f3fb)
+* [Beating C with 80 lines of Haskell: wc](https://chrispenner.ca/posts/wc)
 
 ### スペースリーク
 * [GHC とスペースとリーク](http://d.hatena.ne.jp/kazu-yamamoto/20151217)
