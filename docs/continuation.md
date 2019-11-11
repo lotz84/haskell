@@ -54,6 +54,7 @@ newtype Cont r a = Cont { runCont :: (a -> r) -> r }
 * [Fun fact: The continuation monad `Cont r a` has an equality instance when `r` is finite. : haskell](https://www.reddit.com/r/haskell/comments/ahu6jp/fun_fact_the_continuation_monad_cont_r_a_has_an/)
 * [Why would you use ContT?](https://ro-che.info/articles/2019-06-07-why-use-contt)
 * [Lysxia - The reasonable effectiveness of the continuation monad](https://blog.poisson.chat/posts/2019-10-26-reasonable-continuations.html)
+* [How does the continuation monad work? \| Max Hallinan](https://maxhallinan.com/posts/2019/10/22/how-does-the-continuation-monad-work/)
 
 ### 継続による計算の効率化
 継続を使って短絡評価が実装できる  
