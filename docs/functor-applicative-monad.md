@@ -241,6 +241,7 @@ class Monad m where
 * [A Basis For Sequential Execution: Monads, Arrows, and More \| Aearnus’ Realm](https://aearnus.github.io/2019/05/10/a-basis-for-sequential-execution-monads-arrows-and-more)
 * [[1903.01237] Dijkstra Monads for All](https://arxiv.org/abs/1903.01237)
 * [Monads as a Programming Pattern](https://samgrayson.me/2019-08-06-monads-as-a-programming-pattern/)
+* [Lysxia - A monad is just a submonad of the continuation monad, what's the problem?](https://blog.poisson.chat/posts/2019-10-27-continuation-submonads.html)
 
 ```haskell
 do x <- mx
