@@ -31,6 +31,7 @@
 * [Channable - Why we decided to go for the Big Rewrite](https://tech.channable.com/posts/2019-10-04-why-we-decided-to-go-for-the-big-rewrite.html)
 * [HaskellとElmの会社をつぶしてUXハッカーになった話 - Qiita](https://qiita.com/arowM/items/9eddd10d531154cbc065)
 * [Top 6 Software Projects Written in Haskell](https://serokell.io/blog/top-software-written-in-haskell)
+* [Haskell in Production](http://felixmulder.com/writing/2019/10/05/Haskell-in-Production.html)
 
 ## コミュニティ
 * [Haskell Communities and Activities Report](https://wiki.haskell.org/Haskell_Communities_and_Activities_Report)
