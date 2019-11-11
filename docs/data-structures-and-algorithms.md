@@ -52,6 +52,7 @@
 * [カタンの最長交易路(Longest Road)を探すために半環を考える - Qiita](https://qiita.com/tezca686/items/596ed7673a078170551f)
 * [Exploratory Haskell](http://www.parsonsmatt.org/2015/12/09/exploratory_haskell.html)
 * [ChrisPenner/astar-monad: A smart A* search monad transformer which supports backtracking user-state!](https://github.com/ChrisPenner/astar-monad)
+* [jaspervdj - Partial application using flip](https://jaspervdj.be/posts/2019-10-15-flip-partial-application.html)
 
 ## Hackage
 * [The grid package](http://hackage.haskell.org/package/grid)
