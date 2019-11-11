@@ -491,6 +491,9 @@ Line 6:
 * Generate docset of Dash by Haddock haskell documentation tool
 * <https://github.com/philopon/haddocset>
 
+### Hadui
+* [complyue/hadui: Web front UI for interactive Haskell stack projects](https://github.com/complyue/hadui)
+
 ### haskell-tools
 * Developer tools for Haskell
 * <https://github.com/nboldi/haskell-tools>
