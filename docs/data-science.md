@@ -144,6 +144,7 @@ SVGを扱うためのライブラリ
 * [Saulzar/Tensor.hs](https://gist.github.com/Saulzar/568665c16506cbe2068123350cee9904) - Attempts at static tensor dimensioning
 * [repa](https://hackage.haskell.org/package/repa)
 * [Linear Algebra of Types - Hey There Buddo!](http://www.philipzucker.com/linear-algebra-of-types/)
+* [テンソル形状のコンパイル時検査＋実行時アサーション化を今のHaskellで書いてみる - Qiita](https://qiita.com/masahiro_sakai/items/c48c688d1b8d47d2a5f1)
 
 ## 確率
 * [プログラミングのための確率統計 in Haskell](http://note.golden-lucky.net/2010/12/1-2-3-4-5-6-16-16-16-16-16-16-246-135.html)
