@@ -89,6 +89,7 @@ instance Show Bool where
 * [Inspecting Haskell Instance Resolution](https://mgsloan.com/posts/inspecting-haskell-instance-resolution/)
 * [Nicer Data Types a la Carte with DefaultSignatures](https://yairchu.github.io/posts/dtalc-with-defaultsigs.html)
 * [Demystifying Type Classes](http://okmij.org/ftp/Computation/typeclass.html)
+* [Haskellの型クラスでJavaScriptっぽいことをやって遊んでみる - Qiita](https://qiita.com/toru0408/items/ef9ea79df0c40e8dd23a)
 
 ## 代数的な型クラス
 * [tower](https://tonyday567.github.io/tower/index.html)
