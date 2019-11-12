@@ -54,6 +54,7 @@
 * [What the heck is polymorphism? - DEV Community 👩‍💻👨‍💻](https://dev.to/jvanbruegge/what-the-heck-is-polymorphism-nmh)
 * [These Changes](https://fintanh.github.io/posts/these-changes.html)
 * [good-design-and-type-safety-in-yahtzee](http://h2.jaguarpaw.co.uk/posts/good-design-and-type-safety-in-yahtzee/)
+* [ML系言語で型注釈が必要なケース - Qiita](https://qiita.com/mod_poppo/items/de3ef7965197dbbda761)
 
 ### 代数的データ型
 代数的データ型とは"足し算"と"掛け算"が出来るような型のこと。"足し算"と"掛け算"はそれぞれ**直和**, **直積** と呼ばれる。
