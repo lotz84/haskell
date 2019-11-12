@@ -243,6 +243,7 @@ class Monad m where
 * [Monads as a Programming Pattern](https://samgrayson.me/2019-08-06-monads-as-a-programming-pattern/)
 * [Lysxia - A monad is just a submonad of the continuation monad, what's the problem?](https://blog.poisson.chat/posts/2019-10-27-continuation-submonads.html)
 * [Neil Mitchell's Haskell Blog: Monads as Graphs](https://neilmitchell.blogspot.com/2019/10/monads-as-graphs.html)
+* [いろいろなモナド at Nakameguro.hs #2 - Qiita](https://qiita.com/ryota-ka/items/544dbd82891510accbc0)
 
 ```haskell
 do x <- mx
