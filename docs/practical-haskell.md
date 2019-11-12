@@ -390,6 +390,8 @@ Stack開発の知見が集められたライブラリ
 * [karya - overview.md –](http://ofb.net/~elaforge/karya/doc/overview.md.html)
 * [Tidal (Haskell DSL) in action at GitHub Universe 2018 : haskell](https://www.reddit.com/r/haskell/comments/aiekrg/tidal_haskell_dsl_in_action_at_github_universe/)
 * [Interesting Music in Four Lines of Code – Donya Quick's Website](http://donyaquick.com/interesting-music-in-four-lines-of-code/)
+* [TydalCycles TIPS パート1「乱数を用いる」 - Qiita](https://qiita.com/ibuibu69/items/80f5732b1803d6c7dc1c)
+* [TydalCycles TIPS パート2「乱数で自動作曲する」 - Qiita](https://qiita.com/ibuibu69/items/add531f26880b874ee00)
 
 ## アプリケーション・アーキテクチャ
 * [DDDをHaskellで考える 業務ロジックとシステムロジック](http://qiita.com/suzuki-hoge/items/82229b903655ca4b5c9b)
