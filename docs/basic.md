@@ -81,6 +81,7 @@ type a * b = (a, b)
 * [Data and Codata](http://blog.sigfpe.com/2007/07/data-and-codata.html)
 * [Co-data 【新歓ブログリレー2017 21日目】 | 東京工業大学デジタル創作同好会traP](https://trap.jp/post/199/)
 * [Codata in action, or how to connect Functional Programming and Object Oriented Programming](http://www.javiercasas.com/articles/codata-in-action)
+* [双対的にみる余帰納法 1.イントロ - Qiita](https://qiita.com/karrym/items/74e80119d18b75290254)
 
 ### Zipper
 * [zipper](https://hackage.haskell.org/package/zipper)
