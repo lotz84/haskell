@@ -106,6 +106,7 @@ Client
 * [CS Syd - Testing the Super User Spark with HSpec](https://cs-syd.eu/posts/2016-02-28-testing-the-super-user-spark-with-hspec.html)
 * [tweag/sparkle: Haskell on Apache Spark.](https://github.com/tweag/sparkle)
 * [HaskellからWordPressのREST APIを叩くメモ - Qiita](https://qiita.com/mod_poppo/items/5e0472e7171a7574abc3)
+* [HaskellでWordPress eXtended RSS (WXR)ファイルをパースする - Qiita](https://qiita.com/mod_poppo/items/c0847757a6b7679a8891)
 
 Scraping
 --------
