@@ -130,12 +130,13 @@ type a * b = (a, b)
 * [Haskellの関数の型とかカリー化とか #Haskell - Qiita](https://qiita.com/Tatsuki-I/items/d1d122107da8c1ee121f)
 * [haskellで2重リストにmapを適用させる例 - Qiita](https://qiita.com/P0ngCh4ng/items/fb3f24b7c3138bd1b159)
 
-### パターンマッチ
+### 直和型／パターンマッチ
 * [Pattern matching](http://mbps.hatenablog.com/entry/2014/10/04/010000)
 * [PATTERN MATCHING: WOT'S... UH THE DEAL?](http://www.stackbuilders.com/news/pattern-matching-wot-s-uh-the-deal)
 * [Pattern and Guard Extensions](https://www.fpcomplete.com/school/to-infinity-and-beyond/pick-of-the-week/guide-to-ghc-extensions/pattern-and-guard-extensions)
 * [Haskell で条件分岐](http://qiita.com/rooooomania/items/1623e5b981a30fbc8427)
 * [コピペしてすぐ確認できるHaskellの条件分岐](http://qiita.com/nejimakidori/items/f6aedce6308ce5e32914)
+* [The four simple ways to encode sum-types](https://yairchu.github.io/posts/sum-type-encodings.html)
 
 ### 多変数関数とカリー化
 * [Curry](https://ro-che.info/ccc/10)
