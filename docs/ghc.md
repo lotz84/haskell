@@ -220,6 +220,7 @@
 * [【低レベルHaskell】Haskell (GHC) でもインラインアセンブリに肉薄したい！ - Qiita](https://qiita.com/mod_poppo/items/793fdb08e62591d6f3fb)
 * [Beating C with 80 lines of Haskell: wc](https://chrispenner.ca/posts/wc)
 * [Well-Typed - The Haskell Consultants: A Summer of Runtime Performance](https://well-typed.com/blog/2019/10/summer-of-runtime-performance/)
+* [mpickering - Introducing hs-speedscope - a way to visualise time profiles](https://mpickering.github.io/posts/2019-11-07-hs-speedscope.html)
 
 ### スペースリーク
 * [GHC とスペースとリーク](http://d.hatena.ne.jp/kazu-yamamoto/20151217)
