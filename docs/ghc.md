@@ -345,6 +345,7 @@ $ stack exec -- <your program> +RTS <profiling options>
 * [Haskell Backpack 覚え書き](https://matsubara0507.github.io/posts/2017-12-12-backpack-memo.html)
 * [Queensland FP Lab - Backpack for initial and final encodings](http://qfpl.io/posts/backpack-for-initial-and-final-encodings/)
 * [Picnic: put containers into a backpack](https://kowainik.github.io/posts/2018-08-19-picnic-put-containers-into-a-backpack)
+* [Well-Typed - The Haskell Consultants: Unrolling data with Backpack](https://www.well-typed.com/blog/2019/11/unrolling-data-with-backpack/)
 
 ### 正格評価
 * [StrictData拡張について](http://qiita.com/Mizunashi_Mana/items/8edf7781ed4eb4eea4e9)
