@@ -137,6 +137,7 @@ $ brew install haskell-stack
 * [memfrob.de - Announcing Floskell](https://memfrob.de/posts/announcing-floskell/)
 * [Haskell Style Guide](https://kowainik.github.io/posts/2019-02-06-style-guide)
 * [Tweag I/O - Ormolu: Format Haskell code like never before](https://www.tweag.io/posts/2019-05-27-ormolu.html)
+* [Ormolu \| Monadfix](https://monadfix.com/ormolu/)
 
 ----
 
