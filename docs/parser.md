@@ -46,7 +46,6 @@
 * [『形式意味論入門』を Haskell に書き下す (前編) - ryota-ka's blog](https://ryota-ka.hatenablog.com/entry/2019/08/15/213000)
 * [Learn Functional Programming by writing a Scheme in Haskell :: 0x0f0f0f](https://0x0f0f0f.github.io/posts/2019/09/learn-functional-programming-by-writing-a-scheme-in-haskell/)
 * [llvm-hs Kaleidoscope Tutorial](https://lukelau.me/kaleidoscope/)
-* [Megaparsec 8](https://markkarpov.com/post/megaparsec-8.html)
 
 ## 正規表現
 * [関数型的正規表現マッチ](https://research.preferred.jp/2010/11/regexp-play/)
@@ -123,6 +122,8 @@ parse = evalStateT
   * [Beginner's guide to Megaparsec](http://akashagrawal.me/beginners-guide-to-megaparsec/)
 * [Megaparsec 4 and 5](https://mrkkrp.github.io/posts/megaparsec-4-and-5.html)
 * [Megaparsec tutorial from IH book](https://markkarpov.com/megaparsec/megaparsec.html)
+* [Megaparsec 8](https://markkarpov.com/post/megaparsec-8.html)
+* [jamesdbrock/replace-megaparsec: Stream editing with Haskell Megaparsec parsers](https://github.com/jamesdbrock/replace-megaparsec)
 
 ### Terifecta
 * [The trifecta package](https://hackage.haskell.org/package/trifecta)
