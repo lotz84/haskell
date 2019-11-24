@@ -175,5 +175,8 @@ yoneda f = Natural $ \ax -> fmap ax f
 * [Magnus web site \| Random stuff](http://magnus.therning.org/posts/2019-02-02-000-the-readert-design-pattern-or-tagless-final-.html)
 * [Tagless Final Encoding in Haskell](https://jproyo.github.io/posts/2019-03-17-tagless-final-haskell.html)
 
+## Trees that grow
+* [続くといいな日記 – type family を使って再帰的 ADT をオープンにする](https://mizunashi-mana.github.io/blog/posts/2019/11/trees-that-grow/)
+
 ## Free Arrow
 * [Building free arrows from components](http://blog.sigfpe.com/2017/01/building-free-arrows-from-components.html)
