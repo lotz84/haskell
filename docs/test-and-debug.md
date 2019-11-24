@@ -81,6 +81,7 @@
 * [HSpec と ghcid でHaskellの快適なTDD環境を構築する - Qiita](https://qiita.com/spinylobster/items/268d2053b711f1ccc415)
 * [graninas/automatic-whitebox-testing-showcase: Showcase for an approach how to make automatic white-box testing with Free monads.](https://github.com/graninas/automatic-whitebox-testing-showcase)
 * [[1803.07130] A promise checked is a promise kept: Inspection Testing](https://arxiv.org/abs/1803.07130)
+* [Time Travelling and Fixing Bugs with Property-Based Testing \| Oskar Wickström](https://wickstrom.tech/programming/2019/11/17/time-travelling-and-fixing-bugs-with-property-based-testing.html)
 
 ### QuickCheck
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
