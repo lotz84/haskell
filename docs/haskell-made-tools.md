@@ -155,6 +155,7 @@ $ gifcurry_cli ./in.mp4 ./out.gif start_second duration quality 'Optional top te
 * [Hakyll Pt. 4 – Copying Static Files For Your Build](https://robertwpearce.com/hakyll-pt-4-copying-static-files-for-your-build.html)
 * [tejasbubane/hakyll-css: Drop-in CSS themes for syntax highlighting in Hakyll](https://github.com/tejasbubane/hakyll-css)
 * [Dependent Types Blog - Creating Blog with Hakyll, Nix and Deploying on Amazon EC2](http://deptype.com/posts/2019-02-21-create-blog-nix-hakyll-aws.html)
+* [spam - Haskell, Hakyll and Github Actions](https://vllmrt.net/spam/hakyll-github-actions-pages.html)
 
 ### haskell-player
 * A terminal music player based on afplay
