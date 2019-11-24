@@ -250,6 +250,7 @@ instance Monad Dist where
 * ["Haskell's stochastic gradient descent implementations comparison.](https://github.com/argent0/haskell-ml-benchmark/blob/master/result/main.md)
 * [ThoughtWorksInc/DeepDarkFantasy: A Programming Language for Deep Learning](https://github.com/ThoughtWorksInc/DeepDarkFantasy)
 * [Generating Simple Haskell Programs With Deep Learning](http://www.samcoope.com/posts/deep_code_generation)
+* [Variational Autoencoders in Haskell, or: How I Learned to Stop Worrying and Turn My Friends Into Dogs – Declan's learnin' nook](https://www.declanoller.com/2019/11/15/variational-autoencoders-in-haskell-or-how-i-learned-to-stop-worrying-and-turn-my-friends-into-dogs/)
 
 ### Neural Network
 * [jbarrow/LambdaNet](https://github.com/jbarrow/LambdaNet)
