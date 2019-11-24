@@ -32,3 +32,4 @@
 * [[1611.09471] Learn Quantum Mechanics with Haskell](https://arxiv.org/abs/1611.09471)
 * [physics: dimensions, quantities and constants](https://hackage.haskell.org/package/physics)
 * [Dimensions and Haskell: Introduction - Serokell](https://serokell.io/blog/dimensions-and-haskell-introduction)
+* [[Haskell] 40行でPoisson方程式を解く - Qiita](https://qiita.com/yakituka/items/abffec143cf1c02ac36a)
