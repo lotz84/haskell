@@ -121,6 +121,7 @@ Scraping
 * [A Modest Scraping Proposal](http://www.shimweasel.com/2017/07/13/a-modest-scraping-proposal)
 * [Copping Supreme with Haskell](http://rickyhan.com/jekyll/update/2017/09/27/copping-supreme-with-haskell.html)
 * [Req 1.0.0, HTTP client, and streaming](https://markkarpov.com/post/req-1.0.0-http-client-and-streaming.html)
+* [HTTP Requests with Hreq](https://lukwagoallan.com/posts/http-requests-with-hreq)
 
 Email
 -----
