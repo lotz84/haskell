@@ -90,6 +90,7 @@ instance Show Bool where
 * [Nicer Data Types a la Carte with DefaultSignatures](https://yairchu.github.io/posts/dtalc-with-defaultsigs.html)
 * [Demystifying Type Classes](http://okmij.org/ftp/Computation/typeclass.html)
 * [Haskellの型クラスでJavaScriptっぽいことをやって遊んでみる - Qiita](https://qiita.com/toru0408/items/ef9ea79df0c40e8dd23a)
+* [Named typeclasses in Haskell](http://marcosh.github.io/post/2019/11/11/named-typeclasses-in-haskell.html)
 
 ## 代数的な型クラス
 * [tower](https://tonyday567.github.io/tower/index.html)
