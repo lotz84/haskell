@@ -268,6 +268,7 @@ Web Server
 * [[ANN] rowdy, the web routing DSL : haskell](https://www.reddit.com/r/haskell/comments/88wcxv/ann_rowdy_the_web_routing_dsl/)
 * [abhin4v/hastatic: hastatic is a tiny static web server for Docker](https://github.com/abhin4v/hastatic)
 * [zhangchiqing/beginner-friendly-haskell-for-web-development: A book about real world web development in beginner friendly Haskell](https://github.com/zhangchiqing/beginner-friendly-haskell-for-web-development)
+* [A dead-simple web stack in Haskell \| William Yao](https://williamyaoh.com/posts/2019-11-16-a-dead-simple-web-stack.html)
 
 ### ネットワークプログラミング
 * [network: Low-level networking interface](https://hackage.haskell.org/package/network)
