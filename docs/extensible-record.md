@@ -81,7 +81,7 @@ GHC 8.0 で既に実装されている
 ### Step3. Magic type classes
 * [GHC Wiki - Magic classes for overloaded record fields](https://ghc.haskell.org/trac/ghc/wiki/Records/OverloadedRecordFields/MagicClasses)
 
-GHCがコンパイル時にレコードの宣言を見つけると以下のような型クラスのインスタンスを作るようになる。
+~GHCがコンパイル時にレコードの宣言を見つけると以下のような型クラスのインスタンスを作るようになる。~
 
 ```hs
 -- | HasField x r a はrが型aのフィールドxを持つレコードであることを意味している
