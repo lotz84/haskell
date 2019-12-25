@@ -84,6 +84,7 @@
 * [Optics + Regex: Greater than the sum of their parts](https://chrispenner.ca/posts/lens-regex-pcre)
 * [Building Lenses](https://vitez.me/building-lenses)
 * [Fibrations, Cleavages, and Lenses \|   Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2019/10/09/fibrations-cleavages-and-lenses/)
+* [[1809.00738] Categories of Optics](https://arxiv.org/abs/1809.00738)
 
 > Thus the Yoneda embedding of the functor category leads to the van Laarhoven representation of the lens
 
