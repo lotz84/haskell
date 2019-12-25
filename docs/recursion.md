@@ -163,6 +163,11 @@ class Functor g => Distributive g where
 * [Sorting with Style · jtobin.io](https://jtobin.io/sorting-with-style) - hyloを使ってmergeソートを実装する
 * [Sorting Slower with Style · jtobin.io](https://jtobin.io/sorting-slower-with-style) - apoを使って挿入ソートを実装する
 
+### mutu
+* [(PDF) Make it Practical: A Generic Linear-Time Algorithm for Solving Maximum-Weightsum Problems](https://www.researchgate.net/publication/2630929_Make_it_Practical_A_Generic_Linear-Time_Algorithm_for_Solving_Maximum-Weightsum_Problems)
+* [最大重み和問題の線形時間アルゴリズムの導出](https://www.jstage.jst.go.jp/article/jssst/18/5/18_5_483/_article/-char/ja/)
+* [ナップサック問題およびその発展問題の統一的解法](https://www.jstage.jst.go.jp/article/jssst/18/2/18_2_301/_article/-char/ja/)
+
 ### 融合変換
 * [Theory and Practice of Fusion](http://www.cs.ox.ac.uk/ralf.hinze/publications/IFL10.pdf)
 * [融合変換による最適化の理論的基盤と正当性](http://www.slideshare.net/sakai/20060627)
