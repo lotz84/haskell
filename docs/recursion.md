@@ -202,3 +202,5 @@ class Functor g => Distributive g where
 ### その他
 * [Practical deforestation for fixed-point structures – introducing tungsten \| Alexandre Moine’s blog](https://blog.nyarlathotep.one/2019/07/practical-deforestation-for-fixed-point-structures/)
 * [ASTのための高階代数を元にした recursion schemes - Qiita](https://qiita.com/Mizunashi_Mana/items/d73162057ff276a3238a)
+* [下方射と上方射の Haskell 実装 — Avendia](http://ziphil.com/diary/application/24.html)
+* [続くといいな日記 – 始代数と終余代数が一致する条件](https://mizunashi-mana.github.io/blog/posts/2019/12/algebraic-compact-functor/)
