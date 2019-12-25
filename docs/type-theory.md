@@ -44,6 +44,7 @@
 * [One Eilenberg Theorem to Rule Them All - YouTube](https://www.youtube.com/watch?v=S9ufH65NqCE)
 * [Algebraic Subtyping](https://www.cl.cam.ac.uk/~sd601/thesis.pdf)
 * [Haskellの型と直観論理 - 朝日ネット　技術者ブログ](https://techblog.asahi-net.co.jp/entry/2019/10/31/125852)
+* https://mobile.twitter.com/metaphusika/status/1189909829487251456
 
 ## Martin-L¨of ’s Type Theory
 * 1972 - [An intuitionistic theory of types](https://github.com/michaelt/martin-lof/blob/master/pdfs/An-Intuitionistic-Theory-of-Types-1972.pdf)
