@@ -87,3 +87,4 @@
 * [もう諦めない圏論基礎―高次元圏と変換手― - Qiita](https://qiita.com/norkron/items/271b702a907f865aafc5)
 * [Fixed Points and Diagonal Arguments \|   Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2019/11/06/fixed-points-and-diagonal-arguments/)
 * [Category Theory Basics, Part I](https://markkarpov.com/post/category-theory-part-1.html)
+* [Interaction laws of monads and comonads](https://arxiv.org/abs/1912.13477)
