@@ -351,3 +351,6 @@ main = do
 * [Simple FFT in Haskell](https://ro-che.info/articles/2015-12-04-fft)
 * [Testing FFT with R](https://ro-che.info/articles/2015-12-05-testing-fft)
 * [conal/talk-2016-generic-fft](https://github.com/conal/talk-2016-generic-fft)
+
+## HKD
+* [barbies-thで気軽にHKDを堪能しよう [Haskell AdC 14] - モナドとわたしとコモナド](http://fumieval.hatenablog.com/entry/2019/12/25/224329)
