@@ -63,6 +63,7 @@ instance Functor f => Monad (Free f) where
 * [任意の数の引数を取れる関数のデータ型を考えてたらモナドになった - Qiita](https://qiita.com/sgmryk/items/4f86ceb82d862cf57636)
 * [Lysxia - Free monads of free monads](https://blog.poisson.chat/posts/2019-06-09-free-monads-free-monads.html)
 * [String Diagrams for Free Monads](https://research-information.bristol.ac.uk/files/87127912/Nicolas_Wu_String_Diagrams_for_Free_Monads.pdf)
+* [What does Free buy us?](https://www.parsonsmatt.org/2017/09/22/what_does_free_buy_us.html)
 
 ### Coyoneda
 * [Loop School - Coyoneda](http://school.looprecur.com/?video=122708005)
