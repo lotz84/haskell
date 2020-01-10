@@ -21,6 +21,7 @@
 * [Continuations all the way down](http://teh.id.au/posts/2017/05/10/lambdajam-slides/index.html)
 * [Chris Dumas - Church-encoded datatypes in Haskell](http://www.cbdumas.com/posts/church_encoding.html)
 * [Chris Dumas - Church-encoded datatypes in Haskell, part 2](http://www.cbdumas.com/posts/church_encoding2.html)
+* [A Gentle Run-through of Continuation Passing Style and Its Use Cases](https://free.cofree.io/2020/01/02/cps/)
 
 
 ```haskell
