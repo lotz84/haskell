@@ -85,6 +85,7 @@
 * [Building Lenses](https://vitez.me/building-lenses)
 * [Fibrations, Cleavages, and Lenses \|   Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2019/10/09/fibrations-cleavages-and-lenses/)
 * [[1809.00738] Categories of Optics](https://arxiv.org/abs/1809.00738)
+* [Optics Cheatsheet](https://gist.github.com/ChrisPenner/1f7b6923448b3396a45d04a2b6b9d066)
 
 > Thus the Yoneda embedding of the functor category leads to the van Laarhoven representation of the lens
 
