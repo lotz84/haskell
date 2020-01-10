@@ -86,7 +86,6 @@
 * [Fibrations, Cleavages, and Lenses \|   Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2019/10/09/fibrations-cleavages-and-lenses/)
 * [[1809.00738] Categories of Optics](https://arxiv.org/abs/1809.00738)
 * [Optics Cheatsheet](https://gist.github.com/ChrisPenner/1f7b6923448b3396a45d04a2b6b9d066)
-* [Elegant AST Parsing and Building with Prisms](https://yairchu.github.io/posts/codecs-as-prisms-asts.html)
 
 > Thus the Yoneda embedding of the functor category leads to the van Laarhoven representation of the lens
 
@@ -101,6 +100,9 @@
 > A prism is like a first-class pattern match
 
 <https://www.youtube.com/watch?v=GZPup5Iuaqw>
+
+* [Parsers and Builders as Prisms](https://yairchu.github.io/posts/codecs-as-prisms.html)
+* [Elegant AST Parsing and Building with Prisms](https://yairchu.github.io/posts/codecs-as-prisms-asts.html)
 
 ## Iso
 [Data.Text.Lens](https://hackage.haskell.org/package/lens/docs/Data-Text-Lens.html)
