@@ -26,6 +26,7 @@
 * [Exceptions tutorial from IH book](https://markkarpov.com/tutorial/exceptions.html)
 * [fallibleというパッケージをリリースしました - Haskell-jp](https://haskell.jp/blog/posts/2019/fallible.html)
 * [Async Exceptions in Haskell, and Rust](https://tech.fpcomplete.com/blog/async-exceptions-haskell-rust)
+* [Rethinking MonadError – The Science of Code](https://lukajcb.github.io/blog/functional/2018/04/15/rethinking-monaderror.html)
 
 ### safe-exceptions
 * [fpco/safe-exceptions](https://github.com/fpco/safe-exceptions)
