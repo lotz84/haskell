@@ -132,6 +132,7 @@
 * [Well-Typed - The Haskell Consultants: Eventful GHC](http://www.well-typed.com/blog/2019/09/eventful-ghc/)
 * [HIW 2019で発表された、GHC 8.8で導入された機能 - Haskell-jp](https://haskell.jp/blog/posts/2019/hiw-ghc8.8.html)
 * [Well-Typed - The Haskell Consultants: Low-latency garbage collector merged for GHC 8.10](http://www.well-typed.com/blog/2019/10/nonmoving-gc-merge/)
+* [Runtime Support for Multicore Haskell: a Retrospective \| SIGPLAN Blog](https://blog.sigplan.org/2019/12/16/runtime-support-for-multicore-haskell-a-retrospective/)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
