@@ -316,6 +316,7 @@ Stack開発の知見が集められたライブラリ
 
 ## FFI
 * [inline-c](https://hackage.haskell.org/package/inline-c)
+* [Inline-c：C++のネームスペースやテンプレートの対応について - Qiita](https://qiita.com/junjihashimoto@github/items/62eb9d2dc96569312038)
 * [FFI使ってC++バインディングに入門](http://mymo.blog8.fc2.com/blog-entry-52.html)
 * [Calling Haskell from C](https://wiki.haskell.org/Calling_Haskell_from_C)
 * [Haskellにインラインアセンブリを書く](http://qiita.com/tanakh/items/08c15f6e72dbe2da61a8)
