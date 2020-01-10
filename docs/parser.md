@@ -46,6 +46,9 @@
 * [『形式意味論入門』を Haskell に書き下す (前編) - ryota-ka's blog](https://ryota-ka.hatenablog.com/entry/2019/08/15/213000)
 * [Learn Functional Programming by writing a Scheme in Haskell :: 0x0f0f0f](https://0x0f0f0f.github.io/posts/2019/09/learn-functional-programming-by-writing-a-scheme-in-haskell/)
 * [llvm-hs Kaleidoscope Tutorial](https://lukelau.me/kaleidoscope/)
+* [Haskell+LLVM構成で作る自作コンパイラ - Qiita](https://qiita.com/toru0408/items/6bedee118ba08ea2c0b2)
+* [Go言語でつくるインタプリタを Haskell で書く - Qiita](https://qiita.com/kita127/items/a50927bbafcc874d5065)
+* [regex-applicative: 内部DSLとしての正規表現（ブログ記事版） - Haskell-jp](https://haskell.jp/blog/posts/2019/regex-applicative.html)
 
 ## 正規表現
 * [関数型的正規表現マッチ](https://research.preferred.jp/2010/11/regexp-play/)
@@ -65,6 +68,7 @@
 * [ChrisPenner/lens-regex-pcre: Text lenses using PCRE regexes](https://github.com/ChrisPenner/lens-regex-pcre)
 * [Locally Nameless :: Callan McGill](https://boarders.github.io/posts/locally-nameless/)
 * [Things that amuse me](http://augustss.blogspot.com/2007/10/simpler-easier-in-recent-paper-simply.html)
+* [regex-applicative: 内部DSLとしての正規表現（ブログ記事版） - Haskell-jp](https://haskell.jp/blog/posts/2019/regex-applicative.html)
 
 ## パーサーコンビネータ
 * [JavaScriptでパーサコンビネータのコンセプトを理解する](http://blog.anatoo.jp/entry/2015/04/26/220026)
