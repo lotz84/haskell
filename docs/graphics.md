@@ -119,6 +119,7 @@
 * [Postmodern Haskell and OpenGL: Introducing vinyl-gl](https://www.arcadianvisions.com/blog/2013/introducing-vinyl-gl.html)
 * [chrisdone/sdl2-sprite: Create and animate sprites easily with sdl2 (Haskell)](https://github.com/chrisdone/sdl2-sprite)
 * [typograffiti: Just let me draw nice text already](https://hackage.haskell.org/package/typograffiti)
+* [sheaf / FIR · GitLab](https://gitlab.com/sheaf/fir)
 
 ### Game Engine
 * [Helm - A functionally reactive game engine](http://helm-engine.org/)
