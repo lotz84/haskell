@@ -87,6 +87,8 @@
 * [[1809.00738] Categories of Optics](https://arxiv.org/abs/1809.00738)
 * [Optics Cheatsheet](https://gist.github.com/ChrisPenner/1f7b6923448b3396a45d04a2b6b9d066)
 * [Algebraic lenses](https://chrispenner.ca/posts/algebraic)
+* [Optics By Example by Chris Penner [Leanpub PDF/iPad/Kindle]](https://leanpub.com/optics-by-example/)
+* [Advent of Optics: Day 1](https://chrispenner.ca/posts/advent-of-optics-01)
 
 > Thus the Yoneda embedding of the functor category leads to the van Laarhoven representation of the lens
 
