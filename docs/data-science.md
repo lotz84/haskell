@@ -27,7 +27,7 @@
 * [Radix Sort, Trie Trees, and Maps from Representable Functors](https://chrispenner.ca/posts/representable-discrimination)
 * [APLicative Programming with Naperian Functors](http://www.cs.ox.ac.uk/people/jeremy.gibbons/publications/apl-extabs.pdf)
 * [Tweag I/O - Here You See the Small Porcupine Perched in Its Tree, Preparing and Crunching Some Data with Me](https://www.tweag.io/posts/2019-10-30-porcupine.html)
-
+* [datasets: Classical data sets for statistics and machine learning](http://hackage.haskell.org/package/datasets)
 
 ## 機械学習
 * [mltool: Machine Learning Toolbox](https://hackage.haskell.org/package/mltool)
