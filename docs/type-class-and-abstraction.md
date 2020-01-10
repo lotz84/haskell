@@ -124,6 +124,7 @@ instance Show Bool where
 * [Monoid と DerivingVia - Qiita](https://qiita.com/waddlaw/items/f349bd363963d59e9ef5)
 * [United Monoids \| no time](https://blogs.ncl.ac.uk/andreymokhov/united-monoids/)
 * [Magical Monoids – Ceci n’est pas une pile. – Medium](https://medium.com/@stackdoesnotwork/magical-monoids-50da92b069f4)
+* [Ap Monoid](https://haskell.e-bigmoon.com/posts/2019/12-24-ap-monoid.html)
 
 > lists are not free monoids in Haskell.
 
