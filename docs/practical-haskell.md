@@ -192,6 +192,8 @@ Stack開発の知見が集められたライブラリ
 * [中国でStackを使うには？ - Qiita](https://qiita.com/sio-funmatsu/items/16bc8125d2ce27b8e90f)
 * [しょぼいメモリ環境で Haskell stack build用にswap領域を増やす - Qiita](https://qiita.com/jdoiWork/items/ad6a94fafc33b3dd1b16)
 * [Tweag I/O - Bazel, Cabal, Stack: Why choose when you can have them all?](https://www.tweag.io/posts/2019-10-09-bazel-cabal-stack.html)
+* [Casa: Content-Addressable Storage Archive](https://tech.fpcomplete.com/blog/casa)
+* [Casa and Stack](https://tech.fpcomplete.com/blog/casa-and-stack)
 
 ### 逆引き
 * [Ubuntu 16 で Stack + GHC がライブラリのリンクに失敗する場合の対処法](http://qiita.com/mr_konn/items/13caa82c1118968d3145)
@@ -529,3 +531,4 @@ Stack開発の知見が集められたライブラリ
 * [Tweag I/O - Revelations from repetition: Source code headers in Haskell and Python](https://www.tweag.io/posts/2019-07-17-codestatistics.html)
 * [Haskellで学ぶフローネットワーク入門 - Qiita](https://qiita.com/ogata-k/items/2d16d67e4a11eacddc49)
 * [Simple Haskell](https://www.simplehaskell.org/)
+* [Haskell vs OCaml](https://markkarpov.com/post/haskell-vs-ocaml.html)
