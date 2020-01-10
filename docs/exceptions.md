@@ -25,6 +25,7 @@
 * [[1810.13430] Exceptionally Monadic Error Handling](https://arxiv.org/abs/1810.13430)
 * [Exceptions tutorial from IH book](https://markkarpov.com/tutorial/exceptions.html)
 * [fallibleというパッケージをリリースしました - Haskell-jp](https://haskell.jp/blog/posts/2019/fallible.html)
+* [Async Exceptions in Haskell, and Rust](https://tech.fpcomplete.com/blog/async-exceptions-haskell-rust)
 
 ### safe-exceptions
 * [fpco/safe-exceptions](https://github.com/fpco/safe-exceptions)
