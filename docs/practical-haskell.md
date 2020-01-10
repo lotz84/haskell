@@ -527,3 +527,4 @@ Stack開発の知見が集められたライブラリ
 * [Lessons learned while writing a Haskell application • gvolpe's blog](https://gvolpe.github.io/blog/lessons-learned-while-writing-a-haskell-app/)
 * [Tweag I/O - Revelations from repetition: Source code headers in Haskell and Python](https://www.tweag.io/posts/2019-07-17-codestatistics.html)
 * [Haskellで学ぶフローネットワーク入門 - Qiita](https://qiita.com/ogata-k/items/2d16d67e4a11eacddc49)
+* [Simple Haskell](https://www.simplehaskell.org/)
