@@ -182,6 +182,7 @@
 * [The Haskell Phrasebook](https://typeclasses.com/phrasebook)
 * [Perhaps Not The Answer You Were Expecting But You Asked For It](https://personal.cis.strath.ac.uk/conor.mcbride/so-pigworker.pdf)
 * [Teaching Haskell with Duet](https://tech.fpcomplete.com/blog/teaching-haskell-with-duet)
+* [tssm/up-to-date-real-world-haskell: I'm trying to update the Real World Haskell book](https://github.com/tssm/up-to-date-real-world-haskell)
 
 ## Examples
 
