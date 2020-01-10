@@ -356,3 +356,4 @@ main = do
 
 ## HKD
 * [barbies-thで気軽にHKDを堪能しよう [Haskell AdC 14] - モナドとわたしとコモナド](http://fumieval.hatenablog.com/entry/2019/12/25/224329)
+* [Defaulting fields in a record in Haskell](https://gist.github.com/chrisdone/7dddadd089e6a5d2e3e9445c4692d2c2)
