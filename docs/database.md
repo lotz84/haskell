@@ -53,6 +53,7 @@
 * [Pragmatic Haskell III: Beam Postgres DB / Jappie](https://jappieklooster.nl/pragmatic-haskell-iii-beam-postgres-db.html)
 * [acid state antirecommendation](https://gist.github.com/parsonsmatt/6b747d3020c4a4ac43b6580b65392a23)
 * [Typeable Blog - Sum types for relational databases](https://blog.typeable.io/posts/2019-11-21-sql-sum-types.html)
+* [Keeping Database Tests Fast with `tmp-postgres`](https://jfischoff.github.io/blog/keeping-database-tests-fast.html)
 
 Simple Clients
 --------------
