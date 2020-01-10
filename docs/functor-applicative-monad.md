@@ -105,6 +105,7 @@ class Functor f => Applicative f where
 * [Selective applicative functors \| no time](https://blogs.ncl.ac.uk/andreymokhov/selective/)
 * [Selective Applicative Functors](https://www.staff.ncl.ac.uk/andrey.mokhov/selective-functors.pdf)
 * [An Applicative for Transactional Validation - Lumi Engineering](https://www.lumi.dev/blog/an-applicative-for-transactional-validation)
+* [二分木をアプリカティブにする - Qiita](https://qiita.com/cutsea110/items/c500f675d95093fe1f24)
 
 ### Discrimination
 * [discrimination](http://hackage.haskell.org/package/discrimination)
@@ -244,6 +245,7 @@ class Monad m where
 * [Lysxia - A monad is just a submonad of the continuation monad, what's the problem?](https://blog.poisson.chat/posts/2019-10-27-continuation-submonads.html)
 * [Neil Mitchell's Haskell Blog: Monads as Graphs](https://neilmitchell.blogspot.com/2019/10/monads-as-graphs.html)
 * [いろいろなモナド at Nakameguro.hs #2 - Qiita](https://qiita.com/ryota-ka/items/544dbd82891510accbc0)
+* [モナドプログラミング - Qiita](https://qiita.com/karky7/items/3c45ca951061f2480e60)
 
 ```haskell
 do x <- mx
