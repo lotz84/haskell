@@ -57,6 +57,7 @@
 * [Qnikst blog - Runtime based caching](https://qnikst.github.io/posts/2019-09-30-runtime-based-caching.html)
 * [Lazy Constructive Numbers and the Stern-Brocot Tree - Donnacha Oisín Kidney](https://doisinkidney.com/posts/2019-12-14-stern-brocot.html)
 * [Knuth-Morris-PrattアルゴリズムのHaskellでの実装の解説 - Qiita](https://qiita.com/YoshikuniJujo/items/ac628ff923b9092c8d32)
+* [ズンドコ手続型 Haskell - TIM Labs](http://labs.timedia.co.jp/2016/03/zundoko-procedural-haskell.html)
 
 ## Hackage
 * [The grid package](http://hackage.haskell.org/package/grid)
