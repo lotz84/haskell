@@ -135,6 +135,8 @@
 * [Runtime Support for Multicore Haskell: a Retrospective \| SIGPLAN Blog](https://blog.sigplan.org/2019/12/16/runtime-support-for-multicore-haskell-a-retrospective/)
 * [Keeping Compilation Fast](https://www.parsonsmatt.org/2019/11/27/keeping_compilation_fast.html)
 * [Winter is coming even more quickly – Blog – Joachim Breitner's Homepage](https://www.joachim-breitner.de/blog/758-Winter_is_coming_even_more_quickly)
+* [サンクの構造を見る - Qiita](https://qiita.com/ruicc/items/4db532d33e648fca5b99)
+* [2019年に「すごいHaskellたのしく学ぼう」を { -# OPTIONS -Wall -Werror #- } を付けて読む - Qiita](https://qiita.com/tohgarashi_hack/items/3fb76f05f52c8b50e62e)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
@@ -333,6 +335,7 @@ $ stack exec -- <your program> +RTS <profiling options>
 * [Popularity of Haskell Extensions](https://gist.github.com/atondwal/ee869b951b5cf9b6653f7deda0b7dbd8)
 * [A Guide to GHC's Extensions - Jannis' Word Discounter](https://limperg.de/ghc-extensions/)
 * [Haskell Extensions.ipynb](https://gist.github.com/atondwal/ee869b951b5cf9b6653f7deda0b7dbd8)
+* [独断と偏見で語るGHCのderiving系拡張 - Qiita](https://qiita.com/mod_poppo/items/1867d06f8a9903441e3c)
 
 ### Pattern Synonyms
 * [Pattern Synonyms](https://ghc.haskell.org/trac/ghc/wiki/PatternSynonyms)
