@@ -56,6 +56,7 @@ main = do
 ### Conduit
 * [conduit library](https://haskell-lang.org/library/conduit)
 * <https://hackage.haskell.org/package/conduit>
+* [Conduit最速入門2019 - Qiita](https://qiita.com/as_capabl/items/3684a470ac9f49e5243e)
 * [Conduit Overview](https://www.fpcomplete.com/user/snoyberg/library-documentation/conduit-overview)
 * [Simpler conduit library based on monadic folds](http://newartisans.com/2014/06/simpler-conduit-library/)
 * [５分で分かるコンジット](http://melpon.org/yesodbookjp/conduit)
