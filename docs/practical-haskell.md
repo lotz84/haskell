@@ -420,6 +420,7 @@ Stack開発の知見が集められたライブラリ
 * [Haskellの新世代フレームワーク Tonatona - Qiita](https://qiita.com/arowM/items/14169b412a7de8a0d514)
 * [HASKELL AND DOMAIN DRIVEN DESIGN (DDD)](http://zenhackers.net/blog/?p=106)
 * [Practical event driven & sourced programs in Haskell](https://www.ahri.net/2019/07/practical-event-driven-and-sourced-programs-in-haskell/)
+* [graninas/software-design-in-haskell: Software Design in Haskell. A structured set of materials. How to build real-world applications in Haskell.](https://github.com/graninas/software-design-in-haskell)
 
 ## Dependency Injection
 * [HaskellでDIする - The curse of λ](https://myuon.github.io/posts/haskell-di/)
