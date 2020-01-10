@@ -82,6 +82,8 @@
 * [graninas/automatic-whitebox-testing-showcase: Showcase for an approach how to make automatic white-box testing with Free monads.](https://github.com/graninas/automatic-whitebox-testing-showcase)
 * [[1803.07130] A promise checked is a promise kept: Inspection Testing](https://arxiv.org/abs/1803.07130)
 * [Time Travelling and Fixing Bugs with Property-Based Testing \| Oskar Wickström](https://wickstrom.tech/programming/2019/11/17/time-travelling-and-fixing-bugs-with-property-based-testing.html)
+* [using-brain-less-refactoring-yahtzee](http://h2.jaguarpaw.co.uk/posts/using-brain-less-refactoring-yahtzee/)
+* [Unit testing effectful Haskell with monad-mock](https://lexi-lambda.github.io/blog/2017/06/29/unit-testing-effectful-haskell-with-monad-mock/)
 
 ### QuickCheck
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
