@@ -7,6 +7,9 @@
 * [Realistic Single-Server Raster Processing](https://www.fosskers.ca/blog/mapalgebra-en.html)
 * [Juicy Draw](https://blog.rcook.org/blog/2018/juicy-draw/)
 * [Xiaolin Wu’s fast antialiased line drawing algorithm in Haskell](https://blog.rcook.org/blog/2018/xiaolin-wu-algorithm/)
+
+## Animation
+* [Gluing together animations - Reanimate](https://reanimate.readthedocs.io/en/latest/glue_tut/)
 * [Animation DSL With Effect Handlers](https://rubenpieters.github.io/programming/haskell/2019/07/09/animation-dsl-1.html)
 
 ## GUI
