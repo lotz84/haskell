@@ -122,6 +122,7 @@ main = do
 * [Software Transactional Memory](http://begriffs.com/posts/2016-04-02-software-transactional-memory.html)
 * [Improving Haskell STM Performance (2016) : haskell](https://www.reddit.com/r/haskell/comments/80tk0t/improving_haskell_stm_performance_2016/)
 * [TChan vs TQueue: What's the difference?](https://www.parsonsmatt.org/2018/10/12/tchan_vs_tqueue.html)
+* [STMとReal-Time Queueを利用したマルチスレッドズンドコキヨシ - Qiita](https://qiita.com/YoshikuniJujo/items/e9639712a49ac0af2a9a)
 
 ## 分散
 * [Speeding up a distributed computation in Haskell :: FP Complete](https://www.fpcomplete.com/blog/2017/01/speeding-up-distributed-computation)
