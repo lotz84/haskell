@@ -482,6 +482,7 @@ Web Application Framework
 * [Haskell・Servant+Persistent/Esqueletoで作る実用WebAPI (10) API入力値の扱い - Qiita](https://qiita.com/cyclone_t/items/692ffe72d03636fd8de7)
 * [Haskell・Servant+Persistent/Esqueletoで作る実用WebAPI (11) Esqueleto:selectの基本 - Qiita](https://qiita.com/cyclone_t/items/cb492e53ad71a56ae321)
 * [Haskell・Servant+Persistent/Esqueletoで作る実用WebAPI (13) Esqueleto:INNER JOINを使ったSELECT](https://qiita.com/cyclone_t/items/31b249621aa176a2d52d)
+* [Haskell・Servant+Persistent/Esqueletoで作る実用WebAPI (14) Esqueleto:INNER JOINを使ったSELECT（その2） - Qiita](https://qiita.com/cyclone_t/items/3a12df6f1aab2cae923d)
 * [Haskell・Servant+Persistent/Esqueletoで作る実用WebAPI (番外編・1) Haskellで作ってみるアプリの題材は？ - Qiita](https://qiita.com/cyclone_t/items/d5d3c63c4d1caabf056d)
 * [slack-api + bloodhound + servant でbot+αを作る](http://blog.nakaji.me/slack-api-bloodhound-servant/)
 * [Queensland FP Lab - Nested routes in servant](https://qfpl.io/posts/nested-routes-in-servant/)
@@ -499,6 +500,9 @@ Web Application Framework
 * [servant-haskellをCloud Runにのせて結び目不変量を求めるWebアプリを作る - Qiita](https://qiita.com/ayanamizuta/items/33a48b5693f8662a6895)
 * [Unifying Servant server error responses](https://lukwagoallan.com/posts/unifying-servant-server-error-responses)
 * [servant-haskellをCloud Runにのせて結び目不変量を求めるWebアプリを作る - Qiita](https://qiita.com/ayanamizuta/items/33a48b5693f8662a6895)
+* [elm & servantでwebアプリ - その１．servant導入 - Qiita](https://qiita.com/niruneru/items/e85e7f22bc0192892466)
+* [elm & servantでwebアプリ - その２．Elm導入 - Qiita](https://qiita.com/niruneru/items/f298e9e4d575b505950a)
+* [elm & servantでwebアプリ - その３．Elmで動的ページの作成 - Qiita](https://qiita.com/niruneru/items/5e2bdb9a94e075b1e457)
 
 ### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
