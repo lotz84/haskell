@@ -55,6 +55,7 @@
 * [jaspervdj - Partial application using flip](https://jaspervdj.be/posts/2019-10-15-flip-partial-application.html)
 * [200行のHaskellでテトリス - Qiita](https://qiita.com/chupaaaaaaan/items/0a72dd207e379f468303)
 * [Qnikst blog - Runtime based caching](https://qnikst.github.io/posts/2019-09-30-runtime-based-caching.html)
+* [Lazy Constructive Numbers and the Stern-Brocot Tree - Donnacha Oisín Kidney](https://doisinkidney.com/posts/2019-12-14-stern-brocot.html)
 
 ## Hackage
 * [The grid package](http://hackage.haskell.org/package/grid)
