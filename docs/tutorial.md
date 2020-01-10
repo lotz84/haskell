@@ -181,6 +181,7 @@
 * [not-a-blog/opinionated-haskell-guide-2019.md at master · theindigamer/not-a-blog](https://github.com/theindigamer/not-a-blog/blob/master/opinionated-haskell-guide-2019.md#an-opinionated-beginners-guide-to-haskell-in-mid-2019)
 * [The Haskell Phrasebook](https://typeclasses.com/phrasebook)
 * [Perhaps Not The Answer You Were Expecting But You Asked For It](https://personal.cis.strath.ac.uk/conor.mcbride/so-pigworker.pdf)
+* [Teaching Haskell with Duet](https://tech.fpcomplete.com/blog/teaching-haskell-with-duet)
 
 ## Examples
 
