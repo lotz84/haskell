@@ -128,6 +128,7 @@ $ brew install haskell-stack
 * [hieのインストールに苦労した（Windows10) - Qiita](https://qiita.com/oze/items/6313604c37844c1f2dcd)
 * [fairy-tale-agi-solutions/haskell-editor-setup: Instructions for setting up Haskell editors/IDEs](https://github.com/fairy-tale-agi-solutions/haskell-editor-setup)
 * [Haskell Support in Mainstream IDEs](https://tech.fpcomplete.com/blog/mainstream-ides-haskell)
+* [Neil Mitchell's Haskell Blog: One Haskell IDE to rule them all](https://neilmitchell.blogspot.com/2020/01/one-haskell-ide-to-rule-them-all.html)
 
 ## Formatter/Linter
 * [Haskellの静的解析ツール HLint を使おう](http://qiita.com/suzuki-hoge/items/6d101e523620178c6f7b)
