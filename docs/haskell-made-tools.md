@@ -373,6 +373,7 @@ success
 ### ShellCheck
 * シェルスクリプトのバグなどをチェックしてくれるツール
 * [ShellCheck](http://www.shellcheck.net/)
+* [Lessons learned from writing ShellCheck, GitHub’s now most starred Haskell project – Vidar's Blog](https://www.vidarholen.net/contents/blog/?p=859)
 
 ```bash
 $ shellcheck myscript
