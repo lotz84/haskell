@@ -37,6 +37,7 @@ $ brew install haskell-stack
 * [VSCodeでHaskell Language Serverが動かない（Windows 10） - Qiita](https://qiita.com/yutasth/items/03e2cc6148f2406d0d8a)
 * [VSCodeでCouldn't start client Haskell IDEが出る（Windows 10） - Qiita](https://qiita.com/yutasth/items/28af2eb0371f6457e0bb)
 * [Haskell IDE Engineのインストールに苦労した (Windows 10) - Qiita](https://qiita.com/yutasth/items/9df6e2c3937edad24aee)
+* [Setting up a Haskell development environment in minutes in Visual Studio Code | In Absentia](https://hmemcpy.com/2020/02/setting-up-a-haskell-development-environment-in-minutes-in-vscode/)
 
 ### Vim
 * [begriffs/haskell-vim-now](https://github.com/begriffs/haskell-vim-now?hr=2)
