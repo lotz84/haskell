@@ -97,6 +97,7 @@ type a * b = (a, b)
 * [Derivatives of Containers](http://www.cs.le.ac.uk/people/mabbott/docs/derivative.pdf)
 * [Dan Ghica's Blog: Zippers for non-inductive types](http://danghica.blogspot.com/2018/11/zippers-for-non-inductive-types.html)
 * [[1908.10926] Performance Analysis of Zippers](https://arxiv.org/abs/1908.10926)
+* [Zipperとは - Qiita](https://qiita.com/hennin/items/a89ebfecb25272960351)
 
 ### カインド
 * [About kind system of Haskell (Part 1)](https://haskell.jp/blog/posts/2017/10-about-kind-system-part1.html)
