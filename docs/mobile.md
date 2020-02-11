@@ -37,6 +37,7 @@
 * [gergoerdi/clash-spaceinvaders: Intel 8080-based Space Invaders arcade machine implemented on an FPGA, written in CLaSH](https://github.com/gergoerdi/clash-spaceinvaders)
 * [Haskell on Raspberry PI 4 - Vaclav Svejcar](https://svejcar.dev/posts/2019/09/23/haskell-on-raspberry-pi-4/)
 * [The blog of wjwh - Building constant-time constant-memory programs for your Arduino with CoPilot](http://www.wjwh.eu/posts/2020-01-30-arduino-copilot.html)
+* [Bluespec Compilerをstack環境のghcでビルドしてみた - Qiita](https://qiita.com/dalance/items/c32c510b74b7843f5cf7)
 
 ## 高位合成
 * [Domain-specific Languages and Code Synthesis Using Haskell](http://queue.acm.org/detail.cfm?id=2617811)
