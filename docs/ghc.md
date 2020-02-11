@@ -137,6 +137,7 @@
 * [Winter is coming even more quickly – Blog – Joachim Breitner's Homepage](https://www.joachim-breitner.de/blog/758-Winter_is_coming_even_more_quickly)
 * [サンクの構造を見る - Qiita](https://qiita.com/ruicc/items/4db532d33e648fca5b99)
 * [2019年に「すごいHaskellたのしく学ぼう」を { -# OPTIONS -Wall -Werror #- } を付けて読む - Qiita](https://qiita.com/tohgarashi_hack/items/3fb76f05f52c8b50e62e)
+* [Developing GHC for a Living. Interview with V. Zavialov.](https://serokell.io/blog/developing-ghc-for-a-living)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
