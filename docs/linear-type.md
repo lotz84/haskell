@@ -20,6 +20,7 @@
 * [Tweag I/O - Streaming with linear types](https://www.tweag.io/posts/2018-06-21-linear-streams.html)
 * [Simon Peyton Jones - Linear Haskell: practical linearity in a higher-order polymorphic language : haskell](https://www.reddit.com/r/haskell/comments/91p0hb/simon_peyton_jones_linear_haskell_practical/)
 * [COMP3161/COMP9161 Supplementary Lecture Notes Linear Types](https://www.cse.unsw.edu.au/~cs3161/18s2/Week%2009/Linear%20Types%20Notes.pdf)
+* [Tweag I/O - Safe memory management in inline-java using linear types](https://www.tweag.io/posts/2020-02-06-safe-inline-java.html)
 
 ## Linear Type as DSL
 * [線形型つきドメイン特化言語 (DSL) を Haskell上に実装する](http://d.hatena.ne.jp/keigoi/20110806/1312604753)
