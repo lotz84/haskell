@@ -89,6 +89,7 @@ Stack開発の知見が集められたライブラリ
 ## Cabal
 * [Hackage](http://hackage.haskell.org/)
 * [Hackage Dependency Monitor](http://packdeps.haskellers.com/)
+* [kowainik/awesome-cabal: 💫 A curated list of awesome resources for the Haskell Cabal build tool.](https://github.com/kowainik/awesome-cabal)
 * [Cabalでビルド時にProtocol Buffersファイルをコンパイルする](http://qiita.com/yunomu/items/a8ef65dccc1c085b7c0d)
 * [stepcut/hackage-whatsnew](https://github.com/stepcut/hackage-whatsnew)
 * [The packunused package](http://hackage.haskell.org/package/packunused)
