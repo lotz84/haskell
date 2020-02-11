@@ -302,6 +302,7 @@ Stack開発の知見が集められたライブラリ
 * [You should try Hadrian \| no time](https://blogs.ncl.ac.uk/andreymokhov/you-should-try-hadrian/)
 * [Dead simple Haskell Travis settings for cabal and stack](https://chshersh.github.io/posts/2019-02-25-haskell-travis)
 * [HaskellとHspecでBuddy CI - Qiita](https://qiita.com/jdoiWork/items/1cc09a1d375a038ac400)
+* [Deploying Haskell: Painless CI/CD with Travis, Docker and Digitalocean (or any linux VM)](https://www.dev-log.me/Deploying_Haskell:_Painless_CICD_with_Travis,_Docker_and_Digital_Ocean_(or_any_linux_VM)/)
 
 ## Hadrian
 * [HSoC — Hadrian Optimisation: First GHC Contribution (Update 4)](https://medium.com/@ratherforky/hsoc-hadrian-optimisation-update-4-47ab2b62b15a)
