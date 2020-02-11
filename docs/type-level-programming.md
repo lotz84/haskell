@@ -197,6 +197,7 @@ circum (Circle _ _ r) = …
 * [Haskell (GHC) の型レベル自然数とリフレクションを試してみる](http://d-poppo.nazo.cc/blog/2016/10/haskell-type-level-naturals-and-reflection/)
 * [Reflecting values to types and back](https://www.fpcomplete.com/user/thoughtpolice/using-reflection)
 * [型を実行時に作る：怖くないリフレクション - Qiita](https://qiita.com/mod_poppo/items/50ad2c0ee66171cc1ee9)
+* [Mirror Mirror: Reflection and Encoding Via](https://www.parsonsmatt.org/2020/02/04/mirror_mirror.html)
 
 ## Type Inference
 * [Introduction to Type Inference](https://www.youtube.com/watch?v=il3gD7XMdmA)
