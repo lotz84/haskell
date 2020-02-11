@@ -91,6 +91,7 @@
 * [Advent of Optics: Day 1](https://chrispenner.ca/posts/advent-of-optics-01)
 * [Intro to Kaleidoscopes: Optics for aggregating data through Applicatives](https://chrispenner.ca/posts/kaleidoscopes)
 * [Oleg's gists - Case study: migrating from lens to optics](http://oleg.fi/gists/posts/2020-01-25-case-study-migration-from-lens-to-optics.html)
+* [Digging into Lenses \| Deontologician](https://deontologician.com/wiki/lenses/)
 
 > Thus the Yoneda embedding of the functor category leads to the van Laarhoven representation of the lens
 
