@@ -506,6 +506,7 @@ Web Application Framework
 * [elm & servantでwebアプリ - その１．servant導入 - Qiita](https://qiita.com/niruneru/items/e85e7f22bc0192892466)
 * [elm & servantでwebアプリ - その２．Elm導入 - Qiita](https://qiita.com/niruneru/items/f298e9e4d575b505950a)
 * [elm & servantでwebアプリ - その３．Elmで動的ページの作成 - Qiita](https://qiita.com/niruneru/items/5e2bdb9a94e075b1e457)
+* [elm & servantでwebアプリ - その４．CSS・javascriptの読み込み - Qiita](https://qiita.com/niruneru/items/880bc1a0649c92a158aa)
 
 ### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
