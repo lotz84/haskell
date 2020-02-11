@@ -1,5 +1,7 @@
 * [圏論とHaskellは仲良し](https://www.youtube.com/watch?v=hbaNIIDPf24)
 * [圏論とは何か](https://infinitytopos.wordpress.com/2015/01/25/%E5%9C%8F%E8%AB%96%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B/)
+* [「圏論とプログラミング」発表スライドメモ - Qiita](https://qiita.com/inamiy/items/9af1da1faec22cd968f0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items)
+* [圏論におけるFreeモナド - Qiita](https://qiita.com/karrym/items/41cd9facae3a04d97703)
 * [もう諦めない圏論入門―モノイドからモナドへ― - Qiita](https://qiita.com/norkron/items/aff3ce925edc6be74923)
 * [Category Theory, The essence of interface-based design - Erik Meijer](https://www.youtube.com/watch?v=JMP6gI5mLHc)
 * [Category theory for beginners](http://www.slideshare.net/kenbot/category-theory-for-beginners)
