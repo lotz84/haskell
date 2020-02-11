@@ -58,6 +58,9 @@
 * [Lazy Constructive Numbers and the Stern-Brocot Tree - Donnacha Oisín Kidney](https://doisinkidney.com/posts/2019-12-14-stern-brocot.html)
 * [Knuth-Morris-PrattアルゴリズムのHaskellでの実装の解説 - Qiita](https://qiita.com/YoshikuniJujo/items/ac628ff923b9092c8d32)
 * [ズンドコ手続型 Haskell - TIM Labs](http://labs.timedia.co.jp/2016/03/zundoko-procedural-haskell.html)
+* [箱玉系（ソリトン Cellular Automaton） - Qiita](https://qiita.com/lex_naturalis/items/a8def7f7d45ce6c6681f)
+* [単価が異なるお菓子をどういう組み合わせで買えば目標の合計値になるか問題 - Qiita](https://qiita.com/golden_lucky/items/8f29f9a8ff839e7a98ee)
+* [(なるべく)HaskellでAtCoderに参加したい(自動提出等) - Qiita](https://qiita.com/flow_6852/items/fce07a04e31d47edabda)
 
 ## Hackage
 * [The grid package](http://hackage.haskell.org/package/grid)
@@ -262,6 +265,7 @@
 * [HAMTs from Scratch - Vaibhav Sagar](https://vaibhavsagar.com/blog/2018/07/29/hamts-from-scratch/)
 * [Visualizing Prequel Meme Prefix Tries with Recursion Schemes · in Code](https://blog.jle.im/entry/tries-with-recursion-schemes.html)
 * [Initial Algebra Semantics for Cyclic Sharing Tree Structures](http://arxiv.org/abs/1007.4266v2)
+* [Haskellで二分探索木, AVL木を書いた - Qiita](https://qiita.com/odenmonster/items/e4d5658fb1859dcfcdce)
 
 ## Map
 * [tim philip williams :: Functional pearl: Nested Datacubes](http://www.timphilipwilliams.com/posts/2017-04-12-nested-datacubes.html)
