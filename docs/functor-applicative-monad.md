@@ -390,6 +390,7 @@ Reader + Writer + State
 * [stdio - A simple and high-performance IO toolkit for Haskell \| Winter's Land](http://winterland.me/2019/02/17/stdio-A-simple-and-high-performance-IO%20toolkit-for-Haskell/)
 * [続くといいな日記 – GHC IO モナドの中身](https://mizunashi-mana.github.io/blog/posts/2019/05/ghc-io-inside/)
 * [HaskellのファイルIO](http://www.nslabs.jp/haskell-fileio.rhtml)
+* [IO and monads](https://www.seas.upenn.edu/~cis194/fall16/lectures/06-io-and-monads.html)
 
 #### 乱数
 * [Haskellの乱数事情](http://qiita.com/philopon/items/8f647fc8dafe66b7381b)
