@@ -138,6 +138,7 @@
 * [サンクの構造を見る - Qiita](https://qiita.com/ruicc/items/4db532d33e648fca5b99)
 * [2019年に「すごいHaskellたのしく学ぼう」を { -# OPTIONS -Wall -Werror #- } を付けて読む - Qiita](https://qiita.com/tohgarashi_hack/items/3fb76f05f52c8b50e62e)
 * [Developing GHC for a Living. Interview with V. Zavialov.](https://serokell.io/blog/developing-ghc-for-a-living)
+* [Generating small binaries in Haskell](https://dixonary.co.uk/blog/haskell/small)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
