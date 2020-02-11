@@ -110,3 +110,4 @@ main = do
 * [Faster Coroutine Pipelines \| University of Oxford Podcasts - Audio and Video Lectures](http://podcasts.ox.ac.uk/faster-coroutine-pipelines)
 * [ssadler/piped: Haskell streaming library targeting Conduit API while being smaller and faster](https://github.com/ssadler/piped)
 * [streaming: an elementary streaming prelude and general stream type.](https://hackage.haskell.org/package/streaming)
+* [dunai: Generalised reactive framework supporting classic, arrowized and monadic FRP.](https://hackage.haskell.org/package/dunai-0.6.0)
