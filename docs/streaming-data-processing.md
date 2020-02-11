@@ -111,3 +111,4 @@ main = do
 * [ssadler/piped: Haskell streaming library targeting Conduit API while being smaller and faster](https://github.com/ssadler/piped)
 * [streaming: an elementary streaming prelude and general stream type.](https://hackage.haskell.org/package/streaming)
 * [dunai: Generalised reactive framework supporting classic, arrowized and monadic FRP.](https://hackage.haskell.org/package/dunai-0.6.0)
+* [Bodigrim/chimera: Lazy infinite compact streams with cache-friendly O(1) indexing and applications for memoization](https://github.com/Bodigrim/chimera)
