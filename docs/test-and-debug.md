@@ -5,7 +5,6 @@
 * <https://twitter.com/datgame/status/563269982721941505>
 * [Functional TDD: A Clash of Cultures](https://www.facebook.com/notes/kent-beck/functional-tdd-a-clash-of-cultures/472392329460303)
 * [Practical testing in Haskell](http://jaspervdj.be/posts/2015-03-13-practical-testing-in-haskell.html)
-* [ソフトウェアテスト技法いろいろ](http://shanon-tech.blogspot.jp/2011/05/blog-post.html)
 * [Flame graphs for GHC time profiles with ghc-prof-flamegraph](https://www.fpcomplete.com/blog/2015/04/ghc-prof-flamegraph)
 * [CRogers/should-not-typecheck](https://github.com/CRogers/should-not-typecheck)
 * [Announce: dejafu-0.1.0.0](http://www.barrucadu.co.uk/posts/2015-08-27-announce-dejafu.html)
@@ -86,6 +85,7 @@
 * [Unit testing effectful Haskell with monad-mock](https://lexi-lambda.github.io/blog/2017/06/29/unit-testing-effectful-haskell-with-monad-mock/)
 * [HUnit vs. QuickCheck](https://twonki.github.io/HUnit-vs-QuickCheck/)
 * [How to use Hedgehog to test a real world, large scale, stateful app – jacobstanley.io](https://jacobstanley.io/how-to-use-hedgehog-to-test-a-real-world-large-scale-stateful-app/)
+* [5 tips for better Hedgehog tests – jacobstanley.io](https://jacobstanley.io/5-tips-for-better-hedgehog-tests/)
 
 ### QuickCheck
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
