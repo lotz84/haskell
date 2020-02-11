@@ -205,6 +205,7 @@
 * [Haskell: journey from 144 min to 17 min · pl-rants](https://pl-rants.net/posts/haskell-opt-journey/)
 * [Kinds are calling conventions](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/eta.pdf)
 * [Help! My Haskell program consumes more memory the longer it runs – jacobstanley.io](https://jacobstanley.io/help-my-haskell-program-consumes-more-memory-the-longer-it-runs/)
+* [続くといいな日記 – State モナドの代わりに Reader モナドを使う](https://mizunashi-mana.github.io/blog/posts/2020/01/use-reader-instead-of-state/)
 
 ### パフォーマンス
 * [Haskell で高速なプログラムを書くときに注意すること](http://d-poppo.nazo.cc/blog/2016/06/writing-efficient-program-with-haskell/)
