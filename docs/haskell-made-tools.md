@@ -46,6 +46,9 @@ variance introduced by outliers: 81% (severely inflated)
 * A Haskell implementation of OpenID Connect.
 * <https://github.com/tekul/broch>
 
+### brok
+* [smallhadroncollider/brok: Find broken links in text documents](https://github.com/smallhadroncollider/brok)
+
 ### cabasa
 * [bradrn/cabasa: A generic 2D cellular automaton simulator](https://github.com/bradrn/cabasa#readme)
 
