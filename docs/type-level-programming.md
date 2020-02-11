@@ -124,6 +124,7 @@
 * [Juvix: dependent-linearly-typed core language with optimal reduction and interaction nets : haskell](https://www.reddit.com/r/haskell/comments/czierr/juvix_dependentlinearlytyped_core_language_with/)
 * [Applying Type-Level and Generic Programming in Haskell](https://www.cs.ox.ac.uk/projects/utgp/school/andres.pdf)
 * [Haskell's kind system - a primer · dcastro](https://diogocastro.com/blog/2018/10/17/haskells-kind-system-a-primer/)
+* [Five benefits to using StandaloneKindSignatures - Ryan Scott](https://ryanglscott.github.io/2020/01/05/five-benefits-to-using-standalonekindsignatures/)
 
 ```haskell
 data Bottom
