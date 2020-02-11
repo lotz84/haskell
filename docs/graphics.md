@@ -76,6 +76,8 @@
 * [gloss](http://hackage.haskell.org/package/gloss)
 * [Mandelbrot shift](http://inf.ufrgs.br/~morprates/code/mandelbrot/)
 * [MWRuszczycky/rubiks: 3D-Rubik's cube simulator written in Haskell using Gloss](https://github.com/MWRuszczycky/rubiks)
+* [gloss で Turtle Graphics - Qiita](https://qiita.com/little_Haskeller/items/0d510d3a1da5a6a1e4fa)
+* [not-glossでお手軽3Dグラフィック描画 - Qiita](https://qiita.com/yakituka/items/9820c10f68e68846bc7d)
 
 ## OpenGL
 ※GLUTはもう古い
