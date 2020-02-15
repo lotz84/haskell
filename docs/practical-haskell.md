@@ -34,6 +34,7 @@
 * [Dhall を試して物足りない部分を補うツールを自作した](https://matsubara0507.github.io/posts/2018-12-05-create-dhall-ex.html)
 * [Haskell for all: Dhall - Year in review (2018-2019)](http://www.haskellforall.com/2019/01/dhall-year-in-review-2018-2019.html)
 * [Haskell for all: Dhall Survey Results (2019-2019)](http://www.haskellforall.com/2019/02/dhall-survey-results-2019-2019.html)
+* [Haskell in Production: Riskbook](https://serokell.io/blog/haskell-in-industry-riskbook)
 
 ## Preludeを置き換える
 ### Preludeの問題点
