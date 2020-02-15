@@ -34,7 +34,6 @@
 * [Dhall を試して物足りない部分を補うツールを自作した](https://matsubara0507.github.io/posts/2018-12-05-create-dhall-ex.html)
 * [Haskell for all: Dhall - Year in review (2018-2019)](http://www.haskellforall.com/2019/01/dhall-year-in-review-2018-2019.html)
 * [Haskell for all: Dhall Survey Results (2019-2019)](http://www.haskellforall.com/2019/02/dhall-survey-results-2019-2019.html)
-* [Haskell in Production: Riskbook](https://serokell.io/blog/haskell-in-industry-riskbook)
 
 ## Preludeを置き換える
 ### Preludeの問題点
@@ -72,6 +71,7 @@ Stack開発の知見が集められたライブラリ
 * [Base で定義されている演算子の一覧](http://hackage.haskell.org/package/acme-operators/docs/Acme-Operators-Base.html)
 * [How do you find a function that…](http://myhaskelljournal.com/how-do-you-find-a-function-that/)
 * [Search - haskell \| Unixstickers](http://www.unixstickers.com/index.php?route=product/search&filter_name=haskell)* [Stackage Serverのちょっとした便利な使い方,Hoogleをブラウザのカスタム検索エンジンに追加しましょう,よく使うパッケージをブックマークする時はPackageRのURLにしましょう - ncaq](https://www.ncaq.net/2017/12/04/00/00/00/)
+* [Haskellで外部モジュールを使いたいとき（モジュールimportとパッケージinstall） - Qiita](https://qiita.com/TTsurutani/items/b68956a555747fc3cb0e)
 
 ## Haddoc
 * [Continuous Haddocks](https://chromabits.com/posts/2016/07/04/haddock-travis/)
