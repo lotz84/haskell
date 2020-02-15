@@ -6,7 +6,7 @@
 
 以上のサービスはHaskellに対応しています。
 
-ローカル環境でHaskellを実行するにはstackを導入するのが王道です。
+ローカル環境でHaskellを実行するにはstackを導入するのが便利です。
 
 * [The Haskell Tool Stack](https://docs.haskellstack.org/en/stable/README/)
 
@@ -18,35 +18,26 @@ $ brew install haskell-stack
 
 のようにbrewを使っていれるのが簡単です。
 
+Windowsの場合は以下の記事が参考になるかもしれません。
+
 * [WindowsでのHaskell開発環境構築(2017年秋版) - モナドとわたしとコモナド](http://fumieval.hatenablog.com/entry/2017/10/11/230117)
 * [The easiest way to setup a Haskell environment on Windows](https://hub.zhox.com/posts/introducing-haskell-dev/)
 * [Haskell-Guide/DevelopmentEnvironment.md at master · lambdaheart/Haskell-Guide](https://github.com/lambdaheart/Haskell-Guide/blob/master/DevelopmentEnvironment.md)
 
-## エディタ
-
-### Visual Studio Code
-* [VS CodeでHaskellの簡単な環境を作る](http://azaika.hateblo.jp/entry/2015/12/19/151554)
-* [VisualStduioCodeでHaskell開発環境を整える](http://qiita.com/DUxCA/items/8e7a68ffee522bdd8918)
-* [Haskero - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Vans.haskero)
-* [Introducing Haskelly – Haskell extension for Visual Studio Code – Microsoft Faculty Connection](https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/02/13/introducing-haskelly-extension-for-visual-studio-code/)
-* [[Visual Studio Code][Haskell] VSCodeでHaskellの開発環境を整える - Qiita](http://qiita.com/koara-local/items/06d57fd7fe4adc72f2b6)
-* [VS Code と haskell-ide-engine で Haskell 開発環境を構築する - Qiita](https://qiita.com/waddlaw/items/b83cd10311200095fe87)
-* [ott - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=JoeyEremondi.ott)
-* [VisualStudioCode で Haskell のコードを実行するショートカットを設定する - Qiita](https://qiita.com/jnhnd/items/240c41ea5dd7acd9e54c)
-* [macOSでVS CodeのHaskellの環境構築で嵌った点 - Qiita](https://qiita.com/dsm/items/861d08844b1fba32f07b)
-* [VSCodeでHaskell Language Serverが動かない（Windows 10） - Qiita](https://qiita.com/yutasth/items/03e2cc6148f2406d0d8a)
-* [VSCodeでCouldn't start client Haskell IDEが出る（Windows 10） - Qiita](https://qiita.com/yutasth/items/28af2eb0371f6457e0bb)
+## エディタ・IDE
+### Haskell IDE Engine
+* [haskell/haskell-ide-engine: The engine for haskell ide-integration. Not an IDE](https://github.com/haskell/haskell-ide-engine)
 * [Haskell IDE Engineのインストールに苦労した (Windows 10) - Qiita](https://qiita.com/yutasth/items/9df6e2c3937edad24aee)
-* [Setting up a Haskell development environment in minutes in Visual Studio Code | In Absentia](https://hmemcpy.com/2020/02/setting-up-a-haskell-development-environment-in-minutes-in-vscode/)
+
+#### Legacy
+* [DanielG/ghc-mod: Happy Haskell Hacking for editors. CI: https://gitlab.com/dxld/ghc-mod/pipelines](https://github.com/DanielG/ghc-mod)
+* [chrisdone/intero](https://github.com/chrisdone/intero)
 
 ### Vim
-* [begriffs/haskell-vim-now](https://github.com/begriffs/haskell-vim-now?hr=2)
-* [VimでHaskellしよう](http://qiita.com/yukiasai/items/92a2b343b6519b38f402)
+* [begriffs/haskell-vim-now: One-line Haskell Vim install](https://github.com/begriffs/haskell-vim-now?hr=2)
 * [Vim用のHaskellインデントプラグインvim-haskell-indentを作りました](http://itchyny.hatenablog.com/entry/2015/10/30/000000)
 * [Haskellでimport文をソートするプラグイン vim-haskell-sort-import を作りました](http://itchyny.hatenablog.com/entry/2016/01/23/190000)
-* [Vim and Haskell in 2016](http://www.stephendiehl.com/posts/vim_2016.html)
 * [Connecting Vim with your Haskell repl](http://begriffs.com/posts/2013-08-19-connecting-vim-with-your-haskell-repl.html)
-* [myfreeweb/intero.nvim](https://github.com/myfreeweb/intero.nvim)
 * [Haskell で +channel 使って Vim とおはなしする](http://qiita.com/lesguillemets/items/a1a7c70709660985eead)
 * [（失敗）Neovimに移行しつつHaskellの開発環境を整える on Windows](http://qiita.com/igrep/items/a65a10677fe69226c78d)
 * [alx741/vim-yesod](https://github.com/alx741/vim-yesod)
@@ -62,26 +53,19 @@ $ brew install haskell-stack
 
 ### Emacs
 * [haskell/haskell-mode](https://github.com/haskell/haskell-mode)
-* [Intero for Emacs](http://commercialhaskell.github.io/intero/)
-* [Qiita - Intero for Emacs](http://qiita.com/hiratara/items/a963960f7593db4b43ab)
-* [Intero for Emacs: Changes June–July](https://haskell-lang.org/announcements)
 * [haskellのstackでghc-modを利用時に一部パッケージのimportでエラーとなる](http://qiita.com/katsuyan/items/a132d7bf6817f19af2d6)
 * [気がついたら Emacs の Haskell を勉強する環境が整っていた話 - Diary over Finite Fields](http://blog.515hikaru.net/entry/2016/09/12/021206)
 
-### Atom
-* [Switching from Vim to Atom (A Haskeller's Perspective)](http://edsko.net/2015/03/07/vim-to-atom/)
-* [haskell-pointfree package](https://atom.io/packages/haskell-pointfree)
-* [Atom + Stack = no globally installed GHC/packages](http://blog.nikosbaxevanis.com/2016/05/19/atom-and-stack-no-globally-installed-ghc-and-packages/)
-* [Atom EditorでHaskell](http://qiita.com/eielh/items/b2e85f8ea4c6cdb8012d)
-* [Windows上のAtomで Haskell開発環境を整える。](http://qiita.com/new_spaghet/items/10e387161298a276d9d7)
-* [ATOMのide-haskell導入手順（MacOS X）](http://qiita.com/nakamurau1@github/items/7feaeb643cb48842b613)
-* [haskell-scry](https://atom.io/packages/haskell-scry)
-
-### Sublime Text
-* [SublimeText3 で Haskell (Stack) を書くための環境構築 (Mac OS X)](http://qiita.com/algas/items/77c7f6455f8106c1a9e8)
-* [SublimeText 3 & Haskell in 9 steps](https://atcol.wordpress.com/2016/06/03/sublimetext-3-haskell-in-9-steps/)
-* [Sublime Text 3 にHaskellの開発環境を構築する](http://qiita.com/t-yng/items/a5c79e7f497674cabc51)
-* [SublimeText3でHaskellを書く環境を構築する際に躓いたところ - Qiita](http://qiita.com/skht777/items/63deb2193c3918df4d97)
+### Visual Studio Code
+* [Haskell Language Server - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=alanz.vscode-hie-server)
+  * [VS Code と haskell-ide-engine で Haskell 開発環境を構築する - Qiita](https://qiita.com/waddlaw/items/b83cd10311200095fe87)
+  * [macOSでVS CodeのHaskellの環境構築で嵌った点 - Qiita](https://qiita.com/dsm/items/861d08844b1fba32f07b)
+  * [VSCodeでHaskell Language Serverが動かない（Windows 10） - Qiita](https://qiita.com/yutasth/items/03e2cc6148f2406d0d8a)
+  * [VSCodeでCouldn't start client Haskell IDEが出る（Windows 10） - Qiita](https://qiita.com/yutasth/items/28af2eb0371f6457e0bb)
+* [Haskero - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Vans.haskero)
+  * [[Visual Studio Code][Haskell] VSCodeでHaskellの開発環境を整える - Qiita](http://qiita.com/koara-local/items/06d57fd7fe4adc72f2b6)
+* [Introducing Haskelly – Haskell extension for Visual Studio Code – Microsoft Faculty Connection](https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/02/13/introducing-haskelly-extension-for-visual-studio-code/)
+* [Setting up a Haskell development environment in minutes in Visual Studio Code \| In Absentia](https://hmemcpy.com/2020/02/setting-up-a-haskell-development-environment-in-minutes-in-vscode/)
 
 ### Haskell for Mac
 * [Haskell for Mac](http://haskellformac.com/)
