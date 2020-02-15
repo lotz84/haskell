@@ -34,6 +34,7 @@
 * [Haskell in Production](http://felixmulder.com/writing/2019/10/05/Haskell-in-Production.html)
 * [Haskell2020 Is Dead, but All Hope Is Not Lost :: Reasonably Polymorphic](http://reasonablypolymorphic.com/blog/haskell202x/)
 * [Haskell In Production: CentralApp](https://serokell.io/blog/haskell-in-production-centralapp?utm_source=reddit&utm_medium=social&utm_campaign=hipc)
+* [Haskell in Production: Riskbook](https://serokell.io/blog/haskell-in-industry-riskbook)
 
 ## コミュニティ
 * [Haskell Communities and Activities Report](https://wiki.haskell.org/Haskell_Communities_and_Activities_Report)
