@@ -109,6 +109,7 @@
 * [Haskellの代数的構造入門　半群・モノイド・環とは何か？ - ログミーTech](https://logmi.jp/tech/articles/320848)
 * [Haskellerのためのモノイド完全ガイド \| 雑記帳](https://blog.miz-ar.info/2019/02/monoid-for-haskellers/)
 * [argumatronic - A Brief Guide to A Few Algebraic Structures](https://argumatronic.com//posts/2019-06-21-algebra-cheatsheet.html)
+* [acts: Semigroup actions, groups, and torsors.](https://hackage.haskell.org/package/acts)
 
 ## バイナリ
 * [The binary package](https://hackage.haskell.org/package/binary)
