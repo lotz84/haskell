@@ -143,6 +143,7 @@
 * [「Haskell」で「Look and Say 数列」を生成してみた](http://zodi-g12.hatenablog.com/entry/2016/11/07/065219)
 * [Constant-time Binary Logarithm](https://www.hedonisticlearning.com/posts/find-first-set.html)
 * [カタラン数は語る（Haskell で Catalan数的組み合わせを生成する関数） - Qiita](https://qiita.com/lambda_x_x/items/4dc64bf12353dab55950)
+* [Decimal Safety Right on The Money](https://tech.fpcomplete.com/blog/safe-decimal-right-on-the-money)
 
 ## 文字列
 * [Haskell String Types](http://www.alexeyshmalko.com/2015/haskell-string-types/)
