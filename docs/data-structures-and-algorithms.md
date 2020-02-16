@@ -61,6 +61,7 @@
 * [箱玉系（ソリトン Cellular Automaton） - Qiita](https://qiita.com/lex_naturalis/items/a8def7f7d45ce6c6681f)
 * [単価が異なるお菓子をどういう組み合わせで買えば目標の合計値になるか問題 - Qiita](https://qiita.com/golden_lucky/items/8f29f9a8ff839e7a98ee)
 * [(なるべく)HaskellでAtCoderに参加したい(自動提出等) - Qiita](https://qiita.com/flow_6852/items/fce07a04e31d47edabda)
+* [Xorshiftを移植してみた - Qiita](https://qiita.com/7shi/items/0e2951155fd8949dbc55)
 
 ## Hackage
 * [The grid package](http://hackage.haskell.org/package/grid)
