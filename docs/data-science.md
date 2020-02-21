@@ -289,6 +289,7 @@ instance Monad Dist where
 * [bmsherman/haskell-matlab](https://github.com/bmsherman/haskell-matlab)
 * [PythonからHaskell関数を呼ぶ - Qiita](https://qiita.com/A_kirisaki/items/3f69e6add075795b02fa)
 * [hpython: Python language tools](https://hackage.haskell.org/package/hpython)
+* [dg — it's a Python! No, it's a Haskell!](http://pyos.github.io/dg/)
 
 ### HaskellR
 * [HaskellR](http://tweag.github.io/HaskellR/)
