@@ -54,6 +54,7 @@ Stack開発の知見が集められたライブラリ
 * [commercialhaskell/rio: A standard library for Haskell](https://github.com/commercialhaskell/rio)
 * [rio ライブラリを試す その１](https://matsubara0507.github.io/posts/2018-04-13-try-rio-1.html)
 * [Evaluating RIO \| Freckle Education](https://tech.freckle.com/2019/04/16/evaluating-rio/)
+* [Porting to Rio](https://www.fosskers.ca/blog/rio-en.html)
 
 ### その他のライブラリ
 * [The rebase package](http://hackage.haskell.org/package/rebase)
