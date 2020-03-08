@@ -22,6 +22,7 @@
 * [COMP3161/COMP9161 Supplementary Lecture Notes Linear Types](https://www.cse.unsw.edu.au/~cs3161/18s2/Week%2009/Linear%20Types%20Notes.pdf)
 * [Tweag I/O - Safe memory management in inline-java using linear types](https://www.tweag.io/posts/2020-02-06-safe-inline-java.html)
 * [Tweag I/O - A Tale of Two Functors or: How I learned to Stop Worrying and Love Data and Control](https://www.tweag.io/posts/2020-01-16-data-vs-control.html)
+* [Tweag I/O - On linear types and exceptions](https://www.tweag.io/posts/2020-02-19-linear-type-exception.html)
 
 ## Linear Type as DSL
 * [線形型つきドメイン特化言語 (DSL) を Haskell上に実装する](http://d.hatena.ne.jp/keigoi/20110806/1312604753)
