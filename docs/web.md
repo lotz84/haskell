@@ -583,6 +583,7 @@ Protocol
 * [spoqa/nirum](https://github.com/spoqa/nirum)
 * [Haskell, can we REST?](https://github.com/eborden/json-msg-pack/blob/master/README.md)
 * [Apache Thrift - Haskell](https://thrift.apache.org/tutorial/hs)
+* [Implementation status of QUIC in Haskell - あどけない話](https://kazu-yamamoto.hatenablog.jp/entry/2020/02/18/145038)
 
 ### MQTT
 * [uwitty/mosquitto](https://github.com/uwitty/mosquitto)
