@@ -615,6 +615,7 @@ $ trackit --watch-dir=. --command="ls --color"
 * [Patterns of Functional Programming: Functional Core - Imperative Shell](http://www.javiercasas.com/articles/functional-programming-patterns-functional-core-imperative-shell)
 * [blog/Haskell static code analysis software.md at master · razvan-flavius-panda/blog](https://github.com/razvan-flavius-panda/blog/blob/master/Haskell%20static%20code%20analysis%20software.md#haskell-static-code-analysis-software)
 * [Haskell で簡単な CLI ツールを作ってみる - Qiita](https://qiita.com/Hexirp/items/3b46fe38bed365124e8d)
+* [System.FSNotifyでファイルイベントが一切検出されない時 - Qiita](https://qiita.com/Cj-bc/items/3afecf148f3fa37cbb72)
 
 ### オプションパーサー
 * [HaskellのSystem.Console.ParseArgs](http://yu-i9.hatenablog.com/entry/2014/08/29/135253)
