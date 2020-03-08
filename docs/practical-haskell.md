@@ -94,6 +94,7 @@ Stack開発の知見が集められたライブラリ
 * [kowainik/awesome-cabal: 💫 A curated list of awesome resources for the Haskell Cabal build tool.](https://github.com/kowainik/awesome-cabal)
 * [Cabalでビルド時にProtocol Buffersファイルをコンパイルする](http://qiita.com/yunomu/items/a8ef65dccc1c085b7c0d)
 * [stepcut/hackage-whatsnew](https://github.com/stepcut/hackage-whatsnew)
+* [Uploading Package to Hackage - Vaclav Svejcar personal blog](https://svejcar.dev/posts/2020/02/29/uploading-package-to-hackage/)
 * [The packunused package](http://hackage.haskell.org/package/packunused)
 * [Creating a package on Hackage](http://begriffs.com/posts/2014-10-25-creating-package-hackage.html)
 * [cabal-info: get information from cabal files.](https://www.barrucadu.co.uk/posts/2016-02-02-cabal-info.html)
