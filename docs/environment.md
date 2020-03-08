@@ -55,6 +55,7 @@ Windowsの場合は以下の記事が参考になるかもしれません。
 * [haskell/haskell-mode](https://github.com/haskell/haskell-mode)
 * [haskellのstackでghc-modを利用時に一部パッケージのimportでエラーとなる](http://qiita.com/katsuyan/items/a132d7bf6817f19af2d6)
 * [気がついたら Emacs の Haskell を勉強する環境が整っていた話 - Diary over Finite Fields](http://blog.515hikaru.net/entry/2016/09/12/021206)
+* [how-i-use-dante](http://h2.jaguarpaw.co.uk/posts/how-i-use-dante/)
 
 ### Visual Studio Code
 * [Haskell Language Server - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=alanz.vscode-hie-server)
