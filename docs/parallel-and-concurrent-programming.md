@@ -127,6 +127,7 @@ main = do
 ## 分散
 * [Speeding up a distributed computation in Haskell :: FP Complete](https://www.fpcomplete.com/blog/2017/01/speeding-up-distributed-computation)
 * [Distributed Programming with Linear Types \| SkillsCast \| 12th October 2017](https://skillsmatter.com/skillscasts/10637-distributed-programming-with-linear-types)
+* [[ANN] distributed-dataset: A distributed data processing framework in Haskell - Utku Demir](https://utdemir.com/posts/ann-distributed-dataset.html)
 
 ### Raft
 * [chrisnc/tangaroa](https://github.com/chrisnc/tangaroa)
