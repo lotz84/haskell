@@ -126,6 +126,7 @@
 * [Haskell's kind system - a primer · dcastro](https://diogocastro.com/blog/2018/10/17/haskells-kind-system-a-primer/)
 * [Five benefits to using StandaloneKindSignatures - Ryan Scott](https://ryanglscott.github.io/2020/01/05/five-benefits-to-using-standalonekindsignatures/)
 * [Let's Get Dangerous](https://gist.github.com/rampion/c14d1bc3639b4f00ed8d33d948d01080)
+* [Type Witnesses in Haskell](https://serokell.io/blog/haskell-type-level-witness)
 
 ```haskell
 data Bottom
