@@ -264,6 +264,7 @@ Stack開発の知見が集められたライブラリ
 * [HaskellとstackとDockerと - Qiita](https://qiita.com/A_kirisaki/items/0f4a51a02934709124c4)
 * [Oleg's gists - Multi-stage docker build of Haskell webapp](http://oleg.fi/gists/posts/2019-07-04-docker-haskell-example.html)
 * [「hadolint」にシバかれながら美しいDockerfileを書き上げる - 憂鬱な世界にネコパンチ！](https://nekopunch.hatenablog.com/entry/2018/10/08/213513)
+* [Docker + Haskell の Hello Worldビルド - Qiita](https://qiita.com/dd0125/items/a141000ead36b3823fde)
 
 ## CI
 * [Shake](http://shakebuild.com/)
