@@ -185,6 +185,7 @@ uncurry :: (a -> b -> c) -> (a, b) -> c
 * [Thinking with Laziness](http://begriffs.com/posts/2015-06-17-thinking-with-laziness.html)
 * [How Laziness Works](http://two-wrongs.com/how-laziness-works)
 * [さようなら遅延評価 - あどけない話](https://kazu-yamamoto.hatenablog.jp/entry/2019/02/15/115630)
+* [apfelmus - The Incomplete Guide to Lazy Evaluation (in Haskell)](https://apfelmus.nfshost.com/articles/lazy-eval.html)
 
 > One very interesting comparison is that lazy evaluation is to the CPU what garbage collection is to memory.
 
