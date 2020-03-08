@@ -36,6 +36,7 @@ Monad Transformer
 * [Announcing: monad-unlift](https://www.fpcomplete.com/blog/2015/04/announcing-monad-unlift)
 * [Announcing: the new unliftio library](https://www.fpcomplete.com/blog/2017/07/announcing-new-unliftio-library)
 * [Understanding unliftio \| fbrs](https://fbrs.io/unliftio/)
+* [unliftioをなるべくわかりやすく紹介してみます - Qiita](https://qiita.com/HirotoShioi/items/eda8859443f9b55fee28)
 
 ### 圏論
 * [Monad transformer](http://mbps.hatenablog.com/entry/2014/06/28/033234)
