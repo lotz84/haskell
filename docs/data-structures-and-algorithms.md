@@ -63,6 +63,7 @@
 * [(なるべく)HaskellでAtCoderに参加したい(自動提出等) - Qiita](https://qiita.com/flow_6852/items/fce07a04e31d47edabda)
 * [Xorshiftを移植してみた - Qiita](https://qiita.com/7shi/items/0e2951155fd8949dbc55)
 * [Optimizing a maze with graph theory, genetic algorithms, and Haskell](https://medium.com/analytics-vidhya/optimizing-a-maze-with-graph-theory-genetic-algorithms-and-haskell-e3702dd6439f)
+* [正則連分数を用いたモジュラ逆数の計算 - Qiita](https://qiita.com/CUteNeuron/items/ed27b6874faa3d954b59)
 
 ## Hackage
 * [The grid package](http://hackage.haskell.org/package/grid)
