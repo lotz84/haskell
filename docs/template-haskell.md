@@ -27,6 +27,7 @@ Template Haskell はHaskellの言語仕様には無くGHCの独自拡張なの�
 * [Fast file embedding with GHC!](https://hsyl20.fr/home/posts/2019-01-15-fast-file-embedding-with-ghc.html)
 * [Static Smart Constructors with Double Splices](https://chrisdone.com/posts/static-smart-constructors/)
 * [Oleg's gists - Compiling Haskell to JavaScript, not in the way you'd expect](http://oleg.fi/gists/posts/2020-02-09-compiling-haskell-to-javascript.html)
+* [dfithian/th-workshop: Template Haskell Workshop](https://github.com/dfithian/th-workshop)
 
 ```haskell
 {-# LANGUAGE QuasiQuotes #-}
