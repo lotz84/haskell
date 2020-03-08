@@ -3,6 +3,7 @@
 
 * [STANDARDIZED LADDER OF FUNCTIONAL PROGRAMMING](https://pbs.twimg.com/media/CydL5EYUsAAI-61.jpg:large)
 * [Anatomy of a Haskell-based Application](http://abailly.github.io/posts/cm-arch-design.html)
+* [Tracking Changes to Base](https://www.fosskers.ca/en/blog/base)
 * [How to contribute to the Haskell ecosystem](http://www.haskellforall.com/2015/12/how-to-contribute-to-haskell-ecosystem.html)
 * [Worst practices should be hard](http://www.haskellforall.com/2016/04/worst-practices-should-be-hard.html)
 * [Simple Unique IP System Script](http://www.latermuse.com/static/ron-simpleuniqueipsystemscript.html)
