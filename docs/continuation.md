@@ -111,5 +111,6 @@ cps = flip (.)
 出典: [継続渡しスタイル - Wikipedia](http://ja.wikipedia.org/wiki/%E7%B6%99%E7%B6%9A%E6%B8%A1%E3%81%97%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB)
 
 * [パースの法則](https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%BC%E3%82%B9%E3%81%AE%E6%B3%95%E5%89%87)
+* [A Formulae-as-Types Notion of Control](https://www.cl.cam.ac.uk/~tgg22/publications/popl90.pdf)
 * [Curry-Howard Isomorphism](http://www.kmonos.net/wlog/61.html#_0538060508)
 * [カリー＝ハワード 同型対応 と 継続](https://www.duxca.com/slide/?curry_howard_isomorphism/index.md#/)
