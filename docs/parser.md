@@ -158,6 +158,7 @@ parse = evalStateT
 * [readcsv: Lightweight CSV parser/emitter based on ReadP](https://hackage.haskell.org/package/readcsv-0.1)
 * [Oleg's gists - Fancy types for CSV library](https://oleg.fi/gists/posts/2019-07-15-fancy-types-for-cassava.html)
 * [ChrisPenner/lens-csv: Lensy interface for parsing CSV's](https://github.com/ChrisPenner/lens-csv)
+* [HaskellでData.Csv(cassava)を使ってcsvファイルを処理する - Qiita](https://qiita.com/TTsurutani/items/811814ebf548332ede8a)
 
 ## XML
 * [xml-conduit](https://hackage.haskell.org/package/xml-conduit)
