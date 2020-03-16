@@ -65,6 +65,7 @@
 * [Optimizing a maze with graph theory, genetic algorithms, and Haskell](https://medium.com/analytics-vidhya/optimizing-a-maze-with-graph-theory-genetic-algorithms-and-haskell-e3702dd6439f)
 * [正則連分数を用いたモジュラ逆数の計算 - Qiita](https://qiita.com/CUteNeuron/items/ed27b6874faa3d954b59)
 * [Haskellの再帰実装のフィボナッチもLRUキャッシュを使えば一瞬で計算できて省メモリになる - nwtgck / Ryo Ota](https://scrapbox.io/nwtgck/Haskell%E3%81%AE%E5%86%8D%E5%B8%B0%E5%AE%9F%E8%A3%85%E3%81%AE%E3%83%95%E3%82%A3%E3%83%9C%E3%83%8A%E3%83%83%E3%83%81%E3%82%82LRU%E3%82%AD%E3%83%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%82%92%E4%BD%BF%E3%81%88%E3%81%B0%E4%B8%80%E7%9E%AC%E3%81%A7%E8%A8%88%E7%AE%97%E3%81%A7%E3%81%8D%E3%81%A6%E7%9C%81%E3%83%A1%E3%83%A2%E3%83%AA%E3%81%AB%E3%81%AA%E3%82%8B)
+* [i-am-tom/holmes: A reference library for constraint-solving with propagators and CDCL.](https://github.com/i-am-tom/holmes#%EF%B8%8F%EF%B8%8F-holmes)
 
 ## Hackage
 * [The grid package](http://hackage.haskell.org/package/grid)
