@@ -98,6 +98,7 @@ class Foldable t where
 * [The reducers package](https://hackage.haskell.org/package/reducers)
 * [Data.Foldableの正体 - Qiita](https://qiita.com/lotz/items/424abee02fe598c60247)
 * [パラメトリシティを使って自由モノイドが構成できることの証明 - Qiita](https://qiita.com/mkotha/items/8096d6ec527c9b4f21e0)
+* [たのしい Foldable - Qiita](https://qiita.com/acple@github/items/089ee5707e78fecb5615)
 
 ### Traversable
 
@@ -162,6 +163,8 @@ class Functor g => Distributive g where
 * [Recursion Schemes By Example](https://recursion-schemes-by-example.chrispenner.ca/articles/recursive/basic-catamorphisms)
 * [Sorting with Style · jtobin.io](https://jtobin.io/sorting-with-style) - hyloを使ってmergeソートを実装する
 * [Sorting Slower with Style · jtobin.io](https://jtobin.io/sorting-slower-with-style) - apoを使って挿入ソートを実装する
+* [おじいさん、今日のご飯はCatamorphismですよ - Qiita](https://qiita.com/rinse_/items/878a962f92e675f21695)
+* [おじいさん、今日のご飯はAnamorphismですよ - Qiita](https://qiita.com/rinse_/items/022e212474e40da3a2fe)
 
 ### mutu
 * [(PDF) Make it Practical: A Generic Linear-Time Algorithm for Solving Maximum-Weightsum Problems](https://www.researchgate.net/publication/2630929_Make_it_Practical_A_Generic_Linear-Time_Algorithm_for_Solving_Maximum-Weightsum_Problems)
