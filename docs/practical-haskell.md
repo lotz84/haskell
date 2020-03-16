@@ -545,3 +545,4 @@ Stack開発の知見が集められたライブラリ
 * [Haskell vs OCaml](https://markkarpov.com/post/haskell-vs-ocaml.html)
 * [Haskell〇〇多すぎ問題 - LugendrePublic](https://scrapbox.io/LugendrePublic/Haskell%E3%80%87%E3%80%87%E5%A4%9A%E3%81%99%E3%81%8E%E5%95%8F%E9%A1%8C)
 * [Haskell For a New Decade](http://www.stephendiehl.com/posts/decade.html)
+* [Haskell with UTF-8](https://serokell.io/blog/haskell-with-utf8)
