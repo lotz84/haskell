@@ -86,6 +86,7 @@ Windowsの場合は以下の記事が参考になるかもしれません。
 * [IntelliJで"Haskell module can not be created"となるときの対処法 - Qiita](https://qiita.com/nwtgck/items/5b08ad3ede058d67b3f9)
 * [Another IDEa: Haskell and IntelliJ! — Monday Morning Haskell](https://mmhaskell.com/blog/2019/2/25/another-idea-haskell-and-intellij)
 * [intellij-haskell 1.0-beta44 : haskell](https://www.reddit.com/r/haskell/comments/aq8o4f/intellijhaskell_10beta44/)
+* [intellij-haskellの設定方法 (2020/03/15時点) - Qiita](https://qiita.com/dyoshikawa/items/c23de702217b37e79154)
 
 ### Others
 * [Leksah](http://leksah.org/)
