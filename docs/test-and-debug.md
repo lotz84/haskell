@@ -87,7 +87,7 @@
 * [How to use Hedgehog to test a real world, large scale, stateful app – jacobstanley.io](https://jacobstanley.io/how-to-use-hedgehog-to-test-a-real-world-large-scale-stateful-app/)
 * [5 tips for better Hedgehog tests – jacobstanley.io](https://jacobstanley.io/5-tips-for-better-hedgehog-tests/)
 
-### QuickCheck
+### Property Testing
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
 * [The Design and Use of QuickCheck](https://begriffs.com/posts/2017-01-14-design-use-quickcheck.html)
 * [QuickCheck and Magic of Testing :: FP Complete](https://www.fpcomplete.com/blog/2017/01/quickcheck)
@@ -100,6 +100,7 @@
 * [Well-Typed - The Haskell Consultants: Integrated versus Manual Shrinking](http://www.well-typed.com/blog/2019/05/integrated-shrinking/)
 * [How to Specify it!](https://www.dropbox.com/s/tx2b84kae4bw1p4/paper.pdf?dl=0)
 * [Do disturb me \| Verifying the Titular Properties of a Leftist Heap](https://dodisturb.me/posts/2019-10-03-Verifying-the-Titular-Properties-of-a-Leftist-Heap.html)
+* [Effectful Property Testing](https://www.parsonsmatt.org/2020/03/11/effectful_property_testing.html)
 
 ```haskell
 import Data.List
