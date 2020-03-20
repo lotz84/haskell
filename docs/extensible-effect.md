@@ -28,6 +28,10 @@
   * [Sandy Maguire: Don't Eff It Up: Free Monads in Action - YouTube](https://www.youtube.com/watch?v=gUPuWHAt6SA)
 * [CaptJakk's Blog - A Practical Introduction to Freer Monads (Eff)](https://captjakk.com/posts/2019-05-12-practical-intro-eff.html)
 
+### Algebraic Effects
+* [Algebraic EffectsとExtensible Effectsの違いってなんや? 関係あんの? - lilyum ensemble](https://nymphium.github.io/2020/03/15/ae-ee.html)
+* [Composing Algebraic Effects into Tasks and Workflows](https://richarde.dev/papers/2020/workflows/workflows.pdf)
+
 ### その他
 * [Eff vs mtl](https://www.reddit.com/r/haskell/comments/1j9n5y/extensible_effects_an_alternative_to_monad/cbcwbsa)
 * [Are extensible effects a complete replacement for mtl?](http://www.reddit.com/r/haskell/comments/387ex0/are_extensible_effects_a_complete_replacement_for/crt1pzm)
