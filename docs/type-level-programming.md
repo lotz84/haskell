@@ -127,7 +127,8 @@
 * [Five benefits to using StandaloneKindSignatures - Ryan Scott](https://ryanglscott.github.io/2020/01/05/five-benefits-to-using-standalonekindsignatures/)
 * [Let's Get Dangerous](https://gist.github.com/rampion/c14d1bc3639b4f00ed8d33d948d01080)
 * [Type Witnesses in Haskell](https://serokell.io/blog/haskell-type-level-witness)
-* [Sci-Hub \| Review of “Thinking with Types”* by Sandy Maguire, LeanPub, 2019. Journal of Functional Programming, 30 | 10.1017/S0956796820000015](https://sci-hub.tw/https://www.cambridge.org/core/journals/journal-of-functional-programming/article/review-of-thinking-with-types-by-sandy-maguire-leanpub-2019/151CBE6431DDB2C828F77CECDDAA828B)
+* [Sci-Hub \| Review of “Thinking with Types”* by Sandy Maguire, LeanPub, 2019. Journal of Functional Programming, 30 \| 10.1017/S0956796820000015](https://sci-hub.tw/https://www.cambridge.org/core/journals/journal-of-functional-programming/article/review-of-thinking-with-types-by-sandy-maguire-leanpub-2019/151CBE6431DDB2C828F77CECDDAA828B)
+* [Notes for 'Thinking with Types: Type-level Programming in Haskell', Chapters 1–5 | abhinavsarkar.net](https://abhinavsarkar.net/posts/twt-notes-1/)
 
 ```haskell
 data Bottom
