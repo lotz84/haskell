@@ -28,6 +28,7 @@ Windowsの場合は以下の記事が参考になるかもしれません。
 ### Haskell IDE Engine
 * [haskell/haskell-ide-engine: The engine for haskell ide-integration. Not an IDE](https://github.com/haskell/haskell-ide-engine)
 * [Haskell IDE Engineのインストールに苦労した (Windows 10) - Qiita](https://qiita.com/yutasth/items/9df6e2c3937edad24aee)
+* [mpickering - An IDE implemented using reflex](https://mpickering.github.io/posts/2020-03-16-ghcide-reflex.html)
 
 #### Legacy
 * [DanielG/ghc-mod: Happy Haskell Hacking for editors. CI: https://gitlab.com/dxld/ghc-mod/pipelines](https://github.com/DanielG/ghc-mod)
