@@ -148,6 +148,7 @@ Front end
 * [State of WebGHC, January 2019 \| webghc.github.io](https://webghc.github.io/2019/01/18/state-of-webghc-january-2019.html)
 * [pkamenarsky/replica: A remote virtual DOM library for Haskell](https://github.com/pkamenarsky/replica)
 * [Bring your Haskell Types to Reason](https://www.stackbuilders.com/news/bring-your-haskell-types-to-reason)
+* [Building a web app with functional programming - Haskell - part I · PatchGirl](https://blog.patchgirl.io/haskell/2020/03/08/haskell-part-I.html)
 
 Haskell to JavaScript compiler
 ------------------------------
