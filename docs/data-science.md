@@ -268,6 +268,7 @@ instance Monad Dist where
 * [backprop as functor · Issue #9 · mstksg/backprop](https://github.com/mstksg/backprop/issues/9)
 * [Lenses for philosophers – Jules Hedges](https://julesh.com/2018/08/16/lenses-for-philosophers/)
 * [Haskell - Get a Brain](http://www-cs-students.stanford.edu/~blynn//haskell/brain.html) - Let’s build a neural network from scratch.
+* [refactoring-neural-network](http://h2.jaguarpaw.co.uk/posts/refactoring-neural-network/)
 
 ## 自然言語処理
 * [Natural Language Processing for the Working Programmer](http://freecomputerbooks.com/books/nlpwp.pdf)
