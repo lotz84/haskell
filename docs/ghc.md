@@ -97,6 +97,7 @@
 * [GHCの中間言語Coreへの脱糖を覗き見る - Hash λ Bye](http://ilyaletre.hatenablog.com/entry/2017/12/10/195016)
 * [Compact Regions: Success, Failure, and Questions | Front Row](http://tech.frontrowed.com/2018/03/06/compact-regions-success-failure-questions/)
 * [Fūzetsu's Corner - Trying out GHC compact regions for improved latency (Pusher case study).](http://fuuzetsu.co.uk/blog/posts/2018-03-03-GHC-compact-regions-for-improved-latency.html)
+* [Well-Typed - The Haskell Consultants: The problem with adding functions to compact regions](http://www.well-typed.com/blog/2020/03/functions-in-compact-regions/)
 * [How QuantifiedConstraints can let us put join back in Monad - Ryan Scott](https://ryanglscott.github.io/2018/03/04/how-quantifiedconstraints-can-let-us-put-join-back-in-monad/)
 * [osa1 - Three runtime optimizations done by GHC's GC](http://osa1.net/posts/2018-03-16-gc-optimizations.html)
 * [Sequent Calculus as a Compiler Intermediate Language](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/04/sequent-calculus-icfp16.pdf)
