@@ -93,6 +93,7 @@ instance Show Bool where
 * [Named typeclasses in Haskell](http://marcosh.github.io/post/2019/11/11/named-typeclasses-in-haskell.html)
 * [抽象型クラスで型クラスの変更の非互換性を緩和する - Qiita](https://qiita.com/mod_poppo/items/b168b208ea3776676b1f)
 * [型クラスのご紹介 - molecular coordinates](https://coordination.hatenablog.com/entry/2019/12/24/012049)
+* [続くといいな日記 – Coherent Implicit Parameter](https://mizunashi-mana.github.io/blog/posts/2020/03/coherent-implicit-parameter/)
 
 ## 代数的な型クラス
 * [tower](https://tonyday567.github.io/tower/index.html)
