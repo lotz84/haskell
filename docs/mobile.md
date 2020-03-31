@@ -39,6 +39,7 @@
 * [The blog of wjwh - Building constant-time constant-memory programs for your Arduino with CoPilot](http://www.wjwh.eu/posts/2020-01-30-arduino-copilot.html)
 * [Bluespec Compilerをstack環境のghcでビルドしてみた - Qiita](https://qiita.com/dalance/items/c32c510b74b7843f5cf7)
 * [B-Lang-org/bsc: Bluespec Compiler (BSC)](https://github.com/B-Lang-org/bsc)
+* [Raspberry PiでAArch64なGHCを動かす - Qiita](https://qiita.com/mod_poppo/items/084455236e61e583176a)
 
 ## 高位合成
 * [Domain-specific Languages and Code Synthesis Using Haskell](http://queue.acm.org/detail.cfm?id=2617811)
