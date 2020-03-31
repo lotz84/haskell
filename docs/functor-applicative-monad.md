@@ -280,6 +280,7 @@ instance Monad [] where
 * [Fractals and Monads \| Simplicity](https://dkwise.wordpress.com/2019/01/18/fractals-and-monads/)
 * [Fractals and Monads – Part 2 \| Simplicity](https://dkwise.wordpress.com/2019/01/30/fractals-and-monads-part-2/)
 * [Fractals and Monads – Part 3 \| Simplicity](https://dkwise.wordpress.com/2019/02/19/fractals-and-monads-part-3/)
+* [リストモナドについて - Qiita](https://qiita.com/ysn551/items/03dd605c656768f33d7a)
 
 #### LogicT
 * [リストモナドとLogicモナド](http://qiita.com/fumieval/items/794a85e2d7497b2463ba)
