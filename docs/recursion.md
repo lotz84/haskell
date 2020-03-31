@@ -78,6 +78,7 @@ evenElements xs = filter even xs
 * [aymannadeem/foldilocks: Tutorial using ghci to make folds easier. Come for the tutorial, stay for the fold puns.](https://github.com/aymannadeem/foldilocks)
 * [Rewriting functions with fold and reduce \| Max Strübing](https://maex.me/2019/04/rewriting-functions-with-fold-and-reduce/)
 * [Neil Mitchell's Haskell Blog: foldr under the hood](https://neilmitchell.blogspot.com/2019/04/foldr-under-hood.html)
+* [It never makes sense to use foldl on lists](https://github.com/hasura/graphql-engine/pull/2933#discussion_r328821960)
 
 ## リスト
 * [(cons cat (cons cat nil))](https://twitter.com/lvsn/status/533685461957349376)
