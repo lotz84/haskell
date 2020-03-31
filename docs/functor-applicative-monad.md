@@ -30,6 +30,7 @@ class Functor f where
 * [Functor-Of](https://cvlad.info/functor-of/)
 * [The Functor Combinatorpedia · in Code](https://blog.jle.im/entry/functor-combinatorpedia.html)
 * [関数型プログラミングのFunctorって何が嬉しいの？ - Qiita](https://qiita.com/masaki_shoji/items/0c1fbdbff6d37f7770ce)
+* [関数型プログラミング -Applicativeについて知る前に、Functorでできないことを知っておこう- - Qiita](https://qiita.com/masaki_shoji/items/af5ab8b9496f0a6dfbbc)
 
 ### Bifunctor
 * [bifunctor](https://hackage.haskell.org/package/bifunctors)
