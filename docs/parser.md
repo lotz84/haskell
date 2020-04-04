@@ -217,3 +217,4 @@ parse = evalStateT
 * [obsidiansystems/aeson-gadt-th: Template Haskell for generating ToJSON and FromJSON instances for GADTs](https://github.com/obsidiansystems/aeson-gadt-th)
 * [Vlix/safe-json: Automatic versioning of JSON formats for Haskell data types (with backwards compatibility)](https://github.com/Vlix/safe-json)
 * [aeson-schemas: Easily consume JSON data on-demand with type-safety](http://hackage.haskell.org/package/aeson-schemas)
+* [Typeable Blog - JSON parser performance optimization, the slow path trick](https://blog.typeable.io/posts/2020-02-24-performance_slow_path.html)
