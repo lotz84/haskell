@@ -540,6 +540,9 @@ Line 6:
 * [staversion: What version is the package X in stackage lts-Y.ZZ?](https://hackage.haskell.org/package/staversion)
 * [stackageの特定のresolverに上がっているパッケージバージョンを調べるツール](http://d.hatena.ne.jp/debug-ito/20161016/1476603444)
 
+### summoner
+* [kowainik/summoner: 🔮 🔧 Tool for scaffolding batteries-included production-level Haskell projects](https://github.com/kowainik/summoner)
+
 ### tintin
 > A softer alternative to Haddock
 
