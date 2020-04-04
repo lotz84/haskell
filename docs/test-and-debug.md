@@ -101,6 +101,7 @@
 * [How to Specify it!](https://www.dropbox.com/s/tx2b84kae4bw1p4/paper.pdf?dl=0)
 * [Do disturb me \| Verifying the Titular Properties of a Leftist Heap](https://dodisturb.me/posts/2019-10-03-Verifying-the-Titular-Properties-of-a-Leftist-Heap.html)
 * [Effectful Property Testing](https://www.parsonsmatt.org/2020/03/11/effectful_property_testing.html)
+* [pureblog - Migrating from QuickCheck to Hedgehog: mixed results](https://frasertweedale.github.io/blog-fp/posts/2020-03-31-quickcheck-hedgehog.html)
 
 ```haskell
 import Data.List
