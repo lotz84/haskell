@@ -248,6 +248,7 @@ class Monad m where
 * [Neil Mitchell's Haskell Blog: Monads as Graphs](https://neilmitchell.blogspot.com/2019/10/monads-as-graphs.html)
 * [いろいろなモナド at Nakameguro.hs #2 - Qiita](https://qiita.com/ryota-ka/items/544dbd82891510accbc0)
 * [モナドプログラミング - Qiita](https://qiita.com/karky7/items/3c45ca951061f2480e60)
+* [モノイドとモナドの対応関係 - Qiita](https://qiita.com/norkron/items/da2d1de205a4137931b7#_reference-5759d8b7c6720391cfdf)
 
 ```haskell
 do x <- mx
@@ -396,6 +397,7 @@ Reader + Writer + State
 * [続くといいな日記 – GHC IO モナドの中身](https://mizunashi-mana.github.io/blog/posts/2019/05/ghc-io-inside/)
 * [HaskellのファイルIO](http://www.nslabs.jp/haskell-fileio.rhtml)
 * [IO and monads](https://www.seas.upenn.edu/~cis194/fall16/lectures/06-io-and-monads.html)
+* [Haskellのプログラムは '現実世界'を引数にとり、プログラムが影響を与えた'現実世界' を返す純粋関数 - Qiita](https://qiita.com/lambda_funtaro/items/2b157a4ca9fea02f5650)
 
 #### 乱数
 * [Haskellの乱数事情](http://qiita.com/philopon/items/8f647fc8dafe66b7381b)
