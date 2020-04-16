@@ -92,3 +92,4 @@
 * [Interaction laws of monads and comonads](https://arxiv.org/abs/1912.13477)
 * [Sets for mathematics](http://www.patryshev.com/books/Sets%20for%20Mathematics.pdf)
 * [[1501.02503] Coend calculus](https://arxiv.org/abs/1501.02503)
+* [圏と論理へのいざない・レクチャーノート](http://www.math.mi.i.nagoya-u.ac.jp/~kihara/pdf/teach/LectureNotes-category-theory.pdf)
