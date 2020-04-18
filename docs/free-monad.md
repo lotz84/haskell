@@ -65,6 +65,7 @@ instance Functor f => Monad (Free f) where
 * [String Diagrams for Free Monads](https://research-information.bristol.ac.uk/files/87127912/Nicolas_Wu_String_Diagrams_for_Free_Monads.pdf)
 * [What does Free buy us?](https://www.parsonsmatt.org/2017/09/22/what_does_free_buy_us.html)
 * [graninas/automatic-whitebox-testing-showcase: Showcase for an approach how to make automatic white-box testing with Free monads.](https://github.com/graninas/automatic-whitebox-testing-showcase)
+* [The Power of Tiny DSLs \| Blog \| jackkelly.name](http://jackkelly.name/blog/archives/2020/04/03/the_power_of_tiny_dsls/index.html)
 
 ### Coyoneda
 * [Loop School - Coyoneda](http://school.looprecur.com/?video=122708005)
