@@ -142,6 +142,7 @@
 * [Generating small binaries in Haskell](https://dixonary.co.uk/blog/haskell/small)
 * [Haskellの文字列リテラルはGHCでどのようにコンパイルされるか - Qiita](https://qiita.com/mod_poppo/items/80c442a1d95471e6ac55)
 * [Channable - Lessons in Managing Haskell Memory](https://tech.channable.com/posts/2020-04-07-lessons-in-managing-haskell-memory.html)
+* [Well-Typed - The Haskell Consultants: DWARF support in GHC (part 1)](http://www.well-typed.com/blog/2020/04/dwarf-1/)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
