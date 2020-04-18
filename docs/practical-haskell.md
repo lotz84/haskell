@@ -132,6 +132,7 @@ Stack開発の知見が集められたライブラリ
 * [stack で管理されたプロジェクトを cabal でビルドするために](https://haskell.e-bigmoon.com/posts/2020/01-22-get-freeze-from-stackage.html)
 * [cabal の build-tool-depends フィールド](https://haskell.e-bigmoon.com/posts/2020/01-18-cabal-build-tool-depends.html)
 * [cabal install コマンドについて](https://haskell.e-bigmoon.com/posts/2020/03-25-cabal-install.html)
+* [Colin Woodbury](https://www.fosskers.ca/en/blog/wide-haskell)
 
 ## Stack
 * [The Haskell Tool Stack](http://docs.haskellstack.org/en/stable/README.html)
