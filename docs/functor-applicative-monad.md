@@ -180,6 +180,7 @@ class Monad m where
 * [具体的な値でモナド則を確認する - Maybe編 - Qiita](https://qiita.com/eielh/items/cc4293ffefb1730f044b)
 * [具体的な値でモナド則を確認する - List編 - Qiita](https://qiita.com/eielh/items/f8cead2b81f6a56bdb72)
 * [Selectionモナド入門 - Qiita](https://qiita.com/lotz/items/22c60ea59e0a510738de)
+* [モノイドとモナドの対応関係 - Qiita](https://qiita.com/norkron/items/da2d1de205a4137931b7)
 * [Why Do Monads Matter?](https://cdsmith.wordpress.com/2012/04/18/why-do-monads-matter/)
 * [All About Monads](https://wiki.haskell.org/All_About_Monads)
 * [Monad tutorials timeline](https://wiki.haskell.org/Monad_tutorials_timeline)
