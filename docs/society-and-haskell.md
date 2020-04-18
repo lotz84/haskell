@@ -35,6 +35,7 @@
 * [Haskell2020 Is Dead, but All Hope Is Not Lost :: Reasonably Polymorphic](http://reasonablypolymorphic.com/blog/haskell202x/)
 * [Haskell In Production: CentralApp](https://serokell.io/blog/haskell-in-production-centralapp?utm_source=reddit&utm_medium=social&utm_campaign=hipc)
 * [Haskell in Production: Riskbook](https://serokell.io/blog/haskell-in-industry-riskbook)
+* [Towards Faster Iteration in Industrial Haskell](https://blog.sumtypeofway.com/posts/fast-iteration-with-haskell.html)
 
 ## コミュニティ
 * [Haskell Communities and Activities Report](https://wiki.haskell.org/Haskell_Communities_and_Activities_Report)
