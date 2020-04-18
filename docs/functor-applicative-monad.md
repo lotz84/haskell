@@ -399,6 +399,7 @@ Reader + Writer + State
 * [HaskellのファイルIO](http://www.nslabs.jp/haskell-fileio.rhtml)
 * [IO and monads](https://www.seas.upenn.edu/~cis194/fall16/lectures/06-io-and-monads.html)
 * [Haskellのプログラムは '現実世界'を引数にとり、プログラムが影響を与えた'現実世界' を返す純粋関数 - Qiita](https://qiita.com/lambda_funtaro/items/2b157a4ca9fea02f5650)
+* [IO モナドと副作用 - Haskell-jp](https://haskell.jp/blog/posts/2020/io-monad-and-sideeffect.html)
 
 #### 乱数
 * [Haskellの乱数事情](http://qiita.com/philopon/items/8f647fc8dafe66b7381b)
