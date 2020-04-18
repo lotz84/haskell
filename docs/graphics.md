@@ -127,6 +127,7 @@
 * [typograffiti: Just let me draw nice text already](https://hackage.haskell.org/package/typograffiti)
 * [sheaf / FIR · GitLab](https://gitlab.com/sheaf/fir)
 * [UnityでHaskellのコードを実行する方法の模索 - Qiita](https://qiita.com/masatoko/items/bba6392dbc9000d29fa6)
+* [madjestic/Haskell-OpenGL-Tutorial: an attempt to create a concise modern Haskell OpenGL boilerplate with basic IO](https://github.com/madjestic/Haskell-OpenGL-Tutorial)
 
 ### Game Engine
 * [Helm - A functionally reactive game engine](http://helm-engine.org/)
