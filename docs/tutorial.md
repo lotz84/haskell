@@ -181,6 +181,8 @@
 * [Teaching Haskell with Duet](https://tech.fpcomplete.com/blog/teaching-haskell-with-duet)
 * [tssm/up-to-date-real-world-haskell: I'm trying to update the Real World Haskell book](https://github.com/tssm/up-to-date-real-world-haskell)
 * [The road to proficient Haskell \| William Yao](https://williamyaoh.com/posts/2020-01-11-road-to-proficient.html)
+* [THINGS SOFTWARE ENGINEERS TRIP UP ON WHEN LEARNING HASKELL](https://williamyaoh.com/posts/2020-04-12-software-engineer-hangups.html)
+* [Applied Haskell Syllabus](https://tech.fpcomplete.com/haskell/syllabus)
 
 ## Examples
 
