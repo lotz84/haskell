@@ -130,6 +130,7 @@
 * [Sci-Hub \| Review of “Thinking with Types”* by Sandy Maguire, LeanPub, 2019. Journal of Functional Programming, 30 \| 10.1017/S0956796820000015](https://sci-hub.tw/https://www.cambridge.org/core/journals/journal-of-functional-programming/article/review-of-thinking-with-types-by-sandy-maguire-leanpub-2019/151CBE6431DDB2C828F77CECDDAA828B)
 * [Notes for 'Thinking with Types: Type-level Programming in Haskell', Chapters 1–5 | abhinavsarkar.net](https://abhinavsarkar.net/posts/twt-notes-1/)
 * [A Type-Safe Approach to Categorized Data \| Eli Peery](https://epeery.com/typesafe-approach-to-categorized-data/)
+* [GHCの型レベル自然数を理解する - Qiita](https://qiita.com/mod_poppo/items/3a37424d299a9f71b757)
 
 ```haskell
 data Bottom
