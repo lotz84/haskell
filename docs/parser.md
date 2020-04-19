@@ -50,6 +50,7 @@
 * [Go言語でつくるインタプリタを Haskell で書く - Qiita](https://qiita.com/kita127/items/a50927bbafcc874d5065)
 * [regex-applicative: 内部DSLとしての正規表現（ブログ記事版） - Haskell-jp](https://haskell.jp/blog/posts/2019/regex-applicative.html)
 * [osa1 - Knot-tying: why and how (and my opinions on it)](https://osa1.net/posts/2020-02-21-knot-tying-why-how-opinions.html)
+* [Micro C, Part 1: Parsing – Joseph Morag](https://blog.josephmorag.com/posts/mcc1/)
 
 ## 正規表現
 * [関数型的正規表現マッチ](https://research.preferred.jp/2010/11/regexp-play/)
