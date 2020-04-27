@@ -270,8 +270,10 @@ Stack開発の知見が集められたライブラリ
 * [Oleg's gists - Multi-stage docker build of Haskell webapp](http://oleg.fi/gists/posts/2019-07-04-docker-haskell-example.html)
 * [「hadolint」にシバかれながら美しいDockerfileを書き上げる - 憂鬱な世界にネコパンチ！](https://nekopunch.hatenablog.com/entry/2018/10/08/213513)
 * [Docker + Haskell の Hello Worldビルド - Qiita](https://qiita.com/dd0125/items/a141000ead36b3823fde)
+* [dkubb/haskell-builder](https://github.com/dkubb/haskell-builder)
 
-## CI
+## ビルドツール
+### Shake
 * [Shake](http://shakebuild.com/)
   * [Applicative vs Monadic build systems](http://neilmitchell.blogspot.co.uk/2014/07/applicative-vs-monadic-build-systems.html)
   * [Defining your own build system With Shake](http://ndmitchell.com/downloads/slides-defining_your_own_build_system_with_shake-09_oct_2015.pdf)
@@ -280,48 +282,47 @@ Stack開発の知見が集められたライブラリ
 * [24 days of Hackage, 2015: day 22: Shake: the dynamic build system](http://conscientiousprogrammer.com/blog/2015/12/22/24-days-of-hackage-2015-day-22-shake-the-dynamic-build-system/)
 * [Upgrading Shake :: Capital Match Tech Blog](https://tech-blog.capital-match.com/posts/5-upgrading-shake.html)
 * [Neil Mitchell's Haskell Blog: GHC Rebuild Times - Shake profiling](https://neilmitchell.blogspot.com/2019/03/ghc-rebuild-times-shake-profiling.html)
-* [ndmitchell/bake](https://github.com/ndmitchell/bake)
-* [hvr/multi-ghc-travis](https://github.com/hvr/multi-ghc-travis)
-* [phadej/travis-meta-yaml](https://github.com/phadej/travis-meta-yaml)
-* [ansi-wl-pprint](https://hackage.haskell.org/package/ansi-wl-pprint)
-* [kerkomen/rei](https://github.com/kerkomen/rei)
-* [Haskell on Travis CI](http://justus.science/blog/2015/09/04/travis.html)
-* [The hapistrano package](https://hackage.haskell.org/package/hapistrano)
-* [Stackで管理しているHaskellのプロジェクトをCircleCIでビルドする](http://qiita.com/fujimura/items/b619e0a4ca2028b0eb03)
-* [Using Stack on Travis CI](https://www.fpcomplete.com/blog/2015/12/stack-travis)
 * [ghc-shake: Reimplementing ghc -​-make](http://blog.ezyang.com/2016/01/ghc-shake-reimplementing-ghc-make/)
-* [snowleopard/shaking-up-ghc](https://github.com/snowleopard/shaking-up-ghc)
-* [Updated Haskell Travis config](https://www.fpcomplete.com/blog/2016/02/updated-haskell-travis-config)
-* [Circle CI configuration with yesod (haskell) backend and javascript frontend](http://swistak35.com/2016/03/07/Circle-ci-configuration-with-yesod-haskell-and-javascript-frontend/)
-* [guillaume-nargeot/hpc-coveralls](https://github.com/guillaume-nargeot/hpc-coveralls)
 * [Non-recursive Make Considered Harmful](http://research.microsoft.com/en-us/um/people/simonpj/papers/ghc-shake/ghc-shake.pdf)
-* [yesodweb/Shelly.hs](https://github.com/yesodweb/Shelly.hs)
-* [lpsmith/configurator-ng](https://github.com/lpsmith/configurator-ng/blob/5a0722ffc2667e0605efb7c3e722a3e8ea8c39c6/README.markdown)
-* [Hapistrano's new features](https://stackbuilders.com/news/hapistrano-s-new-features)
-* [ivan-m/jbi](https://github.com/ivan-m/jbi) - Just Build It - a "do what I mean" abstraction for Haskell build tools
-* [ZERO TO CONTINUOUS INTEGRATED TESTING A HASKELL PROJECT WITH GITLAB](https://vadosware.io/post/zero-to-continuous-integrated-testing-a-haskell-project-with-gitlab/)
-* [CONTINUOUS INTEGRATION TO CONTINOUS DELIVERY HASKELL PROJECT WITH GITLAB](https://vadosware.io/post/continuous-integration-to-continous-delivery-haskell-project-with-gitlab/)
-* [Zero To Continuous Integrated Testing A Haskell Project With Gitlab](https://vadosware.io/post/zero-to-continuous-integrated-testing-a-haskell-project-with-gitlab/)
-* [CircleCI2.0でHaskellのテストを実行する – PSYENCE:MEDIA](https://tech.recruit-mp.co.jp/dev-tools/post-13981/)
-* [harendra-kumar/packcheck: Universal build and CI testing for Haskell packages](https://github.com/harendra-kumar/packcheck)
-* [Thoughts Heap — Lightning fast CI for Haskell projects](https://blog.roman-gonzalez.ca/post/172746394387/lightning-fast-ci-for-haskell-projects)
 * [CS Syd - Research as a build system with Shake](https://cs-syd.eu/posts/2018-05-28-research-as-a-build-system)
-* [Tweag I/O - Build large polyglot projects with Bazel... now with Haskell support](https://www.tweag.io/posts/2018-02-28-bazel-haskell.html)
-* [Tweag I/O - Nix + Bazel = fully reproducible, incremental builds](https://www.tweag.io/posts/2018-03-15-bazel-nix.html)
 * [Build Systems à la Carte](https://www.microsoft.com/en-us/research/uploads/prod/2018/03/build-systems.pdf)
-* [dkubb/haskell-builder](https://github.com/dkubb/haskell-builder)
-* [Circle CI 2.0 の設定](https://haskell.e-bigmoon.com/posts/2018/07-21-circleci-2.html)
-* [Building a Blog Part 5: Continuous integration with CircleCI](https://gaumala.com/posts/2019-01-22-continuous-integration-with-circle-ci.html)
-* [You should try Hadrian \| no time](https://blogs.ncl.ac.uk/andreymokhov/you-should-try-hadrian/)
-* [Dead simple Haskell Travis settings for cabal and stack](https://chshersh.github.io/posts/2019-02-25-haskell-travis)
-* [HaskellとHspecでBuddy CI - Qiita](https://qiita.com/jdoiWork/items/1cc09a1d375a038ac400)
-* [Deploying Haskell: Painless CI/CD with Travis, Docker and Digitalocean (or any linux VM)](https://www.dev-log.me/Deploying_Haskell:_Painless_CICD_with_Travis,_Docker_and_Digital_Ocean_(or_any_linux_VM)/)
 
-## Hadrian
+### Hadrian
+* [snowleopard/hadrian: Hadrian: a new build system for the Glasgow Haskell Compiler. Now merged into the GHC tree!](https://github.com/snowleopard/hadrian)
 * [HSoC — Hadrian Optimisation: First GHC Contribution (Update 4)](https://medium.com/@ratherforky/hsoc-hadrian-optimisation-update-4-47ab2b62b15a)
 * [Well-Typed - The Haskell Consultants: Exploring Cloud Builds in Hadrian](https://well-typed.com/blog/2019/08/exploring-cloud-builds-in-hadrian/)
 * [HSoC — Hadrian Optimisation: Profiling and getting ahead of Shake changes (Update 5)](https://medium.com/@ratherforky/hsoc-hadrian-optimisation-profiling-and-getting-ahead-of-shake-changes-update-5-6b4038ed18aa)
 * [HSoC — Hadrian Optimisation: Final Report - James Foster - Medium](https://medium.com/@ratherforky/hsoc-hadrian-optimisation-final-report-7c6aa1132dcd)
+* [You should try Hadrian \| no time](https://blogs.ncl.ac.uk/andreymokhov/you-should-try-hadrian/)
+
+## CI/CD
+* [ZERO TO CONTINUOUS INTEGRATED TESTING A HASKELL PROJECT WITH GITLAB](https://vadosware.io/post/zero-to-continuous-integrated-testing-a-haskell-project-with-gitlab/)
+* [CONTINUOUS INTEGRATION TO CONTINOUS DELIVERY HASKELL PROJECT WITH GITLAB](https://vadosware.io/post/continuous-integration-to-continous-delivery-haskell-project-with-gitlab/)
+* [harendra-kumar/packcheck: Universal build and CI testing for Haskell packages](https://github.com/harendra-kumar/packcheck)
+* [The hapistrano package](https://hackage.haskell.org/package/hapistrano)
+* [Hapistrano's new features](https://stackbuilders.com/news/hapistrano-s-new-features)
+* [HaskellとHspecでBuddy CI - Qiita](https://qiita.com/jdoiWork/items/1cc09a1d375a038ac400)
+
+### Travis CI
+* [hvr/multi-ghc-travis](https://github.com/hvr/multi-ghc-travis)
+* [phadej/travis-meta-yaml](https://github.com/phadej/travis-meta-yaml)
+* [Haskell on Travis CI](http://justus.science/blog/2015/09/04/travis.html)
+* [Using Stack on Travis CI](https://www.fpcomplete.com/blog/2015/12/stack-travis)
+* [Updated Haskell Travis config](https://www.fpcomplete.com/blog/2016/02/updated-haskell-travis-config)
+* [guillaume-nargeot/hpc-coveralls](https://github.com/guillaume-nargeot/hpc-coveralls)
+* [Deploying Haskell: Painless CI/CD with Travis, Docker and Digitalocean (or any linux VM)](https://www.dev-log.me/Deploying_Haskell:_Painless_CICD_with_Travis,_Docker_and_Digital_Ocean_(or_any_linux_VM)/)
+* [Dead simple Haskell Travis settings for cabal and stack](https://chshersh.github.io/posts/2019-02-25-haskell-travis)
+
+### Circle CI
+* [Stackで管理しているHaskellのプロジェクトをCircleCIでビルドする](http://qiita.com/fujimura/items/b619e0a4ca2028b0eb03)
+* [Circle CI configuration with yesod (haskell) backend and javascript frontend](http://swistak35.com/2016/03/07/Circle-ci-configuration-with-yesod-haskell-and-javascript-frontend/)
+* [CircleCI2.0でHaskellのテストを実行する – PSYENCE:MEDIA](https://tech.recruit-mp.co.jp/dev-tools/post-13981/)
+* [Circle CI 2.0 の設定](https://haskell.e-bigmoon.com/posts/2018/07-21-circleci-2.html)
+* [Building a Blog Part 5: Continuous integration with CircleCI](https://gaumala.com/posts/2019-01-22-continuous-integration-with-circle-ci.html)
+
+### Bazel
+* [Tweag I/O - Build large polyglot projects with Bazel... now with Haskell support](https://www.tweag.io/posts/2018-02-28-bazel-haskell.html)
+* [Tweag I/O - Nix + Bazel = fully reproducible, incremental builds](https://www.tweag.io/posts/2018-03-15-bazel-nix.html)
 
 ## Workflow
 * [tweag/funflow: Functional workflows](https://github.com/tweag/funflow)
