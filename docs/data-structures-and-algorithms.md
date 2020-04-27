@@ -68,6 +68,7 @@
 * [i-am-tom/holmes: A reference library for constraint-solving with propagators and CDCL.](https://github.com/i-am-tom/holmes#%EF%B8%8F%EF%B8%8F-holmes)
 * [深さ優先探索で数独を解く - Qiita](https://qiita.com/rinse_/items/4f1f4f9938196ea5c1dd)
 * [foldrでナップザックDP - Qiita](https://qiita.com/rinse_/items/e15b91c76ec9cf5c88eb)
+* [Haskell for all: Blazing fast Fibonacci numbers using Monoids](http://www.haskellforall.com/2020/04/blazing-fast-fibonacci-numbers-using.html)
 
 ## Hackage
 * [The grid package](http://hackage.haskell.org/package/grid)
