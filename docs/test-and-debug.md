@@ -24,7 +24,6 @@
 * [Phantheck, the Type-Level QuickCheck](http://begriffs.com/posts/2015-12-06-quickcheck-for-types.html)
 * [24 days of Hackage, 2015: day 15: IOSpec: testing IO; and some QuickCheck tricks](http://conscientiousprogrammer.com/blog/2015/12/15/24-days-of-hackage-2015-day-15-iospec-testing-io-and-some-quickcheck-tricks/)
 * [Hspecベストプラクティス](http://fujimura.hatenablog.com/entry/2015/12/15/214332)
-* [Using doctest-discover with Stack](http://blog.rcook.org/blog/2016/doctest-discover-stack/)
 * [Tests vs. Types](http://kevinmahoney.co.uk/articles/tests-vs-types/)
 * [Testing GHC with Stackage](https://www.fpcomplete.com/blog/2016/02/testing-ghc-with-stackage)
 * [Speeding up the automated building and testing of our Haskell projects](http://bitemyapp.com/posts/2016-03-28-speeding-up-builds.html)
@@ -44,7 +43,6 @@
 * [stack runghcでtestを実行する](http://qiita.com/igrep/items/d36de71471b295a58b67)
 * [Lysxia/metamorph](https://github.com/Lysxia/metamorph) - Monomorphize polymorphic functions for testing
 * [Code Checking Automation - Computerphile - YouTube](https://www.youtube.com/watch?v=AfaNEebCDos)
-* [phadej/cabal-doctest: A Setup.hs helper for doctest running](https://github.com/phadej/cabal-doctest)
 * [hedgehog: Hedgehog will eat all your bugs.](https://hackage.haskell.org/package/hedgehog)
 * [State machine testing with Hedgehog](http://teh.id.au/posts/2017/07/15/state-machine-testing/index.html)
 * [Invert Your Mocks!](http://www.parsonsmatt.org/2017/07/27/inverted_mocking.html)
@@ -72,7 +70,6 @@
 * [Queensland FP Lab - Introduction to state machine testing: part 1](http://qfpl.io/posts/intro-to-state-machine-testing-1/)
 * [Queensland FP Lab - Introduction to state machine testing: part 2](http://qfpl.io/posts/intro-to-state-machine-testing-2/)
 * [Philip Cunningham - Testing distributed-process Apps Using Hspec](https://filib.io/posts/2018-12-24-testing-distributed-process-apps-with-hspec.html)
-* [Haskell で doctest（unittest）と QuickCheck（Property-based Testing） - ペンギン村 Tech Blog](http://blog.penginmura.tech/entry/2018/12/31/154536)
 * [Well-Typed - The Haskell Consultants: An in-depth look at <tt>quickcheck-state-machine</tt>](http://www.well-typed.com/blog/2019/01/qsm-in-depth/)
 * [psibi/fakedata: Haskell Library for producing quality fake data](https://github.com/psibi/fakedata)
 * [A gentle introduction to symbolic execution \| Monic Blog](https://blog.monic.co/a-gentle-introduction-to-symbolic-execution/)
@@ -138,6 +135,13 @@ Passed:
 * [HipSpec: Automating Inductive Proofs of Program Properties](http://www.cse.chalmers.se/~jomoa/papers/hipspec-atx.pdf)
 * [Automating Inductive Proofs using Theory Exploration](http://www.cse.chalmers.se/~nicsma/papers/hipspec-cade.pdf)
 * [HipSpec - Automating Inductive Proofs using Theory Exploration](http://www.cse.chalmers.se/~danr/hipspec-london-talk.pdf)
+
+### Doctest
+* [doctest: Test interactive Haskell examples](https://hackage.haskell.org/package/doctest)
+* [ドキュメントのテスト (doctest)](https://haskell.e-bigmoon.com/stack/test/doctest.html)
+* [Using doctest-discover with Stack](http://blog.rcook.org/blog/2016/doctest-discover-stack/)
+* [phadej/cabal-doctest: A Setup.hs helper for doctest running](https://github.com/phadej/cabal-doctest)
+* [Haskell で doctest（unittest）と QuickCheck（Property-based Testing） - ペンギン村 Tech Blog](http://blog.penginmura.tech/entry/2018/12/31/154536)
 
 ## デバッグ
 * [Debug.Trace](http://hackage.haskell.org/package/base/docs/Debug-Trace.html)
