@@ -314,8 +314,9 @@ Stack開発の知見が集められたライブラリ
 * [Dead simple Haskell Travis settings for cabal and stack](https://chshersh.github.io/posts/2019-02-25-haskell-travis)
 
 ### Circle CI
+* [言語ガイド：Haskell - CircleCI](https://circleci.com/docs/ja/2.0/language-haskell/)
 * [Stackで管理しているHaskellのプロジェクトをCircleCIでビルドする](http://qiita.com/fujimura/items/b619e0a4ca2028b0eb03)
-* [Circle CI configuration with yesod (haskell) backend and javascript frontend](http://swistak35.com/2016/03/07/Circle-ci-configuration-with-yesod-haskell-and-javascript-frontend/)
+* [Circle CI configuration with yesod (haskell) backend and javascript frontend - Rafał Łasocha](https://rafal.lasocha.net/blog/Circle-ci-configuration-with-yesod-haskell-and-javascript-frontend)
 * [CircleCI2.0でHaskellのテストを実行する – PSYENCE:MEDIA](https://tech.recruit-mp.co.jp/dev-tools/post-13981/)
 * [Circle CI 2.0 の設定](https://haskell.e-bigmoon.com/posts/2018/07-21-circleci-2.html)
 * [Building a Blog Part 5: Continuous integration with CircleCI](https://gaumala.com/posts/2019-01-22-continuous-integration-with-circle-ci.html)
