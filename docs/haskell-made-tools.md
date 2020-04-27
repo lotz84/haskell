@@ -409,6 +409,9 @@ Line 6:
 ### Slick
 * [ChrisPenner/Slick: Static site generator build on Shake configured in Haskell](https://github.com/ChrisPenner/slick)
 
+### Smopeck
+* [REST APIを簡単にMockできるツールSmopeckの紹介 - Qiita](https://qiita.com/autotaker1984/items/23b8ee186145b0489897)
+
 ### sprinkles
 * Web Development without programming
 * [tdammers/sprinkles](https://github.com/tdammers/sprinkles)
