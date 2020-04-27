@@ -131,6 +131,7 @@
 * [Notes for 'Thinking with Types: Type-level Programming in Haskell', Chapters 1–5 | abhinavsarkar.net](https://abhinavsarkar.net/posts/twt-notes-1/)
 * [A Type-Safe Approach to Categorized Data \| Eli Peery](https://epeery.com/typesafe-approach-to-categorized-data/)
 * [GHCの型レベル自然数を理解する - Qiita](https://qiita.com/mod_poppo/items/3a37424d299a9f71b757)
+* [A quick-and-dirty check that a type-level string starts with a certain prefix](https://tek.brick.do/464127de-4fd4-4fbb-9af2-f95e0e194e04)
 
 ```haskell
 data Bottom
