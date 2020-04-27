@@ -137,7 +137,7 @@ Passed:
 * [HipSpec - Automating Inductive Proofs using Theory Exploration](http://www.cse.chalmers.se/~danr/hipspec-london-talk.pdf)
 
 ### Doctest
-* [doctest: Test interactive Haskell examples](https://hackage.haskell.org/package/doctest)
+* [sol/doctest: An implementation of Python's doctest for Haskell](https://github.com/sol/doctest#readme)
 * [ドキュメントのテスト (doctest)](https://haskell.e-bigmoon.com/stack/test/doctest.html)
 * [Using doctest-discover with Stack](http://blog.rcook.org/blog/2016/doctest-discover-stack/)
 * [phadej/cabal-doctest: A Setup.hs helper for doctest running](https://github.com/phadej/cabal-doctest)
