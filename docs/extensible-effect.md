@@ -18,6 +18,10 @@
 * [Polysemy Internals: Freer Interpretations of Higher-Order Effects :: Reasonably Polymorphic](https://reasonablypolymorphic.com/blog/freer-higher-order-effects/)
 * [Haskell Explained · Polysemy is fun! - Part 1](https://haskell-explained.gitlab.io/blog/posts/2019/07/28/polysemy-is-cool-part-1/)
 * [hasura/eff: 🚧 a work in progress effect system for Haskell 🚧](https://github.com/hasura/eff)
+* Polysemy
+  * [Julien Debon's blog - Polysemy - Part I - Introduction](https://sir4ur0n.github.io/posts/intro-polysemy.html)
+  * [Julien Debon's blog - Polysemy - Part II - First example](https://sir4ur0n.github.io/posts/polysemy-first-example.html)
+  * [Julien Debon's blog - Polysemy - Part III - Tests](https://sir4ur0n.github.io/posts/polysemy-tests.html)
 
 ### チュートリアル
 * [Extensible Effects はモナド変換子に対する救世主になり得るか？](http://konn-san.com/prog/haskell/extensible-effects.html)
