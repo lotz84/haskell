@@ -108,6 +108,7 @@ class Functor f => Applicative f where
 * [Selective Applicative Functors](https://www.staff.ncl.ac.uk/andrey.mokhov/selective-functors.pdf)
 * [An Applicative for Transactional Validation - Lumi Engineering](https://www.lumi.dev/blog/an-applicative-for-transactional-validation)
 * [二分木をアプリカティブにする - Qiita](https://qiita.com/cutsea110/items/c500f675d95093fe1f24)
+* [関数型プログラミング-Applicativeって何が嬉しいの？- - Qiita](https://qiita.com/masaki_shoji/items/930434432fc3764685ba)
 
 ### Discrimination
 * [discrimination](http://hackage.haskell.org/package/discrimination)
