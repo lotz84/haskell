@@ -168,6 +168,7 @@ class Functor g => Distributive g where
 * [おじいさん、今日のご飯はAnamorphismですよ - Qiita](https://qiita.com/rinse_/items/022e212474e40da3a2fe)
 * [おじいさん、今日のご飯はHylomorphismですよ - Qiita](https://qiita.com/rinse_/items/8335294ebb7e93cc84c2)
 * [Terminal Coalgebra as Directed Limit \| Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2020/04/22/terminal-coalgebra-as-directed-limit/)
+* [Monoidal Catamorphism](https://github.com/BartoszMilewski/Publications/blob/master/MonoCata.pdf)
 
 ### mutu
 * [(PDF) Make it Practical: A Generic Linear-Time Algorithm for Solving Maximum-Weightsum Problems](https://www.researchgate.net/publication/2630929_Make_it_Practical_A_Generic_Linear-Time_Algorithm_for_Solving_Maximum-Weightsum_Problems)
