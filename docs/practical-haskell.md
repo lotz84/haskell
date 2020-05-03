@@ -246,31 +246,32 @@ Stack開発の知見が集められたライブラリ
 * [ぼくが普段使っているOS - NixOSの話 - dely engineering blog](https://tech.dely.jp/entry/2018/12/03/110227)
 
 ## Docker
-* [Dockerfile Linter](http://hadolint.lukasmartinelli.ch/)
+* [fpco/stack-build - Docker Hub](https://hub.docker.com/r/fpco/stack-build)
+* [fpco/stack-build-small - Docker Hub](https://hub.docker.com/r/fpco/stack-build-small)
+* [Docker + Haskell の Hello Worldビルド - Qiita](https://qiita.com/dd0125/items/a141000ead36b3823fde)
 * [How I deploy Haskell Code](http://www.alfredodinapoli.com/posts/2015-11-03-how-i-deploy-haskell-code.html)
-* [Docker Hosting – Run Docker Containers in any Cloud - Tutum](https://www.tutum.co/)
 * [Kubernetes for Haskell Services](https://www.fpcomplete.com/blog/2015/11/kubernetes)
 * [Dev and Deploy Haskell on Docker](http://begriffs.com/posts/2015-08-11-dev-deploy-haskell-docker.html)
-* [Docker container with ip address on local network](http://therning.org/magnus/posts/2015-10-22-000-docker-container-with-ip-address-on-local-network.html)
 * [The split-image approach to building minimal runtime Docker images](https://www.fpcomplete.com/blog/2015/12/docker-split-images)
-* [denibertovic/docker-hs](https://github.com/denibertovic/docker-hs)
-* [例によって stack と ghc-mod](http://qiita.com/lesguillemets/items/f80a25a8fb466f77a311)
-* [DockerfileをLintするにはhadolintが良さそう](http://blog.stormcat.io/entry/docker-hadolint)
-* [Windows 上で、 Docker を使って Haskell を簡単に始める方法](http://qiita.com/Sohma/items/cc7567fce647442958fd)
-* [beijaflor-io/haskell-language-dockerfile](https://github.com/beijaflor-io/haskell-language-dockerfile)
-* [Deni Bertovic :: Haskell and Docker: Down the rabbit hole and back](https://denibertovic.com/posts/haskell-and-docker-down-the-rabbit-hole-and-back/)
-* [Immutability, Docker, and Haskell's ST type](https://www.fpcomplete.com/blog/2017/02/immutability-docker-haskells-st-type)
 * [STATIC BINARIES FOR HASKELL: A CONVOLUTED APPROACH](https://vadosware.io/post/static-binaries-for-haskell-a-convoluted-approach/)
 * [Building Haskell Apps with Docker](https://www.fpcomplete.com/blog/2017/12/building-haskell-apps-with-docker)
-* [Shrinking Haskell Docker images using multi-stage builds \| Codurance \| Craft at Heart \| London \| Barcelona](https://codurance.com/2017/12/21/docker-multistage-haskell/)
-* [Haskell on Docker で Portable CLI を作ろう - Qiita](https://qiita.com/algas/items/fde155abbc9d8ae3f8c9)
+* [Static compilation with Stack](https://www.fpcomplete.com/blog/2016/10/static-compilation-with-stack)
 * [HaskellでもGoみたいにシングルバイナリでアプリケーションをデプロイしたい - Qiita](https://qiita.com/t10471/items/4afa598e1be5d6c7cc1f)
-* [Haskell のアプリケーション向けに軽量の Dockerイメージ を作る (和訳) - Qiita](https://qiita.com/rounddelta/items/d767f36d544427a9c60d)
-* [HaskellとstackとDockerと - Qiita](https://qiita.com/A_kirisaki/items/0f4a51a02934709124c4)
+
+### multi-stage builds
+* [Haskell on Docker で Portable CLI を作ろう - Qiita](https://qiita.com/algas/items/fde155abbc9d8ae3f8c9)
+* [Shrinking Haskell Docker images using multi-stage builds \| Codurance \| Craft at Heart \| London \| Barcelona](https://codurance.com/2017/12/21/docker-multistage-haskell/)
 * [Oleg's gists - Multi-stage docker build of Haskell webapp](http://oleg.fi/gists/posts/2019-07-04-docker-haskell-example.html)
+
+### Hadolint
+* [hadolint/hadolint: Dockerfile linter, validate inline bash, written in Haskell](https://github.com/hadolint/hadolint)
+* [DockerfileをLintするにはhadolintが良さそう](http://blog.stormcat.io/entry/docker-hadolint)
 * [「hadolint」にシバかれながら美しいDockerfileを書き上げる - 憂鬱な世界にネコパンチ！](https://nekopunch.hatenablog.com/entry/2018/10/08/213513)
-* [Docker + Haskell の Hello Worldビルド - Qiita](https://qiita.com/dd0125/items/a141000ead36b3823fde)
-* [dkubb/haskell-builder](https://github.com/dkubb/haskell-builder)
+* [beijaflor-io/haskell-language-dockerfile: Haskell Dockerfile linter, parser, pretty-printer and EDSL, forked from https://github.com/lukasmartinelli/hadolint.](https://github.com/beijaflor-io/haskell-language-dockerfile)
+
+### Docker Engine API
+* [denibertovic/docker-hs: A Haskell library for the Docker Engine API](https://github.com/denibertovic/docker-hs)
+* [Deni Bertovic :: Haskell and Docker: Down the rabbit hole and back](https://denibertovic.com/posts/haskell-and-docker-down-the-rabbit-hole-and-back/)
 
 ## ビルドツール
 ### Shake
@@ -312,6 +313,7 @@ Stack開発の知見が集められたライブラリ
 * [guillaume-nargeot/hpc-coveralls](https://github.com/guillaume-nargeot/hpc-coveralls)
 * [Deploying Haskell: Painless CI/CD with Travis, Docker and Digitalocean (or any linux VM)](https://www.dev-log.me/Deploying_Haskell:_Painless_CICD_with_Travis,_Docker_and_Digital_Ocean_(or_any_linux_VM)/)
 * [Dead simple Haskell Travis settings for cabal and stack](https://chshersh.github.io/posts/2019-02-25-haskell-travis)
+* [CI で Haskell Stack の Docker Integration するために](https://matsubara0507.github.io/posts/2019-09-21-stack-build-image.html)
 
 ### Circle CI
 * [言語ガイド：Haskell - CircleCI](https://circleci.com/docs/ja/2.0/language-haskell/)
