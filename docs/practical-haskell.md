@@ -246,6 +246,7 @@ Stack開発の知見が集められたライブラリ
 * [ぼくが普段使っているOS - NixOSの話 - dely engineering blog](https://tech.dely.jp/entry/2018/12/03/110227)
 
 ## Docker
+* [haskell - Docker Hub](https://hub.docker.com/_/haskell)
 * [fpco/stack-build - Docker Hub](https://hub.docker.com/r/fpco/stack-build)
 * [fpco/stack-build-small - Docker Hub](https://hub.docker.com/r/fpco/stack-build-small)
 * [Docker + Haskell の Hello Worldビルド - Qiita](https://qiita.com/dd0125/items/a141000ead36b3823fde)
