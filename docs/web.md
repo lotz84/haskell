@@ -109,6 +109,7 @@ Client
 * [tweag/sparkle: Haskell on Apache Spark.](https://github.com/tweag/sparkle)
 * [HaskellからWordPressのREST APIを叩くメモ - Qiita](https://qiita.com/mod_poppo/items/5e0472e7171a7574abc3)
 * [HaskellでWordPress eXtended RSS (WXR)ファイルをパースする - Qiita](https://qiita.com/mod_poppo/items/c0847757a6b7679a8891)
+* [Writing a discord library using Polysemy \| ~simmsb](https://nitros12.github.io/writing-a-discord-library-using-polysemy/)
 
 Scraping
 --------
