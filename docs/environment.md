@@ -23,6 +23,7 @@ Windowsの場合は以下の記事が参考になるかもしれません。
 * [WindowsでのHaskell開発環境構築(2017年秋版) - モナドとわたしとコモナド](http://fumieval.hatenablog.com/entry/2017/10/11/230117)
 * [The easiest way to setup a Haskell environment on Windows](https://hub.zhox.com/posts/introducing-haskell-dev/)
 * [Haskell-Guide/DevelopmentEnvironment.md at master · lambdaheart/Haskell-Guide](https://github.com/lambdaheart/Haskell-Guide/blob/master/DevelopmentEnvironment.md)
+* [Windows 上で、 Docker を使って Haskell を簡単に始める方法 - Qiita](https://qiita.com/Sohma/items/cc7567fce647442958fd)
 
 ## エディタ・IDE
 ### Haskell IDE Engine
