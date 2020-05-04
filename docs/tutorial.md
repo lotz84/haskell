@@ -99,6 +99,7 @@
 * [Reading Simple Haskell](https://soupi.github.io/rfc/reading_simple_haskell/)
 * [Keynote: Why Functional Programming Matters - John Hughes, Mary Sheeran (Lambda Days 2017) - YouTube](https://www.youtube.com/watch?v=1qBHf8DrWR8)
 * [Functional Programming in Haskell: Supercharge Your Coding](https://www.futurelearn.com/courses/functional-programming-haskell/1/)
+* [10 Reasons to Use Haskell](https://serokell.io/blog/10-reasons-to-use-haskell)
 * [To Kata Haskellen Evangelion](https://cosmius.bitbucket.io/tkhe/)
 * [A Type of Programming](https://atypeofprogramming.com/)
 * [google/haskell-trainings: Haskell 101 and 102: slides and codelabs](https://github.com/google/haskell-trainings)
