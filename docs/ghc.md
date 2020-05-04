@@ -144,6 +144,7 @@
 * [Channable - Lessons in Managing Haskell Memory](https://tech.channable.com/posts/2020-04-07-lessons-in-managing-haskell-memory.html)
 * [Well-Typed - The Haskell Consultants: DWARF support in GHC (part 1)](http://www.well-typed.com/blog/2020/04/dwarf-1/)
 * [Speeding up the Sixty compiler \| Olle Fredriksson's blog](https://ollef.github.io/blog/posts/speeding-up-sixty.html)
+* [mpickering - Tools for working on GHC](https://mpickering.github.io/posts/2019-06-11-ghc-tools.html)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
