@@ -32,6 +32,7 @@
 * [Purely Functional GTK+, Part 1: Hello World \| Haskell at Work](https://haskell-at-work.com/episodes/2019-01-10-purely-functional-gtk-part-1-hello-world.html)
 * [Purely Functional GTK+, Part 2: TodoMVC \| Haskell at Work](https://haskell-at-work.com/episodes/2019-01-19-purely-functional-gtk-part-2-todo-mvc.html)
 * [gi-gtk-declarative](https://owickstrom.github.io/gi-gtk-declarative/)
+* [Designing a GUI Framework \| potocpav.github.io](https://potocpav.github.io/programming/2020/05/01/designing-a-gui-framework.html)
 
 ## Game
 * [Asset management in a real time 3D engine in Haskell](http://phaazon.blogspot.fr/2015/06/asset-management-in-real-time-3d-engine.html)
