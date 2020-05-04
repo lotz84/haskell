@@ -368,6 +368,7 @@ Reader + Writer + State
 * [Imperative Haskell - Vaibhav Sagar](http://vaibhavsagar.com/blog/2017/05/29/imperative-haskell/)
 * [Having your cake and eating it – Permutive – Medium](https://medium.com/permutive/having-your-cake-and-eating-it-9f462bf3f908)
 * [mutable - Home](https://mutable.jle.im/)
+* [Immutability, Docker, and Haskell's ST type](https://www.fpcomplete.com/blog/2017/02/immutability-docker-haskells-st-type)
 
 ### IO Monad
 * [IO is Your Command Pattern](http://www.alexeyshmalko.com/2015/io-is-your-command-pattern/)
