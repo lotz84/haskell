@@ -251,6 +251,7 @@ class Monad m where
 * [いろいろなモナド at Nakameguro.hs #2 - Qiita](https://qiita.com/ryota-ka/items/544dbd82891510accbc0)
 * [モナドプログラミング - Qiita](https://qiita.com/karky7/items/3c45ca951061f2480e60)
 * [モノイドとモナドの対応関係 - Qiita](https://qiita.com/norkron/items/da2d1de205a4137931b7#_reference-5759d8b7c6720391cfdf)
+* [Oleg's gists - overloaded-0.2.1: Overloaded:Do](http://oleg.fi/gists/posts/2020-04-27-overloaded-local-do.html)
 
 ```haskell
 do x <- mx
