@@ -304,6 +304,7 @@ Web Server
 * [jfischoff/reuse-port-example](https://github.com/jfischoff/reuse-port-example)
 * [ondrap/haskell-gssapi](https://github.com/ondrap/haskell-gssapi)
 * [psibi/wai-slack-middleware: A Slack middleware for wai](https://github.com/psibi/wai-slack-middleware#readme)
+* [Haskellで超簡単にWebアプリケーションを作る(モナドも出てこないよ) - Qiita](https://qiita.com/lambda_funtaro/items/589c2a93749927c33c96)
 
 Web Application Framework
 -------------------------
