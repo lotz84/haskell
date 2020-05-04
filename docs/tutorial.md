@@ -118,6 +118,7 @@
 * [Learning Haskell](http://learn.hfm.io/) -- 図が豊富でわかりやすい
 * 🎥 [Haskell Basics](http://www.sonarlearning.co.uk/coursepage.php?topic=desktop&course=haskell-basics)
 * [Introduction to functional programming with Haskell](https://ocramz.github.io/haskell/tutorials/2015/08/21/haskell-tut-v1.html)
+* [λm.me - Consider Haskell](https://gilmi.me/blog/post/2020/04/28/consider-haskell)
 * [PLEAC-Haskell](http://pleac.sourceforge.net/pleac_haskell/index.html)
 * [A community maintained course for learning Haskell](http://openhaskell.com/)
 * [teaching Haskell to a mathematician](http://cs-syd.eu/posts/2016-02-07-teaching-haskell-to-a-mathematician.html)
