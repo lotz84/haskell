@@ -445,6 +445,7 @@ Reader + Writer + State
 * [Motor: Finite-State Machines in Haskell \| Func Da World](https://wickstrom.tech/programming/2017/10/27/motor-finite-state-machines-haskell.html)
 * [モナドの新しい力！スーパープリキュアモナド！ ～タイプセーフプリキュア！を支える技術 その4～](https://haskell.jp/blog/posts/2018/super-precure-monad.html)
 * [Using the Indexed State Monad and Dependent Types to represent a Game of Texas Hold ‘Em – Santi's Blog](https://santiagoweight.wordpress.com/2019/10/25/using-the-indexed-state-monad-and-dependent-types-to-represent-a-game-of-texas-hold-em/)
+* [Indexed Monads](https://wespiser.com/posts/2020-05-06-IxMonad.html)
 
 ### Super Monad
 * [スーパーモナドについて - Qiita](https://qiita.com/wgag/items/11a6e667011d530832e8)
