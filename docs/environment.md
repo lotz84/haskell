@@ -6,7 +6,7 @@
 
 以上のサービスはHaskellに対応しています。
 
-ローカル環境でHaskellを実行するにはstackを導入するのが便利です。
+ローカル環境でHaskellを実行するにはstackを導入すると便利です。
 
 * [The Haskell Tool Stack](https://docs.haskellstack.org/en/stable/README/)
 
@@ -24,6 +24,14 @@ Windowsの場合は以下の記事が参考になるかもしれません。
 * [The easiest way to setup a Haskell environment on Windows](https://hub.zhox.com/posts/introducing-haskell-dev/)
 * [Haskell-Guide/DevelopmentEnvironment.md at master · lambdaheart/Haskell-Guide](https://github.com/lambdaheart/Haskell-Guide/blob/master/DevelopmentEnvironment.md)
 * [Windows 上で、 Docker を使って Haskell を簡単に始める方法 - Qiita](https://qiita.com/Sohma/items/cc7567fce647442958fd)
+
+またrustupやpyenvのように複数のGHC, cabalを管理する機能だけを提供してくれるghcupというツールもあります。
+
+- [ghcup - The Haskell (GHC) toolchain installer](https://www.haskell.org/ghcup/)
+
+ghcupは2020/5/9時点ではWindowsに対応していないので注意してください。
+
+- [Queensland FP Lab - Managing GHC versions with ghcup](https://qfpl.io/posts/multiple-ghcs-ghcup/)
 
 ## エディタ・IDE
 ### Haskell IDE Engine
