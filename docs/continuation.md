@@ -88,6 +88,11 @@ reset e = return $ e `runCont` id
 
 出典: [MonadCont done right](https://www.haskell.org/haskellwiki/MonadCont_done_right)
 
+### Symmetric Lambda Calculs
+> 値（1 -> X）と継続(Y -> 0)は双対
+
+[Filinski, Andrzej. Declarative continuations and categorical duality. Univ., 1989.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.43.8729&rep=rep1&type=pdf)
+
 ### 米田埋め込み
 
 > The Yoneda embedding is familiar in category theory. The continuation passing transform is familiar in computer programming.
