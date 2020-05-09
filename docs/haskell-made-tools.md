@@ -1,21 +1,12 @@
-* [Complete interactive development program for Haskell - chrisdone/intero](https://github.com/chrisdone/intero)
-
-----
-
-### animate-frames
-* [jxv/animate-frames: 🎞️ Sprite frames to spritesheet & metadata](https://github.com/jxv/animate-frames)
-
-### antigen-hs
-* zsh のプラグインマネージャー
-* <https://github.com/Tarrasch/antigen-hs>
+## Selected tools made by Haskell for general purpose
 
 ### Basilica
 * [Basilica - Haskell製のモダンなフォーラム](http://www.moongift.jp/2016/01/basilica-haskell%E8%A3%BD%E3%81%AE%E3%83%A2%E3%83%80%E3%83%B3%E3%81%AA%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0/)
-* <https://github.com/ianthehenry/basilica>
+- [ianthehenry/basilica: It's kinda like a forum.](https://github.com/ianthehenry/basilica)
 
 ### bench
 * ベンチマークをとれるコマンド。繰り返し実行や結果のHTMLへの出力などができる。
-* <https://github.com/Gabriel439/bench>
+- [Gabriel439/bench: Command-line benchmark tool](https://github.com/Gabriel439/bench)
 
 ```bash
 $ bench 'sleep 1'  # Don't forget to quote the command line
@@ -35,16 +26,8 @@ std dev              47.69 μs   (40.09 μs .. 57.91 μs)
 variance introduced by outliers: 81% (severely inflated)
 ```
 
-### Blogdown
-* Markdownベースのブログように改良されたマークアップ言語
-* [Blogdown - Simple Markup for Blogging](https://blogdown.io/)
-
-### braces-be-gone
-* [ollef/braces-be-gone: Get those pesky braces out of your face](https://github.com/ollef/braces-be-gone)
-
 ### broch
-* A Haskell implementation of OpenID Connect.
-* <https://github.com/tekul/broch>
+- [tekul/broch: OAuth2 and OpenID Connect in Haskell](https://github.com/tekul/broch)
 
 ### brok
 * [smallhadroncollider/brok: Find broken links in text documents](https://github.com/smallhadroncollider/brok)
@@ -52,27 +35,12 @@ variance introduced by outliers: 81% (severely inflated)
 ### cabasa
 * [bradrn/cabasa: A generic 2D cellular automaton simulator](https://github.com/bradrn/cabasa#readme)
 
-### carettah
-* carettah: A presentation tool written with Haskell.
-* <https://hackage.haskell.org/package/carettah>
-* [とあるHaskellアプリでプレゼンする方法](https://kiwamu.wordpress.com/2016/12/01/%E3%81%A8%E3%81%82%E3%82%8Bhaskell%E3%82%A2%E3%83%97%E3%83%AA%E3%81%A7%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/)
-
 ### cgrep
 * プログラムの構造を意識したgrepが出来るコマンド
-* <https://github.com/awgn/cgrep>
+- [awgn/cgrep: Cgrep: a context-aware grep for source codes](https://github.com/awgn/cgrep)
 
 ### cherchord
 * [Aearnus/cherchord: 🎸 Find chords for any string instrument quicky & easily 🎸](https://github.com/Aearnus/cherchord)
-
-### chips
-* fish shell のプラグインマネージャー
-* <https://github.com/kinoru/chips>
-
-### clifm
-* [pasqu4le/clifm: Command Line Interface File Manager](https://github.com/pasqu4le/clifm)
-
-### clone-all
-* [silky/clone-all: clone all the github repositories of a particular user.](https://github.com/silky/clone-all)
 
 ### cmt
 * [smallhadroncollider/cmt: Write consistent git commit messages](https://github.com/smallhadroncollider/cmt)
@@ -83,59 +51,49 @@ variance introduced by outliers: 81% (severely inflated)
 ### curl-runnings
 * [aviaviavi/curl-runnings: A framework for writing declarative, curl based tests for your APIs](https://github.com/aviaviavi/curl-runnings)
 
-### Ec2-unikernel
-* Tool for uploading unikernels into EC2
-* [Ec2-unikernel: One step unikernel -> Amazon EC2 AMI](https://devel.unikernel.org/t/ec2-unikernel-one-step-unikernel-amazon-ec2-ami/167)
-
 ### Elm
-* [elm](http://elm-lang.org/)
-* [elm+electronで気楽に始めるFRP](http://qiita.com/yasuyuky/items/e28106e3dd7fed17d50f)
-* [Building elm with stack](http://therning.org/magnus/posts/2015-10-13-000-building-elm-with-stack.html)
-* [Elm開発環境について - Qiita](https://qiita.com/sand/items/9afaef65c6f1ebf453da)
+- [elm](http://elm-lang.org/)
+- [elm+electronで気楽に始めるFRP](http://qiita.com/yasuyuky/items/e28106e3dd7fed17d50f)
+- [Building elm with stack](http://therning.org/magnus/posts/2015-10-13-000-building-elm-with-stack.html)
+- [Elm開発環境について - Qiita](https://qiita.com/sand/items/9afaef65c6f1ebf453da)
+- [elm/compiler: Compiler for Elm, a functional language for reliable webapps.](https://github.com/elm/compiler/)
 
 ### erd
-* テキストからER図に変換するツール
-* Translates a plain text description of a relational database schema to a graphical entity-relationship diagram.
-* <https://github.com/BurntSushi/erd>
-
-### fpsheet
-* [RKlompUU/fpsheet](https://github.com/RKlompUU/fpsheet) - FPSheet: A Spreadsheet program with Haskell as the scripting language
+- テキストからER図に変換するツール
+- [BurntSushi/erd: Translates a plain text description of a relational database schema to a graphical entity-relationship diagram.](https://github.com/BurntSushi/erd)
 
 ### gitit
-* [jgm/gitit](https://github.com/jgm/gitit) - A wiki using HAppS, pandoc, and git
-* [WikiサーバGititの省メモリ運営](http://qiita.com/pjmtdw/items/7ade90ba18182e493fa5)
+- [jgm/gitit: A wiki using HAppS, pandoc, and git](https://github.com/jgm/gitit)
+- [Haskell製のWikiエンジン·Gitit MOONGIFT](https://www.moongift.jp/2010/01/gitit/)
 
 ### git-annex
 * gitでバイナリファイル等を効率的に扱うツール
 * <https://git-annex.branchable.com/>
+- [peti/git-annex](https://github.com/peti/git-annex)
 
 ### gifcurry
-* 動画からテキスト入りのgifを生成するGUIツール。CLIもある
-* <https://github.com/lettier/gifcurry>
+- 動画からテキスト入りのgifを生成するGUIツール。CLIもある
+- [lettier/gifcurry: 😎 The open-source, Haskell-built video editor for GIF makers.](https://github.com/lettier/gifcurry)
 
 ```bash
 $ gifcurry_cli ./in.mp4 ./out.gif start_second duration quality 'Optional top text.' 'Optional bottom text.'
 ```
 
 ### gipeda
-* Git Performance Dashboard
-* <https://github.com/nomeata/gipeda>
+- [nomeata/gipeda: Git Performance Dashboard](https://github.com/nomeata/gipeda)
 
 ### github-backup
-* Githubのレポジトリのバックアップを取ってくれるコマンド
-* `including branches, tags, other forks, issues, comments, wikis, milestones, pull requests, watchers, and stars.`
-* [joeyh/github-backup](https://github.com/joeyh/github-backup)
+- Githubのレポジトリのバックアップを取ってくれるコマンド
+- > including branches, tags, other forks, issues, comments, wikis, milestones, pull requests, watchers, and stars.
+- [github-backup: backs up everything github knows about a repository, to the repository](https://hackage.haskell.org/package/github-backup)
 
 ### givegif
-* コマンドライン上でgifを探して表示できるコマンド
-* <https://github.com/passy/givegif>
-
-### goat-guardian
-* Reverse proxy that handles authentication
-* [arow-oss/goat-guardian: Reverse proxy that handles authentication](https://github.com/arow-oss/goat-guardian)
+- コマンドライン上でgifを探して表示できるコマンド
+- [passy/givegif: GIFs on the command line](https://github.com/passy/givegif)
 
 ### franz
-* [単純で頑強なメッセージングシステム、franz - モナドとわたしとコモナド](http://fumieval.hatenablog.com/entry/2019/09/07/115437)
+- [単純で頑強なメッセージングシステム、franz - モナドとわたしとコモナド](http://fumieval.hatenablog.com/entry/2019/09/07/115437)
+- [tsurucapital/franz: Append-only list persist & query system](https://github.com/tsurucapital/franz)
 
 ### Hakyll
 * 静的サイトジェネレータ
@@ -160,125 +118,56 @@ $ gifcurry_cli ./in.mp4 ./out.gif start_second duration quality 'Optional top te
 * [Dependent Types Blog - Creating Blog with Hakyll, Nix and Deploying on Amazon EC2](http://deptype.com/posts/2019-02-21-create-blog-nix-hakyll-aws.html)
 * [spam - Haskell, Hakyll and Github Actions](https://vllmrt.net/spam/hakyll-github-actions-pages.html)
 
-### haskell-player
-* A terminal music player based on afplay
-* <https://github.com/potomak/haskell-player>
-
 ### hawk
 * Haskellの文法が使えるawkのようなコマンド
-* <https://github.com/gelisam/hawk>
+- [gelisam/hawk: Haskell text processor for the command-line](https://github.com/gelisam/hawk)
 * [手軽にHaskell できる hawk が楽しい](http://blog.eiel.info/blog/2014/02/14/hawk/)
 * Related tools
-  * [lukasmartinelli/hwk](https://github.com/lukasmartinelli/hwk)
-  * [tanakh/hoe](https://github.com/tanakh/hoe)
-  * [mitchellwrosen/h](https://github.com/mitchellwrosen/h)
+  - [mitchellwrosen/h](https://github.com/mitchellwrosen/h)
+  - [tanakh/hoe: Haskell One-liner Evaluator](https://github.com/tanakh/hoe)
+  - [lukasmartinelli/hwk: A Haskell based awk and sed alternative](https://github.com/lukasmartinelli/hwk)
 
 ```bash
 $ cat /etc/passwd | hawk -d: -m 'head'
 root
 ```
 
-### hcraft
-* [nandor/hcraft: Haskell clone of a certain game](https://github.com/nandor/hcraft)
-
-### hell
-* Haskellの式を直接評価することができるShell
-* <https://github.com/chrisdone/hell>
-
-```bash
-Welcome to Hell!
-chris:~/$ ls
-Backups  Desktop    Downloads  Emacs  Mail  Pictures  Renoise  Samples
-Books    Documents  Dropbox    Flash  Org   Projects  Repos    Scripts
-chris:~/$ 2 * 3
-forall a. GHC.Num.Num a => a
-6
-```
-
-### hidenticon
-* Githubのようなidenticonを作成するコマンド
-* <https://github.com/sgillis/hidenticon>
-
-```bash
-$ hidenticon --hash 3238947aafb9293801decf1230329 --size 128 -o 3238947aafb9293801decf1230329.png
-```
-
-![](https://i.gyazo.com/2d6a9761a6697609bc4c26e348b54ae9.png)
-
-### hledger
-* 会計管理ツール
-* <http://hledger.org/>
-* [ledger/ledger4](https://github.com/ledger/ledger4) - A rewrite of Ledger's core mathematical concepts in Haskell
-
-### hmemo
-* [mbid/hmemo: Spaced repetition of flash cards on the command line](https://github.com/mbid/hmemo)
-
-### hobbes
-* ファイルの変更を検知してくれるコマンド。Lunux, OS X, Windows対応
-* <https://github.com/jhickner/hobbes>
-
-```bash
-# automatic GHC recompile when your source files change
-$ hobbes "*.hs" | xargs -n1 ghc --make
-```
-
 ### hoodle
-* Hoodle is a pen notetaking program developed in Haskell using gtk2hs
-* [hoodle - free pen note taking program](http://ianwookim.org/hoodle/)
-
-### howerpoint
-* ghciベースのプレゼンテーションツール
-* <https://github.com/fokot/howerpoint>
+- [wavewave/hoodle: hoodle : A pen notetaking program written in haskell](https://github.com/wavewave/hoodle)
 
 ### hsp
-* [bawolk/hsp: Haskell command line text stream processor](https://github.com/bawolk/hsp#readme)
+- [bawolk/hsp: Haskell command line text stream processor](https://github.com/bawolk/hsp#readme)
 
 ### identicon
 * Flexible generation of identicons in Haskell
-* <https://github.com/mrkkrp/identicon>
+- [mrkkrp/identicon: Flexible generation of identicons in Haskell](https://github.com/mrkkrp/identicon)
 * [The Identicon package](https://mrkkrp.github.io/posts/the-identicon-package.html)
 
-### jsn
-* An absolutely simple & terse CLI app to manipulate JSON data
-* <goldenlynx/jsn>
-
 ### KOMPOSITION
-* The video editor built for screencasters
+- [owickstrom/komposition: The video editor built for screencasters](https://github.com/owickstrom/komposition)
 * [Komposition](https://owickstrom.github.io/komposition/)
 * [Writing a Screencast Video Editor in Haskell \| Func Da World](https://wickstrom.tech/programming/2018/10/26/writing-a-screencast-video-editor-in-haskell.html)
 
-### LambdaCms
-* Haskell製のCMS
-* [LambdaCms](http://lambdacms.org/)
-
 ### lamdu
-* lamdu - towards the next generation IDE
-* <https://github.com/lamdu/lamdu>
-* [Lamdu - 次世代のライブコーディング環境 MOONGIFT](https://www.moongift.jp/2019/07/lamdu-%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%96%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E7%92%B0%E5%A2%83/)
+- [Lamdu - 次世代のライブコーディング環境 MOONGIFT](https://www.moongift.jp/2019/07/lamdu-%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%96%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E7%92%B0%E5%A2%83/)
+- [lamdu/lamdu: lamdu - towards the next generation IDE](https://github.com/lamdu/lamdu)
 
 ### life-sync
-* [kowainik/life-sync: 🔄 Synchronize personal configs across multiple machines](https://github.com/kowainik/life-sync)
+- [kowainik/life-sync: 🔄 Synchronize personal configs across multiple machines](https://github.com/kowainik/life-sync)
 
 ### link
-* A simple multithreded chat server in haskell
-* <https://github.com/abhin4v/link>
+- [abhin4v/link: A simple multithreaded chat server in haskell](https://github.com/abhin4v/link)
 
 ### markov-bot
 * 過去のツイートを学習してボットを作ってくれるツール
-* <https://github.com/ryota-ka/markov-bot>
-
-### mdviewer
-* [agustinmista/mdviewer: Minimalistic Markdown viewer/converter with built-in Css stylesheets support.](https://github.com/agustinmista/mdviewer)
-
-### mios
-* [shnarazk/mios: A SAT solver written in Haskell.](https://github.com/shnarazk/mios)
+- [ryota-ka/markov-bot: Generates random sentences from your tweet history using the Markov chain, and post them into Twitter.](https://github.com/ryota-ka/markov-bot)
 
 ### Movie Monad
-* [lettier/movie-monad: A desktop video player built with Haskell that uses GStreamer and GTK+.](https://github.com/lettier/movie-monad)
-* [Let's make a GTK Video Player with Haskell](https://lettier.github.io/posts/2017-08-30-haskell-gtk-video-player.html)
+- [lettier/movie-monad: A free and simple to use video player made with Haskell.](https://github.com/lettier/movie-monad)
+- [Let's make a GTK Video Player with Haskell](https://lettier.github.io/posts/2017-08-30-haskell-gtk-video-player.html)
 
 ### ngless
-* [luispedro/ngless: NGLess: NGS with less work](https://github.com/luispedro/ngless)
+- [luispedro/ngless: NGLess: NGS with less work](https://github.com/luispedro/ngless)
 
 ### Pandoc
 * ドキュメントを別の形式のドキュメントに変換できるコマンド
@@ -287,13 +176,13 @@ $ hobbes "*.hs" | xargs -n1 ghc --make
 * [Convert documents (doc, odt, html, epub, etc.) in Shell with pandoc](https://www.youtube.com/watch?v=BkTYHChkDoE)
 
 ### PaperBoy
-* [2mol/pboy: a small .pdf management utility](https://github.com/2mol/pboy)
+- [2mol/pboy: a small .pdf management tool with a command-line UI](https://github.com/2mol/pboy)
 
 > This tool helps renaming those files without too much fuss. It will rename/move documents to a specified folder, and it even gives some filename suggestions by looking at the file content and the pdf metadata.
 
 ### par
 * Linuxのコマンドを簡単に並列実行させられるコマンド
-* [k-bx/par](https://github.com/k-bx/par)
+- [k-bx/par: Small utility that runs multiple computations in parallel](https://github.com/k-bx/par)
 
 ```bash
 $ par "echo foo; sleep 1; echo foo; sleep 1; echo foo" "echo bar; sleep 1; echo bar; sleep 1; echo bar" && echo "success"
@@ -307,12 +196,10 @@ success
 ```
 
 ### patat
-* Terminal-based presentations using Pandoc
-* <https://github.com/jaspervdj/patat>
+- [jaspervdj/patat: Terminal-based presentations using Pandoc](https://github.com/jaspervdj/patat)
 
 ### Pomohoro
-* A small pomodoro timer based on CLI usage and FreeDesktop.org notifications.
-* <https://github.com/kqr/Pomohoro>
+- [kqr/Pomohoro: [DONE] A small pomodoro timer based on CLI usage and FreeDesktop.org notifications.](https://github.com/kqr/Pomohoro)
 
 ### PostgREST
 * PostgreSQLの機能をREST APIに変換してくれるツール
@@ -320,63 +207,48 @@ success
 * [Declaring RESTful APIs with PostgREST](http://begriffs.com/posts/2014-12-30-intro-to-postgrest.html)
 * [A Tour of PostgREST](http://begriffs.com/posts/2016-03-20-postgrest-tour.html)
 
-### powerline-hs
-* A lightning fast reimplementation of the Powerline prompt generator in Haskell.
-* <https://github.com/rdnetto/powerline-hs>
-
-### ptcpd
-* Plain Text Chat Protocol daemon
-* <https://gitgud.io/hae/ptcpd>
-
 ### PureScript
-* <http://www.purescript.org/>
-* [andyarvanitis/pure11](https://github.com/andyarvanitis/pure11)
-* [Stack Safety for Free](http://functorial.com/stack-safety-for-free/index.pdf)
-* [slamdata/purescript-halogen](https://github.com/slamdata/purescript-halogen)
-* [実例によるPureScript](http://hiruberuto.bitbucket.org/purescript/)
-* [purescript/purescript-free](https://github.com/purescript/purescript-free)
-* [Flare](http://david-peter.de/articles/flare/)
-* [Pursuit](http://pursuit.purescript.org/)
-* [PureScript for the Haskeller](http://www.arow.info/blog/posts/2015-12-17-purescript-intro.html)
-* [kRITZCREEK/psc-ide](https://github.com/kRITZCREEK/psc-ide)
-* [Type-safe client-server communication with PureScript](http://frigoeu.github.io/phantomtypes.html)
-* [【翻訳】PureScriptとHaskellの違い　＋α - Qiita](https://qiita.com/hiruberuto/items/3eb21ef81b3d9ac5a930)
+- <http://www.purescript.org/>
+- [purescript/purescript: A strongly-typed language that compiles to JavaScript](https://github.com/purescript/purescript)
+- [potomak/haskell-player: A terminal music player based on afplay](https://github.com/potomak/haskell-player)
+- [goldenlynx/jsn: An absolutely simple & terse CLI app to manipulate JSON data](https://github.com/goldenlynx/jsn)
+- [andyarvanitis/pure11](https://github.com/andyarvanitis/pure11)
+- [Stack Safety for Free](http://functorial.com/stack-safety-for-free/index.pdf)
+- [slamdata/purescript-halogen](https://github.com/slamdata/purescript-halogen)
+- [実例によるPureScript](http://hiruberuto.bitbucket.org/purescript/)
+- [purescript/purescript-free](https://github.com/purescript/purescript-free)
+- [Flare](http://david-peter.de/articles/flare/)
+- [Pursuit](http://pursuit.purescript.org/)
+- [PureScript for the Haskeller](http://www.arow.info/blog/posts/2015-12-17-purescript-intro.html)
+- [kRITZCREEK/psc-ide](https://github.com/kRITZCREEK/psc-ide)
+- [Type-safe client-server communication with PureScript](http://frigoeu.github.io/phantomtypes.html)
+- [【翻訳】PureScriptとHaskellの違い　＋α - Qiita](https://qiita.com/hiruberuto/items/3eb21ef81b3d9ac5a930)
 
 ### qhs
 * [CSVファイルをSQLのクエリで集計できるqコマンドをHaskellで実装してみました！](http://itchyny.hatenablog.com/entry/2016/08/08/100000)
-
-### Radicle
-* A peer-to-peer stack for code collaboration
-* [Radicle 🌱](https://radicle.xyz/)
-
-### Rasa
-* [Rasa - Modular Text-Editor](https://www.reddit.com/r/haskell/comments/5l0a2i/rasa_modular_texteditor/)
-* <https://github.com/ChrisPenner/rasa>
-
-### require
-* [require - Scrap your qualified import clutter](https://theam.github.io/require/index.html)
+- [itchyny/qhs: SQL queries on CSV and TSV files](https://github.com/itchyny/qhs)
 
 ### vado
 * [chrisdone/vado: A web browser engine written in Haskell](https://github.com/chrisdone/vado)
 
 ### vgrep
-* A pager for grep
-* <https://github.com/fmthoma/vgrep>
+- [fmthoma/vgrep: A pager for grep](https://github.com/fmthoma/vgrep)
 
 ### vimus
-* Music Player Daemon のクライアント
-* <https://github.com/vimus/vimus>
+- Music Player Daemon のクライアント
+- [vimus/vimus: An MPD client with vim-like key bindings, written in Haskell](https://github.com/vimus/vimus)
 
 ![](https://i.gyazo.com/de527076bbfd5bcfd3424f0028e58316.png)
 
 ### Scarf
-* [Scarf](https://scarf.sh/)
-* [aviaviavi/scarf: Helping open-source developers distribute and monetize their software](https://github.com/aviaviavi/scarf)
+- [Scarf](https://scarf.sh/)
+- [aviaviavi/scarf: Helping open-source developers distribute and monetize their software](https://github.com/aviaviavi/scarf)
 
 ### ShellCheck
-* シェルスクリプトのバグなどをチェックしてくれるツール
-* [ShellCheck](http://www.shellcheck.net/)
-* [Lessons learned from writing ShellCheck, GitHub’s now most starred Haskell project – Vidar's Blog](https://www.vidarholen.net/contents/blog/?p=859)
+- シェルスクリプトのバグなどをチェックしてくれるツール
+- [ShellCheck](http://www.shellcheck.net/)
+- [Lessons learned from writing ShellCheck, GitHub’s now most starred Haskell project – Vidar's Blog](https://www.vidarholen.net/contents/blog/?p=859)
+- [koalaman/shellcheck: ShellCheck, a static analysis tool for shell scripts](https://github.com/koalaman/shellcheck)
 
 ```bash
 $ shellcheck myscript
@@ -398,86 +270,98 @@ Line 6:
 ```
 
 ### Simula
-* [SimulaVR/Simula](https://github.com/SimulaVR/Simula) - 3D Window Manager for Linux
+- [SimulaVR/Simula: Linux VR Desktop](https://github.com/SimulaVR/Simula)
 
 ### SitePipe
-* [ChrisPenner/SitePipe: Yet another static site generator - non-opinionated, value-level. Less magic == easier to understand](https://github.com/chrispenner/sitepipe)
-
-### slacky
-* <https://github.com/mitchellwrosen/slacky/wiki>
+- [ChrisPenner/SitePipe: Yet another static site generator - non-opinionated, value-level. Less magic == easier to understand](https://github.com/chrispenner/sitepipe)
 
 ### Slick
 * [ChrisPenner/Slick: Static site generator build on Shake configured in Haskell](https://github.com/ChrisPenner/slick)
 
 ### Smopeck
+- [autotaker/smopeck: Mocking and Specification Tool for API prototyping](https://github.com/autotaker/smopeck)
 * [REST APIを簡単にMockできるツールSmopeckの紹介 - Qiita](https://qiita.com/autotaker1984/items/23b8ee186145b0489897)
 
 ### sprinkles
-* Web Development without programming
-* [tdammers/sprinkles](https://github.com/tdammers/sprinkles)
+- [tdammers/sprinkles: Web Development without programming](https://github.com/tdammers/sprinkles)
 
 ### Stutter
-* [nmattia/stutter: CLI string generator based on regex-like operations](https://github.com/nmattia/stutter)
-* [Stutter: the anti-grep](http://www.nmattia.com/posts/2017-05-01-release-stutter.html)
+- [nmattia/stutter: CLI string generator based on regex-like operations](https://github.com/nmattia/stutter)
+- [Stutter: the anti-grep](http://www.nmattia.com/posts/2017-05-01-release-stutter.html)
 
 ### Super User Spark
-* [NorfairKing/super-user-spark](https://github.com/NorfairKing/super-user-spark)
+- [NorfairKing/super-user-spark: A safe way to never worry about your beautifully configured system again. (NO LONGER MAINTAINED. Use Nixos instead.)](https://github.com/NorfairKing/super-user-spark)
 
 ### tamarin-prover
-* Main repository of the Tamarin prover for security protocol verification.
-* <https://github.com/tamarin-prover/tamarin-prover>
+- [Tamarin Prover](https://tamarin-prover.github.io/)
+- [tamarin-prover/tamarin-prover: Main source code repository of the Tamarin prover for security protocol verification.](https://github.com/tamarin-prover/tamarin-prover)
 
 ### Tart
 * [Tart - なんと！ターミナル上で動作するドローアプリ MOONGIFT](https://www.moongift.jp/2019/03/tart-%e3%81%aa%e3%82%93%e3%81%a8%ef%bc%81%e3%82%bf%e3%83%bc%e3%83%9f%e3%83%8a%e3%83%ab%e4%b8%8a%e3%81%a7%e5%8b%95%e4%bd%9c%e3%81%99%e3%82%8b%e3%83%89%e3%83%ad%e3%83%bc%e3%82%a2%e3%83%97%e3%83%aa/)
+- [jtdaugherty/tart: Tart - draw ASCII art in the terminal with your mouse!](https://github.com/jtdaugherty/tart)
 
 ### Taskell
-* [smallhadroncollider/taskell: A command line task manager written in Haskell](https://github.com/smallhadroncollider/taskell)
+- [smallhadroncollider/taskell: Command-line Kanban board/task manager with support for Trello boards and GitHub projects](https://github.com/smallhadroncollider/taskell)
 
 ### TaskLite
 * [Introduction - TaskLite Documentation](http://tasklite.ad-si.com/)
-* > TaskLite is a CLI task manager built with Haskell and SQLite.
-
-### ThreadScope
-* A graphical tool for profiling parallel Haskell programs
-* <https://github.com/haskell/ThreadScope>
+- [ad-si/TaskLite: The CLI task manager for power users](https://github.com/ad-si/TaskLite)
 
 ### tomlcheck
 * [vmchale/tomlcheck](https://github.com/vmchale/tomlcheck) - A syntax checker for TOML files
 
-### ttask
-* スクラムに則ったCLIのタスク管理ツール
-* <https://github.com/tokiwoousaka/ttask>
-
 ### unused
-* A command line tool to identify unused code.
-* <https://github.com/joshuaclayton/unused>
+- [joshuaclayton/unused: A command line tool to identify unused code.](https://github.com/joshuaclayton/unused)
 
 ### waymonad
 * [waymonad/waymonad: A wayland compositor based on ideas from and inspired by xmonad](https://github.com/waymonad/waymonad)
-
-### webify
-* webfont generator - converts ttf to woff, eot and svg
-* <https://github.com/ananthakumaran/webify>
 
 ### wire
 * [Wire · The most secure collaboration platform](https://wire.com/en/)
 * [wireapp/wire-server: 🇪🇺 Wire back-end services](https://github.com/wireapp/wire-server)
 
-### wrecker
-* `wrecker` is an HTTP benchmarking library and executable for profiling several API actions.
-* <https://github.com/skedgeme/wrecker>
-
 ### wstunnel
-* [erebe/wstunnel: Tunneling over websocket protocol - Static binary available](https://github.com/erebe/wstunnel)
+- [erebe/wstunnel: Tunneling over websocket protocol - Static binary available](https://github.com/erebe/wstunnel)
 
 ### xmonad
-* X11のウィンドウマネージャ
-* <http://xmonad.org/>
-* [xmonad.hsでモジュール分割をする](http://qiita.com/aiya000/items/be55d899e9c92dd57c35)
+- X11のウィンドウマネージャ
+- [xmonad \| the tiling window manager that rocks](https://xmonad.org/)
+- [xmonad.hsでモジュール分割をする](http://qiita.com/aiya000/items/be55d899e9c92dd57c35)
 
 ### Yi
 - Haskellでカスタマイズできるエディタ
-- <https://github.com/yi-editor/yi>
+- [yi-editor/yi: The Haskell-Scriptable Editor](https://github.com/yi-editor/yi)
+
+### Other tools for general purpose
+Most of the stuff here is already unmaintained, but as a tool implementation it would be helpful.
+
+- [jxv/animate-frames: 🎞️ Sprite frames to spritesheet & metadata](https://github.com/jxv/animate-frames)
+- [Tarrasch/antigen-hs: A fast zsh plugin manager](https://github.com/Tarrasch/antigen-hs)
+- [Blogdown - Simple Markup for Blogging](https://blogdown.io/)
+- [ollef/braces-be-gone: Get those pesky braces out of your face](https://github.com/ollef/braces-be-gone)
+- [master-q/carettah: Carettah := Make your presentation more fun!](https://github.com/master-q/carettah)
+- [xtendo-org/chips: A fast, lightweight, and concurrent plugin manager for the fish shell, written in Haskell](https://github.com/xtendo-org/chips)
+- [pasqu4le/clifm: Command Line Interface File Manager](https://github.com/pasqu4le/clifm)
+- [silky/clone-all: clone all the github repositories of a particular user.](https://github.com/silky/clone-all)
+- [GaloisInc/ec2-unikernel: Tool for uploading unikernels into EC2](https://github.com/GaloisInc/ec2-unikernel)
+- [RKlompUU/FPSheet: FPSheet: A Spreadsheet program with Haskell as the scripting language](https://github.com/RKlompUU/fpsheet)
+- [arow-oss/goat-guardian: Reverse proxy that handles authentication](https://github.com/arow-oss/goat-guardian)
+- [nandor/hcraft: Haskell clone of a certain game](https://github.com/nandor/hcraft)
+- [chrisdone/hell](https://github.com/chrisdone/hell)
+- [sgillis/hidenticon: CLI tool to generate GitHub-like identicons](https://github.com/sgillis/hidenticon)
+- [mbid/hmemo: Spaced repetition of flash cards on the command line](https://github.com/mbid/hmemo)
+- [jhickner/hobbes: A cross-platform file activity monitor](https://github.com/jhickner/hobbes)
+- [fokot/howerpoint](https://github.com/fokot/howerpoint) - forget about Powerpoint!!
+- [lambdacms/lambdacms: A CMS in Haskell using Yesod: performant, developer friendly & type safe.](https://github.com/lambdacms/lambdacms)
+- [ledger/ledger4: A rewrite of Ledger's core mathematical concepts in Haskell](https://github.com/ledger/ledger4)
+- [agustinmista/mdviewer: Minimalistic Markdown viewer/converter with built-in Css stylesheets support.](https://github.com/agustinmista/mdviewer)
+- [shnarazk/mios: A SAT solver written in Haskell.](https://github.com/shnarazk/mios)
+- [rdnetto/powerline-hs: A lightning fast reimplementation of the Powerline prompt generator in Haskell.](https://github.com/rdnetto/powerline-hs)
+- [Hector A. Escobedo / ptcpd · GitLab](https://gitgud.io/hae/ptcpd) - Plain Text Chat Protocol daemon
+- [ChrisPenner/rasa: Extremely modular text editor built in Haskell](https://github.com/ChrisPenner/rasa)
+- [tokiwoousaka/ttask: This is task management tool for yourself, that inspired by scrum.](https://github.com/tokiwoousaka/ttask)
+- [ananthakumaran/webify: webfont generator - converts ttf to woff, eot and svg](https://github.com/ananthakumaran/webify)
+- [skedgeme/wrecker: An HTTP Benchmarking Library](https://github.com/skedgeme/wrecker)
 
 ## Tools for Haskell
 ### argon
@@ -536,6 +420,10 @@ Line 6:
 ### mega-sdist
 * [mega-sdist: the mega repo helper](https://www.yesodweb.com/blog/2017/11/mega-sdist)
 
+### require
+* [require - Scrap your qualified import clutter](https://theam.github.io/require/index.html)
+- [theam/require: 🔌 Scrap your qualified import clutter](https://github.com/theam/require)
+
 ### self-extract
 * [brandonchinn178/self-extract: A Haskell library to make self-extracting executables](https://github.com/brandonchinn178/self-extract)
 
@@ -555,6 +443,9 @@ Line 6:
 ### thank-you-stars
 * [y-taka-23/thank-you-stars](https://github.com/y-taka-23/thank-you-stars) - Give your dependencies stars on GitHub!
 * [Haskell ライブラリにスターを送るツール thank-you-stars を作ってみました](http://ccvanishing.hateblo.jp/entry/2017/09/14/150435)
+
+### ThreadScope
+- [haskell/ThreadScope: A graphical tool for profiling parallel Haskell programs](https://github.com/haskell/ThreadScope)
 
 ### trackit
 * ファイルやディレクトリの変更を検知してコマンドを実行してくれるツール
