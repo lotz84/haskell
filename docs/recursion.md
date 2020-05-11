@@ -185,6 +185,7 @@ class Functor g => Distributive g where
 * [Promorphisms, Pre and Post](https://jtobin.io/promorphisms-pre-post)
 * [somehow-morphisms on fixed point written in Haskell](https://qiita.com/cutsea110/items/69889a99d30b627bc04a)
 * [The Comonad.Reader » Unnatural Transformations](http://comonad.com/reader/2008/unnatural-transformations/)
+- [Recursion Schemes for Higher Algebras \| Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2018/08/20/recursion-schemes-for-higher-algebras/)
 
 ### 動的計画法
 * [Haskell で動的計画法を書くための3つの方針](http://d.hatena.ne.jp/toslunar/20100408/1270719176)
