@@ -303,6 +303,7 @@
 * [[論文/ライブラリ紹介] Algebraic graphs with class (functional pearl) - Qiita](https://qiita.com/maton/items/f4cd308b1c389661d1e9)
 * [jaspervdj - Dynamic Graphs](https://jaspervdj.be/posts/2019-01-11-dynamic-graphs.html)
 * [alx741/graphite: Haskell graphs and networks library](https://github.com/alx741/graphite#readme)
+- [pkamenarsky/knit: Ties the knot on data structures that reference each other by unique keys](https://github.com/pkamenarsky/knit)
 
 ## Time
 * [time: A time library](http://hackage.haskell.org/package/time)
