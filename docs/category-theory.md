@@ -95,3 +95,4 @@
 * [圏と論理へのいざない・レクチャーノート](http://www.math.mi.i.nagoya-u.ac.jp/~kihara/pdf/teach/LectureNotes-category-theory.pdf)
 * [[2004.04526] Coend Calculus and Open Diagrams](https://arxiv.org/abs/2004.04526)
 * [Category Theory in Context](http://www.math.jhu.edu/~eriehl/context.pdf)
+- [圏論における普遍性と普遍射 - 再帰の反復blog](https://lemniscus.hatenablog.com/entry/2020/05/10/215316)
