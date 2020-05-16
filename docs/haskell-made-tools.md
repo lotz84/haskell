@@ -515,6 +515,7 @@ $ trackit --watch-dir=. --command="ls --color"
 * [Haskell で簡単な CLI ツールを作ってみる - Qiita](https://qiita.com/Hexirp/items/3b46fe38bed365124e8d)
 * [System.FSNotifyでファイルイベントが一切検出されない時 - Qiita](https://qiita.com/Cj-bc/items/3afecf148f3fa37cbb72)
 * [yesodweb/Shelly.hs](https://github.com/yesodweb/Shelly.hs)
+- [Haskellで作るTUIアプリ - Qiita](https://qiita.com/kwhrstr1206/items/25acf6eb3c43fa901c2a)
 
 ### オプションパーサー
 * [HaskellのSystem.Console.ParseArgs](http://yu-i9.hatenablog.com/entry/2014/08/29/135253)
