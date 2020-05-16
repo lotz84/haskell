@@ -347,6 +347,7 @@ $ stack exec -- <your program> +RTS <profiling options>
 * [A Guide to GHC's Extensions - Jannis' Word Discounter](https://limperg.de/ghc-extensions/)
 * [Haskell Extensions.ipynb](https://gist.github.com/atondwal/ee869b951b5cf9b6653f7deda0b7dbd8)
 * [独断と偏見で語るGHCのderiving系拡張 - Qiita](https://qiita.com/mod_poppo/items/1867d06f8a9903441e3c)
+- [Extensions :: Kowainik](https://kowainik.github.io/posts/extensions)
 
 ### Pattern Synonyms
 * [Pattern Synonyms](https://ghc.haskell.org/trac/ghc/wiki/PatternSynonyms)
