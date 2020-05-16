@@ -19,6 +19,7 @@
 * [[1805.06798] Generic Deriving of Generic Traversals](https://arxiv.org/abs/1805.06798)
 * [Generic programming of all kinds](https://dl.acm.org/citation.cfm?id=3242745)
 * [Typeable and Data in Haskell](http://chrisdone.com/posts/data-typeable)
+- [Generics are simple: write your own ToJSON](https://tek.brick.do/ca51f14c-e600-4afe-b99d-71e46fbd150b)
 
 ## Uniplate
 * [uniplate](https://hackage.haskell.org/package/uniplate)
