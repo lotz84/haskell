@@ -133,6 +133,7 @@
 * [GHCの型レベル自然数を理解する - Qiita](https://qiita.com/mod_poppo/items/3a37424d299a9f71b757)
 * [A quick-and-dirty check that a type-level string starts with a certain prefix](https://tek.brick.do/464127de-4fd4-4fbb-9af2-f95e0e194e04)
 * [リテラルにTypeApplicationsを使えない理由とその対策、あるいはTypeApplicationsの注意点 - Qiita](https://qiita.com/mod_poppo/items/478846822828da57fa33)
+- [A Quick Look at Impredicativity (Simon Peyton Jones) - YouTube](https://www.youtube.com/watch?v=ZuNMo136QqI)
 
 ```haskell
 data Bottom
