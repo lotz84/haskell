@@ -99,6 +99,7 @@
 * [Do disturb me \| Verifying the Titular Properties of a Leftist Heap](https://dodisturb.me/posts/2019-10-03-Verifying-the-Titular-Properties-of-a-Leftist-Heap.html)
 * [Effectful Property Testing](https://www.parsonsmatt.org/2020/03/11/effectful_property_testing.html)
 * [pureblog - Migrating from QuickCheck to Hedgehog: mixed results](https://frasertweedale.github.io/blog-fp/posts/2020-03-31-quickcheck-hedgehog.html)
+- [純粋関数のプロパティを記述するには - John Hughes氏のLambda Days 2020での講演より](https://www.infoq.com/jp/news/2020/04/property-based-testing-guide/)
 
 ```haskell
 import Data.List
