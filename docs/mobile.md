@@ -40,6 +40,7 @@
 * [Bluespec Compilerをstack環境のghcでビルドしてみた - Qiita](https://qiita.com/dalance/items/c32c510b74b7843f5cf7)
 * [B-Lang-org/bsc: Bluespec Compiler (BSC)](https://github.com/B-Lang-org/bsc)
 * [Raspberry PiでAArch64なGHCを動かす - Qiita](https://qiita.com/mod_poppo/items/084455236e61e583176a)
+- [Integrating Verilator and Clash via Cabal (7 May 2020)](https://unsafeperform.io/blog/2020-05-07-integrating_verilator_and_clash_via_cabal/)
 
 ## 高位合成
 * [Domain-specific Languages and Code Synthesis Using Haskell](http://queue.acm.org/detail.cfm?id=2617811)
