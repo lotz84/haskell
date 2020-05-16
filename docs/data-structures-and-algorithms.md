@@ -204,6 +204,7 @@
 * [だめぽラボ@技術書典7 し03DさんはTwitterを使っています: 「自分が類似の図を作るなら、「バイト文字列」と「Unicode文字列」で区画を分けてしまうかな。区画をまたぐにはエンコーディングとか変換失敗とかも考慮しないといけない、的な話もあるし https://t.co/ZvcpQHo87E」 / Twitter](https://twitter.com/mod_poppo/status/1180767612076036097)
 * [Haskellの文字列型：分類と特徴 - Qiita](https://qiita.com/mod_poppo/items/740659702f31216fdade)
 * [Haskellの文字列型：変換時の心構えと変換方法まとめ - Qiita](https://qiita.com/mod_poppo/items/88a6e876efbf7183209a)
+- [Eat Haskell String Types for Breakfast](https://free.cofree.io/2020/05/06/string-types/)
 
 ## 集合
 * [24 days of Hackage, 2015: day 8: multiset; I wish this were in the standard containers package](http://conscientiousprogrammer.com/blog/2015/12/08/24-days-of-hackage-2015-day-8-multiset-i-wish-this-were-in-the-standard-containers-package/)
