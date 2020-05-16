@@ -304,6 +304,7 @@ Stack開発の知見が集められたライブラリ
 * [The hapistrano package](https://hackage.haskell.org/package/hapistrano)
 * [Hapistrano's new features](https://stackbuilders.com/news/hapistrano-s-new-features)
 * [HaskellとHspecでBuddy CI - Qiita](https://qiita.com/jdoiWork/items/1cc09a1d375a038ac400)
+- [Dead simple cross-platform GitHub Actions for Haskell](https://kodimensional.dev/github-actions)
 
 ### Travis CI
 * [hvr/multi-ghc-travis](https://github.com/hvr/multi-ghc-travis)
