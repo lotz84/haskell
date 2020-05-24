@@ -6,11 +6,12 @@
 > 
 > <https://twitter.com/GabrielG439/status/656202814121574400>
 
-* [エラー処理を書いてはいけない](http://tanakh.jp/pub/pfi-seminar-2011-12-08.html)
-* [Haskell での例外処理](http://d.hatena.ne.jp/kazu-yamamoto/20120604/1338802792)
-* [Haskellでの例外処理(その2)](http://d.hatena.ne.jp/kazu-yamamoto/20120605/1338871044)
-* [Erin Swenson-Healey: A Beginner's Guide to Exceptions in Haskell](https://www.youtube.com/watch?v=PWS0Whf6-wc)
-* [THE THREE KINDS OF HASKELL EXCEPTIONS AND HOW TO USE THEM](https://www.tweag.io/posts/2020-04-16-exceptions-in-haskell.html)
+- [エラー処理を書いてはいけない](http://tanakh.jp/pub/pfi-seminar-2011-12-08.html)
+- [Haskell での例外処理](http://d.hatena.ne.jp/kazu-yamamoto/20120604/1338802792)
+- [Haskellでの例外処理(その2)](http://d.hatena.ne.jp/kazu-yamamoto/20120605/1338871044)
+- [Erin Swenson-Healey: A Beginner's Guide to Exceptions in Haskell](https://www.youtube.com/watch?v=PWS0Whf6-wc)
+- [THE THREE KINDS OF HASKELL EXCEPTIONS AND HOW TO USE THEM](https://www.tweag.io/posts/2020-04-16-exceptions-in-haskell.html)
+- [Haskellの例外処理事情 - Qiita](https://qiita.com/rinse_/items/596cc07242aef880cf81)
 
 ## Checked+Impure
 * [The exceptions package](http://hackage.haskell.org/package/exceptions)
