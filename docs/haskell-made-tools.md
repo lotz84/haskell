@@ -166,6 +166,9 @@ root
 - [lettier/movie-monad: A free and simple to use video player made with Haskell.](https://github.com/lettier/movie-monad)
 - [Let's make a GTK Video Player with Haskell](https://lettier.github.io/posts/2017-08-30-haskell-gtk-video-player.html)
 
+### neut
+- [u2zv1wx/neut: A dependently-typed programming language with compile-time malloc/free determination](https://github.com/u2zv1wx/neut)
+
 ### ngless
 - [luispedro/ngless: NGLess: NGS with less work](https://github.com/luispedro/ngless)
 
