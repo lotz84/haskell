@@ -446,6 +446,7 @@ Stack開発の知見が集められたライブラリ
 * [Practical event driven & sourced programs in Haskell](https://www.ahri.net/2019/07/practical-event-driven-and-sourced-programs-in-haskell/)
 * [graninas/software-design-in-haskell: Software Design in Haskell. A structured set of materials. How to build real-world applications in Haskell.](https://github.com/graninas/software-design-in-haskell)
 * [Permissive, then restrictive: learning how to design Haskell programs | William Yao](https://williamyaoh.com/posts/2020-04-19-permissive-vs-restrictive.html)
+- [Implementing Clean Architecture with Haskell and Polysemy](https://github.com/thma/PolysemyCleanArchitecture#readme)
 
 ## Dependency Injection
 * [HaskellでDIする - The curse of λ](https://myuon.github.io/posts/haskell-di/)
