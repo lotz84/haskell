@@ -356,6 +356,7 @@ Web Application Framework
 * [(解説) はてなブックマークにおけるアクセス制御 - 半環構造に基づくモデル化](http://developer.hatenastaff.com/entry/bookmark-semiring-ac)
 * [hoauth2](http://hackage.haskell.org/package/hoauth2)
 * [HaskellでOAuth](http://qiita.com/_Ghostrick_/items/ce8d89e0d511cfd56ce9)
+- [functor.tokyo -- Announcing password-2.0](https://functor.tokyo/blog/2020-05-18-password-2.0)
 
 ### Logger
 * [wdanilo/haskell-logger](https://github.com/wdanilo/haskell-logger)
