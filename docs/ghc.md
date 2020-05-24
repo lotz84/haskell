@@ -145,6 +145,7 @@
 * [Well-Typed - The Haskell Consultants: DWARF support in GHC (part 1)](http://www.well-typed.com/blog/2020/04/dwarf-1/)
 * [Speeding up the Sixty compiler \| Olle Fredriksson's blog](https://ollef.github.io/blog/posts/speeding-up-sixty.html)
 * [mpickering - Tools for working on GHC](https://mpickering.github.io/posts/2019-06-11-ghc-tools.html)
+- [Error Messages in Haskell, and how to Improve them](https://anthony.noided.media/blog/haskell/programming/2020/05/14/haskell-errors.html)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
