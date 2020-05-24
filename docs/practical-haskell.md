@@ -243,6 +243,7 @@ Stack開発の知見が集められたライブラリ
 * [Nix で Haskell IDE Engine をシュッと入れる - ryota-ka's blog](https://ryota-ka.hatenablog.com/entry/2019/07/15/120000)
 * [NixOSことはじめ　 - Qiita](https://qiita.com/yakotokay/items/0003cef60e2f8700a320)
 * [ぼくが普段使っているOS - NixOSの話 - dely engineering blog](https://tech.dely.jp/entry/2018/12/03/110227)
+- [Maxfield Chen - Functional Fika — Nix and Haskell](https://maxfieldchen.com/posts/2020-05-16-Functional-Fika-Haskell-Nix-Cabal.html)
 
 ## Docker
 * [haskell - Docker Hub](https://hub.docker.com/_/haskell)
