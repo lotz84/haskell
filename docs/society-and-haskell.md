@@ -38,6 +38,7 @@
 * [Towards Faster Iteration in Industrial Haskell](https://blog.sumtypeofway.com/posts/fast-iteration-with-haskell.html)
 * [Haskellを業務で使う、カジュアルに - Haskell-jp](https://haskell.jp/blog/posts/2020/haskell-casually-at-work.html)
 - [A Journey into Haskell and Open Source.md](https://gist.github.com/erebe/a8b0ffd1a27133bcf3b640b64e35f2fb)
+- [Simple Haskell is Best Haskell - fommil - Medium](https://medium.com/@fommil/simple-haskell-is-best-haskell-6a1ea59c73b)
 
 ## コミュニティ
 * [Haskell Communities and Activities Report](https://wiki.haskell.org/Haskell_Communities_and_Activities_Report)
