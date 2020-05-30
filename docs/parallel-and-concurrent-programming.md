@@ -1,33 +1,7 @@
-* [できる！並列・並行プログラミング](http://www.slideshare.net/pfi/ss-9780450)
-* [15 Years of Concurrency](http://joeduffyblog.com/2016/11/30/15-years-of-concurrency/)
 * [Parallel and Concurrent Programming in Haskell](http://chimera.labs.oreilly.com/books/1230000000929/index.html)
    * [pdf](http://community.haskell.org/~simonmar/par-tutorial.pdf)
-* [Concurrency](http://www.scs.stanford.edu/14sp-cs240h/slides/concurrency-slides.html)
-* [Memory](http://www.scs.stanford.edu/14sp-cs240h/slides/memory-slides.html)
-* [Multithreaded Computer Architecture: A Summary of the State of the ART](http://link.springer.com/book/10.1007/978-1-4615-2698-8)
-* [Parallel Computing Technologies](http://link.springer.com/book/10.1007/978-3-540-45145-7)
-* [並列処理の理論とホモトピー](http://pantodon.shinshu-u.ac.jp/topology/literature/concurrency.html)
-* [高速WebサーバMighttpdのアーキテクチャ](http://www.iij.ad.jp/company/development/tech/activities/mighttpd/)
-* [Edward Kmett - Propagators - Boston Haskell](https://www.youtube.com/watch?v=DyPzPeOPgUE)
-* [Parallel-Haskell-1-1](https://www.youtube.com/watch?v=N6sOMGYsvFA)
-  * [Haskell-1-2](https://www.youtube.com/watch?v=ybba5tcOeEY)
-  * [Haskell-2-1](https://www.youtube.com/watch?v=oQ4fvA1OEcY)
-  * [Haskell-2-2](https://www.youtube.com/watch?v=a6IkhX1zgXI)
-* [pi calclusを学ぶにあたって参照したドキュメントとその紹介その一](http://keizobookman.hatenablog.com/entry/2016/05/25/012815)
 * [ekmett/propagators](https://github.com/ekmett/propagators)
-* [atemerev/skynet](https://github.com/atemerev/skynet) - Skynet 1M threads microbenchmark
-* [高速なキューを作る話（前編）](http://qiita.com/asukamirai/items/cb22ed08a124b282f142)
-* [高速なキューを作る話（後編）](http://qiita.com/asukamirai/items/481b22d9a8a410990828)
-* [Green Threads are like Garbage Collection](https://www.fpcomplete.com/blog/2017/01/green-threads-are-like-garbage-collection)
-* [Asynchronous Exceptions in Practice · Simon Marlow](http://simonmar.github.io/posts/2017-01-24-asynchronous-exceptions.html)
-* [gochan: Go-style channels](http://hackage.haskell.org/package/gochan-0.0.2)
-* [Mio: A High-Performance Multicore IO Manager for GHC](http://haskell.cs.yale.edu/wp-content/uploads/2013/08/hask035-voellmy.pdf)
-* [Threading responsibly - forkIO considered harmful.](https://mazzo.li/posts/threads-resources.html)
-* [Haxl: Making Concurrency Unreasonably Easy \| Big Techday 10 - TNG Technology Consulting](http://events.techcast.com/bigtechday10/Garmisch-1345/?q=Garmisch-1345)
 * [Haskell における並行処理と並列処理と最適化 - Qiita](http://qiita.com/satosystems/items/e7fb4295598dc61e4c67)
-* [Haskell の並列処理と遅延評価の罠](http://labs.timedia.co.jp/2017/08/cphaskell.html)
-* [A Tour of Go in Haskell](https://a-tour-of-go-in-haskell.syocy.net/ja_JP/index.html)
-* [A Tour of Go in Haskellを作ったのと、GoとHaskellの比較 - syocy’s diary](http://syocy.hatenablog.com/entry/a-tour-of-go-in-haskell)
 * [Merritt Blog - Getting Started with OpenCL in Haskell](https://lancelet.github.io/posts/2017-12-26-opencl-helloworld.html)
 * [Introduction · Capataz](https://romanandreg.gitbooks.io/capataz/content/)
 * [マルチコアでスケールするようになったHaskell \| IIJの技術 \| インターネットイニシアティブ（IIJ）](https://www.iij.ad.jp/dev/tech/activities/haskell/)
@@ -55,15 +29,18 @@
 * [The Haskell Concurrency Primitive Shootout – codeburst](https://codeburst.io/the-haskell-concurrency-primitive-shootout-538c21993f1c)
 * [Finding Parallel Functional Pearls: Automatic Parallel Recursion Scheme Detection in Haskell Functions via Anti-Unification](https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/15729/Barwell_2017_FGCS_ParallelFunctionalPearls_AAM.pdf?sequence=1&isAllowed=y)
 * [lts-13.19でaccelerate-llvmを使う時の備忘録 - Qiita](https://qiita.com/A_kirisaki/items/f558daa4ca72d9d36371)
-* [Accelerateとglossで作るライフゲーム - Qiita](https://qiita.com/A_kirisaki/items/b45b127adb7d2d91e7f6)
 * [Evaluation of Libraries for Parallel Computing in Haskell](https://www.jstage.jst.go.jp/article/ipsjjip/25/0/25_308/_pdf)
 * [Parallel typeclass for Haskell • gvolpe's blog](https://gvolpe.github.io/blog/parallel-typeclass-for-haskell/)
+
+### Eval
+### Par
+### Repa
+### GPU
+* [Accelerateとglossで作るライフゲーム - Qiita](https://qiita.com/A_kirisaki/items/b45b127adb7d2d91e7f6)
 
 ## 並行
 * [RAM footprint per unit of concurrency (approx)](http://bob.ippoli.to/haskell-for-erlangers-2014/#/cost-of-concurrency)
 * [Haskellでマルチスレッド処理](http://qiita.com/myuon_myon/items/d0334317f220dfe05092)
-* [async](http://hackage.haskell.org/package/async)
-* [lifted-async](https://hackage.haskell.org/package/lifted-async)
 * [新しいlifted-asyncの使い方](http://maoe.hatenadiary.jp/entry/2014/12/31/015338)
 * [Relativistic Programming in Haskell](http://web.cecs.pdx.edu/~walpole/papers/haskell2015.pdf)
    * [ekmett/rcu](https://github.com/ekmett/rcu)
@@ -88,30 +65,23 @@
 * [Pinpointing deadlocks in Haskell](https://www.fpcomplete.com/blog/2018/05/pinpointing-deadlocks-in-haskell)
 * [Тех-Детали: Masking async tasks in the wild](https://lin-techdet.blogspot.com/2019/02/masking-async-tasks-in-wild.html)
 * [scheduler: Work stealing scheduler.](https://hackage.haskell.org/package/scheduler)
-* [asyncでお手軽非同期プログラミング with Haskell - Qiita](https://qiita.com/pxfnc/items/fbf8f91f1eb90c9e32b8)
-* [asyncでお手軽非同期プログラミング with Haskell その2 - Qiita](https://qiita.com/pxfnc/items/4e77812db82c79e55c33)
+* [Haskell の並列処理と遅延評価の罠](http://labs.timedia.co.jp/2017/08/cphaskell.html)
+* [A Tour of Go in Haskell](https://a-tour-of-go-in-haskell.syocy.net/ja_JP/index.html)
+* [A Tour of Go in Haskellを作ったのと、GoとHaskellの比較 - syocy’s diary](http://syocy.hatenablog.com/entry/a-tour-of-go-in-haskell)
 
-### MVar
-* [Control.Concurrent.MVar](https://hackage.haskell.org/package/base/docs/Control-Concurrent-MVar.html)
+### 軽量スレッド
+* [高速WebサーバMighttpdのアーキテクチャ](http://www.iij.ad.jp/company/development/tech/activities/mighttpd/)
+* [Green Threads are like Garbage Collection](https://www.fpcomplete.com/blog/2017/01/green-threads-are-like-garbage-collection)
+* [Mio: A High-Performance Multicore IO Manager for GHC](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.649.3381&rep=rep1&type=pdf)
+* [Threading responsibly - forkIO considered harmful.](https://mazzo.li/posts/threads-resources.html)
 * [Common Concurrency Abstractions in Haskell, MVar](http://www.kuznero.com/posts/haskell/2015-07-31-common-concurrency-abstractions-MVar-part-2.html)
+* [Concurrency](http://www.scs.stanford.edu/14sp-cs240h/slides/concurrency-slides.html)
 * [MVarとTVar - Qiita](https://qiita.com/taashi/items/13cba99ccb8b7ccfbac8)
-
-```haskell
-import Control.Concurrent
-main = do
-    messages <- newEmptyMVar
-    forkIO $ putMVar messages "ping"
-
-    msg <- takeMVar messages
-    putStrLn msg
-```
-
-出展: [Haskell by Example: Channels](http://lotz84.github.io/haskellbyexample/ex/channels)
-
-### Chan
-[Control.Concurrent.Chan](https://hackage.haskell.org/package/base/docs/Control-Concurrent-Chan.html)
+* [高速なキューを作る話（前編）](http://qiita.com/asukamirai/items/cb22ed08a124b282f142)
+* [高速なキューを作る話（後編）](http://qiita.com/asukamirai/items/481b22d9a8a410990828)
 
 ### STM
+* [できる！並列・並行プログラミング](http://www.slideshare.net/pfi/ss-9780450)
 * [Beautiful concurrency](http://research.microsoft.com/en-us/um/people/simonpj/papers/stm/beautiful.pdf)
 * [Simple STM example](https://wiki.haskell.org/Simple_STM_example)
 * [Lock Free Data Structures using STM in Haskell](http://research.microsoft.com/en-us/um/people/simonpj/papers/stm/lock-free-flops06.pdf)
@@ -124,6 +94,16 @@ main = do
 * [Improving Haskell STM Performance (2016) : haskell](https://www.reddit.com/r/haskell/comments/80tk0t/improving_haskell_stm_performance_2016/)
 * [TChan vs TQueue: What's the difference?](https://www.parsonsmatt.org/2018/10/12/tchan_vs_tqueue.html)
 * [STMとReal-Time Queueを利用したマルチスレッドズンドコキヨシ - Qiita](https://qiita.com/YoshikuniJujo/items/e9639712a49ac0af2a9a)
+* [Memory](http://www.scs.stanford.edu/14sp-cs240h/slides/memory-slides.html)
+
+### Async
+* [async](http://hackage.haskell.org/package/async)
+* [lifted-async](https://hackage.haskell.org/package/lifted-async)
+* [asyncでお手軽非同期プログラミング with Haskell - Qiita](https://qiita.com/pxfnc/items/fbf8f91f1eb90c9e32b8)
+* [asyncでお手軽非同期プログラミング with Haskell その2 - Qiita](https://qiita.com/pxfnc/items/4e77812db82c79e55c33)
+
+### Haxl
+* [Haxl: Making Concurrency Unreasonably Easy \| Big Techday 10 - TNG Technology Consulting](http://events.techcast.com/bigtechday10/Garmisch-1345/?q=Garmisch-1345)
 
 ## 分散
 * [Speeding up a distributed computation in Haskell :: FP Complete](https://www.fpcomplete.com/blog/2017/01/speeding-up-distributed-computation)
