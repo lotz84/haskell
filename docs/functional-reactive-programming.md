@@ -81,6 +81,10 @@
 * [reflex-frp/reflex-vty: Reflex library for building functional reactive terminal applications](https://github.com/reflex-frp/reflex-vty)
 - [Obelisk tutorial: Markdown preview with Reflex - Sridhar Ratnakumar](https://www.srid.ca/fa9766e6.html)
 
+### Keera Hails
+- [Building a reactive calculator in Haskell (1/5) – Keera Studios](https://keera.co.uk/2020/05/28/building-a-reactive-calculator-in-haskell-1-5/)
+- [keera-studios/keera-hails: Keera Hails: Haskell on Rails - Reactive Programming Framework for Interactive Haskell applications](https://github.com/keera-studios/keera-hails/)
+
 ### Netwire
 * [Today in Code — Almost a Netwire 5 Tutorial](http://todayincode.tumblr.com/post/96914679355/almost-a-netwire-5-tutorial)
 * [TIL Netwire (FRP library) is basically "deprecated." : haskell](https://www.reddit.com/r/haskell/comments/7yezo2/til_netwire_frp_library_is_basically_deprecated/)
