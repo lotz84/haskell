@@ -146,6 +146,7 @@
 * [Speeding up the Sixty compiler \| Olle Fredriksson's blog](https://ollef.github.io/blog/posts/speeding-up-sixty.html)
 * [mpickering - Tools for working on GHC](https://mpickering.github.io/posts/2019-06-11-ghc-tools.html)
 - [Error Messages in Haskell, and how to Improve them](https://anthony.noided.media/blog/haskell/programming/2020/05/14/haskell-errors.html)
+- [Lower Your Guards](https://www.microsoft.com/en-us/research/uploads/prod/2020/03/lyg.pdf)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
@@ -162,6 +163,7 @@
 * [Oleg's gists - Idiom brackets via source plugin](http://oleg.fi/gists/posts/2018-07-06-idiom-brackets-via-source-pluging.html)
 * [mpickering - Plugins](http://mpickering.github.io/plugins.html)
 * [GHC Source Plugin 作ってみた - Qiita](https://qiita.com/waddlaw/items/65b57517f105fcbbe724)
+- [Running HLint as a GHC source plugin - DEV](https://dev.to/tfausak/running-hlint-as-a-ghc-source-plugin-17dl)
 
 ### Blackhole
 * [Blackhole : 無限再帰停止機構](http://qiita.com/phi16_/items/ef83e610585ac8526d31)
