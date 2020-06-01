@@ -134,6 +134,8 @@
 * [A quick-and-dirty check that a type-level string starts with a certain prefix](https://tek.brick.do/464127de-4fd4-4fbb-9af2-f95e0e194e04)
 * [リテラルにTypeApplicationsを使えない理由とその対策、あるいはTypeApplicationsの注意点 - Qiita](https://qiita.com/mod_poppo/items/478846822828da57fa33)
 - [A Quick Look at Impredicativity (Simon Peyton Jones) - YouTube](https://www.youtube.com/watch?v=ZuNMo136QqI)
+- [HaskellでUnion typeを実現するopen-unionを使ってみました - Qiita](https://qiita.com/nwtgck/items/03e0817ceda5c4b60957)
+- [QuasiQuoteでopen-unionを書きやすくするライブラリを作ってみました - Qiita](https://qiita.com/nwtgck/items/002817daa0e90e72870b)
 
 ```haskell
 data Bottom
