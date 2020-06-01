@@ -9,20 +9,21 @@
 継続は一般的な概念であるがここではHaskellの継続渡しスタイルとCont Monadについて説明する
 
 ### 継続渡しスタイル
-* [CPS というプログラミングスタイルの導入の話](http://yuzumikan15.hatenablog.com/entry/2015/04/24/094610)
-* [The Mother of all Monads](http://blog.sigfpe.com/2008/12/mother-of-all-monads.html)
-* [Control.Monad.Cont](https://hackage.haskell.org/package/mtl/docs/Control-Monad-Cont.html)
-* [Haskell/Continuation passing style](http://en.wikibooks.org/wiki/Haskell/Continuation_passing_style)
-* [Compiling With CPS](http://jozefg.bitbucket.org/posts/2015-04-30-cps.html)
-* [Haskell で継続渡しスタイル (CPS)](http://jutememo.blogspot.jp/2011/05/haskell-cps.html)
-* [The mtl-c package](https://hackage.haskell.org/package/mtl-c)
-* [Resource Management in Haskell](http://aherrmann.github.io/programming/2016/01/04/resource-management-in-haskell/)
-* [データ型のCPS変換について](http://myuon-myon.hatenablog.com/entry/2016/05/11/215734)
-* [Continuations all the way down](http://teh.id.au/posts/2017/05/10/lambdajam-slides/index.html)
-* [Chris Dumas - Church-encoded datatypes in Haskell](http://www.cbdumas.com/posts/church_encoding.html)
-* [Chris Dumas - Church-encoded datatypes in Haskell, part 2](http://www.cbdumas.com/posts/church_encoding2.html)
-* [A Gentle Run-through of Continuation Passing Style and Its Use Cases](https://free.cofree.io/2020/01/02/cps/)
+- [CPS というプログラミングスタイルの導入の話](http://yuzumikan15.hatenablog.com/entry/2015/04/24/094610)
+- [The Mother of all Monads](http://blog.sigfpe.com/2008/12/mother-of-all-monads.html)
+- [Control.Monad.Cont](https://hackage.haskell.org/package/mtl/docs/Control-Monad-Cont.html)
+- [Haskell/Continuation passing style](http://en.wikibooks.org/wiki/Haskell/Continuation_passing_style)
+- [Compiling With CPS](http://jozefg.bitbucket.org/posts/2015-04-30-cps.html)
+- [Haskell で継続渡しスタイル (CPS)](http://jutememo.blogspot.jp/2011/05/haskell-cps.html)
+- [The mtl-c package](https://hackage.haskell.org/package/mtl-c)
+- [Resource Management in Haskell](http://aherrmann.github.io/programming/2016/01/04/resource-management-in-haskell/)
+- [データ型のCPS変換について](http://myuon-myon.hatenablog.com/entry/2016/05/11/215734)
+- [Continuations all the way down](http://teh.id.au/posts/2017/05/10/lambdajam-slides/index.html)
+- [Chris Dumas - Church-encoded datatypes in Haskell](http://www.cbdumas.com/posts/church_encoding.html)
+- [Chris Dumas - Church-encoded datatypes in Haskell, part 2](http://www.cbdumas.com/posts/church_encoding2.html)
+- [A Gentle Run-through of Continuation Passing Style and Its Use Cases](https://free.cofree.io/2020/01/02/cps/)
 - [Defunctionalize the Continuation](https://www.cis.upenn.edu/~plclub/blog/2020-05-15-Defunctionalize-the-Continuation/)
+- [並行プログラミングと継続モナド](https://www.slideshare.net/RuiccRail/ss-52718653)
 
 
 ```haskell
