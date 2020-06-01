@@ -144,10 +144,11 @@ class Functor g => Distributive g where
 * [CATEGORICAL PROGRAMMING WITH INDUCTIVE AND COINDUCTIVE TYPES](http://kodu.ut.ee/~varmo/papers/thesis.pdf)
 
 ### F始代数
-* [F始代数](http://nineties.github.io/category-seminar/7.html#/43)
-* [Understanding F-Algebras](https://www.schoolofhaskell.com/user/bartosz/understanding-algebras)
-* [Catamorphisms in 15 Minutes!](http://chrislambda.github.io/blog/2014/01/30/catamorphisms-in-15-minutes/)
-* [Finite trees as initial algebra](https://theorylunch.wordpress.com/2013/02/28/finite-trees-as-initial-algebra/)
+- [F始代数](http://nineties.github.io/category-seminar/7.html#/43)
+- [代数的データ型とF代数 - Qiita](https://qiita.com/karrym/items/62c46a2c7640912a1a28)
+- [Understanding F-Algebras](https://www.schoolofhaskell.com/user/bartosz/understanding-algebras)
+- [Catamorphisms in 15 Minutes!](http://chrislambda.github.io/blog/2014/01/30/catamorphisms-in-15-minutes/)
+- [Finite trees as initial algebra](https://theorylunch.wordpress.com/2013/02/28/finite-trees-as-initial-algebra/)
 
 ### cata, ana, hylo, para
 * [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire](http://eprints.eemcs.utwente.nl/7281/01/db-utwente-40501F46.pdf)
