@@ -82,8 +82,9 @@
 - [Obelisk tutorial: Markdown preview with Reflex - Sridhar Ratnakumar](https://www.srid.ca/fa9766e6.html)
 
 ### Keera Hails
-- [Building a reactive calculator in Haskell (1/5) – Keera Studios](https://keera.co.uk/2020/05/28/building-a-reactive-calculator-in-haskell-1-5/)
 - [keera-studios/keera-hails: Keera Hails: Haskell on Rails - Reactive Programming Framework for Interactive Haskell applications](https://github.com/keera-studios/keera-hails/)
+- [Building a reactive calculator in Haskell (1/5) – Keera Studios](https://keera.co.uk/2020/05/28/building-a-reactive-calculator-in-haskell-1-5/)
+- [Building a reactive calculator in Haskell (2/5) – Keera Studios](https://keera.co.uk/2020/05/30/building-a-reactive-calculator-in-haskell-2-5/)
 
 ### Netwire
 * [Today in Code — Almost a Netwire 5 Tutorial](http://todayincode.tumblr.com/post/96914679355/almost-a-netwire-5-tutorial)
