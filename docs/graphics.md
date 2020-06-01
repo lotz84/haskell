@@ -74,6 +74,7 @@
 * [tim philip williams :: Generating castles for Minecraft™ using Haskell](http://www.timphilipwilliams.com/posts/2019-07-25-minecraft.html)
 * [morgenthum.tech - software development and architecture](https://morgenthum.tech/articles/write-haskell-game)
 * [mallRL by Nikolas Mählmann](https://nmaehlmann.itch.io/mallrl)
+- [YourFirstGame with Haskell, Godot, and godot-haskell](https://spartanengineer.com/posts/2020-05-24-yourfirstgame-with-haskell-and-godot.html)
 
 ## Gloss
 * [gloss](http://hackage.haskell.org/package/gloss)
