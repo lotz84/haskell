@@ -113,6 +113,20 @@ instance Comonad Zipper where
 * [Structured Computation on Trees or, What’s Behind That Zipper? (A Comonad)](https://www.ioc.ee/~tarmo/tsem05/uustalu0812-slides.pdf)
 * [haskell - Zipper Comonads, Generically - Stack Overflow](https://stackoverflow.com/questions/25554062/zipper-comonads-generically?lq=1)
 
+### Zipper
+* [zipper](https://hackage.haskell.org/package/zipper)
+* [Zippers - LYAH](http://learnyouahaskell.com/zippers)
+* [データ型の微分](http://ja.wikibooks.org/wiki/Haskell/Zippers#.E3.83.87.E3.83.BC.E3.82.BF.E5.9E.8B.E3.81.AE.E5.BE.AE.E5.88.86)
+* [Zippers, Part 2: Zippers as Derivatives](https://pavpanchekha.com/blog/zippers/derivative.html)
+* [Scrap Your Zippers](http://michaeldadams.org/papers/scrap_your_zippers/ScrapYourZippers-2010.pdf)
+* [syz](https://hackage.haskell.org/package/syz)
+* [Zipper関連のパッケージ](http://d.hatena.ne.jp/debug-ito/20161016/1476587232)
+* [Zipperに挑む](https://qiita.com/Aruneko/items/dee20161358e7c39e27a)
+* [Derivatives of Containers](http://www.cs.le.ac.uk/people/mabbott/docs/derivative.pdf)
+* [Dan Ghica's Blog: Zippers for non-inductive types](http://danghica.blogspot.com/2018/11/zippers-for-non-inductive-types.html)
+* [[1908.10926] Performance Analysis of Zippers](https://arxiv.org/abs/1908.10926)
+* [Zipperとは - Qiita](https://qiita.com/hennin/items/a89ebfecb25272960351)
+
 ## コモナドトランスフォーマー
 
 ```hs
