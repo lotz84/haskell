@@ -1,113 +1,67 @@
-* [Haskell 情報収集術 - Qiita](https://qiita.com/waddlaw/items/b7ed253db36c6f8a04fc)
-* [順列列挙関数（素朴な実装）](http://qiita.com/nobsun/items/babd28fe81ba3b9f304f)
-* [SamuelSchlesinger/Gaia](https://github.com/SamuelSchlesinger/Gaia) - An experiment in functional interface design
-* [Haskell - $の仕組みを覗いてみよう - Qiita](https://qiita.com/grainrigi/items/f45b586b4013ffc3814e)
-* [Idiomatic Haskell : haskell](https://www.reddit.com/r/haskell/comments/84qs5x/idiomatic_haskell/)
-* [Haskell/GHC symbol search cheatsheet](https://github.com/takenobu-hs/haskell-symbol-search-cheatsheet)
-* [Layout ルール， Haskell のオフサイドルールについて](https://bydriv.github.io/blog/layout.html)
-
 ## 型
-* [What is the difference between an Algebraic Data Type and an Abstract Data Type?](http://www.reddit.com/r/haskell/comments/38grqx/what_is_the_difference_between_an_algebraic_data/)
-* [Either and (,) in Haskell are not arbitrary](http://bitemyapp.com/posts/2015-10-19-either-is-not-arbitrary.html)
-* [Why sum and product types?](http://charlieharvey.org.uk/page/sum_and_product_types)
-* [Unit型の何が偉大なのか説明してみる](http://qiita.com/alucky0707/items/a677e5c9850aa765dd55)
-* [Add a type parameter! One 'simple' design change, a panoply of outcomes](https://www.youtube.com/watch?v=BHjIl81HgfE)
-* [The 6 types of Haskell users](http://rickdzekman.com/thoughts/the-6-types-of-haskell-users/)
-* [Learning Haskell by Type (Signatures)](http://holger-peters.de/haskell-by-types.html)
-* [ラムダ計算で代数的データ型を表現する方法](http://d.hatena.ne.jp/syamino/20120524/p1)
-* [Associated Types and Haskell](http://amixtureofmusings.com/2016/05/19/associated-types-and-haskell/)
-* [Better Data Types a la Carte](http://reasonablypolymorphic.com/blog/better-data-types-a-la-carte)
-* [Sean Seefried - The Joy of Refactoring with Strong, Static Types](https://www.youtube.com/watch?v=_K6UAq4hjAs)
-* [USING TYPES EFFECTIVELY](http://www.elbeno.com/presentations/using-types-effectively/presentation.html#/sec-title-slide)
-* [Poop deprecation and shitty code](http://cs-syd.eu/posts/2016-08-28-poop-deprecation.html)
-* [Maybe](http://qiita.com/knknkn1162/items/48427aee35bd5892c61d)
-* [Pattern Synonyms](https://kseo.github.io/posts/2016-12-22-pattern-synonyms.html)
-* [YOW! Lambda Jam 2016 Conor McBride - What are Types for, or are they only Against? - YouTube](https://www.youtube.com/watch?v=3U3lV5VPmOU&feature=share)
-* [【Haskell】 言葉の定義まとめ（型クラス、型コンストラクタ、値コンストラクタ、型引数など） - takafumi blog](http://takafumi-s.hatenablog.com/entry/2015/09/25/123335)
-* [Haskell による型安全プログラミングの実装例(和暦) - Qiita](http://qiita.com/algas/items/9e63f7a99303d27a6c03)
-* [why-types/why-types.pdf at master · skaslev/why-types](https://github.com/skaslev/why-types/blob/master/why-types.pdf)
-* [These, Align, and Crosswalk](http://teh.id.au/posts/2017/03/29/these-align-crosswalk/index.html)
-* [Maybe? Use a type parameter!](http://www.parsonsmatt.org/2017/04/08/maybe_use_a_type_parameter.html)
-* [Generalizing Type Signatures - Michael Snoyman's blog](http://www.snoyman.com/blog/2017/04/generalizing-type-signatures)
-* [Well-typed printfs cannot go wrong – ( )](http://kcsongor.github.io/purescript-safe-printf/)
-* [Type Safety Back and Forth](http://www.parsonsmatt.org/2017/10/11/type_safety_back_and_forth.html)
-* [Haskell equality table](https://htmlpreview.github.io/?https://github.com/quchen/articles/blob/master/haskell-equality-table.html)
-* [Type-Directed Code Generation](http://reasonablypolymorphic.com/blog/type-directed-code-generation)
-* [Refactoring and Finding the Right Data Structure \| Haskell at Work](https://haskell-at-work.com/episodes/2018-03-08-refactoring-and-finding-the-right-data-structure.html)
-* [HaskellでUnion typeを実現するopen-unionを使ってみました - Qiita](https://qiita.com/nwtgck/items/03e0817ceda5c4b60957)
-* [QuasiQuoteでopen-unionを書きやすくするライブラリを作ってみました - Qiita](https://qiita.com/nwtgck/items/002817daa0e90e72870b)
-* [人間が型だけ書けば実装を意識しないでもよくなる未来 - Qiita](https://qiita.com/arowM/items/b92075627ddb4ad92d1e)
-* [Type Isomorphism](https://kseo.github.io/posts/2016-12-25-type-isomorphism.html)
-* [Compose Tetris](https://medium.com/@fintan.halpenny/compose-tetris-196b70035aff)
-* [本当はすごい newtype - Speaker Deck](https://speakerdeck.com/konn/ben-dang-hasugoi-newtype)
-* [すごいH本で見落としがちだが実は重要な機能：newtype - Qiita](https://qiita.com/HirotoShioi/items/70cd235e93dee99bf8e8)
-* [「混ぜられない数」をHaskell/GHCの型を使って手軽につくる - Qiita](https://qiita.com/takenobu-hs/items/14101cabf313e6d594ca)
-* [Keep your types small...](http://www.parsonsmatt.org/2018/10/02/small_types.html)
-* [だれも Data.Maybe を教えてくれなかった - Qiita](https://qiita.com/mtsugawa/items/e410812567e8b5b1690c)
-* [意外と知らないType defaulting - Qiita](https://qiita.com/takoeight0821/items/6cf286bf29479698e977)
-* [The Basic, Practical Benefits of the Haskell Type System](http://mechanical-elephant.com/thoughts/2015-08-10-the-pratical-benefits-of-haskell-typesystem/)
-* [Types & Kinds](http://slpopejoy.github.io/2015/04/10/Types/)
-* [Tag, don't type](https://github.com/quchen/articles/blob/master/tag-dont-type.md)
-* [On Ad-hoc Datatypes](https://jaspervdj.be/posts/2016-05-11-ad-hoc-datatypes.html)
-* [Ken's blog: [fltalwhq] integerLog2 and an introduction to unboxed types](http://kenta.blogspot.com/2016/09/fltalwhq-integerlog2-and-introduction.html)
-* [Dynamic Dispatch in Haskell, or: How Can I Make My Code Extendable? – Two Wrongs](https://two-wrongs.com/dynamic-dispatch-in-haskell-how-to-make-code-extendable)
-* [What the heck is polymorphism? - DEV Community 👩‍💻👨‍💻](https://dev.to/jvanbruegge/what-the-heck-is-polymorphism-nmh)
-* [These Changes](https://fintanh.github.io/posts/these-changes.html)
-* [good-design-and-type-safety-in-yahtzee](http://h2.jaguarpaw.co.uk/posts/good-design-and-type-safety-in-yahtzee/)
-* [ML系言語で型注釈が必要なケース - Qiita](https://qiita.com/mod_poppo/items/de3ef7965197dbbda761)
-* [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
-* [Tweag I/O - Inferred or Specified Types? Your Choice!](https://www.tweag.io/posts/2020-03-12-expl-spec.html)
-* [haskell の Int と Integer の違いや Float や Double や Rational を理解する - Qiita](https://qiita.com/suzuki-hoge/items/17cf0cd3680ef10b2cc1)
+- [【Haskell】 言葉の定義まとめ（型クラス、型コンストラクタ、値コンストラクタ、型引数など） - takafumi blog](http://takafumi-s.hatenablog.com/entry/2015/09/25/123335)
+- [Kwang's Haskell Blog - Type Isomorphism](https://kseo.github.io/posts/2016-12-25-type-isomorphism.html)
+- [These, Align, and Crosswalk](https://teh.id.au/posts/2017/03/29/these-align-crosswalk/index.html)
+- [These Changes](https://fintanh.github.io/posts/these-changes.html)
+- [tatterdemalion - Types & Kinds](http://slpopejoy.github.io/posts/2015-04-10-Types.html)
+- [CS Syd - Overcoming Boolean blindness with Evidence](https://cs-syd.eu/posts/2016-07-24-overcoming-boolean-blindness-evidence.html)
 
-### 代数的データ型
-代数的データ型とは"足し算"と"掛け算"が出来るような型のこと。"足し算"と"掛け算"はそれぞれ**直和**, **直積** と呼ばれる。
+### 基本型
+- [haskell の Int と Integer の違いや Float や Double や Rational を理解する - Qiita](https://qiita.com/suzuki-hoge/items/17cf0cd3680ef10b2cc1)
+- [Unit型の何が偉大なのか説明してみる - Qiita](https://qiita.com/alucky0707/items/a677e5c9850aa765dd55)
+- [Haskell equality table](https://htmlpreview.github.io/?https://github.com/quchen/articles/blob/master/haskell-equality-table.html)
+- [意外と知らないType defaulting - Qiita](https://qiita.com/takoeight0821/items/6cf286bf29479698e977)
+- [だれも Data.Maybe を教えてくれなかった - Qiita](https://qiita.com/mtsugawa/items/e410812567e8b5b1690c)
+
+### なぜ型が重要か
+- [Type Safety Back and Forth](https://www.parsonsmatt.org/2017/10/11/type_safety_back_and_forth.html)
+- [Keep your types small...](https://www.parsonsmatt.org/2018/10/02/small_types.html)
+- [The Basic, Practical Benefits](http://mechanical-elephant.com/thoughts/2015-08-10-the-pratical-benefits-of-haskell-typesystem/)
+- [jaspervdj - On Ad-hoc Datatypes](https://jaspervdj.be/posts/2016-05-11-ad-hoc-datatypes.html)
+- [good-design-and-type-safety-in-yahtzee](http://h2.jaguarpaw.co.uk/posts/good-design-and-type-safety-in-yahtzee/)
+- [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
+
+### 型を定義する３つの方法
+- type
+- data
+- newtype
+
+#### type
+型シノニム
+
+#### data
+代数的データ型とは"足し算"と"掛け算"が出来るような型のこと。"足し算"は`Either a b`、"掛け算"は`(a, b)`と対応する。
+
+- [Haskell Diary #2 - Algebra of Data Types](http://akashagrawal.me/haskell-diary-2-algebraic-data-types/)
+- [代数的データ型と初等代数学 - ryota-ka's blog](https://ryota-ka.hatenablog.com/entry/2018/07/09/110000)
+- [The algebra (and calculus!) of algebraic data types](https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types)
+- [代数的データ型のデータのとりうる数を微分すると１穴空きデータ型の数になる話 - Qiita](https://qiita.com/mittyantest/items/f8783834e6bb48baf2c8)
+- [Adαm Schønemαnn - Pattern matching ADTs](https://adamschoenemann.dk/posts/2018-05-29-pattern-matching.html)
+
+##### Codata
+- [A Neighborhood of Infinity: Data and Codata](http://blog.sigfpe.com/2007/07/data-and-codata.html)
+- [Codata in action, or how to connect Functional Programming and Object Oriented Programming](http://www.javiercasas.com/articles/codata-in-action)
+
+#### newtype
+既存の型と同型な別の型を定義することができるが、コンパイル後の表現は既存の型と同一になるので効率の面で利点がある。1つの値コンストラクタと1つのフィールドを持つdataで定義された型との違いは以下のように現れる。
 
 ```hs
--- 直和
-type a + b = Either a b
+> newtype A = A Int
+> checkA (A _) = "OK"
+> chackA undefined
+"OK"
 
--- 直積
-type a * b = (a, b)
+> data B = B Int
+> checkB (B _) = "OK"
+> checkB undefined
+"*** Exception: Prelude.undefined
 ```
 
-* [The algebra (and calculus!) of algebraic data types](https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types)
-* [The Algebra of Programming in Haskell](http://www.cs.ox.ac.uk/research/pdt/ap/dgp/workshop2004/oliveira.pdf)
-* [Why are ADTs necessary?](http://www.reddit.com/r/haskell/comments/2z1n16/why_are_adts_necessary/)
-* [Haskell Diary #2 - Algebra of Data Types](http://akashagrawal.me/haskell-diary-2-algebraic-data-types/)
-* [Overcoming Boolean blindness with Evidence](http://cs-syd.eu/posts/2016-07-24-overcoming-boolean-blindness-evidence.html)
-* [代数的データ型のデータのとりうる数を微分すると１穴空きデータ型の数になる話 - Qiita](http://qiita.com/mittyantest/items/f8783834e6bb48baf2c8)
-* [代数的データ型とF代数 - Qiita](http://qiita.com/karrym/items/62c46a2c7640912a1a28)
-* [Adαm Schønemαnn - Pattern matching ADTs](https://adamschoenemann.dk/posts/2018-05-29-pattern-matching.html)
-* [代数的データ型と初等代数学 - ryota-ka's blog](https://ryota-ka.hatenablog.com/entry/2018/07/09/110000)
+- [Newtype - HaskellWiki](https://wiki.haskell.org/Newtype)
+- [すごいH本で見落としがちだが実は重要な機能：newtype - Qiita](https://qiita.com/HirotoShioi/items/70cd235e93dee99bf8e8)
+- [本当はすごい newtype - Speaker Deck](https://speakerdeck.com/konn/ben-dang-hasugoi-newtype?slide=84)
 
-### Codata
-* [Codata](http://types2004.lri.fr/SLIDES/altenkirch.pdf)
-* [Data and Codata](http://blog.sigfpe.com/2007/07/data-and-codata.html)
-* [Co-data 【新歓ブログリレー2017 21日目】 | 東京工業大学デジタル創作同好会traP](https://trap.jp/post/199/)
-* [Codata in action, or how to connect Functional Programming and Object Oriented Programming](http://www.javiercasas.com/articles/codata-in-action)
-* [双対的にみる余帰納法 1.イントロ - Qiita](https://qiita.com/karrym/items/74e80119d18b75290254)
-
-### Zipper
-* [zipper](https://hackage.haskell.org/package/zipper)
-* [Zippers - LYAH](http://learnyouahaskell.com/zippers)
-* [データ型の微分](http://ja.wikibooks.org/wiki/Haskell/Zippers#.E3.83.87.E3.83.BC.E3.82.BF.E5.9E.8B.E3.81.AE.E5.BE.AE.E5.88.86)
-* [Zippers, Part 2: Zippers as Derivatives](https://pavpanchekha.com/blog/zippers/derivative.html)
-* [Scrap Your Zippers](http://michaeldadams.org/papers/scrap_your_zippers/ScrapYourZippers-2010.pdf)
-* [syz](https://hackage.haskell.org/package/syz)
-* [Zipper関連のパッケージ](http://d.hatena.ne.jp/debug-ito/20161016/1476587232)
-* [Zipperに挑む](https://qiita.com/Aruneko/items/dee20161358e7c39e27a)
-* [Derivatives of Containers](http://www.cs.le.ac.uk/people/mabbott/docs/derivative.pdf)
-* [Dan Ghica's Blog: Zippers for non-inductive types](http://danghica.blogspot.com/2018/11/zippers-for-non-inductive-types.html)
-* [[1908.10926] Performance Analysis of Zippers](https://arxiv.org/abs/1908.10926)
-* [Zipperとは - Qiita](https://qiita.com/hennin/items/a89ebfecb25272960351)
-
-### カインド
-* [About kind system of Haskell (Part 1)](https://haskell.jp/blog/posts/2017/10-about-kind-system-part1.html)
-* [Haskellの種(kind)について (Part 2)](https://haskell.jp/blog/posts/2017/13-about-kind-system-part2.html)
-* [Haskell's kind system - a primer · dcastro](https://diogocastro.com/blog/2018/10/17/haskells-kind-system-a-primer/)
-* [Kind Inference for Datatypes](https://richarde.dev/papers/2019/kind-inference/kind-inference.pdf)
-
-### 型付け
+### 型注釈
 
 > 1. Type annotations for an external function may require not only its type structure, but also references to the type names or implementations (i.e. import of modules where these types are declared).
 > 2. Partial type signatures still require the type structure of the function (making use of the scaffold of the type signature).
@@ -115,6 +69,11 @@ type a * b = (a, b)
 > 
 > [Тех-Детали: Type annotations vs partial type signatures vs visible type applications](https://lin-techdet.blogspot.com/2018/12/type-annotations-vs-partial-type.html)
 
+- [Tweag - Inferred or Specified Types? Your Choice!](https://www.tweag.io/blog/2020-03-12-expl-spec/)
+
+### 多相型
+- [Maybe? Use a type parameter!](https://www.parsonsmatt.org/2017/04/08/maybe_use_a_type_parameter.html)
+- [What the heck is polymorphism? - DEV](https://dev.to/jvanbruegge/what-the-heck-is-polymorphism-nmh)
 
 ## 関数
 * [A simple Haskell function](http://neilmitchell.blogspot.jp/2016/01/a-simple-haskell-function.html)
@@ -132,8 +91,10 @@ type a * b = (a, b)
 * [Haskell で「エラトステネスの篩」 その２ - Qiita](https://qiita.com/little_Haskeller/items/a3ec4c82c7099f1c9cf1)
 * [Haskellの関数の型とかカリー化とか #Haskell - Qiita](https://qiita.com/Tatsuki-I/items/d1d122107da8c1ee121f)
 * [haskellで2重リストにmapを適用させる例 - Qiita](https://qiita.com/P0ngCh4ng/items/fb3f24b7c3138bd1b159)
+* [Haskell - $の仕組みを覗いてみよう - Qiita](https://qiita.com/grainrigi/items/f45b586b4013ffc3814e)
+- [Compose Tetris - Fintan Halpenny - Medium](https://medium.com/@fintan.halpenny/compose-tetris-196b70035aff)
 
-### 直和型／パターンマッチ
+### パターンマッチ
 * [Pattern matching](http://mbps.hatenablog.com/entry/2014/10/04/010000)
 * [PATTERN MATCHING: WOT'S... UH THE DEAL?](http://www.stackbuilders.com/news/pattern-matching-wot-s-uh-the-deal)
 * [Pattern and Guard Extensions](https://www.fpcomplete.com/school/to-infinity-and-beyond/pick-of-the-week/guide-to-ghc-extensions/pattern-and-guard-extensions)
@@ -246,3 +207,5 @@ fib n = fibs !! (n-1) + fibs !! (n-2)
 * [Haskell のモジュールとパッケージの基礎知識 - Qiita](https://qiita.com/kyotsuya/items/a7015ae5ad413288d8fe)
 * [Haskell でも heredoc がしたい - Haskell-jp](https://haskell.jp/blog/posts/2019/string-gap-for-heredoc-like.html)
 * [accidentally-exponential](http://h2.jaguarpaw.co.uk/posts/accidentally-exponential/)
+* [Idiomatic Haskell : haskell](https://www.reddit.com/r/haskell/comments/84qs5x/idiomatic_haskell/)
+* [Haskell/GHC symbol search cheatsheet](https://github.com/takenobu-hs/haskell-symbol-search-cheatsheet)
