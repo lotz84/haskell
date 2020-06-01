@@ -177,6 +177,8 @@ data HList (as :: [*]) where
 * [Kwang's Haskell Blog - Data.Proxy](https://kseo.github.io//posts/2017-01-15-data-proxy.html)
 * [で、出たー！幽霊型だー！(Phantom Type) - Qiita](https://qiita.com/HirotoShioi/items/3444e215070144b8ca0f)
 * [Oleg's gists - Flag, a tagged Bool](http://oleg.fi/gists/posts/2019-03-21-flag.html)
+- [「混ぜられない数」をHaskell/GHCの型を使って手軽につくる - Qiita](https://qiita.com/takenobu-hs/items/14101cabf313e6d594ca)
+- [articles/tag-dont-type.md at master · quchen/articles](https://github.com/quchen/articles/blob/master/tag-dont-type.md)
 
 ```haskell
 data Circle
@@ -286,6 +288,7 @@ circum (Circle _ _ r) = …
 > Why use a dependent pair? A part from more advanced uses such as proof construction, online tutorials cite dependent typing as a way to make programs more correct (e.g., avoiding access to zero sized vector). Others say that dependent types allow to describe more precisely the intended behavior of programs. The way I see it is that they can reduce the combinatorial space of cases to consider when building a function.  
 > [Vittorio Zaccaria - Home page](http://www.vittoriozaccaria.net/#/blog/2018/01/27/what-i-whish-i-knew-haskell-and-dependent-pairs.html)
 * [Richard Eisenberg speaks on Dependent Types : haskell](https://www.reddit.com/r/haskell/comments/8lkv6l/richard_eisenberg_speaks_on_dependent_types/)
+- [Well-typed printfs cannot go wrong – ( )](http://kcsongor.github.io/purescript-safe-printf/)
 
 ```haskell
 {-# LANGUAGE GADTs, DataKinds, KindSignatures, TypeFamilies #-}
@@ -379,6 +382,7 @@ p_ :: Term arg result => arg -> result
 * [TypeFamilyDependencies の実用的な例を考える - ryota-ka's blog](https://ryota-ka.hatenablog.com/entry/2018/03/10/205817)
 * [Lysxia - Haskell with only one type family](http://blog.poisson.chat/posts/2018-08-06-one-type-family.html)
 * [Functional Dependencies & Type Families • gvolpe's blog](https://gvolpe.github.io/blog/functional-dependencies-and-type-families/)
+- [Associated Types and Haskell](http://amixtureofmusings.com/2016/05/19/associated-types-and-haskell/)
 
 ```haskell
 -- https://www.youtube.com/watch?v=snOBI8PcbMQ
@@ -431,3 +435,9 @@ instance Eval' Hole where
 * [Introduction to Singletons (Part 3) · in Code](https://blog.jle.im/entry/introduction-to-singletons-3.html)
 * [Introduction to Singletons (Part 4) · in Code](https://blog.jle.im/entry/introduction-to-singletons-4.html)
 * [How GHC 8.8 nearly killed singletons - Ryan Scott](https://ryanglscott.github.io/2019/08/29/how-ghc-8-8-nearly-killed-singletons/)
+
+### カインド
+* [About kind system of Haskell (Part 1)](https://haskell.jp/blog/posts/2017/10-about-kind-system-part1.html)
+* [Haskellの種(kind)について (Part 2)](https://haskell.jp/blog/posts/2017/13-about-kind-system-part2.html)
+* [Haskell's kind system - a primer · dcastro](https://diogocastro.com/blog/2018/10/17/haskells-kind-system-a-primer/)
+* [Kind Inference for Datatypes](https://richarde.dev/papers/2019/kind-inference/kind-inference.pdf)
