@@ -9,8 +9,9 @@
 * [Xiaolin Wu’s fast antialiased line drawing algorithm in Haskell](https://blog.rcook.org/blog/2018/xiaolin-wu-algorithm/)
 
 ## Animation
-* [Gluing together animations - Reanimate](https://reanimate.readthedocs.io/en/latest/glue_tut/)
-* [Animation DSL With Effect Handlers](https://rubenpieters.github.io/programming/haskell/2019/07/09/animation-dsl-1.html)
+- [Gluing together animations - Reanimate](https://reanimate.readthedocs.io/en/latest/glue_tut/)
+- [Animation DSL With Effect Handlers](https://rubenpieters.github.io/programming/haskell/2019/07/09/animation-dsl-1.html)
+- [Reanimate: a tutorial on making programmatic animations | William Yao](https://williamyaoh.com/posts/2020-05-31-reanimate-nqueens-tutorial.html)
 
 ## GUI
 * [fltkhs](http://hackage.haskell.org/package/fltkhs)
