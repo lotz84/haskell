@@ -94,7 +94,3 @@ Monad Transformer
 * [【Control.Monad.Trans】(3) ExceptTモナド - Qiita](https://qiita.com/sand/items/fe3c29560136803e8b11)
 * [【Control.Monad.Trans】(4) ReaderTモナド - Qiita](https://qiita.com/sand/items/93d6ba75b0c4e39ce295)
 * [【Control.Monad.Trans】(5) IOモナド - Qiita](https://qiita.com/sand/items/ee3c19c191c87c32f867)
-
-## 属性文法
-* [なぜ属性文法は重要か](https://sites.google.com/site/paclearner/why_attribute_grammars_matter)
-* [Attribute Grammars Fly First-Class](http://www.staff.science.uu.nl/~swier004/Publications/AttributeGrammarsFly.pdf)
