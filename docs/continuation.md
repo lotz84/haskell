@@ -46,18 +46,19 @@ fac = facCps id
 newtype Cont r a = Cont { runCont :: (a -> r) -> r }
 ```
 
-* [継続モナドについて - Qiita](https://qiita.com/sgmryk/items/cb274102cb1062c9158d)
-* [継続モナドによるリソース管理](http://qiita.com/tanakh/items/81fc1a0d9ae0af3865cb)
-* [Continuation Passing Style in Haskell](http://begriffs.com/posts/2015-06-03-haskell-continuations.html)
-* [無限ループから抜け出すプログラム](http://qiita.com/lotz/items/a1ff5725e918e216940e)
-* [Tweet](https://twitter.com/cdepillabout/status/972515871301120000)
-* [ContT を使ってコードを綺麗にしよう！](https://haskell.e-bigmoon.com/posts/2018/06-26-cont-param.html)
-* [Forking and ContT (I)](https://hexagoxel.de/postsforpublish/posts/2018-09-09-cont-part-one.html)
-* [ContT, withLifted and resetContIO (II)](https://hexagoxel.de/postsforpublish/posts/2018-09-12-cont-part-two.html)
-* [Fun fact: The continuation monad `Cont r a` has an equality instance when `r` is finite. : haskell](https://www.reddit.com/r/haskell/comments/ahu6jp/fun_fact_the_continuation_monad_cont_r_a_has_an/)
-* [Why would you use ContT?](https://ro-che.info/articles/2019-06-07-why-use-contt)
-* [Lysxia - The reasonable effectiveness of the continuation monad](https://blog.poisson.chat/posts/2019-10-26-reasonable-continuations.html)
-* [How does the continuation monad work? \| Max Hallinan](https://maxhallinan.com/posts/2019/10/22/how-does-the-continuation-monad-work/)
+- [継続モナドについて - Qiita](https://qiita.com/sparklingbaby/items/2eacabb4be93b9b64755)
+- [継続モナドについて - Qiita](https://qiita.com/sgmryk/items/cb274102cb1062c9158d)
+- [継続モナドによるリソース管理](http://qiita.com/tanakh/items/81fc1a0d9ae0af3865cb)
+- [Continuation Passing Style in Haskell](http://begriffs.com/posts/2015-06-03-haskell-continuations.html)
+- [無限ループから抜け出すプログラム](http://qiita.com/lotz/items/a1ff5725e918e216940e)
+- [Tweet](https://twitter.com/cdepillabout/status/972515871301120000)
+- [ContT を使ってコードを綺麗にしよう！](https://haskell.e-bigmoon.com/posts/2018/06-26-cont-param.html)
+- [Forking and ContT (I)](https://hexagoxel.de/postsforpublish/posts/2018-09-09-cont-part-one.html)
+- [ContT, withLifted and resetContIO (II)](https://hexagoxel.de/postsforpublish/posts/2018-09-12-cont-part-two.html)
+- [Fun fact: The continuation monad `Cont r a` has an equality instance when `r` is finite. : haskell](https://www.reddit.com/r/haskell/comments/ahu6jp/fun_fact_the_continuation_monad_cont_r_a_has_an/)
+- [Why would you use ContT?](https://ro-che.info/articles/2019-06-07-why-use-contt)
+- [Lysxia - The reasonable effectiveness of the continuation monad](https://blog.poisson.chat/posts/2019-10-26-reasonable-continuations.html)
+- [How does the continuation monad work? \| Max Hallinan](https://maxhallinan.com/posts/2019/10/22/how-does-the-continuation-monad-work/)
 
 ### 継続による計算の効率化
 継続を使って短絡評価が実装できる  
