@@ -240,6 +240,9 @@ circum (Circle _ _ r) = …
 * [The Essential Tools of Open-Source: Functional Programming, Parametricity, Types](https://www.youtube.com/watch?v=4hTtcUeqmfY)
 * [Parametricity and excluded middle](http://homotopytypetheory.org/2016/02/24/parametricity-and-excluded-middle/)
 * [Djinn](http://www.hedonisticlearning.com/djinn/)
+- [Typing Haskell in Haskell](https://web.cecs.pdx.edu/~mpj/thih/thih.pdf)
+- [Typing Haskell in Haskellを読んでみる - Qiita](https://qiita.com/nka0i/items/d44f0c6d4df1ef582fd3)
+- [Stitch: The Sound Type-Indexed Type Checker](https://cs.brynmawr.edu/~rae/papers/2018/stitch/stitch.pdf)
 
 ## 定理証明
 * [定理証明リンク集 - The curse of λ](https://myuon.github.io/posts/start-learning-proof-assistant/)
