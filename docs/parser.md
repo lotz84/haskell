@@ -185,6 +185,7 @@ parse = evalStateT
 ### Others
 - [『形式意味論入門』を Haskell に書き下す (前編) - ryota-ka's blog](https://ryota-ka.hatenablog.com/entry/2019/08/15/213000)
 - [ollef/Earley: Parsing all context-free grammars using Earley's algorithm in Haskell.](https://github.com/ollef/Earley)
+- [Wouter Swierstra, なぜ属性文法は重要か（原題：Why Attribute Grammars Matter） - Pac Learner](https://sites.google.com/site/paclearner/why_attribute_grammars_matter)
 
 ## インタプリタ／コンパイラ
 - [CSCI 360: Programming Languages (Fall 2016)](http://ozark.hendrix.edu/~yorgey/360/f16/)
