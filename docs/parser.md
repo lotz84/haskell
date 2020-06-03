@@ -1,78 +1,9 @@
-* [Alex and Happy: Parsing comments and strings](http://www.jyotirmoy.net/posts/2015-08-17-alex-happy-startcodes.html)
-* [Write Yourself a Scheme in 48 Hours](http://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours) [[ja](https://ja.wikibooks.org/wiki/48%E6%99%82%E9%96%93%E3%81%A7Scheme%E3%82%92%E6%9B%B8%E3%81%93%E3%81%86)]
-* [Write You A Scheme, Version 2](https://wespiser.com/writings/wyas/home.html)
-* [Write You a Haskell](http://dev.stephendiehl.com/fun/)
-* [The Implementation of Functional Programming Languages](http://research.microsoft.com/en-us/um/people/simonpj/papers/slpj-book-1987/)
-* [Haskell コンパイラを書こう！](https://uhideyuki.sakura.ne.jp/studs/index.cgi/ja/HaskellInHaskell)
-* [Introduction to PEG](http://www.slideshare.net/kmizushima/introduction-to-peg)
-* [ビジュアル構文解析](http://www.slideshare.net/ichikaz3/ss-11400787)
-* [Tries and elegant Scope Checking](http://jaspervdj.be/posts/2015-10-30-tries-scope-checking.html)
-* [24 days of Hackage, 2015: day 13: hint: runtime eval for Haskell](http://conscientiousprogrammer.com/blog/2015/12/13/24-days-of-hackage-2015-day-13-hint-runtime-eval-for-haskell/)
-* [24 days of Hackage, 2015: day 14: Earley: a promising newer parser library for Haskell](http://conscientiousprogrammer.com/blog/2015/12/14/24-days-of-hackage-2015-day-14-earley-a-promising-newer-parser-library-for-haskell/)
-* [Yuras/scanner](https://github.com/Yuras/scanner)
-* [Building a Lisp->JS transpiler From Scratch in 350 LOC](http://gilmi.xyz/post/2016/10/14/lisp-to-js)
-* [24 days of Hackage, 2015: day 10: s-cargot: using S-expression syntax](http://conscientiousprogrammer.com/blog/2015/12/10/24-days-of-hackage-2015-day-10-s-cargot-using-s-expression-syntax/)
-* [Write you an interpreter](http://kseo.github.io/posts/2016-12-30-write-you-an-interpreter.html)
-* [A tale of backwards compatibility in ASTs](http://blog.ezyang.com/2016/12/a-tale-of-backwards-compatibility-in-asts/)
-* [Continuation Passing Style Interpreter](https://kseo.github.io/posts/2017-01-09-continuation-passing-style-interpreter.html)
-* [Fast Haskell: Competing with C at parsing XML](http://chrisdone.com/posts/fast-haskell-c-parsing-xml)
-* [CSCI 360: Programming Languages (Fall 2016)](http://ozark.hendrix.edu/~yorgey/360/f16/)
-* [僕の考えたさいきょうの抽象構文木データ型 - autotaker's blog](http://autotaker.hatenablog.com/entry/2017/01/16/143444)
-* [ollef/Earley: Parsing all context-free grammars using Earley's algorithm in Haskell.](https://github.com/ollef/Earley)
-* [SECDマシン - Qiita](http://qiita.com/kumatoki/items/0e9a9e341e6b1d9528af)
-* [素朴なlispインタープリター - Qiita](http://qiita.com/kmtoki/items/38adf6fa9da0deffb57e)
-* [seagreen/state-of-haskell-bnf](https://github.com/seagreen/state-of-haskell-bnf)
-* [Philip Cunningham - Parse Ruby Objects in Haskell](https://filib.io/posts/2017-04-24-parse-ruby-objects-in-haskell.html)
-* [The round-trip property](http://teh.id.au/posts/2017/06/07/round-trip-property/index.html)
-* [Higher-order Abstract Syntax for Cartesian Closed Categories](http://blog.functorial.com/posts/2017-10-08-HOAS-CCCs.html)
-* [mvv/data-elf](https://github.com/mvv/data-elf) - ELF data structures for Haskell
-* [How To Write an Interpreter for a Lambda-Calculus-Based Language](http://semantic.org/post/how-to-write-an-interpreter-for-a-lambda-calculus-based-language/)
-* [Haskellのパーサライブラリまとめ - Qiita](https://qiita.com/Mizunashi_Mana/items/115855bf2af9b9970198)
-* [Parsing and Tweeting](https://ibnuda.gitlab.io/2018-01-07-parsing-and-tweeting.html)
-* [/usr/sbin - Symbolic Execution: Intuition and Implementation](http://www.usrsb.in/symbolic-execution-intuition-and-implementation.html)
-* [Typing Haskell in Haskell](https://web.cecs.pdx.edu/~mpj/thih/thih.pdf)
-* [Typing Haskell in Haskellを読んでみる - Qiita](https://qiita.com/nka0i/items/d44f0c6d4df1ef582fd3)
-* [ASTs with Fix and Free](http://chrispenner.ca/posts/asts-with-fix-and-free)
-* [HaskellでC言語コンパイラ動かしたり、関数化しやすくして再利用性を高めたりしてみたよ - Qiita](https://qiita.com/nwtgck/items/49373211cc14322ee59b)
-* [Stitch: The Sound Type-Indexed Type Checker (Author’s Cut)](https://cs.brynmawr.edu/~rae/papers/2018/stitch/stitch.pdf)
-* [Announcing GHC syntax highlighter](https://markkarpov.com/post/announcing-ghc-syntax-highlighter.html)
-* [Happyでパースエラーで列行番号とどんなミスマッチが起こったか報告する - Qiita](https://qiita.com/aiya000/items/7cdc843972c8bd9da04e)
-* [Code Generation with llvm-hs by Stephen Diehl : haskell](https://www.reddit.com/r/haskell/comments/8trfl7/code_generation_with_llvmhs_by_stephen_diehl/)
-* [Email message parsing in Haskell in 2018](https://gist.github.com/chrisdone/47a9e22672b54dedc87dec8b415e8127)
-* [Haskell Works Blog - Introduction to SIMD with linecount](https://haskell-works.github.io/posts/2018-09-03-simd-with-linecount.html)
-* [Haskell の Fixity Resolution を試してみる - Qiita](https://qiita.com/wgag/items/2967ea6994832d2232f8)
-* [Parsing and generating ABIF files (DNA chromatograms)](https://www.andrevdm.com/posts/2019-01-09-abif-chromatograms.html)
-* [github/semantic: Parsing, analyzing, and comparing source code across many languages](https://github.com/github/semantic)
-* [『形式意味論入門』を Haskell に書き下す (前編) - ryota-ka's blog](https://ryota-ka.hatenablog.com/entry/2019/08/15/213000)
-* [Learn Functional Programming by writing a Scheme in Haskell :: 0x0f0f0f](https://0x0f0f0f.github.io/posts/2019/09/learn-functional-programming-by-writing-a-scheme-in-haskell/)
-* [llvm-hs Kaleidoscope Tutorial](https://lukelau.me/kaleidoscope/)
-* [Haskell+LLVM構成で作る自作コンパイラ - Qiita](https://qiita.com/toru0408/items/6bedee118ba08ea2c0b2)
-* [Go言語でつくるインタプリタを Haskell で書く - Qiita](https://qiita.com/kita127/items/a50927bbafcc874d5065)
-* [regex-applicative: 内部DSLとしての正規表現（ブログ記事版） - Haskell-jp](https://haskell.jp/blog/posts/2019/regex-applicative.html)
-* [osa1 - Knot-tying: why and how (and my opinions on it)](https://osa1.net/posts/2020-02-21-knot-tying-why-how-opinions.html)
-* [Micro C, Part 1: Parsing – Joseph Morag](https://blog.josephmorag.com/posts/mcc1/)
+## 構文解析器
+### Alex / Happy
+- [Alex and Happy: Parsing comments and strings](https://www.jyotirmoy.net/posts/2015-08-17-alex-happy-startcodes.html)
+- [Happyでパースエラーで列行番号とどんなミスマッチが起こったか報告する - Qiita](https://qiita.com/aiya000/items/7cdc843972c8bd9da04e)
 
-## 正規表現
-* [関数型的正規表現マッチ](https://research.preferred.jp/2010/11/regexp-play/)
-* [24 days of Hackage, 2015: day 2: Regexes with pcre-heavy; standalone Haskell scripts using Stack](http://conscientiousprogrammer.com/blog/2015/12/02/24-days-of-hackage-2015-day-2-regexes-with-pcre-heavy-standalone-haskell-scripts-using-stack/)
-* [lens-regex で正規表現を便利に](http://qiita.com/thimura/items/887db74cdf8bde9c1902)
-* [Haskellで簡単な正規表現を実装した【KMCアドベントカレンダー8日目】](http://yu-i9.hatenablog.com/entry/2014/12/08/000104)
-* [A Play on Regular Expressions](http://sebfisch.github.io/haskell-regexp/regexp-play.pdf)
-* [Differentiating Regular Expressions](http://languagengine.co/blog/differentiating-regular-expressions/)
-* [Partial Derivatives of Regular Expressions](https://www.youtube.com/watch?v=QVdBPvOOjBA)
-* [Regex Edit Distance](http://languagengine.co/blog/regex-edit-distance/)
-* [Fast, Elegant Regexes in Haskell](https://begriffs.com/posts/2016-06-27-fast-haskell-regexes.html)
-* [2016 11 24 - Herrmann - Compiling a Simple language to LLVM](https://www.youtube.com/watch?v=Re3XgFfflzg&feature=youtu.be)
-* [IRIS Connect Engineers' Blog - regex: A Toolkit for regex-base](http://engineers.irisconnect.net/posts/2017-03-07-regex.html)
-* [Regular Expressions of Types – Oleg Grenrus - SmallFP 2018-09-13 : haskell](https://www.reddit.com/r/haskell/comments/9gmpzc/regular_expressions_of_types_oleg_grenrus_smallfp/)
-* [先読み付き正規表現の微分について](https://makenowjust-labo.github.io/rewla/langimpl-ac2018.html)
-* [Applicative Regular Expressions using the Free Alternative · in Code](https://blog.jle.im/entry/free-alternative-regexp.html)
-* [ChrisPenner/lens-regex-pcre: Text lenses using PCRE regexes](https://github.com/ChrisPenner/lens-regex-pcre)
-* [Locally Nameless :: Callan McGill](https://boarders.github.io/posts/locally-nameless/)
-* [Things that amuse me](http://augustss.blogspot.com/2007/10/simpler-easier-in-recent-paper-simply.html)
-* [regex-applicative: 内部DSLとしての正規表現（ブログ記事版） - Haskell-jp](https://haskell.jp/blog/posts/2019/regex-applicative.html)
-
-## パーサーコンビネータ
+### パーサーコンビネータ
 * [JavaScriptでパーサコンビネータのコンセプトを理解する](http://blog.anatoo.jp/entry/2015/04/26/220026)
 
 ```haskell
@@ -115,8 +46,9 @@ parse = evalStateT
 * [Parsing list comprehensions is hard](http://www.rntz.net/post/2018-07-10-parsing-list-comprehensions.html)
 * [「正規表現はあんまり使わないかな。パーサー使うから」っていう人の気持ちがわかった！ - Qiita](https://qiita.com/aiya000/items/82f432a4b19c60561c01)
 * [【Haskell】Persistentをstack installするときに発生するエラー対処。>=0.9.0 is required but it could not be found. - Qiita](https://qiita.com/moriwm77/items/aebda67739d8651ae21f)
+- [The round-trip property](https://teh.id.au/posts/2017/06/07/round-trip-property/index.html)
 
-### attoparsec
+#### attoparsec
 * [The attoparsec package](http://hackage.haskell.org/package/attoparsec)
 * [The blog of wjwh - Parsing infinite streams with attoparsec](http://www.wjwh.eu/posts/2019-01-01-parsing-infinite-streams.html)
 
@@ -131,11 +63,11 @@ parse = evalStateT
 * [Megaparsec 8](https://markkarpov.com/post/megaparsec-8.html)
 * [jamesdbrock/replace-megaparsec: Stream editing with Haskell Megaparsec parsers](https://github.com/jamesdbrock/replace-megaparsec)
 
-### Terifecta
+#### Terifecta
 * [The trifecta package](https://hackage.haskell.org/package/trifecta)
 * [Trifecta で拡張可能パーサを作る - Qiita](https://qiita.com/Mizunashi_Mana/items/064531eb4aeacb5a7c63)
 
-### Language
+#### Language
 * [Hackage Search: language](https://hackage.haskell.org/packages/search?terms=language)
 * [haskell-src-exts](https://hackage.haskell.org/package/haskell-src-exts)
 * [language-javascript](https://hackage.haskell.org/package/language-javascript)
@@ -145,10 +77,12 @@ parse = evalStateT
 * [language-rust: Parsing and pretty printing of Rust code](https://hackage.haskell.org/package/language-rust)
 * [language-c: Analysis and generation of C code](https://hackage.haskell.org/package/language-c)
 
-## バイナリ
-* [Haskellでバイナリをパースする その１(たぶん続かない)](http://qiita.com/AyachiGin/items/4f9a0afea548288bfc87)
+## ファイルフォーマット
+### バイナリ
+- [Haskellでバイナリをパースする その１(たぶん続かない)](http://qiita.com/AyachiGin/items/4f9a0afea548288bfc87)
+- [Yuras/scanner: Fast non-backtracking incremental combinator parsing for bytestrings](https://github.com/Yuras/scanner)
 
-## CSV
+### CSV
 * ベンチマーク
   * https://github.com/haskell-perf/csv
 * [cassava](https://hackage.haskell.org/package/cassava)
@@ -161,7 +95,7 @@ parse = evalStateT
 * [ChrisPenner/lens-csv: Lensy interface for parsing CSV's](https://github.com/ChrisPenner/lens-csv)
 * [HaskellでData.Csv(cassava)を使ってcsvファイルを処理する - Qiita](https://qiita.com/TTsurutani/items/811814ebf548332ede8a)
 
-## XML
+### XML
 * [xml-conduit](https://hackage.haskell.org/package/xml-conduit)
   * [xml-lens](https://hackage.haskell.org/package/xml-lens)
 * [The hxt package](https://hackage.haskell.org/package/hxt)
@@ -169,29 +103,29 @@ parse = evalStateT
 * [ocramz/xeno: Fast Haskell XML parser](https://github.com/ocramz/xeno)
 * [4e6/haskell-perf-xml - Simple benchmarks for XML parsing libraries](https://github.com/4e6/haskell-perf-xml)
 
-## HTML
+### HTML
 * [A taste of tag soup](http://codekinder.com/wordpress/a-taste-of-tag-soup)
 * [How to write a simple MarkDown to inline-Styled HTml tool with Haskell](http://qiita.com/kimagure/items/97e8d7b9cb318ba7ebef)
 
-## Excel
+### Excel
 * [xlsx](https://hackage.haskell.org/package/xlsx)
 
-## PDF
+### PDF
 * [詳細PDF入門 ー 実装して学ぼう！PDFファイルの構造とその書き方読み方](http://itchyny.hatenablog.com/entry/2015/09/16/100000)
 
-## YAML
+### YAML
 * [yamadapc/haskell-frontmatter](https://github.com/yamadapc/haskell-frontmatter)
 * [YAML + Aeson Lenses](http://mojobojo.com/posts/2016-03-31-yaml-aeson-lenses.html)
 
-## RDF
+### RDF
 * [rdf4h RDF for Haskell](http://robstewart57.github.io/rdf4h/)
 
-## Markdown
+### Markdown
 * [snoyberg/markdown](https://github.com/snoyberg/markdown)
 * [cmark: Fast, accurate CommonMark (Markdown) parser and renderer](https://hackage.haskell.org/package/cmark)
 * [Announcing MMark](https://markkarpov.com/post/announcing-mmark.html)
 
-## JSON
+### JSON
 * [HaskellとJSON、そしてレコード型](http://syocy.hatenablog.com/entry/2017/08/14/235830)
 * [aeson](http://hackage.haskell.org/package/aeson)
   * [Aeson: the tutorial](http://artyom.me/aeson)
@@ -220,3 +154,66 @@ parse = evalStateT
 * [aeson-schemas: Easily consume JSON data on-demand with type-safety](http://hackage.haskell.org/package/aeson-schemas)
 * [Typeable Blog - JSON parser performance optimization, the slow path trick](https://blog.typeable.io/posts/2020-02-24-performance_slow_path.html)
 - [JSON Parsing from Scratch in Haskell \| abhinavsarkar.net](https://abhinavsarkar.net/posts/json-parsing-from-scratch-in-haskell/)
+
+### Others
+- [github/semantic: Parsing, analyzing, and comparing source code across many languages](https://github.com/github/semantic)
+- [Parsing and generating ABIF files (DNA chromatograms)](https://www.andrevdm.com/posts/2019-01-09-abif-chromatograms.html)
+- [Philip Cunningham - Parse Ruby Objects in Haskell](https://filib.io/posts/2017-04-24-parse-ruby-objects-in-haskell.html)
+- [Email message parsing in Haskell in 2018](https://gist.github.com/chrisdone/47a9e22672b54dedc87dec8b415e8127)
+
+## 形式言語
+### 正規表現
+* [A tale of backwards compatibility in ASTs](http://blog.ezyang.com/2016/12/a-tale-of-backwards-compatibility-in-asts/)
+* [関数型的正規表現マッチ](https://research.preferred.jp/2010/11/regexp-play/)
+* [24 days of Hackage, 2015: day 2: Regexes with pcre-heavy; standalone Haskell scripts using Stack](http://conscientiousprogrammer.com/blog/2015/12/02/24-days-of-hackage-2015-day-2-regexes-with-pcre-heavy-standalone-haskell-scripts-using-stack/)
+* [lens-regex で正規表現を便利に](http://qiita.com/thimura/items/887db74cdf8bde9c1902)
+* [Haskellで簡単な正規表現を実装した【KMCアドベントカレンダー8日目】](http://yu-i9.hatenablog.com/entry/2014/12/08/000104)
+* [A Play on Regular Expressions](http://sebfisch.github.io/haskell-regexp/regexp-play.pdf)
+* [Differentiating Regular Expressions](http://languagengine.co/blog/differentiating-regular-expressions/)
+* [Partial Derivatives of Regular Expressions](https://www.youtube.com/watch?v=QVdBPvOOjBA)
+* [Regex Edit Distance](http://languagengine.co/blog/regex-edit-distance/)
+* [Fast, Elegant Regexes in Haskell](https://begriffs.com/posts/2016-06-27-fast-haskell-regexes.html)
+* [2016 11 24 - Herrmann - Compiling a Simple language to LLVM](https://www.youtube.com/watch?v=Re3XgFfflzg&feature=youtu.be)
+* [IRIS Connect Engineers' Blog - regex: A Toolkit for regex-base](http://engineers.irisconnect.net/posts/2017-03-07-regex.html)
+* [Regular Expressions of Types – Oleg Grenrus - SmallFP 2018-09-13 : haskell](https://www.reddit.com/r/haskell/comments/9gmpzc/regular_expressions_of_types_oleg_grenrus_smallfp/)
+* [Applicative Regular Expressions using the Free Alternative · in Code](https://blog.jle.im/entry/free-alternative-regexp.html)
+* [ChrisPenner/lens-regex-pcre: Text lenses using PCRE regexes](https://github.com/ChrisPenner/lens-regex-pcre)
+* [Locally Nameless :: Callan McGill](https://boarders.github.io/posts/locally-nameless/)
+* [Things that amuse me](http://augustss.blogspot.com/2007/10/simpler-easier-in-recent-paper-simply.html)
+* [regex-applicative: 内部DSLとしての正規表現（ブログ記事版） - Haskell-jp](https://haskell.jp/blog/posts/2019/regex-applicative.html)
+
+### Others
+- [『形式意味論入門』を Haskell に書き下す (前編) - ryota-ka's blog](https://ryota-ka.hatenablog.com/entry/2019/08/15/213000)
+- [ollef/Earley: Parsing all context-free grammars using Earley's algorithm in Haskell.](https://github.com/ollef/Earley)
+
+## インタプリタ／コンパイラ
+- [CSCI 360: Programming Languages (Fall 2016)](http://ozark.hendrix.edu/~yorgey/360/f16/)
+- [Go言語でつくるインタプリタを Haskell で書く - Qiita](https://qiita.com/kita127/items/a50927bbafcc874d5065)
+- [Micro C, Part 1: Parsing – Joseph Morag](https://blog.josephmorag.com/posts/mcc1/)
+- [λm.me - Compiling Lisp to JavaScript From Scratch in 350 LOC](https://gilmi.xyz/blog/post/2016/10/14/lisp-to-js)
+
+### Scheme
+- [Learn Functional Programming by writing a Scheme in Haskell :: 0x0f0f0f](https://0x0f0f0f.github.io/posts/2019/09/learn-functional-programming-by-writing-a-scheme-in-haskell/)
+- [48時間でSchemeを書こう - Wikibooks](https://ja.wikibooks.org/wiki/48%E6%99%82%E9%96%93%E3%81%A7Scheme%E3%82%92%E6%9B%B8%E3%81%93%E3%81%86)
+- [Write You A Scheme, Version 2](https://wespiser.com/writings/wyas/home.html)
+- [24 days of Hackage, 2015: day 10: s-cargot: using S-expression syntax · Franklin Chen](https://conscientiousprogrammer.com/blog/2015/12/10/24-days-of-hackage-2015-day-10-s-cargot-using-s-expression-syntax/)
+- [素朴なlispインタープリター - Qiita](https://qiita.com/kmtoki/items/38adf6fa9da0deffb57e)
+
+### LLVM
+- [llvm-hs Kaleidoscope Tutorial](https://lukelau.me/kaleidoscope/)
+- [Haskell+LLVM構成で作る自作コンパイラ - Qiita](https://qiita.com/toru0408/items/6bedee118ba08ea2c0b2)
+
+### Haskell
+- [Write You a Haskell ( Stephen Diehl )](http://dev.stephendiehl.com/fun/)
+- [Haskell コンパイラを書こう！](https://uhideyuki.sakura.ne.jp/studs/index.cgi/ja/HaskellInHaskell)
+- [The Implementation of Functional Programming Languages - Microsoft Research](https://www.microsoft.com/en-us/research/publication/the-implementation-of-functional-programming-languages/)
+
+### AST/実装テクニック
+- [Kwang's Haskell Blog - Write you an interpreter](http://kseo.github.io/posts/2016-12-30-write-you-an-interpreter.html)
+- [jaspervdj - Tries and elegant Scope Checking](https://jaspervdj.be/posts/2015-10-30-tries-scope-checking.html)
+- [osa1 - Knot-tying: why and how (and my opinions on it)](https://osa1.net/posts/2020-02-21-knot-tying-why-how-opinions.html)
+- [A tale of backwards compatibility in ASTs : Inside 245-5D](http://blog.ezyang.com/2016/12/a-tale-of-backwards-compatibility-in-asts/)
+- [Functorial Blog - Higher-order Abstract Syntax for Cartesian Closed Categories](https://blog.functorial.com/posts/2017-10-08-HOAS-CCCs.html)
+- [Kwang's Haskell Blog - Continuation Passing Style Interpreter](https://kseo.github.io/posts/2017-01-09-continuation-passing-style-interpreter.html)
+- [僕の考えたさいきょうの抽象構文木データ型 - autotaker's blog](http://autotaker.hatenablog.com/entry/2017/01/16/143444)
+- [/usr/sbin - Symbolic Execution: Intuition and Implementation](http://www.usrsb.in/symbolic-execution-intuition-and-implementation.html)
