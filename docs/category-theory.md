@@ -17,6 +17,7 @@
 * Steve Awodey - Category Theory Foundations [1](https://www.youtube.com/watch?v=ZKmodCApZwk), [2](https://www.youtube.com/watch?v=TQYjekxqw-Q), [3](https://www.youtube.com/watch?v=BOynNljjbeg), [4](https://www.youtube.com/watch?v=8fZmdhLLgs4)
 * [The Catsters' Category Theory Videos](http://www.simonwillerton.staff.shef.ac.uk/TheCatsters/)
 * [Category Theory for Programmers](http://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+* [Category Theory and Lambda Calculus](https://mroman42.github.io/ctlc/ctlc.pdf)
 * [Category Theory Lulz - Ken Scambler](https://www.youtube.com/watch?v=jDhMDgU7Koc)
 * [Abstract and Concrete Categories](http://katmat.math.uni-bremen.de/acc/acc.pdf)
 * [Limits and Colimits](http://bartoszmilewski.com/2015/04/15/limits-and-colimits/)
