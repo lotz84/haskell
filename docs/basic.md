@@ -178,9 +178,10 @@ fib n = fibs !! (n-1) + fibs !! (n-2)
 * [関数のメモ化](https://kakkun61.hatenablog.com/entry/2019/07/29/%E9%96%A2%E6%95%B0%E3%81%AE%E3%83%A1%E3%83%A2%E5%8C%96)
 
 ### 正格評価
-* [fixpt - All About Strictness Analysis (part 1)](http://fixpt.de/blog/2017-12-04-strictness-analysis-part-1.html)
-* [fixpt - All About Strictness Analysis (part 2)](http://fixpt.de/blog/2018-12-30-strictness-analysis-part-2.html)
-* [Strict拡張でハマったお話 - Qiita](https://qiita.com/pxfnc/items/a26bda6d11402daba675)
+- [fixpt - All About Strictness Analysis (part 1)](http://fixpt.de/blog/2017-12-04-strictness-analysis-part-1.html)
+- [fixpt - All About Strictness Analysis (part 2)](http://fixpt.de/blog/2018-12-30-strictness-analysis-part-2.html)
+- [Strict拡張でハマったお話 - Qiita](https://qiita.com/pxfnc/items/a26bda6d11402daba675)
+- [Strict拡張を使用する際の注意点 - Haskell-jp](https://haskell.jp/blog/posts/2020/strict-gotchas.html)
 
 ### 部分関数
 * [Partial Function Considered Harmful](http://tanakh.jp/posts/2011-12-25-partial-function-considered-harmful.html)
