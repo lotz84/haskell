@@ -1,8 +1,9 @@
 # Haskellを書き始めるにあたって
 手っ取り早くHaskellを書いて試すにはWeb上で実装されたREPLを利用するのが便利でしょう。
 
-* [repl.it](https://repl.it/)
-* [Wandbox](https://wandbox.org/)
+- [CodeWorld Haskell](https://code.world/haskell)
+- [repl.it](https://repl.it/)
+- [Wandbox](https://wandbox.org/)
 
 以上のサービスはHaskellに対応しています。
 
