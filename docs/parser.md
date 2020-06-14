@@ -162,6 +162,13 @@ parse = evalStateT
 - [Email message parsing in Haskell in 2018](https://gist.github.com/chrisdone/47a9e22672b54dedc87dec8b415e8127)
 
 ## 形式言語
+### 微分
+- [Well-Typed - The Haskell Consultants: Fix-ing regular expressions](https://well-typed.com/blog/2020/06/fix-ing-regular-expressions/)
+- [Parsing with Derivatives - A Functional Pearl](http://matt.might.net/papers/might2011derivatives.pdf)
+- [Regular-expression derivatives reexamined](https://www.ccs.neu.edu/home/turon/re-deriv.pdf)
+- [[1010.5023] Yacc is dead](https://arxiv.org/abs/1010.5023)
+- [Yacc is dead: An update](http://matt.might.net/articles/parsing-with-derivatives/)
+
 ### 正規表現
 - [A tale of backwards compatibility in ASTs](http://blog.ezyang.com/2016/12/a-tale-of-backwards-compatibility-in-asts/)
 - [関数型的正規表現マッチ](https://research.preferred.jp/2010/11/regexp-play/)
