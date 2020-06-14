@@ -58,6 +58,7 @@
 ```
 
 - [Newtype - HaskellWiki](https://wiki.haskell.org/Newtype)
+- [Haskellのnewtypeとdataの違い - Qiita](https://qiita.com/Izawa_/items/9e641d7145fb9d4c4155)
 - [すごいH本で見落としがちだが実は重要な機能：newtype - Qiita](https://qiita.com/HirotoShioi/items/70cd235e93dee99bf8e8)
 - [本当はすごい newtype - Speaker Deck](https://speakerdeck.com/konn/ben-dang-hasugoi-newtype?slide=84)
 
