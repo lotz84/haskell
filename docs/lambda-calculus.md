@@ -33,3 +33,4 @@
 - [Lambda Calculus](https://afnan.io/posts/lambda-calculus/)
 - [Simply typed lambda calculus - Splinter Suidman](https://splintah.gitlab.io/posts/2020-05-24-Simply-typed-lambda.html)
 - [ラムダ計算で代数的データ型を表現する方法 - @syamino はてなダイアリー](https://syamino.hatenadiary.org/entry/20120524/p1)
+- [Bound](https://www.slideshare.net/ekmett/bound-making-de-bruijn-succ-less)
