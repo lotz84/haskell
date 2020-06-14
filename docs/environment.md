@@ -1,4 +1,6 @@
 # Haskellを書き始めるにあたって
+- [Haskell 環境構築ツールフローチャートを作りました - 趣味はデバッグ……](https://kakkun61.hatenablog.com/entry/2020/06/06/Haskell_%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89%E3%83%84%E3%83%BC%E3%83%AB%E3%83%95%E3%83%AD%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88%E3%82%92%E4%BD%9C%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F)
+
 手っ取り早くHaskellを書いて試すにはWeb上で実装されたREPLを利用するのが便利でしょう。
 
 - [CodeWorld Haskell](https://code.world/haskell)
