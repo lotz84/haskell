@@ -201,6 +201,10 @@ success
 ### patat
 - [jaspervdj/patat: Terminal-based presentations using Pandoc](https://github.com/jaspervdj/patat)
 
+### Penrose
+- [数式からいい感じに図表が生成できてしまう! Penroseを試す (SIGGRAPH 2020) - Qiita](https://qiita.com/tomo_makes/items/5f88c32b4c2f2f33da92)
+- [カーネギーメロン大、数式をイラストに翻訳してくれるツール「ペンローズ」発表！ \| Techable(テッカブル)](https://techable.jp/archives/126922)
+
 ### Pomohoro
 - [kqr/Pomohoro: [DONE] A small pomodoro timer based on CLI usage and FreeDesktop.org notifications.](https://github.com/kqr/Pomohoro)
 
