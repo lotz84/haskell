@@ -34,7 +34,8 @@ class Functor f where
 - [Functorに触れてみよう - Qiita](https://qiita.com/Izawa_/items/765c07ce6c6c999175b7)
 
 ### Bifunctor
-* [bifunctor](https://hackage.haskell.org/package/bifunctors)
+- [bifunctor](https://hackage.haskell.org/package/bifunctors)
+- [HaskellのBifunctor - Functorの拡張版 - Qiita](https://qiita.com/Izawa_/items/63fc45d3c7d056b1e729)
 
 ### Profunctor
 * [profunctor](https://hackage.haskell.org/package/profunctors)
@@ -72,7 +73,7 @@ class Functor f => Representable f where
 * [APLicative Programming with Naperian Functors](https://www.cs.ox.ac.uk/people/jeremy.gibbons/publications/aplicative.pdf)
 * [naperian tensors](https://tonyday567.github.io/naperian/index.html)
 
-## Applicative Functor
+## Applicative
 
 ```haskell
 class Functor f => Applicative f where
@@ -80,36 +81,37 @@ class Functor f => Applicative f where
     (<*>) :: f (a -> b) -> f a -> f b
 ```
 
-* [Applicative functor](http://mbps.hatenablog.com/entry/2014/07/16/200206)
-* [Applicative Programming with Effects](http://staff.city.ac.uk/~ross/papers/Applicative.html)
-* [monoidal functor](http://ncatlab.org/nlab/show/monoidal+functor)
-* [The Prio Applicative](http://jaspervdj.be/posts/2015-05-26-prio-applicative.html)
-* [Applicative Archery](http://duplode.github.io/posts/applicative-archery.html)
-* [Notions of Computation as Monoids](http://www.fceia.unr.edu.ar/~mauro/pubs/Notions_of_Computation_as_Monoids.pdf)
-* [Day convolution](http://ncatlab.org/nlab/show/Day+convolution)
-* [Free Applicative Functors](http://www.paolocapriotti.com/assets/applicative.pdf)
-* [Free Applicative Functors in Haskell](http://www.eyrie.org/~zednenem/2013/05/27/freeapp)
-* [More on Free Applicative Functors](http://www.eyrie.org/~zednenem/2013/06/freeapp-2)
-* [closed functor](http://ncatlab.org/nlab/show/closed+functor)
-* [Haskell Applicative Functors Explained Without Words](http://begriffs.com/posts/2013-08-28-weird-symbols-in-their-native-tongue_27.html)
-* [Applicatives in Math vs Code](http://begriffs.com/posts/2015-08-30-applicative-functors.html)
-* [Showcasing Applicative](http://www.joachim-breitner.de/blog/710-Showcasing_Applicative)
-* [Day convolution intuition](http://math.stackexchange.com/questions/1650786/day-convolution-intuition/1651127#1651127)
-* [Refactoring with Applicatives in Haskell](http://www.bbenson.co/post/refactoring-with-applicatives-in-haskell/)
-* [LambdaCast 17: Applicative Functors](https://soundcloud.com/lambda-cast/17-applicative-functors)
-* [Applicative スタイル `f <$> m1 <*> m2` を読み解く - Qiita](http://qiita.com/DUxCA/items/2f2bb996ba4b5a2e4f07)
-* [Functorial Blog - Co Finds a Pairing](http://blog.functorial.com/posts/2017-12-10-Co-Finds-A-Pairing.html)
-* [Applicative functors in Haskell – Lazy Eval – Medium](https://medium.com/lazy-eval/applicative-functors-in-haskell-f509e1c764d3)
-* [Applicative Functors and data validation](https://carlosmchica.github.io/applicatives-validation/)
-* [Applicative Functors and data validation \| Codurance \| Craft at Heart \| London \| Barcelona](https://codurance.com/2017/11/30/applicatives-validation/)
-* [Applicative Functors and data validation, part II \| Codurance \| Craft at Heart \| London \| Barcelona](https://codurance.com/2018/01/11/applicatives-validation/)
-* [Applicative Functors for Fun and Parsing – Arun Raghavan](https://arunraghavan.net/2018/02/applicative-functors-for-fun-and-parsing/)
-* [The Const Applicative and Monoids · in Code](https://blog.jle.im/entry/const-applicative-and-monoids.html)
-* [Selective applicative functors \| no time](https://blogs.ncl.ac.uk/andreymokhov/selective/)
-* [Selective Applicative Functors](https://www.staff.ncl.ac.uk/andrey.mokhov/selective-functors.pdf)
-* [An Applicative for Transactional Validation - Lumi Engineering](https://www.lumi.dev/blog/an-applicative-for-transactional-validation)
-* [二分木をアプリカティブにする - Qiita](https://qiita.com/cutsea110/items/c500f675d95093fe1f24)
-* [関数型プログラミング-Applicativeって何が嬉しいの？- - Qiita](https://qiita.com/masaki_shoji/items/930434432fc3764685ba)
+- [Applicative functor](http://mbps.hatenablog.com/entry/2014/07/16/200206)
+- [Applicative Programming with Effects](http://staff.city.ac.uk/~ross/papers/Applicative.html)
+- [monoidal functor](http://ncatlab.org/nlab/show/monoidal+functor)
+- [The Prio Applicative](http://jaspervdj.be/posts/2015-05-26-prio-applicative.html)
+- [Applicative Archery](http://duplode.github.io/posts/applicative-archery.html)
+- [Notions of Computation as Monoids](http://www.fceia.unr.edu.ar/~mauro/pubs/Notions_of_Computation_as_Monoids.pdf)
+- [Day convolution](http://ncatlab.org/nlab/show/Day+convolution)
+- [Free Applicative Functors](http://www.paolocapriotti.com/assets/applicative.pdf)
+- [Free Applicative Functors in Haskell](http://www.eyrie.org/~zednenem/2013/05/27/freeapp)
+- [More on Free Applicative Functors](http://www.eyrie.org/~zednenem/2013/06/freeapp-2)
+- [closed functor](http://ncatlab.org/nlab/show/closed+functor)
+- [Haskell Applicative Functors Explained Without Words](http://begriffs.com/posts/2013-08-28-weird-symbols-in-their-native-tongue_27.html)
+- [Applicatives in Math vs Code](http://begriffs.com/posts/2015-08-30-applicative-functors.html)
+- [Showcasing Applicative](http://www.joachim-breitner.de/blog/710-Showcasing_Applicative)
+- [Day convolution intuition](http://math.stackexchange.com/questions/1650786/day-convolution-intuition/1651127#1651127)
+- [Refactoring with Applicatives in Haskell](http://www.bbenson.co/post/refactoring-with-applicatives-in-haskell/)
+- [LambdaCast 17: Applicative Functors](https://soundcloud.com/lambda-cast/17-applicative-functors)
+- [Applicative スタイル `f <$> m1 <*> m2` を読み解く - Qiita](http://qiita.com/DUxCA/items/2f2bb996ba4b5a2e4f07)
+- [Functorial Blog - Co Finds a Pairing](http://blog.functorial.com/posts/2017-12-10-Co-Finds-A-Pairing.html)
+- [Applicative functors in Haskell – Lazy Eval – Medium](https://medium.com/lazy-eval/applicative-functors-in-haskell-f509e1c764d3)
+- [Applicative Functors and data validation](https://carlosmchica.github.io/applicatives-validation/)
+- [Applicative Functors and data validation \| Codurance \| Craft at Heart \| London \| Barcelona](https://codurance.com/2017/11/30/applicatives-validation/)
+- [Applicative Functors and data validation, part II \| Codurance \| Craft at Heart \| London \| Barcelona](https://codurance.com/2018/01/11/applicatives-validation/)
+- [Applicative Functors for Fun and Parsing – Arun Raghavan](https://arunraghavan.net/2018/02/applicative-functors-for-fun-and-parsing/)
+- [The Const Applicative and Monoids · in Code](https://blog.jle.im/entry/const-applicative-and-monoids.html)
+- [Selective applicative functors \| no time](https://blogs.ncl.ac.uk/andreymokhov/selective/)
+- [Selective Applicative Functors](https://www.staff.ncl.ac.uk/andrey.mokhov/selective-functors.pdf)
+- [An Applicative for Transactional Validation - Lumi Engineering](https://www.lumi.dev/blog/an-applicative-for-transactional-validation)
+- [二分木をアプリカティブにする - Qiita](https://qiita.com/cutsea110/items/c500f675d95093fe1f24)
+- [関数型プログラミング-Applicativeって何が嬉しいの？- - Qiita](https://qiita.com/masaki_shoji/items/930434432fc3764685ba)
+- [HaskellのApplicativeについて[基本編] - Qiita](https://qiita.com/Izawa_/items/a982c457e59d2f4beb26)
 
 ### Discrimination
 * [discrimination](http://hackage.haskell.org/package/discrimination)
