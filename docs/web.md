@@ -1,42 +1,3 @@
-Index
-=====
-* [Client](https://github.com/lotz84/haskell/blob/master/docs/web.md#client)
-  * [Scraping](https://github.com/lotz84/haskell/blob/master/docs/web.md#scraping)
-  * [Email](https://github.com/lotz84/haskell/blob/master/docs/web.md#email)
-* [Front end](https://github.com/lotz84/haskell/blob/master/docs/web.md#front-end)
-  * [Haskell to JavaScript compiler](https://github.com/lotz84/haskell/blob/master/docs/web.md#haskell-to-javascript-compiler)
-    * [GHC JS](https://github.com/lotz84/haskell/blob/master/docs/web.md#ghc-js)
-    * [Haste](https://github.com/lotz84/haskell/blob/master/docs/web.md#haste)
-    * [fay](https://github.com/lotz84/haskell/blob/master/docs/web.md#fay)
-  * [WebAssembly](https://github.com/lotz84/haskell/blob/master/docs/web.md#webassembly)
-  * [HTML Template](https://github.com/lotz84/haskell/blob/master/docs/web.md#html-template)
-    * [Lucid](https://github.com/lotz84/haskell/blob/master/docs/web.md#lucid)
-* [Back end](https://github.com/lotz84/haskell/blob/master/docs/web.md#back-end)
-  * [Web Server](https://github.com/lotz84/haskell/blob/master/docs/web.md#web-server)
-    * [ネットワークプログラミング](https://github.com/lotz84/haskell/blob/master/docs/web.md#ネットワークプログラミング)
-    * [WAI/Warp](https://github.com/lotz84/haskell/blob/master/docs/web.md#waiwarp)
-  * [Web Application Framework](https://github.com/lotz84/haskell/blob/master/docs/web.md#web-application-framework)
-    * [比較](https://github.com/lotz84/haskell/blob/master/docs/web.md#比較)
-    * [認証/認可](https://github.com/lotz84/haskell/blob/master/docs/web.md#認証認可)
-    * [Logger](https://github.com/lotz84/haskell/blob/master/docs/web.md#logger)
-    * [デプロイ](https://github.com/lotz84/haskell/blob/master/docs/web.md#デプロイ)
-    * [Scotty](https://github.com/lotz84/haskell/blob/master/docs/web.md#scotty)
-    * [Spock](https://github.com/lotz84/haskell/blob/master/docs/web.md#spock)
-    * [Rest](https://github.com/lotz84/haskell/blob/master/docs/web.md#rest)
-    * [Snap](https://github.com/lotz84/haskell/blob/master/docs/web.md#snap)
-    * [Servant](https://github.com/lotz84/haskell/blob/master/docs/web.md#servant)
-    * [Yesod](https://github.com/lotz84/haskell/blob/master/docs/web.md#yesod)
-  * [Protocol](https://github.com/lotz84/haskell/blob/master/docs/web.md#protocol)
-    * [MQTT](https://github.com/lotz84/haskell/blob/master/docs/web.md#mqtt)
-    * [Protocol Buffers](https://github.com/lotz84/haskell/blob/master/docs/web.md#protocol-buffers)
-    * [JSON-RPC](https://github.com/lotz84/haskell/blob/master/docs/web.md#json-rpc)
-    * [Web Socket](https://github.com/lotz84/haskell/blob/master/docs/web.md#web-socket)
-  * [Heroku](https://github.com/lotz84/haskell/blob/master/docs/web.md#heroku)
-    * [Haskell on Heroku](https://github.com/lotz84/haskell/blob/master/docs/web.md#haskell-on-heroku)
-* [Others](https://github.com/lotz84/haskell/blob/master/docs/web.md#others)
-
-----
-
 * [HaskellのWeb系ライブラリ紹介](https://www.ishiy.xyz/posts/2016-12-11-haskell-web.html)
 
 Client
@@ -206,23 +167,24 @@ WebAssembly
 
 HTML Template
 -------------
-* [shakespeare](https://hackage.haskell.org/package/shakespeare)
-* [ede](https://hackage.haskell.org/package/ede)
-* [mustache](https://hackage.haskell.org/package/mustache)
-* [The react-haskell package](https://hackage.haskell.org/package/react-haskell)
-  * [Animating Web UI with React and Haskell](http://joelburget.com/react-haskell/)
-* [blaze-html](http://hackage.haskell.org/package/blaze-html)
-* [meiersi/blaze-react](https://github.com/meiersi/blaze-react)
-* [stackbuilders/stache](https://github.com/stackbuilders/stache)
-* [Mustache templates in Haskell](https://www.stackbuilders.com/tutorials/haskell/mustache-templates/)
-* [Ginger: Jinja2-style HTML templates for Haskell](https://www.reddit.com/r/haskell/comments/5dfqtb/ginger_jinja2style_html_templates_for_haskell/)
-* [heterocephalus - Haskellとフロントエンドが仲良くできるテンプレートエンジン](http://qiita.com/arowM/items/b0259f1ca43ef3192d31)
-* [HaskellにおけるHTMLのテンプレートエンジンを調査する](http://sharply.hatenablog.com/entry/2016/11/09/224324)
-* [Haskell Formlets: Composable web form construction and validation](http://chrisdone.com/posts/haskell-formlets)
-* [Formlets are biapplicative](https://pepeiborra.wordpress.com/2017/09/21/formlets-are-biapplicative/)
-* [type-of-html: High performance type driven html generation.](https://hackage.haskell.org/package/type-of-html)
-* [nice-html: a fast and fancy HTML generation library](https://quasimal.com/posts/2018-01-11-nice-html.html)
-* [[ANN] colonnade : haskell](https://www.reddit.com/r/haskell/comments/5vga82/ann_colonnade/)
+- [shakespeare](https://hackage.haskell.org/package/shakespeare)
+- [ede](https://hackage.haskell.org/package/ede)
+- [mustache](https://hackage.haskell.org/package/mustache)
+- [The react-haskell package](https://hackage.haskell.org/package/react-haskell)
+  - [Animating Web UI with React and Haskell](http://joelburget.com/react-haskell/)
+- [blaze-html](http://hackage.haskell.org/package/blaze-html)
+- [meiersi/blaze-react](https://github.com/meiersi/blaze-react)
+- [stackbuilders/stache](https://github.com/stackbuilders/stache)
+- [Mustache templates in Haskell](https://www.stackbuilders.com/tutorials/haskell/mustache-templates/)
+- [Ginger: Jinja2-style HTML templates for Haskell](https://www.reddit.com/r/haskell/comments/5dfqtb/ginger_jinja2style_html_templates_for_haskell/)
+- [heterocephalus - Haskellとフロントエンドが仲良くできるテンプレートエンジン](http://qiita.com/arowM/items/b0259f1ca43ef3192d31)
+- [HaskellにおけるHTMLのテンプレートエンジンを調査する](http://sharply.hatenablog.com/entry/2016/11/09/224324)
+- [Haskell Formlets: Composable web form construction and validation](http://chrisdone.com/posts/haskell-formlets)
+- [Formlets are biapplicative](https://pepeiborra.wordpress.com/2017/09/21/formlets-are-biapplicative/)
+- [type-of-html: High performance type driven html generation.](https://hackage.haskell.org/package/type-of-html)
+- [nice-html: a fast and fancy HTML generation library](https://quasimal.com/posts/2018-01-11-nice-html.html)
+- [[ANN] colonnade : haskell](https://www.reddit.com/r/haskell/comments/5vga82/ann_colonnade/)
+- [Choosing an HTML library in Haskell](https://vrom911.github.io/blog/html-libraries)
 
 ### Lucid
 * [chrisdone/lucid](https://github.com/chrisdone/lucid)
@@ -279,14 +241,15 @@ Web Server
 * [Introducing Mu-Haskell v0.1 | 47 Degrees](https://www.47deg.com/blog/introducing-mu-haskell-0-1/)
 
 ### ネットワークプログラミング
-* [network: Low-level networking interface](https://hackage.haskell.org/package/network)
-* [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)
-* [Haskell でソケット通信をやってみる](http://yasutech.blogspot.jp/2012/01/haskell.html)
-* [socket](https://hackage.haskell.org/package/socket)
-* [vincenthz/hs-connection](https://github.com/vincenthz/hs-connection)
-* TLS/SSL implementation in haskell - [vincenthz/hs-tls](https://github.com/vincenthz/hs-tls)
-* [Haskell network library version 3.0 - あどけない話](https://kazu-yamamoto.hatenablog.jp/entry/2019/02/08/162027) - networkライブラリの歴史とv3.0のデザインについて
-* [Implementing graceful-close in Haskell network library - あどけない話](https://kazu-yamamoto.hatenablog.jp/entry/2019/09/20/165939)
+- [network: Low-level networking interface](https://hackage.haskell.org/package/network)
+- [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)
+- [Haskell でソケット通信をやってみる](http://yasutech.blogspot.jp/2012/01/haskell.html)
+- [socket](https://hackage.haskell.org/package/socket)
+- [vincenthz/hs-connection](https://github.com/vincenthz/hs-connection)
+- TLS/SSL implementation in haskell - [vincenthz/hs-tls](https://github.com/vincenthz/hs-tls)
+- [Haskell network library version 3.0 - あどけない話](https://kazu-yamamoto.hatenablog.jp/entry/2019/02/08/162027) - networkライブラリの歴史とv3.0のデザインについて
+- [Implementing graceful-close in Haskell network library - あどけない話](https://kazu-yamamoto.hatenablog.jp/entry/2019/09/20/165939)
+- [Implementing HTTP/3 in Haskell - あどけない話](https://kazu-yamamoto.hatenablog.jp/entry/2020/06/09/155236)
 
 
 ### WAI/Warp
