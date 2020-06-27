@@ -238,7 +238,8 @@ Web Server
 * [zhangchiqing/beginner-friendly-haskell-for-web-development: A book about real world web development in beginner friendly Haskell](https://github.com/zhangchiqing/beginner-friendly-haskell-for-web-development)
 * [A dead-simple web stack in Haskell \| William Yao](https://williamyaoh.com/posts/2019-11-16-a-dead-simple-web-stack.html)
 * [adventures in uncertainty: Serving HTTP Content with Fused-Effects](https://blog.sumtypeofway.com/posts/serving-http-content-with-fused-effects.html)
-* [Introducing Mu-Haskell v0.1 | 47 Degrees](https://www.47deg.com/blog/introducing-mu-haskell-0-1/)
+* [Introducing Mu-Haskell v0.1 \| 47 Degrees](https://www.47deg.com/blog/introducing-mu-haskell-0-1/)
+* [IHP: Integrated Haskell Platform, a batteries-included web framework built on purely functional programming technologies](https://ihp.digitallyinduced.com/)
 
 ### ネットワークプログラミング
 - [network: Low-level networking interface](https://hackage.haskell.org/package/network)
