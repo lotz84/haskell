@@ -65,6 +65,7 @@ ghcupは2020/5/9時点ではWindowsに対応していないので注意してく
 * [= ale.vimとQuickRunでstack環境を使う - Qiita](https://qiita.com/Cj-bc/items/481bb0449648047653b3)
 * [Vim and Haskell in 2019 \| Repeat Until Keypressed](http://marco-lopes.com/articles/Vim-and-Haskell-in-2019/)
 * [Setting up Neovim for Haskell, as of October 2019](https://mbuffett.com/setting-up-neovim-for-haskell-as-of-october-2019/)
+* [Vim and Haskell in 2019 \| Repeat Until Keypressed](http://marco-lopes.com/articles/Vim-and-Haskell-in-2019/)
 
 ### Emacs
 * [haskell/haskell-mode](https://github.com/haskell/haskell-mode)
