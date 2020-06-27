@@ -64,7 +64,8 @@
 * [mdibaiee/sibe: Experimental Haskell machine learning library](https://github.com/mdibaiee/sibe)
 * [online \| Online statistics](https://tonyday567.github.io/online/index.html)
 * [テンソルを実装するのに表現可能関手がとても便利な件 - Qiita](https://qiita.com/lotz/items/5a1a05c0dae1133a5f44)
-- [Toy Machine Learning with Haskell - Chris Smith - Medium](https://medium.com/@cdsmithus/toy-machine-learning-with-haskell-b18cd04fb9e1)
+* [Toy Machine Learning with Haskell - Chris Smith - Medium](https://medium.com/@cdsmithus/toy-machine-learning-with-haskell-b18cd04fb9e1)
+* [Valentin Reis: Multi-Armed Bandits with Haskell / hbandit tutorial](https://freux.fr/posts/hbandit.html)
 
 ## 数値計算・可視化
 * [scientific](https://hackage.haskell.org/package/scientific)
