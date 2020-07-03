@@ -333,6 +333,7 @@ instance Monad (Reader e) where
 * [When does an endofunctor derive from an adjunction?](https://theorylunch.wordpress.com/2013/05/30/when-does-an-endofunctor-derive-from-an-adjunction/)
 * [From mathematics to map-reduce](http://www.haskellforall.com/2016/02/from-mathematics-to-map-reduce.html)
 * [Adjunctions in the wild: foldl · in Code](https://blog.jle.im/entry/foldl-adjunction.html)
+* [随伴関手とは - Qiita](https://qiita.com/sparklingbaby/items/f3fbbea1bd123036a048)
 
 ### State Monad
 
@@ -412,9 +413,9 @@ Reader + Writer + State
 - [The power of IO in Haskell \| 47 Degrees](https://www.47deg.com/blog/io-haskell/)
 
 #### 乱数
-* [Haskellの乱数事情](http://qiita.com/philopon/items/8f647fc8dafe66b7381b)
 * [Haskell Bits #1: Randomness　- Benjamin Kovach](https://www.kovach.me/posts/2017-01-30-haskell-bits-randomness.html)
 * [Random Benchmarks \| Alexey Kuleshevich](https://alexey.kuleshevi.ch/blog/2019/12/21/random-benchmarks/)
+* [Tweag - Splittable pseudo-random number generators in Haskell: random v1.1 and v1.2](https://www.tweag.io/blog/2020-06-29-prng-test/)
 
 ### Monad*
 * [2 07 Supermonads: One Notion to Bind them All](https://www.youtube.com/watch?v=HRofw58sySw)
