@@ -260,6 +260,7 @@ Stack開発の知見が集められたライブラリ
 * [Building Haskell Apps with Docker](https://www.fpcomplete.com/blog/2017/12/building-haskell-apps-with-docker)
 * [Static compilation with Stack](https://www.fpcomplete.com/blog/2016/10/static-compilation-with-stack)
 * [HaskellでもGoみたいにシングルバイナリでアプリケーションをデプロイしたい - Qiita](https://qiita.com/t10471/items/4afa598e1be5d6c7cc1f)
+* [Haskellで超簡単にシングルバイナリを作る - Qiita](https://qiita.com/lambda_funtaro/items/5ac47f83616f8c07d4db)
 
 ### multi-stage builds
 * [Haskell on Docker で Portable CLI を作ろう - Qiita](https://qiita.com/algas/items/fde155abbc9d8ae3f8c9)
