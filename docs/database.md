@@ -55,7 +55,8 @@
 * [Typeable Blog - Sum types for relational databases](https://blog.typeable.io/posts/2019-11-21-sql-sum-types.html)
 * [Keeping Database Tests Fast with `tmp-postgres`](https://jfischoff.github.io/blog/keeping-database-tests-fast.html)
 * [Which type-safe database library should you use? \| William Yao](https://williamyaoh.com/posts/2019-12-14-typesafe-db-libraries.html)
-- [Building a Haskell Microservice](https://twonki.github.io/haskell-microservice/)
+* [Building a Haskell Microservice](https://twonki.github.io/haskell-microservice/)
+* [Introducing hasql-queue](http://jfischoff.github.io/blog/introducing-hasql-queue.html)
 
 Simple Clients
 --------------
