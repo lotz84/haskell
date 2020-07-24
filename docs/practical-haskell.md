@@ -272,6 +272,7 @@ Stack開発の知見が集められたライブラリ
 * [DockerfileをLintするにはhadolintが良さそう](http://blog.stormcat.io/entry/docker-hadolint)
 * [「hadolint」にシバかれながら美しいDockerfileを書き上げる - 憂鬱な世界にネコパンチ！](https://nekopunch.hatenablog.com/entry/2018/10/08/213513)
 * [beijaflor-io/haskell-language-dockerfile: Haskell Dockerfile linter, parser, pretty-printer and EDSL, forked from https://github.com/lukasmartinelli/hadolint.](https://github.com/beijaflor-io/haskell-language-dockerfile)
+* [GitHub Actions と hadolint を組み合わせて Dockerfile の静的解析を自動化しよう！ - kakakakakku blog](https://kakakakakku.hatenablog.com/entry/2020/07/08/004407)
 
 ### Docker Engine API
 * [denibertovic/docker-hs: A Haskell library for the Docker Engine API](https://github.com/denibertovic/docker-hs)
