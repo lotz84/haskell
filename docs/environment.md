@@ -147,6 +147,7 @@ ghcupは2020/5/9時点ではWindowsに対応していないので注意してく
 * [Retrie: Haskell refactoring made easy - Facebook Engineering](https://engineering.fb.com/open-source/retrie/)
 * [Refactoring Large Haskell Codebases Using Facebook Retrie](https://www.infoq.com/news/2020/07/retrie-haskell-refactoring-tool/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)
 * [Haskell Style Guide :: Kowainik](https://kowainik.github.io/posts/2019-02-06-style-guide)
+* [stylish-haskellをBlockArgumentsに対応させる - Qiita](https://qiita.com/sparklingbaby/items/a46f299dd303d0738f58)
 
 ----
 
