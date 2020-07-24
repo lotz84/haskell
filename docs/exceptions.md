@@ -43,6 +43,7 @@
 ## Unchecked+Impure
 * [The retry package](https://hackage.haskell.org/package/retry)
 * [Neil Mitchell's Haskell Blog: Haskell exceptions and FFI wrappers](https://neilmitchell.blogspot.jp/2017/11/haskell-exceptions-and-ffi-wrappers.html)
+* [Haskellのassertを文っぽく使う - Qiita](https://qiita.com/mod_poppo/items/b3b415ea72eee210d222)
 
 ## Checked+Pure
 * [ERRORS AND EXCEPTIONS IN HASKELL](http://www.stackbuilders.com/news/errors-and-exceptions-in-haskell)
