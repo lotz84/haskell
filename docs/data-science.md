@@ -66,6 +66,7 @@
 * [テンソルを実装するのに表現可能関手がとても便利な件 - Qiita](https://qiita.com/lotz/items/5a1a05c0dae1133a5f44)
 * [Toy Machine Learning with Haskell - Chris Smith - Medium](https://medium.com/@cdsmithus/toy-machine-learning-with-haskell-b18cd04fb9e1)
 * [Valentin Reis: Multi-Armed Bandits with Haskell / hbandit tutorial](https://freux.fr/posts/hbandit.html)
+* [Performance of Haskell Array libraries through Canny edge detection \| Alexey Kuleshevich](https://alexey.kuleshevi.ch/blog/2020/07/10/canny-benchmarks/)
 
 ## 数値計算・可視化
 * [scientific](https://hackage.haskell.org/package/scientific)
