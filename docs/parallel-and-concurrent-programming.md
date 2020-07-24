@@ -61,6 +61,7 @@
 * [Pinpointing deadlocks in Haskell](https://www.fpcomplete.com/blog/2018/05/pinpointing-deadlocks-in-haskell)
 * [Haskell の並列処理と遅延評価の罠](http://labs.timedia.co.jp/2017/08/cphaskell.html)
 * [When threadWaitRead Doesn't](https://jfischoff.github.io/blog/when-threadwaitread-doesnt.html)
+* [The blog of wjwh - How Haskell threads block](http://www.wjwh.eu/posts/2020-07-10-haskell-thread-blocked.html)
 
 ### STM
 * [できる！並列・並行プログラミング](http://www.slideshare.net/pfi/ss-9780450)
