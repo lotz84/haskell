@@ -257,6 +257,7 @@ class Monad m where
 * [モノイドとモナドの対応関係 - Qiita](https://qiita.com/norkron/items/da2d1de205a4137931b7#_reference-5759d8b7c6720391cfdf)
 * [Oleg's gists - overloaded-0.2.1: Overloaded:Do](http://oleg.fi/gists/posts/2020-04-27-overloaded-local-do.html)
 * [具体例から学ぶモナド再入門 - Qiita](https://qiita.com/sparklingbaby/items/4a7c582780af734c9525)
+* [Tweag - Qualified do: rebind your do-notation the right way](https://www.tweag.io/blog/2020-07-13-qualified-do-announcement/)
 
 ```haskell
 do x <- mx
