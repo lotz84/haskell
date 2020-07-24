@@ -132,6 +132,9 @@ $ cat /etc/passwd | hawk -d: -m 'head'
 root
 ```
 
+### hode
+* [JeffreyBenjaminBrown/hode: rslt, take five-ish](https://github.com/JeffreyBenjaminBrown/hode)
+
 ### hoodle
 - [wavewave/hoodle: hoodle : A pen notetaking program written in haskell](https://github.com/wavewave/hoodle)
 
