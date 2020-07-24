@@ -388,7 +388,8 @@ p_ :: Term arg result => arg -> result
 * [TypeFamilyDependencies の実用的な例を考える - ryota-ka's blog](https://ryota-ka.hatenablog.com/entry/2018/03/10/205817)
 * [Lysxia - Haskell with only one type family](http://blog.poisson.chat/posts/2018-08-06-one-type-family.html)
 * [Functional Dependencies & Type Families • gvolpe's blog](https://gvolpe.github.io/blog/functional-dependencies-and-type-families/)
-- [Associated Types and Haskell](http://amixtureofmusings.com/2016/05/19/associated-types-and-haskell/)
+* [Associated Types and Haskell](http://amixtureofmusings.com/2016/05/19/associated-types-and-haskell/)
+* [Forbidden Haskell Types \| Semantic Dreams](https://semantic.org/post/forbidden-haskell-types/)
 
 ```haskell
 -- https://www.youtube.com/watch?v=snOBI8PcbMQ
