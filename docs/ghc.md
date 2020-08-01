@@ -145,9 +145,10 @@
 * [Well-Typed - The Haskell Consultants: DWARF support in GHC (part 1)](http://www.well-typed.com/blog/2020/04/dwarf-1/)
 * [Speeding up the Sixty compiler \| Olle Fredriksson's blog](https://ollef.github.io/blog/posts/speeding-up-sixty.html)
 * [mpickering - Tools for working on GHC](https://mpickering.github.io/posts/2019-06-11-ghc-tools.html)
-- [Error Messages in Haskell, and how to Improve them](https://anthony.noided.media/blog/haskell/programming/2020/05/14/haskell-errors.html)
-- [Lower Your Guards](https://www.microsoft.com/en-us/research/uploads/prod/2020/03/lyg.pdf)
-- [Haskell の Fixity Resolution を試してみる - Qiita](https://qiita.com/tnagao7/items/2967ea6994832d2232f8)
+* [Error Messages in Haskell, and how to Improve them](https://anthony.noided.media/blog/haskell/programming/2020/05/14/haskell-errors.html)
+* [Lower Your Guards](https://www.microsoft.com/en-us/research/uploads/prod/2020/03/lyg.pdf)
+* [Haskell の Fixity Resolution を試してみる - Qiita](https://qiita.com/tnagao7/items/2967ea6994832d2232f8)
+* [Improving Haskell’s big numbers support - IOHK Blog](https://iohk.io/en/blog/posts/2020/07/28/improving-haskells-big-numbers-support/)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
