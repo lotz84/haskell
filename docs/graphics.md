@@ -9,9 +9,10 @@
 * [Xiaolin Wu’s fast antialiased line drawing algorithm in Haskell](https://blog.rcook.org/blog/2018/xiaolin-wu-algorithm/)
 
 ## Animation
-- [Gluing together animations - Reanimate](https://reanimate.readthedocs.io/en/latest/glue_tut/)
-- [Animation DSL With Effect Handlers](https://rubenpieters.github.io/programming/haskell/2019/07/09/animation-dsl-1.html)
-- [Reanimate: a tutorial on making programmatic animations \| William Yao](https://williamyaoh.com/posts/2020-05-31-reanimate-nqueens-tutorial.html)
+* [Gluing together animations - Reanimate](https://reanimate.readthedocs.io/en/latest/glue_tut/)
+* [Animation DSL With Effect Handlers](https://rubenpieters.github.io/programming/haskell/2019/07/09/animation-dsl-1.html)
+* [Reanimate: a tutorial on making programmatic animations \| William Yao](https://williamyaoh.com/posts/2020-05-31-reanimate-nqueens-tutorial.html)
+* [Reanimate](https://reanimate.github.io/)
 
 ## GUI
 * [fltkhs](http://hackage.haskell.org/package/fltkhs)
@@ -74,7 +75,8 @@
 * [tim philip williams :: Generating castles for Minecraft™ using Haskell](http://www.timphilipwilliams.com/posts/2019-07-25-minecraft.html)
 * [morgenthum.tech - software development and architecture](https://morgenthum.tech/articles/write-haskell-game)
 * [mallRL by Nikolas Mählmann](https://nmaehlmann.itch.io/mallrl)
-- [YourFirstGame with Haskell, Godot, and godot-haskell](https://spartanengineer.com/posts/2020-05-24-yourfirstgame-with-haskell-and-godot.html)
+* [YourFirstGame with Haskell, Godot, and godot-haskell](https://spartanengineer.com/posts/2020-05-24-yourfirstgame-with-haskell-and-godot.html)
+* [Graphics in Haskell: linear algebra](https://das.li/articles/linear.html)
 
 ## Gloss
 * [gloss](http://hackage.haskell.org/package/gloss)
