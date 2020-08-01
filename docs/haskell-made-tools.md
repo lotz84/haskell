@@ -95,6 +95,9 @@ $ gifcurry_cli ./in.mp4 ./out.gif start_second duration quality 'Optional top te
 - [単純で頑強なメッセージングシステム、franz - モナドとわたしとコモナド](http://fumieval.hatenablog.com/entry/2019/09/07/115437)
 - [tsurucapital/franz: Append-only list persist & query system](https://github.com/tsurucapital/franz)
 
+### hascard
+* [Yvee1/hascard: flashcard TUI with markdown cards](https://github.com/Yvee1/hascard)
+
 ### Hakyll
 * 静的サイトジェネレータ
 * <https://jaspervdj.be/hakyll/>
