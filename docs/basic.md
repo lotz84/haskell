@@ -14,12 +14,13 @@
 - [だれも Data.Maybe を教えてくれなかった - Qiita](https://qiita.com/mtsugawa/items/e410812567e8b5b1690c)
 
 ### なぜ型が重要か
-- [Type Safety Back and Forth](https://www.parsonsmatt.org/2017/10/11/type_safety_back_and_forth.html)
-- [Keep your types small...](https://www.parsonsmatt.org/2018/10/02/small_types.html)
-- [The Basic, Practical Benefits](http://mechanical-elephant.com/thoughts/2015-08-10-the-pratical-benefits-of-haskell-typesystem/)
-- [jaspervdj - On Ad-hoc Datatypes](https://jaspervdj.be/posts/2016-05-11-ad-hoc-datatypes.html)
-- [good-design-and-type-safety-in-yahtzee](http://h2.jaguarpaw.co.uk/posts/good-design-and-type-safety-in-yahtzee/)
-- [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
+* [Type Safety Back and Forth](https://www.parsonsmatt.org/2017/10/11/type_safety_back_and_forth.html)
+* [Keep your types small...](https://www.parsonsmatt.org/2018/10/02/small_types.html)
+* [The Basic, Practical Benefits](http://mechanical-elephant.com/thoughts/2015-08-10-the-pratical-benefits-of-haskell-typesystem/)
+* [jaspervdj - On Ad-hoc Datatypes](https://jaspervdj.be/posts/2016-05-11-ad-hoc-datatypes.html)
+* [good-design-and-type-safety-in-yahtzee](http://h2.jaguarpaw.co.uk/posts/good-design-and-type-safety-in-yahtzee/)
+* [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
+* [Haskell for all: The golden rule of software quality](http://www.haskellforall.com/2020/07/the-golden-rule-of-software-quality.html)
 
 ### 型を定義する３つの方法
 - type
