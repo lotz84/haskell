@@ -400,6 +400,9 @@ Most of the stuff here is already unmaintained, but as a tool implementation it 
 ### Hadui
 * [complyue/hadui: Web front UI for interactive Haskell stack projects](https://github.com/complyue/hadui)
 
+### haskell-code-spot
+* [grin-compiler/haskell-code-spot: Visual tool to spot odd runtime behaviour of Haskell programs.](https://github.com/grin-compiler/haskell-code-spot)
+
 ### haskell-tools
 * Developer tools for Haskell
 * <https://github.com/nboldi/haskell-tools>
