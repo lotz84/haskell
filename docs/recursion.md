@@ -143,6 +143,7 @@ class Functor g => Distributive g where
 * [recursion-schemes: Representing common recursion patterns as higher-order functions](http://hackage.haskell.org/package/recursion-schemes)
 * [n番煎じのrecursion-scheme - The curse of λ](https://myuon.github.io/posts/recursion-scheme/)
 * [CATEGORICAL PROGRAMMING WITH INDUCTIVE AND COINDUCTIVE TYPES](http://kodu.ut.ee/~varmo/papers/thesis.pdf)
+* [youzicha — Generalized Church is the Curry-Howard of...](https://youzicha.tumblr.com/post/624180258328002560/generalized-church-is-the-curry-howard-of)
 
 ### F始代数
 - [F始代数](http://nineties.github.io/category-seminar/7.html#/43)
