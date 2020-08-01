@@ -165,7 +165,8 @@
 * [Oleg's gists - Idiom brackets via source plugin](http://oleg.fi/gists/posts/2018-07-06-idiom-brackets-via-source-pluging.html)
 * [mpickering - Plugins](http://mpickering.github.io/plugins.html)
 * [GHC Source Plugin 作ってみた - Qiita](https://qiita.com/waddlaw/items/65b57517f105fcbbe724)
-- [Running HLint as a GHC source plugin - DEV](https://dev.to/tfausak/running-hlint-as-a-ghc-source-plugin-17dl)
+* [Running HLint as a GHC source plugin - DEV](https://dev.to/tfausak/running-hlint-as-a-ghc-source-plugin-17dl)
+* [The blog of wjwh - Preliminary benchmarking results for a Haskell I/O manager backend based on io_uring](http://www.wjwh.eu/posts/2020-07-26-haskell-iouring-manager.html)
 
 ### Blackhole
 * [Blackhole : 無限再帰停止機構](http://qiita.com/phi16_/items/ef83e610585ac8526d31)
