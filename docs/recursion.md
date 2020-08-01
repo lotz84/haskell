@@ -101,6 +101,8 @@ class Foldable t where
 * [Data.Foldableの正体 - Qiita](https://qiita.com/lotz/items/424abee02fe598c60247)
 * [パラメトリシティを使って自由モノイドが構成できることの証明 - Qiita](https://qiita.com/mkotha/items/8096d6ec527c9b4f21e0)
 * [たのしい Foldable - Qiita](https://qiita.com/acple@github/items/089ee5707e78fecb5615)
+* [Data.Foldableの正体 - Qiita](https://qiita.com/lotz/items/424abee02fe598c60247)
+* [HaskellのFoldableはどこから来たのか? - Qiita](https://qiita.com/Izawa_/items/1a5d2fd99aa49524db03)
 
 ### Traversable
 
