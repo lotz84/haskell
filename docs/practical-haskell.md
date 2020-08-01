@@ -508,3 +508,4 @@ Stack開発の知見が集められたライブラリ
 * [Haskell For a New Decade](http://www.stephendiehl.com/posts/decade.html)
 * [Haskell with UTF-8](https://serokell.io/blog/haskell-with-utf8)
 * [A Telegram bot in Haskell on Amazon Lambda – Blog – Joachim Breitner's Homepage](https://www.joachim-breitner.de/blog/770-A_Telegram_bot_in_Haskell_on_Amazon_Lambda)
+* [CS Syd - How to deal with money in software](https://cs-syd.eu/posts/2020-07-28-how-to-deal-with-money-in-software)
