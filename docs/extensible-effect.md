@@ -22,6 +22,7 @@
   * [Julien Debon's blog - Polysemy - Part I - Introduction](https://sir4ur0n.github.io/posts/intro-polysemy.html)
   * [Julien Debon's blog - Polysemy - Part II - First example](https://sir4ur0n.github.io/posts/polysemy-first-example.html)
   * [Julien Debon's blog - Polysemy - Part III - Tests](https://sir4ur0n.github.io/posts/polysemy-tests.html)
+* [typedbyte/effet: An effect system based on type classes.](https://github.com/typedbyte/effet)
 
 ### チュートリアル
 * [Extensible Effects はモナド変換子に対する救世主になり得るか？](http://konn-san.com/prog/haskell/extensible-effects.html)
