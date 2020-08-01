@@ -316,6 +316,7 @@ instance Monad (Reader e) where
 * [Haskellで大域変数が欲しい時はReaderモナドを使いましょう](http://yu-i9.hatenablog.com/entry/2014/11/19/235007)
 * [Reader monad and SKI combinators](https://kseo.github.io/posts/2016-12-24-reader-monad-and-ski-combinators.html)
 * [haskell - What's the difference between Monad.Reader and the (->) monads? - Stack Overflow](https://stackoverflow.com/questions/28872981/whats-the-difference-between-monad-reader-and-the-monads)
+* [Deriving the Reader monad from first principles \| William Yao](https://williamyaoh.com/posts/2020-07-19-deriving-reader-monad.html)
 
 ### Writer Monad
 * [Writerを使ってはならない](http://qiita.com/ruicc/items/28b1cd2df215ce724e26)
