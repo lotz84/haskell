@@ -57,6 +57,8 @@
 * [Which type-safe database library should you use? \| William Yao](https://williamyaoh.com/posts/2019-12-14-typesafe-db-libraries.html)
 * [Building a Haskell Microservice](https://twonki.github.io/haskell-microservice/)
 * [Introducing hasql-queue](http://jfischoff.github.io/blog/introducing-hasql-queue.html)
+* [[1602.03501] Algebraic Databases](https://arxiv.org/abs/1602.03501)
+* [[1909.04881] Algebraic Property Graphs](https://arxiv.org/abs/1909.04881)
 
 Simple Clients
 --------------
