@@ -510,3 +510,4 @@ Stack開発の知見が集められたライブラリ
 * [A Telegram bot in Haskell on Amazon Lambda – Blog – Joachim Breitner's Homepage](https://www.joachim-breitner.de/blog/770-A_Telegram_bot_in_Haskell_on_Amazon_Lambda)
 * [CS Syd - How to deal with money in software](https://cs-syd.eu/posts/2020-07-28-how-to-deal-with-money-in-software)
 * [Haskeller competency matrix](https://gist.github.com/graninas/833a9ff306338aefec7e543100c16ea1)
+* [Solving text adventure games via symbolic execution (1 August 2020)](https://gergo.erdi.hu/blog/2020-08-01-solving_text_adventure_games_via_symbolic_execution/)
