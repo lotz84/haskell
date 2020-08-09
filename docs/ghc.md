@@ -149,6 +149,7 @@
 * [Lower Your Guards](https://www.microsoft.com/en-us/research/uploads/prod/2020/03/lyg.pdf)
 * [Haskell の Fixity Resolution を試してみる - Qiita](https://qiita.com/tnagao7/items/2967ea6994832d2232f8)
 * [Improving Haskell’s big numbers support - IOHK Blog](https://iohk.io/en/blog/posts/2020/07/28/improving-haskells-big-numbers-support/)
+* [IDE 2020: Measuring memory usage of Haskell values and patching GHC](https://mpickering.github.io//ide/posts/2020-08-04-measuring-memory-size.html)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
