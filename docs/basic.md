@@ -1,17 +1,18 @@
 ## 型
-- [【Haskell】 言葉の定義まとめ（型クラス、型コンストラクタ、値コンストラクタ、型引数など） - takafumi blog](http://takafumi-s.hatenablog.com/entry/2015/09/25/123335)
-- [Kwang's Haskell Blog - Type Isomorphism](https://kseo.github.io/posts/2016-12-25-type-isomorphism.html)
-- [These, Align, and Crosswalk](https://teh.id.au/posts/2017/03/29/these-align-crosswalk/index.html)
-- [These Changes](https://fintanh.github.io/posts/these-changes.html)
-- [tatterdemalion - Types & Kinds](http://slpopejoy.github.io/posts/2015-04-10-Types.html)
-- [CS Syd - Overcoming Boolean blindness with Evidence](https://cs-syd.eu/posts/2016-07-24-overcoming-boolean-blindness-evidence.html)
+* [【Haskell】 言葉の定義まとめ（型クラス、型コンストラクタ、値コンストラクタ、型引数など） - takafumi blog](http://takafumi-s.hatenablog.com/entry/2015/09/25/123335)
+* [Kwang's Haskell Blog - Type Isomorphism](https://kseo.github.io/posts/2016-12-25-type-isomorphism.html)
+* [These, Align, and Crosswalk](https://teh.id.au/posts/2017/03/29/these-align-crosswalk/index.html)
+* [These Changes](https://fintanh.github.io/posts/these-changes.html)
+* [tatterdemalion - Types & Kinds](http://slpopejoy.github.io/posts/2015-04-10-Types.html)
+* [CS Syd - Overcoming Boolean blindness with Evidence](https://cs-syd.eu/posts/2016-07-24-overcoming-boolean-blindness-evidence.html)
+* [Typing is Hard](https://typing-is-hard.ch/)
 
 ### 基本型
-- [haskell の Int と Integer の違いや Float や Double や Rational を理解する - Qiita](https://qiita.com/suzuki-hoge/items/17cf0cd3680ef10b2cc1)
-- [Unit型の何が偉大なのか説明してみる - Qiita](https://qiita.com/alucky0707/items/a677e5c9850aa765dd55)
-- [Haskell equality table](https://htmlpreview.github.io/?https://github.com/quchen/articles/blob/master/haskell-equality-table.html)
-- [意外と知らないType defaulting - Qiita](https://qiita.com/takoeight0821/items/6cf286bf29479698e977)
-- [だれも Data.Maybe を教えてくれなかった - Qiita](https://qiita.com/mtsugawa/items/e410812567e8b5b1690c)
+* [haskell の Int と Integer の違いや Float や Double や Rational を理解する - Qiita](https://qiita.com/suzuki-hoge/items/17cf0cd3680ef10b2cc1)
+* [Unit型の何が偉大なのか説明してみる - Qiita](https://qiita.com/alucky0707/items/a677e5c9850aa765dd55)
+* [Haskell equality table](https://htmlpreview.github.io/?https://github.com/quchen/articles/blob/master/haskell-equality-table.html)
+* [意外と知らないType defaulting - Qiita](https://qiita.com/takoeight0821/items/6cf286bf29479698e977)
+* [だれも Data.Maybe を教えてくれなかった - Qiita](https://qiita.com/mtsugawa/items/e410812567e8b5b1690c)
 
 ### なぜ型が重要か
 * [Type Safety Back and Forth](https://www.parsonsmatt.org/2017/10/11/type_safety_back_and_forth.html)
