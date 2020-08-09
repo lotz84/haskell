@@ -395,6 +395,7 @@ Stack開発の知見が集められたライブラリ
 * [Permissive, then restrictive: learning how to design Haskell programs | William Yao](https://williamyaoh.com/posts/2020-04-19-permissive-vs-restrictive.html)
 * [Implementing Clean Architecture with Haskell and Polysemy](https://github.com/thma/PolysemyCleanArchitecture#readme)
 * [Some thoughts on building software](https://gist.github.com/serras/caf3b7056f609c63a028f15c47a3ff4e)
+* [Revisiting application structure](http://felixmulder.com/writing/2020/08/08/Revisiting-application-structure)
 
 ## Dependency Injection
 * [HaskellでDIする - The curse of λ](https://myuon.github.io/posts/haskell-di/)
