@@ -93,6 +93,7 @@
 * [Oleg's gists - Case study: migrating from lens to optics](http://oleg.fi/gists/posts/2020-01-25-case-study-migration-from-lens-to-optics.html)
 * [Digging into Lenses \| Deontologician](https://deontologician.com/wiki/lenses/)
 * [[2002.11480] String Diagrams for Optics](https://arxiv.org/abs/2002.11480)
+* [Lenses for Tree Traversals](https://www.michaelpj.com/blog/2020/08/02/lenses-for-tree-traversals.html)
 
 > Thus the Yoneda embedding of the functor category leads to the van Laarhoven representation of the lens
 
