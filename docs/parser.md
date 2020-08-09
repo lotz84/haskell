@@ -156,10 +156,11 @@ parse = evalStateT
 - [JSON Parsing from Scratch in Haskell \| abhinavsarkar.net](https://abhinavsarkar.net/posts/json-parsing-from-scratch-in-haskell/)
 
 ### Others
-- [github/semantic: Parsing, analyzing, and comparing source code across many languages](https://github.com/github/semantic)
-- [Parsing and generating ABIF files (DNA chromatograms)](https://www.andrevdm.com/posts/2019-01-09-abif-chromatograms.html)
-- [Philip Cunningham - Parse Ruby Objects in Haskell](https://filib.io/posts/2017-04-24-parse-ruby-objects-in-haskell.html)
-- [Email message parsing in Haskell in 2018](https://gist.github.com/chrisdone/47a9e22672b54dedc87dec8b415e8127)
+* [github/semantic: Parsing, analyzing, and comparing source code across many languages](https://github.com/github/semantic)
+  * [CodeGen: Semantic's improved language support system - The GitHub Blog](https://github.blog/2020-08-04-codegen-semantics-improved-language-support-system/)
+* [Parsing and generating ABIF files (DNA chromatograms)](https://www.andrevdm.com/posts/2019-01-09-abif-chromatograms.html)
+* [Philip Cunningham - Parse Ruby Objects in Haskell](https://filib.io/posts/2017-04-24-parse-ruby-objects-in-haskell.html)
+* [Email message parsing in Haskell in 2018](https://gist.github.com/chrisdone/47a9e22672b54dedc87dec8b415e8127)
 
 ## 形式言語
 ### 微分
