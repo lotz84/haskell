@@ -150,6 +150,7 @@
 * [Haskell の Fixity Resolution を試してみる - Qiita](https://qiita.com/tnagao7/items/2967ea6994832d2232f8)
 * [Improving Haskell’s big numbers support - IOHK Blog](https://iohk.io/en/blog/posts/2020/07/28/improving-haskells-big-numbers-support/)
 * [IDE 2020: Measuring memory usage of Haskell values and patching GHC](https://mpickering.github.io//ide/posts/2020-08-04-measuring-memory-size.html)
+* [Well-Typed - The Haskell Consultants: Understanding Memory Fragmentation](https://www.well-typed.com/blog/2020/08/memory-fragmentation/)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
