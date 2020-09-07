@@ -32,6 +32,8 @@ class Functor f where
 * [関数型プログラミングのFunctorって何が嬉しいの？ - Qiita](https://qiita.com/masaki_shoji/items/0c1fbdbff6d37f7770ce)
 * [関数型プログラミング -Applicativeについて知る前に、Functorでできないことを知っておこう- - Qiita](https://qiita.com/masaki_shoji/items/af5ab8b9496f0a6dfbbc)
 * [Functorに触れてみよう - Qiita](https://qiita.com/Izawa_/items/765c07ce6c6c999175b7)
+* [Enhancing Functor Structures Step-By-Step (Part 1) · in Code](https://blog.jle.im/entry/enhancing-functor-structures-step-by-step-1.html)
+* [Enhancing Functor Structures Step-By-Step (Part 2) · in Code](https://blog.jle.im/entry/enhancing-functor-structures-step-by-step-2.html)
 
 ### Bifunctor
 - [bifunctor](https://hackage.haskell.org/package/bifunctors)
