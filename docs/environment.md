@@ -151,6 +151,7 @@ ghcupは2020/5/9時点ではWindowsに対応していないので注意してく
 * [Haskell Style Guide :: Kowainik](https://kowainik.github.io/posts/2019-02-06-style-guide)
 * [stylish-haskellをBlockArgumentsに対応させる - Qiita](https://qiita.com/sparklingbaby/items/a46f299dd303d0738f58)
 * [stylish-haskellをHexFloatLiteralsやNumericUnderscoresに対応させる - Qiita](https://qiita.com/mod_poppo/items/418da906f6621a2898e8)
+* [How Stylish Haskell works](https://felixmulder.com/writing/2020/08/20/How-Stylish-Haskell-works.html)
 
 ----
 
