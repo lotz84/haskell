@@ -134,6 +134,7 @@ ghcupは2020/5/9時点ではWindowsに対応していないので注意してく
 * [Haskell Support in Mainstream IDEs](https://tech.fpcomplete.com/blog/mainstream-ides-haskell)
 * [Neil Mitchell's Haskell Blog: One Haskell IDE to rule them all](https://neilmitchell.blogspot.com/2020/01/one-haskell-ide-to-rule-them-all.html)
 * [Neil Mitchell's Haskell Blog: Fixing Space Leaks in Ghcide](http://neilmitchell.blogspot.com/2020/05/fixing-space-leaks-in-ghcide.html)
+* [pepeiborra/hls-tutorial: A tutorial on writing Haskell Language Server plugins](https://github.com/pepeiborra/hls-tutorial)
 
 ## Formatter/Linter
 * [Haskellの静的解析ツール HLint を使おう](http://qiita.com/suzuki-hoge/items/6d101e523620178c6f7b)
