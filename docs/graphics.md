@@ -13,6 +13,7 @@
 * [Animation DSL With Effect Handlers](https://rubenpieters.github.io/programming/haskell/2019/07/09/animation-dsl-1.html)
 * [Reanimate: a tutorial on making programmatic animations \| William Yao](https://williamyaoh.com/posts/2020-05-31-reanimate-nqueens-tutorial.html)
 * [Reanimate](https://reanimate.github.io/)
+* [Reanimate - viewer](https://reanimate.github.io/reanimate/playground/)
 
 ## GUI
 * [fltkhs](http://hackage.haskell.org/package/fltkhs)
