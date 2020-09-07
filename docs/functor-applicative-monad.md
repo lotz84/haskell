@@ -417,6 +417,7 @@ Reader + Writer + State
 * [IO モナドと副作用 - Haskell-jp](https://haskell.jp/blog/posts/2020/io-monad-and-sideeffect.html)
 * [The power of IO in Haskell \| 47 Degrees](https://www.47deg.com/blog/io-haskell/)
 * [How Accursed and Unutterable is accursedUnutterablePerformIO?](https://free.cofree.io/2020/07/20/perform-io/)
+* [(λblog.rainbyte) - Haskell from 0 to IO (Maybe Hero)](https://rainbyte.net.ar/posts/200828-01-haskell-0-to-io.html)
 
 #### 乱数
 * [Haskell Bits #1: Randomness　- Benjamin Kovach](https://www.kovach.me/posts/2017-01-30-haskell-bits-randomness.html)
