@@ -7,6 +7,7 @@
 * [CS Syd - Overcoming Boolean blindness with Evidence](https://cs-syd.eu/posts/2016-07-24-overcoming-boolean-blindness-evidence.html)
 * [Typing is Hard](https://typing-is-hard.ch/)
 * [Haskell mini-patterns handbook :: Kowainik](https://kowainik.github.io/posts/haskell-mini-patterns)
+* [Types as axioms, or: playing god with static types](https://lexi-lambda.github.io/blog/2020/08/13/types-as-axioms-or-playing-god-with-static-types/)
 
 ### 基本型
 * [haskell の Int と Integer の違いや Float や Double や Rational を理解する - Qiita](https://qiita.com/suzuki-hoge/items/17cf0cd3680ef10b2cc1)
