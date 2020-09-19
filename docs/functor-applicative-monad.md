@@ -325,15 +325,13 @@ instance Monad (Reader e) where
 * [Kwang's Haskell Blog - Writer monad](https://kseo.github.io//posts/2017-01-21-writer-monad.html)
 
 ### 随伴
-* [Adjunctions](https://www.youtube.com/playlist?list=PL54B49729E5102248)
 * [adjunctions](https://hackage.haskell.org/package/adjunctions)
 
 > 今回は話の中でいきなりWriterとReaderが出てきて、この2つで随伴になると説明しましたが、実際はStateモナドやStoreコモナドからこの2つの関手を導くことができますです。
+> [随伴がモテないのはどう考えてもモナドが悪い！（モナドとコモナドの関係が分かる話）](http://kagamilove0707.hatenablog.com/entry/2014/11/02/210400#fn-8ae3ae26)
 
-* [随伴がモテないのはどう考えてもモナドが悪い！（モナドとコモナドの関係が分かる話）](http://kagamilove0707.hatenablog.com/entry/2014/11/02/210400#fn-8ae3ae26)
 * [Haskellと随伴](http://qiita.com/myuon_myon/items/d598480e4edd7a780ea7)
 * [From Adjunctions to Monads](http://www.stephendiehl.com/posts/adjunctions.html)
-* [Adjunctions with parameters](http://mbps.hatenablog.com/entry/2014/12/08/033230)
 * [When does an endofunctor derive from an adjunction?](https://theorylunch.wordpress.com/2013/05/30/when-does-an-endofunctor-derive-from-an-adjunction/)
 * [From mathematics to map-reduce](http://www.haskellforall.com/2016/02/from-mathematics-to-map-reduce.html)
 * [Adjunctions in the wild: foldl · in Code](https://blog.jle.im/entry/foldl-adjunction.html)
