@@ -134,7 +134,8 @@ Stack開発の知見が集められたライブラリ
 * [cabal install コマンドについて](https://haskell.e-bigmoon.com/posts/2020/03-25-cabal-install.html)
 * [Colin Woodbury](https://www.fosskers.ca/en/blog/wide-haskell)
 * [🧰 Making the most of Cabal](https://lukelau.me/haskell/posts/making-the-most-of-cabal/)
-* [Whirlwind Tour Of Cabal For Beginners | School of FP](https://schooloffp.co/2020/08/17/whirlwind-tour-of-cabal-for-beginners.html)
+* [Whirlwind Tour Of Cabal For Beginners \| School of FP](https://schooloffp.co/2020/08/17/whirlwind-tour-of-cabal-for-beginners.html)
+* [Oleg's gists - A design for paths in Cabal](https://oleg.fi/gists/posts/2020-09-13-a-design-for-paths.html)
 
 ## Stack
 * [The Haskell Tool Stack](http://docs.haskellstack.org/en/stable/README.html)
