@@ -24,7 +24,6 @@
 * [Build Haskell fast](https://haskell.build/)
 * [GHCiの基本的な使い方まとめ - Qiita](https://qiita.com/Izawa_/items/6fc0a7583dc71be48c2a)
 * [Great moments in Haskell history](https://typeclasses.com/timeline)
-* [adventures in uncertainty: Bazel, Haskell, and Build-System Joy](https://blog.sumtypeofway.com/posts/bazel-haskell-build-system-joy.html)
 
 ## Dhall
 * [Dhallによるリッチな設定ファイル体験](http://syocy.hatenablog.com/entry/2018/07/14/195255)
@@ -335,6 +334,7 @@ Stack開発の知見が集められたライブラリ
 ### Bazel
 * [Tweag I/O - Build large polyglot projects with Bazel... now with Haskell support](https://www.tweag.io/posts/2018-02-28-bazel-haskell.html)
 * [Tweag I/O - Nix + Bazel = fully reproducible, incremental builds](https://www.tweag.io/posts/2018-03-15-bazel-nix.html)
+* [adventures in uncertainty: Bazel, Haskell, and Build-System Joy](https://blog.sumtypeofway.com/posts/bazel-haskell-build-system-joy.html)
 
 ## Workflow
 * [tweag/funflow: Functional workflows](https://github.com/tweag/funflow)
@@ -398,6 +398,7 @@ Stack開発の知見が集められたライブラリ
 * [Implementing Clean Architecture with Haskell and Polysemy](https://github.com/thma/PolysemyCleanArchitecture#readme)
 * [Some thoughts on building software](https://gist.github.com/serras/caf3b7056f609c63a028f15c47a3ff4e)
 * [Revisiting application structure](http://felixmulder.com/writing/2020/08/08/Revisiting-application-structure)
+* [Algebra-Driven Design by Sandy Maguire [Leanpub PDF/iPad/Kindle]](https://leanpub.com/algebra-driven-design/)
 
 ## Dependency Injection
 * [HaskellでDIする - The curse of λ](https://myuon.github.io/posts/haskell-di/)
