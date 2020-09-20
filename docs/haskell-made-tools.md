@@ -245,7 +245,11 @@ success
 
 ### qhs
 * [CSVファイルをSQLのクエリで集計できるqコマンドをHaskellで実装してみました！](http://itchyny.hatenablog.com/entry/2016/08/08/100000)
-- [itchyny/qhs: SQL queries on CSV and TSV files](https://github.com/itchyny/qhs)
+* [itchyny/qhs: SQL queries on CSV and TSV files](https://github.com/itchyny/qhs)
+
+### Rib
+* [srid/rib: Haskell static site generator based on Shake, with a delightful development experience.](https://github.com/srid/rib)
+* [My Type-Safe Blog in Haskell](https://jonreeve.com/2020/09/type-safe-blog/)
 
 ### vado
 * [chrisdone/vado: A web browser engine written in Haskell](https://github.com/chrisdone/vado)
