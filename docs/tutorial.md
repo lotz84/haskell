@@ -14,7 +14,7 @@
 > [Haskell Maxims and Arrows](https://gist.github.com/lotz84/b94f03c4a83cb54dfefb26d2256cae0f)
 
 * [なぜHaskellを学ぶと良いか](http://qiita.com/arowM/items/0305d4f439752f285438)
-* [Try Haskell](https://tryhaskell.org/) - ブラウザ上でHaskellのコードを実行しなが学べる
+* [Try Haskell](https://tryhaskell.org/) - ブラウザ上でHaskellのコードを実行しなが学べる（以降のチュートリアルをWebで試す場合は[Repl.it](https://repl.it/languages/haskell)がオススメ）
 * [Haskell入門ハンズオン〜REPLで始めるHaskell生活〜](https://speakerdeck.com/aruneko/haskellru-men-hansuon) - REPLはHaskellの理解への近道
 * [ウォークスルー Haskell](http://walk.wgag.net/haskell/) - 諸概念について簡潔にまとまっている
 * [Haskellらしさって？「型」と「関数」の基本を解説！【第二言語としてのHaskell】](https://employment.en-japan.com/engineerhub/entry/2017/08/25/110000)
