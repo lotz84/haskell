@@ -149,7 +149,6 @@
 * [The Haskell Road to Logic, Math and Programming](https://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf)
 * [Functional Programming in Haskell: Supercharge Your Coding](https://www.futurelearn.com/courses/functional-programming-haskell)
 * [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon)
-* [Haskell Data Analysis Cookbook](http://haskelldata.com/)
 * [CS240h lecture notes](http://www.scs.stanford.edu/11au-cs240h/notes/)
 * [Using JavaScript to Learn Haskell](https://medium.com/@sjsyrek/using-javascript-to-learn-haskell-f57509015842#.qb5lc4gx8)
 * [Pitfalls in Haskell](http://users.jyu.fi/~sapekiis/haskell-pitfalls/) - Haskellに潜む罠
