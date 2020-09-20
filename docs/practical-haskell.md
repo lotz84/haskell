@@ -24,6 +24,7 @@
 * [Build Haskell fast](https://haskell.build/)
 * [GHCiの基本的な使い方まとめ - Qiita](https://qiita.com/Izawa_/items/6fc0a7583dc71be48c2a)
 * [Great moments in Haskell history](https://typeclasses.com/timeline)
+* [adventures in uncertainty: Bazel, Haskell, and Build-System Joy](https://blog.sumtypeofway.com/posts/bazel-haskell-build-system-joy.html)
 
 ## Dhall
 * [Dhallによるリッチな設定ファイル体験](http://syocy.hatenablog.com/entry/2018/07/14/195255)
