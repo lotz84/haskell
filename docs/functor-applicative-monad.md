@@ -75,6 +75,7 @@ class Functor f => Representable f where
 * [Memoizing Polymorphic Functions with High School Algebra and Quantifiers](http://blog.sigfpe.com/2009/11/memoizing-polymorphic-functions-with.html)
 * [APLicative Programming with Naperian Functors](https://www.cs.ox.ac.uk/people/jeremy.gibbons/publications/aplicative.pdf)
 * [naperian tensors](https://tonyday567.github.io/naperian/index.html)
+* [Radix Sort, Trie Trees, and Maps from Representable Functors](https://chrispenner.ca/posts/representable-discrimination)
 
 ## Applicative
 
