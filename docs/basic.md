@@ -77,8 +77,11 @@
 - [Tweag - Inferred or Specified Types? Your Choice!](https://www.tweag.io/blog/2020-03-12-expl-spec/)
 
 ### 多相型
-- [Maybe? Use a type parameter!](https://www.parsonsmatt.org/2017/04/08/maybe_use_a_type_parameter.html)
-- [What the heck is polymorphism? - DEV](https://dev.to/jvanbruegge/what-the-heck-is-polymorphism-nmh)
+* [Maybe? Use a type parameter!](https://www.parsonsmatt.org/2017/04/08/maybe_use_a_type_parameter.html)
+* [What the heck is polymorphism? - DEV](https://dev.to/jvanbruegge/what-the-heck-is-polymorphism-nmh)
+
+### レコード
+* [codygmanDOTdev - Ergonomic Haskell 1 - Records](https://codygman.dev/posts/2020-09-07-Ergonomic_haskell_1_records.html)
 
 ## 関数
 * [A simple Haskell function](http://neilmitchell.blogspot.jp/2016/01/a-simple-haskell-function.html)
