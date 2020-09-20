@@ -1,7 +1,7 @@
 ## 構文解析器
 ### Alex / Happy
-- [Alex and Happy: Parsing comments and strings](https://www.jyotirmoy.net/posts/2015-08-17-alex-happy-startcodes.html)
-- [Happyでパースエラーで列行番号とどんなミスマッチが起こったか報告する - Qiita](https://qiita.com/aiya000/items/7cdc843972c8bd9da04e)
+* [Alex and Happy: Parsing comments and strings](https://www.jyotirmoy.net/posts/2015-08-17-alex-happy-startcodes.html)
+* [Happyでパースエラーで列行番号とどんなミスマッチが起こったか報告する - Qiita](https://qiita.com/aiya000/items/7cdc843972c8bd9da04e)
 
 ### パーサーコンビネータ
 * [JavaScriptでパーサコンビネータのコンセプトを理解する](http://blog.anatoo.jp/entry/2015/04/26/220026)
@@ -46,7 +46,7 @@ parse = evalStateT
 * [Parsing list comprehensions is hard](http://www.rntz.net/post/2018-07-10-parsing-list-comprehensions.html)
 * [「正規表現はあんまり使わないかな。パーサー使うから」っていう人の気持ちがわかった！ - Qiita](https://qiita.com/aiya000/items/82f432a4b19c60561c01)
 * [【Haskell】Persistentをstack installするときに発生するエラー対処。>=0.9.0 is required but it could not be found. - Qiita](https://qiita.com/moriwm77/items/aebda67739d8651ae21f)
-- [The round-trip property](https://teh.id.au/posts/2017/06/07/round-trip-property/index.html)
+* [The round-trip property](https://teh.id.au/posts/2017/06/07/round-trip-property/index.html)
 
 #### attoparsec
 * [The attoparsec package](http://hackage.haskell.org/package/attoparsec)
@@ -79,8 +79,8 @@ parse = evalStateT
 
 ## ファイルフォーマット
 ### バイナリ
-- [Haskellでバイナリをパースする その１(たぶん続かない)](http://qiita.com/AyachiGin/items/4f9a0afea548288bfc87)
-- [Yuras/scanner: Fast non-backtracking incremental combinator parsing for bytestrings](https://github.com/Yuras/scanner)
+* [Haskellでバイナリをパースする その１(たぶん続かない)](http://qiita.com/AyachiGin/items/4f9a0afea548288bfc87)
+* [Yuras/scanner: Fast non-backtracking incremental combinator parsing for bytestrings](https://github.com/Yuras/scanner)
 
 ### CSV
 * ベンチマーク
@@ -203,12 +203,13 @@ parse = evalStateT
 - [Micro C, Part 1: Parsing – Joseph Morag](https://blog.josephmorag.com/posts/mcc1/)
 - [λm.me - Compiling Lisp to JavaScript From Scratch in 350 LOC](https://gilmi.xyz/blog/post/2016/10/14/lisp-to-js)
 
-### Scheme
-- [Learn Functional Programming by writing a Scheme in Haskell :: 0x0f0f0f](https://0x0f0f0f.github.io/posts/2019/09/learn-functional-programming-by-writing-a-scheme-in-haskell/)
-- [48時間でSchemeを書こう - Wikibooks](https://ja.wikibooks.org/wiki/48%E6%99%82%E9%96%93%E3%81%A7Scheme%E3%82%92%E6%9B%B8%E3%81%93%E3%81%86)
-- [Write You A Scheme, Version 2](https://wespiser.com/writings/wyas/home.html)
-- [24 days of Hackage, 2015: day 10: s-cargot: using S-expression syntax · Franklin Chen](https://conscientiousprogrammer.com/blog/2015/12/10/24-days-of-hackage-2015-day-10-s-cargot-using-s-expression-syntax/)
-- [素朴なlispインタープリター - Qiita](https://qiita.com/kmtoki/items/38adf6fa9da0deffb57e)
+### Lisp / Scheme
+* [Learn Functional Programming by writing a Scheme in Haskell :: 0x0f0f0f](https://0x0f0f0f.github.io/posts/2019/09/learn-functional-programming-by-writing-a-scheme-in-haskell/)
+* [48時間でSchemeを書こう - Wikibooks](https://ja.wikibooks.org/wiki/48%E6%99%82%E9%96%93%E3%81%A7Scheme%E3%82%92%E6%9B%B8%E3%81%93%E3%81%86)
+* [Write You A Scheme, Version 2](https://wespiser.com/writings/wyas/home.html)
+* [24 days of Hackage, 2015: day 10: s-cargot: using S-expression syntax · Franklin Chen](https://conscientiousprogrammer.com/blog/2015/12/10/24-days-of-hackage-2015-day-10-s-cargot-using-s-expression-syntax/)
+* [素朴なlispインタープリター - Qiita](https://qiita.com/kmtoki/items/38adf6fa9da0deffb57e)
+* [簡易LISP処理系の実装例（Haskell版） - Qiita](https://qiita.com/ytaki0801/items/bdd1a9c1f4e108b4bca0)
 
 ### LLVM
 - [llvm-hs Kaleidoscope Tutorial](https://lukelau.me/kaleidoscope/)
