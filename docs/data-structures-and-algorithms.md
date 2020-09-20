@@ -243,6 +243,7 @@
 * [Haskell のリストを左結合で連結すると効率が悪い理由 - Qiita](https://qiita.com/spinylobster/items/713c3777374c02af6896)
 * [Haskellのscan系関数を使いこなす \| 雑記帳](https://blog.miz-ar.info/2019/10/scanl-and-scanr/)
 * [FUNCTIONAL PEARLS Heterogeneous binary random-access lists WOUTER SWIERSTRA](https://twitter.com/Iceland_jack/status/1248729811104813059)
+* [jaspervdj - Lazy Sort: Counting Comparisons](https://jaspervdj.be/posts/2020-09-17-lazysort.html)
 
 ## array/vector
 * [The vector package](https://hackage.haskell.org/package/vector)
