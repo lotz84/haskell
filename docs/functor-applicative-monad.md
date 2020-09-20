@@ -36,8 +36,8 @@ class Functor f where
 * [Enhancing Functor Structures Step-By-Step (Part 2) · in Code](https://blog.jle.im/entry/enhancing-functor-structures-step-by-step-2.html)
 
 ### Bifunctor
-- [bifunctor](https://hackage.haskell.org/package/bifunctors)
-- [HaskellのBifunctor - Functorの拡張版 - Qiita](https://qiita.com/Izawa_/items/63fc45d3c7d056b1e729)
+* [bifunctor](https://hackage.haskell.org/package/bifunctors)
+* [HaskellのBifunctor - Functorの拡張版 - Qiita](https://qiita.com/Izawa_/items/63fc45d3c7d056b1e729)
 
 ### Profunctor
 * [profunctor](https://hackage.haskell.org/package/profunctors)
@@ -52,6 +52,7 @@ class Functor f where
 * [contravariant](https://hackage.haskell.org/package/contravariant)
 * [Covariance and Contravariance](https://www.fpcomplete.com/blog/2016/11/covariance-contravariance)
 * [Contravariance and luminance to add safety to uniforms](http://phaazon.blogspot.jp/2015/08/contravariance-and-luminance-to-add.html)
+* [Contravariant functors are Weird](https://sanj.ink/posts/2020-06-13-contravariant-functors-are-weird.html)
 
 ### Representable Functor
 
