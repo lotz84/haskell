@@ -44,6 +44,7 @@
 * [Bootstrapping a community via hackathons – Control.Monad.Writer](https://donsbot.wordpress.com/2020/09/01/bootstrapping-a-community-via-hackathons/)
 * [Be a goalkeeper](https://kodimensional.dev/goalkeeper)
 * [Partnering with Well Typed and investing in the Haskell community](https://hasura.io/blog/partnering-with-well-typed-and-investing-in-the-haskell-open-source-community/)
+* [Gabriel Gonzalez – How to market Haskell to a mainstream programmer - YouTube](https://www.youtube.com/watch?v=fNpsgTIpODA)
 
 ## コミュニティ
 * [Haskell Communities and Activities Report](https://wiki.haskell.org/Haskell_Communities_and_Activities_Report)
