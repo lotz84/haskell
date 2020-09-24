@@ -53,6 +53,7 @@ class Functor f where
 * [Covariance and Contravariance](https://www.fpcomplete.com/blog/2016/11/covariance-contravariance)
 * [Contravariance and luminance to add safety to uniforms](http://phaazon.blogspot.jp/2015/08/contravariance-and-luminance-to-add.html)
 * [Contravariant functors are Weird](https://sanj.ink/posts/2020-06-13-contravariant-functors-are-weird.html)
+* [MuniHac 2020: Duncan Coutts - Contravariant Logging: How to add logging without getting grumpy - YouTube](https://www.youtube.com/watch?v=qzOQOmmkKEM)
 
 ### Representable Functor
 
