@@ -156,26 +156,26 @@ class Functor g => Distributive g where
 - [Finite trees as initial algebra](https://theorylunch.wordpress.com/2013/02/28/finite-trees-as-initial-algebra/)
 
 ### cata, ana, hylo, para
-- [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire](http://eprints.eemcs.utwente.nl/7281/01/db-utwente-40501F46.pdf)
-- [Review: Bananas, Lenses, Envelopes and Barbed Wire :: Reasonably Polymorphic](http://reasonablypolymorphic.com/blog/recursion-schemes)
-- [再帰のパターン](http://maoe.hatenadiary.jp/entry/20090820/1250782646)
-- [Practical Recursion Schemes](https://medium.com/@jaredtobin/practical-recursion-schemes-c10648ec1c29)
-- [What's in a Fold: The Basic Catamorphism in recursion-schemes - The Life Monadic](http://duplode.github.io/posts/whats-in-a-fold.html)
-- [The Monad Cat - Programming with bananas and barbed wire. Part 1](https://monad.cat/posts/2016-05-10-barbed-wire.html)
-- [Practical Recursion Schemes · jtobin.io](https://jtobin.io/practical-recursion-schemes)
-- [A Tour of Some Useful Recursive Types · jtobin.io](https://jtobin.io/tour-of-some-recursive-types)
-- [Monadic Recursion Schemes · jtobin.io](https://jtobin.io/monadic-recursion-schemes)
-- [Stalking a Hylomorphism in the Wild \| Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2017/12/29/stalking-a-hylomorphism-in-the-wild/)
-- [Don't fear the cat-amorphism (nor the hylomorphism)](http://fho.f12n.de/posts/2014-05-07-dont-fear-the-cat.html)
-- [Recursion Schemes By Example](https://recursion-schemes-by-example.chrispenner.ca/articles/recursive/basic-catamorphisms)
-- [Sorting with Style · jtobin.io](https://jtobin.io/sorting-with-style) - hyloを使ってmergeソートを実装する
-- [Sorting Slower with Style · jtobin.io](https://jtobin.io/sorting-slower-with-style) - apoを使って挿入ソートを実装する
-- [おじいさん、今日のご飯はCatamorphismですよ - Qiita](https://qiita.com/rinse_/items/878a962f92e675f21695)
-- [おじいさん、今日のご飯はAnamorphismですよ - Qiita](https://qiita.com/rinse_/items/022e212474e40da3a2fe)
-- [おじいさん、今日のご飯はHylomorphismですよ - Qiita](https://qiita.com/rinse_/items/8335294ebb7e93cc84c2)
-- [Terminal Coalgebra as Directed Limit \| Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2020/04/22/terminal-coalgebra-as-directed-limit/)
-- [Monoidal Catamorphism](https://github.com/BartoszMilewski/Publications/blob/master/MonoCata.pdf)
-- [ASTs with Fix and Free](https://chrispenner.ca/posts/asts-with-fix-and-free)
+* [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire](http://eprints.eemcs.utwente.nl/7281/01/db-utwente-40501F46.pdf)
+* [Review: Bananas, Lenses, Envelopes and Barbed Wire :: Reasonably Polymorphic](http://reasonablypolymorphic.com/blog/recursion-schemes)
+* [再帰のパターン](http://maoe.hatenadiary.jp/entry/20090820/1250782646)
+* [Practical Recursion Schemes](https://medium.com/@jaredtobin/practical-recursion-schemes-c10648ec1c29)
+* [What's in a Fold: The Basic Catamorphism in recursion-schemes - The Life Monadic](http://duplode.github.io/posts/whats-in-a-fold.html)
+* [The Monad Cat - Programming with bananas and barbed wire. Part 1](https://monad.cat/posts/2016-05-10-barbed-wire.html)
+* [Practical Recursion Schemes · jtobin.io](https://jtobin.io/practical-recursion-schemes)
+* [A Tour of Some Useful Recursive Types · jtobin.io](https://jtobin.io/tour-of-some-recursive-types)
+* [Monadic Recursion Schemes · jtobin.io](https://jtobin.io/monadic-recursion-schemes)
+* [Stalking a Hylomorphism in the Wild \| Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2017/12/29/stalking-a-hylomorphism-in-the-wild/)
+* [Don't fear the cat-amorphism (nor the hylomorphism)](http://fho.f12n.de/posts/2014-05-07-dont-fear-the-cat.html)
+* [Recursion Schemes By Example](https://recursion-schemes-by-example.chrispenner.ca/articles/recursive/basic-catamorphisms)
+* [Sorting with Style · jtobin.io](https://jtobin.io/sorting-with-style) - hyloを使ってmergeソートを実装する
+* [Sorting Slower with Style · jtobin.io](https://jtobin.io/sorting-slower-with-style) - apoを使って挿入ソートを実装する
+* [おじいさん、今日のご飯はCatamorphismですよ - Qiita](https://qiita.com/rinse_/items/878a962f92e675f21695)
+* [おじいさん、今日のご飯はAnamorphismですよ - Qiita](https://qiita.com/rinse_/items/022e212474e40da3a2fe)
+* [おじいさん、今日のご飯はHylomorphismですよ - Qiita](https://qiita.com/rinse_/items/8335294ebb7e93cc84c2)
+* [Terminal Coalgebra as Directed Limit \| Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2020/04/22/terminal-coalgebra-as-directed-limit/)
+* [Monoidal Catamorphism](https://github.com/BartoszMilewski/Publications/blob/master/MonoCata.pdf)
+* [ASTs with Fix and Free](https://chrispenner.ca/posts/asts-with-fix-and-free)
 
 ### mutu
 * [(PDF) Make it Practical: A Generic Linear-Time Algorithm for Solving Maximum-Weightsum Problems](https://www.researchgate.net/publication/2630929_Make_it_Practical_A_Generic_Linear-Time_Algorithm_for_Solving_Maximum-Weightsum_Problems)
@@ -192,7 +192,8 @@ class Functor g => Distributive g where
 * [Promorphisms, Pre and Post](https://jtobin.io/promorphisms-pre-post)
 * [somehow-morphisms on fixed point written in Haskell](https://qiita.com/cutsea110/items/69889a99d30b627bc04a)
 * [The Comonad.Reader » Unnatural Transformations](http://comonad.com/reader/2008/unnatural-transformations/)
-- [Recursion Schemes for Higher Algebras \| Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2018/08/20/recursion-schemes-for-higher-algebras/)
+* [Recursion Schemes for Higher Algebras \| Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2018/08/20/recursion-schemes-for-higher-algebras/)
+* [Generic Programming with Adjunctions](http://www.cs.ox.ac.uk/ralf.hinze/publications/SSGIP.pdf)
 
 ### 動的計画法
 * [Haskell で動的計画法を書くための3つの方針](http://d.hatena.ne.jp/toslunar/20100408/1270719176)
