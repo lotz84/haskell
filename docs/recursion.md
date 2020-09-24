@@ -194,6 +194,7 @@ class Functor g => Distributive g where
 * [The Comonad.Reader » Unnatural Transformations](http://comonad.com/reader/2008/unnatural-transformations/)
 * [Recursion Schemes for Higher Algebras \| Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2018/08/20/recursion-schemes-for-higher-algebras/)
 * [Generic Programming with Adjunctions](http://www.cs.ox.ac.uk/ralf.hinze/publications/SSGIP.pdf)
+  * [Generic Programming with Adjunctions](http://www.cs.ox.ac.uk/ralf.hinze/publications/LNCS-7470.pdf)
 
 ### 動的計画法
 * [Haskell で動的計画法を書くための3つの方針](http://d.hatena.ne.jp/toslunar/20100408/1270719176)
