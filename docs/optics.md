@@ -94,6 +94,7 @@
 * [Digging into Lenses \| Deontologician](https://deontologician.com/wiki/lenses/)
 * [[2002.11480] String Diagrams for Optics](https://arxiv.org/abs/2002.11480)
 * [Lenses for Tree Traversals](https://www.michaelpj.com/blog/2020/08/02/lenses-for-tree-traversals.html)
+* [[1807.01948] Incremental Relational Lenses](https://arxiv.org/abs/1807.01948)
 
 > Thus the Yoneda embedding of the functor category leads to the van Laarhoven representation of the lens
 
