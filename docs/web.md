@@ -240,6 +240,7 @@ Web Server
 * [adventures in uncertainty: Serving HTTP Content with Fused-Effects](https://blog.sumtypeofway.com/posts/serving-http-content-with-fused-effects.html)
 * [Introducing Mu-Haskell v0.1 \| 47 Degrees](https://www.47deg.com/blog/introducing-mu-haskell-0-1/)
 * [IHP: Integrated Haskell Platform, a batteries-included web framework built on purely functional programming technologies](https://ihp.digitallyinduced.com/)
+* [Mu-Haskell: Docs](https://higherkindness.io/mu-haskell/)
 
 ### ネットワークプログラミング
 - [network: Low-level networking interface](https://hackage.haskell.org/package/network)
