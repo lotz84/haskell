@@ -294,7 +294,8 @@ Stack開発の知見が集められたライブラリ
 * [Non-recursive Make Considered Harmful](http://research.microsoft.com/en-us/um/people/simonpj/papers/ghc-shake/ghc-shake.pdf)
 * [CS Syd - Research as a build system with Shake](https://cs-syd.eu/posts/2018-05-28-research-as-a-build-system)
 * [Build Systems à la Carte](https://www.microsoft.com/en-us/research/uploads/prod/2018/03/build-systems.pdf)
-- [shake-plus: Re-export of Shake using well-typed paths and ReaderT.](https://hackage.haskell.org/package/shake-plus)
+* [shake-plus: Re-export of Shake using well-typed paths and ReaderT.](https://hackage.haskell.org/package/shake-plus)
+* [shake + lucid + hint で静的ウェブサイト生成 - 趣味はデバッグ……](https://kakkun61.hatenablog.com/entry/2020/09/26/shake_%2B_lucid_%2B_hint_%E3%81%A7%E9%9D%99%E7%9A%84%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88%E7%94%9F%E6%88%90)
 
 ### Hadrian
 * [snowleopard/hadrian: Hadrian: a new build system for the Glasgow Haskell Compiler. Now merged into the GHC tree!](https://github.com/snowleopard/hadrian)
