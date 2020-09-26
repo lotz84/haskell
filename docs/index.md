@@ -34,6 +34,7 @@
     1. [Template Haskell](template-haskell)
     1. [GHCと最適化](ghc)
 1. [**実践Haskell**](practical-haskell)
+    1. [アプリケーション・アーキテクチャ](application-architecture)
     1. [Haskell製のツール](haskell-made-tools)
     1. [他言語との連携](other-languages)
     1. [社会とHaskell](society-and-haskell)
