@@ -33,11 +33,12 @@
 - [ekmett/propagators](https://github.com/ekmett/propagators)
 
 ## 並行
-- [CONCURRENT HASKELL IN THE REAL WORLD](https://www.stackbuilders.com/news/concurrent-haskell-in-the-real-world)
-- [Relativistic Programming in Haskell](http://web.cecs.pdx.edu/~walpole/papers/haskell2015.pdf)
-   - [ekmett/rcu](https://github.com/ekmett/rcu)
-- [Abstracting Async.Concurrently](http://elvishjerricco.github.io/2016/09/17/abstracting-async-concurrently.html)
-- [rrnewton/haskell-lockfree](https://github.com/rrnewton/haskell-lockfree)
+* [CONCURRENT HASKELL IN THE REAL WORLD](https://www.stackbuilders.com/news/concurrent-haskell-in-the-real-world)
+* [Relativistic Programming in Haskell](http://web.cecs.pdx.edu/~walpole/papers/haskell2015.pdf)
+   * [ekmett/rcu](https://github.com/ekmett/rcu)
+* [Abstracting Async.Concurrently](http://elvishjerricco.github.io/2016/09/17/abstracting-async-concurrently.html)
+* [rrnewton/haskell-lockfree](https://github.com/rrnewton/haskell-lockfree)
+* [Assume It Worked and Fix Later – Hacker Noon](https://hackernoon.com/assume-it-worked-and-fix-later-8436d18b7ed3)
 
 ### 軽量スレッド
 * [Haskellで並行化する方法: 6秒かかる処理を3秒にしよう](http://qiita.com/eielh/items/64ba5f0164b89c6c284e)
