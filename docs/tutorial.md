@@ -91,6 +91,7 @@
 * [Haskell 解説本 小史 - golden-luckyの日記](https://golden-lucky.hatenablog.com/entry/2019/08/02/181821)
 
 ### 英語チュートリアル
+* [Writing Simple Haskell](https://soupi.github.io/rfc/writing_simple_haskell/) - 簡単なTODO管理ツールを作りながらHaskellで実用的なプログラムの書き方を学んでいくチュートリアル
 * [Tweag I/O - Why Haskell is important](https://www.tweag.io/posts/2019-09-06-why-haskell-is-important.html)
 * [What is Good About Haskell? - Donnacha Oisín Kidney](https://doisinkidney.com/posts/2019-10-02-what-is-good-about-haskell.html)
 * [WhyHaskellMatters/README.md at master · thma/WhyHaskellMatters](https://github.com/thma/WhyHaskellMatters/blob/master/README.md)
@@ -166,7 +167,6 @@
 * [Haskell without the theory — Haskell without the theory 1.0 documentation](https://www.vacationlabs.com/haskell/index.html)
 * [Haskell for JavaScript programmers : programming](https://www.reddit.com/r/programming/comments/7ri2io/haskell_for_javascript_programmers/)
 * [argumatronic - The Nesting Instinct](https://argumatronic.com/posts/2018-01-23-the-nesting-instinct.html)
-* [Writing Simple Haskell](https://soupi.github.io/rfc/writing_simple_haskell/) - 簡単なTODO管理ツールを作りながらHaskellで実用的なプログラムの書き方を学んでいくチュートリアル
 * [Demystifying Functional Programming — Building intuition by teaching through examples and design patterns/idiomatic solutions : haskell](https://www.reddit.com/r/haskell/comments/89gv6a/demystifying_functional_programming_building/)
 * [Learning Haskell - Miscellaneous Enlightenments](https://sras.me/haskell/miscellaneous-enlightenments.html)
 * [uku - A Haskell CLI tool to display Ukulele fingering charts | Adrian Sieber's Website](https://adriansieber.com/ukulele-fingering-chart-cli-tool-in-haskell/)
