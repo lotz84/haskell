@@ -36,11 +36,12 @@
 #### data
 代数的データ型とは"足し算"と"掛け算"が出来るような型のこと。"足し算"は`Either a b`、"掛け算"は`(a, b)`と対応する。
 
-- [Haskell Diary #2 - Algebra of Data Types](http://akashagrawal.me/haskell-diary-2-algebraic-data-types/)
-- [代数的データ型と初等代数学 - ryota-ka's blog](https://ryota-ka.hatenablog.com/entry/2018/07/09/110000)
-- [The algebra (and calculus!) of algebraic data types](https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types)
-- [代数的データ型のデータのとりうる数を微分すると１穴空きデータ型の数になる話 - Qiita](https://qiita.com/mittyantest/items/f8783834e6bb48baf2c8)
-- [Adαm Schønemαnn - Pattern matching ADTs](https://adamschoenemann.dk/posts/2018-05-29-pattern-matching.html)
+* [Haskell Diary #2 - Algebra of Data Types](http://akashagrawal.me/haskell-diary-2-algebraic-data-types/)
+* [代数的データ型と初等代数学 - ryota-ka's blog](https://ryota-ka.hatenablog.com/entry/2018/07/09/110000)
+* [The algebra (and calculus!) of algebraic data types](https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types)
+* [代数的データ型のデータのとりうる数を微分すると１穴空きデータ型の数になる話 - Qiita](https://qiita.com/mittyantest/items/f8783834e6bb48baf2c8)
+* [Adαm Schønemαnn - Pattern matching ADTs](https://adamschoenemann.dk/posts/2018-05-29-pattern-matching.html)
+* [Void Is a Smell \| Freckle Education](https://tech.freckle.com/2020/09/23/void-is-a-smell/)
 
 ##### Codata
 - [A Neighborhood of Infinity: Data and Codata](http://blog.sigfpe.com/2007/07/data-and-codata.html)
