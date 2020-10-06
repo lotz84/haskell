@@ -78,6 +78,7 @@
 * [mallRL by Nikolas Mählmann](https://nmaehlmann.itch.io/mallrl)
 * [YourFirstGame with Haskell, Godot, and godot-haskell](https://spartanengineer.com/posts/2020-05-24-yourfirstgame-with-haskell-and-godot.html)
 * [Graphics in Haskell: linear algebra](https://das.li/articles/linear.html)
+* [HaskellでもDirectX12したい！ - Qiita](https://qiita.com/Pctg-x8/items/37bb2a15d33bbe82ceb8)
 
 ## Gloss
 * [gloss](http://hackage.haskell.org/package/gloss)
