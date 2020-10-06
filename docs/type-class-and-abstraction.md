@@ -145,5 +145,8 @@ format ("Person's name is " % text % ", age is " % hex) "Dave" 54
 * [formattable](http://hackage.haskell.org/package/formattable)
 * [Printcess.PrettyPrinting](https://hackage.haskell.org/package/printcess-0.1.0.2/docs/Printcess-PrettyPrinting.html)
 
+## Deriving
+* [Strategic Deriving :: Kowainik](https://kowainik.github.io/posts/deriving)
+
 ## 多相型
 * [Return type polymorphism in Haskell - Eli Bendersky's website](https://eli.thegreenplace.net/2018/return-type-polymorphism-in-haskell/)
