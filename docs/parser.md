@@ -125,6 +125,18 @@ parse = evalStateT
 * [cmark: Fast, accurate CommonMark (Markdown) parser and renderer](https://hackage.haskell.org/package/cmark)
 * [Announcing MMark](https://markkarpov.com/post/announcing-mmark.html)
 
+## Dhall
+* [Dhallによるリッチな設定ファイル体験](http://syocy.hatenablog.com/entry/2018/07/14/195255)
+  * [Dhallによるリッチな設定ファイル体験 - Speaker Deck](https://speakerdeck.com/syocy/dhallniyoruritutinashe-ding-huairuti-yan)
+* [Dhall で Kubernetes の YAML 管理をスマートにやっていく - ryota-ka's blog](https://ryota-ka.hatenablog.com/entry/2018/08/27/110000)
+* [Bowl Full of Lentils](https://functional.works-hub.com/learn/bowl-full-of-lentils-fcbf3)
+* [Dhall to HLint: Using Dhall to generate HLint rules](https://kowainik.github.io/posts/2018-09-09-dhall-to-hlint.html)
+* [HaskellでDhallをExtensibleのレコードとして読み込めるようにする - Qiita](https://qiita.com/A_kirisaki/items/a72cb21be08c6dd7cf92)
+* [Dhall: Haskellの新たなキラーアプリ - Speaker Deck](https://speakerdeck.com/syocy/dhall-haskellfalsexin-tanakiraapuri)
+* [Dhall を試して物足りない部分を補うツールを自作した](https://matsubara0507.github.io/posts/2018-12-05-create-dhall-ex.html)
+* [Haskell for all: Dhall - Year in review (2018-2019)](http://www.haskellforall.com/2019/01/dhall-year-in-review-2018-2019.html)
+* [Haskell for all: Dhall Survey Results (2019-2019)](http://www.haskellforall.com/2019/02/dhall-survey-results-2019-2019.html)
+
 ### JSON
 * [HaskellとJSON、そしてレコード型](http://syocy.hatenablog.com/entry/2017/08/14/235830)
 * [aeson](http://hackage.haskell.org/package/aeson)
