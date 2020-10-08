@@ -7,7 +7,7 @@
 
 ## Index
 1. **Haskell: 純粋関数型プログラミング言語**
-    1. [環境構築](environment)
+    1. [環境構築／エコシステム](ecosystem)
     1. [入門／チュートリアル](tutorial)
     1. [基本文法](basic)
     1. [再帰](recursion)
