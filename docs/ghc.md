@@ -153,6 +153,7 @@
 * [Well-Typed - The Haskell Consultants: Understanding Memory Fragmentation](https://www.well-typed.com/blog/2020/08/memory-fragmentation/)
 * [Using a development version of GHC with nix](https://mpickering.github.io/posts/2018-01-05-ghchead-nix.html)
 * [Nix scaffolding for running Haskell plugins](https://mpickering.github.io/posts/2018-06-24-haskell-nix-plugins.html)
+* [Build Haskell fast](https://haskell.build/)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
