@@ -42,6 +42,7 @@ ghcupは2020/5/9時点ではWindowsに対応していないので注意してく
 ## エディタ・IDE
 ### Haskell IDE Engine
 * [haskell/haskell-ide-engine: The engine for haskell ide-integration. Not an IDE](https://github.com/haskell/haskell-ide-engine)
+* [Nix で Haskell IDE Engine をシュッと入れる - ryota-ka's blog](https://ryota-ka.hatenablog.com/entry/2019/07/15/120000)
 * [Haskell IDE Engineのインストールに苦労した (Windows 10) - Qiita](https://qiita.com/yutasth/items/9df6e2c3937edad24aee)
 * [mpickering - An IDE implemented using reflex](https://mpickering.github.io/posts/2020-03-16-ghcide-reflex.html)
 * [mpickering - The State of Haskell IDEs](https://mpickering.github.io/ide/posts/2020-05-08-state-of-haskell-ide.html)
@@ -157,7 +158,7 @@ ghcupは2020/5/9時点ではWindowsに対応していないので注意してく
 * [stylish-haskellをHexFloatLiteralsやNumericUnderscoresに対応させる - Qiita](https://qiita.com/mod_poppo/items/418da906f6621a2898e8)
 * [How Stylish Haskell works](https://felixmulder.com/writing/2020/08/20/How-Stylish-Haskell-works.html)
 
-## 検索
+## 情報検索
 * [Hoogle](https://www.haskell.org/hoogle/) - [README](https://github.com/ndmitchell/hoogle/blob/master/README.md)
   * [Easy Hoogle usage from bash](http://przybyszd.blogspot.jp/2016/01/easy-hoogle-usage-from-bash.html)
   * [Hoogle検索をラクにするChrome拡張を作りました！](http://yu-i9.hatenablog.com/entry/hoogleswitcher)
@@ -228,6 +229,13 @@ ghcupは2020/5/9時点ではWindowsに対応していないので注意してく
 * [🧰 Making the most of Cabal](https://lukelau.me/haskell/posts/making-the-most-of-cabal/)
 * [Whirlwind Tour Of Cabal For Beginners \| School of FP](https://schooloffp.co/2020/08/17/whirlwind-tour-of-cabal-for-beginners.html)
 * [Oleg's gists - A design for paths in Cabal](https://oleg.fi/gists/posts/2020-09-13-a-design-for-paths.html)
+
+### Nix integration
+* [13. Nix Integration — Cabal 3.5.0.0 User's Guide](https://cabal.readthedocs.io/en/latest/nix-integration.html)
+* [Gabriel439/haskell-nix: Nix and Haskell in production](https://github.com/Gabriel439/haskell-nix)
+* [Nix ±Cabal](https://begriffs.com/posts/2015-08-07-nix-plus-minus-cabal.html)
+* [NixOS/cabal2nix: Generate Nix build instructions from a Cabal file](https://github.com/NixOS/cabal2nix)
+* [Maxfield Chen - Functional Fika — Nix and Haskell](https://maxfieldchen.com/posts/2020-05-16-Functional-Fika-Haskell-Nix-Cabal.html)
 
 ## Stack
 * [The Haskell Tool Stack](http://docs.haskellstack.org/en/stable/README.html)
@@ -301,6 +309,10 @@ ghcupは2020/5/9時点ではWindowsに対応していないので注意してく
 * [Casa: Content-Addressable Storage Archive](https://tech.fpcomplete.com/blog/casa)
 * [Casa and Stack](https://tech.fpcomplete.com/blog/casa-and-stack)
 
+### Nix integration
+* [Nix integration - The Haskell Tool Stack](https://docs.haskellstack.org/en/stable/nix_integration/)
+* [Tweag - Stack + Nix = portable reproducible builds](https://www.tweag.io/blog/2015-12-09-stack-nix/)
+
 ### 逆引き
 * [Ubuntu 16 で Stack + GHC がライブラリのリンクに失敗する場合の対処法](http://qiita.com/mr_konn/items/13caa82c1118968d3145)
 * [stackで~/.stackの場所を移動する](http://qiita.com/sanemat/items/722836dc71e5620d8db3)
@@ -314,29 +326,3 @@ ghcupは2020/5/9時点ではWindowsに対応していないので注意してく
 * [Stackでextra-depsを自動設定する方法の比較](http://qiita.com/watertight/items/0e09abe3fb9352502ccf)
 * [stack new した時に出てくるファイルのテンプレートの設定](http://qiita.com/igrep/items/42130f58fb18da55e8c3)
 
-## NixOS
-* [Nix ±Cabal](http://begriffs.com/posts/2015-08-07-nix-plus-minus-cabal.html)
-* [Haskell & Nix](https://www.youtube.com/playlist?list=PLErve0z4I-unD_Kz9LuK7fm_0xaZPyKA4)
-* [Stack + Nix = portable reproducible builds](http://www.tweag.io/blog/stack-nix-portable-reproducible-builds)
-* [stackとNixを使って安定したビルド環境を作る](http://qiita.com/ilyaletre/items/5cf1e7807e0cdc3ef1cd)
-* [NixOS/cabal2nix](https://github.com/NixOS/cabal2nix)
-* [Purely Functional Linux with NixOS](https://begriffs.com/posts/2016-08-08-intro-to-nixos.html)
-* [NixOSでHaskellな環境](http://qiita.com/nznktst/items/a6ad1fceb92d31604dd1)
-* [Episode 2 - Nix Simple Types](https://www.youtube.com/watch?v=l8-wIPANCU0&feature=youtu.be)
-* [Gabriel439/haskell-nix: Nix and Haskell in production](https://github.com/Gabriel439/haskell-nix)
-* [jyp/styx: A nix-based Haskell project manager](https://github.com/jyp/styx)
-* [How I use nix for Haskell development - YouTube](https://www.youtube.com/watch?v=G9yiJ7d5LeI)
-* [Haskell(stack)のEmacs環境 on NixOS - Qiita](https://qiita.com/emanon_was/items/69a1be2c3f60fbcdba88)
-* [mpickering - Using a development version of GHC with nix](http://mpickering.github.io/posts/2018-01-05-ghchead-nix.html)
-* [Nix: Under the hood by Gabriel Gonzalez - YouTube](https://www.youtube.com/watch?v=GMQPzv3Sx58)
-* [mpickering - Nix scaffolding for running Haskell plugins](http://mpickering.github.io/posts/2018-06-24-haskell-nix-plugins.html)
-* [Nix, Docker and Haskell](https://cs-syd.eu/posts/2018-07-14-nix-docker-haskell)
-* [Exploring Nix & Haskell Part 2: Dev Tools & IDE Integration – Christian Henry](https://cah6.github.io/technology/nix-haskell-2/)
-* [Exploring Nix & Haskell Part 3: Less Nix, More Reflex – Christian Henry](https://cah6.github.io/technology/nix-haskell-3/)
-* [fghibellini/nix-haskell-monorepo: Pragmatic tutorial on how to use nix with a haskell monorepo](https://github.com/fghibellini/nix-haskell-monorepo)
-* [Haskell - Haskell Fan Site](http://www-cs-students.stanford.edu/~blynn/haskell/)
-* [Nix で Haskell IDE Engine をシュッと入れる - ryota-ka's blog](https://ryota-ka.hatenablog.com/entry/2019/07/15/120000)
-* [NixOSことはじめ　 - Qiita](https://qiita.com/yakotokay/items/0003cef60e2f8700a320)
-* [ぼくが普段使っているOS - NixOSの話 - dely engineering blog](https://tech.dely.jp/entry/2018/12/03/110227)
-* [Maxfield Chen - Functional Fika — Nix and Haskell](https://maxfieldchen.com/posts/2020-05-16-Functional-Fika-Haskell-Nix-Cabal.html)
-* [Building static Haskell binary with Nix on Linux · PatchGirl](https://blog.patchgirl.io/haskell/2020/07/13/static-haskell-binary.html)
