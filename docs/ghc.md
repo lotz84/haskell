@@ -151,6 +151,8 @@
 * [Improving Haskell’s big numbers support - IOHK Blog](https://iohk.io/en/blog/posts/2020/07/28/improving-haskells-big-numbers-support/)
 * [IDE 2020: Measuring memory usage of Haskell values and patching GHC](https://mpickering.github.io//ide/posts/2020-08-04-measuring-memory-size.html)
 * [Well-Typed - The Haskell Consultants: Understanding Memory Fragmentation](https://www.well-typed.com/blog/2020/08/memory-fragmentation/)
+* [Using a development version of GHC with nix](https://mpickering.github.io/posts/2018-01-05-ghchead-nix.html)
+* [Nix scaffolding for running Haskell plugins](https://mpickering.github.io/posts/2018-06-24-haskell-nix-plugins.html)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
