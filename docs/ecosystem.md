@@ -183,6 +183,7 @@ ghcupは2020/5/9時点ではWindowsに対応していないので注意してく
 * [Haskell初心者が直面するghciで起こしがちなエラー4選とその対処法 - Qiita](http://qiita.com/tacke_jp/items/bb714f22eb8762d6e8ee)
 * [ghciでの関数定義 - Qiita](http://qiita.com/smellman/items/708be678df00d4f7529c)
 * [Rapid](https://hackage.haskell.org/package/rapid-0.1.3/docs/Rapid.html) - This module provides a rapid prototyping suite for GHCi that can be used standalone or integrated into editors.
+* [litxio/ptghci: High-powered REPL for Haskell, inspired by IPython](https://github.com/litxio/ptghci)
 
 ## Cabal
 * [Hackage](http://hackage.haskell.org/)
