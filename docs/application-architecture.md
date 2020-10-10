@@ -8,6 +8,7 @@
 * [Some thoughts on building software](https://gist.github.com/serras/caf3b7056f609c63a028f15c47a3ff4e)
 * [Revisiting application structure](http://felixmulder.com/writing/2020/08/08/Revisiting-application-structure)
 * [Algebra-Driven Design by Sandy Maguire [Leanpub PDF/iPad/Kindle]](https://leanpub.com/algebra-driven-design/)
+* [fghibellini/nix-haskell-monorepo: Pragmatic tutorial on how to use nix with a haskell monorepo](https://github.com/fghibellini/nix-haskell-monorepo)
 
 ## 基本
 * [How to structure your Haskell program](http://corentindupont.info/blog/posts/Programming/2016-12-14-Haskell-structure.html)
