@@ -15,13 +15,9 @@
 * [Actually Using Haskell!](http://www.oredev.org/2017/sessions/actually-using-haskell)
 * [What Makes Haskell Unique](https://www.snoyman.com/blog/2017/12/what-makes-haskell-unique)
 * [Infinite Negative Utility: Some Notes About How I Write Haskell](https://blog.infinitenegativeutility.com/2017/12/some-notes-about-how-i-write-haskell)
-* [Literate Markdown (markdown-unlit の使い方) について](https://haskell.e-bigmoon.com/posts/2017-12-29-literate-markdown)
-* [Haskellや周辺ツールについてのリンク集 - Qiita](https://qiita.com/ogata-k/items/23d70250ec42359b6bb5)
 * [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
 * [Haskell package checklist \| Write better Haskell packages](http://taylor.fausak.me/haskell-package-checklist/)
 * [Haskell Bazaar](https://www.haskellbazaar.com/#/)
-* [litxio/ptghci: High-powered REPL for Haskell, inspired by IPython](https://github.com/litxio/ptghci)
-* [Build Haskell fast](https://haskell.build/)
 * [Great moments in Haskell history](https://typeclasses.com/timeline)
 
 ## Preludeを置き換える
