@@ -177,6 +177,17 @@ class Functor g => Distributive g where
 * [Monoidal Catamorphism](https://github.com/BartoszMilewski/Publications/blob/master/MonoCata.pdf)
 * [ASTs with Fix and Free](https://chrispenner.ca/posts/asts-with-fix-and-free)
 
+```hs
+newtype Fix f = In { out :: f (Fix f) }
+
+type Algebra f a = f a -> a
+
+-- Church encoding
+type Fix f = forall a. Algebra f a -> a
+```
+
+https://www.cs.utexas.edu/~wcook/Drafts/2012/MTC.pdf
+
 ### mutu
 * [(PDF) Make it Practical: A Generic Linear-Time Algorithm for Solving Maximum-Weightsum Problems](https://www.researchgate.net/publication/2630929_Make_it_Practical_A_Generic_Linear-Time_Algorithm_for_Solving_Maximum-Weightsum_Problems)
 * [最大重み和問題の線形時間アルゴリズムの導出](https://www.jstage.jst.go.jp/article/jssst/18/5/18_5_483/_article/-char/ja/)
