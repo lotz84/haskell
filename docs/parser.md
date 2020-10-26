@@ -21,6 +21,8 @@ parse = evalStateT
 * [構文解析器結合子](https://www.ipsj.or.jp/07editj/promenade/4702.pdf)
 * [Monadic Parsing in Haskell](http://www.cs.nott.ac.uk/~gmh/pearl.pdf)
 * [Revisiting 'Monadic Parsing in Haskell' - Vaibhav Sagar](http://vaibhavsagar.com/blog/2018/02/04/revisiting-monadic-parsing-haskell/)
+* [Applicative Functors for Fun and Parsing – Arun Raghavan](https://arunraghavan.net/2018/02/applicative-functors-for-fun-and-parsing/)
+* [Showcasing Applicative – Blog – Joachim Breitner's Homepage](https://www.joachim-breitner.de/blog/710-Showcasing_Applicative)
 * [Pandoc - a universal document converter](http://pandoc.org/)
   * [Try pandoc!](http://pandoc.org/try/)
   * [markup.rocks](http://markup.rocks/)
