@@ -186,7 +186,8 @@ type Algebra f a = f a -> a
 type Fix f = forall a. Algebra f a -> a
 ```
 
-https://www.cs.utexas.edu/~wcook/Drafts/2012/MTC.pdf
+* [Functorial polymorphism - ScienceDirect](https://www.sciencedirect.com/science/article/pii/0304397590901517)
+* https://www.cs.utexas.edu/~wcook/Drafts/2012/MTC.pdf
 
 ### mutu
 * [(PDF) Make it Practical: A Generic Linear-Time Algorithm for Solving Maximum-Weightsum Problems](https://www.researchgate.net/publication/2630929_Make_it_Practical_A_Generic_Linear-Time_Algorithm_for_Solving_Maximum-Weightsum_Problems)
