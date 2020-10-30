@@ -175,7 +175,7 @@ root
 - [Let's make a GTK Video Player with Haskell](https://lettier.github.io/posts/2017-08-30-haskell-gtk-video-player.html)
 
 ### Neuron
-* [Neuron 0.6 released - Sridhar Ratnakumar](https://www.srid.ca/cbf057a6.html)
+* [Neuron 1.0 released - Sridhar Ratnakumar](https://www.srid.ca/neuron-v1.html)
 
 ### neut
 - [u2zv1wx/neut: A dependently-typed programming language with compile-time malloc/free determination](https://github.com/u2zv1wx/neut)
