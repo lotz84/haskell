@@ -57,3 +57,4 @@
 * [Do we need effects to get abstraction? – barely-functional – Medium](https://medium.com/barely-functional/do-we-need-effects-to-get-abstraction-7d5dc0edfbef)
 * [Monads and Effects](https://speakerdeck.com/myuon/monads-and-effects)
 * [sketches/unordered-effects at master · effectfully/sketches](https://github.com/effectfully/sketches/tree/master/unordered-effects)
+* [KingoftheHomeless/in-other-words: A higher-order effect system where the sky's the limit](https://github.com/KingoftheHomeless/in-other-words#readme)
