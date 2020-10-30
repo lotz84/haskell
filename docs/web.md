@@ -164,6 +164,7 @@ WebAssembly
 * [Tweag I/O - Asterius GHC WebAssembly backendreaches TodoMVC](https://www.tweag.io/posts/2018-12-20-asterius-todomvc.html)
 * [AsteriusでHaskellの関数をJSから呼べるようにしてみた（けど失敗）（拡大版） - Haskell-jp](https://haskell.jp/blog/posts/2019/asterius.html)
 * [Tweag I/O - Haskell art in your browser with Asterius](https://www.tweag.io/posts/2019-12-19-asterius-diagrams.html)
+* [Let's build a Cloudflare Worker with WebAssembly and Haskell - Tutorials](https://www.stackbuilders.com/tutorials/haskell/wasm-and-cloudflare-workers/)
 
 HTML Template
 -------------
