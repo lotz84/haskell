@@ -9,6 +9,7 @@
 * [Haskell mini-patterns handbook :: Kowainik](https://kowainik.github.io/posts/haskell-mini-patterns)
 * [Types as axioms, or: playing god with static types](https://lexi-lambda.github.io/blog/2020/08/13/types-as-axioms-or-playing-god-with-static-types/)
 * [Towards Tactic Metaprogramming in Haskell :: Reasonably Polymorphic](https://reasonablypolymorphic.com/blog/towards-tactics/)
+* [Haskellの「型」で混乱したので整理してみた - Qiita](https://qiita.com/atsuyoshi-muta/items/87b8b1b32b39a53cdabb)
 
 ### 基本型
 * [haskell の Int と Integer の違いや Float や Double や Rational を理解する - Qiita](https://qiita.com/suzuki-hoge/items/17cf0cd3680ef10b2cc1)
