@@ -295,6 +295,7 @@
 * [nonempty-containers: Non-empty variants of containers data types, with full API](https://hackage.haskell.org/package/nonempty-containers)
 * [hashtables](https://hackage.haskell.org/package/hashtables)
 * [The hetero-dict package](http://hackage.haskell.org/package/hetero-dict)
+* [Accidentally-Quadratic HashMaps \| Blog \| jackkelly.name](http://jackkelly.name/blog/archives/2020/10/16/accidentally-quadratic_hashmaps/)
 
 ## Graph
 * [FP Graph Algorithms](http://begriffs.com/posts/2015-09-04-pure-functional-graphs.html)
