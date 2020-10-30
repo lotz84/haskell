@@ -96,6 +96,7 @@
 * [Lenses for Tree Traversals](https://www.michaelpj.com/blog/2020/08/02/lenses-for-tree-traversals.html)
 * [[1807.01948] Incremental Relational Lenses](https://arxiv.org/abs/1807.01948)
 * [Optics and Kleisli arrows](https://gist.github.com/serras/5152ec18ec5223b676cc67cac0e99b70)
+* [kowainik/prolens: 👓 Profunctor based lightweight implementation of Lenses](https://github.com/kowainik/prolens)
 
 > Thus the Yoneda embedding of the functor category leads to the van Laarhoven representation of the lens
 
