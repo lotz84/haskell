@@ -49,6 +49,7 @@ ghcupは2020/5/9時点ではWindowsに対応していないので注意してく
 * [mpickering - The State of Haskell IDEs](https://mpickering.github.io/ide/posts/2020-05-08-state-of-haskell-ide.html)
 * [IDE 2020](https://mpickering.github.io/ide/index.html)
 * [IDE 2020: Haskell Language Server, binaries and installation](https://mpickering.github.io/ide/posts/2020-07-10-ghc-libdir.html)
+* [Tweag - Making GHCIDE smarter and faster: a fellowship summary](https://www.tweag.io/blog/2020-10-07-ghcide-fellowship-summary/)
 
 #### Legacy
 * [DanielG/ghc-mod: Happy Haskell Hacking for editors. CI: https://gitlab.com/dxld/ghc-mod/pipelines](https://github.com/DanielG/ghc-mod)
