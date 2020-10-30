@@ -154,6 +154,7 @@
 * [Using a development version of GHC with nix](https://mpickering.github.io/posts/2018-01-05-ghchead-nix.html)
 * [Nix scaffolding for running Haskell plugins](https://mpickering.github.io/posts/2018-06-24-haskell-nix-plugins.html)
 * [Build Haskell fast](https://haskell.build/)
+* [GHC Core by example, episode 1: Hello, Core! - Alp's notes](https://alpmestan.github.io/notes/ghc-core-by-example-episode-1.html)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
