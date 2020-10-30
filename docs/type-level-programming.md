@@ -179,8 +179,9 @@ data HList (as :: [*]) where
 * [Kwang's Haskell Blog - Data.Proxy](https://kseo.github.io//posts/2017-01-15-data-proxy.html)
 * [で、出たー！幽霊型だー！(Phantom Type) - Qiita](https://qiita.com/HirotoShioi/items/3444e215070144b8ca0f)
 * [Oleg's gists - Flag, a tagged Bool](http://oleg.fi/gists/posts/2019-03-21-flag.html)
-- [「混ぜられない数」をHaskell/GHCの型を使って手軽につくる - Qiita](https://qiita.com/takenobu-hs/items/14101cabf313e6d594ca)
-- [articles/tag-dont-type.md at master · quchen/articles](https://github.com/quchen/articles/blob/master/tag-dont-type.md)
+* [「混ぜられない数」をHaskell/GHCの型を使って手軽につくる - Qiita](https://qiita.com/takenobu-hs/items/14101cabf313e6d594ca)
+* [articles/tag-dont-type.md at master · quchen/articles](https://github.com/quchen/articles/blob/master/tag-dont-type.md)
+* [Tagged is not a Newtype | Freckle Education](https://tech.freckle.com/2020/10/26/tagged-is-not-a-newtype/)
 
 ```haskell
 data Circle
