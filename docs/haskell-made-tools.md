@@ -295,6 +295,9 @@ Line 6:
 ### Simula
 - [SimulaVR/Simula: Linux VR Desktop](https://github.com/SimulaVR/Simula)
 
+### SimpleX chat
+* [SimpleX chat: private, secure, de-centralised](https://simplex.chat/)
+
 ### SitePipe
 - [ChrisPenner/SitePipe: Yet another static site generator - non-opinionated, value-level. Less magic == easier to understand](https://github.com/chrispenner/sitepipe)
 
