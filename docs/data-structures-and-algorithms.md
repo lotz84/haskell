@@ -209,6 +209,7 @@
 * [Haskellの文字列型：変換時の心構えと変換方法まとめ - Qiita](https://qiita.com/mod_poppo/items/88a6e876efbf7183209a)
 * [Eat Haskell String Types for Breakfast](https://free.cofree.io/2020/05/06/string-types/)
 * [Haskell の Text と ByteString - Qiita](https://qiita.com/sand/items/1ecab3f34b613cd61e63)
+* [Channable - Bottlenecked on Haskell's text library](https://tech.channable.com/posts/2020-10-15-bottlenecked-on-haskells-text.html)
 
 ## 集合
 * [24 days of Hackage, 2015: day 8: multiset; I wish this were in the standard containers package](http://conscientiousprogrammer.com/blog/2015/12/08/24-days-of-hackage-2015-day-8-multiset-i-wish-this-were-in-the-standard-containers-package/)
