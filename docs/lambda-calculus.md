@@ -35,3 +35,4 @@
 * [ラムダ計算で代数的データ型を表現する方法 - @syamino はてなダイアリー](https://syamino.hatenadiary.org/entry/20120524/p1)
 * [Bound](https://www.slideshare.net/ekmett/bound-making-de-bruijn-succ-less)
 * [Philip Wadler – Propositions as Types - YouTube](https://www.youtube.com/watch?v=ru20eaMYbD
+* [A circuit-like notation for lambda calculus – csvoss.com](https://csvoss.com//circuit-notation-lambda-calculus)
