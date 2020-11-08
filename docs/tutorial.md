@@ -186,6 +186,7 @@
 * [The road to proficient Haskell \| William Yao](https://williamyaoh.com/posts/2020-01-11-road-to-proficient.html)
 * [THINGS SOFTWARE ENGINEERS TRIP UP ON WHEN LEARNING HASKELL](https://williamyaoh.com/posts/2020-04-12-software-engineer-hangups.html)
 * [Applied Haskell Syllabus](https://tech.fpcomplete.com/haskell/syllabus)
+* [Monday Morning Haskell](https://mmhaskell.com/)
 
 ## Examples
 
