@@ -230,8 +230,9 @@ parse = evalStateT
 * [簡易LISP処理系の実装例（Haskell版） - Qiita](https://qiita.com/ytaki0801/items/bdd1a9c1f4e108b4bca0)
 
 ### LLVM
-- [llvm-hs Kaleidoscope Tutorial](https://lukelau.me/kaleidoscope/)
-- [Haskell+LLVM構成で作る自作コンパイラ - Qiita](https://qiita.com/toru0408/items/6bedee118ba08ea2c0b2)
+* [llvm-hs Kaleidoscope Tutorial](https://lukelau.me/kaleidoscope/)
+* [Haskell+LLVM構成で作る自作コンパイラ - Qiita](https://qiita.com/toru0408/items/6bedee118ba08ea2c0b2)
+* [LLVM の Kaleidoscope を育てながら作る - Qiita](https://qiita.com/mitsuchi/items/91b2b41cc63bb3ec87ff)
 
 ### Haskell
 * [Write You a Haskell ( Stephen Diehl )](http://dev.stephendiehl.com/fun/)
