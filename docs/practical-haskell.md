@@ -19,7 +19,7 @@
 * [Haskell package checklist \| Write better Haskell packages](http://taylor.fausak.me/haskell-package-checklist/)
 * [Haskell Bazaar](https://www.haskellbazaar.com/#/)
 * [Great moments in Haskell history](https://typeclasses.com/timeline)
-* [Haskell: The Bad Parts, part 1](https://www.snoyman.com/blog/2020/10/haskell-bad-parts-1)
+* [Real World Haskell — Monday Morning Haskell](https://mmhaskell.com/real-world)
 
 ## Preludeを置き換える
 ### Preludeの問題点
