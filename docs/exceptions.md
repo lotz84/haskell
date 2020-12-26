@@ -29,7 +29,10 @@
 * [fallibleというパッケージをリリースしました - Haskell-jp](https://haskell.jp/blog/posts/2019/fallible.html)
 * [Async Exceptions in Haskell, and Rust](https://tech.fpcomplete.com/blog/async-exceptions-haskell-rust)
 * [Rethinking MonadError – The Science of Code](https://lukajcb.github.io/blog/functional/2018/04/15/rethinking-monaderror.html)
-- [Asynchronous Exceptions in Practice · Simon Marlow](http://simonmar.github.io/posts/2017-01-24-asynchronous-exceptions.html)
+* [Asynchronous Exceptions in Practice · Simon Marlow](http://simonmar.github.io/posts/2017-01-24-asynchronous-exceptions.html)
+* [Try.do is dangerous](https://github.com/effectfully/sketches/tree/master/try-do-is-dangerous)
+  * [Is it Try.do that is dangerous?](https://chrisdone.com/posts/is-try-do-dangerous/)
+  * [Try.do for recoverable errors in Haskell](https://chrisdone.com/posts/try-do/)
 
 ### safe-exceptions
 * [fpco/safe-exceptions](https://github.com/fpco/safe-exceptions)
