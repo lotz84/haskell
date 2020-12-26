@@ -49,6 +49,7 @@ parse = evalStateT
 * [「正規表現はあんまり使わないかな。パーサー使うから」っていう人の気持ちがわかった！ - Qiita](https://qiita.com/aiya000/items/82f432a4b19c60561c01)
 * [【Haskell】Persistentをstack installするときに発生するエラー対処。>=0.9.0 is required but it could not be found. - Qiita](https://qiita.com/moriwm77/items/aebda67739d8651ae21f)
 * [The round-trip property](https://teh.id.au/posts/2017/06/07/round-trip-property/index.html)
+* [Parser Combinators: a Walkthrough](https://hasura.io/blog/parser-combinators-walkthrough/)
 
 #### attoparsec
 * [The attoparsec package](http://hackage.haskell.org/package/attoparsec)
