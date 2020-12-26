@@ -50,6 +50,7 @@
 * [Haskell: The Bad Parts, part 2](https://www.snoyman.com/blog/2020/11/haskell-bad-parts-2)
 * [Haskell: The Bad Parts, part 3](https://www.snoyman.com/blog/2020/12/haskell-bad-parts-3)
 * [The Haskell Foundation](https://www.snoyman.com/blog/2020/12/haskell-foundation)
+* [2020 State of Haskell Survey results · taylor.fausak.me](https://taylor.fausak.me/2020/11/22/haskell-survey-results/)
 
 ## コミュニティ
 * [Haskell Communities and Activities Report](https://wiki.haskell.org/Haskell_Communities_and_Activities_Report)
