@@ -158,6 +158,7 @@
 * [IHP: Integrated Haskell Platform, a batteries-included web framework built on purely functional programming technologies](https://ihp.digitallyinduced.com/ShowPost?postId=03e5a442-8b81-4b80-a000-29a3e7f10adf)
 * [Haskell/GHCでの浮動小数点数の扱い - Qiita](https://qiita.com/mod_poppo/items/cc2defec4cb778f7f21c)
 * [Apple Silicon MacでGHC masterをビルドするメモ - Qiita](https://qiita.com/mod_poppo/items/20784e7ee87cc6bf56a2)
+* [GHCデバッグ日誌](https://zenn.dev/mod_poppo/articles/16f1c13afb909801b871)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
