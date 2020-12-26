@@ -94,3 +94,4 @@ Monad Transformer
 * [【Control.Monad.Trans】(3) ExceptTモナド - Qiita](https://qiita.com/sand/items/fe3c29560136803e8b11)
 * [【Control.Monad.Trans】(4) ReaderTモナド - Qiita](https://qiita.com/sand/items/93d6ba75b0c4e39ce295)
 * [【Control.Monad.Trans】(5) IOモナド - Qiita](https://qiita.com/sand/items/ee3c19c191c87c32f867)
+* [Monad Transformers and Effects with Backpack](https://blog.ocharles.org.uk/posts/2020-12-23-monad-transformers-and-effects-with-backpack.html)
