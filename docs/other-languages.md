@@ -75,8 +75,9 @@
 - [HaskellからRubyを使う - メソッド呼び出し - Qiita](https://qiita.com/nwtgck/items/52a516ca99d27415c74d)
 
 ## Rust
-- [Combining Rust and Haskell](http://tab.snarc.org/posts/haskell/2015-09-29-rust-with-haskell.html)
-- [Using Haskell in Rust](http://mgattozzi.github.io/2016/10/15/rust-haskell.html)
+* [Combining Rust and Haskell](http://tab.snarc.org/posts/haskell/2015-09-29-rust-with-haskell.html)
+* [Using Haskell in Rust](http://mgattozzi.github.io/2016/10/15/rust-haskell.html)
+* [Haskell and Rust](https://www.fpcomplete.com/blog/2018/11/haskell-and-rust/)
 
 ## Swift
 - [calling Haskell from Swift / Linux](http://bitlife.me/archives/383)
