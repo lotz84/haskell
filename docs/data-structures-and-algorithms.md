@@ -72,6 +72,7 @@
 - [Monoidal Puzzle Solving](https://jonascarpay.com/posts/2020-05-26-solver.html)
 - [Dynamic Dispatch in Haskell, or: How Can I Make My Code Extendable?](https://two-wrongs.com/dynamic-dispatch-in-haskell-how-to-make-code-extendable)
 * [Haskell for all: Record constructors](http://www.haskellforall.com/2020/07/record-constructors.html)
+* [The Halting Problem (part 1)](https://boarders.github.io/posts/halting1.html)
 
 ## Hackage
 * [The grid package](http://hackage.haskell.org/package/grid)
