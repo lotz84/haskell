@@ -33,6 +33,8 @@
 * [Try.do is dangerous](https://github.com/effectfully/sketches/tree/master/try-do-is-dangerous)
   * [Is it Try.do that is dangerous?](https://chrisdone.com/posts/is-try-do-dangerous/)
   * [Try.do for recoverable errors in Haskell](https://chrisdone.com/posts/try-do/)
+* [Structure your Errors \| jelv.is](https://jelv.is/blog/Structure-your-Errors/)
+* [ユースケース層が投げうるエラーの型を「量化した open union」にしておけば複数のユースケースを合成したときに上の層でエラーハンドリングが楽にできて最高です！ - ryota-ka's blog](https://ryota-ka.hatenablog.com/entry/2020/12/20/000000)
 
 ### safe-exceptions
 * [fpco/safe-exceptions](https://github.com/fpco/safe-exceptions)
