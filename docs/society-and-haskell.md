@@ -46,6 +46,9 @@
 * [Partnering with Well Typed and investing in the Haskell community](https://hasura.io/blog/partnering-with-well-typed-and-investing-in-the-haskell-open-source-community/)
 * [Gabriel Gonzalez – How to market Haskell to a mainstream programmer - YouTube](https://www.youtube.com/watch?v=fNpsgTIpODA)
 * [Great moments in Haskell history](https://typeclasses.com/timeline)
+* [Haskell: The Bad Parts, part 1](https://www.snoyman.com/blog/2020/10/haskell-bad-parts-1)
+* [Haskell: The Bad Parts, part 2](https://www.snoyman.com/blog/2020/11/haskell-bad-parts-2)
+* [Haskell: The Bad Parts, part 3](https://www.snoyman.com/blog/2020/12/haskell-bad-parts-3)
 
 ## コミュニティ
 * [Haskell Communities and Activities Report](https://wiki.haskell.org/Haskell_Communities_and_Activities_Report)
