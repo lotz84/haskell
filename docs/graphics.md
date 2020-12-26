@@ -39,6 +39,7 @@
 * [gi-gtk-declarative](https://owickstrom.github.io/gi-gtk-declarative/)
 * [Designing a GUI Framework \| potocpav.github.io](https://potocpav.github.io/programming/2020/05/01/designing-a-gui-framework.html)
 * [[入門] HaskellでGUIプログラミング 導入編 - Qiita](https://qiita.com/kanatatsu64/items/91e693a89395feaa564a)
+* [SDL2で簡単作曲ツールを作る - wvogel日記](https://wvogel00.hatenadiary.org/entry/2020/12/13/100000)
 
 ## Game
 * [Asset management in a real time 3D engine in Haskell](http://phaazon.blogspot.fr/2015/06/asset-management-in-real-time-3d-engine.html)
