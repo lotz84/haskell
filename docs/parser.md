@@ -215,10 +215,11 @@ parse = evalStateT
 * [Wouter Swierstra, なぜ属性文法は重要か（原題：Why Attribute Grammars Matter） - Pac Learner](https://sites.google.com/site/paclearner/why_attribute_grammars_matter)
 
 ## インタプリタ／コンパイラ
-- [CSCI 360: Programming Languages (Fall 2016)](http://ozark.hendrix.edu/~yorgey/360/f16/)
-- [Go言語でつくるインタプリタを Haskell で書く - Qiita](https://qiita.com/kita127/items/a50927bbafcc874d5065)
-- [Micro C, Part 1: Parsing – Joseph Morag](https://blog.josephmorag.com/posts/mcc1/)
-- [λm.me - Compiling Lisp to JavaScript From Scratch in 350 LOC](https://gilmi.xyz/blog/post/2016/10/14/lisp-to-js)
+* [CSCI 360: Programming Languages (Fall 2016)](http://ozark.hendrix.edu/~yorgey/360/f16/)
+* [Go言語でつくるインタプリタを Haskell で書く - Qiita](https://qiita.com/kita127/items/a50927bbafcc874d5065)
+* [Micro C, Part 1: Parsing – Joseph Morag](https://blog.josephmorag.com/posts/mcc1/)
+* [λm.me - Compiling Lisp to JavaScript From Scratch in 350 LOC](https://gilmi.xyz/blog/post/2016/10/14/lisp-to-js)
+* [A tiny computer for Tiny BASIC (17 November 2020)](https://unsafeperform.io/blog/2020-11-17-a_tiny_computer_for_tiny_basic/)
 
 ### Lisp / Scheme
 * [Learn Functional Programming by writing a Scheme in Haskell :: 0x0f0f0f](https://0x0f0f0f.github.io/posts/2019/09/learn-functional-programming-by-writing-a-scheme-in-haskell/)
