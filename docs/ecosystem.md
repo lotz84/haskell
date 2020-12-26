@@ -331,3 +331,5 @@ ghcupは2020/5/9時点ではWindowsに対応していないので注意してく
 * [Stackでextra-depsを自動設定する方法の比較](http://qiita.com/watertight/items/0e09abe3fb9352502ccf)
 * [stack new した時に出てくるファイルのテンプレートの設定](http://qiita.com/igrep/items/42130f58fb18da55e8c3)
 
+## Chrome拡張
+* [matsumonkie/izuna: Show Haskell type annotations when doing code review on Github](https://github.com/matsumonkie/izuna)
