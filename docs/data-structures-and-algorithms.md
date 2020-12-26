@@ -271,6 +271,7 @@
 * [unboxing-vectorの紹介：newtypeフレンドリーなunboxed vector - Qiita](https://qiita.com/mod_poppo/items/cf6b66ff16464c170ac2)
 * [Bodigrim/bitvec: Bit vectors library for Haskell](https://github.com/Bodigrim/bitvec)
 * [Ix―Haskellでのインデックス演算 - Qiita](https://qiita.com/Izawa_/items/706fe36b2b848624a5d4)
+* [動的配列の無難なHaskell実装 - モナドとわたしとコモナド](https://fumieval.hatenablog.com/entry/2020/12/18/214626)
 
 ## 木
 * [Haskell Tutorial: Implementing highly efficient data structures with Monoids and Fingertrees](https://www.codementor.io/haskell/tutorial/monoids-fingertrees-implement-abstract-data)
