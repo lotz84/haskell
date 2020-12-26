@@ -113,6 +113,7 @@
 * [Haskell で条件分岐](http://qiita.com/rooooomania/items/1623e5b981a30fbc8427)
 * [コピペしてすぐ確認できるHaskellの条件分岐](http://qiita.com/nejimakidori/items/f6aedce6308ce5e32914)
 * [The four simple ways to encode sum-types](https://yairchu.github.io/posts/sum-type-encodings.html)
+* [Pattern matching](https://www.fpcomplete.com/blog/pattern-matching/)
 
 ### 多変数関数とカリー化
 * [Curry](https://ro-che.info/ccc/10)
