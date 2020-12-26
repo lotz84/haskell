@@ -292,6 +292,7 @@
 * [Visualizing Prequel Meme Prefix Tries with Recursion Schemes · in Code](https://blog.jle.im/entry/tries-with-recursion-schemes.html)
 * [Initial Algebra Semantics for Cyclic Sharing Tree Structures](http://arxiv.org/abs/1007.4266v2)
 * [Haskellで二分探索木, AVL木を書いた - Qiita](https://qiita.com/odenmonster/items/e4d5658fb1859dcfcdce)
+* [型レベルで値の個数の範囲を指定できるリストを使ってFinger Treeを実装する - GHCの型チェックプラグインを活用する - Qiita](https://qiita.com/YoshikuniJujo/items/3d0ebe24501fc28f0420)
 
 ## Map
 * [tim philip williams :: Functional pearl: Nested Datacubes](http://www.timphilipwilliams.com/posts/2017-04-12-nested-datacubes.html)
