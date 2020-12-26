@@ -246,6 +246,7 @@
 * [Haskellのscan系関数を使いこなす \| 雑記帳](https://blog.miz-ar.info/2019/10/scanl-and-scanr/)
 * [FUNCTIONAL PEARLS Heterogeneous binary random-access lists WOUTER SWIERSTRA](https://twitter.com/Iceland_jack/status/1248729811104813059)
 * [jaspervdj - Lazy Sort: Counting Comparisons](https://jaspervdj.be/posts/2020-09-17-lazysort.html)
+* [A law-breaking hack](https://github.com/effectfully/sketches/tree/master/a-law-breaking-hack)
 
 ## array/vector
 * [The vector package](https://hackage.haskell.org/package/vector)
