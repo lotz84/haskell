@@ -232,9 +232,12 @@ parse = evalStateT
 - [Haskell+LLVM構成で作る自作コンパイラ - Qiita](https://qiita.com/toru0408/items/6bedee118ba08ea2c0b2)
 
 ### Haskell
-- [Write You a Haskell ( Stephen Diehl )](http://dev.stephendiehl.com/fun/)
-- [Haskell コンパイラを書こう！](https://uhideyuki.sakura.ne.jp/studs/index.cgi/ja/HaskellInHaskell)
-- [The Implementation of Functional Programming Languages - Microsoft Research](https://www.microsoft.com/en-us/research/publication/the-implementation-of-functional-programming-languages/)
+* [Write You a Haskell ( Stephen Diehl )](http://dev.stephendiehl.com/fun/)
+* [Haskell コンパイラを書こう！](https://uhideyuki.sakura.ne.jp/studs/index.cgi/ja/HaskellInHaskell)
+* [The Implementation of Functional Programming Languages - Microsoft Research](https://www.microsoft.com/en-us/research/publication/the-implementation-of-functional-programming-languages/)
+* [(Haskell in Haskell) 0. Introduction - Cronokirby](https://cronokirby.com/posts/2020/11/haskell-in-haskell-0/)
+* [(Haskell in Haskell) 1. Setup - Cronokirby](https://cronokirby.com/posts/2020/11/haskell-in-haskell-1/)
+* [(Haskell in Haskell) 2. Lexing - Cronokirby](https://cronokirby.com/posts/2020/12/haskell-in-haskell-2/)
 
 ### AST/実装テクニック
 * [Kwang's Haskell Blog - Write you an interpreter](http://kseo.github.io/posts/2016-12-30-write-you-an-interpreter.html)
