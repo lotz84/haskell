@@ -169,6 +169,8 @@ ghcupは2020/5/9時点ではWindowsに対応していないので注意してく
 * [How do you find a function that…](http://myhaskelljournal.com/how-do-you-find-a-function-that/)
 * [Search - haskell \| Unixstickers](http://www.unixstickers.com/index.php?route=product/search&filter_name=haskell)* [Stackage Serverのちょっとした便利な使い方,Hoogleをブラウザのカスタム検索エンジンに追加しましょう,よく使うパッケージをブックマークする時はPackageRのURLにしましょう - ncaq](https://www.ncaq.net/2017/12/04/00/00/00/)
 * [Haskellで外部モジュールを使いたいとき（モジュールimportとパッケージinstall） - Qiita](https://qiita.com/TTsurutani/items/b68956a555747fc3cb0e)
+* [Hackage Search](https://hackage-search.serokell.io/) Hackage を正規表現で検索できるツール
+  * [Hackage Search: Regex-Based Online Code Search](https://serokell.io/blog/hackage-search)
 
 ## Haddoc
 * [Continuous Haddocks](https://chromabits.com/posts/2016/07/04/haddock-travis/)
