@@ -138,6 +138,7 @@ Stack開発の知見が集められたライブラリ
 * [Tweag I/O - Build large polyglot projects with Bazel... now with Haskell support](https://www.tweag.io/posts/2018-02-28-bazel-haskell.html)
 * [Tweag I/O - Nix + Bazel = fully reproducible, incremental builds](https://www.tweag.io/posts/2018-03-15-bazel-nix.html)
 * [adventures in uncertainty: Bazel, Haskell, and Build-System Joy](https://blog.sumtypeofway.com/posts/bazel-haskell-build-system-joy.html)
+* [Haskell Stack プロジェクトを Bazel でビルドしてみる](https://matsubara0507.github.io/posts/2020-12-02-build-haskell-stack-project-using-bazel.html)
 
 ## Workflow
 * [tweag/funflow: Functional workflows](https://github.com/tweag/funflow)
