@@ -122,6 +122,7 @@
 * [Haskellerのためのモノイド完全ガイド \| 雑記帳](https://blog.miz-ar.info/2019/02/monoid-for-haskellers/)
 * [argumatronic - A Brief Guide to A Few Algebraic Structures](https://argumatronic.com//posts/2019-06-21-algebra-cheatsheet.html)
 * [acts: Semigroup actions, groups, and torsors.](https://hackage.haskell.org/package/acts)
+* [Shuffling things up: Applying Group Theory in Advent of Code · in Code](https://blog.jle.im/entry/shuffling-things-up.html)
 
 ## バイナリ
 * [The binary package](https://hackage.haskell.org/package/binary)
