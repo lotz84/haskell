@@ -478,6 +478,7 @@ Web Application Framework
 * [elm & servantでwebアプリ - その２．Elm導入 - Qiita](https://qiita.com/niruneru/items/f298e9e4d575b505950a)
 * [elm & servantでwebアプリ - その３．Elmで動的ページの作成 - Qiita](https://qiita.com/niruneru/items/5e2bdb9a94e075b1e457)
 * [elm & servantでwebアプリ - その４．CSS・javascriptの読み込み - Qiita](https://qiita.com/niruneru/items/880bc1a0649c92a158aa)
+* [[ Andre's Blog ] → [ URI Fragment support for Servant ]](https://an-pro.org/posts/11-servant-fragment.html)
 
 ### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
