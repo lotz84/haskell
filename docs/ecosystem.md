@@ -179,6 +179,7 @@ ghcupは2020/5/9時点ではWindowsに対応していないので注意してく
 * [Let's Write Documentation for Haskell](http://lwm.github.io/posts/html/document-haskell.html)
 * [haddock に Grid Table 記法が追加されました](https://haskell.e-bigmoon.com/posts/2017-12-27-haddock-grid-table.html)
 * [Redesigning Haskell docs - Nuno Alexandre](https://nunoalexandre.com/2018/02/04/redesigning-haskell-docs)
+* [Haskell Documentation with Haddock: Wishes'n'Tips :: Kowainik](https://kowainik.github.io/posts/haddock-tips)
 
 ## REPL(GHCi)
 * [GHCiの基本的な使い方まとめ - Qiita](https://qiita.com/Izawa_/items/6fc0a7583dc71be48c2a)
