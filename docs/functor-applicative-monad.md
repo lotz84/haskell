@@ -319,6 +319,7 @@ instance Monad (Reader e) where
 ### Writer Monad
 * [Writerを使ってはならない](http://qiita.com/ruicc/items/28b1cd2df215ce724e26)
 * [Kwang's Haskell Blog - Writer monad](https://kseo.github.io//posts/2017-01-21-writer-monad.html)
+* [Writer Monadで気軽にMonad則を破る - Haskell-jp](https://haskell.jp/blog/posts/2020/break-monad-law-with-writer.html)
 
 ### 随伴
 * [adjunctions](https://hackage.haskell.org/package/adjunctions)
