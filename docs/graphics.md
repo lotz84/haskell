@@ -1,3 +1,5 @@
+* [端末上のghciでグラフィック - Qiita](https://qiita.com/junjihashimoto@github/items/3bf2e3830c17e8aa7382)
+
 ## 画像処理
 * [friday: A functional image processing library for Haskell.](https://hackage.haskell.org/package/friday)
 * [An Image Processing Language: External and Shallow/Deep Embeddings](http://www.macs.hw.ac.uk/~rs46/papers/rwdsl2016/rwdsl-2016.pdf)
