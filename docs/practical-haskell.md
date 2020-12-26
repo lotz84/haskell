@@ -282,3 +282,4 @@ Stack開発の知見が集められたライブラリ
 * [Solving text adventure games via symbolic execution (1 August 2020)](https://gergo.erdi.hu/blog/2020-08-01-solving_text_adventure_games_via_symbolic_execution/)
 * [adventures in uncertainty: Existential Haskell](https://blog.sumtypeofway.com/posts/existential-haskell.html)
 * [obsidiansystems/haveibeenpwned: Haskell library that uses HIBP to evaluate passwords](https://github.com/obsidiansystems/haveibeenpwned)
+* [Separate Your Views; Reify Your Reasoning :: Reasonably Polymorphic](https://reasonablypolymorphic.com/blog/separate-your-views-reify-your-reasoning/)
