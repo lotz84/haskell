@@ -27,6 +27,7 @@
 * [Tweag - Pure destination-passing style in Linear Haskell](https://www.tweag.io/blog/2020-11-11-linear-dps/)
 * [とりとめのない GHC 線形型メモ - 趣味はデバッグ……](https://kakkun61.hatenablog.com/entry/2020/12/13/%E3%81%A8%E3%82%8A%E3%81%A8%E3%82%81%E3%81%AE%E3%81%AA%E3%81%84_GHC_%E7%B7%9A%E5%BD%A2%E5%9E%8B%E3%83%A1%E3%83%A2)
 * [刹那的純粋関数的データ構造と線形型 - 趣味はデバッグ……](https://kakkun61.hatenablog.com/entry/2020/12/25/%E5%88%B9%E9%82%A3%E7%9A%84%E7%B4%94%E7%B2%8B%E9%96%A2%E6%95%B0%E7%9A%84%E3%83%87%E3%83%BC%E3%82%BF%E6%A7%8B%E9%80%A0%E3%81%A8%E7%B7%9A%E5%BD%A2%E5%9E%8B)
+* [Learn just enough about linear types](https://tek.brick.do/64693fb8-39b4-40a5-8762-768009eeed91)
 
 ## Linear Type as DSL
 * [線形型つきドメイン特化言語 (DSL) を Haskell上に実装する](http://d.hatena.ne.jp/keigoi/20110806/1312604753)
