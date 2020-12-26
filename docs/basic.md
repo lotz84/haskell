@@ -47,8 +47,8 @@
 * [Void Is a Smell \| Freckle Education](https://tech.freckle.com/2020/09/23/void-is-a-smell/)
 
 ##### Codata
-- [A Neighborhood of Infinity: Data and Codata](http://blog.sigfpe.com/2007/07/data-and-codata.html)
-- [Codata in action, or how to connect Functional Programming and Object Oriented Programming](http://www.javiercasas.com/articles/codata-in-action)
+* [A Neighborhood of Infinity: Data and Codata](http://blog.sigfpe.com/2007/07/data-and-codata.html)
+* [Codata in action, or how to connect Functional Programming and Object Oriented Programming](http://www.javiercasas.com/articles/codata-in-action)
 
 #### newtype
 既存の型と同型な別の型を定義することができるが、コンパイル後の表現は既存の型と同一になるので効率の面で利点がある。1つの値コンストラクタと1つのフィールドを持つdataで定義された型との違いは以下のように現れる。
@@ -65,10 +65,11 @@
 "*** Exception: Prelude.undefined
 ```
 
-- [Newtype - HaskellWiki](https://wiki.haskell.org/Newtype)
-- [Haskellのnewtypeとdataの違い - Qiita](https://qiita.com/Izawa_/items/9e641d7145fb9d4c4155)
-- [すごいH本で見落としがちだが実は重要な機能：newtype - Qiita](https://qiita.com/HirotoShioi/items/70cd235e93dee99bf8e8)
-- [本当はすごい newtype - Speaker Deck](https://speakerdeck.com/konn/ben-dang-hasugoi-newtype?slide=84)
+* [Newtype - HaskellWiki](https://wiki.haskell.org/Newtype)
+* [Haskellのnewtypeとdataの違い - Qiita](https://qiita.com/Izawa_/items/9e641d7145fb9d4c4155)
+* [すごいH本で見落としがちだが実は重要な機能：newtype - Qiita](https://qiita.com/HirotoShioi/items/70cd235e93dee99bf8e8)
+* [本当はすごい newtype - Speaker Deck](https://speakerdeck.com/konn/ben-dang-hasugoi-newtype?slide=84)
+* [Names are not type safety](https://lexi-lambda.github.io/blog/2020/11/01/names-are-not-type-safety/)
 
 ### 型注釈
 
