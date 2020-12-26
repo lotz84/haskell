@@ -24,6 +24,7 @@
 * [Tweag I/O - A Tale of Two Functors or: How I learned to Stop Worrying and Love Data and Control](https://www.tweag.io/posts/2020-01-16-data-vs-control.html)
 * [Tweag I/O - On linear types and exceptions](https://www.tweag.io/posts/2020-02-19-linear-type-exception.html)
 * [Tweag - Linear types are merged in GHC](https://www.tweag.io/blog/2020-06-19-linear-types-merged/)
+* [Tweag - Pure destination-passing style in Linear Haskell](https://www.tweag.io/blog/2020-11-11-linear-dps/)
 
 ## Linear Type as DSL
 * [線形型つきドメイン特化言語 (DSL) を Haskell上に実装する](http://d.hatena.ne.jp/keigoi/20110806/1312604753)
