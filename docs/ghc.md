@@ -155,6 +155,7 @@
 * [Nix scaffolding for running Haskell plugins](https://mpickering.github.io/posts/2018-06-24-haskell-nix-plugins.html)
 * [Build Haskell fast](https://haskell.build/)
 * [GHC Core by example, episode 1: Hello, Core! - Alp's notes](https://alpmestan.github.io/notes/ghc-core-by-example-episode-1.html)
+* [IHP: Integrated Haskell Platform, a batteries-included web framework built on purely functional programming technologies](https://ihp.digitallyinduced.com/ShowPost?postId=03e5a442-8b81-4b80-a000-29a3e7f10adf)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
