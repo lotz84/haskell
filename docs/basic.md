@@ -208,6 +208,9 @@ fib n = fibs !! (n-1) + fibs !! (n-2)
 * [「多相関数を数える」を考える - Qiita](http://qiita.com/cutsea110/items/3496394968cb7ac73047)
 * [ランク2多相の、ふたつの側面 - Qiita](http://qiita.com/YoshikuniJujo/items/c28d8fa11e33ed677e83)
 
+### 命名規則
+* [Foo to Bar: Naming Conventions in Haskell :: Kowainik](https://kowainik.github.io/posts/naming-conventions)
+
 ---
 
 * [Generalizing function composition](http://jaspervdj.be/posts/2014-10-17-generalizing-function-composition.html)
