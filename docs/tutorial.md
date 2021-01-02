@@ -59,6 +59,7 @@
 * [Haskellを使おう (hiratara) - builderscon tokyo 2017 - YouTube](https://www.youtube.com/watch?v=2HVrFBYVNkI)
 * [Haskell社内勉強会とHaskell学習ツールの紹介 \| IIJ Engineers Blog](https://eng-blog.iij.ad.jp/archives/3467)
 * [【じゃんけん（っぽい）ゲームで入門】Haskell - Qiita](https://qiita.com/AGadget/items/84ec5cba062ea16f753f)
+* [とほほのHaskell入門 - とほほのWWW入門](http://www.tohoho-web.com/ex/haskell.html)
 
 #### 講演資料
 * [すごいHaskell つくばで学ぼう！](https://github.com/nushio3/learn-haskell/blob/master/Tsukuba-2016.pdf)
