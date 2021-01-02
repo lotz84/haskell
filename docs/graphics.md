@@ -140,7 +140,4 @@
 * [UnityでHaskellのコードを実行する方法の模索 - Qiita](https://qiita.com/masatoko/items/bba6392dbc9000d29fa6)
 * [madjestic/Haskell-OpenGL-Tutorial: an attempt to create a concise modern Haskell OpenGL boilerplate with basic IO](https://github.com/madjestic/Haskell-OpenGL-Tutorial)
 * [Optimizing Ray Tracing in Haskell \| by Sarfaraz Nawaz \| The Startup \| Jul, 2020 \| Medium](https://medium.com/swlh/optimizing-ray-tracing-in-haskell-3dc412fff20a)
-
-### Game Engine
-* [Helm - A functionally reactive game engine](http://helm-engine.org/)
 * [lukexi/halive](https://github.com/lukexi/halive)
