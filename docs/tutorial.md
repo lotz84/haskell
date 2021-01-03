@@ -99,6 +99,7 @@
 * [You are already smart enough to write Haskell \| William Yao](https://williamyaoh.com/posts/2019-10-05-you-are-already-smart-enough.html)
 * [morgenthum.dev - software development and architecture](https://morgenthum.dev/articles/why-prefer-fp)
 * [Haskell Notes for Professionals book](http://books.goalkicker.com/HaskellBook/)
+* [kowainik/learn4haskell: 👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests](https://github.com/kowainik/learn4haskell)
 * [Reading Simple Haskell](https://soupi.github.io/rfc/reading_simple_haskell/)
 * [Keynote: Why Functional Programming Matters - John Hughes, Mary Sheeran (Lambda Days 2017) - YouTube](https://www.youtube.com/watch?v=1qBHf8DrWR8)
 * [Functional Programming in Haskell: Supercharge Your Coding](https://www.futurelearn.com/courses/functional-programming-haskell/1/)
