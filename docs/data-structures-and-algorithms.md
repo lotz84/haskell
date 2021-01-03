@@ -342,6 +342,7 @@
 * [Haskellでいかに多態を表すか](http://fumieval.hatenablog.com/entry/2015/04/06/173848)
 * [FuctioNaL with OOP ～objectiveが諍いを終演に導く～](http://tokiwoousaka.github.io/takahashi/contents/day20160416NLNagoya.html)
 * [lambda is not a four letter word - Reconciling concepts from FP and OOP](https://thma.github.io/posts/2020-12-20-reconciling-fp-and-oop-concepts.html)
+* [Objects in Functional Languages — Infinite Negative Utility](https://journal.infinitenegativeutility.com/objects-in-functional-languages)
 
 ## 動的型付けのエミュレート
 * [Data.Dynamic](https://hackage.haskell.org/package/base/docs/Data-Dynamic.html)
