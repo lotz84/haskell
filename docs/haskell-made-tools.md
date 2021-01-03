@@ -332,6 +332,9 @@ Line 6:
 * [Introduction - TaskLite Documentation](http://tasklite.ad-si.com/)
 - [ad-si/TaskLite: The CLI task manager for power users](https://github.com/ad-si/TaskLite)
 
+### thock
+* [rmehri01/thock: ⌨️ A modern TUI typing game featuring online racing against friends.](https://github.com/rmehri01/thock)
+
 ### tomlcheck
 * [vmchale/tomlcheck](https://github.com/vmchale/tomlcheck) - A syntax checker for TOML files
 
