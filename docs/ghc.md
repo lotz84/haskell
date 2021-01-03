@@ -367,13 +367,14 @@ $ stack exec -- <your program> +RTS <profiling options>
 * [Extensions :: Kowainik](https://kowainik.github.io/posts/extensions)
 * [GHC拡張のTypeApplicationsについて - Qiita](https://qiita.com/masaki_shoji/items/d167bd3766127752fe90)
 * [Golfing language extensions - DEV](https://dev.to/tfausak/golfing-language-extensions-2obl)
+* [新しいGHC拡張、NoFieldSelectorsについて - モナドとわたしとコモナド](https://fumieval.hatenablog.com/entry/2020/12/29/190347)
 
 ### Pattern Synonyms
-- [Pattern Synonyms](https://ghc.haskell.org/trac/ghc/wiki/PatternSynonyms)
-- [Pattern synonymsの使い道](http://maoe.hatenadiary.jp/entry/2014/03/30/004049)
-- [Pattern Synonymsで遊ぶ - Qiita](https://qiita.com/as_capabl/items/d2eb781478e26411a44c)
-- [Haskell Explained · PatternSynonyms for expressive code](https://haskell-explained.gitlab.io/blog/posts/2019/08/27/pattern-synonyms/index.html)
-- [Kwang's Haskell Blog - Pattern Synonyms](https://kseo.github.io/posts/2016-12-22-pattern-synonyms.html)
+* [Pattern Synonyms](https://ghc.haskell.org/trac/ghc/wiki/PatternSynonyms)
+* [Pattern synonymsの使い道](http://maoe.hatenadiary.jp/entry/2014/03/30/004049)
+* [Pattern Synonymsで遊ぶ - Qiita](https://qiita.com/as_capabl/items/d2eb781478e26411a44c)
+* [Haskell Explained · PatternSynonyms for expressive code](https://haskell-explained.gitlab.io/blog/posts/2019/08/27/pattern-synonyms/index.html)
+* [Kwang's Haskell Blog - Pattern Synonyms](https://kseo.github.io/posts/2016-12-22-pattern-synonyms.html)
 
 ### Backpack
 * [Backpack and separate compilation](http://blog.ezyang.com/2016/09/backpack-and-separate-compilation/)
