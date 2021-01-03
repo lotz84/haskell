@@ -456,6 +456,7 @@ Reader + Writer + State
 * [モナドの新しい力！スーパープリキュアモナド！ ～タイプセーフプリキュア！を支える技術 その4～](https://haskell.jp/blog/posts/2018/super-precure-monad.html)
 * [Using the Indexed State Monad and Dependent Types to represent a Game of Texas Hold ‘Em – Santi's Blog](https://santiagoweight.wordpress.com/2019/10/25/using-the-indexed-state-monad-and-dependent-types-to-represent-a-game-of-texas-hold-em/)
 * [Indexed Monads](https://wespiser.com/posts/2020-05-06-IxMonad.html)
+* [Type level mapを使ったpreload風関連リソースの取り回し。Indexed monad添え](https://zenn.dev/nakaji_dayo/articles/999e41568ce0bd)
 
 ### Super Monad
 * [スーパーモナドについて - Qiita](https://qiita.com/wgag/items/11a6e667011d530832e8)
