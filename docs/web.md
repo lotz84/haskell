@@ -336,6 +336,7 @@ Web Application Framework
 * [HaskellのロガーKatipを試す](http://syocy.hatenablog.com/entry/2016/10/31/025512)
 * [co-log: Composable Contravariant Combinatorial Comonadic Configurable Convenient Logging](https://kowainik.github.io/posts/2018-09-25-co-log)
 * [co-log logging library with polysemy for extensible effects and chronos for fast time : haskell](https://www.reddit.com/r/haskell/comments/blr8op/colog_logging_library_with_polysemy_for/)
+* [2021-01-02: Thoughts on the logging framework](https://qnikst.brick.do/thoughts-on-the-logging-framework)
 
 ### デプロイ
 * [snoyberg/keter](https://github.com/snoyberg/keter)
@@ -543,6 +544,7 @@ Web Application Framework
 * [ゲーム販売webアプリケーションSYAKERAKEを支える技術,HaskellとYesodで作られています - ncaq](https://www.ncaq.net/2017/12/03/00/00/00/)
 * [Yesodで作る，業務外社内ツール - wvogel日記](http://d.hatena.ne.jp/wvogel00/20171222/1513924995)
 * [Vagrant仮想環境に Yesod-MySQL をインストール - Qiita](https://qiita.com/rs06042/items/5424538a5769c51fab3c)
+* [Yesodにserversession-backend-redisを組み込んで動かしてみたのでメモしておく - Qiita](https://qiita.com/masaki_shoji/items/08aa50e6d36cbba7e49e)
 
 Protocol
 --------
