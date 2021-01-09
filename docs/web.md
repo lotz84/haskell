@@ -86,6 +86,7 @@ Scraping
 * [Copping Supreme with Haskell](http://rickyhan.com/jekyll/update/2017/09/27/copping-supreme-with-haskell.html)
 * [Req 1.0.0, HTTP client, and streaming](https://markkarpov.com/post/req-1.0.0-http-client-and-streaming.html)
 * [HTTP Requests with Hreq](https://lukwagoallan.com/posts/http-requests-with-hreq)
+* [Basic Data Scraping in Haskell Part 1: HTTP and JSON \| Zac Wood](https://zacwood.me/posts/haskell-scraping-1/)
 
 Email
 -----
