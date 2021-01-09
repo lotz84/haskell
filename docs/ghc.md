@@ -159,6 +159,7 @@
 * [Haskell/GHCでの浮動小数点数の扱い - Qiita](https://qiita.com/mod_poppo/items/cc2defec4cb778f7f21c)
 * [Apple Silicon MacでGHC masterをビルドするメモ - Qiita](https://qiita.com/mod_poppo/items/20784e7ee87cc6bf56a2)
 * [GHCデバッグ日誌](https://zenn.dev/mod_poppo/articles/16f1c13afb909801b871)
+* [Well-Typed - The Haskell Consultants: A First Look at Info Table Profiling](https://well-typed.com/blog/2021/01/first-look-at-hi-profiling-mode/)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
