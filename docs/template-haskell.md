@@ -31,6 +31,7 @@ Template Haskell はHaskellの言語仕様には無くGHCの独自拡張なの�
 * [Well-Typed - The Haskell Consultants: Using Template Haskell to generate static data](https://well-typed.com/blog/2020/06/th-for-static-data/)
 * [Tweag - A tale of Template Haskell and cross compilation](https://www.tweag.io/blog/2020-11-25-asterius-th/)
 * [Haskell doesn't have macros](https://chrisdone.com/posts/haskell-doesnt-have-macros/)
+* [Tweag - Haskell dark arts, part I: importing hidden values](https://www.tweag.io/blog/2021-01-07-haskell-dark-arts-part-i/)
 
 ```haskell
 {-# LANGUAGE QuasiQuotes #-}
