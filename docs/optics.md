@@ -100,6 +100,7 @@
 * [Trying to create Syntax Optics](https://yairchu.github.io/posts/attempting-syntax-optics)
 * [Composable filters using Witherable optics](https://chrispenner.ca/posts/witherable-optics)
 * [Oleg's gists - Coindexed optics](https://oleg.fi/gists/posts/2021-01-04-coindexed-optics.html)
+* [[1805.06798] Generic Deriving of Generic Traversals](https://arxiv.org/abs/1805.06798)
 
 > Thus the Yoneda embedding of the functor category leads to the van Laarhoven representation of the lens
 
