@@ -415,3 +415,4 @@ $ stack exec -- <your program> +RTS <profiling options>
 ### Another Haskell Compiler
 * [DHC Demo - The following compiles Haskell to WebAssembly and runs it.](https://dhc.dfinity.org/)
 * [HIW 2019で発表された、Gibbonコンパイラーについて - Haskell-jp](https://haskell.jp/blog/posts/2019/hiw-gibbon.html)
+* [jhc](http://repetae.net/computer/jhc/)
