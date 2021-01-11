@@ -1,17 +1,8 @@
 ## Low-Level Programming
-* [ImplicitCAD](http://www.implicitcad.org/)
-* [HaSKI](http://yager.io/HaSKI/HaSKI.html)
-* [From Haskell to Hardware](http://begriffs.com/posts/2015-06-28-haskell-to-hardware.html)
-* [Translating Haskell to Hardware](https://www.youtube.com/watch?v=k02mEtPfdaQ)
-* [Creating a Stack Machine with Haskell](http://www.andrevdm.com/posts/2016-05-28-haskellStackVm.html)
-* [divipp/x86-64](https://github.com/divipp/x86-64)
-* [Categorical semantics of digital circuits](http://researchblogs.cs.bham.ac.uk/thelablunch/2016/09/categorical-semantics-of-digital-circuits/)
-* [Juniper](http://www.juniper-lang.org/) - Functional Reactive Programming for the Arduino
-* [Isomorphism of digital circuits](https://rahne.si/programming/clash/fpga/2016/12/23/iso-circuits.html)
 * [The hpio package](https://hackage.haskell.org/package/hpio)
 * [ARMing Haskell](http://haskellembedded.github.io/posts/2015-12-15-arm.html)
 
-### Building a CPU
+### Building a machine
 * [Building a CPU with Haskell - Part 1 :: Will Yager](http://yager.io/CPU/CPU1.html)
 * [CPUの創りかた(1): 基本論理回路の定義など](http://qiita.com/eijian/items/d721a146fa46e5877225) [[はてなブログ](http://eijian.hatenablog.com/entry/2015/12/13/140226)]
 * [CPUの創りかた(2): decorderとmultiplexer](http://qiita.com/eijian/items/6191feebae21ad10a5b1)
@@ -23,23 +14,29 @@
 * [CPUの創りかた(8): すべては足し算だった](http://qiita.com/eijian/items/0e53963365166dd3720b)
 * [CPUの創りかた(9): CPUはじめました](http://qiita.com/eijian/items/2b9d2ef9adac09e13382)
 * [CPUの創りかた(10): おまけ、アセンブラ](http://qiita.com/eijian/items/8fb1a0c98e9715a6f5a8)
+* [Creating a Stack Machine with Haskell](http://www.andrevdm.com/posts/2016-05-28-haskellStackVm.html)
 
 ### System Programming
 * [GaloisInc/ivory](https://github.com/GaloisInc/ivory)
+* [divipp/x86-64](https://github.com/divipp/x86-64)
 
 ### HDL
 * [CλaSH - From Haskell to Hardware](http://www.clash-lang.org/) [[pdf](http://essay.utwente.nl/59482/1/scriptie_C_Baaij.pdf)]
 * [CλaSH FPGA Starter](http://christiaanb.github.io/posts/clash-fpga-starter/)
 * [gergoerdi/clash-spaceinvaders: Intel 8080-based Space Invaders arcade machine implemented on an FPGA, written in CLaSH](https://github.com/gergoerdi/clash-spaceinvaders)
 * [Integrating Verilator and Clash via Cabal (7 May 2020)](https://unsafeperform.io/blog/2020-05-07-integrating_verilator_and_clash_via_cabal/)
+* [Isomorphism of digital circuits](https://rahne.si/programming/clash/fpga/2016/12/23/iso-circuits.html)
 * [Bluespec Compilerをstack環境のghcでビルドしてみた - Qiita](https://qiita.com/dalance/items/c32c510b74b7843f5cf7)
 * [B-Lang-org/bsc: Bluespec Compiler (BSC)](https://github.com/B-Lang-org/bsc)
 * [FFT With Circat](http://begriffs.com/posts/2015-12-14-fft-with-circat.html)
+* [HaSKI](http://yager.io/HaSKI/HaSKI.html)
+* [From Haskell to Hardware](http://begriffs.com/posts/2015-06-28-haskell-to-hardware.html)
 
 ### Arduino
 * [frp-arduino/frp-arduino](https://github.com/frp-arduino/frp-arduino)
 * [Haskellでarduino(主にfrp-arduino)](http://qiita.com/eielh/items/f375e314faf87a59864c)
 * [The blog of wjwh - Building constant-time constant-memory programs for your Arduino with CoPilot](http://www.wjwh.eu/posts/2020-01-30-arduino-copilot.html)
+* [Juniper](http://www.juniper-lang.org/) - Functional Reactive Programming for the Arduino
 
 ### Raspberry Pi
 * [Raspberry Pi 2にGHCとStackをインストールした時のメモ](http://qiita.com/watertight/items/88f151a84b2d25b49059)
