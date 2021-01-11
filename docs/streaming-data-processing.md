@@ -113,3 +113,4 @@ main = do
 * [dunai: Generalised reactive framework supporting classic, arrowized and monadic FRP.](https://hackage.haskell.org/package/dunai-0.6.0)
 * [Bodigrim/chimera: Lazy infinite compact streams with cache-friendly O(1) indexing and applications for memoization](https://github.com/Bodigrim/chimera)
 * [Back to old tricks .. (or, baby steps in Rust) – Control.Monad.Writer](https://donsbot.wordpress.com/2020/07/04/back-to-old-tricks-or-baby-steps-in-rust/amp/)
+* [Copilot: home](https://copilot-language.github.io/)
