@@ -61,6 +61,7 @@
 * [[1909.04881] Algebraic Property Graphs](https://arxiv.org/abs/1909.04881)
 * [pawurb/haskell-pg-extras: Haskell PostgreSQL database performance insights. Locks, index usage, buffer cache hit ratios, vacuum stats and more.](https://github.com/pawurb/haskell-pg-extras)
 * [HDBC で ClickHouse アクセスライブラリを書いている話 \| ザネリは列車を見送った](https://www.zaneli.com/blog/20201219)
+* [IPFS on Hackage](https://blog.fission.codes/ipfs-on-hackage/)
 
 Simple Clients
 --------------
