@@ -202,6 +202,7 @@
 
 * [Haskellのキモいフィボナッチ数列がやっと理解できたからこれでもかという程に細かく説明してみた #Haskell - Qiita](http://qiita.com/Tatsuki-I/items/97bdf8c2579b31b62fd8)
 * [Haskellでフィボナッチ数列 〜Haskellで非実用的なコードを書いて悦に入るのはやめろ〜 - Qiita](https://qiita.com/mod_poppo/items/4f78d135bb43b7fd1743)
+* [sketches/trouble-in-paradise-fibonacci at master · effectfully/sketches](https://github.com/effectfully/sketches/tree/master/trouble-in-paradise-fibonacci)
 
 </details>
 
