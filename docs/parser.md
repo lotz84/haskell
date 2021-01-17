@@ -50,6 +50,7 @@ parse = evalStateT
 * [【Haskell】Persistentをstack installするときに発生するエラー対処。>=0.9.0 is required but it could not be found. - Qiita](https://qiita.com/moriwm77/items/aebda67739d8651ae21f)
 * [The round-trip property](https://teh.id.au/posts/2017/06/07/round-trip-property/index.html)
 * [Parser Combinators: a Walkthrough](https://hasura.io/blog/parser-combinators-walkthrough/)
+* [IPFS on Hackage](https://blog.fission.codes/ipfs-on-hackage/)
 
 #### attoparsec
 * [The attoparsec package](http://hackage.haskell.org/package/attoparsec)
