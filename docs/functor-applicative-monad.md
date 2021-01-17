@@ -270,6 +270,9 @@ z ))
 
 出典: [How to desugar Haskell code ](http://www.haskellforall.com/2014/10/how-to-desugar-haskell-code.html)
 
+### Maybe Monad
+* [Infrequent, Pragmatic, Lambda Blog - Maybe Considered Harmful](https://rpeszek.github.io/posts/2021-01-16-maybe-harmful.html)
+
 ### List Monad
 
 ```haskell
