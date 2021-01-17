@@ -241,6 +241,7 @@ parse = evalStateT
 * [(Haskell in Haskell) 0. Introduction - Cronokirby](https://cronokirby.com/posts/2020/11/haskell-in-haskell-0/)
 * [(Haskell in Haskell) 1. Setup - Cronokirby](https://cronokirby.com/posts/2020/11/haskell-in-haskell-1/)
 * [(Haskell in Haskell) 2. Lexing - Cronokirby](https://cronokirby.com/posts/2020/12/haskell-in-haskell-2/)
+* [cronokirby/haskell-in-haskell: Trying to write an understandable implementation of Haskell, in Haskell](https://github.com/cronokirby/haskell-in-haskell)
 
 ### AST/実装テクニック
 * [Kwang's Haskell Blog - Write you an interpreter](http://kseo.github.io/posts/2016-12-30-write-you-an-interpreter.html)
