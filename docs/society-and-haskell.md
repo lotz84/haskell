@@ -52,6 +52,7 @@
 * [The Haskell Foundation](https://www.snoyman.com/blog/2020/12/haskell-foundation)
 * [2020 State of Haskell Survey results · taylor.fausak.me](https://taylor.fausak.me/2020/11/22/haskell-survey-results/)
 * [Whole Haskell is Best Haskell \| Semantic Dreams](https://semantic.org/post/whole-haskell-is-best-haskell/)
+* [Why Haskell is our first choice for building production software systems – Foxhound Systems](https://www.foxhound.systems/blog/why-haskell-for-production/)
 
 ## コミュニティ
 * [Haskell Communities and Activities Report](https://wiki.haskell.org/Haskell_Communities_and_Activities_Report)
