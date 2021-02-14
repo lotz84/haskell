@@ -557,7 +557,6 @@ Protocol
 * [GaloisInc/avro](https://github.com/GaloisInc/avro)
 * [spoqa/nirum](https://github.com/spoqa/nirum)
 * [Haskell, can we REST?](https://github.com/eborden/json-msg-pack/blob/master/README.md)
-* [Apache Thrift - Haskell](https://thrift.apache.org/tutorial/hs)
 * [Implementation status of QUIC in Haskell - あどけない話](https://kazu-yamamoto.hatenablog.jp/entry/2020/02/18/145038)
 
 ### MQTT
@@ -585,6 +584,10 @@ Protocol
 * [The Hashrocket websocket shootout in Haskell](http://bitemyapp.com/posts/2016-09-03-websocket-shootout-haskell.html)
 * [05 Writing a secure WebSocket client](https://github.com/mitchellwrosen/slacky/wiki/05-Writing-a-secure-WebSocket-client)
 * [A lot of websockets in Haskell - We Are Wizards Blog](https://blog.wearewizards.io/a-lot-of-websockets-in-haskell)
+
+### Thrift
+* [Apache Thrift - Haskell](https://thrift.apache.org/tutorial/hs)
+* [Hsthrift: Open-sourcing Thrift for Haskell - Facebook Engineering](https://engineering.fb.com/2021/02/05/open-source/hsthrift/)
 
 Heroku
 ------
