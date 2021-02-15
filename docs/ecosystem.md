@@ -238,6 +238,7 @@ ghcupは2020/5/9時点ではWindowsに対応していないので注意してく
 * [Whirlwind Tour Of Cabal For Beginners \| School of FP](https://schooloffp.co/2020/08/17/whirlwind-tour-of-cabal-for-beginners.html)
 * [Oleg's gists - A design for paths in Cabal](https://oleg.fi/gists/posts/2020-09-13-a-design-for-paths.html)
 * [pureblog - Haskell is vulnerable to dependency confusion](https://frasertweedale.github.io/blog-fp/posts/2021-02-12-haskell-dependency-confusion.html)
+* [cabal v3でdoctestを使うならwrite-ghc-environment-filesを有効にするといい - Qiita](https://qiita.com/debug-ito/items/ce913f6ed74df8db2430)
 
 ### Nix integration
 * [13. Nix Integration — Cabal 3.5.0.0 User's Guide](https://cabal.readthedocs.io/en/latest/nix-integration.html)
