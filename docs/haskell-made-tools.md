@@ -1,5 +1,6 @@
 ## Selected tools made by Haskell for general purpose
-[/r/madeinhaskell](https://www.reddit.com/r/madeinhaskell/)
+* [/r/madeinhaskell](https://www.reddit.com/r/madeinhaskell/)
+* [Active Haskell · tonyday567](https://tonyday567.github.io/posts/github/)
 
 ### Basilica
 * [Basilica - Haskell製のモダンなフォーラム](http://www.moongift.jp/2016/01/basilica-haskell%E8%A3%BD%E3%81%AE%E3%83%A2%E3%83%80%E3%83%B3%E3%81%AA%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0/)
