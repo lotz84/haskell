@@ -107,6 +107,7 @@
 * [Haskell - $の仕組みを覗いてみよう - Qiita](https://qiita.com/grainrigi/items/f45b586b4013ffc3814e)
 * [Compose Tetris - Fintan Halpenny - Medium](https://medium.com/@fintan.halpenny/compose-tetris-196b70035aff)
 * [named: Named parameters (keyword arguments) for Haskell](http://hackage.haskell.org/package/named)
+* [Don’t think, just defunctionalize – Blog – Joachim Breitner's Homepage](https://www.joachim-breitner.de/blog/778-Don%e2%80%99t_think,_just_defunctionalize)
 
 ### パターンマッチ
 * [Pattern matching](http://mbps.hatenablog.com/entry/2014/10/04/010000)
