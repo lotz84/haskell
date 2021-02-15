@@ -162,6 +162,7 @@
 * [Well-Typed - The Haskell Consultants: A First Look at Info Table Profiling](https://well-typed.com/blog/2021/01/first-look-at-hi-profiling-mode/)
 * [Well-Typed - The Haskell Consultants: GHC activities report: December–January 2020/2021](https://www.well-typed.com/blog/2021/02/ghc-2020-12-2021-01/)
 * [GHC Reading Guide](https://takenobu-hs.github.io/downloads/haskell_ghc_reading_guide.pdf)
+* [Well-Typed - The Haskell Consultants: Memory Fragmentation: A Deeper Look With ghc-debug](https://well-typed.com/blog/2021/01/fragmentation-deeper-look/)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
