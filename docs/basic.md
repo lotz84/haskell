@@ -105,7 +105,8 @@
 * [Haskellの関数の型とかカリー化とか #Haskell - Qiita](https://qiita.com/Tatsuki-I/items/d1d122107da8c1ee121f)
 * [haskellで2重リストにmapを適用させる例 - Qiita](https://qiita.com/P0ngCh4ng/items/fb3f24b7c3138bd1b159)
 * [Haskell - $の仕組みを覗いてみよう - Qiita](https://qiita.com/grainrigi/items/f45b586b4013ffc3814e)
-- [Compose Tetris - Fintan Halpenny - Medium](https://medium.com/@fintan.halpenny/compose-tetris-196b70035aff)
+* [Compose Tetris - Fintan Halpenny - Medium](https://medium.com/@fintan.halpenny/compose-tetris-196b70035aff)
+* [named: Named parameters (keyword arguments) for Haskell](http://hackage.haskell.org/package/named)
 
 ### パターンマッチ
 * [Pattern matching](http://mbps.hatenablog.com/entry/2014/10/04/010000)
