@@ -421,6 +421,7 @@ Reader + Writer + State
 * [Haskell Bits #1: Randomness　- Benjamin Kovach](https://www.kovach.me/posts/2017-01-30-haskell-bits-randomness.html)
 * [Random Benchmarks \| Alexey Kuleshevich](https://alexey.kuleshevi.ch/blog/2019/12/21/random-benchmarks/)
 * [Tweag - Splittable pseudo-random number generators in Haskell: random v1.1 and v1.2](https://www.tweag.io/blog/2020-06-29-prng-test/)
+* [New random interface \| Alexey Kuleshevich](https://alexey.kuleshevi.ch/blog/2021/01/29/random-interface/)
 
 ### Monad*
 * [2 07 Supermonads: One Notion to Bind them All](https://www.youtube.com/watch?v=HRofw58sySw)
