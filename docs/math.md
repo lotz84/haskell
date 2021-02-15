@@ -25,6 +25,7 @@
 * [Haskell/カリー=ハワード同型](https://ja.wikibooks.org/wiki/Haskell/%E3%82%AB%E3%83%AA%E3%83%BC%3D%E3%83%8F%E3%83%AF%E3%83%BC%E3%83%89%E5%90%8C%E5%9E%8B)
 * [カリー・ハワード同型対応入門](http://ocw.kyoto-u.ac.jp/ja/faculty-of-lettersja/002-006/pdf/curryhoward.pdf)
 * [Lectures on the Curry-Howard Isomorphism (1998)](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.17.7385)
+* ["Program = Proof" by Samuel Mimram (pub. 2020) pdf available online for free. : haskell](https://www.reddit.com/r/haskell/comments/l5va5o/program_proof_by_samuel_mimram_pub_2020_pdf/)
 
 ## 集合と論理
 * [Axiomatic Set Theory](http://link.springer.com/book/10.1007/978-1-4684-8751-0)
