@@ -138,6 +138,7 @@
 * [QuasiQuoteでopen-unionを書きやすくするライブラリを作ってみました - Qiita](https://qiita.com/nwtgck/items/002817daa0e90e72870b)
 * [Automatically detecting and instantiating polymorphism](https://github.com/effectfully/sketches/tree/master/poly-type-of-saga/part1-try-unify)
 * [Simpler and safer API design using GADTs](https://chrispenner.ca/posts/gadt-design)
+* [Haskell's @ symbol - Type Application \| Zac Wood](https://zacwood.me/posts/haskell-type-application/)
 
 ```haskell
 data Bottom
