@@ -29,6 +29,7 @@
 * [刹那的純粋関数的データ構造と線形型 - 趣味はデバッグ……](https://kakkun61.hatenablog.com/entry/2020/12/25/%E5%88%B9%E9%82%A3%E7%9A%84%E7%B4%94%E7%B2%8B%E9%96%A2%E6%95%B0%E7%9A%84%E3%83%87%E3%83%BC%E3%82%BF%E6%A7%8B%E9%80%A0%E3%81%A8%E7%B7%9A%E5%BD%A2%E5%9E%8B)
 * [Learn just enough about linear types](https://tek.brick.do/64693fb8-39b4-40a5-8762-768009eeed91)
 * [Tweag - linear-base makes writing Linear Haskell easy and fun](https://www.tweag.io/blog/2021-02-10-linear-base/)
+* [HaskellのLinearTypes言語拡張について少し調べた - TSUGULOG](https://yoshitsugu.net/posts/2021-02-13-linear-haskell.html)
 
 ## Linear Type as DSL
 * [線形型つきドメイン特化言語 (DSL) を Haskell上に実装する](http://d.hatena.ne.jp/keigoi/20110806/1312604753)
