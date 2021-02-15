@@ -54,6 +54,7 @@
 * [Whole Haskell is Best Haskell \| Semantic Dreams](https://semantic.org/post/whole-haskell-is-best-haskell/)
 * [Why Haskell is our first choice for building production software systems – Foxhound Systems](https://www.foxhound.systems/blog/why-haskell-for-production/)
 * [Haskell as a first timer - Am I missing something ? - DEV Community](https://dev.to/oguimbal/haskell-as-a-first-timer-am-i-missing-something-or-is-something-broken-19hb)
+* [Choosing Haskell isn’t a stand-in for good software design \| by Ozgun Ataman \| Jan, 2021 \| Medium](https://ozataman.medium.com/choosing-haskell-isnt-a-stand-in-for-good-software-design-7d893882f963)
 
 ## コミュニティ
 * [Haskell Communities and Activities Report](https://wiki.haskell.org/Haskell_Communities_and_Activities_Report)
