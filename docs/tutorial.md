@@ -189,6 +189,7 @@
 * [THINGS SOFTWARE ENGINEERS TRIP UP ON WHEN LEARNING HASKELL](https://williamyaoh.com/posts/2020-04-12-software-engineer-hangups.html)
 * [Applied Haskell Syllabus](https://tech.fpcomplete.com/haskell/syllabus)
 * [Monday Morning Haskell](https://mmhaskell.com/)
+* [Haskell Tutorial and Cookbook](https://markwatson.com/opencontent/haskell-cookbook.pdf)
 
 ## Examples
 
