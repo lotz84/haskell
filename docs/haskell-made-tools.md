@@ -453,9 +453,12 @@ Most of the stuff here is already unmaintained, but as a tool implementation it 
 ### mega-sdist
 * [mega-sdist: the mega repo helper](https://www.yesodweb.com/blog/2017/11/mega-sdist)
 
+### prune-juice
+* [Pruning Unused Haskell Dependencies | Dan Fithian](https://dfithian.github.io/2021/03/08/pruning-unused-haskell-dependencies.html)
+
 ### require
 * [require - Scrap your qualified import clutter](https://theam.github.io/require/index.html)
-- [theam/require: 🔌 Scrap your qualified import clutter](https://github.com/theam/require)
+* [theam/require: 🔌 Scrap your qualified import clutter](https://github.com/theam/require)
 
 ### self-extract
 * [brandonchinn178/self-extract: A Haskell library to make self-extracting executables](https://github.com/brandonchinn178/self-extract)
