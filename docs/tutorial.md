@@ -107,6 +107,7 @@
 * [To Kata Haskellen Evangelion](https://cosmius.bitbucket.io/tkhe/)
 * [A Type of Programming](https://atypeofprogramming.com/)
 * [google/haskell-trainings: Haskell 101 and 102: slides and codelabs](https://github.com/google/haskell-trainings)
+* [Haskell - Why Learn Haskell?](https://crypto.stanford.edu/~blynn/haskell/why.html)
 * [Learning Real Haskell Incrementally](http://begriffs.com/posts/2015-10-24-learning-haskell-incrementally.html)
 * [Design Patterns in Haskell](http://blog.ezyang.com/2010/05/design-patterns-in-haskel/)
 * [Haskell Design Patterns](https://www.packtpub.com/application-development/haskell-design-patterns)
