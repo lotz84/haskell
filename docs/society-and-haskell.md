@@ -56,6 +56,7 @@
 * [Haskell as a first timer - Am I missing something ? - DEV Community](https://dev.to/oguimbal/haskell-as-a-first-timer-am-i-missing-something-or-is-something-broken-19hb)
 * [Choosing Haskell isn’t a stand-in for good software design \| by Ozgun Ataman \| Jan, 2021 \| Medium](https://ozataman.medium.com/choosing-haskell-isnt-a-stand-in-for-good-software-design-7d893882f963)
 * [Reflections On Using Haskell For My Startup – Alistair Burrowes – My blog](https://alistairb.dev/reflections-on-haskell-for-startup/)
+* [10年間使ってみて見えたHaskellの闇と光 - Qiita](https://qiita.com/autotaker1984/items/301ecac1fac0cbae0215)
 
 ## コミュニティ
 * [Haskell Communities and Activities Report](https://wiki.haskell.org/Haskell_Communities_and_Activities_Report)
