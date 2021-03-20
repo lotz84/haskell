@@ -243,17 +243,18 @@ Web Server
 * [Introducing Mu-Haskell v0.1 \| 47 Degrees](https://www.47deg.com/blog/introducing-mu-haskell-0-1/)
 * [IHP: Integrated Haskell Platform, a batteries-included web framework built on purely functional programming technologies](https://ihp.digitallyinduced.com/)
 * [Mu-Haskell: Docs](https://higherkindness.io/mu-haskell/)
+* [Conferer, a configuration library for Haskell](https://blog.10pines.com/2021/03/02/conferer-a-configuration-library-for-haskell/)
 
 ### ネットワークプログラミング
-- [network: Low-level networking interface](https://hackage.haskell.org/package/network)
-- [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)
-- [Haskell でソケット通信をやってみる](http://yasutech.blogspot.jp/2012/01/haskell.html)
-- [socket](https://hackage.haskell.org/package/socket)
-- [vincenthz/hs-connection](https://github.com/vincenthz/hs-connection)
-- TLS/SSL implementation in haskell - [vincenthz/hs-tls](https://github.com/vincenthz/hs-tls)
-- [Haskell network library version 3.0 - あどけない話](https://kazu-yamamoto.hatenablog.jp/entry/2019/02/08/162027) - networkライブラリの歴史とv3.0のデザインについて
-- [Implementing graceful-close in Haskell network library - あどけない話](https://kazu-yamamoto.hatenablog.jp/entry/2019/09/20/165939)
-- [Implementing HTTP/3 in Haskell - あどけない話](https://kazu-yamamoto.hatenablog.jp/entry/2020/06/09/155236)
+* [network: Low-level networking interface](https://hackage.haskell.org/package/network)
+* [いまどきのHaskellのTCPクライアント](http://qiita.com/tanakh/items/504747fd1e960d07edbf)
+* [Haskell でソケット通信をやってみる](http://yasutech.blogspot.jp/2012/01/haskell.html)
+* [socket](https://hackage.haskell.org/package/socket)
+* [vincenthz/hs-connection](https://github.com/vincenthz/hs-connection)
+* TLS/SSL implementation in haskell - [vincenthz/hs-tls](https://github.com/vincenthz/hs-tls)
+* [Haskell network library version 3.0 - あどけない話](https://kazu-yamamoto.hatenablog.jp/entry/2019/02/08/162027) - networkライブラリの歴史とv3.0のデザインについて
+* [Implementing graceful-close in Haskell network library - あどけない話](https://kazu-yamamoto.hatenablog.jp/entry/2019/09/20/165939)
+* [Implementing HTTP/3 in Haskell - あどけない話](https://kazu-yamamoto.hatenablog.jp/entry/2020/06/09/155236)
 
 
 ### WAI/Warp
