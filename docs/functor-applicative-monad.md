@@ -256,6 +256,7 @@ class Monad m where
 * [Oleg's gists - overloaded-0.2.1: Overloaded:Do](http://oleg.fi/gists/posts/2020-04-27-overloaded-local-do.html)
 * [具体例から学ぶモナド再入門 - Qiita](https://qiita.com/sparklingbaby/items/4a7c582780af734c9525)
 * [Tweag - Qualified do: rebind your do-notation the right way](https://www.tweag.io/blog/2020-07-13-qualified-do-announcement/)
+* [モナドオリンピック1-トラック競技-](https://zenn.dev/autotaker/articles/monad-olympic-1-pure)
 
 ```haskell
 do x <- mx
@@ -318,6 +319,7 @@ instance Monad (Reader e) where
 * [Reader monad and SKI combinators](https://kseo.github.io/posts/2016-12-24-reader-monad-and-ski-combinators.html)
 * [haskell - What's the difference between Monad.Reader and the (->) monads? - Stack Overflow](https://stackoverflow.com/questions/28872981/whats-the-difference-between-monad-reader-and-the-monads)
 * [Deriving the Reader monad from first principles \| William Yao](https://williamyaoh.com/posts/2020-07-19-deriving-reader-monad.html)
+* [順を追って理解する Reader モナドの使い方](https://zenn.dev/tobi462/articles/8190584e7ddc31)
 
 ### Writer Monad
 * [Writerを使ってはならない](http://qiita.com/ruicc/items/28b1cd2df215ce724e26)
