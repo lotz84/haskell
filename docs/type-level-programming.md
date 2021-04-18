@@ -229,6 +229,7 @@ circum (Circle _ _ r) = …
 * [型システムを学ぼう！](https://uhideyuki.sakura.ne.jp/studs/index.cgi/ja/HindleyMilnerInHaskell)
 * [A reckless introduction to Hindley-Milner type inference](http://reasonableapproximation.net/2019/05/05/hindley-milner.html)
 * [Tripping up type inference – ( )](https://kcsongor.github.io/ambiguous-tags/)
+* [[Haskell] asTypeOf の使い方と仕組み](https://zenn.dev/tobi462/articles/9010e7d9c4f759)
 
 ## Parametricity
 * [Theorems for free!](http://www.cs.sfu.ca/CourseCentral/831/burton/Notes/July14/free.pdf)
