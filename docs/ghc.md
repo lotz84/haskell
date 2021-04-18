@@ -165,6 +165,7 @@
 * [Well-Typed - The Haskell Consultants: Memory Fragmentation: A Deeper Look With ghc-debug](https://well-typed.com/blog/2021/01/fragmentation-deeper-look/)
 * [Haskell Executable Sizes \| Dan Fithian](https://dfithian.github.io/2021/02/28/haskell-executable-sizes.html)
 * [Well-Typed - The Haskell Consultants: GHC activities report: February–March 2021](https://well-typed.com/blog/2021/04/ghc-2021-02-2021-03/)
+* [Well-Typed - The Haskell Consultants: Improvements to memory usage in GHC 9.2](https://well-typed.com/blog/2021/03/memory-return/)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
