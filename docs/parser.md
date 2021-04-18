@@ -2,6 +2,7 @@
 ### Alex / Happy
 * [Alex and Happy: Parsing comments and strings](https://www.jyotirmoy.net/posts/2015-08-17-alex-happy-startcodes.html)
 * [Happyでパースエラーで列行番号とどんなミスマッチが起こったか報告する - Qiita](https://qiita.com/aiya000/items/7cdc843972c8bd9da04e)
+* [blog <\| code - Alex by example (Write You A Python Lexer)](https://devanla.com/posts/wya-lexer.html)
 
 ### パーサーコンビネータ
 * [JavaScriptでパーサコンビネータのコンセプトを理解する](http://blog.anatoo.jp/entry/2015/04/26/220026)
