@@ -1,36 +1,37 @@
-- [Parallel and Concurrent Programming in Haskell](http://chimera.labs.oreilly.com/books/1230000000929/index.html)
-   - [pdf](http://community.haskell.org/~simonmar/par-tutorial.pdf)
-- [並行並列言語Haskellの基本と特徴 - ログミーTech](https://logmi.jp/tech/articles/321095)
-  - [並列並行言語Haskell - Speaker Deck](https://speakerdeck.com/syocy/bing-lie-bing-xing-yan-yu-haskell)
+* [Parallel and Concurrent Programming in Haskell](http://chimera.labs.oreilly.com/books/1230000000929/index.html)
+   * [pdf](http://community.haskell.org/~simonmar/par-tutorial.pdf)
+* [並行並列言語Haskellの基本と特徴 - ログミーTech](https://logmi.jp/tech/articles/321095)
+  * [並列並行言語Haskell - Speaker Deck](https://speakerdeck.com/syocy/bing-lie-bing-xing-yan-yu-haskell)
 
 ## 並列
 ### Eval
-- [parallel: Parallel programming library](https://hackage.haskell.org/package/parallel)
+* [parallel: Parallel programming library](https://hackage.haskell.org/package/parallel)
 
 ### Par
-- [monad-par](https://hackage.haskell.org/package/monad-par)
-- [Programming with distributed functional futures](http://www.macs.hw.ac.uk/~rs46/posts/2015-09-07-distributed-functional-futures.html)
+* [monad-par](https://hackage.haskell.org/package/monad-par)
+* [Programming with distributed functional futures](http://www.macs.hw.ac.uk/~rs46/posts/2015-09-07-distributed-functional-futures.html)
 
 ### Repa
-- [repa: High performance, regular, shape polymorphic parallel arrays.](https://hackage.haskell.org/package/repa)
-- [Tweag - Parallelising your array code](https://www.tweag.io/blog/2017-11-16-repa/)
-- [Evaluation of Libraries for Parallel Computing in Haskell](https://www.jstage.jst.go.jp/article/ipsjjip/25/0/25_308/_pdf)
+* [repa: High performance, regular, shape polymorphic parallel arrays.](https://hackage.haskell.org/package/repa)
+* [Tweag - Parallelising your array code](https://www.tweag.io/blog/2017-11-16-repa/)
+* [Evaluation of Libraries for Parallel Computing in Haskell](https://www.jstage.jst.go.jp/article/ipsjjip/25/0/25_308/_pdf)
 
 ### accelerate
-- [accelerate](http://hackage.haskell.org/package/accelerate)
-- [accelerate-cuda](http://hackage.haskell.org/package/accelerate-cuda)
-- [Accelerateとglossで作るライフゲーム - Qiita](https://qiita.com/A_kirisaki/items/b45b127adb7d2d91e7f6)
-- [lts-13.19でaccelerate-llvmを使う時の備忘録 - Qiita](https://qiita.com/A_kirisaki/items/f558daa4ca72d9d36371)
+* [accelerate](http://hackage.haskell.org/package/accelerate)
+* [accelerate-cuda](http://hackage.haskell.org/package/accelerate-cuda)
+* [Accelerateとglossで作るライフゲーム - Qiita](https://qiita.com/A_kirisaki/items/b45b127adb7d2d91e7f6)
+* [lts-13.19でaccelerate-llvmを使う時の備忘録 - Qiita](https://qiita.com/A_kirisaki/items/f558daa4ca72d9d36371)
 
 ### Others
-- [Obsidian](https://hackage.haskell.org/package/Obsidian)
-- [Repeating History: Execution Replay for Parallel Haskell Programs](https://research-repository.st-andrews.ac.uk/bitstream/10023/5895/1/tfp2012.pdf)
-- [AutoPar: automating the parallelization of functional programs](http://doras.dcu.ie/20805/)
-- [Reasoning About Program Behavior Algebraically](http://dev.stephendiehl.com/types_behavior.pdf)
-- [Finding Parallel Functional Pearls: Automatic Parallel Recursion Scheme Detection in Haskell Functions via Anti-Unification](https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/15729/Barwell_2017_FGCS_ParallelFunctionalPearls_AAM.pdf?sequence=1&isAllowed=y)
-- [Parallel typeclass for Haskell • gvolpe's blog](https://gvolpe.github.io/blog/parallel-typeclass-for-haskell/)
-- [Merritt Blog - Getting Started with OpenCL in Haskell](https://lancelet.github.io/posts/2017-12-26-opencl-helloworld.html)
-- [ekmett/propagators](https://github.com/ekmett/propagators)
+* [Obsidian](https://hackage.haskell.org/package/Obsidian)
+* [Repeating History: Execution Replay for Parallel Haskell Programs](https://research-repository.st-andrews.ac.uk/bitstream/10023/5895/1/tfp2012.pdf)
+* [AutoPar: automating the parallelization of functional programs](http://doras.dcu.ie/20805/)
+* [Reasoning About Program Behavior Algebraically](http://dev.stephendiehl.com/types_behavior.pdf)
+* [Finding Parallel Functional Pearls: Automatic Parallel Recursion Scheme Detection in Haskell Functions via Anti-Unification](https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/15729/Barwell_2017_FGCS_ParallelFunctionalPearls_AAM.pdf?sequence=1&isAllowed=y)
+* [Parallel typeclass for Haskell • gvolpe's blog](https://gvolpe.github.io/blog/parallel-typeclass-for-haskell/)
+* [Merritt Blog - Getting Started with OpenCL in Haskell](https://lancelet.github.io/posts/2017-12-26-opencl-helloworld.html)
+* [ekmett/propagators](https://github.com/ekmett/propagators)
+* [Async Control Flow](https://www.parsonsmatt.org/2021/03/17/async_control_flow.html)
 
 ## 並行
 * [CONCURRENT HASKELL IN THE REAL WORLD](https://www.stackbuilders.com/news/concurrent-haskell-in-the-real-world)
