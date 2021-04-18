@@ -566,3 +566,4 @@ v A reliable at-least-once job queue built on top of redis. - [The hworker packa
 * [Higher Kinded Option Parsing](https://chrispenner.ca/posts/hkd-options)
 * [Writing Custom Optimization Passes :: Reasonably Polymorphic](https://reasonablypolymorphic.com/blog/writing-custom-optimizations/)
 * [optparse-applicativeでコマンドライン引数をパースする - Qiita](https://qiita.com/sparklingbaby/items/8ae5cce4a9244c8058e4)
+* [Designing Command Line Interfaces in Haskell \| Stephan Schiffels](https://www.stephanschiffels.de/posts/2021-03-24-Haskell-CLI/)
