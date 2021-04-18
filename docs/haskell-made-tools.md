@@ -345,6 +345,9 @@ Line 6:
 ### waymonad
 * [waymonad/waymonad: A wayland compositor based on ideas from and inspired by xmonad](https://github.com/waymonad/waymonad)
 
+### Wasp
+* [Wasp \| Wasp](https://wasp-lang.dev/)
+
 ### wire
 * [Wire · The most secure collaboration platform](https://wire.com/en/)
 * [wireapp/wire-server: 🇪🇺 Wire back-end services](https://github.com/wireapp/wire-server)
