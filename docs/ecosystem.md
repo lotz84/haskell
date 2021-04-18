@@ -247,6 +247,8 @@ ghcupは2020/5/9時点ではWindowsに対応していないので注意してく
 * [Nix ±Cabal](https://begriffs.com/posts/2015-08-07-nix-plus-minus-cabal.html)
 * [NixOS/cabal2nix: Generate Nix build instructions from a Cabal file](https://github.com/NixOS/cabal2nix)
 * [Maxfield Chen - Functional Fika — Nix and Haskell](https://maxfieldchen.com/posts/2020-05-16-Functional-Fika-Haskell-Nix-Cabal.html)
+* [The working programmer’s guide to setting up Haskell projects](https://jonascarpay.com/posts/2021-01-28-haskell-project-template.html)
+* [Channable - Nix is the ultimate DevOps toolkit](https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html)
 
 ## Stack
 * [The Haskell Tool Stack](http://docs.haskellstack.org/en/stable/README.html)
