@@ -95,6 +95,7 @@ instance Show Bool where
 * [型クラスのご紹介 - molecular coordinates](https://coordination.hatenablog.com/entry/2019/12/24/012049)
 * [続くといいな日記 – Coherent Implicit Parameter](https://mizunashi-mana.github.io/blog/posts/2020/03/coherent-implicit-parameter/)
 * [続くといいな日記 – DerivingVia で deriving 戦略を模倣する](https://mizunashi-mana.github.io/blog/posts/2020/03/deriving-strategies-by-deriving-via/)
+* [多相からプログラミング言語を見る - 趣味はデバッグ……](https://kakkun61.hatenablog.com/entry/2021/03/18/%E5%A4%9A%E7%9B%B8%E3%81%8B%E3%82%89%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E%E3%82%92%E8%A6%8B%E3%82%8B)
 
 ## 代数的な型クラス
 * [tower](https://tonyday567.github.io/tower/index.html)
