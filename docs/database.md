@@ -63,6 +63,7 @@
 * [HDBC で ClickHouse アクセスライブラリを書いている話 \| ザネリは列車を見送った](https://www.zaneli.com/blog/20201219)
 * [IPFS on Hackage](https://blog.fission.codes/ipfs-on-hackage/)
 * [Haskell Database Implementation - Part 1, Growing a Tree \| Dan Fithian](https://dfithian.github.io/2021/02/15/database-implementation-part-1.html)
+* [Quickstart with Docker - HStreamDB Docs](https://docs.hstream.io/start/quickstart-with-docker/)
 
 Simple Clients
 --------------
