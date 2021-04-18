@@ -59,6 +59,7 @@
 * [10年間使ってみて見えたHaskellの闇と光 - Qiita](https://qiita.com/autotaker1984/items/301ecac1fac0cbae0215)
 * [The Benefits of Learning Haskell – Alistair Burrowes – My blog](https://alistairb.dev/benefits-of-learning-haskell/)
 * [Tweag - Incubating the Haskell Foundation](https://www.tweag.io/blog/2021-03-26-haskell-foundation-backstory/)
+* [関数を組み合わせてシステムを組む「Haskell」。クセの強さがその魅力？〜エンジニアが語る技術愛 ＃01〜｜ミクシル](https://mixil.mixi.co.jp/people/11154)
 
 ## コミュニティ
 * [Haskell Communities and Activities Report](https://wiki.haskell.org/Haskell_Communities_and_Activities_Report)
