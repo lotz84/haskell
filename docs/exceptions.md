@@ -50,6 +50,7 @@
 * [The retry package](https://hackage.haskell.org/package/retry)
 * [Neil Mitchell's Haskell Blog: Haskell exceptions and FFI wrappers](https://neilmitchell.blogspot.jp/2017/11/haskell-exceptions-and-ffi-wrappers.html)
 * [Haskellのassertを文っぽく使う - Qiita](https://qiita.com/mod_poppo/items/b3b415ea72eee210d222)
+* [Default exception handler in Haskell · taylor.fausak.me](https://taylor.fausak.me/2021/04/03/default-exception-handler-in-haskell/)
 
 ## Checked+Pure
 * [ERRORS AND EXCEPTIONS IN HASKELL](http://www.stackbuilders.com/news/errors-and-exceptions-in-haskell)
