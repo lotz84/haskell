@@ -139,6 +139,7 @@
 * [Automatically detecting and instantiating polymorphism](https://github.com/effectfully/sketches/tree/master/poly-type-of-saga/part1-try-unify)
 * [Simpler and safer API design using GADTs](https://chrispenner.ca/posts/gadt-design)
 * [Haskell's @ symbol - Type Application \| Zac Wood](https://zacwood.me/posts/haskell-type-application/)
+* [Why kind-level foralls don't interact with ScopedTypeVariables - Ryan Scott](https://ryanglscott.github.io/2021/04/05/why-kind-level-foralls-dont-interact-with-scopedtypevariables/)
 
 ```haskell
 data Bottom
