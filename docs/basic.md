@@ -109,6 +109,7 @@
 * [named: Named parameters (keyword arguments) for Haskell](http://hackage.haskell.org/package/named)
 * [Don’t think, just defunctionalize – Blog – Joachim Breitner's Homepage](https://www.joachim-breitner.de/blog/778-Don%e2%80%99t_think,_just_defunctionalize)
 * [Many faces of Internal Functions :: Kowainik](https://kowainik.github.io/posts/internal-functions)
+* [Hyperfunctions - Donnacha Oisín Kidney](https://doisinkidney.com/posts/2021-03-14-hyperfunctions.html)
 
 ### パターンマッチ
 * [Pattern matching](http://mbps.hatenablog.com/entry/2014/10/04/010000)
