@@ -160,6 +160,7 @@
 * [Decimal Safety Right on The Money](https://tech.fpcomplete.com/blog/safe-decimal-right-on-the-money)
 * [カプレカ数で遊ぶ - Qiita](https://qiita.com/golden_lucky/items/c7821b5d45aa46193dba)
 * [Capturing Number Theory in Haskell – bor0's blog](https://bor0.wordpress.com/2021/04/05/capturing-number-theory-in-haskell/)
+* [Continued Fractions: Haskell, Equational Reasoning, Property Testing, and Rewrite Rules in Action \| by Chris Smith \| Apr, 2021 \| Medium](https://cdsmithus.medium.com/continued-fractions-haskell-equational-reasoning-property-testing-and-rewrite-rules-in-action-77a16d750e3f)
 
 ## 文字列
 * [Haskell String Types](http://www.alexeyshmalko.com/2015/haskell-string-types/)
