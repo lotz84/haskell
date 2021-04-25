@@ -75,6 +75,7 @@
 * [BayHac 2017 - YouTube](https://www.youtube.com/playlist?list=PL5lgjzYOvyYNchlkMzvDqd1F6gS-COCDo)
 * [Discourse - Haskell Community](https://discourse.haskell.org/)
 * [Simon Marlow - Most Influential ICFP Paper - Facebook Engineering](https://engineering.fb.com/security/simon-marlow/)
+* [Evgeny Poberezkin - What I wish somebody told me when I was learning Haskell](https://www.poberezkin.com/posts/2021-04-21-what-i-wish-somebody-told-me-when-i-was-learning-Haskell.html)
 
 ### 日本
 * [Tokyo Haskell Meetup](http://www.meetup.com/Tokyo-Haskell-Meetup/)
