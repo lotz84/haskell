@@ -141,6 +141,7 @@
 * [Haskell's @ symbol - Type Application \| Zac Wood](https://zacwood.me/posts/haskell-type-application/)
 * [Why kind-level foralls don't interact with ScopedTypeVariables - Ryan Scott](https://ryanglscott.github.io/2021/04/05/why-kind-level-foralls-dont-interact-with-scopedtypevariables/)
 * [An introduction to typeclass metaprogramming](https://lexi-lambda.github.io/blog/2021/03/25/an-introduction-to-typeclass-metaprogramming/)
+* [Type Families in Haskell: The Definitive Guide](https://serokell.io/blog/type-families-haskell)
 
 ```haskell
 data Bottom
