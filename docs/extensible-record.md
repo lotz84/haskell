@@ -251,6 +251,7 @@ swan = #name @= "swan"
 * [Alexander Thiemann - SuperRecord: Practical Anonymous Records for Haskell](https://www.youtube.com/watch?v=Nh0XD2hPV8w)
 * [Announcing Variant and EADT 2.0](http://hsyl20.fr/home/posts/2018-10-28-announcing-eadt.html)
 * [sketches/has-lens-done-right at master · effectfully/sketches](https://github.com/effectfully/sketches/tree/master/has-lens-done-right)
+* [Hasパターンとは - Qiita](https://qiita.com/sparklingbaby/items/b6c0e87c0299286e5e17)
 
 ## 理論
 * [Records are Sheaves of Types.](http://archive.is/0PM3e)
