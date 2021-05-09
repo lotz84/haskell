@@ -191,6 +191,7 @@
 * [Applied Haskell Syllabus](https://tech.fpcomplete.com/haskell/syllabus)
 * [Monday Morning Haskell](https://mmhaskell.com/)
 * [Haskell Tutorial and Cookbook](https://markwatson.com/opencontent/haskell-cookbook.pdf)
+* [Functional Programming in Haskell - Graham Hutton](https://www.youtube.com/watch?v=TdpBqhlgqGI&list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3)
 
 ## Examples
 
