@@ -274,6 +274,9 @@ z ))
 ### Maybe Monad
 * [Infrequent, Pragmatic, Lambda Blog - Maybe Considered Harmful](https://rpeszek.github.io/posts/2021-01-16-maybe-harmful.html)
 
+### Either Monad
+* [Haskell for all: The trick to avoid deeply-nested error-handling code](https://www.haskellforall.com/2021/05/the-trick-to-avoid-deeply-nested-error.html)
+
 ### List Monad
 
 ```haskell
