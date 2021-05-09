@@ -142,6 +142,7 @@
 * [Why kind-level foralls don't interact with ScopedTypeVariables - Ryan Scott](https://ryanglscott.github.io/2021/04/05/why-kind-level-foralls-dont-interact-with-scopedtypevariables/)
 * [An introduction to typeclass metaprogramming](https://lexi-lambda.github.io/blog/2021/03/25/an-introduction-to-typeclass-metaprogramming/)
 * [Type Families in Haskell: The Definitive Guide](https://serokell.io/blog/type-families-haskell)
+* [Haskell for all: How to replace Proxy with AllowAmbiguousTypes](https://www.haskellforall.com/2021/04/how-to-replace-proxy-with.html)
 
 ```haskell
 data Bottom
@@ -187,7 +188,7 @@ data HList (as :: [*]) where
 * [Oleg's gists - Flag, a tagged Bool](http://oleg.fi/gists/posts/2019-03-21-flag.html)
 * [「混ぜられない数」をHaskell/GHCの型を使って手軽につくる - Qiita](https://qiita.com/takenobu-hs/items/14101cabf313e6d594ca)
 * [articles/tag-dont-type.md at master · quchen/articles](https://github.com/quchen/articles/blob/master/tag-dont-type.md)
-* [Tagged is not a Newtype | Freckle Education](https://tech.freckle.com/2020/10/26/tagged-is-not-a-newtype/)
+* [Tagged is not a Newtype \| Freckle Education](https://tech.freckle.com/2020/10/26/tagged-is-not-a-newtype/)
 
 ```haskell
 data Circle
