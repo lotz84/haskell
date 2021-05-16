@@ -60,6 +60,9 @@ variance introduced by outliers: 81% (severely inflated)
 - [Elm開発環境について - Qiita](https://qiita.com/sand/items/9afaef65c6f1ebf453da)
 - [elm/compiler: Compiler for Elm, a functional language for reliable webapps.](https://github.com/elm/compiler/)
 
+### Ema
+* [Ema – next-gen Haskell static site generator](https://ema.srid.ca/)
+
 ### erd
 - テキストからER図に変換するツール
 - [BurntSushi/erd: Translates a plain text description of a relational database schema to a graphical entity-relationship diagram.](https://github.com/BurntSushi/erd)
