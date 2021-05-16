@@ -169,6 +169,7 @@
 * [Well-Typed - The Haskell Consultants: Using GHC low-latency garbage collection in production](https://well-typed.com/blog/2021/03/using-ghc-low-latency-gc-in-production/)
 * [GHCに初めてコントリビュートした／最近のGHC動向 \| 雑記帳](https://blog.miz-ar.info/2021/03/my-first-contribution-to-ghc/)
 * [Hacking on GHC - First Steps - Ben's Blog](https://cptwunderlich.github.io/2021/04/21/ghc-hacking-first-steps.html)
+* [SSA transformation for GHC's native code generator (Part 2) - Ben's Blog](https://cptwunderlich.github.io/2021/04/30/ssa_for_ncg_part2.html)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
