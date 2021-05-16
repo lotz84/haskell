@@ -177,6 +177,7 @@ class Functor g => Distributive g where
 * [Monoidal Catamorphism](https://github.com/BartoszMilewski/Publications/blob/master/MonoCata.pdf)
 * [ASTs with Fix and Free](https://chrispenner.ca/posts/asts-with-fix-and-free)
 * [Combining folds using semigroups](https://luctielen.com/posts/combining_folds_using_semigroups/)
+* [Anamorphisms aka Unfolds Explained \| Functional Works](https://functional.works-hub.com/learn/number-anamorphisms-aka-unfolds-explained-50e1a?utm_source=reddit&utm_medium=affiliates&utm_campaign=functionalworks-blogpost)
 
 ```hs
 newtype Fix f = In { out :: f (Fix f) }
