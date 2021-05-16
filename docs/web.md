@@ -71,6 +71,7 @@ Client
 * [HaskellからWordPressのREST APIを叩くメモ - Qiita](https://qiita.com/mod_poppo/items/5e0472e7171a7574abc3)
 * [HaskellでWordPress eXtended RSS (WXR)ファイルをパースする - Qiita](https://qiita.com/mod_poppo/items/c0847757a6b7679a8891)
 * [Writing a discord library using Polysemy \| ~simmsb](https://nitros12.github.io/writing-a-discord-library-using-polysemy/)
+* [Write your own Discord bot in Haskell with calamity - Existential Programming](https://morrowm.github.io/posts/2021-04-29-calamity.html)
 
 Scraping
 --------
@@ -256,7 +257,6 @@ Web Server
 * [Haskell network library version 3.0 - あどけない話](https://kazu-yamamoto.hatenablog.jp/entry/2019/02/08/162027) - networkライブラリの歴史とv3.0のデザインについて
 * [Implementing graceful-close in Haskell network library - あどけない話](https://kazu-yamamoto.hatenablog.jp/entry/2019/09/20/165939)
 * [Implementing HTTP/3 in Haskell - あどけない話](https://kazu-yamamoto.hatenablog.jp/entry/2020/06/09/155236)
-
 
 ### WAI/Warp
 * [Haskell版フォルダを指定してhttpで公開する簡易Webサーバー](http://qiita.com/saturday06/items/fad44a9bc49b2f387bde)
