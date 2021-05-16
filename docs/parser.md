@@ -52,6 +52,7 @@ parse = evalStateT
 * [The round-trip property](https://teh.id.au/posts/2017/06/07/round-trip-property/index.html)
 * [Parser Combinators: a Walkthrough](https://hasura.io/blog/parser-combinators-walkthrough/)
 * [IPFS on Hackage](https://blog.fission.codes/ipfs-on-hackage/)
+* [Implementing Co, a Small Interpreted Language With Coroutines #1: The Parser \| abhinavsarkar.net](https://abhinavsarkar.net/posts/implementing-co-1/)
 
 #### attoparsec
 * [The attoparsec package](http://hackage.haskell.org/package/attoparsec)
