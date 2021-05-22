@@ -246,6 +246,7 @@ Web Server
 * [Mu-Haskell: Docs](https://higherkindness.io/mu-haskell/)
 * [Conferer, a configuration library for Haskell](https://blog.10pines.com/2021/03/02/conferer-a-configuration-library-for-haskell/)
 * [The Happstack Book: Modern, Type-Safe Web Development in Haskell](http://happstack.com/docs/crashcourse/index.html)
+* [Transpiling a large PureScript codebase into Haskell, part 1: The pipeline](https://blog.monadfix.com/nau-1-pipeline)
 
 ### ネットワークプログラミング
 * [network: Low-level networking interface](https://hackage.haskell.org/package/network)
