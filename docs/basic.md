@@ -217,6 +217,9 @@ fib n = fibs !! (n-1) + fibs !! (n-2)
 ### 命名規則
 * [Foo to Bar: Naming Conventions in Haskell :: Kowainik](https://kowainik.github.io/posts/naming-conventions)
 
+### 演算子
+* [Fix(ity) me :: Kowainik](https://kowainik.github.io/posts/fixity)
+
 ---
 
 * [Generalizing function composition](http://jaspervdj.be/posts/2014-10-17-generalizing-function-composition.html)
