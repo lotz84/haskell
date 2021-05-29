@@ -257,6 +257,7 @@ class Monad m where
 * [具体例から学ぶモナド再入門 - Qiita](https://qiita.com/sparklingbaby/items/4a7c582780af734c9525)
 * [Tweag - Qualified do: rebind your do-notation the right way](https://www.tweag.io/blog/2020-07-13-qualified-do-announcement/)
 * [モナドオリンピック1-トラック競技-](https://zenn.dev/autotaker/articles/monad-olympic-1-pure)
+* [Functors and Monads For People Who Have Read Too Many "Tutorials" - iRi](http://www.jerf.org/iri/post/2958)
 
 ```haskell
 do x <- mx
