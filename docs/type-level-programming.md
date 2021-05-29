@@ -143,6 +143,7 @@
 * [An introduction to typeclass metaprogramming](https://lexi-lambda.github.io/blog/2021/03/25/an-introduction-to-typeclass-metaprogramming/)
 * [Type Families in Haskell: The Definitive Guide](https://serokell.io/blog/type-families-haskell)
 * [Haskell for all: How to replace Proxy with AllowAmbiguousTypes](https://www.haskellforall.com/2021/04/how-to-replace-proxy-with.html)
+* [Design for Dependent Types - ghc-proposals](https://github.com/ghc-proposals/ghc-proposals/blob/master/proposals/0378-dependent-type-design.rst)
 
 ```haskell
 data Bottom
