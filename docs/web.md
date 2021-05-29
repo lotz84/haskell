@@ -113,6 +113,7 @@ Front end
 * [pkamenarsky/replica: A remote virtual DOM library for Haskell](https://github.com/pkamenarsky/replica)
 * [Bring your Haskell Types to Reason](https://www.stackbuilders.com/news/bring-your-haskell-types-to-reason)
 * [Building a web app with functional programming - Haskell - part I · PatchGirl](https://blog.patchgirl.io/haskell/2020/03/08/haskell-part-I.html)
+* [Shpadoinkle](https://shpadoinkle.org/)
 
 Haskell to JavaScript compiler
 ------------------------------
