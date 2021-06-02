@@ -285,3 +285,4 @@ Stack開発の知見が集められたライブラリ
 * [obsidiansystems/haveibeenpwned: Haskell library that uses HIBP to evaluate passwords](https://github.com/obsidiansystems/haveibeenpwned)
 * [Separate Your Views; Reify Your Reasoning :: Reasonably Polymorphic](https://reasonablypolymorphic.com/blog/separate-your-views-reify-your-reasoning/)
 * [Haskell for all: Module organization guidelines for Haskell projects](https://www.haskellforall.com/2021/05/module-organization-guidelines-for.html)
+* [Blockly for Haskell](http://ymir.eng.kagawa-u.ac.jp/~sano/haskell.html)
