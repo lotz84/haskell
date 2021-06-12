@@ -51,6 +51,7 @@
 * [Neil Mitchell's Haskell Blog: Haskell exceptions and FFI wrappers](https://neilmitchell.blogspot.jp/2017/11/haskell-exceptions-and-ffi-wrappers.html)
 * [Haskellのassertを文っぽく使う - Qiita](https://qiita.com/mod_poppo/items/b3b415ea72eee210d222)
 * [Default exception handler in Haskell · taylor.fausak.me](https://taylor.fausak.me/2021/04/03/default-exception-handler-in-haskell/)
+* [It's not a no-op to unmask an interruptible operation](https://github.com/effectfully-ou/sketches/tree/a2db26a23946e816d010549f3cf5fe7be58d775d/restore-interruptible)
 
 ## Checked+Pure
 * [ERRORS AND EXCEPTIONS IN HASKELL](http://www.stackbuilders.com/news/errors-and-exceptions-in-haskell)
