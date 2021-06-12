@@ -79,3 +79,4 @@
 * [cohomolo-gy/haskell-resources: A List of Foundational Haskell Papers](https://github.com/cohomolo-gy/haskell-resources)
 * [Haskell - Read Me](https://crypto.stanford.edu/~blynn/haskell/papers.html)
 * [saurabhkukade/haskell_study: Collections of papers and books about Haskell, Type Theory and Category Theory](https://github.com/saurabhkukade/haskell_study)
+* [The Voids Of Haskell](https://github.com/graninas/The-Voids-Of-Haskell/tree/9b401e33af37f991dcb3ab2eedc023661237d845)
