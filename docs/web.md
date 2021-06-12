@@ -364,6 +364,7 @@ Web Application Framework
 * [Read you a Scotty](http://devanla.com/read-you-a-scotty.html)
 * [Building a Blog Part 2: Creating an HTTP API with Scotty and Beam](https://gaumala.com/posts/2018-09-12-creating-an-http-api-with-scotty-and-beam.html)
 * [HaskellとScottyで簡単にAPIを構築する - Qiita](https://qiita.com/toru0408/items/db417dc7f761d00839eb)
+* [Getting started with Haskell projects using Scotty - Tutorials](https://www.stackbuilders.com/tutorials/haskell/getting-started-with-haskell-projects-using-scotty/)
 
 ### Spock
 * [Spock Web Framework](https://www.spock.li/)
