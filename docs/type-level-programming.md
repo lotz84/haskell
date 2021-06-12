@@ -190,6 +190,7 @@ data HList (as :: [*]) where
 * [「混ぜられない数」をHaskell/GHCの型を使って手軽につくる - Qiita](https://qiita.com/takenobu-hs/items/14101cabf313e6d594ca)
 * [articles/tag-dont-type.md at master · quchen/articles](https://github.com/quchen/articles/blob/master/tag-dont-type.md)
 * [Tagged is not a Newtype \| Freckle Education](https://tech.freckle.com/2020/10/26/tagged-is-not-a-newtype/)
+* [Phantom Types and Globbing Bugs \| pbrisbin dot com](https://pbrisbin.com/posts/phantom-types-and-globbing-bugs/)
 
 ```haskell
 data Circle
