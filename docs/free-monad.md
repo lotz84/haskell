@@ -179,6 +179,7 @@ yoneda f = Natural $ \ax -> fmap ax f
 * [Introduction to Tagless Final - Serokell](https://serokell.io/blog/2018/12/07/tagless-final)
 * [Magnus web site \| Random stuff](http://magnus.therning.org/posts/2019-02-02-000-the-readert-design-pattern-or-tagless-final-.html)
 * [Tagless Final Encoding in Haskell](https://jproyo.github.io/posts/2019-03-17-tagless-final-haskell.html)
+* [Final tagless encodings have little to do with typeclasses – Foxhound Systems](https://www.foxhound.systems/blog/final-tagless/)
 
 ## Trees that grow
 * [続くといいな日記 – type family を使って再帰的 ADT をオープンにする](https://mizunashi-mana.github.io/blog/posts/2019/11/trees-that-grow/)
