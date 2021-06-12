@@ -128,6 +128,7 @@ class (Functor t, Foldable t) => Traversable t where
 * [Applicative Sorting](http://elvishjerricco.github.io/2017/03/23/applicative-sorting.html)
 * [treeowl/sort-traversable - Sort any Traversable container](https://github.com/treeowl/sort-traversable)
 * [Icicle Lang - Traversals as Optimisations](https://icicle-lang.github.io/posts/2020-09-04-traversals-for-optimisations.html)
+* [Traversable のための圏論](https://github.com/Hexirp/blog/blob/6fef85f770d050c39cd9120d50b93f3fafd5e06e/2019-01-24_Category_Theory_for_Traversable.rst)
 
 #### Distributive
 Distributive is the categorical dual of Traversable.
