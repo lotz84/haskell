@@ -321,6 +321,7 @@ ghcupは2020/5/9時点ではWindowsに対応していないので注意してく
 * [Tweag I/O - Bazel, Cabal, Stack: Why choose when you can have them all?](https://www.tweag.io/posts/2019-10-09-bazel-cabal-stack.html)
 * [Casa: Content-Addressable Storage Archive](https://tech.fpcomplete.com/blog/casa)
 * [Casa and Stack](https://tech.fpcomplete.com/blog/casa-and-stack)
+* [a stacker does cabal · tonyday567](https://tonyday567.github.io/posts/burning/)
 
 ### Nix integration
 * [Nix integration - The Haskell Tool Stack](https://docs.haskellstack.org/en/stable/nix_integration/)
