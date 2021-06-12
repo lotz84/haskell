@@ -554,6 +554,9 @@ Web Application Framework
 * [Vagrant仮想環境に Yesod-MySQL をインストール - Qiita](https://qiita.com/rs06042/items/5424538a5769c51fab3c)
 * [Yesodにserversession-backend-redisを組み込んで動かしてみたのでメモしておく - Qiita](https://qiita.com/masaki_shoji/items/08aa50e6d36cbba7e49e)
 
+### IHP
+* [IHP: Integrated Haskell Platform, a batteries-included web framework built on purely functional programming technologies](https://ihp.digitallyinduced.com/ShowPost?postId=61330a2d-1b66-4aa3-8f46-d75373b37def)
+
 Protocol
 --------
 * [Representing an RPC API](http://petterbergman.se/api.html)
