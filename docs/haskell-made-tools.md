@@ -192,6 +192,7 @@ root
 * <http://pandoc.org/>
 * [Convert documents (doc, odt, html, epub, etc.) in Shell with pandoc](https://www.youtube.com/watch?v=BkTYHChkDoE)
 * [An AsciiDoc processor and Pandoc front-end in Haskell - Tweag](https://www.tweag.io/blog/2021-06-15-asciidoc-haskell-pandoc/)
+* [Past and Present of Haskell: Interview with Simon Peyton Jones - Twitch](https://www.twitch.tv/videos/1052714670)
 
 ### PaperBoy
 - [2mol/pboy: a small .pdf management tool with a command-line UI](https://github.com/2mol/pboy)
