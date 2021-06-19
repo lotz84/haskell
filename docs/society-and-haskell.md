@@ -63,6 +63,8 @@
 * [Typeable Blog - Why do I think Haskell is a good choice in regards to Software Security?](https://blog.typeable.io/posts/2021-05-31-haskell-security.html)
 * [Introducing Haskell in Soisy](http://marcosh.github.io/post/2021/06/04/introducing-haskell-in-soisy.html)
 * [Why I Support the Haskell Foundation \| by Chris Smith \| Jun, 2021 \| Medium](https://cdsmithus.medium.com/why-i-support-the-haskell-foundation-1ac3cda1f82f)
+* [Past and Present of Haskell: Interview with Simon Peyton Jones - Twitch](https://www.twitch.tv/videos/1052714670)
+* [Start your next career in Haskell and find your next Haskell job today](https://haskell.careers/)
 
 ## コミュニティ
 * [Haskell Communities and Activities Report](https://wiki.haskell.org/Haskell_Communities_and_Activities_Report)
