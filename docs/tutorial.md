@@ -224,6 +224,7 @@ sieve (p:xs) = p : sieve [x | x <- xs, x `mod` p /= 0]
 
 * [The Genuine Sieve of Eratosthenes](http://www.cs.hmc.edu/~oneill/papers/Sieve-JFP.pdf)
 * [Haskell programmers are liars](http://www.garrisonjensen.com/2015/05/13/haskell-programs-are-lies.html)
+* [The Genuine Sieve of Eratosthenes \| Patterns in Functional Programming](https://patternsinfp.wordpress.com/2021/05/10/the-genuine-sieve-of-eratosthenes/)
 </details>
 
 ----
