@@ -277,6 +277,7 @@
 * [動的配列の無難なHaskell実装 - モナドとわたしとコモナド](https://fumieval.hatenablog.com/entry/2020/12/18/214626)
 * [Haskell base proposal: unifying vector-like types](https://www.snoyman.com/blog/2021/03/haskell-base-proposal/)
 * [Haskell base proposal, part 2: unifying vector-like types](https://www.snoyman.com/blog/2021/03/haskell-base-proposal-2/)
+* [rrb-vector: Efficient RRB-Vectors](https://hackage.haskell.org/package/rrb-vector)
 
 ## 木
 * [Haskell Tutorial: Implementing highly efficient data structures with Monoids and Fingertrees](https://www.codementor.io/haskell/tutorial/monoids-fingertrees-implement-abstract-data)
