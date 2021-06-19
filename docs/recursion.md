@@ -38,6 +38,7 @@ main = print (sum [1..10])
 * [Travis Athougies - Dynamic Programming in Haskell is Just Recursion](http://travis.athougies.net/posts/2018-05-05-dynamic-programming-is-recursion.html)
 * [不動点コンビネータで無名再帰を作る流れをおさらい - Qiita](https://qiita.com/todays-mitsui/items/a1cd29974ced3f011515)
 * [Haskell でループする - Qiita](https://qiita.com/tim-semba/items/ad2b940d74a098403f92)
+* [Rebecca Skinner - The Fixed Point](https://rebeccaskinner.net/posts/2021-06-09-getting-to-the-fixed-point.html)
 
 ## map, filter, foldr
 
