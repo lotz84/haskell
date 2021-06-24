@@ -84,6 +84,7 @@
 * [How to use Hedgehog to test a real world, large scale, stateful app – jacobstanley.io](https://jacobstanley.io/how-to-use-hedgehog-to-test-a-real-world-large-scale-stateful-app/)
 * [5 tips for better Hedgehog tests – jacobstanley.io](https://jacobstanley.io/5-tips-for-better-hedgehog-tests/)
 * [Testing Haskell code with Stack, Ghcid and Hspec · PatchGirl](https://blog.patchgirl.io/haskell/2020/08/02/testing-haskell-with-stack-ghcid-and-hspec.html)
+* [HMock: First Rate Mocks in Haskell \| by Chris Smith \| Jun, 2021 \| ITNEXT](https://itnext.io/hmock-first-rate-mocks-in-haskell-e59d7c3b066c)
 
 ### Property Testing
 * [How can I test a higher-order function using QuickCheck?](http://stackoverflow.com/questions/9686665/how-can-i-test-a-higher-order-function-using-quickcheck)
