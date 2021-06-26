@@ -67,6 +67,7 @@
 * [Start your next career in Haskell and find your next Haskell job today](https://haskell.careers/)
 * [How to move a 400-person hackathon online - juricho.me](https://www.juricho.me/posts/online-hackathon/)
 * [Haskell and the elegant attack. · tonyday567](https://tonyday567.github.io/posts/avoid/)
+* [willbasky/Awesome-list-of-Haskell-mentors: An amazing list of Haskell developers who would like to mentor beginner-contributors in open source projects.](https://github.com/willbasky/Awesome-list-of-Haskell-mentors)
 
 ## コミュニティ
 * [Haskell Communities and Activities Report](https://wiki.haskell.org/Haskell_Communities_and_Activities_Report)
