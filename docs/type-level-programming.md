@@ -146,6 +146,7 @@
 * [Design for Dependent Types - ghc-proposals](https://github.com/ghc-proposals/ghc-proposals/blob/master/proposals/0378-dependent-type-design.rst)
 * [Using dependent types to write proofs in Haskell \| Ascetic Slug](https://janmasrovira.gitlab.io/ascetic-slug/post/haskell-proofs/)
 * [Associated Types In Two Different Ways - MorrowM](https://morrowm.github.io/posts/2021-06-26-assoc.html)
+* [Do disturb me \| Typed Programs Don't Leak Data](https://dodisturb.me/posts/2021-06-27-Typed-Programs-Dont-Leak-Data.html)
 
 ```haskell
 data Bottom
