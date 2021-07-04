@@ -145,6 +145,7 @@
 * [Haskell for all: How to replace Proxy with AllowAmbiguousTypes](https://www.haskellforall.com/2021/04/how-to-replace-proxy-with.html)
 * [Design for Dependent Types - ghc-proposals](https://github.com/ghc-proposals/ghc-proposals/blob/master/proposals/0378-dependent-type-design.rst)
 * [Using dependent types to write proofs in Haskell \| Ascetic Slug](https://janmasrovira.gitlab.io/ascetic-slug/post/haskell-proofs/)
+* [Associated Types In Two Different Ways - MorrowM](https://morrowm.github.io/posts/2021-06-26-assoc.html)
 
 ```haskell
 data Bottom
