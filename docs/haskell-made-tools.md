@@ -184,7 +184,10 @@ root
 - [u2zv1wx/neut: A dependently-typed programming language with compile-time malloc/free determination](https://github.com/u2zv1wx/neut)
 
 ### ngless
-- [luispedro/ngless: NGLess: NGS with less work](https://github.com/luispedro/ngless)
+* [luispedro/ngless: NGLess: NGS with less work](https://github.com/luispedro/ngless)
+
+### Osabe
+* [osabe - open-source audio-book editor](https://www.osabe.app/)
 
 ### Pandoc
 * ドキュメントを別の形式のドキュメントに変換できるコマンド
