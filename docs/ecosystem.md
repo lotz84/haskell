@@ -322,6 +322,7 @@ ghcupは2020/5/9時点ではWindowsに対応していないので注意してく
 * [Casa: Content-Addressable Storage Archive](https://tech.fpcomplete.com/blog/casa)
 * [Casa and Stack](https://tech.fpcomplete.com/blog/casa-and-stack)
 * [a stacker does cabal · tonyday567](https://tonyday567.github.io/posts/burning/)
+* [Chris Dornan - hs](https://chrisdornan.com/posts/2021-07-06-hs.html)
 
 ### Nix integration
 * [Nix integration - The Haskell Tool Stack](https://docs.haskellstack.org/en/stable/nix_integration/)
