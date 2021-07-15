@@ -103,6 +103,7 @@
 * [[1805.06798] Generic Deriving of Generic Traversals](https://arxiv.org/abs/1805.06798)
 * [Lensとは - Qiita](https://qiita.com/sparklingbaby/items/e66f48224067647d8e67)
 * [Declaration groups: where order of declarations suddenly matters in Haskell](https://blog.monadfix.com/th-groups)
+* [レンズの圏論的考察 — Avendia](http://ziphil.com/diary/application/27.html)
 
 > Thus the Yoneda embedding of the functor category leads to the van Laarhoven representation of the lens
 
