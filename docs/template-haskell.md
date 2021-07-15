@@ -1,5 +1,6 @@
 Template Haskell はHaskellの言語仕様には無くGHCの独自拡張なのでGHCのバージョンが変わる毎に仕様も変わる可能性があるので注意
 
+* [A Brief Introduction to Template Haskell](https://serokell.io/blog/introduction-to-template-haskell)
 * [7.17. Template Haskell](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/template-haskell.html)
 * [Template Haskell Is Not Scary](http://www.parsonsmatt.org/programming/2015/11/15/template_haskell.html)
 * [Template Haskell](https://wiki.haskell.org/Template_Haskell)
