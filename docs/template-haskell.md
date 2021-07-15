@@ -33,6 +33,7 @@ Template Haskell はHaskellの言語仕様には無くGHCの独自拡張なの�
 * [Tweag - A tale of Template Haskell and cross compilation](https://www.tweag.io/blog/2020-11-25-asterius-th/)
 * [Haskell doesn't have macros](https://chrisdone.com/posts/haskell-doesnt-have-macros/)
 * [Tweag - Haskell dark arts, part I: importing hidden values](https://www.tweag.io/blog/2021-01-07-haskell-dark-arts-part-i/)
+* [Template Haskell Performance Tips](https://www.parsonsmatt.org/2021/07/12/template_haskell_performance_tips.html)
 
 ```haskell
 {-# LANGUAGE QuasiQuotes #-}
