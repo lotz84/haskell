@@ -74,6 +74,7 @@
 * [Haskell for all: Record constructors](http://www.haskellforall.com/2020/07/record-constructors.html)
 * [The Halting Problem (part 1)](https://boarders.github.io/posts/halting1.html)
 * [HGeometry](https://hgeometry.org/)
+* [Cast Haskell values with Witch · taylor.fausak.me](https://taylor.fausak.me/2021/07/13/witch/)
 
 ## Hackage
 * [The grid package](http://hackage.haskell.org/package/grid)
