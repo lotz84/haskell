@@ -86,6 +86,7 @@
 * [Graphics in Haskell: linear algebra](https://das.li/articles/linear.html)
 * [HaskellでもDirectX12したい！ - Qiita](https://qiita.com/Pctg-x8/items/37bb2a15d33bbe82ceb8)
 * [dmjio/LearnOpenGL.hs: LearnOpenGL.com examples ported to Haskell](https://github.com/dmjio/LearnOpenGL.hs)
+* [EgorDm/fp-pacman: Retro Pacman game in Haskell](https://github.com/EgorDm/fp-pacman)
 
 ## Gloss
 * [gloss](http://hackage.haskell.org/package/gloss)
