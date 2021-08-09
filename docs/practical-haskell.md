@@ -287,3 +287,4 @@ Stack開発の知見が集められたライブラリ
 * [Separate Your Views; Reify Your Reasoning :: Reasonably Polymorphic](https://reasonablypolymorphic.com/blog/separate-your-views-reify-your-reasoning/)
 * [Haskell for all: Module organization guidelines for Haskell projects](https://www.haskellforall.com/2021/05/module-organization-guidelines-for.html)
 * [Blockly for Haskell](http://ymir.eng.kagawa-u.ac.jp/~sano/haskell.html)
+* [Static analysis using Haskell and Datalog](https://luctielen.com/posts/static_analysis_using_haskell_and_datalog/)
