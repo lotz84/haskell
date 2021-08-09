@@ -8,7 +8,6 @@
 * [What Are Impredicative Types?](http://jozefg.bitbucket.org/posts/2014-12-23-impredicative.html)
 * [A SIMPLE PROBLEM WITH RECURSIVE TYPES AND SUBTYPING](https://noamlewis.wordpress.com/2015/06/02/a-simple-problem-with-recursive-types-and-subtyping/)
 * [Haskellのforallについて理解したことを書いておく(ランクN多相限定)。](http://uehaj.hatenablog.com/entry/2014/01/23/121923)
-* [Existentials and the heterogenous list fallacy](http://chrisdone.com/posts/existentials)
 * [Is there a function to flatten a nested list of elements?](http://stackoverflow.com/questions/5994051/is-there-a-function-to-flatten-a-nested-list-of-elements)
 * [TYPE COMPREHENSION](https://elvishjerricco.wordpress.com/2015/08/08/type-comprehension/)
 * [k0001/exinst](https://github.com/k0001/exinst/blob/master/exinst/README.md)
@@ -31,7 +30,6 @@
 * [型レベルで平衡が保証される探索木](http://qiita.com/YoshikuniJujo/items/a7b9f53516d4fd52e1b4)
 * [Filling Haskell's Type Holes Like It's Agda](http://begriffs.com/posts/2015-02-07-haskell-type-holes.html)
 * [siddharthist/CoverTranslator](https://github.com/siddharthist/CoverTranslator) - A tool for formally verifying Haskell code in Agda
-* [Sound and Complete Bidirectional Typechecking for Higher-Rank Polymorphism with Existentials and Indexed Types](http://arxiv.org/abs/1601.05106)
 * [Dimensional - Douglas McClean - Boston Haskell](https://www.youtube.com/watch?v=-Kz7SYZNoUU&feature=youtu.be)
 * [Promoting the arrow type](https://alexvieth.wordpress.com/2016/01/28/promoting-the-arrow-type/)
 * [100 Days of Fibonacci - Day 9, Haskell Types](http://buchi.dk/blog/100-days-of-fibonacci-day-9-haskell-types/)
@@ -56,10 +54,8 @@
 * [sheyll/pretty-types](https://github.com/sheyll/pretty-types)
 * [This post shows how to use the Liar paradox to prove that that Haskell is inconsistent without using recursive terms.](http://cs.unm.edu/~stelleg/liar.html)
 * [たのしい型レベルプログラミング](http://philopon.github.io/kansaifp-3-3/#/1)
-* [Haskell/存在量化された型](https://ja.wikibooks.org/wiki/Haskell/%E5%AD%98%E5%9C%A8%E9%87%8F%E5%8C%96%E3%81%95%E3%82%8C%E3%81%9F%E5%9E%8B)
 * [Quotient Types for Programmers](http://www.hedonisticlearning.com/posts/quotient-types-for-programmers.html)
 * [Kris Jenkins - Types All The Way Down](https://www.youtube.com/watch?v=sh4H8yzXnvw&feature=youtu.be)
-* [Proxies and Delegation vs. Existential Types](http://notes-on-haskell.blogspot.jp/2007/01/proxies-and-delegation-vs-existential.html)
 * [NLambda](http://www.mimuw.edu.pl/~szynwelski/nlambda/doc/)
 * [Scrap Your Constructors: Church Encoding Algebraic Types](http://programmable.computer/posts/church_encoding.html)
 * [Theorem Prover Haskellの紹介](http://myuon-myon.hatenablog.com/entry/2016/12/01/221636)
@@ -79,7 +75,6 @@
 * [Verifying Data Structures in Haskell - Donnacha Oisín Kidney](http://doisinkidney.com/posts/2017-04-23-verifying-data-structures-in-haskell-lhs.html)
 * [Type Level Merge Sort (Haskell)](https://www.athiemann.net/2017/08/31/mergesort.html)
 * [Type Tac Toe: Advanced Type Safety](http://chrispenner.ca/posts/type-tac-toe)
-* [Existential Quantification Patterns and Antipatterns](https://medium.com/@jonathangfischoff/existential-quantification-patterns-and-antipatterns-3b7b683b7d71)
 * [GHCのforallと多相性への対処 - Qiita](https://qiita.com/ruicc/items/0818dd093349b0b0a838)
 * [Computing with Impossible Types](http://gelisam.blogspot.jp/2017/11/computing-with-impossible-types.html)
 * [Constructing Dependent Vectors](https://ipfs.io/ipfs/QmT9BRYANsGddN52eMsC3JGNwStbda5h8Zirm2gCmyjb8p/blog/constructing-vectors/)
@@ -100,7 +95,6 @@
 * [Verified AVL Trees in Haskell and Agda - Donnacha Oisín Kidney](https://doisinkidney.com/posts/2018-07-30-verified-avl.html)
 * [Typesafe Versioned APIs](https://chrispenner.ca/posts/typesafe-api-versioning)
 * [jaspervdj - Dependent Types in Haskell: Binomial Heaps 101](https://jaspervdj.be/posts/2018-09-04-binomial-heaps-101.html)
-* [Existential quantification](https://markkarpov.com/post/existential-quantification.html)
 * [Parsing type-level strings in Haskell](https://kcsongor.github.io/symbol-parsing-haskell/)
 * [RankNTypes と型レベルリストと extensible - Qiita](https://qiita.com/waddlaw/items/b49e9daa02b2d254fba3)
 * [Typeable — A long journey to type-safe dynamic type representation](https://medium.com/@hgiasac/typeable-a-long-journey-to-type-safe-dynamic-type-representation-9070eac2cf8b)
@@ -213,6 +207,14 @@ circum (Circle _ _ r) = …
 
 <https://www.reddit.com/r/haskell/comments/2jsz4t/function_on_a_single_member_of_a_sum_type/clevra9>
 
+## 存在型
+* [`forall`s in Data Types – Brandon Chinn](https://brandonchinn178.github.io/blog/2021/07/23/foralls-in-data-types.html)
+* [Haskell/存在量化された型](https://ja.wikibooks.org/wiki/Haskell/%E5%AD%98%E5%9C%A8%E9%87%8F%E5%8C%96%E3%81%95%E3%82%8C%E3%81%9F%E5%9E%8B)
+* [Existentials and the heterogenous list fallacy](http://chrisdone.com/posts/existentials)
+* [Existential Quantification Patterns and Antipatterns](https://medium.com/@jonathangfischoff/existential-quantification-patterns-and-antipatterns-3b7b683b7d71)
+* [Proxies and Delegation vs. Existential Types](http://notes-on-haskell.blogspot.jp/2007/01/proxies-and-delegation-vs-existential.html)
+* [Existential quantification](https://markkarpov.com/post/existential-quantification.html)
+
 ## Reflection
 * [The reflection package](https://hackage.haskell.org/package/reflection)
 * [Lost in Technopolis - A case of reflection](http://newartisans.com/2017/02/a-case-of-reflection/)
@@ -290,8 +292,6 @@ circum (Circle _ _ r) = …
 * [A type theory based on indexed equality - Implementation](http://twanvl.nl/blog/hott/indexed-equality-implementation)
 * [Dependent types in Haskell: Progress Report \| Types and Kinds](https://typesandkinds.wordpress.com/2016/07/24/dependent-types-in-haskell-progress-report/)
 * [Induction is Not Derivable in Second Order Dependent Type Theory](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.26.957)
-* [Practical Dependent Types in Haskell: Type-Safe Neural Networks (Part 1)](https://blog.jle.im/entry/practical-dependent-types-in-haskell-1.html)
-* [Practical Dependent Types in Haskell 2: Existential Neural Networks and Types at Runtime](https://blog.jle.im/entry/practical-dependent-types-in-haskell-2.html)
 * [The Influence of Dependent Types -- Stephanie Weirich - YouTube](https://www.youtube.com/watch?v=GgD0KUxMaQs)
 * [Dependent Types in Haskell: Theory and Practice](https://arxiv.org/abs/1610.07978)
 * [A specification for dependent types in Haskell](http://dl.acm.org/citation.cfm?id=3110275)
