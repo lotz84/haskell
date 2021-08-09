@@ -464,3 +464,4 @@ instance Eval' Hole where
 * [Haskellの種(kind)について (Part 2)](https://haskell.jp/blog/posts/2017/13-about-kind-system-part2.html)
 * [Haskell's kind system - a primer · dcastro](https://diogocastro.com/blog/2018/10/17/haskells-kind-system-a-primer/)
 * [Kind Inference for Datatypes](https://richarde.dev/papers/2019/kind-inference/kind-inference.pdf)
+* [GHC curiosities: Equality constraints in kinds - Ryan Scott](https://ryanglscott.github.io/2021/08/01/equality-constraints-in-kinds/)
