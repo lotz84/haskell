@@ -3,6 +3,7 @@
 * [GHC 8.2 以前で FFI を使う際に注意すること - Qiita](https://qiita.com/thimura/items/0d289c231f9aceac61dc)
 * [libdw で遊ぶ - Qiita](https://qiita.com/thimura/items/632be5385fc7eb1ef4bf)
 * [How to use Foreign Function Interface with Stack: Part I](https://medium.com/@sbarr_67566/how-to-use-foreign-function-interface-with-stack-part-i-9ca1074c7fb)
+* [Best practices for foreign imports — The Glasgow Haskell Compiler](https://www.haskell.org/ghc/blog/20210709-capi-usage.html)
 
 ## Assembly
 * [Haskellにインラインアセンブリを書く](http://qiita.com/tanakh/items/08c15f6e72dbe2da61a8)
