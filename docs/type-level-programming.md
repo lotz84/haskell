@@ -406,6 +406,7 @@ p_ :: Term arg result => arg -> result
 * [Associated Types and Haskell](http://amixtureofmusings.com/2016/05/19/associated-types-and-haskell/)
 * [Forbidden Haskell Types \| Semantic Dreams](https://semantic.org/post/forbidden-haskell-types/)
 * [Unordered Function Application In Haskell](https://mgsloan.com/posts/unordered-apply/)
+* [Mitchell Vitez](https://vitez.me/counting-cardinalities)
 
 ```haskell
 -- https://www.youtube.com/watch?v=snOBI8PcbMQ
