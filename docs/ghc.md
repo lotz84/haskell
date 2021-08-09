@@ -171,6 +171,7 @@
 * [Hacking on GHC - First Steps - Ben's Blog](https://cptwunderlich.github.io/2021/04/21/ghc-hacking-first-steps.html)
 * [SSA transformation for GHC's native code generator (Part 2) - Ben's Blog](https://cptwunderlich.github.io/2021/04/30/ssa_for_ncg_part2.html)
 * [The tale of keepAlive# — The Glasgow Haskell Compiler](https://www.haskell.org/ghc/blog/20210607-the-keepAlive-story.html)
+* [Towards system profiler support for GHC - Well-Typed: The Haskell Consultants](https://well-typed.com/blog/2021/07/ghc-sp-profiling/)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
