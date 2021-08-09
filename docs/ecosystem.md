@@ -26,6 +26,8 @@ $ brew install haskell-stack
 
 のようにbrewを使っていれるのが簡単です。
 
+* [Apple Silicon MacにGHC/cabalを入れるメモ - Qiita](https://qiita.com/mod_poppo/items/894e3b43febb3a909eed)
+
 Windowsの場合は以下の記事が参考になるかもしれません。
 
 * [WindowsでのHaskell開発環境構築(2017年秋版) - モナドとわたしとコモナド](http://fumieval.hatenablog.com/entry/2017/10/11/230117)
