@@ -491,7 +491,10 @@ Most of the stuff here is already unmaintained, but as a tool implementation it 
 * [Haskell ライブラリにスターを送るツール thank-you-stars を作ってみました](http://ccvanishing.hateblo.jp/entry/2017/09/14/150435)
 
 ### ThreadScope
-- [haskell/ThreadScope: A graphical tool for profiling parallel Haskell programs](https://github.com/haskell/ThreadScope)
+* [haskell/ThreadScope: A graphical tool for profiling parallel Haskell programs](https://github.com/haskell/ThreadScope)
+
+### time-ghc-modules
+* [codedownio/time-ghc-modules: Analyze GHC .dump-timings files](https://github.com/codedownio/time-ghc-modules)
 
 ### trackit
 * ファイルやディレクトリの変更を検知してコマンドを実行してくれるツール
