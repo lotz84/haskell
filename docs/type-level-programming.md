@@ -355,6 +355,7 @@ shorten xs = case vecNull' xs of
 * [DataKindsとGADTの使い方について](http://myuon-myon.hatenablog.com/entry/2015/06/14/222142)
 * [Ghostbuster: A Tool for Simplifying and Converting GADTs](http://www.cs.ox.ac.uk/people/timothy.zakian/ghostbuster.pdf)
 * [Problems with GADT and deriving](https://gist.github.com/awalterschulze/4664dcc7b9299bda6f9131663dd54736)
+* [Tying Shoes with GADTs - MorrowM](http://www.morrowm.com/posts/2021-08-02-shoes.html)
 
 ### Multi-parameter type class
 * [Multi-parameter type class](https://wiki.haskell.org/Multi-parameter_type_class)
