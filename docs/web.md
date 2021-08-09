@@ -242,9 +242,6 @@ Web Server
 * [zhangchiqing/beginner-friendly-haskell-for-web-development: A book about real world web development in beginner friendly Haskell](https://github.com/zhangchiqing/beginner-friendly-haskell-for-web-development)
 * [A dead-simple web stack in Haskell \| William Yao](https://williamyaoh.com/posts/2019-11-16-a-dead-simple-web-stack.html)
 * [adventures in uncertainty: Serving HTTP Content with Fused-Effects](https://blog.sumtypeofway.com/posts/serving-http-content-with-fused-effects.html)
-* [Introducing Mu-Haskell v0.1 \| 47 Degrees](https://www.47deg.com/blog/introducing-mu-haskell-0-1/)
-* [IHP: Integrated Haskell Platform, a batteries-included web framework built on purely functional programming technologies](https://ihp.digitallyinduced.com/)
-* [Mu-Haskell: Docs](https://higherkindness.io/mu-haskell/)
 * [Conferer, a configuration library for Haskell](https://blog.10pines.com/2021/03/02/conferer-a-configuration-library-for-haskell/)
 * [The Happstack Book: Modern, Type-Safe Web Development in Haskell](http://happstack.com/docs/crashcourse/index.html)
 * [Transpiling a large PureScript codebase into Haskell, part 1: The pipeline](https://blog.monadfix.com/nau-1-pipeline)
@@ -491,6 +488,8 @@ Web Application Framework
 ### Mu
 * [Mu-Haskell: Docs](https://higherkindness.io/mu-haskell/)
 * [BOB 2021 Alejandro Serrano - Servant vs Mu - YouTube](https://www.youtube.com/watch?v=BCGrtSEGyTA)
+* [Introducing Mu-Haskell v0.1 \| 47 Degrees](https://www.47deg.com/blog/introducing-mu-haskell-0-1/)
+* [Mu-Haskell: Docs](https://higherkindness.io/mu-haskell/)
 
 ### Yesod
 * [Yesod Web Framework](http://www.yesodweb.com/)
@@ -558,6 +557,8 @@ Web Application Framework
 
 ### IHP
 * [IHP: Integrated Haskell Platform, a batteries-included web framework built on purely functional programming technologies](https://ihp.digitallyinduced.com/ShowPost?postId=61330a2d-1b66-4aa3-8f46-d75373b37def)
+* [IHP: Integrated Haskell Platform, a batteries-included web framework built on purely functional programming technologies](https://ihp.digitallyinduced.com/)
+* [Displaying Real-Time Data in Your Web Application Without Hassle: IHP Auto Refresh ✨](https://ihp.digitallyinduced.com/ShowPost?postId=a2d56dc7-d2ba-46a0-a8e7-345741dcbb6b)
 
 Protocol
 --------
