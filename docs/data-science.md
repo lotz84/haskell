@@ -275,6 +275,8 @@ instance Monad Dist where
 * [Haskell - Get a Brain](http://www-cs-students.stanford.edu/~blynn//haskell/brain.html) - Let’s build a neural network from scratch.
 * [refactoring-neural-network](http://h2.jaguarpaw.co.uk/posts/refactoring-neural-network/)
 * [mazzo.li – blag – Quick and dirty backpropagation in Haskell](https://mazzo.li/posts/haskell-backprop-short.html)
+* [Practical Dependent Types in Haskell: Type-Safe Neural Networks (Part 1)](https://blog.jle.im/entry/practical-dependent-types-in-haskell-1.html)
+* [Practical Dependent Types in Haskell 2: Existential Neural Networks and Types at Runtime](https://blog.jle.im/entry/practical-dependent-types-in-haskell-2.html)
 
 ## 自然言語処理
 * [Natural Language Processing for the Working Programmer](http://freecomputerbooks.com/books/nlpwp.pdf)
