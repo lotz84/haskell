@@ -24,6 +24,7 @@ Monad Transformer
 * [モナド変換子 (その２:課題を通じてライブラリに触れてみる) - Qiita](https://qiita.com/HirotoShioi/items/ac75b97aa52f9db9c472)
 * [モナド変換子 (その3: 課題の解答) - Qiita](https://qiita.com/HirotoShioi/items/6faaf8babb23bb2f3485)
 * [AceHack-Practical Monad Transformers](https://sakshamsharma.com/2018/03/monadt/)
+* [A brief intro to MTL / Jappie](https://jappieklooster.nl/a-brief-intro-to-mtl.html)
 
 ### MonadControl/MonadTransUnlift
 `MonadTrans`の`lift`がモナドをモナドスタックの中で実行できるようにするのとは逆に、モナドスタックをベースとなるモナドの中で実行する仕組みを提供する。
@@ -96,3 +97,5 @@ Monad Transformer
 * [【Control.Monad.Trans】(5) IOモナド - Qiita](https://qiita.com/sand/items/ee3c19c191c87c32f867)
 * [Monad Transformers and Effects with Backpack](https://blog.ocharles.org.uk/posts/2020-12-23-monad-transformers-and-effects-with-backpack.html)
 * [順を追って理解する MaybeT モナドの使い方](https://zenn.dev/tobi462/articles/4ae7658d126054)
+* [[1604.01184] Eilenberg--Moore Monoids and Backtracking Monad Transformers](https://arxiv.org/abs/1604.01184)
+* [[1207.3208] Formal Verification of Monad Transformers](https://arxiv.org/abs/1207.3208)

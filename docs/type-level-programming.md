@@ -141,6 +141,8 @@
 * [Using dependent types to write proofs in Haskell \| Ascetic Slug](https://janmasrovira.gitlab.io/ascetic-slug/post/haskell-proofs/)
 * [Associated Types In Two Different Ways - MorrowM](https://morrowm.github.io/posts/2021-06-26-assoc.html)
 * [Do disturb me \| Typed Programs Don't Leak Data](https://dodisturb.me/posts/2021-06-27-Typed-Programs-Dont-Leak-Data.html)
+* [[1708.09158] Type Safe Redis Queries: A Case Study of Type-Level Programming in Haskell](https://arxiv.org/abs/1708.09158)
+* [[1706.09715] Constrained Type Families](https://arxiv.org/abs/1706.09715)
 
 ```haskell
 data Bottom
@@ -241,6 +243,7 @@ circum (Circle _ _ r) = …
 * [A reckless introduction to Hindley-Milner type inference](http://reasonableapproximation.net/2019/05/05/hindley-milner.html)
 * [Tripping up type inference – ( )](https://kcsongor.github.io/ambiguous-tags/)
 * [[Haskell] asTypeOf の使い方と仕組み](https://zenn.dev/tobi462/articles/9010e7d9c4f759)
+* [[1911.06153] Kind Inference for Datatypes: Technical Supplement](https://arxiv.org/abs/1911.06153)
 
 ## Parametricity
 * [Theorems for free!](http://www.cs.sfu.ca/CourseCentral/831/burton/Notes/July14/free.pdf)
@@ -303,6 +306,8 @@ circum (Circle _ _ r) = …
 * [liftAN - Donnacha Oisín Kidney](https://doisinkidney.com/snippets/nary-uncurry.html)
 * [Visible dependent quantification in Haskell - Ryan Scott](https://ryanglscott.github.io/2019/03/15/visible-dependent-quantification-in-haskell/)
 * [Dependently typed Haskell in industry (experience report)](https://dl.acm.org/citation.cfm?id=3341704)
+* [[1610.07978] Dependent Types in Haskell: Theory and Practice](https://arxiv.org/abs/1610.07978)
+* [[1905.13706] A Role for Dependent Types in Haskell (Extended version)](https://arxiv.org/abs/1905.13706)
 
 > Why use a dependent pair? A part from more advanced uses such as proof construction, online tutorials cite dependent typing as a way to make programs more correct (e.g., avoiding access to zero sized vector). Others say that dependent types allow to describe more precisely the intended behavior of programs. The way I see it is that they can reduce the combinatorial space of cases to consider when building a function.  
 > [Vittorio Zaccaria - Home page](http://www.vittoriozaccaria.net/#/blog/2018/01/27/what-i-whish-i-knew-haskell-and-dependent-pairs.html)

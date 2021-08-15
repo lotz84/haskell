@@ -34,6 +34,7 @@ LiquidHaskell
 * [Well-Typed - The Haskell Consultants: Implementing a GHC Plugin for Liquid Haskell](https://well-typed.com/blog/2020/08/implementing-a-ghc-plugin-for-liquid-haskell/)
 * [LiquidHaskell](https://ucsd-progsys.github.io/liquidhaskell-blog/2020/08/20/lh-as-a-ghc-plugin.lhs/)
 * [STORM](https://storm-framework.github.io/)
+* [[1806.03541] Functional Pearl: Theorem Proving for All (Equational Reasoning in Liquid Haskell)](https://arxiv.org/abs/1806.03541?utm_source=pocket_mylist)
 
 refined
 -------

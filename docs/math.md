@@ -46,3 +46,5 @@
 * [Understanding Constructive Galois Connections](http://prl.ccs.neu.edu/blog/2016/11/16/understanding-constructive-galois-connections/)
 * [Classical Logic in Haskell - SAOWEN](https://hk.saowen.com/a/1df28680b9dedfb78b3fd547639d1edc0657c838cc79381dac82ceac8fdf97cf)
 * [Cantor Pairing](https://identicalsnowflake.github.io/Cantor.html)
+* [[2002.00188] Intuitionistic Fixed Point Logic](https://arxiv.org/abs/2002.00188)
+* [[2101.11320] Tutorial on implementing Hoare logic for imperative programs in Haskell](https://arxiv.org/abs/2101.11320)

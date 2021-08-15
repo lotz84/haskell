@@ -172,6 +172,8 @@
 * [SSA transformation for GHC's native code generator (Part 2) - Ben's Blog](https://cptwunderlich.github.io/2021/04/30/ssa_for_ncg_part2.html)
 * [The tale of keepAlive# — The Glasgow Haskell Compiler](https://www.haskell.org/ghc/blog/20210607-the-keepAlive-story.html)
 * [Towards system profiler support for GHC - Well-Typed: The Haskell Consultants](https://well-typed.com/blog/2021/07/ghc-sp-profiling/)
+* [[1806.03476] Type variables in patterns](https://arxiv.org/abs/1806.03476)
+* [Testing an Optimising Compiler by Generating Random Lambda Terms](https://publications.lib.chalmers.se/records/fulltext/157525.pdf)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)

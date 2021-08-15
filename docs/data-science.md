@@ -150,6 +150,7 @@ SVGを扱うためのライブラリ
 * [Linear Algebra of Types - Hey There Buddo!](http://www.philipzucker.com/linear-algebra-of-types/)
 * [テンソル形状のコンパイル時検査＋実行時アサーション化を今のHaskellで書いてみる - Qiita](https://qiita.com/masahiro_sakai/items/c48c688d1b8d47d2a5f1)
 * [HaskellからBLASを叩く - Qiita](https://qiita.com/mod_poppo/items/625677a12ca42aca22e1)
+* [[1605.02532] HLinear: Exact Dense Linear Algebra in Haskell](https://arxiv.org/abs/1605.02532)
 
 ## 確率
 * [プログラミングのための確率統計 in Haskell](http://note.golden-lucky.net/2010/12/1-2-3-4-5-6-16-16-16-16-16-16-246-135.html)
@@ -256,6 +257,7 @@ instance Monad Dist where
 * [Generating Simple Haskell Programs With Deep Learning](http://www.samcoope.com/posts/deep_code_generation)
 * [Variational Autoencoders in Haskell, or: How I Learned to Stop Worrying and Turn My Friends Into Dogs – Declan's learnin' nook](https://www.declanoller.com/2019/11/15/variational-autoencoders-in-haskell-or-how-i-learned-to-stop-worrying-and-turn-my-friends-into-dogs/)
 * [MuniHac 2020: Austin Huang - Hasktorch: Differentiable Functional Programming in Haskell - YouTube](https://www.youtube.com/watch?v=Qu6RIO02m1U&list=PLxxF72uPfQVTfDksvV4KPV5CxKnf0d_X3&index=14)
+* [conal/talk-2018-deep-learning-rebooted: Invited talk for Summer BOB 2019 in Berlin](https://github.com/conal/talk-2018-deep-learning-rebooted)
 
 ### Neural Network
 * [jbarrow/LambdaNet](https://github.com/jbarrow/LambdaNet)

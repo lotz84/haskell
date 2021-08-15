@@ -100,3 +100,4 @@
 * [圏論における普遍性と普遍射 - 再帰の反復blog](https://lemniscus.hatenablog.com/entry/2020/05/10/215316)
 * [Defunctionalization and Freyd’s Theorem \| Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2020/08/03/defunctionalization-and-freyds-theorem/)
 * [Free Theorems!](http://free-theorems.nomeata.de/)
+* [[1403.7760] Categories and all that -- A Tutorial](https://arxiv.org/abs/1403.7760)

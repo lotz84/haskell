@@ -151,7 +151,6 @@
 
 ## 数値
 * [Lazy unary numbers](http://www.edofic.com/posts/2015-05-03-unary-numbers.html)
-* [Exact Real Arithmetic in Haskell](https://www.youtube.com/watch?v=LJQgYBQFtSE)
 * [backprop: Heterogeneous, type-safe automatic backpropagation in Haskell](http://hackage.haskell.org/package/backprop)
 * [理想の浮動小数点数である「浜田のURR」を理解する - Qiita](https://qiita.com/YoshikuniJujo/items/6e92a82a1d9fdb6a4b5a)
 * [拡張されたユークリッドの互除法](http://qiita.com/bra_cat_ket/items/205c19611e21f3d422b7)
@@ -162,6 +161,12 @@
 * [カプレカ数で遊ぶ - Qiita](https://qiita.com/golden_lucky/items/c7821b5d45aa46193dba)
 * [Capturing Number Theory in Haskell – bor0's blog](https://bor0.wordpress.com/2021/04/05/capturing-number-theory-in-haskell/)
 * [Continued Fractions: Haskell, Equational Reasoning, Property Testing, and Rewrite Rules in Action \| by Chris Smith \| Apr, 2021 \| Medium](https://cdsmithus.medium.com/continued-fractions-haskell-equational-reasoning-property-testing-and-rewrite-rules-in-action-77a16d750e3f)
+* [[1807.11792] Computing Integer Sequences: Filtering vs Generation (Functional Pearl)](https://arxiv.org/abs/1807.11792)
+
+## 実数
+* [Exact Real Arithmetic in Haskell](https://www.youtube.com/watch?v=LJQgYBQFtSE)
+* [[cs/0605058] A Monadic, Functional Implementation of Real Numbers](https://arxiv.org/abs/cs/0605058)
+* [[1904.12763] Logic for exact real arithmetic](https://arxiv.org/abs/1904.12763)
 
 ## 文字列
 * [Haskell String Types](http://www.alexeyshmalko.com/2015/haskell-string-types/)

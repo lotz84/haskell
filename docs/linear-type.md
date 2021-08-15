@@ -30,6 +30,8 @@
 * [Learn just enough about linear types](https://tek.brick.do/64693fb8-39b4-40a5-8762-768009eeed91)
 * [Tweag - linear-base makes writing Linear Haskell easy and fun](https://www.tweag.io/blog/2021-02-10-linear-base/)
 * [HaskellのLinearTypes言語拡張について少し調べた - TSUGULOG](https://yoshitsugu.net/posts/2021-02-13-linear-haskell.html)
+* [[1710.09756] Linear Haskell: practical linearity in a higher-order polymorphic language](https://arxiv.org/abs/1710.09756)
+* [[2103.06127] Linear Constraints](https://arxiv.org/abs/2103.06127)
 
 ## Linear Type as DSL
 * [線形型つきドメイン特化言語 (DSL) を Haskell上に実装する](http://d.hatena.ne.jp/keigoi/20110806/1312604753)

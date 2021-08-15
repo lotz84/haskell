@@ -32,6 +32,8 @@
 * [Merritt Blog - Getting Started with OpenCL in Haskell](https://lancelet.github.io/posts/2017-12-26-opencl-helloworld.html)
 * [ekmett/propagators](https://github.com/ekmett/propagators)
 * [Async Control Flow](https://www.parsonsmatt.org/2021/03/17/async_control_flow.html)
+* [[1803.10670] Deadlock-Free Typestate-Oriented Programming](https://arxiv.org/abs/1803.10670)
+* [[1801.02216] Arrows for Parallel Computation](https://arxiv.org/abs/1801.02216)
 
 ## 並行
 * [CONCURRENT HASKELL IN THE REAL WORLD](https://www.stackbuilders.com/news/concurrent-haskell-in-the-real-world)
@@ -40,6 +42,7 @@
 * [Abstracting Async.Concurrently](http://elvishjerricco.github.io/2016/09/17/abstracting-async-concurrently.html)
 * [rrnewton/haskell-lockfree](https://github.com/rrnewton/haskell-lockfree)
 * [Assume It Worked and Fix Later – Hacker Noon](https://hackernoon.com/assume-it-worked-and-fix-later-8436d18b7ed3)
+* [[1708.02318] Adaptive Lock-Free Data Structures in Haskell: A General Method for Concurrent Implementation Swapping](https://arxiv.org/abs/1708.02318)
 
 ### 軽量スレッド
 * [Haskellで並行化する方法: 6秒かかる処理を3秒にしよう](http://qiita.com/eielh/items/64ba5f0164b89c6c284e)
@@ -80,8 +83,8 @@
 * [TChan vs TQueue: What's the difference?](https://www.parsonsmatt.org/2018/10/12/tchan_vs_tqueue.html)
 * [STMとReal-Time Queueを利用したマルチスレッドズンドコキヨシ - Qiita](https://qiita.com/YoshikuniJujo/items/e9639712a49ac0af2a9a)
 * [Memory](http://www.scs.stanford.edu/14sp-cs240h/slides/memory-slides.html)
-- [Haskell's Missing Concurrency Basics](http://www.snoyman.com/blog/2016/11/haskells-missing-concurrency-basics)
-- [Comparative Concurrency with Haskell](https://www.fpcomplete.com/blog/2016/11/comparative-concurrency-with-haskell)
+* [Haskell's Missing Concurrency Basics](http://www.snoyman.com/blog/2016/11/haskells-missing-concurrency-basics)
+* [Comparative Concurrency with Haskell](https://www.fpcomplete.com/blog/2016/11/comparative-concurrency-with-haskell)
 
 ### Async
 * [async](http://hackage.haskell.org/package/async)
@@ -100,6 +103,10 @@
 * [[ANN] distributed-dataset: A distributed data processing framework in Haskell - Utku Demir](https://utdemir.com/posts/ann-distributed-dataset.html)
 * [Introduction · Capataz](https://romanandreg.gitbooks.io/capataz/content/)
 
+### π計算
+* [[1110.4163] Session Type Inference in Haskell](https://arxiv.org/abs/1110.4163)
+* [[2008.13359] Correctly Implementing Synchronous Message Passing in the Pi-Calculus By Concurrent Haskell's MVars](https://arxiv.org/abs/2008.13359)
+
 ### Raft
 * [chrisnc/tangaroa](https://github.com/chrisnc/tangaroa)
 * [NicolasT/kontiki](https://github.com/NicolasT/kontiki) - An implementation of the Raft consensus protocol
@@ -112,16 +119,19 @@
 * [Estimation of π using distributed computing. Streaming. Transient effects VI](https://www.fpcomplete.com/user/agocorona/estimation-of-using-distributed-computing-streaming-transient-effects-vi-1)
 * [Composing distributed Web applications](https://github.com/agocorona/transient/wiki/Composing--distributed-Web-applications)
 
-### Cloud Haskell
+### Actor model
+* [[1608.02896] A Formal, Resource Consumption-Preserving Translation of Actors to Haskell](https://arxiv.org/abs/1608.02896)
+
+#### Cloud Haskell
 型付けされたメッセージを備えたErlangライクなアクターモデル
 
-- [Cloud Haskell](http://haskell-distributed.github.io/)
-- [Cloud Haskellについて調べてみた - Qiita](https://qiita.com/lotz/items/c049f3a94d913ab6ae1b)
-- [Distributed Systems in Haskell](http://yager.io/Distributed/Distributed.html)
-- [Using Cloud Haskell to write a type-safe distributed chat - Tutorials](https://www.stackbuilders.com/tutorials/haskell/cloud-haskell/)
-- [Session types in Cloud Haskell : haskell](https://www.reddit.com/r/haskell/comments/7g3ckg/session_types_in_cloud_haskell/)
-- [Well-Typed - The Haskell Consultants: A Cloud Haskell Appetiser (Parallel Haskell Digest 11)](http://www.well-typed.com/blog/68/)
-- [Well-Typed - The Haskell Consultants: Communication Patterns in Cloud Haskell (Part 1)](http://www.well-typed.com/blog/71/)
-- [Well-Typed - The Haskell Consultants: Communication Patterns in Cloud Haskell (Part 2)](http://www.well-typed.com/blog/72/)
-- [Well-Typed - The Haskell Consultants: Communication Patterns in Cloud Haskell (Part 3)](http://www.well-typed.com/blog/73/)
-- [Well-Typed - The Haskell Consultants: Communication Patterns in Cloud Haskell (Part 4)](http://www.well-typed.com/blog/74/)
+* [Cloud Haskell](http://haskell-distributed.github.io/)
+* [Cloud Haskellについて調べてみた - Qiita](https://qiita.com/lotz/items/c049f3a94d913ab6ae1b)
+* [Distributed Systems in Haskell](http://yager.io/Distributed/Distributed.html)
+* [Using Cloud Haskell to write a type-safe distributed chat - Tutorials](https://www.stackbuilders.com/tutorials/haskell/cloud-haskell/)
+* [Session types in Cloud Haskell : haskell](https://www.reddit.com/r/haskell/comments/7g3ckg/session_types_in_cloud_haskell/)
+* [Well-Typed - The Haskell Consultants: A Cloud Haskell Appetiser (Parallel Haskell Digest 11)](http://www.well-typed.com/blog/68/)
+* [Well-Typed - The Haskell Consultants: Communication Patterns in Cloud Haskell (Part 1)](http://www.well-typed.com/blog/71/)
+* [Well-Typed - The Haskell Consultants: Communication Patterns in Cloud Haskell (Part 2)](http://www.well-typed.com/blog/72/)
+* [Well-Typed - The Haskell Consultants: Communication Patterns in Cloud Haskell (Part 3)](http://www.well-typed.com/blog/73/)
+* [Well-Typed - The Haskell Consultants: Communication Patterns in Cloud Haskell (Part 4)](http://www.well-typed.com/blog/74/)

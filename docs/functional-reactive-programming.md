@@ -96,3 +96,4 @@
 ## 線形時相論理
 * [Haskell Exists: FRP for free](https://haskellexists.blogspot.jp/2016/01/frp-for-free.html)
   * [Fixing a space leak by copying thunks.](http://haskellexists.blogspot.de/2016/01/fixing-space-leak-by-copying-thunks.html)
+* [Towards a Common Categorical Semantics for Linear-Time Temporal Logic and Functional Reactive Programming - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S157106611200045X)

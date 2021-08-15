@@ -170,6 +170,7 @@ uncurry :: (a -> b -> c) -> (a, b) -> c
 * [apfelmus - The Incomplete Guide to Lazy Evaluation (in Haskell)](https://apfelmus.nfshost.com/articles/lazy-eval.html)
 * [続くといいな日記 – 遅延評価でデバッグが困難になる状況](https://mizunashi-mana.github.io/blog/posts/2020/03/haskell-lazy-debug-problem/)
 * [Being lazy without getting bloated - IOHK Blog](https://iohk.io/en/blog/posts/2020/09/24/being-lazy-without-being-bloated/)
+* [[1502.03216] Simulation in the Call-by-Need Lambda-Calculus with Letrec, Case, Constructors, and Seq](https://arxiv.org/abs/1502.03216)
 
 > One very interesting comparison is that lazy evaluation is to the CPU what garbage collection is to memory.
 
