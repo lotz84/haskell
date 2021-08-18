@@ -324,6 +324,7 @@ instance Monad (Reader e) where
 * [haskell - What's the difference between Monad.Reader and the (->) monads? - Stack Overflow](https://stackoverflow.com/questions/28872981/whats-the-difference-between-monad-reader-and-the-monads)
 * [Deriving the Reader monad from first principles \| William Yao](https://williamyaoh.com/posts/2020-07-19-deriving-reader-monad.html)
 * [順を追って理解する Reader モナドの使い方](https://zenn.dev/tobi462/articles/8190584e7ddc31)
+* [That One Cool Reader Trick](https://blog.cofree.coffee/2021-08-13-that-one-cool-reader-trick/)
 
 ### Writer Monad
 * [Writerを使ってはならない](http://qiita.com/ruicc/items/28b1cd2df215ce724e26)

@@ -33,6 +33,7 @@
   * [Don't Eff It Up](http://reasonablypolymorphic.com/dont-eff-it-up/#/title)
   * [Sandy Maguire: Don't Eff It Up: Free Monads in Action - YouTube](https://www.youtube.com/watch?v=gUPuWHAt6SA)
 * [CaptJakk's Blog - A Practical Introduction to Freer Monads (Eff)](https://captjakk.com/posts/2019-05-12-practical-intro-eff.html)
+* [How Free Monads Yield Extensible Effects](https://blog.cofree.coffee/2021-08-16-how-free-monads-yield-extensible-effects/)
 
 ### Algebraic Effects
 * [Algebraic EffectsとExtensible Effectsの違いってなんや? 関係あんの? - lilyum ensemble](https://nymphium.github.io/2020/03/15/ae-ee.html)

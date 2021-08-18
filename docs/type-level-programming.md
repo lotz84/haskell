@@ -271,6 +271,7 @@ circum (Circle _ _ r) = …
 * [Verifying Effectful Haskell Programs in Coq](https://www-ps.informatik.uni-kiel.de/~sad/haskell2019-preprint.pdf)
 * [Ghosts of Departed Proofs Convenience](https://chrisdone.com/posts/ghost-of-departed-proofs-conveniences/)
 * [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/cpdt.pdf)
+* [Announcing Spectacle-A language for Writing & Checking Formal Specifications in Haskell](https://awakesecurity.com/blog/spectacle-a-language-for-writing-and-checking-formal-specifications-in-haskell/)
 
 ## Dependent Types
 * [Why Dependent Haskell is the Future of Software Development - Serokell](https://serokell.io/blog/2018/12/17/why-dependent-haskell)
