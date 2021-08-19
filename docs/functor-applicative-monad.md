@@ -92,6 +92,8 @@ class Functor f => Applicative f where
 * [関数型プログラミング-Applicativeって何が嬉しいの？- - Qiita](https://qiita.com/masaki_shoji/items/930434432fc3764685ba)
 * [Applicative Programming with Effects](http://www.staff.city.ac.uk/~ross/papers/Applicative.html) / 元論文
 * [Applicative functor - PS](http://mbps.hatenablog.com/entry/2014/07/16/200206) / lax monoidal functor
+* [Applicative Functors with Strings](https://github.com/okomok/strcat/blob/master/out/strapp.pdf)
+* [アプリカティブ関手ってなに？モノイド圏との関係は？調べてみました！ \| 雑記帳](https://blog.miz-ar.info/2018/12/applicative-functor/)
 * [Haskell Applicative Functors Explained Without Words](https://begriffs.com/posts/2013-08-28-weird-symbols-in-their-native-tongue_27.html)
 * [Applicative Archery - The Life Monadic](https://duplode.github.io/posts/applicative-archery.html) / Applicative則
 * [Applicatives in Math vs Code](https://begriffs.com/posts/2015-08-30-applicative-functors.html)
@@ -258,6 +260,8 @@ class Monad m where
 * [Tweag - Qualified do: rebind your do-notation the right way](https://www.tweag.io/blog/2020-07-13-qualified-do-announcement/)
 * [モナドオリンピック1-トラック競技-](https://zenn.dev/autotaker/articles/monad-olympic-1-pure)
 * [Functors and Monads For People Who Have Read Too Many "Tutorials" - iRi](http://www.jerf.org/iri/post/2958)
+* [もう諦めない圏論入門―モノイドからモナドへ― - Qiita](https://qiita.com/norkron/items/aff3ce925edc6be74923)
+* [Monads are just monoids in the category of endofunctors](https://blog.merovius.de/2018/01/08/monads-are-just-monoids.html)
 
 ```haskell
 do x <- mx

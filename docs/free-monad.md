@@ -69,6 +69,8 @@ instance Functor f => Monad (Free f) where
 * [Hierarchical Free Monads: The Most Developed Approach In Haskell (And The Death Of Final Tagless)](https://github.com/graninas/hierarchical-free-monads-the-most-developed-approach-in-haskell/blob/master/README.md)
 * [Hierarchical Free Monads: Mostly Pointless (And The Resurrection Of Final Tagless)](https://github.com/effectfully/sketches/tree/master/hierarchical-free-monads-mostly-pointless)
 * [Regular Effects](https://ec-jones.github.io/regular-effects.html)
+* [圏論におけるFreeモナド - Qiita](https://qiita.com/karrym/items/41cd9facae3a04d97703)
+
 
 ### Coyoneda
 * [Loop School - Coyoneda](http://school.looprecur.com/?video=122708005)

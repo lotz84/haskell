@@ -156,6 +156,10 @@ class Functor g => Distributive g where
 * [Understanding F-Algebras](https://www.schoolofhaskell.com/user/bartosz/understanding-algebras)
 * [Catamorphisms in 15 Minutes!](http://chrislambda.github.io/blog/2014/01/30/catamorphisms-in-15-minutes/)
 * [Finite trees as initial algebra](https://theorylunch.wordpress.com/2013/02/28/finite-trees-as-initial-algebra/)
+* [Fixed points of functors](http://www.pps.univ-paris-diderot.fr/~metayer/PDF/fix.pdf)
+* [A Study of Categories of Algebras and Coalgebras](https://www.andrew.cmu.edu/user/awodey/students/hughes.pdf)
+* [Fundamental Study Universal coalgebra: a theory of systems](http://homepages.cwi.nl/~janr/papers/files-of-papers/universal_coalgebra.pdf)
+* [Coalgebras in functional programming and type theory](http://www.duplavis.com/venanzio/publications/Coalgebras_CMCS_2010.pdf)
 
 ### cata, ana, hylo, para
 * [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire](http://eprints.eemcs.utwente.nl/7281/01/db-utwente-40501F46.pdf)
