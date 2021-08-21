@@ -53,6 +53,8 @@ parse = evalStateT
 * [Parser Combinators: a Walkthrough](https://hasura.io/blog/parser-combinators-walkthrough/)
 * [IPFS on Hackage](https://blog.fission.codes/ipfs-on-hackage/)
 * [Implementing Co, a Small Interpreted Language With Coroutines #1: The Parser \| abhinavsarkar.net](https://abhinavsarkar.net/posts/implementing-co-1/)
+* [Parsers and Builders as Prisms](https://yairchu.github.io/posts/codecs-as-prisms.html)
+* [Elegant AST Parsing and Building with Prisms](https://yairchu.github.io/posts/codecs-as-prisms-asts.html)
 
 #### attoparsec
 * [The attoparsec package](http://hackage.haskell.org/package/attoparsec)

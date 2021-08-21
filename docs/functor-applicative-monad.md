@@ -422,7 +422,6 @@ Reader + Writer + State
 * [続くといいな日記 – GHC IO モナドの中身](https://mizunashi-mana.github.io/blog/posts/2019/05/ghc-io-inside/)
 * [HaskellのファイルIO](http://www.nslabs.jp/haskell-fileio.rhtml)
 * [IO and monads](https://www.seas.upenn.edu/~cis194/fall16/lectures/06-io-and-monads.html)
-* [Haskellのプログラムは '現実世界'を引数にとり、プログラムが影響を与えた'現実世界' を返す純粋関数 - Qiita](https://qiita.com/lambda_funtaro/items/2b157a4ca9fea02f5650)
 * [IO モナドと副作用 - Haskell-jp](https://haskell.jp/blog/posts/2020/io-monad-and-sideeffect.html)
 * [The power of IO in Haskell \| 47 Degrees](https://www.47deg.com/blog/io-haskell/)
 * [How Accursed and Unutterable is accursedUnutterablePerformIO?](https://free.cofree.io/2020/07/20/perform-io/)
