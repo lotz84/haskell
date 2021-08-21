@@ -1,3 +1,5 @@
+# Optics(Lens, Prism, Traversal, ...)
+
 > `Lens' s a`: given a type `s` that always has an `a` in it, a `Lens' s a` is a way of getting and setting that `a` inside of `s`  
 > `Prism' s a`: given a type `s` that might have an `a` in it, a `Prism' s a` is a way of extracting the `a` if it exists, and being able to create an `s` given an `a`  
 > `Traversal' s a`: target many `a`s which may or may not exist inside of an `s`  
