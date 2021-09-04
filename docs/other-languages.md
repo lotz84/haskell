@@ -11,8 +11,13 @@
 * [Calling Haskell from C \| Maths, Stats & Functional Programming](https://idontgetoutmuch.wordpress.com/2017/01/14/calling-haskell-from-c/)
 * [Calling C++ from Haskell](https://luctielen.com/posts/calling_cpp_from_haskell/)
 * [How to use Foreign Function Interface with Stack: Part I](https://medium.com/@sbarr_67566/how-to-use-foreign-function-interface-with-stack-part-i-9ca1074c7fb)
+* * [How to use Foreign Function Interface Part I: Basics \| by Samuel Barr \| Medium](https://medium.com/@sbarr_67566/how-to-use-foreign-function-interface-with-stack-part-i-9ca1074c7fb)
 * [Best practices for foreign imports — The Glasgow Haskell Compiler](https://www.haskell.org/ghc/blog/20210709-capi-usage.html)
 * [Hoppy - C++ FFI Generator for Haskell - khumba.net](http://khumba.net/projects/hoppy/)
+* [6.17. Foreign function interface (FFI) — Glasgow Haskell Compiler 9.0.1 User's Guide](https://downloads.haskell.org/ghc/9.0.1/docs/html/users_guide/exts/ffi.html?highlight=capiffi)
+* [CPlusPlus from Haskell - HaskellWiki](https://wiki.haskell.org/CPlusPlus_from_Haskell)
+* [FFI complete examples - HaskellWiki](https://wiki.haskell.org/FFI_complete_examples)
+* [GHC/Using the FFI - HaskellWiki](https://wiki.haskell.org/GHC/Using_the_FFI)
 
 #### import
 * [FFI使ってC++バインディングに入門](http://mymo.blog8.fc2.com/blog-entry-52.html)
