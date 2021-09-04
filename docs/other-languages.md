@@ -1,26 +1,33 @@
-## FFI
-* [dg.](https://pyos.github.io/dg/)
-* [GHC 8.2 以前で FFI を使う際に注意すること - Qiita](https://qiita.com/thimura/items/0d289c231f9aceac61dc)
-* [libdw で遊ぶ - Qiita](https://qiita.com/thimura/items/632be5385fc7eb1ef4bf)
-* [How to use Foreign Function Interface with Stack: Part I](https://medium.com/@sbarr_67566/how-to-use-foreign-function-interface-with-stack-part-i-9ca1074c7fb)
-* [Best practices for foreign imports — The Glasgow Haskell Compiler](https://www.haskell.org/ghc/blog/20210709-capi-usage.html)
-
 ## Assembly
 * [Haskellにインラインアセンブリを書く](http://qiita.com/tanakh/items/08c15f6e72dbe2da61a8)
 * [Almost Inline ASM in Haskell With Foreign Import Prim - Brandon.Si(mmons)](http://brandon.si/code/almost-inline-asm-in-haskell-with-foreign-import-prim/)
 
 ## C/C++
-### FFI
 * [HaskellのCインターフェースと選定基準](http://qiita.com/masatoko/items/06665400b2ef10a7e2b0)
+
+### FFI(Foreign Function Interface)
+* [8 Foreign Function Interface](https://www.haskell.org/onlinereport/haskell2010/haskellch8.html)[[日本語版](http://www.sampou.org/haskell/haskell2010-report-htja/haskellch8.html)]
+* [Calling Haskell from C](https://wiki.haskell.org/Calling_Haskell_from_C)
+* [Calling Haskell from C \| Maths, Stats & Functional Programming](https://idontgetoutmuch.wordpress.com/2017/01/14/calling-haskell-from-c/)
+* [Calling C++ from Haskell](https://luctielen.com/posts/calling_cpp_from_haskell/)
+* [How to use Foreign Function Interface with Stack: Part I](https://medium.com/@sbarr_67566/how-to-use-foreign-function-interface-with-stack-part-i-9ca1074c7fb)
+* [Best practices for foreign imports — The Glasgow Haskell Compiler](https://www.haskell.org/ghc/blog/20210709-capi-usage.html)
+* [Hoppy - C++ FFI Generator for Haskell - khumba.net](http://khumba.net/projects/hoppy/)
+
+#### import
+* [FFI使ってC++バインディングに入門](http://mymo.blog8.fc2.com/blog-entry-52.html)
+* [HaskellからC言語の「値」や「関数形式マクロ」をお手軽に使うための言語拡張CApiFFI - Qiita](https://qiita.com/YoshikuniJujo/items/bba99f7ff0c4a68d6666)
+* [GHC 8.2 以前で FFI を使う際に注意すること - Qiita](https://qiita.com/thimura/items/0d289c231f9aceac61dc)
+
+#### export
+
+### hsc2hs
+* [haskell/hsc2hs: Pre-processor for .hsc files](https://github.com/haskell/hsc2hs)
+
+### inline-c
 * [inline-c](https://hackage.haskell.org/package/inline-c)
 * [Inline-c：C++のネームスペースやテンプレートの対応について - Qiita](https://qiita.com/junjihashimoto@github/items/62eb9d2dc96569312038)
-* [FFI使ってC++バインディングに入門](http://mymo.blog8.fc2.com/blog-entry-52.html)
-* [Calling Haskell from C](https://wiki.haskell.org/Calling_Haskell_from_C)
-* [language-c-quote](https://hackage.haskell.org/package/language-c-quote)
 * [Using withPtr From inline-c in Haskell](http://two-wrongs.com/using-withptr-from-inline-c-in-haskell)
-* [Calling Haskell from C \| Maths, Stats & Functional Programming](https://idontgetoutmuch.wordpress.com/2017/01/14/calling-haskell-from-c/)
-* [HaskellからC言語の「値」や「関数形式マクロ」をお手軽に使うための言語拡張CApiFFI - Qiita](https://qiita.com/YoshikuniJujo/items/bba99f7ff0c4a68d6666)
-* [Calling C++ from Haskell](https://luctielen.com/posts/calling_cpp_from_haskell/)
 
 ## Erlang VM
 ### Hamler
