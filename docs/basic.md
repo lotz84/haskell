@@ -120,6 +120,7 @@
 * [コピペしてすぐ確認できるHaskellの条件分岐](http://qiita.com/nejimakidori/items/f6aedce6308ce5e32914)
 * [The four simple ways to encode sum-types](https://yairchu.github.io/posts/sum-type-encodings.html)
 * [Pattern matching](https://www.fpcomplete.com/blog/pattern-matching/)
+* [[2108.13114] Embedded Pattern Matching](https://arxiv.org/abs/2108.13114)
 
 ### 多変数関数とカリー化
 * [Curry](https://ro-che.info/ccc/10)
