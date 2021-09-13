@@ -143,6 +143,7 @@
 * [Do disturb me \| Typed Programs Don't Leak Data](https://dodisturb.me/posts/2021-06-27-Typed-Programs-Dont-Leak-Data.html)
 * [[1708.09158] Type Safe Redis Queries: A Case Study of Type-Level Programming in Haskell](https://arxiv.org/abs/1708.09158)
 * [[1706.09715] Constrained Type Families](https://arxiv.org/abs/1706.09715)
+* [haskell-handbook/forall.md at master · wasp-lang/haskell-handbook](https://github.com/wasp-lang/haskell-handbook/blob/master/forall.md)
 
 ```haskell
 data Bottom
@@ -309,6 +310,10 @@ circum (Circle _ _ r) = …
 * [Dependently typed Haskell in industry (experience report)](https://dl.acm.org/citation.cfm?id=3341704)
 * [[1610.07978] Dependent Types in Haskell: Theory and Practice](https://arxiv.org/abs/1610.07978)
 * [[1905.13706] A Role for Dependent Types in Haskell (Extended version)](https://arxiv.org/abs/1905.13706)
+* [Dependent Types are a Runtime Maybe](https://softwaresimply.blogspot.com/2021/08/dependent-types-are-runtime-maybe.html)
+* [Leibniz equality in Haskell, part 1 - Ryan Scott](https://ryanglscott.github.io/2021/08/22/leibniz-equality-in-haskell-part-1/)
+* [How Dependent Haskell Can Improve Industry Projects](https://serokell.io/blog/how-dependent-haskell-can-improve-industry-projects)
+* [Rebecca Skinner - An Introduction to Type Level Programming](https://rebeccaskinner.net/posts/2021-08-25-introduction-to-type-level-programming.html)
 
 > Why use a dependent pair? A part from more advanced uses such as proof construction, online tutorials cite dependent typing as a way to make programs more correct (e.g., avoiding access to zero sized vector). Others say that dependent types allow to describe more precisely the intended behavior of programs. The way I see it is that they can reduce the combinatorial space of cases to consider when building a function.  
 > [Vittorio Zaccaria - Home page](http://www.vittoriozaccaria.net/#/blog/2018/01/27/what-i-whish-i-knew-haskell-and-dependent-pairs.html)

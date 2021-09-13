@@ -28,6 +28,7 @@
 * [Tweag I/O - Here You See the Small Porcupine Perched in Its Tree, Preparing and Crunching Some Data with Me](https://www.tweag.io/posts/2019-10-30-porcupine.html)
 * [datasets: Classical data sets for statistics and machine learning](http://hackage.haskell.org/package/datasets)
 * [Haskell Data Analysis Cookbook](http://haskelldata.com/)
+* [Unit-aware data frames with composite, dimensional and ixset-typed.](https://homotopic.tech/post/unit-aware-data-frames.html)
 
 ## 機械学習
 * [mltool: Machine Learning Toolbox](https://hackage.haskell.org/package/mltool)
@@ -67,6 +68,7 @@
 * [Toy Machine Learning with Haskell - Chris Smith - Medium](https://medium.com/@cdsmithus/toy-machine-learning-with-haskell-b18cd04fb9e1)
 * [Valentin Reis: Multi-Armed Bandits with Haskell / hbandit tutorial](https://freux.fr/posts/hbandit.html)
 * [Performance of Haskell Array libraries through Canny edge detection \| Alexey Kuleshevich](https://alexey.kuleshevi.ch/blog/2020/07/10/canny-benchmarks/)
+* [Cuddly, Octo-Palm Tree: Genetic algorithms](https://cuddly-octo-palm-tree.com/posts/2021-03-21-genetic-search/)
 
 ## 数値計算・可視化
 * [scientific](https://hackage.haskell.org/package/scientific)
@@ -258,6 +260,7 @@ instance Monad Dist where
 * [Variational Autoencoders in Haskell, or: How I Learned to Stop Worrying and Turn My Friends Into Dogs – Declan's learnin' nook](https://www.declanoller.com/2019/11/15/variational-autoencoders-in-haskell-or-how-i-learned-to-stop-worrying-and-turn-my-friends-into-dogs/)
 * [MuniHac 2020: Austin Huang - Hasktorch: Differentiable Functional Programming in Haskell - YouTube](https://www.youtube.com/watch?v=Qu6RIO02m1U&list=PLxxF72uPfQVTfDksvV4KPV5CxKnf0d_X3&index=14)
 * [conal/talk-2018-deep-learning-rebooted: Invited talk for Summer BOB 2019 in Berlin](https://github.com/conal/talk-2018-deep-learning-rebooted)
+* [leopiney/tensor-safe: A Haskell framework to define valid deep learning models and export them to other frameworks like TensorFlow JS or Keras.](https://github.com/leopiney/tensor-safe?utm_source=pocket_mylist)
 
 ### Neural Network
 * [jbarrow/LambdaNet](https://github.com/jbarrow/LambdaNet)

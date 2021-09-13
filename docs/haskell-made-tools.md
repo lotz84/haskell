@@ -93,12 +93,15 @@ $ gifcurry_cli ./in.mp4 ./out.gif start_second duration quality 'Optional top te
 - [github-backup: backs up everything github knows about a repository, to the repository](https://hackage.haskell.org/package/github-backup)
 
 ### givegif
-- コマンドライン上でgifを探して表示できるコマンド
-- [passy/givegif: GIFs on the command line](https://github.com/passy/givegif)
+* コマンドライン上でgifを探して表示できるコマンド
+* [passy/givegif: GIFs on the command line](https://github.com/passy/givegif)
+
+### Glean
+* [Glean \| Glean](https://glean.software/) - System for collecting, deriving and querying facts about source code
 
 ### franz
-- [単純で頑強なメッセージングシステム、franz - モナドとわたしとコモナド](http://fumieval.hatenablog.com/entry/2019/09/07/115437)
-- [tsurucapital/franz: Append-only list persist & query system](https://github.com/tsurucapital/franz)
+* [単純で頑強なメッセージングシステム、franz - モナドとわたしとコモナド](http://fumieval.hatenablog.com/entry/2019/09/07/115437)
+* [tsurucapital/franz: Append-only list persist & query system](https://github.com/tsurucapital/franz)
 
 ### hascard
 * [Yvee1/hascard: flashcard TUI with markdown cards](https://github.com/Yvee1/hascard)

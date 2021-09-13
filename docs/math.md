@@ -12,6 +12,7 @@
 * [Programming in Martin-Lof's Type Theory](http://www.cse.chalmers.se/research/group/logic/book/)
 * [The HoTT Book \| Homotopy Type Theory](https://homotopytypetheory.org/book/)
 * [Programming Language Theory](http://steshaw.org/plt/)
+* [[1911.00580] Introduction to Univalent Foundations of Mathematics with Agda](https://arxiv.org/abs/1911.00580?utm_source=pocket_mylist)
 
 ## 意味論
 * [計算機科学と代数学](http://group-mmm.org/~ichiro/papers/algPLJapaneseJan2014.pdf) - 計算機科学とは？ 意味論とは？
