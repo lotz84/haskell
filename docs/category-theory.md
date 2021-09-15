@@ -39,4 +39,5 @@
 * [Basic Concepts of Enriched Category Theory](http://www.tac.mta.ca/tac/reprints/articles/10/tr10abs.html)
 * [[1501.02503] Coend calculus](https://arxiv.org/abs/1501.02503)
 * [[1803.05316] Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/abs/1803.05316)
+* [Category Theory in Context](https://math.jhu.edu/~eriehl/context.pdf)
 
