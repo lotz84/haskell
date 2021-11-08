@@ -70,6 +70,7 @@ instance Functor f => Monad (Free f) where
 * [Hierarchical Free Monads: Mostly Pointless (And The Resurrection Of Final Tagless)](https://github.com/effectfully/sketches/tree/master/hierarchical-free-monads-mostly-pointless)
 * [Regular Effects](https://ec-jones.github.io/regular-effects.html)
 * [圏論におけるFreeモナド - Qiita](https://qiita.com/karrym/items/41cd9facae3a04d97703)
+* [Cayley Representation of... Monads? - kleczkow.ski](https://kleczkow.ski/cayley-representation-of-monads/)
 
 
 ### Coyoneda

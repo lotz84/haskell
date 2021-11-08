@@ -115,3 +115,4 @@ main = do
 * [Back to old tricks .. (or, baby steps in Rust) – Control.Monad.Writer](https://donsbot.wordpress.com/2020/07/04/back-to-old-tricks-or-baby-steps-in-rust/amp/)
 * [Copilot: home](https://copilot-language.github.io/)
 * [Introduce BIO: A Simple Streaming Abstraction - Z.Haskell](https://z.haskell.world/design/2021/04/20/introduce-BIO-a-simple-streaming-abstraction.html)
+* [Streamly](https://streamly.composewell.com/)

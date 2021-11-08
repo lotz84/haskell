@@ -87,6 +87,7 @@
 * [Optics and Kleisli arrows](https://gist.github.com/serras/5152ec18ec5223b676cc67cac0e99b70)
 * [Composable filters using Witherable optics](https://chrispenner.ca/posts/witherable-optics)
 * [[1805.06798] Generic Deriving of Generic Traversals](https://arxiv.org/abs/1805.06798)
+* [Haskell for all: Optics are monoids](https://www.haskellforall.com/2021/09/optics-are-monoids.html)
 
 ## 圏論
 * [From Lenses to Yoneda Embedding](http://bartoszmilewski.com/2015/07/13/from-lenses-to-yoneda-embedding/)

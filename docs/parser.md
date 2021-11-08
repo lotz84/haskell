@@ -55,6 +55,7 @@ parse = evalStateT
 * [Implementing Co, a Small Interpreted Language With Coroutines #1: The Parser \| abhinavsarkar.net](https://abhinavsarkar.net/posts/implementing-co-1/)
 * [Parsers and Builders as Prisms](https://yairchu.github.io/posts/codecs-as-prisms.html)
 * [Elegant AST Parsing and Building with Prisms](https://yairchu.github.io/posts/codecs-as-prisms-asts.html)
+* [Haskellのsomeを正格評価したら無限ループする話 - 星にゃーんの日記帳](https://takoeight0821.hatenablog.jp/entry/2021/08/29/165851)
 
 #### attoparsec
 * [The attoparsec package](http://hackage.haskell.org/package/attoparsec)
@@ -176,6 +177,7 @@ parse = evalStateT
 * [JSON Parsing from Scratch in Haskell \| abhinavsarkar.net](https://abhinavsarkar.net/posts/json-parsing-from-scratch-in-haskell/)
 * [Generalizing 'jq' and Traversal Systems using optics and standard monads](https://chrispenner.ca/posts/traversal-systems)
 * [JSON Parsing from Scratch in Haskell: Error Reporting \| abhinavsarkar.net](https://abhinavsarkar.net/posts/json-parsing-from-scratch-in-haskell-2/)
+* [CS SYD - JSON Vulnerability in Haskell's Aeson library](https://cs-syd.eu/posts/2021-09-11-json-vulnerability?source=reddit)
 
 ### Others
 * [github/semantic: Parsing, analyzing, and comparing source code across many languages](https://github.com/github/semantic)

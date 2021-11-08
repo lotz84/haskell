@@ -98,6 +98,7 @@ instance Show Bool where
 * [多相からプログラミング言語を見る - 趣味はデバッグ……](https://kakkun61.hatenablog.com/entry/2021/03/18/%E5%A4%9A%E7%9B%B8%E3%81%8B%E3%82%89%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E%E3%82%92%E8%A6%8B%E3%82%8B)
 * [Final tagless encodings have little to do with typeclasses – Foxhound Systems](https://www.foxhound.systems/blog/final-tagless/)
 * [Deconstructing classes - Tweag](https://www.tweag.io/blog/2021-06-23-deconstructing-class/)
+* [Deferred Derivation](https://www.parsonsmatt.org/2021/09/09/deferred_derivation.html)
 
 ## 代数的な型クラス
 * [tower](https://tonyday567.github.io/tower/index.html)
