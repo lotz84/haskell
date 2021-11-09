@@ -110,7 +110,7 @@
 * [Enable All The Warnings – Mercury – Medium](https://medium.com/mercury-bank/enable-all-the-warnings-a0517bc081c3)
 * [GHC Commentary: The Layout of Heap Objects](https://ghc.haskell.org/trac/ghc/wiki/Commentary/Rts/Storage/HeapObjects)
 * [GHC 8.x 勉強会に行ってきた](https://matsubara0507.github.io/posts/2018-12-18-ghc8x.html)
-* [‪Type Theory Behind Glasgow Haskell Compiler Internals : haskell](https://www.reddit.com/r/haskell/comments/a89q1r/type_theory_behind_glasgow_haskell_compiler/)
+* [Type Theory Behind Glasgow Haskell Compiler Internals : haskell](https://www.reddit.com/r/haskell/comments/a89q1r/type_theory_behind_glasgow_haskell_compiler/)
 * [How much space does an 8-bit integer occupy in C and Haskell?](https://ro-che.info/articles/2017-01-25-word8-space)
 * [6 ways to manage allocated memory in Haskell](https://ro-che.info/articles/2017-08-06-manage-allocated-memory-haskell)
 * [Neil Mitchell's Haskell Blog: Announcing ghc-lib](https://neilmitchell.blogspot.com/2019/02/announcing-ghc-lib.html)
@@ -174,7 +174,8 @@
 * [Towards system profiler support for GHC - Well-Typed: The Haskell Consultants](https://well-typed.com/blog/2021/07/ghc-sp-profiling/)
 * [[1806.03476] Type variables in patterns](https://arxiv.org/abs/1806.03476)
 * [Testing an Optimising Compiler by Generating Random Lambda Terms](https://publications.lib.chalmers.se/records/fulltext/157525.pdf)
-* [GHC 9.2の新機能と、GHCの動向2021](https://zenn.dev/mod_poppo/articles/ghc-9-2-and-future)
+* [GHCのバックエンドについて \| 雑記帳](https://blog.miz-ar.info/2021/11/backends-of-ghc/)
+* [Type-checking plugins, Part I: Why write a type-checking plugin? - Tweag](https://www.tweag.io/blog/2021-10-21-tcplugins-1/)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)

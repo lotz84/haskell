@@ -60,3 +60,6 @@
 * [Monads and Effects](https://speakerdeck.com/myuon/monads-and-effects)
 * [sketches/unordered-effects at master · effectfully/sketches](https://github.com/effectfully/sketches/tree/master/unordered-effects)
 * [KingoftheHomeless/in-other-words: A higher-order effect system where the sky's the limit](https://github.com/KingoftheHomeless/in-other-words#readme)
+* [Effect is a phantom \| 喵.世界](https://xn--i2r.xn--rhqv96g/2021/09/14/redundant-constraints/)
+* [[2110.07493] Parallel Algebraic Effect Handlers](https://arxiv.org/abs/2110.07493)
+* [Porting to Polysemy :: Reasonably Polymorphic](https://reasonablypolymorphic.com/blog/porting-to-polysemy/)

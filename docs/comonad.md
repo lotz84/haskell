@@ -126,6 +126,7 @@ instance Comonad Zipper where
 * [Dan Ghica's Blog: Zippers for non-inductive types](http://danghica.blogspot.com/2018/11/zippers-for-non-inductive-types.html)
 * [[1908.10926] Performance Analysis of Zippers](https://arxiv.org/abs/1908.10926)
 * [Zipperとは - Qiita](https://qiita.com/hennin/items/a89ebfecb25272960351)
+* [[2110.07902] Zipping Strategies and Attribute Grammars](https://arxiv.org/abs/2110.07902)
 
 ## コモナドトランスフォーマー
 

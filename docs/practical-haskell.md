@@ -65,6 +65,7 @@ Stack開発の知見が集められたライブラリ
 * [HaskellでもGoみたいにシングルバイナリでアプリケーションをデプロイしたい - Qiita](https://qiita.com/t10471/items/4afa598e1be5d6c7cc1f)
 * [Haskellで超簡単にシングルバイナリを作る - Qiita](https://qiita.com/lambda_funtaro/items/5ac47f83616f8c07d4db)
 * [fugue/fregot: Fugue Rego Toolkit](https://github.com/fugue/fregot)
+* [NoRedInk – Tuning Haskell RTS for Kubernetes, Part 1](https://blog.noredink.com/post/666020751977168896/tuning-haskell-rts-for-kubernetes-part-1)
 
 ### multi-stage builds
 * [Haskell on Docker で Portable CLI を作ろう - Qiita](https://qiita.com/algas/items/fde155abbc9d8ae3f8c9)

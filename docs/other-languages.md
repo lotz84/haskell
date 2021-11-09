@@ -73,6 +73,7 @@
 
 ## LLVM IR
 * [bscarlet/llvm-general](https://github.com/bscarlet/llvm-general)
+* [Making LLVM GEP safer in Haskell](https://luctielen.com/posts/making_llvm_gep_safer_in_haskell/)
 
 ## Lua
 * [HsLua](https://www.haskell.org/haskellwiki/HsLua)

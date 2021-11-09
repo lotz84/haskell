@@ -88,6 +88,7 @@
 * [HaskellでもDirectX12したい！ - Qiita](https://qiita.com/Pctg-x8/items/37bb2a15d33bbe82ceb8)
 * [dmjio/LearnOpenGL.hs: LearnOpenGL.com examples ported to Haskell](https://github.com/dmjio/LearnOpenGL.hs)
 * [EgorDm/fp-pacman: Retro Pacman game in Haskell](https://github.com/EgorDm/fp-pacman)
+* [incoherentsoftware/defect-process: Defect Process (2d hack n' slash game) partial source code](https://github.com/incoherentsoftware/defect-process)
 
 ## Gloss
 * [gloss](http://hackage.haskell.org/package/gloss)

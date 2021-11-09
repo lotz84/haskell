@@ -101,6 +101,7 @@
 * [sortByMを実装して、ぼくの好きなお酒ランキングを作る - Qiita](https://qiita.com/tezca686/items/f6c62caae9cc189a7902)
 * [O(n)時間でソートが終了するバケットソートをHaskellで実装する (1) - Qiita](https://qiita.com/YoshikuniJujo/items/0ffbcc2e6e5dca35f6a0)
 * [O(n)時間でソートが完了するバケットソートをHaskellで実装する (2) - Qiita](https://qiita.com/YoshikuniJujo/items/58a5f9bb2921c14617bb)
+* [Approaching Heapsort via Lazy Mergesort - HackMD](https://hackmd.io/@ranha/heapsort_via_lazymergesort)
 
 ## Queue
 * [bttr/psqueues](https://github.com/bttr/psqueues)
@@ -316,6 +317,7 @@
 * [hashtables](https://hackage.haskell.org/package/hashtables)
 * [The hetero-dict package](http://hackage.haskell.org/package/hetero-dict)
 * [Accidentally-Quadratic HashMaps \| Blog \| jackkelly.name](http://jackkelly.name/blog/archives/2020/10/16/accidentally-quadratic_hashmaps/)
+* [data-map-strict-map-not-strict-map](http://h2.jaguarpaw.co.uk/posts/data-map-strict-map-not-strict-map/)
 
 ## Graph
 * [FP Graph Algorithms](http://begriffs.com/posts/2015-09-04-pure-functional-graphs.html)
@@ -331,7 +333,10 @@
 * [[論文/ライブラリ紹介] Algebraic graphs with class (functional pearl) - Qiita](https://qiita.com/maton/items/f4cd308b1c389661d1e9)
 * [jaspervdj - Dynamic Graphs](https://jaspervdj.be/posts/2019-01-11-dynamic-graphs.html)
 * [alx741/graphite: Haskell graphs and networks library](https://github.com/alx741/graphite#readme)
-- [pkamenarsky/knit: Ties the knot on data structures that reference each other by unique keys](https://github.com/pkamenarsky/knit)
+* [pkamenarsky/knit: Ties the knot on data structures that reference each other by unique keys](https://github.com/pkamenarsky/knit)
+
+## ハッシュ
+* [Hashing Modulo Alpha-Equivalence - Microsoft Research](https://www.microsoft.com/en-us/research/publication/hashing-modulo-alpha-equivalence-2/)
 
 ## Time
 * [time: A time library](http://hackage.haskell.org/package/time)

@@ -255,6 +255,7 @@ swan = #name @= "swan"
 * [Yet another extensible records for Haskell - Qiita](https://qiita.com/autotaker1984/items/8f7e4424bbe46fbd3227)
 * [Forget about lenses, let's all implement array-backed anonymous records for fun](https://blog.monadfix.com/weekend-records)
 * [[1612.08203] Variations on Variants](https://arxiv.org/abs/1612.08203)
+* [Induction without core-size blow-up<br /><small><i>a.k.a. Large records: anonymous edition</i></small> - Well-Typed: The Haskell Consultants](https://well-typed.com/blog/2021/10/large-records-part-2/)
 
 ## 理論
 * [Records are Sheaves of Types.](http://archive.is/0PM3e)

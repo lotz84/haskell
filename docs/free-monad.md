@@ -71,6 +71,7 @@ instance Functor f => Monad (Free f) where
 * [Regular Effects](https://ec-jones.github.io/regular-effects.html)
 * [圏論におけるFreeモナド - Qiita](https://qiita.com/karrym/items/41cd9facae3a04d97703)
 * [Cayley Representation of... Monads? - kleczkow.ski](https://kleczkow.ski/cayley-representation-of-monads/)
+* [Lysxia - Initial and final encodings of free monads](https://blog.poisson.chat/posts/2021-10-20-initial-final-free-monad.html)
 
 
 ### Coyoneda

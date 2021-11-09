@@ -25,6 +25,7 @@ Monad Transformer
 * [モナド変換子 (その3: 課題の解答) - Qiita](https://qiita.com/HirotoShioi/items/6faaf8babb23bb2f3485)
 * [AceHack-Practical Monad Transformers](https://sakshamsharma.com/2018/03/monadt/)
 * [A brief intro to MTL / Jappie](https://jappieklooster.nl/a-brief-intro-to-mtl.html)
+* [Monad Transformers – Part 1: An Introduction](https://rezigned.com/posts/monad-transformers-1/)
 
 ### MonadControl/MonadTransUnlift
 `MonadTrans`の`lift`がモナドをモナドスタックの中で実行できるようにするのとは逆に、モナドスタックをベースとなるモナドの中で実行する仕組みを提供する。

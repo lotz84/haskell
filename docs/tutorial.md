@@ -194,6 +194,7 @@
 * [Functional Programming in Haskell - Graham Hutton](https://www.youtube.com/watch?v=TdpBqhlgqGI&list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3)
 * [Haskell series part 1](https://blog.kalvad.com/haskell-series-part-1/)
 * [What the Industorial Coder Misses](https://drive.google.com/file/d/1B-yHW2b_UPA5dlbepNr7fY9XFKU282yg/view?usp=sharing)
+* [About this book - Learn Haskell by building a blog generator](https://lhbg-book.link/01-about.html)
 
 ## Examples
 

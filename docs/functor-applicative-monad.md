@@ -103,6 +103,7 @@ class Functor f => Applicative f where
 * [The Const Applicative and Monoids · in Code](https://blog.jle.im/entry/const-applicative-and-monoids.html)
 * [Selective applicative functors \| no time](https://blogs.ncl.ac.uk/andreymokhov/selective/) / Applicative と Monad の間
   * [Selective Applicative Functors](https://www.staff.ncl.ac.uk/andrey.mokhov/selective-functors.pdf)
+* [Haskell for all: Co-Applicative programming style](https://www.haskellforall.com/2021/10/co-applicative-programming-style.html)
 
 ### Day convolution
 * [Free Monoidal Functors, Categorically! \|   Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2018/05/16/free-monoidal-functors-categorically/)
@@ -444,6 +445,7 @@ Reader + Writer + State
 * [MonadPlus and Alternative are just near-semirings in the category of endofunctors, what's the problem?](http://tomschrijvers.blogspot.jp/2015/07/monadplus-and-alternative-are-just-near.html)
     * [MonadPlusとNearSemiringで反例探し](http://myuon-myon.hatenablog.com/entry/2015/07/21/225358)
 * [`returnWhen` for MonadPlus](http://athanclark.github.io/posts/2015-08-26-returnWhen-for-MonadPlus.html)
+* [Adventures in Looping](https://blog.drewolson.org/adventures-in-looping)
 
 #### MonadBase
 * [transformars-base](https://hackage.haskell.org/package/transformers-base)

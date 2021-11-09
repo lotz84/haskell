@@ -29,7 +29,7 @@ variance introduced by outliers: 81% (severely inflated)
 ```
 
 ### broch
-- [tekul/broch: OAuth2 and OpenID Connect in Haskell](https://github.com/tekul/broch)
+* [tekul/broch: OAuth2 and OpenID Connect in Haskell](https://github.com/tekul/broch)
 
 ### brok
 * [smallhadroncollider/brok: Find broken links in text documents](https://github.com/smallhadroncollider/brok)
@@ -54,43 +54,43 @@ variance introduced by outliers: 81% (severely inflated)
 * [aviaviavi/curl-runnings: A framework for writing declarative, curl based tests for your APIs](https://github.com/aviaviavi/curl-runnings)
 
 ### Elm
-- [elm](http://elm-lang.org/)
-- [elm+electronで気楽に始めるFRP](http://qiita.com/yasuyuky/items/e28106e3dd7fed17d50f)
-- [Building elm with stack](http://therning.org/magnus/posts/2015-10-13-000-building-elm-with-stack.html)
-- [Elm開発環境について - Qiita](https://qiita.com/sand/items/9afaef65c6f1ebf453da)
-- [elm/compiler: Compiler for Elm, a functional language for reliable webapps.](https://github.com/elm/compiler/)
+* [elm](http://elm-lang.org/)
+* [elm+electronで気楽に始めるFRP](http://qiita.com/yasuyuky/items/e28106e3dd7fed17d50f)
+* [Building elm with stack](http://therning.org/magnus/posts/2015-10-13-000-building-elm-with-stack.html)
+* [Elm開発環境について - Qiita](https://qiita.com/sand/items/9afaef65c6f1ebf453da)
+* [elm/compiler: Compiler for Elm, a functional language for reliable webapps.](https://github.com/elm/compiler/)
 
 ### Ema
 * [Ema – next-gen Haskell static site generator](https://ema.srid.ca/)
 
 ### erd
-- テキストからER図に変換するツール
-- [BurntSushi/erd: Translates a plain text description of a relational database schema to a graphical entity-relationship diagram.](https://github.com/BurntSushi/erd)
+* テキストからER図に変換するツール
+* [BurntSushi/erd: Translates a plain text description of a relational database schema to a graphical entity-relationship diagram.](https://github.com/BurntSushi/erd)
 
 ### gitit
-- [jgm/gitit: A wiki using HAppS, pandoc, and git](https://github.com/jgm/gitit)
-- [Haskell製のWikiエンジン·Gitit MOONGIFT](https://www.moongift.jp/2010/01/gitit/)
+* [jgm/gitit: A wiki using HAppS, pandoc, and git](https://github.com/jgm/gitit)
+* [Haskell製のWikiエンジン·Gitit MOONGIFT](https://www.moongift.jp/2010/01/gitit/)
 
 ### git-annex
 * gitでバイナリファイル等を効率的に扱うツール
 * <https://git-annex.branchable.com/>
-- [peti/git-annex](https://github.com/peti/git-annex)
+* [peti/git-annex](https://github.com/peti/git-annex)
 
 ### gifcurry
-- 動画からテキスト入りのgifを生成するGUIツール。CLIもある
-- [lettier/gifcurry: 😎 The open-source, Haskell-built video editor for GIF makers.](https://github.com/lettier/gifcurry)
+* 動画からテキスト入りのgifを生成するGUIツール。CLIもある
+* [lettier/gifcurry: 😎 The open-source, Haskell-built video editor for GIF makers.](https://github.com/lettier/gifcurry)
 
 ```bash
 $ gifcurry_cli ./in.mp4 ./out.gif start_second duration quality 'Optional top text.' 'Optional bottom text.'
 ```
 
 ### gipeda
-- [nomeata/gipeda: Git Performance Dashboard](https://github.com/nomeata/gipeda)
+* [nomeata/gipeda: Git Performance Dashboard](https://github.com/nomeata/gipeda)
 
 ### github-backup
-- Githubのレポジトリのバックアップを取ってくれるコマンド
-- > including branches, tags, other forks, issues, comments, wikis, milestones, pull requests, watchers, and stars.
-- [github-backup: backs up everything github knows about a repository, to the repository](https://hackage.haskell.org/package/github-backup)
+* Githubのレポジトリのバックアップを取ってくれるコマンド
+* > including branches, tags, other forks, issues, comments, wikis, milestones, pull requests, watchers, and stars.
+* [github-backup: backs up everything github knows about a repository, to the repository](https://hackage.haskell.org/package/github-backup)
 
 ### givegif
 * コマンドライン上でgifを探して表示できるコマンド
@@ -98,6 +98,9 @@ $ gifcurry_cli ./in.mp4 ./out.gif start_second duration quality 'Optional top te
 
 ### Glean
 * [Glean \| Glean](https://glean.software/) - System for collecting, deriving and querying facts about source code
+
+### grace
+* [Gabriel439/grace: A ready-to-fork interpreted functional language with type inference](https://github.com/Gabriel439/grace)
 
 ### franz
 * [単純で頑強なメッセージングシステム、franz - モナドとわたしとコモナド](http://fumieval.hatenablog.com/entry/2019/09/07/115437)
@@ -303,7 +306,7 @@ Line 6:
 ```
 
 ### Simula
-- [SimulaVR/Simula: Linux VR Desktop](https://github.com/SimulaVR/Simula)
+* [SimulaVR/Simula: Linux VR Desktop](https://github.com/SimulaVR/Simula)
 
 ### SimpleX chat
 * [SimpleX chat: private, secure, de-centralised](https://simplex.chat/)
@@ -431,6 +434,9 @@ Most of the stuff here is already unmaintained, but as a tool implementation it 
 
 ### haskell-code-spot
 * [grin-compiler/haskell-code-spot: Visual tool to spot odd runtime behaviour of Haskell programs.](https://github.com/grin-compiler/haskell-code-spot)
+
+### haskell-docs-cli
+* [Browse Hackage from the terminal ⚡ – Marcelo Lazaroni – Developing for the Interwebs](https://lazamar.github.io/haskell-documentation-in-the-command-line/)
 
 ### haskell-tools
 * Developer tools for Haskell
