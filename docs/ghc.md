@@ -174,6 +174,7 @@
 * [Towards system profiler support for GHC - Well-Typed: The Haskell Consultants](https://well-typed.com/blog/2021/07/ghc-sp-profiling/)
 * [[1806.03476] Type variables in patterns](https://arxiv.org/abs/1806.03476)
 * [Testing an Optimising Compiler by Generating Random Lambda Terms](https://publications.lib.chalmers.se/records/fulltext/157525.pdf)
+* [GHC 9.2の新機能と、GHCの動向2021](https://zenn.dev/mod_poppo/articles/ghc-9-2-and-future)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
