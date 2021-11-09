@@ -56,6 +56,7 @@ parse = evalStateT
 * [Parsers and Builders as Prisms](https://yairchu.github.io/posts/codecs-as-prisms.html)
 * [Elegant AST Parsing and Building with Prisms](https://yairchu.github.io/posts/codecs-as-prisms-asts.html)
 * [Haskellのsomeを正格評価したら無限ループする話 - 星にゃーんの日記帳](https://takoeight0821.hatenablog.jp/entry/2021/08/29/165851)
+* [Design patterns for parser combinators (functional pearl) \| Proceedings of the 14th ACM SIGPLAN International Symposium on Haskell](https://dl.acm.org/doi/abs/10.1145/3471874.3472984)
 
 #### attoparsec
 * [The attoparsec package](http://hackage.haskell.org/package/attoparsec)
