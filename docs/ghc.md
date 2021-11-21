@@ -176,6 +176,7 @@
 * [Testing an Optimising Compiler by Generating Random Lambda Terms](https://publications.lib.chalmers.se/records/fulltext/157525.pdf)
 * [GHCのバックエンドについて \| 雑記帳](https://blog.miz-ar.info/2021/11/backends-of-ghc/)
 * [Type-checking plugins, Part I: Why write a type-checking plugin? - Tweag](https://www.tweag.io/blog/2021-10-21-tcplugins-1/)
+* [fumieval/Haskell-breaking-changes](https://github.com/fumieval/Haskell-breaking-changes)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)

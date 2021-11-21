@@ -263,6 +263,7 @@ class Monad m where
 * [Functors and Monads For People Who Have Read Too Many "Tutorials" - iRi](http://www.jerf.org/iri/post/2958)
 * [もう諦めない圏論入門―モノイドからモナドへ― - Qiita](https://qiita.com/norkron/items/aff3ce925edc6be74923)
 * [Monads are just monoids in the category of endofunctors](https://blog.merovius.de/2018/01/08/monads-are-just-monoids.html)
+* [関数型言語におけるMonadクラスはApplicativeを継承するべきなのか？MonadとApplicativeとの関係を再確認する - Qiita](https://qiita.com/nekonibox/items/2f89a17e0e7f4dc14961)
 
 ```haskell
 do x <- mx

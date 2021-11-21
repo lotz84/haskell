@@ -195,6 +195,7 @@
 * [Haskell series part 1](https://blog.kalvad.com/haskell-series-part-1/)
 * [What the Industorial Coder Misses](https://drive.google.com/file/d/1B-yHW2b_UPA5dlbepNr7fY9XFKU282yg/view?usp=sharing)
 * [About this book - Learn Haskell by building a blog generator](https://lhbg-book.link/01-about.html)
+* [A Beginner's Guide to Haskell](https://serras.github.io/haskell-exchange-2021/slides#1)
 
 ## Examples
 
