@@ -173,6 +173,7 @@ uncurry :: (a -> b -> c) -> (a, b) -> c
 * [Being lazy without getting bloated - IOHK Blog](https://iohk.io/en/blog/posts/2020/09/24/being-lazy-without-being-bloated/)
 * [[1502.03216] Simulation in the Call-by-Need Lambda-Calculus with Letrec, Case, Constructors, and Seq](https://arxiv.org/abs/1502.03216)
 * [nested-strict-data](http://h2.jaguarpaw.co.uk/posts/nested-strict-data/)
+* [Make invalid laziness unrepresentable](http://h2.jaguarpaw.co.uk/posts/make-invalid-laziness-unrepresentable/)
 
 > One very interesting comparison is that lazy evaluation is to the CPU what garbage collection is to memory.
 
