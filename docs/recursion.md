@@ -133,6 +133,7 @@ class (Functor t, Foldable t) => Traversable t where
 * [Icicle Lang - Traversals as Optimisations](https://icicle-lang.github.io/posts/2020-09-04-traversals-for-optimisations.html)
 * [Traversable のための圏論](https://github.com/Hexirp/blog/blob/6fef85f770d050c39cd9120d50b93f3fafd5e06e/2019-01-24_Category_Theory_for_Traversable.rst)
 * [関数型言語におけるTraversableとは何か？Functorと比較しながら解説する - Qiita](https://qiita.com/nekonibox/items/ad455f29aa10433509dd)
+* [Too lazy to evaluate - FilterableとWitherableについて](https://viercc.github.io/blog/posts/2021-10-24-witherable-1.html)
 
 #### Distributive
 Distributive is the categorical dual of Traversable.
