@@ -106,6 +106,7 @@ class Foldable t where
 * [たのしい Foldable - Qiita](https://qiita.com/acple@github/items/089ee5707e78fecb5615)
 * [Data.Foldableの正体 - Qiita](https://qiita.com/lotz/items/424abee02fe598c60247)
 * [HaskellのFoldableはどこから来たのか? - Qiita](https://qiita.com/Izawa_/items/1a5d2fd99aa49524db03)
+* [What's That Typeclass: Foldable](https://serokell.io/blog/whats-that-typeclass-foldable)
 
 ### Traversable
 

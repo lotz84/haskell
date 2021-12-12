@@ -35,6 +35,7 @@ Template Haskell はHaskellの言語仕様には無くGHCの独自拡張なの�
 * [Tweag - Haskell dark arts, part I: importing hidden values](https://www.tweag.io/blog/2021-01-07-haskell-dark-arts-part-i/)
 * [Template Haskell Performance Tips](https://www.parsonsmatt.org/2021/07/12/template_haskell_performance_tips.html)
 * [A Short Overview of Typed Template Haskell](https://serokell.io/blog/typed-template-haskell-overview)
+* [A tale of Template Haskell and cross compilation - Tweag](https://www.tweag.io/blog/2020-11-25-asterius-th/)
 
 ```haskell
 {-# LANGUAGE QuasiQuotes #-}

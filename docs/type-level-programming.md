@@ -146,6 +146,7 @@
 * [haskell-handbook/forall.md at master · wasp-lang/haskell-handbook](https://github.com/wasp-lang/haskell-handbook/blob/master/forall.md)
 * [Oleg's gists - Leibniz coercion](https://oleg.fi/gists/posts/2021-09-09-leibniz-coercion.html)
 * [Leibniz equality in Haskell, part 2: heterogeneous equality - Ryan Scott](https://ryanglscott.github.io/2021/09/06/leibniz-equality-in-haskell-part-2-heterogeneous-equality/)
+* [Haskell’s Type System Standing Alone](https://vitez.me/hts-language)
 
 ```haskell
 data Bottom
