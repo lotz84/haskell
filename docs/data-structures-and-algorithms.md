@@ -163,6 +163,7 @@
 * [Capturing Number Theory in Haskell – bor0's blog](https://bor0.wordpress.com/2021/04/05/capturing-number-theory-in-haskell/)
 * [Continued Fractions: Haskell, Equational Reasoning, Property Testing, and Rewrite Rules in Action \| by Chris Smith \| Apr, 2021 \| Medium](https://cdsmithus.medium.com/continued-fractions-haskell-equational-reasoning-property-testing-and-rewrite-rules-in-action-77a16d750e3f)
 * [[1807.11792] Computing Integer Sequences: Filtering vs Generation (Functional Pearl)](https://arxiv.org/abs/1807.11792)
+* [Haskellで自然数から整数を構成する - 置き去りになったメモ](https://yakituka.hateblo.jp/entry/2019/08/13/214734)
 
 ## 実数
 * [Exact Real Arithmetic in Haskell](https://www.youtube.com/watch?v=LJQgYBQFtSE)
