@@ -177,6 +177,8 @@
 * [GHCのバックエンドについて \| 雑記帳](https://blog.miz-ar.info/2021/11/backends-of-ghc/)
 * [Type-checking plugins, Part I: Why write a type-checking plugin? - Tweag](https://www.tweag.io/blog/2021-10-21-tcplugins-1/)
 * [fumieval/Haskell-breaking-changes](https://github.com/fumieval/Haskell-breaking-changes)
+* [GHCのIOマネージャの歴史と僕の苦悩 - あどけない話](https://kazu-yamamoto.hatenablog.jp/entry/2021/12/08/070305)
+* [AndrasKovacs/smalltt: Demo for high-performance type theory elaboration](https://github.com/AndrasKovacs/smalltt#ghc-specific-optimizations)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)

@@ -575,6 +575,7 @@ v A reliable at-least-once job queue built on top of redis. - [The hworker packa
 * [Haskellで作るTUIアプリ - Qiita](https://qiita.com/kwhrstr1206/items/25acf6eb3c43fa901c2a)
 * [Haskell入門のコンソールアプリを作るの備忘録 - Qiita](https://qiita.com/miyatama/items/fd200708da22e7469f27)
 * [How a Java Programmer Wrote Console Tetris In Haskell And What The Learning Curve Was Like](https://shiraeeshi.github.io/console-tetris-in-haskell.html)
+* [brick + vty で TUI パネポンを作ってみる - Qiita](https://qiita.com/maton/items/2f2566eb44bdfed9a6e3)
 
 ### オプションパーサー
 * [HaskellのSystem.Console.ParseArgs](http://yu-i9.hatenablog.com/entry/2014/08/29/135253)

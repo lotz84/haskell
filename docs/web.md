@@ -575,6 +575,7 @@ Protocol
 * [Announcing graphql-api: Haskell library for GraphQL - jml :: Jonathan Lange](https://jml.io/2017/01/graphql-api.html)
   * [graphql-api: Write type-safe GraphQL services in Haskell](http://hackage.haskell.org/package/graphql-api-0.1.1)
 * [Morpheus GraphQL \| Haskell GraphQL library, Build GraphQL APIs with your favourite functional language!](https://morpheusgraphql.com/)
+* [Haskell Morpheus GraphQL で GitHub API を試す](https://matsubara0507.github.io/posts/2021-12-09-use-morpheus-graphql-for-github.html)
 
 ### MQTT
 * [uwitty/mosquitto](https://github.com/uwitty/mosquitto)

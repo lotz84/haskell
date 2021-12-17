@@ -43,6 +43,7 @@
 * [rrnewton/haskell-lockfree](https://github.com/rrnewton/haskell-lockfree)
 * [Assume It Worked and Fix Later – Hacker Noon](https://hackernoon.com/assume-it-worked-and-fix-later-8436d18b7ed3)
 * [[1708.02318] Adaptive Lock-Free Data Structures in Haskell: A General Method for Concurrent Implementation Swapping](https://arxiv.org/abs/1708.02318)
+* [Oath: 安全、高速、合成可能な並行処理 - モナドとわたしとコモナド](https://fumieval.hatenablog.com/entry/2021/12/03/212534)
 
 ### 軽量スレッド
 * [Haskellで並行化する方法: 6秒かかる処理を3秒にしよう](http://qiita.com/eielh/items/64ba5f0164b89c6c284e)

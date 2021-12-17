@@ -262,6 +262,7 @@ ghcupは2020/5/9時点ではWindowsに対応していないので注意してく
 * [Stack cookbook – Haskell – Aelve Guide](https://guide.aelve.com/haskell/stack-cookbook-ai0adh03)
 * [Stackでやる最速Haskell Hello world! (GHCのインストール付き！)](http://qiita.com/igrep/items/da1d8df6d40eb001a561)
 * [Stackを使って楽しくHaskellスクリプティング](http://qiita.com/tanakh/items/1ca4ba9e1f5006a30106)
+* [仕事で使うHaskell](https://zenn.dev/ruicc/articles/58014f5c913a7d)
 * [AceHack-Structuring your first Haskell project with Stack](https://sakshamsharma.com/2018/03/haskell-proj-struct/)
 * [The Cabal/Stack Disambiguation Guide](https://gist.github.com/merijn/8152d561fb8b011f9313c48d876ceb07)
 * [stack/GUIDE.md](https://github.com/commercialhaskell/stack/blob/guide/GUIDE.md)
