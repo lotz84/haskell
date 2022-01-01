@@ -21,6 +21,7 @@
 * [FFI使ってC++バインディングに入門](http://mymo.blog8.fc2.com/blog-entry-52.html)
 * [HaskellからC言語の「値」や「関数形式マクロ」をお手軽に使うための言語拡張CApiFFI - Qiita](https://qiita.com/YoshikuniJujo/items/bba99f7ff0c4a68d6666)
 * [GHC 8.2 以前で FFI を使う際に注意すること - Qiita](https://qiita.com/thimura/items/0d289c231f9aceac61dc)
+* [HaskellからCのライブラリを使う](https://zenn.dev/yoshikuni_jujo/articles/use-c-library)
 
 ### hsc2hs
 * [haskell/hsc2hs: Pre-processor for .hsc files](https://github.com/haskell/hsc2hs)

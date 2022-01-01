@@ -215,6 +215,7 @@ instance Monad Dist where
 * [Differentiating regions](http://conway.rutgers.edu/~ccshan/wiki/blog/posts/Differentiation/)
 * [Haskellで二重数を使って自動微分 - Сегодня я узнал](https://genkami.github.io/2018/03/10/02-dual-number-deriv.html)
 * [o1lo01ol1o/diffhask: DSL for forward and reverse mode automatic differentiation in Haskell. Port of DiffSharp.](https://github.com/o1lo01ol1o/diffhask)
+* [Downhill](https://andriusstank.github.io/downhill/)
 
 ### フォワードモード
 * [自動微分を実装して理解する（前編） - Qiita](https://qiita.com/lotz/items/39c52f08cc9b5d8439ca)

@@ -65,6 +65,7 @@
 * [Haskell Database Implementation - Part 1, Growing a Tree \| Dan Fithian](https://dfithian.github.io/2021/02/15/database-implementation-part-1.html)
 * [Quickstart with Docker - HStreamDB Docs](https://docs.hstream.io/start/quickstart-with-docker/)
 * [形式検証の視点から再確認したいMaybe型/Option型からnull許容データベースへのデータ変換 - Qiita](https://qiita.com/nekonibox/items/fd57bc9ad861642efbd6)
+* [Fast Counting with PostgreSQL and Haskell](https://jezenthomas.com/fast-counting-with-postgresql-and-haskell/)
 
 Simple Clients
 --------------

@@ -56,6 +56,7 @@ parse = evalStateT
 * [Parsers and Builders as Prisms](https://yairchu.github.io/posts/codecs-as-prisms.html)
 * [Elegant AST Parsing and Building with Prisms](https://yairchu.github.io/posts/codecs-as-prisms-asts.html)
 * [Haskellのsomeを正格評価したら無限ループする話 - 星にゃーんの日記帳](https://takoeight0821.hatenablog.jp/entry/2021/08/29/165851)
+* [Parser Combinators in Haskell](https://serokell.io/blog/parser-combinators-in-haskell)
 
 #### attoparsec
 * [The attoparsec package](http://hackage.haskell.org/package/attoparsec)
@@ -227,6 +228,7 @@ parse = evalStateT
 * [Micro C, Part 1: Parsing – Joseph Morag](https://blog.josephmorag.com/posts/mcc1/)
 * [λm.me - Compiling Lisp to JavaScript From Scratch in 350 LOC](https://gilmi.xyz/blog/post/2016/10/14/lisp-to-js)
 * [A tiny computer for Tiny BASIC (17 November 2020)](https://unsafeperform.io/blog/2020-11-17-a_tiny_computer_for_tiny_basic/)
+* [lambda is not a four letter word - Implementing a Functional Language with Graph Reduction](https://thma.github.io/posts/2021-12-27-Implementing-a-functional-language-with-Graph-Reduction.html)
 
 ### Lisp / Scheme
 * [Learn Functional Programming by writing a Scheme in Haskell :: 0x0f0f0f](https://0x0f0f0f.github.io/posts/2019/09/learn-functional-programming-by-writing-a-scheme-in-haskell/)

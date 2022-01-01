@@ -177,6 +177,7 @@ ghcupは2020/5/9時点ではWindowsに対応していないので注意してく
 * [Haskellで外部モジュールを使いたいとき（モジュールimportとパッケージinstall） - Qiita](https://qiita.com/TTsurutani/items/b68956a555747fc3cb0e)
 * [Hackage Search](https://hackage-search.serokell.io/) Hackage を正規表現で検索できるツール
   * [Hackage Search: Regex-Based Online Code Search](https://serokell.io/blog/hackage-search)
+* [Haskell/GHC 記号の意味を検索するためのリファレンス集](https://zenn.dev/takenobu_hs/articles/384ea7b5c09ee4)
 
 ## Haddoc
 * [Continuous Haddocks](https://chromabits.com/posts/2016/07/04/haddock-travis/)
@@ -327,6 +328,7 @@ ghcupは2020/5/9時点ではWindowsに対応していないので注意してく
 * [Casa and Stack](https://tech.fpcomplete.com/blog/casa-and-stack)
 * [a stacker does cabal · tonyday567](https://tonyday567.github.io/posts/burning/)
 * [Chris Dornan - hs](https://chrisdornan.com/posts/2021-07-06-hs.html)
+* [Announcing Stack Lint Extra Deps \| Freckle Education](https://tech.freckle.com/2021/12/17/announcing-stack-lint-extra-deps/)
 
 ### Nix integration
 * [Nix integration - The Haskell Tool Stack](https://docs.haskellstack.org/en/stable/nix_integration/)

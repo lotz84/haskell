@@ -147,6 +147,7 @@
 * [Oleg's gists - Leibniz coercion](https://oleg.fi/gists/posts/2021-09-09-leibniz-coercion.html)
 * [Leibniz equality in Haskell, part 2: heterogeneous equality - Ryan Scott](https://ryanglscott.github.io/2021/09/06/leibniz-equality-in-haskell-part-2-heterogeneous-equality/)
 * [Haskell’s Type System Standing Alone](https://vitez.me/hts-language)
+* [Type-level sharing in Haskell, now - Well-Typed: The Haskell Consultants](https://well-typed.com/blog/2021/12/type-level-sharing-now/)
 
 ```haskell
 data Bottom

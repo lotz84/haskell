@@ -179,6 +179,7 @@
 * [fumieval/Haskell-breaking-changes](https://github.com/fumieval/Haskell-breaking-changes)
 * [GHCのIOマネージャの歴史と僕の苦悩 - あどけない話](https://kazu-yamamoto.hatenablog.jp/entry/2021/12/08/070305)
 * [AndrasKovacs/smalltt: Demo for high-performance type theory elaboration](https://github.com/AndrasKovacs/smalltt#ghc-specific-optimizations)
+* [Notes on distributing cross-platform haskell binaries through Steam](https://incoherentsoftware.com/defect-process/docs/cross-platform-notes.html)
 
 ### GHC API
 * [mvdan/hint](https://github.com/mvdan/hint)
