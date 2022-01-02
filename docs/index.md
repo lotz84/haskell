@@ -46,7 +46,8 @@
     1. [IoT/Mobile](mobile)
     1. [データサイエンス](data-science)
     1. [量子コンピュータ](quantum-computing)
-1. [**プログラミングを支える数学**](math)
+1. **プログラミングを支える数学**
+    1. [証明とプログラムの理論](proof-and-programming)
     1. [ラムダ計算](lambda-calculus)
     1. [領域理論](domain-theory)
     1. [圏論](category-theory)
